@@ -1,11 +1,10 @@
 # AudioAssets
-My music and soundfiles. Files are mostly in open source, e.g. in TuxGuitar tab files.
+My music and soundfiles. Files are in open source formats.
 
 
 ## Instructions
 ### File extensions:
 - .tg files can be opened with TuxGuitar
-- .gp4 and .gp5 can be opened with TuxGuitar, or GuitarPro 4 and later.
 
 
 ### TuxGuitar
