@@ -6,7 +6,7 @@ Songs are sorted to folders based on their original composition year. They show 
 I am still in the process of writing new tabs based on my old notes and recordings. I have +50 songs in the queue.
 
 Songs are usually stubs or construction kits intentionally. The full song can be made by duplicating sections. However, many songs still have missing sections or instruments, as I am still working on them.
-You can contact me if you are interested in any song and want me to finalize it as a full song. I do free collaboration.
+You can contact me if you are interested in any song and want me to finalize it as a full song. I do free collaboration. I also provide paid services for making high quality studio recordings from these songs.
 
 ## Instructions
 ### File extensions:
