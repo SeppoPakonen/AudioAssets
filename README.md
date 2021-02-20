@@ -1,9 +1,12 @@
 # AudioAssets
 These are my music and soundfiles. I have composed allmost all of these songs. Files are in open source formats.
-You are free to use these in any way as long as you give me the credit for original compositions.
+You are free to use these in any way as long as you give me the credit for the original composition.
 
 Songs are sorted to folders based on their original composition year. They show well my learning process. I was 11 years old in 2001, when I started, which should give the perspective.
 I am still in the process of writing new tabs based on my old notes and recordings. I have +50 songs in the queue.
+
+Songs are usually stubs or construction kits intentionally. The full song can be made by duplicating sections. However, many songs still have missing sections, as I am still working on them.
+You can contact me if you are interested in any song and want me to finalize it as a full song. 
 
 ## Instructions
 ### File extensions:
