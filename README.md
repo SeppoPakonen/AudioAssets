@@ -1,6 +1,9 @@
 # AudioAssets
-My music and soundfiles. Files are in open source formats.
+These are my music and soundfiles. I have composed allmost all of these songs. Files are in open source formats.
+You are free to use these in any way as long as you give me the credit for original compositions.
 
+Songs are sorted to folders based on their original composition year. They show well my learning process. I was 11 years old in 2001, when I started, which should give the perspective.
+I am still in the process of writing new tabs based on my old notes and recordings. I have +50 songs in the queue.
 
 ## Instructions
 ### File extensions:
