@@ -259,7 +259,7 @@ void Generator::Export() {
 			  << "	       </div>\n\n\n";
 			
 			String year = IntStr(d.date.year);
-			String img = song_dir_to_root + "images/tab-default.jpg";
+			String img = "images/tab-default.jpg";
 			
 			s.Replace("${ITEM_URL}", page_url);
 			s.Replace("${ITEM_IMG}", img);
