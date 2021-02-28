@@ -1,0 +1,13 @@
+description "Generates a website for listening songs from tuxguitar tabulatures.\377";
+
+uses
+	Core;
+
+file
+	pubinfo.txt,
+	WebsiteGenerator.h,
+	WebsiteGenerator.cpp;
+
+mainconfig
+	"" = "";
+

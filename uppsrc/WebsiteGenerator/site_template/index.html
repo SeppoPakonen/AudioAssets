@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>${TITLE}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="${DESCRIPTION}">
+	<meta name="keywords" content="Tab, TuxGuitar, Share Tabs, P2P, Rock Tabs, Pop Tabs, Share Music, Listen Music, Music Online, mp3, tablaturas, compartir tablaturas, tablaturas tuxguitar, tg, gp3, gp4, gp5, tablature editor, tuxguitar online, tuxguitar applet, tuxguitar jnlp, jnlp, tuxguitar download, tuxguitar tablatures, tablatures, tuxguitar tablature, guitar lessons, guitar tablatures, bass lessons, bass tablatures, drums, guitarra, bajo, bateria, Guitar Pro, Tablaturas guitar pro, guitar pro tablatures">
+   
+   <link rel="stylesheet" href="${SONGDIRTOROOT}css/style.css">
+   <script src="${SONGDIRTOROOT}content/osd.js"></script>
+   <script src="${SONGDIRTOROOT}content/cookie.js"></script>
+   <script src="${SONGDIRTOROOT}content/jquery-3.js"></script>
+   <script src="${SONGDIRTOROOT}content/jquery-migrate-1.js"></script>
+   <script src="${SONGDIRTOROOT}content/jquery_002.js"></script>
+   <script src="${SONGDIRTOROOT}content/scroll_to_top.js"></script>
+   <script src="${SONGDIRTOROOT}content/script.js"></script>
+   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=0">
+   <script src="${SONGDIRTOROOT}content/jquery_003.js"></script>
+   <script src="${SONGDIRTOROOT}content/superfish.js"></script>
+      <script src="${SONGDIRTOROOT}content/touchTouch.js"></script>
+   <script src="${SONGDIRTOROOT}content/jquery.js"></script>
+   <script src="${SONGDIRTOROOT}content/tmStickUp.js"></script>
+   <script src="${SONGDIRTOROOT}content/jquery_004.js"></script>
+
+   <!-- font-awesome font -->
+   <link rel="stylesheet" href="${SONGDIRTOROOT}content/font-awesome.css" type="text/css" media="screen">
+   <!-- fontello font -->
+  
+      
+   <script src="${SONGDIRTOROOT}content/owl.js"></script> 
+   <script>
+       $(document).ready(function(){
+        /*carousel*/
+        var owl = $("#owl1"); 
+            owl.owlCarousel({
+            items : 1, //10 items above 1000px browser width
+            itemsDesktop : [995,1], //5 items between 1000px and 901px
+            itemsDesktopSmall : [767, 1], // betweem 900px and 601px
+            itemsTablet: [700, 1], //2 items between 600 and 0
+            itemsMobile : [479, 1], // itemsMobile disabled - inherit from itemsTablet option
+            navigation : true,
+            pagination :  false
+            });  
+     }); 
+
+//      $(window).on('load', function () {
+//            $(function() {$("a.various").fancybox();});
+//      });
+/*
+String.prototype.toHHMMSS = function () {
+    var sec_num = parseInt(this, 10); // don't forget the second param
+    var hours   = Math.floor(sec_num / 3600);
+    var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+    var seconds = sec_num - (hours * 3600) - (minutes * 60);
+
+    if (hours   < 10) {hours   = "0"+hours;}
+    if (minutes < 10) {minutes = "0"+minutes;}
+    if (seconds < 10) {seconds = "0"+seconds;}
+    return hours+':'+minutes+':'+seconds;
+}
+*/
+   </script>
+
+
+    <!--[if lt IE 8]>
+     <div style=' clear: both; text-align:center; position: relative;'>
+      <a href="https://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+        <img src="https://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+      </a>
+    </div>
+   <![endif]-->
+   <!--[if lt IE 9]>
+      <script src="/js/html5shiv.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/ie.css">
+   <![endif]-->
+   
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="${SONGDIRTOROOT}content/js.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-89032739-2');
+</script>
+</head>
+<body>
+<div id="betaflag" style="position:absolute;left:0px;top:0px;height:105px;width:158px;z-index: 10"><img src="${SONGDIRTOROOT}content/beta.jpg" width="158" height="105"></div>
+<!--button back top-->
+<div id="back-top"><i class="fa fa-arrow-up"></i></div>    
+<div class="main">
+   <div class="div-content">
+  
+      <header>
+         
+<div class="top_section">
+ <div class="container">
+   <div class="row">
+     <div class="grid_3">
+       <h1><a href="${ROOTADDR}"><img src="${SONGDIRTOROOT}content/logo.jpg" alt="${AUTHOR}"></a></h1>
+     </div>
+     <div class="grid_6">
+        </div>
+     <div class="grid_3">
+        </div>
+   </div>
+ </div>
+</div>
+
+
+<div id="stuck_container">
+  <div class="menu_holder">
+    <div class="container">
+      <div class="row">
+        <div class="grid_12">
+          <nav>
+            <ul class="sf-menu header_menu sf-js-enabled">
+            
+               <li class="current" id="first-li"><a href="${ROOTADDR}">Home<strong></strong></a></li>
+
+               </li><li><a href="http://www.tuxguitar.com.ar/" class="sf-with-ul"><span></span>TuxGuitar<strong></strong><span class="sf-sub-indicator"></span></a>
+                  <ul class="submenu" style="display: none; visibility: hidden;">
+                     <li><a href="http://www.tuxguitar.com.ar/download.html">Download<strong></strong></a></li>
+                     <li><a href="http://www.tuxguitar.com.ar/forums.html">Forums<strong></strong></a></li>
+                  </ul>
+               </li>
+             </ul>
+          </nav>
+
+          <a href="${MOREURL}" class="more_btn_header"><span class="more_arr1"></span>${MOREMSG}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>      </header>
+  
+      <!--=======content================================-->
+  
+      
+
+
+<!--script src="/js/jquery.isotope.js"></script-->
+<script>
+
+jQuery(window).on('load', function () {
+      /*
+      var jQuerycontainer = jQuery('.isotope .container');
+      //Run to initialise column sizes
+      updateSize();
+
+      var $container = $('.isotope .container');
+      //Load masonry when images all loaded
+      jQuerycontainer.imagesLoaded( function(){
+            jQuerycontainer.isotope({
+                  // options
+                  itemSelector : '.item',  
+                  layoutMode : 'masonry',
+                  transformsEnabled: false,
+                  columnWidth: function( containerWidth ) {
+                        containerWidth = jQuerybrowserWidth;
+                        return Math.floor(containerWidth / jQuerycols);
+                     }
+            });
+      });
+      */
+      /*
+      var $optionSets = $('#filters li'),
+         $optionLinks = $optionSets.find('a');
+         $optionLinks.click(function(){
+            var $this = $(this);
+            // don't proceed if already selected
+            if ( $this.hasClass('selected') ) {
+               return false;
+            }
+            var $optionSet = $this.parents('#filters');
+            $optionSet.find('.selected').removeClass('selected');
+            $this.addClass('selected');
+         });
+      */
+            // update columnWidth on window resize
+            /*
+      jQuery(window).smartresize(function(){  
+            updateSize();
+        //    jQuerycontainer.isotope( 'reLayout' );
+      });
+      */
+
+      
+      //Set item size
+      function updateSize() {
+            jQuerybrowserWidth = jQuerycontainer.width();
+            jQuerycols = 4;
+
+            if (jQuerybrowserWidth >= 1200) {
+                  jQuerycols = 4;
+            }
+            else if (jQuerybrowserWidth >= 768 && jQuerybrowserWidth < 1200) {
+                  jQuerycols = 4;
+            }
+            else if (jQuerybrowserWidth >= 420 && jQuerybrowserWidth < 768) {
+                  jQuerycols = 1;
+            }
+            else if (jQuerybrowserWidth < 420) {
+                  jQuerycols = 1;
+            }
+
+            //console.log("Browser width is:" + jQuerybrowserWidth);
+            //console.log("Cols is:" + jQuerycols);
+
+            // jQuerygutterTotal = jQuerycols * 20;
+            jQuerybrowserWidth = jQuerybrowserWidth; // - jQuerygutterTotal;
+            jQueryitemWidth = jQuerybrowserWidth / jQuerycols;
+            jQueryitemWidth = Math.floor(jQueryitemWidth);
+
+            jQuery(".item").each(function(index){
+                  jQuery(this).css({"width":jQueryitemWidth+"px"});             
+            });
+      };
+
+      // filter items when filter link is clicked
+      /*
+      $('#filters a').click(function(){
+         var selector = $(this).attr('data-filter');
+         $container.isotope({ filter: selector });
+         return false;
+      });*/
+});
+    
+</script>
+
+
+
+
+
+
+
+
+
+
+
+  <div class="container">
+    <div class="row">
+
+      <div class="row isotope">
+        <div class="">
+                   
+          <div class="container clearfix isotope" style="position: relative; overflow: hidden; width: 1172px;">
+               
+
+${CONTENT}
+       
+      
+        
+            <div style="clear:both;height: 20px"></div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+    
+
+
+   </div>
+   
+</div>
+<!--=======footer=================================-->
+
+
+
+    <!--  <div class="box-1 v2">-->
+
+      <div class="container">
+        <div class="row">
+
+        </div>
+      </div>
+
+<!--</div>-->
+      <footer>
+        <div class="footer_priv">
+          <div class="container">
+            <p class="txt_priv">© <span id="copyright-year">${CUR_YEAR}</span> 
+               </p>
+          </div>
+        </div>
+      </footer>
+
+
+	
+<script type="text/javascript">
+
+
+   $(document).ready(function(){
+    // Initialize the gallery
+    $('.magnifier2').touchTouch();
+   });
+
+
+   function myFocus(element){
+           if (element.value == element.defaultValue){
+               element.focus();
+               element.value = '';
+           }
+        }
+        function myBlur(element){
+           if (element.value == ''){
+               element.blur();
+               element.value = element.defaultValue;
+           }
+        }
+
+
+        $('.lightbox-video').hover(
+            function(){
+                $(this).find("span.video_icon").stop().animate({opacity:'1'},400)
+            },
+            function(){
+                $(this).find("span.video_icon").stop().animate({opacity:'0'},400)
+            }
+        )
+
+
+
+</script>
+		
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap" class="fancybox-ie"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div id="galleryOverlay" style="display: none;"><div id="gallerySlider"></div><a id="prevArrow"></a><a id="nextArrow"></a></div>
+</body></html>
