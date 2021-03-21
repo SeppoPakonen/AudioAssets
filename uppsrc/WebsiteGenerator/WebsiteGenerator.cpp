@@ -22,12 +22,11 @@ void FindRecursively(String dir, Vector<String>& files) {
 
 Generator::Generator() {
 	author = "Seppo Pakonen";
+	export_dir = "/home/sblo/upphub/AudioAssets/docs/";
 	if (0) {
-		export_dir = "/var/www/simple/";
 		root_addr = "http://127.0.0.1";
 	}
 	else {
-		export_dir = "/home/sblo/upphub/AudioAssets/docs/";
 		root_addr = "https://sppp.github.io/AudioAssets";
 	}
 	description = "Music composed by " + author;
