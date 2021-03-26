@@ -61,6 +61,7 @@ struct Generator {
 	String song_dir;
 	String upphub_dir;
 	String src_tg_dir;
+	String keywords;
 	
 	Generator();
 	

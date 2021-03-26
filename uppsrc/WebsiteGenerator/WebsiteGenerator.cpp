@@ -51,6 +51,7 @@ Generator::Generator() {
 	song_dir = AppendFileName(export_dir, "song");
 	upphub_dir = GetHomeDirFile("upphub");
 	src_tg_dir = upphub_dir + DIR_SEPS + "tmp" + DIR_SEPS + "converted";
+	keywords = "finnish composer, finnish guitarist, sydämen asialla, pms, seppo p, oululainen säveltäjä, nordic composer, popular";
 }
 
 String Generator::GetCleanName(const Data& d) {
@@ -223,6 +224,7 @@ void Generator::Export() {
 		s.Replace("${TABCOUNT}", IntStr(data.GetCount()));
 		s.Replace("${DATETIME}", timestr);
 		s.Replace("${DATETIME_ROUNDED}", timestr_rounded);
+		s.Replace("${KEYWORDS}", keywords);
 		
 		s.Replace("${CUR_YEAR}", IntStr(now.year));
 		
@@ -334,6 +336,7 @@ void Generator::Export() {
 		String tmpl_path = GetDataFile("site_template") + DIR_SEPS + "index.html";
 		String s = LoadFile(tmpl_path);
 		
+		s.Replace("${KEYWORDS}", keywords);
 		s.Replace("${TITLE}", description);
 		s.Replace("${SONGDIRTOROOT}", song_dir_to_root);
 		s.Replace("${ROOTADDR}", root_addr);
