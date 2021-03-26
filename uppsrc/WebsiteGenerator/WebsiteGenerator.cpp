@@ -51,7 +51,13 @@ Generator::Generator() {
 	song_dir = AppendFileName(export_dir, "song");
 	upphub_dir = GetHomeDirFile("upphub");
 	src_tg_dir = upphub_dir + DIR_SEPS + "tmp" + DIR_SEPS + "converted";
-	keywords = "finnish composer, finnish guitarist, sydämen asialla, pms, en tahtonut tapella, seppo p, oululainen säveltäjä, nordic composer, popular, vaikeat ajat, prio, pohjantähti, pohjantahti, hei tyttö, suomihiphop, mikseri.net, rakkauden aika, sana";
+	keywords =
+		"finnish composer, finnish guitarist, sydämen asialla, pms, en tahtonut tapella, seppo p, suomalainen säveltäjä, "
+		"oululainen säveltäjä, artisti, kitaristi, oululainen kitaristi, nordic composer, popular, vaikeat ajat, prio, "
+		"pohjantähti, pohjantahti, hei tyttö, suomihiphop, mikseri.net, rakkauden aika, sana, ilmaista musiikkia, "
+		"free music, libre, tabulatuuri, tabulatuureja, kitaratabulatuuri, tabeja, aloittelija, kitaransoitto ohje, "
+		"kitaraopettaja, basso-opettaja, rumpuopettaja, rumputabulatuuri, bassotabulatuuri, ilmainen kitaranopetus, "
+		"bassonopetus, free guitar teaching, free bass teaching, oululainen kitaranopetus";
 }
 
 String Generator::GetCleanName(const Data& d) {
