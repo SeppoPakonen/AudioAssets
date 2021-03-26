@@ -22,12 +22,27 @@ void FindRecursively(String dir, Vector<String>& files) {
 
 Generator::Generator() {
 	author = "Seppo Pakonen";
-	export_dir = "/home/sblo/upphub/AudioAssets/docs/";
 	if (0) {
-		root_addr = "http://127.0.0.1";
+		sitemap_dir = "/home/sblo/apache/";
+		export_dir = "/home/sblo/apache/AudioAssets/";
+		if (0) {
+			sitemap_root_addr = root_addr = "http://127.0.0.1";
+		}
+		else {
+			sitemap_root_addr = "http://seppopakonen.nethub.fi/";
+			root_addr = "http://seppopakonen.nethub.fi/AudioAssets";
+		}
 	}
 	else {
-		root_addr = "https://sppp.github.io/AudioAssets";
+		sitemap_dir = "/home/sblo/upphub/sppp.github.io/";
+		export_dir = "/home/sblo/upphub/AudioAssets/docs/";
+		if (0) {
+			sitemap_root_addr = root_addr = "http://127.0.0.1";
+		}
+		else {
+			sitemap_root_addr = "https://sppp.github.io/";
+			root_addr = "https://sppp.github.io/AudioAssets";
+		}
 	}
 	description = "Music composed by " + author;
 	more_url = "https://github.com/sppp/AudioAssets";
@@ -148,6 +163,33 @@ void Generator::Export() {
 	
 	String front_html;
 	
+	
+	String lastmod = Format("%04d-%02d-%02d`T%02d:%02d:%02d`+00:00",
+		(int)now.year,
+		(int)now.month,
+		(int)now.day,
+		(int)now.hour,
+		(int)now.minute,
+		(int)now.second);
+	
+	String sitemap_txt_out = AppendFileName(sitemap_dir, "audioassets-sitemap.txt");
+	String sitemap_out = AppendFileName(sitemap_dir, "audioassets-sitemap.xml");
+	FileOut sitemap_txt_fout(sitemap_txt_out);
+	FileOut sitemap_fout(sitemap_out);
+	
+	sitemap_txt_fout << sitemap_root_addr + "\n";
+    sitemap_txt_fout << root_addr + "\n";
+    
+	sitemap_fout << "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"" + sitemap_root_addr + "main-sitemap.xsl\"?>\n<urlset xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:image=\"http://www.google.com/schemas/sitemap-image/1.1\" xsi:schemaLocation=\"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n";
+	sitemap_fout << "<url>\n";
+    sitemap_fout << "\t<loc>" + sitemap_root_addr + "</loc>\n";
+    sitemap_fout << "\t<lastmod>" + lastmod + "</lastmod>\n";
+    sitemap_fout << "</url>\n";
+	sitemap_fout << "<url>\n";
+    sitemap_fout << "\t<loc>" + root_addr + "</loc>\n";
+    sitemap_fout << "\t<lastmod>" + lastmod + "</lastmod>\n";
+    sitemap_fout << "</url>\n";
+
 	idx = 0;
 	for(Data& d : data) {
 		String s = tmpl;
@@ -269,9 +311,21 @@ void Generator::Export() {
 			
 			front_html = s + "\n\n" + front_html;
 		}
+		
+		// Sitemap
+		{
+			sitemap_txt_fout << page_url + "\n";
+			
+			sitemap_fout << "<url>\n";
+	        sitemap_fout << "\t<loc>" + page_url + "</loc>\n";
+	        sitemap_fout << "\t<lastmod>" + lastmod + "</lastmod>\n";
+	        sitemap_fout << "</url>\n";
+		}
        
 		idx++;
 	}
+	
+	sitemap_fout << "</urlset>\n";
 	
 	
 	
@@ -297,6 +351,8 @@ void Generator::Export() {
 		fout << s;
 		fout.Close();
 	}
+	
+	
 }
 
 CONSOLE_APP_MAIN {

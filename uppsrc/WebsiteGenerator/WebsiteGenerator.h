@@ -50,7 +50,9 @@ struct Generator {
 	Vector<int> fresh_list;
 	
 	String author;
+	String sitemap_dir;
 	String export_dir;
+	String sitemap_root_addr;
 	String root_addr;
 	String description;
 	String more_url;
