@@ -6,7 +6,9 @@ uses
 file
 	pubinfo.txt,
 	WebsiteGenerator.h,
-	WebsiteGenerator.cpp;
+	WebsiteGenerator.cpp,
+	song_template/index.htm,
+	site_template/index.html;
 
 mainconfig
 	"" = "";
