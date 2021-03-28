@@ -57,7 +57,7 @@ Generator::Generator() {
 		"pohjantähti, pohjantahti, hei tyttö, suomihiphop, mikseri.net, rakkauden aika, sana, ilmaista musiikkia, "
 		"free music, libre, tabulatuuri, tabulatuureja, kitaratabulatuuri, tabeja, aloittelija, kitaransoitto ohje, "
 		"kitaraopettaja, basso-opettaja, rumpuopettaja, rumputabulatuuri, bassotabulatuuri, ilmainen kitaranopetus, "
-		"bassonopetus, free guitar teaching, free bass teaching, oululainen kitaranopetus";
+		"bassonopetus, free guitar teaching, free bass teaching, oululainen kitaranopetus, online kitaranopetus";
 }
 
 String Generator::GetCleanName(const Data& d) {
