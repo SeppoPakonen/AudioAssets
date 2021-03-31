@@ -171,15 +171,6 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "teen story - a",
-		"Description": "",
-		"Tags": "",
-		"Date": "20050101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
 		"Filename": "teen story - b",
 		"Description": "",
 		"Tags": "",
@@ -297,7 +288,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "it could be so",
+		"Filename": "stupid",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
@@ -594,7 +585,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "dancing song",
+		"Filename": "it could be so",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
@@ -603,7 +594,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "stupid",
+		"Filename": "dancing song",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
@@ -702,15 +693,6 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "i'll find something - a",
-		"Description": "",
-		"Tags": "",
-		"Date": "20080101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
 		"Filename": "may I - a",
 		"Description": "",
 		"Tags": "",
@@ -720,7 +702,16 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "may I - b",
+		"Filename": "haiku",
+		"Description": "",
+		"Tags": "",
+		"Date": "20080101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "public square",
 		"Description": "",
 		"Tags": "",
 		"Date": "20080101",
@@ -730,15 +721,6 @@
 	},
 	{
 		"Filename": "not so pet sematary",
-		"Description": "",
-		"Tags": "",
-		"Date": "20080101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "haiku",
 		"Description": "",
 		"Tags": "",
 		"Date": "20080101",
@@ -765,7 +747,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "yage",
+		"Filename": "may I - b",
 		"Description": "",
 		"Tags": "",
 		"Date": "20080101",
@@ -774,7 +756,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "public square",
+		"Filename": "yage",
 		"Description": "",
 		"Tags": "",
 		"Date": "20080101",
@@ -802,6 +784,15 @@
 	},
 	{
 		"Filename": "more beer",
+		"Description": "",
+		"Tags": "",
+		"Date": "20080101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "i'll find something - a",
 		"Description": "",
 		"Tags": "",
 		"Date": "20080101",
@@ -900,7 +891,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "Hometown (Oulu)",
+		"Filename": "sofia",
 		"Description": "",
 		"Tags": "",
 		"Date": "20100101",
@@ -918,7 +909,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "sofia",
+		"Filename": "Hometown (Oulu)",
 		"Description": "",
 		"Tags": "",
 		"Date": "20100101",
@@ -927,16 +918,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "truthsync",
-		"Description": "",
-		"Tags": "",
-		"Date": "20110101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "india",
+		"Filename": "tradfinnish",
 		"Description": "",
 		"Tags": "",
 		"Date": "20110101",
@@ -954,7 +936,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "tradfinnish",
+		"Filename": "risks and profits",
 		"Description": "",
 		"Tags": "",
 		"Date": "20110101",
@@ -963,7 +945,16 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "risks and profits",
+		"Filename": "india",
+		"Description": "",
+		"Tags": "",
+		"Date": "20110101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "truthsync",
 		"Description": "",
 		"Tags": "",
 		"Date": "20110101",
@@ -981,7 +972,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "bicycling feeling",
+		"Filename": "summer 2012 (yage)",
 		"Description": "",
 		"Tags": "",
 		"Date": "20120101",
@@ -990,7 +981,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "summer 2012 (yage)",
+		"Filename": "bicycling feeling",
 		"Description": "",
 		"Tags": "",
 		"Date": "20120101",
@@ -1008,7 +999,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "mystery",
+		"Filename": "sum of goodbyes",
 		"Description": "",
 		"Tags": "",
 		"Date": "20130101",
@@ -1026,7 +1017,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "sum of goodbyes",
+		"Filename": "mystery",
 		"Description": "",
 		"Tags": "",
 		"Date": "20130101",
@@ -1062,7 +1053,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "stronger",
+		"Filename": "graduation",
 		"Description": "",
 		"Tags": "",
 		"Date": "20150101",
@@ -1071,7 +1062,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "graduation",
+		"Filename": "stronger",
 		"Description": "",
 		"Tags": "",
 		"Date": "20150101",
@@ -1098,7 +1089,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "AAFC AAFA AAFC ADEA DDEE",
+		"Filename": "FFFG AAAC",
 		"Description": "",
 		"Tags": "",
 		"Date": "20170101",
@@ -1107,7 +1098,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "FFFG AAAC",
+		"Filename": "AAFC AAFA AAFC ADEA DDEE",
 		"Description": "",
 		"Tags": "",
 		"Date": "20170101",
@@ -1170,7 +1161,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "GGFA",
+		"Filename": "revisited - twisted loneliness",
 		"Description": "",
 		"Tags": "",
 		"Date": "20200101",
@@ -1180,6 +1171,15 @@
 	},
 	{
 		"Filename": "lightweight",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "GGFA",
 		"Description": "",
 		"Tags": "",
 		"Date": "20200101",
@@ -1224,16 +1224,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "revisited - twisted loneliness",
-		"Description": "",
-		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "november",
+		"Filename": "FFCGAA",
 		"Description": "",
 		"Tags": "",
 		"Date": "20200101",
@@ -1251,7 +1242,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "FFCGAA",
+		"Filename": "november",
 		"Description": "",
 		"Tags": "",
 		"Date": "20200101",
@@ -1260,7 +1251,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "jab",
+		"Filename": "revisited - risks and profits",
 		"Description": "",
 		"Tags": "",
 		"Date": "20210101",
@@ -1270,6 +1261,15 @@
 	},
 	{
 		"Filename": "saturday show",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "revisited - nightmares",
 		"Description": "",
 		"Tags": "",
 		"Date": "20210101",
@@ -1296,16 +1296,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "going down",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "revisited - risks and profits",
+		"Filename": "jab",
 		"Description": "",
 		"Tags": "",
 		"Date": "20210101",
@@ -1315,6 +1306,24 @@
 	},
 	{
 		"Filename": "it is what",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "going down",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "restless cinderella",
 		"Description": "",
 		"Tags": "",
 		"Date": "20210101",

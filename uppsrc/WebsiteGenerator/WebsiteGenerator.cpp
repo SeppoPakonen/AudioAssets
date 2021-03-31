@@ -22,7 +22,7 @@ void FindRecursively(String dir, Vector<String>& files) {
 
 Generator::Generator() {
 	author = "Seppo Pakonen";
-	if (1) {
+	if (0) {
 		sitemap_dir = "/home/sblo/apache/";
 		export_dir = "/home/sblo/apache/AudioAssets/";
 		if (0) {
