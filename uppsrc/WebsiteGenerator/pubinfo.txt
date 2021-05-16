@@ -1375,5 +1375,14 @@
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
-	}
+	},
+	{
+		"Filename": "funk19",
+		"Description": "",
+		"Tags": "",
+		"Date": "20190101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
 ]
