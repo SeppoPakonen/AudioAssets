@@ -1447,5 +1447,14 @@
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
-	}
+	},
+	{
+		"Filename": "summer 2021 - skin trance",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210611",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
 ]
