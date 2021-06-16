@@ -303,7 +303,7 @@ void Generator::Export() {
 			  << "	      </figure>\n"
 			  << "	      <p class=\"\">\n"
 			  << "	         ${ITEM_TITLE} <br>\n"
-			  << "	            Published on ${DATE_ROUNDED} </p>\n"
+			  << "	            Created on ${DATE_ROUNDED} </p>\n"
 			  << "	              </div>\n"
 			  << "	       </div>\n\n\n";
 			

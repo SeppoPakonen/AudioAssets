@@ -3,8 +3,9 @@
 ## [Listen in a web browser](https://sppp.github.io/AudioAssets/)
 
 These are my music and soundfiles. I have composed allmost all of these songs. Files are in open source formats.
-You are free to use these in any way as long as you give me the credit for the original composition.
-Also, **you may not register your derivative works to content-match services**, because it might prevent others re-using these.
+
+Usage is permitted under "Attribution-NonCommercial-ShareAlike 4.0 International" license.
+Please contact me for commercial usage.
 
 Songs are sorted to folders based on their original composition year. They show well my learning process. I was 11 years old in 2001, when I started, which should give the perspective.
 I am still in the process of writing new tabs based on my old notes and recordings. I have +50 songs in the queue.
