@@ -8,7 +8,9 @@ void FindRecursively(String dir, Vector<String>& files) {
 		do {
 			String path = ff.GetPath();
 			String title = GetFileName(path);
-			if (title.Left(1) != ".") {
+			if (title.Find("template_basic_rock") < 0 &&
+				title != "trashbin" &&
+				title.Left(1) != ".") {
 				if (ff.IsDirectory())
 					FindRecursively(path, files);
 				else if (GetFileExt(path) == ".tg")

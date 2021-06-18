@@ -333,15 +333,6 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "answermachine - d",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
 		"Filename": "sad love",
 		"Description": "",
 		"Tags": "",
@@ -531,15 +522,6 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "answermachine - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
 		"Filename": "70s vibe",
 		"Description": "",
 		"Tags": "",
@@ -604,15 +586,6 @@
 	},
 	{
 		"Filename": "monsters",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "answermachine - c",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
@@ -1462,6 +1435,24 @@
 		"Description": "",
 		"Tags": "",
 		"Date": "20170101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "tension",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060201",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "answermachine",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
