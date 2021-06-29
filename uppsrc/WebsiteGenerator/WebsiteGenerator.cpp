@@ -142,7 +142,7 @@ void Generator::Export() {
 	}
 	
 	LoadFromJsonFile(data, out);
-	Sort(data, Data());
+	Sort(data, DataDateSorter());
 	
 	
 	int idx = 0;
@@ -164,7 +164,7 @@ void Generator::Export() {
 		fresh_list << data[i].idx;
 	
 	// Restore default sorting
-	Sort(data, Data());
+	Sort(data, DataDateSorter());
 	
 	Time now = GetSysTime();
 	String tmpl_path = GetDataFile("song_template") + DIR_SEPS + "index.htm";
