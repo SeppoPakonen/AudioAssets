@@ -1,0 +1,19 @@
+description "Very simple music video timeline editor\377";
+
+uses
+	CtrlLib,
+	plugin/jpg,
+	plugin/gif;
+
+file
+	main.cpp,
+	VideoMocker.h,
+	VideoMocker.cpp,
+	VideoMocker.lay,
+	VideoMocker.iml,
+	Project.h,
+	Project.cpp;
+
+mainconfig
+	"" = "GUI";
+
