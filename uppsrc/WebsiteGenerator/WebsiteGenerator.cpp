@@ -24,28 +24,17 @@ void FindRecursively(String dir, Vector<String>& files) {
 
 Generator::Generator() {
 	author = "Seppo Pakonen";
+	
+	sitemap_dir = "/home/sblo/sppp/";
+	export_dir = "/home/sblo/sppp/AudioAssets/";
 	if (0) {
-		sitemap_dir = "/home/sblo/sppp/";
-		export_dir = "/home/sblo/sppp/AudioAssets/";
-		if (0) {
-			sitemap_root_addr = root_addr = "http://127.0.0.1";
-		}
-		else {
-			sitemap_root_addr = "http://seppopakonen.nethub.fi/";
-			root_addr = "http://seppopakonen.nethub.fi/AudioAssets";
-		}
+		sitemap_root_addr = root_addr = "http://127.0.0.1";
 	}
 	else {
-		sitemap_dir = "/home/sblo/upphub/sppp.github.io/";
-		export_dir = "/home/sblo/upphub/AudioAssets/docs/";
-		if (0) {
-			sitemap_root_addr = root_addr = "http://127.0.0.1";
-		}
-		else {
-			sitemap_root_addr = "https://sppp.github.io/";
-			root_addr = "https://sppp.github.io/AudioAssets";
-		}
+		sitemap_root_addr = "http://seppopakonen.nethub.fi/";
+		root_addr = "http://seppopakonen.nethub.fi/AudioAssets";
 	}
+	
 	description = "Music composed by " + author;
 	more_url = "https://github.com/sppp/AudioAssets";
 	more_msg = "GitHub page";
@@ -58,8 +47,7 @@ Generator::Generator() {
 		"oululainen säveltäjä, artisti, kitaristi, oululainen kitaristi, nordic composer, popular, vaikeat ajat, prio, "
 		"pohjantähti, pohjantahti, hei tyttö, suomihiphop, mikseri.net, rakkauden aika, sana, ilmaista musiikkia, "
 		"free music, libre, tabulatuuri, tabulatuureja, kitaratabulatuuri, tabeja, aloittelija, kitaransoitto ohje, "
-		"kitaraopettaja, basso-opettaja, rumpuopettaja, rumputabulatuuri, bassotabulatuuri, ilmainen kitaranopetus, "
-		"bassonopetus, free guitar teaching, free bass teaching, oululainen kitaranopetus, online kitaranopetus";
+		"rumputabulatuuri, bassotabulatuuri, free guitar teaching, free bass teaching";
 }
 
 String Generator::GetCleanName(const Data& d) {

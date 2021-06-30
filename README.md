@@ -1,6 +1,6 @@
 # AudioAssets
 
-## [Listen in a web browser](https://sppp.github.io/AudioAssets/)
+## [Listen in a web browser](http://seppopakonen.nethub.fi/AudioAssets/)
 
 These are my music and soundfiles. I have composed allmost all of these songs. Files are in open source formats.
 
