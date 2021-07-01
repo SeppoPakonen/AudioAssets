@@ -33,9 +33,14 @@ struct Data : Moveable<Data> {
 	}
 	void Xmlize(XmlIO& xio)           { XmlizeByJsonize(xio, *this); }
 	
-	bool operator()(const Data& a, const Data& b) const {return a.date < b.date;}
+	bool operator()(const Data& a, const Data& b) const {return a.filename < b.filename;}
 	
 };
+
+struct DataDateSorter {
+	bool operator()(const Data& a, const Data& b) const {return a.date < b.date;}
+};
+
 
 struct DataEditSort {
 	bool operator()(const Data& a, const Data& b) const {return a.last_edit > b.last_edit;}

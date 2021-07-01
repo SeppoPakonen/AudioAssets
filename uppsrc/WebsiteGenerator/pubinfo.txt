@@ -1,126 +1,9 @@
 [
 	{
-		"Filename": "my first song ever",
+		"Filename": "70s vibe",
 		"Description": "",
 		"Tags": "",
-		"Date": "20010101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer is over",
-		"Description": "",
-		"Tags": "",
-		"Date": "20020101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "clansong",
-		"Description": "",
-		"Tags": "",
-		"Date": "20020101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2002 (sunshine beat)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20020101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "zippaduppa",
-		"Description": "",
-		"Tags": "",
-		"Date": "20020101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "relaxed",
-		"Description": "",
-		"Tags": "",
-		"Date": "20020101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "getaway - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20030101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "nightmare - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20030101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "feels like home - a",
-		"Description": "",
-		"Tags": "",
-		"Date": "20040101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2004 (seagull beach)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20040101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "autumn tone - a",
-		"Description": "",
-		"Tags": "",
-		"Date": "20040101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "classic",
-		"Description": "",
-		"Tags": "",
-		"Date": "20040101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "two - a",
-		"Description": "",
-		"Tags": "",
-		"Date": "20050101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "technical exercise",
-		"Description": "",
-		"Tags": "",
-		"Date": "20050101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -135,92 +18,101 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "summer 2005 (easy)",
+		"Filename": "AAFC AAFA AAFC ADEA DDEE",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20170101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "feels like home - b",
+		"Filename": "AGFC",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20190101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "sad and cool",
+		"Filename": "FFCGAA - a",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20200101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "dormancy",
+		"Filename": "FFCGAA - b",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20210509",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "FFFG AAAC",
+		"Description": "",
+		"Tags": "",
+		"Date": "20170101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "weekday - b",
+		"Filename": "Hometown (Oulu)",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20100101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "teen story - b",
+		"Filename": "a jump - a",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20200101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "something traditional",
+		"Filename": "a jump - b",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20200101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "never ever - b",
+		"Filename": "a jump - c",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20210106",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "alone in the woods",
+		"Description": "",
+		"Tags": "",
+		"Date": "20190101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "great escape - b",
+		"Filename": "always on my mind",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "never ever - a",
-		"Description": "",
-		"Tags": "",
-		"Date": "20050101",
-		"Date-accuracy": 0,
+		"Date": "20210629",
+		"Date-accuracy": 3,
 		"Listens": 0,
 		"Hidden": false
 	},
@@ -234,37 +126,10 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "we will drink today",
+		"Filename": "answermachine",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "great escape - a",
-		"Description": "",
-		"Tags": "",
-		"Date": "20050101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "heartbeat",
-		"Description": "",
-		"Tags": "",
-		"Date": "20050101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "revisited - my first song ever",
-		"Description": "",
-		"Tags": "",
-		"Date": "20050101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -279,16 +144,16 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "weekday - a",
+		"Filename": "autumn tone - a",
 		"Description": "",
 		"Tags": "",
-		"Date": "20050101",
+		"Date": "20040101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "stupid",
+		"Filename": "autumn tone - c",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
@@ -297,7 +162,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "dancing song",
+		"Filename": "autumn tone - d",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
@@ -306,7 +171,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "eat turd",
+		"Filename": "bad competition entry",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
@@ -315,25 +180,52 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "pirate song - a",
+		"Filename": "bald party",
+		"Description": "",
+		"Tags": "",
+		"Date": "20090101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "bicycling feeling",
+		"Description": "",
+		"Tags": "",
+		"Date": "20120101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "black and white",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "breakup song",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "british utopia",
+		"Description": "",
+		"Tags": "",
+		"Date": "20090101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
 		"Filename": "bye bye baby",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "sad love",
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
@@ -360,267 +252,6 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "she",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "teen story - c",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "powerful tradition",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "wrong way",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "too high",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "comforting friends",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "breakup song",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "it could be so",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "teen story - d",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "trashcan",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "autumn tone - d",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "worried about a girl",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "autumn tone - c",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "mr loser",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "two - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "nightmare - c",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "bad competition entry",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "smoke and mirrors",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "70s vibe",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "waltz in the wilderness",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "withdrawal symptoms",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "black and white",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "morning",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "feels like home - c",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2006 (attitude)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "monsters",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2007 (epic)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20070101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "sweet dreams",
-		"Description": "",
-		"Tags": "",
-		"Date": "20070101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "something positive",
-		"Description": "",
-		"Tags": "",
-		"Date": "20070101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
 		"Filename": "cheap spirit",
 		"Description": "",
 		"Tags": "",
@@ -630,10 +261,10 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "weird",
+		"Filename": "clansong",
 		"Description": "",
 		"Tags": "",
-		"Date": "20070101",
+		"Date": "20020101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -648,38 +279,164 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "lost in online store",
+		"Filename": "classic",
 		"Description": "",
 		"Tags": "",
-		"Date": "20070101",
+		"Date": "20040101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "roadless trippin",
+		"Filename": "comforting friends",
 		"Description": "",
 		"Tags": "",
-		"Date": "20070101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "twisted loneliness",
+		"Filename": "dancing song",
 		"Description": "",
 		"Tags": "",
-		"Date": "20080101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "vodka search",
+		"Filename": "die lederhosen",
 		"Description": "",
 		"Tags": "",
-		"Date": "20080101",
+		"Date": "20210625",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "dormancy",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
 		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "eat turd",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "feels like home - a",
+		"Description": "",
+		"Tags": "",
+		"Date": "20040101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "feels like home - b",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "feels like home - c",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "freeform",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "funk19",
+		"Description": "",
+		"Tags": "",
+		"Date": "20190101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "funk21",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210304",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "getaway - b",
+		"Description": "",
+		"Tags": "",
+		"Date": "20030101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "going down",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210301",
+		"Date-accuracy": 1,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "graduation",
+		"Description": "",
+		"Tags": "",
+		"Date": "20150101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "great escape - a",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "great escape - b",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "green haze",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210505",
+		"Date-accuracy": 3,
 		"Listens": 0,
 		"Hidden": false
 	},
@@ -693,16 +450,25 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "yage",
+		"Filename": "hardbass",
 		"Description": "",
 		"Tags": "",
-		"Date": "20080101",
+		"Date": "20210621",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "heartbeat",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "not so pet sematary",
+		"Filename": "how did this happen",
 		"Description": "",
 		"Tags": "",
 		"Date": "20080101",
@@ -720,29 +486,56 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "may I - a",
+		"Filename": "i'll find something - b",
 		"Description": "",
 		"Tags": "",
-		"Date": "20080101",
+		"Date": "20090101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "summer 2008 (too hot)",
+		"Filename": "india",
 		"Description": "",
 		"Tags": "",
-		"Date": "20080101",
+		"Date": "20110101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "youth",
+		"Filename": "island hideout",
 		"Description": "",
 		"Tags": "",
-		"Date": "20080101",
+		"Date": "20130101",
 		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "it could be so",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "it is what",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210313",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "jab",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210220",
+		"Date-accuracy": 3,
 		"Listens": 0,
 		"Hidden": false
 	},
@@ -756,16 +549,43 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "public square",
+		"Filename": "kill the process",
 		"Description": "",
 		"Tags": "",
-		"Date": "20080101",
+		"Date": "20210526",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "lightweight",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "how did this happen",
+		"Filename": "like that",
+		"Description": "",
+		"Tags": "",
+		"Date": "20150101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "lost in online store",
+		"Description": "",
+		"Tags": "",
+		"Date": "20070101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "may I - a",
 		"Description": "",
 		"Tags": "",
 		"Date": "20080101",
@@ -783,38 +603,11 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "more beer",
+		"Filename": "medical drama",
 		"Description": "",
 		"Tags": "",
-		"Date": "20080101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "british utopia",
-		"Description": "",
-		"Tags": "",
-		"Date": "20090101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "i'll find something - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20090101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "question to answer 42",
-		"Description": "",
-		"Tags": "",
-		"Date": "20090101",
-		"Date-accuracy": 0,
+		"Date": "20210411",
+		"Date-accuracy": 3,
 		"Listens": 0,
 		"Hidden": false
 	},
@@ -823,177 +616,6 @@
 		"Description": "",
 		"Tags": "",
 		"Date": "20090101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "pirate song - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20090101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2009 (at the summer cottage)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20090101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "bald party",
-		"Description": "",
-		"Tags": "",
-		"Date": "20090101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "Hometown (Oulu)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20100101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "sofia",
-		"Description": "",
-		"Tags": "",
-		"Date": "20100101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2010 (sexy) - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20100101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2010 (sexy) - a",
-		"Description": "",
-		"Tags": "",
-		"Date": "20100101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "truthsync",
-		"Description": "",
-		"Tags": "",
-		"Date": "20110101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "risks and profits",
-		"Description": "",
-		"Tags": "",
-		"Date": "20110101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "sailing",
-		"Description": "",
-		"Tags": "",
-		"Date": "20110101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "tradfinnish",
-		"Description": "",
-		"Tags": "",
-		"Date": "20110101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "india",
-		"Description": "",
-		"Tags": "",
-		"Date": "20110101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2012 (yage)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20120101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "sexy (in minor)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20120101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "revisited - pirate song",
-		"Description": "",
-		"Tags": "",
-		"Date": "20120101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "bicycling feeling",
-		"Description": "",
-		"Tags": "",
-		"Date": "20120101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "mystery",
-		"Description": "",
-		"Tags": "",
-		"Date": "20130101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "sum of goodbyes",
-		"Description": "",
-		"Tags": "",
-		"Date": "20130101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "island hideout",
-		"Description": "",
-		"Tags": "",
-		"Date": "20130101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -1008,10 +630,541 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "monsters",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "more beer",
+		"Description": "",
+		"Tags": "",
+		"Date": "20080101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "morning",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "mr loser",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "my first song ever",
+		"Description": "",
+		"Tags": "",
+		"Date": "20010101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "my voice",
+		"Description": "",
+		"Tags": "",
+		"Date": "20170201",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "mystery",
+		"Description": "",
+		"Tags": "",
+		"Date": "20130101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "never ever - a",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "never ever - b",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "nightmare - b",
+		"Description": "",
+		"Tags": "",
+		"Date": "20030101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "nightmare - c",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "normal guy",
+		"Description": "",
+		"Tags": "",
+		"Date": "20180101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "not so pet sematary",
+		"Description": "",
+		"Tags": "",
+		"Date": "20080101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "november",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "our chatroom",
+		"Description": "",
+		"Tags": "",
+		"Date": "20150101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "pirate song - a",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "pirate song - b",
+		"Description": "",
+		"Tags": "",
+		"Date": "20090101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "plagiarism riff 1",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "powerful tradition",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "proud cause of harm",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "public square",
+		"Description": "",
+		"Tags": "",
+		"Date": "20080101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "question to answer 42",
+		"Description": "",
+		"Tags": "",
+		"Date": "20090101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "relaxed",
+		"Description": "",
+		"Tags": "",
+		"Date": "20020101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "restless cinderella",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210331",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "revisited - my first song ever",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "revisited - pirate song",
+		"Description": "",
+		"Tags": "",
+		"Date": "20120101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "revisited - risks and profits",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210313",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "revisited - sexy",
+		"Description": "",
+		"Tags": "",
+		"Date": "20180101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "revisited - twisted loneliness",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "riddle",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "risks and profits",
+		"Description": "",
+		"Tags": "",
+		"Date": "20110101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "roadless trippin",
+		"Description": "",
+		"Tags": "",
+		"Date": "20070101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sad and cool",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sad love",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sailing",
+		"Description": "",
+		"Tags": "",
+		"Date": "20110101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "saturday show",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sea shanty",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210521",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sexy (in minor)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20120101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "she",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "smoke and mirrors",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sofia",
+		"Description": "",
+		"Tags": "",
+		"Date": "20100101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "something positive",
+		"Description": "",
+		"Tags": "",
+		"Date": "20070101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "something traditional",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sorry but no",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "spring jam",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210417",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "stadion pop",
 		"Description": "",
 		"Tags": "",
 		"Date": "20140101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "stronger",
+		"Description": "",
+		"Tags": "",
+		"Date": "20150101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "stupid",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sum of goodbyes",
+		"Description": "",
+		"Tags": "",
+		"Date": "20130101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2002 (sunshine beat)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20020101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2003 (guitar summer)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20030101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2004 (seagull beach)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20040101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2005 (easy)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2006 (attitude)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2007 (epic)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20070101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2008 (too hot)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20080101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2009 (at the summer cottage)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20090101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2010 (sexy)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20100101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2012 (yage)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20120101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2013 (cool blue)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20130101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -1026,19 +1179,118 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "graduation",
+		"Filename": "summer 2016 (crazy barn ball)",
 		"Description": "",
 		"Tags": "",
-		"Date": "20150101",
+		"Date": "20160101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "stronger",
+		"Filename": "summer 2017 (happy memories)",
 		"Description": "",
 		"Tags": "",
-		"Date": "20150101",
+		"Date": "20170101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2020 (don't go inside the tower)",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer 2021 - skin trance",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210611",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "summer is over",
+		"Description": "",
+		"Tags": "",
+		"Date": "20020101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sweaty hello",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sweet dreams",
+		"Description": "",
+		"Tags": "",
+		"Date": "20070101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "technical exercise",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "technical exercise 1",
+		"Description": "",
+		"Tags": "",
+		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "teen story - b",
+		"Description": "",
+		"Tags": "",
+		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "teen story - c",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "teen story - d",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "tension",
+		"Description": "",
+		"Tags": "",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -1062,226 +1314,118 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "FFFG AAAC",
+		"Filename": "too high",
 		"Description": "",
 		"Tags": "",
-		"Date": "20170101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "AAFC AAFA AAFC ADEA DDEE",
+		"Filename": "tradfinnish",
 		"Description": "",
 		"Tags": "",
-		"Date": "20170101",
+		"Date": "20110101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "revisited - sexy",
+		"Filename": "trashcan",
 		"Description": "",
 		"Tags": "",
-		"Date": "20180101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "normal guy",
+		"Filename": "truthsync",
 		"Description": "",
 		"Tags": "",
-		"Date": "20180101",
+		"Date": "20110101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "AGFC",
+		"Filename": "twisted loneliness",
 		"Description": "",
 		"Tags": "",
-		"Date": "20190101",
+		"Date": "20080101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "alone in the woods",
+		"Filename": "two - a",
 		"Description": "",
 		"Tags": "",
-		"Date": "20190101",
+		"Date": "20050101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "FFCGAA - a",
+		"Filename": "two - b",
 		"Description": "",
 		"Tags": "",
-		"Date": "20200101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "november",
+		"Filename": "vodka search",
 		"Description": "",
 		"Tags": "",
-		"Date": "20200101",
+		"Date": "20080101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "freeform",
+		"Filename": "waltz in the wilderness",
 		"Description": "",
 		"Tags": "",
-		"Date": "20200101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "a jump - a",
+		"Filename": "we will drink today",
 		"Description": "",
 		"Tags": "",
-		"Date": "20200101",
+		"Date": "20050101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "plagiarism riff 1",
+		"Filename": "weekday - a",
 		"Description": "",
 		"Tags": "",
-		"Date": "20200101",
+		"Date": "20050101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "lightweight",
+		"Filename": "weekday - b",
 		"Description": "",
 		"Tags": "",
-		"Date": "20200101",
+		"Date": "20050101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "revisited - twisted loneliness",
+		"Filename": "weird",
 		"Description": "",
 		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2020 (don't go inside the tower)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "sweaty hello",
-		"Description": "",
-		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "riddle",
-		"Description": "",
-		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "a jump - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "technical exercise 1",
-		"Description": "",
-		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "sorry but no",
-		"Description": "",
-		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "green haze",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210505",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "revisited - risks and profits",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "a jump - c",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "funk21",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "medical drama",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210401",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "jab",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210101",
+		"Date": "20070101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -1290,80 +1434,44 @@
 		"Filename": "what me worry",
 		"Description": "",
 		"Tags": "",
-		"Date": "20210504",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "it is what",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "saturday show",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210201",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "going down",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "FFCGAA - b",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210509",
+		"Date": "20210427",
 		"Date-accuracy": 3,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "spring jam",
+		"Filename": "withdrawal symptoms",
 		"Description": "",
 		"Tags": "",
-		"Date": "20210402",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "restless cinderella",
+		"Filename": "worried about a girl",
 		"Description": "",
 		"Tags": "",
-		"Date": "20210101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "funk19",
+		"Filename": "wrong way",
 		"Description": "",
 		"Tags": "",
-		"Date": "20190101",
+		"Date": "20060101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "my voice",
+		"Filename": "yage",
 		"Description": "",
 		"Tags": "",
-		"Date": "20170201",
-		"Date-accuracy": 3,
+		"Date": "20080101",
+		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
@@ -1377,84 +1485,21 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "sea shanty",
+		"Filename": "youth",
 		"Description": "",
 		"Tags": "",
-		"Date": "20210521",
-		"Date-accuracy": 3,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "like that",
-		"Description": "",
-		"Tags": "",
-		"Date": "20150101",
+		"Date": "20080101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
 	},
 	{
-		"Filename": "our chatroom",
+		"Filename": "zippaduppa",
 		"Description": "",
 		"Tags": "",
-		"Date": "20150101",
+		"Date": "20020101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
-	},
-	{
-		"Filename": "proud cause of harm",
-		"Description": "",
-		"Tags": "",
-		"Date": "20200101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "kill the process",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2021 - skin trance",
-		"Description": "",
-		"Tags": "",
-		"Date": "20210611",
-		"Date-accuracy": 3,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "summer 2017 (happy memories)",
-		"Description": "",
-		"Tags": "",
-		"Date": "20170101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "tension",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060201",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
-	{
-		"Filename": "answermachine",
-		"Description": "",
-		"Tags": "",
-		"Date": "20060101",
-		"Date-accuracy": 0,
-		"Listens": 0,
-		"Hidden": false
-	},
+	}
 ]
