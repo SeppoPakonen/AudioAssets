@@ -459,6 +459,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "have a nice trip",
+		"Description": "",
+		"Tags": "",
+		"Date": "20070427",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "heartbeat",
 		"Description": "",
 		"Tags": "",
@@ -567,11 +576,29 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "like I used to play",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210709",
+		"Date-accuracy": 11,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "like that",
 		"Description": "",
 		"Tags": "",
 		"Date": "20150101",
 		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "loco",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210711",
+		"Date-accuracy": 3,
 		"Listens": 0,
 		"Hidden": false
 	},
@@ -761,6 +788,15 @@
 		"Tags": "",
 		"Date": "20150101",
 		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "paranoid",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210715",
+		"Date-accuracy": 3,
 		"Listens": 0,
 		"Hidden": false
 	},
