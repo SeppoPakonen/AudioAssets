@@ -1,7 +1,5 @@
 # AudioAssets
 
-## [Listen in a web browser](http://seppopakonen.nethub.fi/AudioAssets/)
-
 These are my music and soundfiles. I have composed allmost all of these songs. Files are in open source formats.
 
 Usage is permitted under "Attribution-NonCommercial-ShareAlike 4.0 International" license.
