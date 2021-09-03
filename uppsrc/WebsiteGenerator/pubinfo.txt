@@ -117,6 +117,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "an unreasonable woman",
+		"Description": "",
+		"Tags": "",
+		"Date": "20190101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "another traditional",
 		"Description": "",
 		"Tags": "",
@@ -306,6 +315,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "date night",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210831",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "die lederhosen",
 		"Description": "",
 		"Tags": "",
@@ -328,6 +346,15 @@
 		"Description": "",
 		"Tags": "",
 		"Date": "20060101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "every song you rip",
+		"Description": "",
+		"Tags": "",
+		"Date": "20190101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -531,6 +558,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "it is fine",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210719",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "it is what",
 		"Description": "",
 		"Tags": "",
@@ -684,6 +720,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "morning in forest",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210827",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "mr loser",
 		"Description": "",
 		"Tags": "",
@@ -792,6 +837,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "parametric love",
+		"Description": "",
+		"Tags": "",
+		"Date": "2021-08-07",
+		"Date-accuracy": 2,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "paranoid",
 		"Description": "",
 		"Tags": "",
@@ -801,6 +855,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "passenger",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210815",
+		"Date-accuracy": 2,
+		"Listens": 0,
+		"Hidden": false
+	},
+ 	{
 		"Filename": "pirate song - a",
 		"Description": "",
 		"Tags": "",

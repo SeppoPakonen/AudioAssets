@@ -11,9 +11,10 @@ void FindRecursively(String dir, Vector<String>& files) {
 			if (title.Find("template_basic_rock") < 0 &&
 				title != "trashbin" &&
 				title.Left(1) != ".") {
+				String ext = GetFileExt(path);
 				if (ff.IsDirectory())
 					FindRecursively(path, files);
-				else if (GetFileExt(path) == ".tg")
+				else if (ext == ".tg" || ext == ".gp5")
 					files << path;
 			}
 		}
@@ -31,8 +32,8 @@ Generator::Generator() {
 		sitemap_root_addr = root_addr = "http://127.0.0.1";
 	}
 	else {
-		sitemap_root_addr = "http://seppopakonen.nethub.fi/";
-		root_addr = "http://seppopakonen.nethub.fi/AudioAssets";
+		sitemap_root_addr = "https://seppopakonen.nethub.fi/";
+		root_addr = "https://seppopakonen.nethub.fi/AudioAssets";
 	}
 	
 	description = "Music composed by " + author;
@@ -177,7 +178,8 @@ void Generator::Export() {
 	sitemap_txt_fout << sitemap_root_addr + "\n";
     sitemap_txt_fout << root_addr + "\n";
     
-	sitemap_fout << "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"" + sitemap_root_addr + "main-sitemap.xsl\"?>\n<urlset xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:image=\"http://www.google.com/schemas/sitemap-image/1.1\" xsi:schemaLocation=\"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n";
+	sitemap_fout << "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"" + sitemap_root_addr + "main-sitemap.xsl\"?>\n"
+		"<urlset xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n";
 	sitemap_fout << "<url>\n";
     sitemap_fout << "\t<loc>" + sitemap_root_addr + "</loc>\n";
     sitemap_fout << "\t<lastmod>" + lastmod + "</lastmod>\n";
