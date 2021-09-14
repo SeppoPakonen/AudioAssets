@@ -48,7 +48,7 @@ Generator::Generator() {
 		"oululainen säveltäjä, artisti, kitaristi, oululainen kitaristi, nordic composer, popular, vaikeat ajat, prio, "
 		"pohjantähti, pohjantahti, hei tyttö, suomihiphop, mikseri.net, rakkauden aika, sana, ilmaista musiikkia, "
 		"free music, libre, tabulatuuri, tabulatuureja, kitaratabulatuuri, tabeja, aloittelija, kitaransoitto ohje, "
-		"rumputabulatuuri, bassotabulatuuri, free guitar teaching, free bass teaching";
+		"rumputabulatuuri, bassotabulatuuri";
 }
 
 String Generator::GetCleanName(const Data& d) {
@@ -179,7 +179,7 @@ void Generator::Export() {
     sitemap_txt_fout << root_addr + "\n";
     
 	sitemap_fout << "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"" + sitemap_root_addr + "main-sitemap.xsl\"?>\n"
-		"<urlset xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n";
+		"<urlset xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n";
 	sitemap_fout << "<url>\n";
     sitemap_fout << "\t<loc>" + sitemap_root_addr + "</loc>\n";
     sitemap_fout << "\t<lastmod>" + lastmod + "</lastmod>\n";
@@ -212,6 +212,7 @@ void Generator::Export() {
 		
 		s.Replace("${TITLE}", title);
 		s.Replace("${SONGTITLE}", song_title);
+		s.Replace("${SITEROOT}", sitemap_root_addr);
 		s.Replace("${SONGDIRTOROOT}", song_dir_to_root);
 		s.Replace("${ROOTADDR}", root_addr);
 		s.Replace("${DESCRIPTION}", description);

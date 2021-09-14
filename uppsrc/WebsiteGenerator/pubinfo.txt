@@ -252,6 +252,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "cami",
+		"Description": "",
+		"Tags": "",
+		"Date": "2019-09-14",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "candyday",
 		"Description": "",
 		"Tags": "",
@@ -738,6 +747,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "mute",
+		"Description": "",
+		"Tags": "",
+		"Date": "2021-09-05",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "my first song ever",
 		"Description": "",
 		"Tags": "",
@@ -823,6 +841,15 @@
 		"Description": "",
 		"Tags": "",
 		"Date": "20200101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "on you",
+		"Description": "",
+		"Tags": "",
+		"Date": "2021-09-03",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
@@ -1062,7 +1089,7 @@
 		"Hidden": false
 	},
 	{
-		"Filename": "sexy (in minor)",
+		"Filename": "sexy - b",
 		"Description": "",
 		"Tags": "",
 		"Date": "20120101",
