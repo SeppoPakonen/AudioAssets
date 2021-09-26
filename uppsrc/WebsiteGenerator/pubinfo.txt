@@ -396,6 +396,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "forever repeat",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210907",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "freeform",
 		"Description": "",
 		"Tags": "",
@@ -882,6 +891,15 @@
 		"Hidden": false
 	},
 	{
+		"Filename": "party partyyy",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210913",
+		"Date-accuracy": 3,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
 		"Filename": "passenger",
 		"Description": "",
 		"Tags": "",
@@ -1048,6 +1066,15 @@
 		"Description": "",
 		"Tags": "",
 		"Date": "20050101",
+		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "sad little furry ball",
+		"Description": "",
+		"Tags": "",
+		"Date": "20140101",
 		"Date-accuracy": 0,
 		"Listens": 0,
 		"Hidden": false
