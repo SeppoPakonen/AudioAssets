@@ -636,7 +636,7 @@
 		"Date": "20210709",
 		"Date-accuracy": 11,
 		"Listens": 0,
-		"Hidden": false
+		"Hidden": true
 	},
 	{
 		"Filename": "like that",
@@ -1607,6 +1607,15 @@
 		"Tags": "",
 		"Date": "20060101",
 		"Date-accuracy": 0,
+		"Listens": 0,
+		"Hidden": false
+	},
+	{
+		"Filename": "wound",
+		"Description": "",
+		"Tags": "",
+		"Date": "20210926",
+		"Date-accuracy": 3,
 		"Listens": 0,
 		"Hidden": false
 	},
