@@ -49,6 +49,8 @@ Finally, I would like to mention that my favorite guitar manufacturer is HMI gui
 I have an affordable Les Paul made by them, and it glows with distinctiveness. It has a really good price/quality ratio.
 I've had more expensive guitars, but I've sold them off.
 
+
+
  - Seppo Pakonen, 6.11.2021
 
 
@@ -79,6 +81,16 @@ Lev = level:
 	lRN	ready, not polished
 	lRS	ready, but short
 	lR	ready
+
+
+Priority TODO:
+	- fix problems after midi conversion in
+		2011/edge - c.tg
+		2011/with you - b.tg
+		2012/ultimate.tg
+		2013/island hideout - b.tg
+		2013/mystery.tg
+
 												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2001
 	2001/my first song ever.tg					x	x		x			lS
@@ -324,95 +336,178 @@ Lev = level:
 		"light parody of my old hometown musician Mikko Alatalo. He visited our school etc back in the day"
 	2008/pulse.tg								x	x		x			
 		"yet another 'I did not want to fight' song"
-	2008/summer 2008 (too hot).tg
-	2008/twisted loneliness.tg
-	2008/vodka search.tg
-	2008/yage.tg
-	2008/yellow.tg
-	2008/youth.tg
+	2008/summer 2008 (too hot).tg				x	x		x			lPS
+		"He don't know about climate change, but it's unusually hot summer"
+	2008/twisted loneliness.tg					x	x	x	x	x	x	lRS
+		"feeling the twisted identity of a elitist person"
+	2008/vodka search.tg						x	x	x	x			lB
+		"twisted scientific research"
+	2008/yage.tg								x	x	x	x			lB
+		"hard decision between acts which cause death and life", "I miss my old dog so much"
+	2008/yellow.tg								x						lES
+		"old school's piano has seen it all"
+	2008/youth.tg								x	x					lPS
+		"these days go so fast and I want to be meaningful before I die"
+		
 
+
+												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2009
-	2009/bad vibes.tg
-	2009/bald party.tg
-	2009/british utopia.tg
-	2009/I found something.tg
-	2009/i'll find something - b.tg
-	2009/midlife crisis.tg
-	2009/pirate song - b.tg
-	2009/question to answer 42.tg
-	2009/summer 2009 (at the summer cottage).tg
+	2009/bad vibes.tg							x						lES
+		"hands off, creep"
+	2009/bald party.tg							x	x					lPS
+		"real story about our bald party", "going home drunk and seeing the sun rising over the river while being bald for the first ttime"
+	2009/british utopia.tg						x	x		x			lPS
+		"real story about my friend who lives in Reading (England) and smokes pot in the paradise, which he made in the attic", "high while playing beautiful katamari", "also, two insanely large circle of smoking in our party in Reading"
+	2009/I found something.tg					x	x		x			lPS
+		"I found the music", "follow the good vibes and good music", "join together with the music"
+	2009/i'll find something - b.tg				x	x		x			lPS
+		-
+	2009/midlife crisis.tg						x	x	x	x	x	x	lRN
+		"the endless pride of the middle class"
+	2009/pirate song - b.tg						x	x		x			lPS
+		-
+	2009/question to answer 42.tg				x	x		x			lPS
+		"something McCartney/Lennon Sgt. Pepper like stream of mind stuff. Help me Paul! :D"
+	2009/summer 2009 (at the summer cottage).tg	x	x	x	x	x	x	lS
+		"thoughts on the tranquility and long-term nature of cottage life"
 
+
+
+												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2010
-	2010/blow my whistle.tg
-	2010/crash landing.tg
-	2010/edge - b.tg
-	2010/energizer.tg
-	2010/funk10.tg
-	2010/hometown.tg
-	2010/loathing inc.tg
-	2010/once in a lifetime.tg
-	2010/rabbit's life.tg
-	2010/secret agent.tg
-	2010/slow dancing.tg
-	2010/sofia.tg
-	2010/summer 2010 (sexy).tg
-	2010/thinker.tg
-
+	2010/blow my whistle.tg						x	x		x			lS
+		"the first touch of the soft skin", "sometimes I got it wrong, sorry"
+	2010/crash landing.tg						x	x		x	x		lS
+		"getting about of abusive relationship"
+	2010/edge - b.tg							x	x		x			lS
+		???
+	2010/energizer.tg							*	*		*			lS
+		"'buy fast before it's all sold. it's so good!' is what you said when you bought a small batch of crap, which you need to get rid off"
+	2010/funk10.tg								*	*		*			lS
+		"about two women: the other is full of botox and silicone and knife-jobs, and other is using her time for smart things"
+	2010/hometown.tg							x	x					lS
+		"a house built on the fear of God"
+	2010/loathing inc.tg						x	x					lS
+		"The one guy who sells at the docks but takes a terrible price."
+	2010/once in a lifetime.tg					x	x		x			lPS
+		"a school test that determines the direction of your life"
+	2010/rabbit's life.tg						x	x		x			lPS
+		"the unusual and exciting life of urban rabbit"
+	2010/secret agent.tg						x	x		x			lPS
+		"'get smart' series in a one song"
+	2010/slow dancing.tg						x	x		x			lPS
+		"strange satisfaction after a group of women forces you to dance slow with a particular woman"
+	2010/sofia.tg								x	x		x			lPS
+		"the coolest dark-dressed woman in town"
+	2010/summer 2010 (sexy).tg					x	x	x	x	x		lRS
+		"a crush during the university's group work"
+	2010/thinker.tg								x						lS
+		"blue sky and feeling the wind when sailing"
 2011
-	2011/city street.tg
-	2011/dot fi.tg
-	2011/edge - c.tg
-	2011/funk11.tg
-	2011/gutter.tg
-	2011/india.tg
-	2011/island hideout - a.tg
-	2011/lucky strike.tg
-	2011/my first.tg
-	2011/the day you're mine - a.tg
-	2011/the day you're mine - b.tg
-	2011/truthsync.tg
-	2011/twisted xmas 2011.tg
-	2011/virtual world.tg
-	2011/with you.tg
+	2011/city street.tg							x	x	x	x	x	x	lRS
+		"hot summer street and the smell of beer and tobacco"
+	2011/dot fi.tg								x	x	x	x			lB
+		"the Finland's ever-surprising expenditure. From own search engines and Nokia phones to international services and ongoing uncertainty using diplomacy"
+	2011/edge - c.tg							x	x	x	x			lB
+		???
+	2011/funk11.tg								x	x		x			lPS
+		"the story of a troll who lives in the forest and writes nasty things on the internet while living in a cave under the root of a tree"
+	2011/gutter.tg								x	x					lPS
+		"'hava a little respect' to a woman who runs a health company and calls the homeless 'human trash'"
+	2011/india.tg								x	x		x			lPS
+		"music takes me everywhere, "I lie on my back in my bed and play guitar."
+	2011/island hideout - a.tg					x	x		x			lS
+		"I teleport from the sauna to the equator and sail off into the sunset with a small jar"
+	2011/lucky strike.tg						x	x		x			lPS
+		"Franklin hitches a ride with a fighter jet and the intoxicated pilot wriggles in the air and eventually lands the feather softly in the right place."
+	2011/my first.tg							x	x		x			lPS
+		"can you feel it too?", "dudes having an experiement with chemicals"
+	2011/the day you're mine - a.tg				x	x		x			lPS
+		"I'm going to charm that woman and make it my wife."
+	2011/the day you're mine - b.tg				x	x		x			lPS
+		-
+	2011/twisted xmas 2011.tg					x	x		x			lS
+		"demanding girlfriend requires you to go through a blizzard to her after first denying coming"
+	2011/virtual world.tg						x	x		x			lPS
+		"life of the bomb defuser"
+	2011/with you - a.tg						x	x		x			lS
+		"All the happy things that happen when I'm with you"
+	2011/with you - b.tg						x	x		x			lS
+		-
 
+
+												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2012
-	2012/bicycling feeling.tg
-	2012/funk12.tg
-	2012/melancholy.tg
-	2012/never meant to.tg
-	2012/revisited - pirate song.tg
-	2012/sauna-lake.tg
-	2012/sexy - b.tg
-	2012/summer 2012 (midsummer).tg
-	2012/time is running out.tg
-	2012/ultimate.tg
-
+	2012/bicycling feeling.tg					x	x					lS
+		"walks around the globe on a treadmill while incarcerated"
+	2012/funk12.tg								x	x		x			lS
+		"when they say 'fuck you' to you in 5 different languages"
+	2012/melancholy.tg							x	x					lPS
+		"a hacker grandmother who couldn't keep up with the world anymore, but with slow certainty learned how to hack computers and ddos those she doesn't like"
+	2012/never meant to.tg						x	x		x			lPS
+		"classic never meant to hurt you, with a twist"
+	2012/pirate song - c.tg						x	x					lS
+		-
+	2012/sauna-lake.tg							x	x		x			lPS
+		"a relaxed evening by the lake, where the most exciting thing is whether sausage, beer and tobacco are enough for the whole evening"
+	2012/around the world.tg					x	x		x			lS
+		"I'm going to show my woman the whole world."
+	2012/summer 2012 (midsummer).tg				x	x					lES
+		"There can't be too much sauna and beer and good conversations in the evening"
+	2012/time is running out.tg					x	x		x			lPS
+		"people need free time and liberty"
+	2012/ultimate.tg							x	x		x			lS
+		"part two of the: hard decision between acts which cause death and life"
 2013
-	2013/gala.tg
-	2013/island hideout - b.tg
-	2013/mystery.tg
-	2013/reverb.tg
-	2013/skyscrapers - a.tg
-	2013/skyscrapers - b.tg
-	2013/sum of goodbyes.tg
-	2013/summer 2013 (cool blue).tg
-	2013/the one who forgot.tg
-	2013/tired.tg
+	2013/gala.tg								x	x					lES
+		"dreamlike weird gala evening for weird awards"
+	2013/island hideout - b.tg					x	x		x			lB
+		-
+	2013/mystery.tg								x	x					lS
+		???
+	2013/reverb.tg								x	x		x			lS
+		"the guy who can't remember anything and finds his own notes all over his house"
+	2013/skyscrapers - a.tg						x	x					lMV
+		"big city life", "walking between skyscrapers and seeing all the people walking around"
+	2013/skyscrapers - b.tg						x	x		x			lS
+		-
+	2013/sum of goodbyes.tg						x	x		x			lS
+		"the death of a loved one"
+	2013/summer 2013 (cool blue).tg				x	x		x			lS
+		"swimming in the sea on a beautiful and warm day"
+	2013/the one who forgot.tg					x	x		x			lS
+		"A dear old friend who took a different route. I hope he's doing well."
+	2013/tired.tg								x	x		x			lS
+		"There are different levels during the day. First you have to try, and in the end, the energy is only enough to repeat the old routines."
 
 2014
-	2014/missing you.tg
-	2014/paula.tg
-	2014/sad little furry ball.tg
-	2014/stadion pop.tg
-	2014/summer 2014 (kickflip).tg
+	2014/missing you.tg							x	x		x			lS
+		"a strange feeling in everyday life when the subconscious misses a person, which is going to come to the surface in a special way"
+	2014/paula.tg								x	x		x			lS
+		"Paula can play over and over again every day. He never gets bored."
+	2014/sad little furry ball.tg				x	x	x	x	x	x	lR
+		"the story of an animal that accidentally goes into a trap"
+	2014/stadion pop.tg							x	x	x	x	x		lRS
+		"about disposable socialiation"
+	2014/summer 2014 (kickflip).tg				x	x		x			lS
+		"skateboarding with a good friend"
 
+
+												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2015
-	2015/change.tg
-	2015/cliche feels.tg
-	2015/graduation.tg
-	2015/like that.tg
-	2015/our chatroom.tg
-	2015/progress finally.tg
+	2015/change.tg								x						lES
+		"you change, people change, society changes"
+	2015/cliche feels.tg						x	x		x			lES
+		"when I first heard 'what is love' during a TV shop ad"
+	2015/graduation.tg							x			x			lS
+		"different things around graduating from school. serious and fun."
+	2015/like that.tg							x	x	x	x	x		lMV
+		"conversation between worried parents and a boy who likes computers"
+	2015/our chatroom.tg						x	x		x			lS
+		"at first, the peaceful meeting escalates into rage and the tossing of chairs"
+	2015/progress finally.tg					x	x		x			lS
+		"hints for better music playing"
 	2015/stronger.tg
 
 2016
