@@ -82,15 +82,6 @@ Lev = level:
 	lRS	ready, but short
 	lR	ready
 
-
-Priority TODO:
-	- fix problems after midi conversion in
-		2011/edge - c.tg
-		2011/with you - b.tg
-		2012/ultimate.tg
-		2013/island hideout - b.tg
-		2013/mystery.tg
-
 												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2001
 	2001/my first song ever.tg					x	x		x			lS
@@ -161,8 +152,8 @@ Priority TODO:
 		"references about things what make life easy", "lifestyle gadgets"
 	2005/technical exercise.tg											lTS
 	
-	2005/teen story - b.tg						x	x		x			lS
-		"finding a DIY hobby", "when the life gets difficult"
+	2005/cute story - b.tg						x	x		x			lS
+		???
 	2005/two - a.tg									x					lPS
 		"opposite of 'one'", "guy who has all senses and everything but can't understand anything"
 	2005/we will drink today.tg					x	x					lPS
@@ -230,9 +221,9 @@ Priority TODO:
 		"dystopia, where people are pushed to accept treatment of teenagers when they are adults"
 	2006/summer 2006 (attitude).tg				x	x		x			lPS
 		"others are forced to sing about truth, others are forced to talk about work/weekday life"
-	2006/teen story - c.tg
+	2006/cute story - c.tg
 		-
-	2006/teen story - d.tg
+	2006/cute story - d.tg
 		-
 	2006/tension.tg								x	x		x			lPS
 		"don't trust the dying man to do the right thing"
@@ -500,122 +491,226 @@ Priority TODO:
 		"you change, people change, society changes"
 	2015/cliche feels.tg						x	x		x			lES
 		"when I first heard 'what is love' during a TV shop ad"
-	2015/graduation.tg							x			x			lS
+	2015/graduation.tg							x			x			lES
 		"different things around graduating from school. serious and fun."
 	2015/like that.tg							x	x	x	x	x		lMV
 		"conversation between worried parents and a boy who likes computers"
-	2015/our chatroom.tg						x	x		x			lS
+	2015/our chatroom.tg						x	x		x			lPS
 		"at first, the peaceful meeting escalates into rage and the tossing of chairs"
-	2015/progress finally.tg					x	x		x			lS
+	2015/progress finally.tg					x	x		x			lPS
 		"hints for better music playing"
-	2015/stronger.tg
-
+	2015/stronger.tg							x	x		x			lS
+		"Our family can't be this sad. Dad decided we're laughing now even though things are going wrong, so that's what's going to make things right. /s"
 2016
-	2016/old moped road.tg
-	2016/summer 2016 (crazy barn ball).tg
-	2016/testing out a new sauna.tg
-	2016/through difficulty to success.tg
-	2016/you and me.tg
-
+	2016/old moped road.tg						x						lES
+		"small town road reminds me what happened and all my old friends which are adults and their life sucks too"
+	2016/summer 2016 (crazy barn ball).tg		x	x		x			lPS
+		"old time day at summer: working at field during day and going to local dancing event"
+	2016/testing out a new sauna.tg				x	x		x			lPS
+		"birthday song"
+	2016/through difficulty to success.tg		x	x		x			lPS
+		"'that old bastar is still alive?'"
+	2016/you and me.tg							x			x			lES
+		"first kiss in the rock concert"
 2017
-	2017/AAFC AAFA AAFC ADEA DDEE.tg
-	2017/all black clothes.tg
-	2017/favourite juice.tg
-	2017/FFFG AAAC.tg
-	2017/my voice.tg
-	2017/summer 2017 (happy memories).tg
+	2017/AAFC AAFA AAFC ADEA DDEE.tg			x	x	x	x			lB
+		"car breaks down at remote forest road"
+	2017/all black clothes.tg					x						lES
+		"a daughter of too demanding scholar parents: wears black clothes and wants to be a priest"
+	2017/favourite juice.tg						x			x			lES
+		"friendzone forever; getting drunk at bar and whining"
+	2017/FFFG AAAC.tg							x			x			lPS
+		"comparing a girl which likes you and the other who you like"
+	2017/my voice.tg							x			x			lB
+		"surreal story about mean people"
+	2017/summer 2017 (happy memories).tg		x	x	x	x			lS
+		"about a friend and a summer when you visited a lot at his/her summer cottage"
 
+
+												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2018
-	2018/fear.tg
-	2018/normal guy.tg
-	2018/trad story.tg
+	2018/fear.tg								x	x		x			lES
+		"I fear that the state's 'career motorway' takes me past youth and innocent creativity, towards family and children, where creative people are mocked"
+	2018/normal guy.tg							x	x		x			lPS
+		"are you still following my social media?"
+	2018/trad story.tg							x						lES
+		"my parents don't ask me 'how are you?' but 'have you made money and did you get a girlfriend already?'"
 
 2019
-	2019/AGFC.tg
-	2019/alone in the woods.tg
-	2019/an unreasonable woman.tg
-	2019/cami.tg
-	2019/every song you rip.tg
-	2019/funk19.tg
+	2019/AGFC.tg								x	x		x			lES
+		"from normal to hell: from a little boy's perspective: he complains some small meaningless thing at home and his parents call to school and make a huge 'bullying problem' out of nothing"
+	2019/alone in the woods.tg					x	x		x			lPS
+		"surreal take on getting lost while hiking in the woods"
+	2019/an unreasonable woman.tg				x	x	x	x	x	x	lR
+		"lightweight take on some unreasonable things what women do"
+	2019/cami.tg								x	x	x	x	x	x	lR
+		"about a nerdy girl playing online games and wanting a relationship"
+	2019/every song you rip.tg					x	x		x			lPS
+		"surreal take on about getting a divorce and moving to separate homes"
+	2019/funk19.tg								x	x		x			lPS
+		"having a party where your best friend's girlfriend is hitting on you"
 
+
+												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2020
-	2020/a jump - a.tg
-	2020/a jump - b.tg
-	2020/corpse identity.tg
-	2020/cute story - c.tg
-	2020/FFCGAA - a.tg
-	2020/freeform.tg
-	2020/hot babe.tg
-	2020/ironic.tg
-	2020/lightweight.tg
-	2020/november.tg
-	2020/plagiarism riff 1.tg
-	2020/proud cause of harm.tg
-	2020/revisited - twisted loneliness.tg
-	2020/riddle.tg
-	2020/sergeant pepper.tg
-	2020/slow dancing 2020.tg
-	2020/sorry but no.tg
-	2020/summer 2020 (don't go inside the tower).tg
-	2020/sweaty hello.tg
+	2020/a jump - a.tg							x	x					lES
+		-
+	2020/a jump - b.tg							x	x					lES
+		-
+	2020/corpse identity.tg						x	x		x			lPS
+		"use pronouns it/that when talking to me; I identity as a corpse, because I'm tired of your nonsensical bullshit"
+	2020/cute story - c.tg						x	x	x	x			lPS
+		-
+	2020/FFCGAA - a.tg							x	x					lES
+		"ridiculous demands while searching for romantic partner"
+	2020/freeform.tg							x	x		x			lPS
+		"being compassionate to a friend and encouraging him/her to say about everything"
+	2020/hot babe.tg							x						lES
+		"lustful nonsense"
+	2020/ironic.tg								x	x		x			lPS
+		"ironic once in a lifetime coincidences"
+	2020/lightweight.tg							x	x		x			lPS
+		"when I'm lightweight again, I'm going to do all these things"
+	2020/november.tg							x						lES
+		"a song about a boring couple"
+	2020/plagiarism riff 1.tg					x						lES
+		-
+	2020/proud cause of harm.tg					x	x		x			lPS
+		"a perspective of a homeless person"
+	2020/riddle.tg								x	x		x			lPS
+		"trail of broken relatinship; nothing breaks your love like broken feet with too long hike"
+	2020/sergeant pepper.tg						x	x		x			lPS
+		"about a sergeant, who knows how to push the fear of superior to the crew"
+	2020/slow dancing 2020.tg					x	x		x			lPS
+		"lucky ending
+	2020/sorry but no.tg						x	x		x			lPS
+		"about a couple who is getting fat and grumpy"
+	2020/summer 2020							x	x	x	x	x	x	lR
+		"about small town guys and their distaste to city-people"
+	2020/sweaty hello.tg						x	x	x	x	x	x	lRS
+		"lust in the aparatment building"
 	2020/technical exercise 1.tg
-	2020/technocracy firewall.tg
-	2020/thinker 2020.tg
-	2020/twisted xmas 2020.tg
+		-
+	2020/technocracy firewall.tg				x						lES
+		"about dystopia, where people are kept treated like young people during their adulthood"
+	2020/thinker 2020.tg						x	x		x			lPS
+		"three guys competing about the stupidest high idea"
+	2020/twisted loneliness - b.tg				x	x		x			lPS
+		"adult having cooties"
+	2020/twisted xmas 2020.tg					x	x		x			lPS
+		"my gifts made her cry (in a bad way)"
 
+
+												Sel	Ins Str	Mel	Txt	Rdy	Lev
 2021
-	2021/a jump - c.tg
-	2021/always on my mind.tg
-	2021/bargain.tg
-	2021/bassist's song.tg
-	2021/clinton ave.tg
-	2021/crew greetingz.tg
-	2021/cycles.tg
-	2021/date night.tg
-	2021/desperado.tg
-	2021/die lederhosen.tg
-	2021/dreaming of you.tg
-	2021/Drum jam.tg
-	2021/edge - d.tg
-	2021/elegant.tg
-	2021/FFCGAA - b.tg
-	2021/forever repeat.tg
-	2021/funk21.tg
-	2021/funky geek.tg
-	2021/gin.tg
-	2021/going down.tg
-	2021/golf.tg
-	2021/green haze.tg
-	2021/hardbass.tg
-	2021/i love you.tg
-	2021/ida to joy.tg
-	2021/it is fine.tg
-	2021/it is what.tg
-	2021/jab.tg
-	2021/kill the process.tg
-	2021/like I used to play.tg
-	2021/locals.tg
-	2021/loco.tg
-	2021/medical drama.tg
-	2021/morning in forest.tg
-	2021/mute.tg
-	2021/on you.tg
-	2021/parametric love.tg
-	2021/paranoid.tg
-	2021/party partyyy.tg
-	2021/passenger.tg
-	2021/rainy autumn.tg
-	2021/restless cinderella.tg
-	2021/roots.tg
-	2021/saturday show.tg
-	2021/sea shanty.tg
-	2021/spring jam.tg
-	2021/summer 2021 - skin trance.tg
-	2021/sweet dreams 21.tg
-	2021/tallalaa.tg
-	2021/tiptap.tg
-	2021/walrus.tg
-	2021/what me worry.tg
-	2021/wound.tg
-	2021/yet another riser.tg
+	2021/a jump - c.tg							x	x	x	x	x	x	lR
+		"road trip to unknown destination"
+	2021/always on my mind.tg					x	x	x	x	x	x	lR
+		"about the end of a rough working week"
+	2021/bargain.tg								x	x		x			lPS
+		"a game of control with her"
+	2021/bassist's song.tg						x						lTS
+		-
+	2021/clinton ave.tg							x	x		x			lPS
+		"tension of the pre-show; about the people in audience and in back stage"
+	2021/crew greetingz.tg						x						lES
+		"there's always that one guy doing his own thing in a team"
+	2021/cycles.tg								x	x	x	x	x		lS
+		"retro computing song"
+	2021/date night.tg							x	x	x	x	x	x	lR
+		"about a date"
+	2021/desperado.tg							x			x			lES
+		"the feared man"
+	2021/die lederhosen.tg						x	x		x	x		lRS
+		"lust for shine"
+	2021/dreaming of you.tg						x			x			lES
+		"had a dream where you still loved me"
+	2021/edge - d.tg							x	x	x	x	x	x	lR
+		"surreal song about a lonely princess"
+	2021/elegant.tg								x	x	x	x	x	x	lR
+		"about a female leader"
+	2021/FFCGAA - b.tg							x	x	x	x	x		lRS
+		"about narcissism & diversity of lust"
+	2021/forever repeat.tg						x	x	x	x	x	x	lR
+		"holiday in Spain"
+	2021/funk21.tg								x	x		x			lS
+		"a girl asks boy to visit her and tune her guitar"
+	2021/funky geek.tg							x	x		x			lS
+		"driving in the city friday night and spending that IT worker money with my friend"
+	2021/gin.tg									x	x		x			lS
+		"crew of alcoholics"
+	2021/going down.tg							x	x		x			lS
+		???
+	2021/golf.tg								x						lES
+		"doing it perfect in life and game /s"
+	2021/green haze.tg							x	x		x	x		lS
+		"if you are going to be with me"
+	2021/hardbass.tg							x	x		x	x		lS
+		"surreal Finland"
+	2021/i love you.tg							x						lES
+		"for the most important person in my life"
+	2021/ida to joy.tg							x	x		x			lPS
+		"breath and clean you chacras instead instead of using nasty stuff"
+	2021/it is fine.tg							x	x	x	x	x	x	LR
+		"everything will turn out fine in the end"
+	2021/it is what.tg							x	x	x	x			lB
+		"saying to a ex that if she contacts the new partner that you will destoy her"
+	2021/jab.tg									x	x	x	x			lB
+		"new rise of the inhumane authoritarian monster cult"
+	2021/jinn.tg								x	x		x			lPS
+		"politics needs rhetorical talking: modern people doesn't (unfortunately) understand rhetorical talk, but says it as lying or false statements"
+	2021/kill the process.tg					x	x		x	x		lS
+		"about human's bad habits with animals"
+	2021/like I used to play.tg					x	x		x			lPS
+		???
+	2021/locals.tg								x	x		x	x		lPS
+		???
+	2021/loco.tg								x	x		x	x		lPS
+		"about carefree guys drawing to walls"
+	2021/medical drama.tg						x	x		x	x		lPS
+		"thoughts during car crash concussion"
+	2021/morning in forest.tg					x	x		x			lES
+		-
+	2021/mute.tg								x	x		x	x		lPS
+		???
+	2021/on you.tg								x	x		x			lPS
+		???
+	2021/parametric love.tg						x	x	x	x	x		lB
+		"dystopian future with love robots"
+	2021/paranoid.tg							x	x	x	x			lB
+		"unfortunate life, but the fault is in others"
+	2021/party partyyy.tg						x	x	x	x	x	x	lRS
+		"on the road to the bankruptcy"
+	2021/passenger.tg							x	x	x	x	x	x	lR
+		"victim of the delusional"
+	2021/rainy autumn.tg						x						lES
+		"the slave owner mentality of the society"
+	2021/restless cinderella.tg					x	x		x	x		lS
+		"a guy goes to the bar and tries to talk to women for the first time"
+	2021/roots.tg								x						lES
+		"score is sweeter when you are in the losing side2
+	2021/saturday show.tg						x	x		x			lPS
+		"let's not cry on saturday"
+	2021/sea shanty.tg							x	x	x	x	x	x	lR
+		"song of the seaman's wife"
+	2021/spring jam.tg							x	x		x			lS
+		-
+	2021/summer 2021 - skin trance.tg			x	x		x	x		lS
+		"wine picnic"
+	2021/sweet dreams 21.tg						x						lES
+		"light in windows and starry sky"
+	2021/tallalaa.tg							x	x		x	x		lPS
+		"surreal color song"
+	2021/tiptap.tg								x	x	x	x	x	x	lR
+		"day in a life (when I was young)"
+	2021/twisted loneliness - c.tg				x	x		x			lPS
+		"I don't fear dying, but not living ever"
+	2021/walrus.tg								x						lES
+		"fat cries when it leaves the body"
+	2021/what me worry.tg						x	x		x			lPS
+		"a sad life of a worker in a dictatorship"
+	2021/wound.tg								x	x	x	x	x	x	lR
+		"a person comes and goes, but don't mind if that has pain or wounds"
+	2021/yet another riser.tg					x	x		x	x		lPS
+		"truth won't die on my watch"
 
