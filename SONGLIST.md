@@ -35,9 +35,45 @@
 * 2019
     * An unreasonable woman
     * Cami
+* 2020
+    * Summer 2020 (Don't go inside the tower)
+    * Sweaty hello
+* 2021
+    * A jump - c
+    * Always on my mind
+    * Catwoman
+    * Cutie from future
+    * Date night
+    * Dreaming together
+    * Dream job
+    * Edge - d
+    * Elegant
+    * Focus
+    * Forever repeat
+    * Got your message
+    * Had no teacher
+    * It is fine
+    * Kangaroo dictator
+    * Keeping place safe for her
+    * Paranoid
+    * Party partyy
+    * Passenger
+    * Pink trance
+    * Saturday show (instrumental)
+    * Sea shanty
+    * Second class man
+    * Tiptap
+    * Twisted xmas 2021
+    * Waiting for tonight
+    * Wound
+* 2022
+    * Breaking my survival
+    * First of the year 2022
+    * Old saying
+    * She comes between us
+    * Will you believe in rock
     
-    
-## Finished composition
+## Finished compositions
 * 2005
     * 80s vibe
     * Cute story
@@ -45,8 +81,9 @@
     * Never ever - a
     * Never ever - b
     * Stressed
-* 2007
+* 2006
     * Answermachine
+* 2007
     * Weird
 * 2008
     * Vodka search
@@ -76,4 +113,21 @@
     * Fear
 * 2019
     * Every song you rip
+* 2020
+    * Corpse identity
+    * Hot - part 1
+* 2021
+    * By your side
+    * Don't worry honey
+    * It is what
+    * Jab
+    * Jinn
+    * Not taking seriously
+    * Parametric love
+    * Political juggler
+    * Professional pride
+    * Thanks everyone
+    * Too much pain
+    * Will you ever notice me
+    * You don't need to
     
