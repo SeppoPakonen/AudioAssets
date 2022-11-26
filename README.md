@@ -2,7 +2,7 @@
 
 These are my music and soundfiles. I have composed allmost all of these songs. Files are in open source formats.
 
-Usage is permitted under "Attribution-NonCommercial-ShareAlike 4.0 International" license.
+Usage is permitted under custom license.
 Please contact me for commercial usage.
 
 Songs are sorted to folders based on their original composition year. They show well my learning process. I was 11 years old in 2001, when I started, which should give the perspective.
