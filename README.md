@@ -10,9 +10,6 @@ Songs are sorted to folders based on their original composition year. They show 
 Songs are usually stubs or construction kits intentionally. The full song can be made by duplicating sections. However, many songs still have missing sections or instruments, as I am still working on them.
 You can contact me if you are interested in any song and want me to finalize it as a full song. I do free collaboration. I also provide paid services for making high quality studio recordings from these songs.
 
-## Completed songs
-
-See the full list of [completed songs](SONGLIST.md).
 
 ## Instructions
 ### File extensions:
