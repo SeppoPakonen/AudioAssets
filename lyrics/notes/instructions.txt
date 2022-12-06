@@ -1,12 +1,17 @@
 First:
 	Write a popular song topic about ...
 	Write a rare popular song topic about ...
+	Write a list of novel song names about ...
 
 Ask from GPT-3:
+	What is the meaning of the rare [genre] song named [name]?
 	Could you extend phrase ""?
 	Could you say using more words ""?
+	Could you say using less words ""?
 	Could you extend "" with a bridge to the chorus?
 	Could you add words to the chorus ""?
 	What would extend phrase ""?
+	What is the tension raising pre-chorus of the song called [name]?
+	Add words to the chorus ""
 Fix:
 	What would rhyme with ""?
