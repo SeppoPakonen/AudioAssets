@@ -1,6 +1,7 @@
 First:
 	Write a popular song topic about ...
 	Write a rare popular song topic about ...
+	Write a rap song about ...
 	Write a list of novel song names about ...
 
 Ask from GPT-3:
@@ -15,3 +16,5 @@ Ask from GPT-3:
 	Add words to the chorus ""
 Fix:
 	What would rhyme with ""?
+	Change words in the chorus.
+
