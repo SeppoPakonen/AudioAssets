@@ -1,0 +1,15 @@
+uses
+	CtrlLib;
+
+file
+	Notes.txt,
+	GPT3Lyrics.h,
+	GPT3Lyrics.cpp,
+	Editor.h,
+	Editor.cpp,
+	Editor.lay,
+	songlist.xml;
+
+mainconfig
+	"" = "GUI";
+

@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE app>
+<app>
+	<songlist>
+		<key>AudioAssets/music/Composed/2002/summer 2002 (sunshine beat).tg</key>
+		<value>
+			<year value="2002"/>
+			<name>summer 2002 (sunshine beat)</name>
+			<topic>warm, green, blue sky summer with good smells and laughter everywhere</topic>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>friendly, joyful</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2003/getaway.tg</key>
+		<value>
+			<year value="2003"/>
+			<name>getaway</name>
+			<topic>everything is too busy and the person wants to get away to her safe space</topic>
+			<genre>rock</genre>
+			<audience>women but not men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>metaphorical, about, weekend, after hard work week</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2003/nightmare scenario.tg</key>
+		<value>
+			<year value="2003"/>
+			<name>nightmare scenario</name>
+			<topic>surreal story about bad events in the world, where people are killed and exploited without their knowledge</topic>
+			<genre>rock</genre>
+			<audience>men but not women</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>violent, dark, scary, realistic</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2003/summer 2003 (guitar summer).tg</key>
+		<value>
+			<year value="2003"/>
+			<name>summer 2003 (guitar summer)</name>
+			<topic>A teen boy meets a friendly punk girl in a train and talks with her all the way. They fall in love, but never meet again, because they didn&apos;t exchange phone numbers.</topic>
+			<genre>rap</genre>
+			<audience>teen boys</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>friendly, easy, soft, romantic</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2004/autumn tone - a.tg</key>
+		<value>
+			<year value="2004"/>
+			<name>autumn tone - a</name>
+			<topic>The inevitable autumn comes after summer. The singer wonders about red leafs in trees and on ground. He wishes to find romantic partner in the nature. He have had broken hard, but it is now healed. He see the autumn as a positive break up from his past.</topic>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>soft, sexual, romantic, hopeful, sunny</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2004/classic.tg</key>
+		<value>
+			<year value="2004"/>
+			<name>classic</name>
+			<topic>A guy is in a middle of normal weekday, when chaotic things starts to happen around him. He senses danger, but can&apos;t see what is wrong.</topic>
+			<genre>rap</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>imaginary, difficult, dark, metaphorical about stalker</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2004/feels like home.tg</key>
+		<value>
+			<year value="2004"/>
+			<name>feels like home</name>
+			<topic>Effort to empower women in their everyday life and struggles. They are conscious about their weaknesses, but they tap themselves on the shoulder.</topic>
+			<genre>metal</genre>
+			<audience>women</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, dark, hopeful</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2005/80s vibe.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>80s vibe</name>
+			<topic>A woman goes to the nightclub in the 1980s. The electronic music makes her feel futuristic and out of place. She is drunk and gets sexual and drug-related suggestions, but she wants and will only dance to the electronic dance music.</topic>
+			<genre>dance</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>very sexual, romantic, hopeful, hard, dark</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2005/cute story - b.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>cute story - b</name>
+			<topic>multiple young people wishes something from the future, but their future will be something unexpected. Their situation is cute and the outcoma is still wholesome.</topic>
+			<genre>rock</genre>
+			<audience>teens</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, friendly, unexpected, surprising</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2005/great escape - b.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>great escape - b</name>
+			<topic>In the middle of business center of the city, a woman get frustrated about her job and boss. She just walks out of her employer&apos;s building. She has never felt so free.</topic>
+			<genre>rock</genre>
+			<audience>men and women</audience>
+			<qualifier>meme-like</qualifier>
+			<attributes>sexual, exciting, wholesome, walking in traffic</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2005/never ever - a.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>never ever - a</name>
+			<topic>A girl, who is shy to use make up and fancy clothes, find a way to play with her appearance using a mirror. She wants to have all beautiful traits and to make everybody see her.</topic>
+			<genre>pop</genre>
+			<audience>women but not men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>empowering, sexual, beautiful, rewarding</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2005/never ever - b.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>never ever - b</name>
+			<topic>A girl, who is shy to use make up and fancy clothes, find a way to play with her appearance using a mirror. She wants to have all beautiful traits and to make everybody see her.</topic>
+			<genre>rock</genre>
+			<audience>women but not men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>thrilling, dark, sexual, beautiful, rewarding</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2005/stressed.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>stressed</name>
+			<topic>A man is stressed. He feels that he is incomplete without wife, but he has no energy to meet a new woman nor make him more attractive.</topic>
+			<genre>pop</genre>
+			<audience>men</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>rewarding, relaxing, worrisome</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2005/weekday.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>weekday</name>
+			<topic>The school year ends and a teenage boy gets to his summer vacation. He only wants to sleep and eat candy and ice cream. However, he meets his romantic crush from the school, and they start to hang out together.</topic>
+			<genre>pop</genre>
+			<audience>teens</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, easy, romantic, wholesome, surprising</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/answermachine.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>answermachine</name>
+			<topic>A guy goes to a bar and finds a one night stand. It does not go too well. The girl was drugged by someone else with ecstacy. The girl left his apartment before he woke up. The man is sad, because he really liked her, but now he doesn&apos;t seem to get another chance.</topic>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, sad, romantic, sexual, ecstacy</attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/autumn tone - c.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>autumn tone - c</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/breakup song.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>breakup song</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/california tourist.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>california tourist</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/comforting friend.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>comforting friend</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/eat turd.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>eat turd</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/ethereal.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>ethereal</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/it could be so.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>it could be so</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/jammed.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>jammed</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/monsters.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>monsters</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/morning.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>morning</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/mr loser.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>mr loser</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/pirate song - a.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>pirate song - a</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/praise or thanks.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>praise or thanks</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/sad love.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>sad love</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/she.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>she</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/smoke and mirrors.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>smoke and mirrors</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/summer 2006 (attitude).tg</key>
+		<value>
+			<year value="2006"/>
+			<name>summer 2006 (attitude)</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/tension.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>tension</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/tradition.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>tradition</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/trashcan.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>trashcan</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/waltz in the wilderness.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>waltz in the wilderness</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/worried about a girl.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>worried about a girl</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2006/wrong way.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>wrong way</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/ace.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>ace</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/bomfunk.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>bomfunk</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/capture the flag - b.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>capture the flag - b</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/cheap spirit.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>cheap spirit</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/gas.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>gas</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/lost in online store.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>lost in online store</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/marching.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>marching</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/sensitive.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>sensitive</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/serious.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>serious</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/something positive.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>something positive</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/spacewind.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>spacewind</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/sweet dreams.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>sweet dreams</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2007/weird.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>weird</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/I&apos;ll find something - part 1.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>I&apos;ll find something - part 1</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/I&apos;ll find something - part 2.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>I&apos;ll find something - part 2</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/I&apos;ll find something - part 3.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>I&apos;ll find something - part 3</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/athlete without equipments.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>athlete without equipments</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/bad date.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>bad date</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/edge - a.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>edge - a</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/haiku.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>haiku</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/jazz.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>jazz</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/jazzish.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>jazzish</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/jungle soul.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>jungle soul</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/may I - a.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>may I - a</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/may I - b.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>may I - b</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/more beer.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>more beer</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/movie.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>movie</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/public square.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>public square</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/pulse.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>pulse</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/summer 2008 (too hot).tg</key>
+		<value>
+			<year value="2008"/>
+			<name>summer 2008 (too hot)</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/vodka search.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>vodka search</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/yellow.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>yellow</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2008/youth.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>youth</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2009/I&apos;ll find something - part 1 - b.tg</key>
+		<value>
+			<year value="2009"/>
+			<name>I&apos;ll find something - part 1 - b</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2009/bad vibes.tg</key>
+		<value>
+			<year value="2009"/>
+			<name>bad vibes</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2009/bald party.tg</key>
+		<value>
+			<year value="2009"/>
+			<name>bald party</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2009/british utopia.tg</key>
+		<value>
+			<year value="2009"/>
+			<name>british utopia</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2009/pirate song - b.tg</key>
+		<value>
+			<year value="2009"/>
+			<name>pirate song - b</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2009/summer 2009 (at the summer cottage).tg</key>
+		<value>
+			<year value="2009"/>
+			<name>summer 2009 (at the summer cottage)</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2010/summer 2010 (sexy).tg</key>
+		<value>
+			<year value="2010"/>
+			<name>summer 2010 (sexy)</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2011/dot fi.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>dot fi</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2011/edge - c.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>edge - c</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2012/around the world.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>around the world</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2012/bicycling feeling.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>bicycling feeling</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2012/pirate song - c.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>pirate song - c</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2013/mystery.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>mystery</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2013/skyscrapers - a.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>skyscrapers - a</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2013/sum of goodbyes.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>sum of goodbyes</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2013/the one who forgot.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>the one who forgot</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2014/missing you.tg</key>
+		<value>
+			<year value="2014"/>
+			<name>missing you</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2016/old moped road.tg</key>
+		<value>
+			<year value="2016"/>
+			<name>old moped road</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2018/fear.tg</key>
+		<value>
+			<year value="2018"/>
+			<name>fear</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2019/every song you rip.tg</key>
+		<value>
+			<year value="2019"/>
+			<name>every song you rip</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2020/corpse identity.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>corpse identity</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2020/hot pt1.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>hot pt1</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/by your side.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>by your side</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/don&apos;t worry honey.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>don&apos;t worry honey</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/it is what.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>it is what</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/jab.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>jab</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/jinn.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>jinn</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/not taking seriously.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>not taking seriously</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/parametric love.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>parametric love</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/political juggler.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>political juggler</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/professional pride.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>professional pride</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/thanks everyone.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>thanks everyone</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/too much pain.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>too much pain</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2021/you don&apos;t need to.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>you don&apos;t need to</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2022/before dawn.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>before dawn</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Composed/2022/waiter of the small cafe.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>waiter of the small cafe</name>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+	</songlist>
+</app>

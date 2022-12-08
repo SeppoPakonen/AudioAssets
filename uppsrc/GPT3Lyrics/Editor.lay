@@ -1,0 +1,18 @@
+LAYOUT(SongForm, 608, 176)
+	ITEM(Upp::Label, dv___0, SetLabel(t_("Name:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(96, -252).VCenterPosZ(19, -74))
+	ITEM(Upp::EditString, name, SetEditable(false).HCenterPosZ(500, 50).VCenterPosZ(19, -74))
+	ITEM(Upp::Label, dv___2, SetLabel(t_("Year:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(96, -252).VCenterPosZ(19, -50))
+	ITEM(Upp::EditInt, year, SetEditable(false).HCenterPosZ(352, -24).VCenterPosZ(19, -50))
+	ITEM(Upp::Label, dv___4, SetLabel(t_("Topic:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(96, -252).VCenterPosZ(19, -26))
+	ITEM(Upp::EditString, topic, HCenterPosZ(500, 50).VCenterPosZ(19, -26))
+	ITEM(Upp::Label, dv___6, SetLabel(t_("Genre:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(96, -252).VCenterPosZ(19, -2))
+	ITEM(Upp::DropList, genre, HCenterPosZ(500, 50).VCenterPosZ(19, -2))
+	ITEM(Upp::Label, dv___8, SetLabel(t_("Audience:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(96, -252).VCenterPosZ(19, 22))
+	ITEM(Upp::DropList, audience, HCenterPosZ(500, 50).VCenterPosZ(19, 22))
+	ITEM(Upp::Label, dv___10, SetLabel(t_("Qualifier:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(96, -252).VCenterPosZ(19, 46))
+	ITEM(Upp::DropList, qualifier, HCenterPosZ(500, 50).VCenterPosZ(19, 46))
+	ITEM(Upp::Label, dv___12, SetLabel(t_("Attributes:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(96, -252).VCenterPosZ(19, 70))
+	ITEM(Upp::EditString, attributes, HCenterPosZ(372, -14).VCenterPosZ(19, 70))
+	ITEM(Upp::DropList, attrlist, HCenterPosZ(124, 238).VCenterPosZ(19, 70))
+END_LAYOUT
+

@@ -1,0 +1,78 @@
+GPT-3:
+ - https://github.com/reach-the-sky/GPT3-Chatbot/blob/main/GPT3-ChatBot.py
+ - https://github.com/topics/openai-gpt3
+
+
+
+Needed:
+ - topic
+ - genre
+ - audience
+ - qualifier
+ - attributes
+
+
+
+
+- qualifier
+	metaphoric
+	popular
+
+- genre
+	rock
+	rap
+	pop
+	traditional
+
+- audience
+	men
+	women
+	men and women
+	women and men
+	men but not women
+	women but not men
+
+- attributes (multiple)
+	slightly sexual
+	very sexual
+	romantic
+	friendly
+	joyful
+	violent
+	dark
+	scary
+	disorienting
+	horrifying
+	easy / soft / hard / difficult
+	metaphorical
+		life
+		death
+		family
+		happy family event
+		happy event with friends
+
+
+
+- Get song names
+	Write a list of novel song names about [topic].
+	Write a list of novel [qualifier] [genre] song names about [topic], which pleases [audience].
+
+- Get song meaning
+	What is the meaning of the rare pop song named "[name]"?
+
+- Get initial song (all of these
+	Write a novel popular song about "[name]". The song is about [topic], which pleases [audience]. The song is [attributes].
+	Write a rap song about "[name]". The song is about [topic], which pleases [audience]. The song is [attributes].
+
+- Get more
+	Extend verse 1.
+	Extend verse 2.
+	What is the alternative chorus?
+	What is the tension raising pre-chorus of the song called "[name]"?
+
+	Write a popular song topic about ...
+	Write a rare popular song topic about ...
+	Write a rap song about ...
+	Write a list of novel song names about ...
+-
+	- "Write a rare popular song topic about "[...]". The song is very sexual, soft and metaphorical about sex."

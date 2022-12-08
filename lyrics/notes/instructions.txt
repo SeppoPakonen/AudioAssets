@@ -1,8 +1,9 @@
 First:
-	Write a popular song topic about ...
-	Write a rare popular song topic about ...
-	Write a rap song about ...
-	Write a list of novel song names about ...
+	Write a list of novel [genre] song names about [topic].
+	Write a popular song topic about [topic].
+	Write a rare popular song topic about [topic].
+	Write a rap song about [topic].
+	Write a list of novel song names about [topic].
 
 Ask from GPT-3:
 	What is the meaning of the rare [genre] song named [name]?
