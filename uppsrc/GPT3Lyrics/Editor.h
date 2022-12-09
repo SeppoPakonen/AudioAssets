@@ -11,6 +11,7 @@ struct Song : Moveable<Song> {
 	
 	String topic;
 	String genre;
+	String subdir;
 	String audience;
 	String qualifier;
 	String attributes;

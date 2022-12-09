@@ -12,6 +12,22 @@ Needed:
  - attributes
 
 
+Stages:
+ x write down song header data
+ - add time range years, and add tropes to them
+ - get name lists for songs
+ - get other topic suggestions for attributes
+	- e.g.	List what [attributes] [genre] song could tell about in lyrics.
+			The song pleases [audience].
+			The content of lyrics is [qualifier] in nature.
+ - get some lists for some more info... e.g. storyline, characters, mood, style, singer-profile, coarse role of the song in the album (filler or hit)
+ - pick names
+ - form personal trope list from song name list
+ - connect tropes to multiple songs
+ - get meaning and initial lyrics/rap
+ - make abstract of song structure and story-line
+ - make coarse lyrics without note matchin, but match the length of lines and structure
+ - make note-matching lyrics
 
 
 - qualifier

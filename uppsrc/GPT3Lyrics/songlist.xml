@@ -6,6 +6,7 @@
 		<value>
 			<year value="2002"/>
 			<name>summer 2002 (sunshine beat)</name>
+			<subdir>Composed</subdir>
 			<topic>warm, green, blue sky summer with good smells and laughter everywhere</topic>
 			<genre>pop</genre>
 			<audience>women and men</audience>
@@ -16,6 +17,7 @@
 		<value>
 			<year value="2003"/>
 			<name>getaway</name>
+			<subdir>Composed</subdir>
 			<topic>everything is too busy and the person wants to get away to her safe space</topic>
 			<genre>rock</genre>
 			<audience>women but not men</audience>
@@ -26,6 +28,7 @@
 		<value>
 			<year value="2003"/>
 			<name>nightmare scenario</name>
+			<subdir>Composed</subdir>
 			<topic>surreal story about bad events in the world, where people are killed and exploited without their knowledge</topic>
 			<genre>rock</genre>
 			<audience>men but not women</audience>
@@ -36,6 +39,7 @@
 		<value>
 			<year value="2003"/>
 			<name>summer 2003 (guitar summer)</name>
+			<subdir>Composed</subdir>
 			<topic>A teen boy meets a friendly punk girl in a train and talks with her all the way. They fall in love, but never meet again, because they didn&apos;t exchange phone numbers.</topic>
 			<genre>rap</genre>
 			<audience>teen boys</audience>
@@ -46,6 +50,7 @@
 		<value>
 			<year value="2004"/>
 			<name>autumn tone - a</name>
+			<subdir>Composed</subdir>
 			<topic>The inevitable autumn comes after summer. The singer wonders about red leafs in trees and on ground. He wishes to find romantic partner in the nature. He have had broken hard, but it is now healed. He see the autumn as a positive break up from his past.</topic>
 			<genre>pop</genre>
 			<audience>women and men</audience>
@@ -56,6 +61,7 @@
 		<value>
 			<year value="2004"/>
 			<name>classic</name>
+			<subdir>Composed</subdir>
 			<topic>A guy is in a middle of normal weekday, when chaotic things starts to happen around him. He senses danger, but can&apos;t see what is wrong.</topic>
 			<genre>rap</genre>
 			<audience>everyone</audience>
@@ -66,46 +72,139 @@
 		<value>
 			<year value="2004"/>
 			<name>feels like home</name>
+			<subdir>Composed</subdir>
 			<topic>Effort to empower women in their everyday life and struggles. They are conscious about their weaknesses, but they tap themselves on the shoulder.</topic>
 			<genre>metal</genre>
 			<audience>women</audience>
 			<qualifier>story-like</qualifier>
 			<attributes>realistic, dark, hopeful</attributes>
 		</value>
+		<key>AudioAssets/music/Composed/2004/summer 2004 (seagull beach).tg</key>
+		<value>
+			<year value="2004"/>
+			<name>summer 2004 (seagull beach)</name>
+			<subdir>Composed</subdir>
+			<topic>A song about a couple, who sits on a cafe&apos;s terrace, which is to next to a ocean beach. They look ships who comes and goes on nearby harbour. They just enjoy their blissful moment slowly.</topic>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>soft, warm, sunny, oceanic, friendly, joyful</attributes>
+		</value>
 		<key>AudioAssets/music/Composed/2005/80s vibe.tg</key>
 		<value>
 			<year value="2005"/>
 			<name>80s vibe</name>
+			<subdir>Composed</subdir>
 			<topic>A woman goes to the nightclub in the 1980s. The electronic music makes her feel futuristic and out of place. She is drunk and gets sexual and drug-related suggestions, but she wants and will only dance to the electronic dance music.</topic>
 			<genre>dance</genre>
 			<audience>everybody</audience>
 			<qualifier>realistic</qualifier>
 			<attributes>very sexual, romantic, hopeful, hard, dark</attributes>
 		</value>
+		<key>AudioAssets/music/Unfinished/2005/another traditional.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>another traditional</name>
+			<subdir>Unfinished</subdir>
+			<topic>A historic depiction of a poor man&apos;s life in rural town at 1800 century. He does hard work and the death is always close, so that why he prays God.</topic>
+			<genre>metal</genre>
+			<audience>men</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, difficult, rewarding, punishin</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2005/aurora.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>aurora</name>
+			<subdir>Release</subdir>
+			<topic>A couple has a fight, which triggers the woman to escape bad marriage. The man is a rich boss and the woman is almost his servant. He expects her to appreciate him with her expense. While the man talks about is superiority, the woman escapes to a cold night and keeps going.</topic>
+			<genre>rock</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>dark, difficult, cold, violent, threathening, thrilling, scary, beautiful</attributes>
+		</value>
 		<key>AudioAssets/music/Composed/2005/cute story - b.tg</key>
 		<value>
 			<year value="2005"/>
 			<name>cute story - b</name>
+			<subdir>Composed</subdir>
 			<topic>multiple young people wishes something from the future, but their future will be something unexpected. Their situation is cute and the outcoma is still wholesome.</topic>
 			<genre>rock</genre>
 			<audience>teens</audience>
 			<qualifier>story-like</qualifier>
 			<attributes>realistic, friendly, unexpected, surprising</attributes>
 		</value>
+		<key>AudioAssets/music/Unfinished/2005/dormancy.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>dormancy</name>
+			<subdir>Unfinished</subdir>
+			<topic>A tale of a man&apos;s journey through a dark, surreal underworld of danger and adventure.</topic>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>dark, exciting, thrilling, empowering, beautiful</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2005/great escape - a.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>great escape - a</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, sexual, thrilling, adventurous, action-packed, rewarding</attributes>
+		</value>
 		<key>AudioAssets/music/Composed/2005/great escape - b.tg</key>
 		<value>
 			<year value="2005"/>
 			<name>great escape - b</name>
+			<subdir>Composed</subdir>
 			<topic>In the middle of business center of the city, a woman get frustrated about her job and boss. She just walks out of her employer&apos;s building. She has never felt so free.</topic>
 			<genre>rock</genre>
 			<audience>men and women</audience>
 			<qualifier>meme-like</qualifier>
 			<attributes>sexual, exciting, wholesome, walking in traffic</attributes>
 		</value>
+		<key>AudioAssets/music/Release/2005/heartbeat.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>heartbeat</name>
+			<subdir>Release</subdir>
+			<topic>A couple sings separately after a big fight. The woman is sorry for herself, because she didn&apos;t want to fight, nor break him. She admits, that even though they love each other, they will still hurt themselves if they stay together. Man sings metaphorically about the intensity and temporal nature of the love. He also goes through how he did get into the situation. He doesn&apos;t regret anything, because he did everything he could.</topic>
+			<genre>rap</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>soft, difficult, lovely, friendly, sad, beautiful, colourful</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2005/hooked.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>hooked</name>
+			<subdir>Release</subdir>
+			<topic>A young man and older woman meets in a bar. The woman approaches him with the intention to have a one night stand. The lyrics are from man&apos;s perspective, where he ponders the situation.</topic>
+			<genre>dance</genre>
+			<audience>men and women</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>fun, lovely, sexual, joyful, thrilling, exciting, cliffhanger</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2005/my first song ever - b.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>my first song ever - b</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>fun, fast, joyful, exciting</attributes>
+		</value>
 		<key>AudioAssets/music/Composed/2005/never ever - a.tg</key>
 		<value>
 			<year value="2005"/>
 			<name>never ever - a</name>
+			<subdir>Composed</subdir>
 			<topic>A girl, who is shy to use make up and fancy clothes, find a way to play with her appearance using a mirror. She wants to have all beautiful traits and to make everybody see her.</topic>
 			<genre>pop</genre>
 			<audience>women but not men</audience>
@@ -116,36 +215,128 @@
 		<value>
 			<year value="2005"/>
 			<name>never ever - b</name>
+			<subdir>Composed</subdir>
 			<topic>A girl, who is shy to use make up and fancy clothes, find a way to play with her appearance using a mirror. She wants to have all beautiful traits and to make everybody see her.</topic>
 			<genre>rock</genre>
 			<audience>women but not men</audience>
 			<qualifier>popular</qualifier>
 			<attributes>thrilling, dark, sexual, beautiful, rewarding</attributes>
 		</value>
+		<key>AudioAssets/music/Unfinished/2005/sad and cool.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>sad and cool</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rap</genre>
+			<audience>young adult men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>melancholic, slow, unfriendly, empowering</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2005/something traditional - pt1.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>something traditional - pt1</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>young adult women</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>cute, lovely, soft, friendly, funny</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2005/something traditional - pt2.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>something traditional - pt2</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rock</genre>
+			<audience>women</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>romantic, traditional, lovely, cute, beautiful, wholesome</attributes>
+		</value>
 		<key>AudioAssets/music/Composed/2005/stressed.tg</key>
 		<value>
 			<year value="2005"/>
 			<name>stressed</name>
+			<subdir>Composed</subdir>
 			<topic>A man is stressed. He feels that he is incomplete without wife, but he has no energy to meet a new woman nor make him more attractive.</topic>
 			<genre>pop</genre>
 			<audience>men</audience>
 			<qualifier>metaphoric</qualifier>
 			<attributes>rewarding, relaxing, worrisome</attributes>
 		</value>
+		<key>AudioAssets/music/Unfinished/2005/summer 2005 (easy).tg</key>
+		<value>
+			<year value="2005"/>
+			<name>summer 2005 (easy)</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>teens</audience>
+			<qualifier>popular</qualifier>
+			<attributes>imaginary, rewarding, easy, lovely, relaxing, beautiful</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2005/technical exercise.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>technical exercise</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>meme-like</qualifier>
+			<attributes>sexual, funny, wholesome, joyful</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2005/two - a.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>two - a</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>metal</genre>
+			<audience>young adult men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>unfriendly, funny, metaphorical, joyful, dark</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2005/we will drink today.tg</key>
+		<value>
+			<year value="2005"/>
+			<name>we will drink today</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>lovely, funny, empowering, rewarding, blissful, wholesome, exciting, thrilling</attributes>
+		</value>
 		<key>AudioAssets/music/Composed/2005/weekday.tg</key>
 		<value>
 			<year value="2005"/>
 			<name>weekday</name>
+			<subdir>Composed</subdir>
 			<topic>The school year ends and a teenage boy gets to his summer vacation. He only wants to sleep and eat candy and ice cream. However, he meets his romantic crush from the school, and they start to hang out together.</topic>
 			<genre>pop</genre>
 			<audience>teens</audience>
 			<qualifier>story-like</qualifier>
 			<attributes>realistic, easy, romantic, wholesome, surprising</attributes>
 		</value>
+		<key>AudioAssets/music/Release/2006/70s vibe.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>70s vibe</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>lovely, empowering, rewarding, blissful, exciting, thrilling</attributes>
+		</value>
 		<key>AudioAssets/music/Composed/2006/answermachine.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>answermachine</name>
+			<subdir>Composed</subdir>
 			<topic>A guy goes to a bar and finds a one night stand. It does not go too well. The girl was drugged by someone else with ecstacy. The girl left his apartment before he woke up. The man is sad, because he really liked her, but now he doesn&apos;t seem to get another chance.</topic>
 			<genre>rock</genre>
 			<audience>men</audience>
@@ -156,466 +347,799 @@
 		<value>
 			<year value="2006"/>
 			<name>autumn tone - c</name>
+			<subdir>Composed</subdir>
+			<topic>A guy sees a dream about his loved one, which he is separated now, because he unintentionally insulted her. He dreams about travelling her as an animal. He yells that he never meant to insult her.</topic>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>imaginary, easy, soft, wholesome, friendly, metaphorical about divorce</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/autumn tone - d.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>autumn tone - d</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>teens</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>imaginary, easy, soft, romantic, thrilling, hopeful, cute</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/back to the disco.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>back to the disco</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>dance</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>exciting, dark, lovely, sexual, joyful</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/bad competition entry.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>bad competition entry</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>imaginary, soft, hopeful, adventurous, action-packed</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/black and white.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>black and white</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>traditional</genre>
+			<audience>everyone</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>difficult, dark, wholesome, rewarding, friendly</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/breakup song.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>breakup song</name>
+			<subdir>Composed</subdir>
+			<topic>A guy needs to get out of his relationship with a beautiful woman. The woman is sexy and full of joy, but cold and narcissistic. She is not emotionally available ever.</topic>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>hard, realistic, unfriendly, empowering</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2006/bye bye baby.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>bye bye baby</name>
+			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adults</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>funny, traditional, old-school, sexual, romantic, surprising, exciting, punishing, realistic</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/california tourist.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>california tourist</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>A guy has always wanted to visit Los Angeles, California. Finally he does it. There he sees all the landmarks and streets full of cars. He drives around the city. He visits all famous chain stores and restaurants. He goes to concerts. He goes to music clubs to drink and talk with people. He tries to get in to some scene or community, but does not succeed, so he goes back home away from California.</topic>
+			<genre>funk-rock</genre>
+			<audience>all ages</audience>
+			<qualifier>meme-like</qualifier>
+			<attributes>realistic, slightly sexual, joyful, friendly, beautiful, rewarding</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2006/candyday.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>candyday</name>
+			<subdir>Release</subdir>
+			<topic>A couple fights. They invent novel insults against each other. Both act surprised about the other&apos;s poor judgement.</topic>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>fighting-like</qualifier>
+			<attributes>realistic, hateful, dark, thrilling, punishing, violent, unfriendly, sexual, unexpected, funny</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/comforting friend.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>comforting friend</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
 			<qualifier></qualifier>
 			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/cute story - c.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>cute story - c</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>wholesome, cute, romantic, funny, rewarding, thrilling</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/dancing song.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>dancing song</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>realistic, difficult, sophisticated, romantic, sexual, unfriendly, dark</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/eat turd.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>eat turd</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>Life sucks and then you die. The philosophical and metaphorical truths about the life, which is full of misery and moments of joy. Smoking tobacco and drinking whiskey is also good. Grilled red meat is also tasty. Those, who try to make me change my ways should eat shit.</topic>
+			<genre>metal</genre>
+			<audience>men</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>violent, dark, scary, exciting, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/ethereal.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>ethereal</name>
+			<subdir>Composed</subdir>
+			<topic>A couple lives in a house without children. The men comes very late from work and smells weird. The wife is suspicious about mistress and she soon finds a proof about the other woman. She decides to paint a image of a penis to men&apos;s forehead, but she still waits to morning until she says anything. The song is about women&apos;s thoughts about failing marriage.</topic>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, soft, realistic about failing romantic relationship, unrfriendly, joyful, blissful</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/feels like home - c.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>feels like home - c</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>metal</genre>
+			<audience>teen boys</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>metaphorical, action-packed, adventurous, funny, violent, cliffhanger, friendly, joyful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/it could be so.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>it could be so</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>The heroine of the song is frustrated with men, because they only approach her once, and never try again second time. She wants men to pursue her, because that gives her pleasure and empowerment. She is perfect in her ways, but men needs to change. She is still waiting for the man and she keeps wondering when men will learn.</topic>
+			<genre>RnB</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>sexual, unfriendly, dark, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/jammed.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>jammed</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>A group of close friends are having a picnic with wine. They drink wine, until people wants to do something else. Everybody wants to do different things and they can&apos;t agree a single thing to do, so they are stuck in the picnic, which starts to get grumpy.</topic>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>meme-like</qualifier>
+			<attributes>funny, joyful, friendly, sad, metaphorical about a happy event with close friends</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/monsters.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>monsters</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>A guy feels how his inner wolf is exposed to other people. He wonders what they think of his inner wolf. He feels like howling to moon. He keeps going his daily routine, but his inner wolf wants to come out more and more. The wolf is violent, courageous, loud, noisy and annoying.</topic>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>imaginary, hard, scary, relaxing</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/morning.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>morning</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>A guy wakes up in the morning and starts to do his daily routine. He opens up TV and starts admitting that he is not going to have easy day now or ever. He keeps watching TV and sees all wars, famines, diseases and financial problems, which he comments on.</topic>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, unfriendly, wholesome, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/mr loser.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>mr loser</name>
+			<subdir>Composed</subdir>
+			<topic>A man in a powerful position starts to ask publicly money for corrupted actions. He won&apos;t co-operate with others and lacks all diplomacy. His friends in the PR department protects him endlessly. Finally, the firm goes bankruptcy and the whole building burns down as metaphorical outcome. The man burns and dies with the building. His employees, who suffered under him, are very happy that the boss is now dead.</topic>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>difficult, dark, joyful, unexpected, punishing</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/nightmare - c.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>nightmare - c</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>metal</genre>
+			<audience>teen boys</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>funny, difficult, violent, joyful, empowering, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/pirate song - a.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>pirate song - a</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>We are having a party with good people only. We have the place to hang around and have fun and we are doing it. The evening keeps going better and better and the end is not in sight yet.</topic>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, sexual, friendly, joyful, rewarding, unexpected, surprising</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/praise or thanks.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>praise or thanks</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>Philosophical take on political problems and tensions between neoliberals and republicans. A citizen is stuck cluelessly between parties and no-one is helping and sorting out his thoughts. The guy wonder&apos;s what he should choose. He lists all the options.</topic>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>realistic, empowering, difficult, unfriendly, hard, dark, thrilling, metaphorical about citizen&apos;s position in political tensions</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/sad love.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>sad love</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>A girl has a breakup and is very sad. She has never been so sad in her life. Her uncle sees her sorrow and starts to listen to her. In the end, uncle gives single advice, but he avoids to be a pusher. The girl tells about all the love and all the tragedic events.</topic>
+			<genre>rock</genre>
+			<audience>teens</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>difficult, friendly, wholesome, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/she.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>she</name>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<subdir>Composed</subdir>
+			<topic>A woman reminisces her life and thinks how it is a journey full of love. She has overcame obstacles with the power of self-esteem. She has had friends who helped her. She has appreciated beauty around her. She has embraced progressive thinking and change around her. She has done meditating and yoga, and tried to find inner peace. She have had heartbreaks and celebrations. She has made her own path, which she is proud of.</topic>
+			<genre>dance</genre>
+			<audience>women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, soft, romantic, joyful, exciting, colourful, metaphorical about woman&apos;s life</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/smoke and mirrors.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>smoke and mirrors</name>
+			<subdir>Composed</subdir>
+			<topic>A woman presents herself differently than she actually is. She makes men disappoint. She gives false romantical clues for men to play with them. The singer warns other men about this woman. The woman is very popular and all the other women likes her. This woman likes to party, go to clubs and drink alcohol.</topic>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>disorienting, unexpected, surprising, dark, wholesome, blissful</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/stupid.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>stupid</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>fighting-like</qualifier>
+			<attributes>difficult, sexual, dark, scary, action-packed, violent</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/summer 2006 (attitude).tg</key>
 		<value>
 			<year value="2006"/>
 			<name>summer 2006 (attitude)</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>warm, summertime, happy, joyful, beautiful, funny, punishing, sexual</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/tension.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>tension</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>tense, exciting, thrilling, friendly, competitive</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/timberland.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>timberland</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>unfriendly, sexual, joyful, thrilling, cliffhanger, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/tradition.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>tradition</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>metal</genre>
+			<audience>men and women</audience>
+			<qualifier>news-like</qualifier>
+			<attributes>exaggerated, historical, unfriendly, dark, exciting, wholesome, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/trashcan.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>trashcan</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>metal</genre>
+			<audience>men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>realistic, dark, unfriendly, violent, dark, hateful, thrilling, punishing</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2006/two - b.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>two - b</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rock</genre>
+			<audience>men and women</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>hard, difficult, hopeless, dark, scary, punishing</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/waltz in the wilderness.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>waltz in the wilderness</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>metal</genre>
+			<audience>men and women</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>historical, sad, dark, exaggerated, tense, melancholic, cliffhanger</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2006/withdrawal symptoms.tg</key>
+		<value>
+			<year value="2006"/>
+			<name>withdrawal symptoms</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre>metal</genre>
+			<audience>men and women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sad, wholesome, blissful, beautiful, desperate, cliffhanger</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/worried about a girl.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>worried about a girl</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>teen girls</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>imaginary, metaphorical about life&apos;s difficulties, friendly, understanding, sad, wise</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2006/wrong way.tg</key>
 		<value>
 			<year value="2006"/>
 			<name>wrong way</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, hard, joyful, funny, tense, competitive, hopeful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/ace.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>ace</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>airy, blissful, action-packed, realistic, exciting, adventurous, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/bomfunk.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>bomfunk</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>difficult, tense, rewarding, sophisticated, competitive, sexual</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/capture the flag - b.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>capture the flag - b</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>empowering, rewarding, hopeful, wise, soothing, action-packed</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/cheap spirit.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>cheap spirit</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, kinky, wholesome, joyful, tense, understanding, exciting, beautiful, empowering</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/club.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>club</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>dark, sexual, unfriendly, thrilling, rewarding, cliffhanger</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/dirty art.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>dirty art</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>dark, threatening, scary, exaggerated, punishing, happy</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/gas.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>gas</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>soft, rewarding, soothing, exciting, tense, wise, adventurous, action-packed</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2007/have a nice trip.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>have a nice trip</name>
+			<subdir>Release</subdir>
+			<topic>Metaphorical goodbye from the man to the woman, when a couple breaks up. The man continues his life to other direction. He admits that is like a light switch, which doesn&apos;t stay on. He&apos;ll go his own way like a train on tracks.</topic>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>lovely, friendly, sad, punishing, blissful, wholesome, painful</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/longing.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>longing</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>RnB</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>dark, romantic, lovely, unexpected, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/lost in online store.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>lost in online store</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>metal</genre>
+			<audience>teens</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>surreal, friendly, wise, punishing, exaggerated, funny, wholesome, relaxing, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/marching.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>marching</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, difficult, punishing, painful, exciting, hateful, happy, tense</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/neurotic.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>neurotic</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>tense, difficult, sad, hopeless, friendly, painful, punishing</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/paradise lost.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>paradise lost</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>all ages</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>imaginary, friendly, wise, soothing, blissful, relaxing, rewarding</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/party tonight.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>party tonight</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>meme-like</qualifier>
+			<attributes>joyful, hopeful, realistic, easy, friendly, exciting, empowering, rewarding</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/roadless trippin.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>roadless trippin</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>men and women</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>realistic, action-packet, adventurous, friendly, hopeful, exciting</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/sensitive.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>sensitive</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>lovely, tense, very sexual, metaphorical about sex, romantic, thrilling, happy, wholesome, friendly</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/serious.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>serious</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>RnB</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>dark, hopeful, scary, melancholic, friendly, soothing, cautionary</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/sgerberoz.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>sgerberoz</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>teens</audience>
+			<qualifier>popular</qualifier>
+			<attributes>funny, joyful, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/something positive.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>something positive</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>pop, hopeful, joyful, happy, realistic, easy, wholesome, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/spacewind.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>spacewind</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adults</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>blissful, happy, exciting, adventurous, joyful, cute, lovely, exaggerated</attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2007/starstruck.tg</key>
+		<value>
+			<year value="2007"/>
+			<name>starstruck</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre>RnB</genre>
+			<audience>women but not men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, realistic, rewarding</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2007/summer 2007 (epic).tg</key>
+		<value>
+			<year value="2007"/>
+			<name>summer 2007 (epic)</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>imaginary, blissful, supernatural, space-themed, cliffhanger, joyful, happy, hopeful, beautiful, punishing</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/sweet dreams.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>sweet dreams</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>traditional</genre>
+			<audience>small children</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>sleepy, soft, easy, lovely, blissful, wholesome, soothing, metaphorical about a day</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2007/weird.tg</key>
 		<value>
 			<year value="2007"/>
 			<name>weird</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>kinky, very sexual, joyful, disorienting, thrilling, surprising, exciting, adventurous, painful, tense, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/I&apos;ll find something - part 1.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>I&apos;ll find something - part 1</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>imaginary, scary, adventurous, thrilling, exciting, tense, happy, sad</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/I&apos;ll find something - part 2.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>I&apos;ll find something - part 2</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>imaginary, adventurous, relaxing, tense, happy</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/I&apos;ll find something - part 3.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>I&apos;ll find something - part 3</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>imaginary, adventurous, thrilling, exciting, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/athlete without equipments.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>athlete without equipments</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>metaphorical about drug user, funny, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/bad date.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>bad date</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>RnB</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, funny, sad, punishing, unfriendly, adventurous, painful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/edge - a.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>edge - a</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>realistic, sad, tense, sexual</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/haiku.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>haiku</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>sad, realistic, romantic, melancholic</attributes>
+		</value>
+		<key>AudioAssets/music/Release/2008/how did this happen.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>how did this happen</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre>rock</genre>
+			<audience>men but not women</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>difficult, violent, dark, scary, disorienting, horrifying, thrilling, punishing</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/jazz.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>jazz</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>imaginary, funny, joyful, cliffhanger</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/jazzish.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>jazzish</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>tense, sexual, joyful, dark, exciting, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/jungle soul.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>jungle soul</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everyone</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>metaphorical about life-changing experiences, exciting, thrilling, joyful, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/may I - a.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>may I - a</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -626,6 +1150,7 @@
 		<value>
 			<year value="2008"/>
 			<name>may I - b</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -636,6 +1161,7 @@
 		<value>
 			<year value="2008"/>
 			<name>more beer</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -646,6 +1172,7 @@
 		<value>
 			<year value="2008"/>
 			<name>movie</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -656,6 +1183,7 @@
 		<value>
 			<year value="2008"/>
 			<name>public square</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -666,6 +1194,7 @@
 		<value>
 			<year value="2008"/>
 			<name>pulse</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -676,16 +1205,29 @@
 		<value>
 			<year value="2008"/>
 			<name>summer 2008 (too hot)</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
 			<qualifier></qualifier>
 			<attributes></attributes>
 		</value>
+		<key>AudioAssets/music/Release/2008/twisted loneliness - a.tg</key>
+		<value>
+			<year value="2008"/>
+			<name>twisted loneliness - a</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, easy, sexual, unfriendly, sad, scary, surprising</attributes>
+		</value>
 		<key>AudioAssets/music/Composed/2008/vodka search.tg</key>
 		<value>
 			<year value="2008"/>
 			<name>vodka search</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -696,6 +1238,7 @@
 		<value>
 			<year value="2008"/>
 			<name>yellow</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -706,6 +1249,7 @@
 		<value>
 			<year value="2008"/>
 			<name>youth</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -716,6 +1260,7 @@
 		<value>
 			<year value="2009"/>
 			<name>I&apos;ll find something - part 1 - b</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -726,6 +1271,7 @@
 		<value>
 			<year value="2009"/>
 			<name>bad vibes</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -736,6 +1282,7 @@
 		<value>
 			<year value="2009"/>
 			<name>bald party</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -746,6 +1293,18 @@
 		<value>
 			<year value="2009"/>
 			<name>british utopia</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2009/midlife crisis.tg</key>
+		<value>
+			<year value="2009"/>
+			<name>midlife crisis</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -756,6 +1315,18 @@
 		<value>
 			<year value="2009"/>
 			<name>pirate song - b</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2009/question to answer 42.tg</key>
+		<value>
+			<year value="2009"/>
+			<name>question to answer 42</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -766,6 +1337,150 @@
 		<value>
 			<year value="2009"/>
 			<name>summer 2009 (at the summer cottage)</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/blow my whistle.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>blow my whistle</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/crash landing.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>crash landing</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/edge - b.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>edge - b</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/energizer.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>energizer</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/funk10.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>funk10</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/hometown.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>hometown</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/loathing inc.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>loathing inc</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/once in a lifetime.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>once in a lifetime</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/rabbit&apos;s life.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>rabbit&apos;s life</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/sailing.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>sailing</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/secret agent.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>secret agent</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/slow dancing.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>slow dancing</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2010/sofia.tg</key>
+		<value>
+			<year value="2010"/>
+			<name>sofia</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -776,6 +1491,18 @@
 		<value>
 			<year value="2010"/>
 			<name>summer 2010 (sexy)</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2011/city street.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>city street</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -786,6 +1513,7 @@
 		<value>
 			<year value="2011"/>
 			<name>dot fi</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -796,6 +1524,139 @@
 		<value>
 			<year value="2011"/>
 			<name>edge - c</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/funk11.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>funk11</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/gutter.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>gutter</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/india.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>india</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/island hideout - a.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>island hideout - a</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/lucky strike.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>lucky strike</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/my first.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>my first</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/the day you&apos;re mine - a.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>the day you&apos;re mine - a</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/the day you&apos;re mine - b.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>the day you&apos;re mine - b</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/twisted xmas 2011.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>twisted xmas 2011</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/virtual world.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>virtual world</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/with you - a.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>with you - a</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2011/with you - b.tg</key>
+		<value>
+			<year value="2011"/>
+			<name>with you - b</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -806,6 +1667,7 @@
 		<value>
 			<year value="2012"/>
 			<name>around the world</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -816,6 +1678,40 @@
 		<value>
 			<year value="2012"/>
 			<name>bicycling feeling</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2012/funk12.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>funk12</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2012/melancholy.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>melancholy</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2012/never meant to.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>never meant to</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -826,6 +1722,73 @@
 		<value>
 			<year value="2012"/>
 			<name>pirate song - c</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2012/sauna-lake.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>sauna-lake</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2012/summer 2012 (midsummer).tg</key>
+		<value>
+			<year value="2012"/>
+			<name>summer 2012 (midsummer)</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2012/time is running out.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>time is running out</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2012/ultimate.tg</key>
+		<value>
+			<year value="2012"/>
+			<name>ultimate</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2013/gala.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>gala</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2013/island hideout - b.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>island hideout - b</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -836,6 +1799,18 @@
 		<value>
 			<year value="2013"/>
 			<name>mystery</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2013/reverb.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>reverb</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -846,6 +1821,18 @@
 		<value>
 			<year value="2013"/>
 			<name>skyscrapers - a</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2013/skyscrapers - b.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>skyscrapers - b</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -856,6 +1843,18 @@
 		<value>
 			<year value="2013"/>
 			<name>sum of goodbyes</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2013/summer 2013 (cool blue).tg</key>
+		<value>
+			<year value="2013"/>
+			<name>summer 2013 (cool blue)</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -866,6 +1865,18 @@
 		<value>
 			<year value="2013"/>
 			<name>the one who forgot</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2013/tired.tg</key>
+		<value>
+			<year value="2013"/>
+			<name>tired</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -876,6 +1887,128 @@
 		<value>
 			<year value="2014"/>
 			<name>missing you</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2014/paula.tg</key>
+		<value>
+			<year value="2014"/>
+			<name>paula</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2014/sad little furry ball.tg</key>
+		<value>
+			<year value="2014"/>
+			<name>sad little furry ball</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2014/stadion pop.tg</key>
+		<value>
+			<year value="2014"/>
+			<name>stadion pop</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2014/summer 2014 (kickflip).tg</key>
+		<value>
+			<year value="2014"/>
+			<name>summer 2014 (kickflip)</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2015/change.tg</key>
+		<value>
+			<year value="2015"/>
+			<name>change</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2015/cliche feels.tg</key>
+		<value>
+			<year value="2015"/>
+			<name>cliche feels</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2015/graduation.tg</key>
+		<value>
+			<year value="2015"/>
+			<name>graduation</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2015/like that.tg</key>
+		<value>
+			<year value="2015"/>
+			<name>like that</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2015/our chatroom.tg</key>
+		<value>
+			<year value="2015"/>
+			<name>our chatroom</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2015/progress finally.tg</key>
+		<value>
+			<year value="2015"/>
+			<name>progress finally</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2015/stronger.tg</key>
+		<value>
+			<year value="2015"/>
+			<name>stronger</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -886,6 +2019,117 @@
 		<value>
 			<year value="2016"/>
 			<name>old moped road</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2016/summer 2016 (crazy barn ball).tg</key>
+		<value>
+			<year value="2016"/>
+			<name>summer 2016 (crazy barn ball)</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2016/testing out a new sauna.tg</key>
+		<value>
+			<year value="2016"/>
+			<name>testing out a new sauna</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2016/through difficulty to success.tg</key>
+		<value>
+			<year value="2016"/>
+			<name>through difficulty to success</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2016/you and me.tg</key>
+		<value>
+			<year value="2016"/>
+			<name>you and me</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2017/AAFC AAFA AAFC ADEA DDEE.tg</key>
+		<value>
+			<year value="2017"/>
+			<name>AAFC AAFA AAFC ADEA DDEE</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2017/FFFG AAAC.tg</key>
+		<value>
+			<year value="2017"/>
+			<name>FFFG AAAC</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2017/all black clothes.tg</key>
+		<value>
+			<year value="2017"/>
+			<name>all black clothes</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2017/favourite juice.tg</key>
+		<value>
+			<year value="2017"/>
+			<name>favourite juice</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2017/my voice.tg</key>
+		<value>
+			<year value="2017"/>
+			<name>my voice</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2017/summer 2017 (happy memories).tg</key>
+		<value>
+			<year value="2017"/>
+			<name>summer 2017 (happy memories)</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -896,6 +2140,73 @@
 		<value>
 			<year value="2018"/>
 			<name>fear</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2018/normal guy.tg</key>
+		<value>
+			<year value="2018"/>
+			<name>normal guy</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2018/trad story.tg</key>
+		<value>
+			<year value="2018"/>
+			<name>trad story</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2019/AGFC.tg</key>
+		<value>
+			<year value="2019"/>
+			<name>AGFC</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2019/alone in the woods.tg</key>
+		<value>
+			<year value="2019"/>
+			<name>alone in the woods</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2019/an unreasonable woman.tg</key>
+		<value>
+			<year value="2019"/>
+			<name>an unreasonable woman</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2019/cami.tg</key>
+		<value>
+			<year value="2019"/>
+			<name>cami</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -906,6 +2217,51 @@
 		<value>
 			<year value="2019"/>
 			<name>every song you rip</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2019/funk19.tg</key>
+		<value>
+			<year value="2019"/>
+			<name>funk19</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/FFCGAA - a.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>FFCGAA - a</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/a jump - a.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>a jump - a</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/a jump - b.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>a jump - b</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -916,6 +2272,29 @@
 		<value>
 			<year value="2020"/>
 			<name>corpse identity</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/cute story - d.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>cute story - d</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/freeform.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>freeform</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -926,6 +2305,260 @@
 		<value>
 			<year value="2020"/>
 			<name>hot pt1</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/hot pt2.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>hot pt2</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/ironic.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>ironic</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/lightweight.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>lightweight</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/november.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>november</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/plagiarism riff 1.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>plagiarism riff 1</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/proud cause of harm.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>proud cause of harm</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/retard in chief.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>retard in chief</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/riddle.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>riddle</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/sergeant pepper.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>sergeant pepper</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/slow dancing 2020.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>slow dancing 2020</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/sorry but no.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>sorry but no</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2020/summer 2020 (don&apos;t go inside the tower).tg</key>
+		<value>
+			<year value="2020"/>
+			<name>summer 2020 (don&apos;t go inside the tower)</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2020/sweaty hello.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>sweaty hello</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/technical exercise 1.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>technical exercise 1</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/technocracy firewall.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>technocracy firewall</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/thinker 2020.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>thinker 2020</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/twisted loneliness - b.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>twisted loneliness - b</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2020/twisted xmas 2020.tg</key>
+		<value>
+			<year value="2020"/>
+			<name>twisted xmas 2020</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/FFCGAA - b.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>FFCGAA - b</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/a jump - c.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>a jump - c</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/always on my mind.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>always on my mind</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/bargain.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>bargain</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/bassist&apos;s song.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>bassist&apos;s song</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -936,6 +2569,95 @@
 		<value>
 			<year value="2021"/>
 			<name>by your side</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/catwoman.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>catwoman</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/clinton ave.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>clinton ave</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/crew greetingz.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>crew greetingz</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/cutie from future.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>cutie from future</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/cycles.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>cycles</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/date night.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>date night</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/desperado.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>desperado</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/die lederhosen.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>die lederhosen</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -946,6 +2668,216 @@
 		<value>
 			<year value="2021"/>
 			<name>don&apos;t worry honey</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/dream job.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>dream job</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/dreaming of you.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>dreaming of you</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/dreaming together.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>dreaming together</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/edge - d.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>edge - d</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/elegant.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>elegant</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/focus.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>focus</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/forever repeat.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>forever repeat</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/funk21.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>funk21</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/funky geek.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>funky geek</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/gin.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>gin</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/going down.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>going down</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/golf.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>golf</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/got your message.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>got your message</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/green haze.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>green haze</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/had no teacher.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>had no teacher</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/hardbass.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>hardbass</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/i love you.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>i love you</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/ida to joy.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>ida to joy</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/it is fine.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>it is fine</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -956,6 +2888,7 @@
 		<value>
 			<year value="2021"/>
 			<name>it is what</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -966,6 +2899,7 @@
 		<value>
 			<year value="2021"/>
 			<name>jab</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -976,6 +2910,106 @@
 		<value>
 			<year value="2021"/>
 			<name>jinn</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/kangaroo dictator.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>kangaroo dictator</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/keeping place safe for her.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>keeping place safe for her</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/kill the process.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>kill the process</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/like I used to play.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>like I used to play</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/locals.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>locals</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/loco.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>loco</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/medical drama.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>medical drama</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/morning in forest.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>morning in forest</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/mute.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>mute</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -986,6 +3020,18 @@
 		<value>
 			<year value="2021"/>
 			<name>not taking seriously</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/on you.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>on you</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -996,6 +3042,51 @@
 		<value>
 			<year value="2021"/>
 			<name>parametric love</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/paranoid.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>paranoid</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/party partyyy.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>party partyyy</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/passenger.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>passenger</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/pink trance.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>pink trance</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -1006,6 +3097,7 @@
 		<value>
 			<year value="2021"/>
 			<name>political juggler</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -1016,6 +3108,128 @@
 		<value>
 			<year value="2021"/>
 			<name>professional pride</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/rainy autumn.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>rainy autumn</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/restless cinderella.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>restless cinderella</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/roots.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>roots</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/saturday show.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>saturday show</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/sea shanty.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>sea shanty</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/second class man.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>second class man</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/snowy winter and candles.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>snowy winter and candles</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/spring jam.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>spring jam</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/summer 2021 - skin trance.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>summer 2021 - skin trance</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/sweet dreams 21.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>sweet dreams 21</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/tallalaa.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>tallalaa</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -1026,6 +3240,18 @@
 		<value>
 			<year value="2021"/>
 			<name>thanks everyone</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/tiptap.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>tiptap</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -1036,6 +3262,95 @@
 		<value>
 			<year value="2021"/>
 			<name>too much pain</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/twisted loneliness - c.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>twisted loneliness - c</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/twisted xmas 2021.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>twisted xmas 2021</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/waiting for tonight.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>waiting for tonight</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/walrus.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>walrus</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/what me worry.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>what me worry</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/will you ever notice me.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>will you ever notice me</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2021/wound.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>wound</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2021/yet another riser.tg</key>
+		<value>
+			<year value="2021"/>
+			<name>yet another riser</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -1046,6 +3361,7 @@
 		<value>
 			<year value="2021"/>
 			<name>you don&apos;t need to</name>
+			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -1056,6 +3372,95 @@
 		<value>
 			<year value="2022"/>
 			<name>before dawn</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2022/breaking my survival.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>breaking my survival</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2022/cheapest hussy.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>cheapest hussy</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2022/first of the year 2022.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>first of the year 2022</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2022/hold on to your socks.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>hold on to your socks</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2022/old saying.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>old saying</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2022/orange 90s.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>orange 90s</name>
+			<subdir>Unfinished</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2022/she comes between us.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>she comes between us</name>
+			<subdir>Release</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Unfinished/2022/thunderstorm (summer 2022).tg</key>
+		<value>
+			<year value="2022"/>
+			<name>thunderstorm (summer 2022)</name>
+			<subdir>Unfinished</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>
@@ -1066,6 +3471,18 @@
 		<value>
 			<year value="2022"/>
 			<name>waiter of the small cafe</name>
+			<subdir>Composed</subdir>
+			<topic></topic>
+			<genre></genre>
+			<audience></audience>
+			<qualifier></qualifier>
+			<attributes></attributes>
+		</value>
+		<key>AudioAssets/music/Release/2022/will you believe in rock.tg</key>
+		<value>
+			<year value="2022"/>
+			<name>will you believe in rock</name>
+			<subdir>Release</subdir>
 			<topic></topic>
 			<genre></genre>
 			<audience></audience>

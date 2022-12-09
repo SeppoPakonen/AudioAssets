@@ -11,15 +11,20 @@ Editor::Editor() {
 	qualifier.Add("popular");
 	qualifier.Add("surreal");
 	qualifier.Add("realistic");
+	qualifier.Add("dream-like");
 	qualifier.Add("story-like");
 	qualifier.Add("meme-like");
+	qualifier.Add("fighting-like");
+	qualifier.Add("news-like");
 	genre.Add("");
 	genre.Add("rock");
+	genre.Add("funk-rock");
 	genre.Add("rap");
 	genre.Add("pop");
 	genre.Add("traditional");
 	genre.Add("dance");
 	genre.Add("metal");
+	genre.Add("RnB");
 	audience.Add("");
 	audience.Add("all ages");
 	audience.Add("everyone");
@@ -33,7 +38,13 @@ Editor::Editor() {
 	audience.Add("teens");
 	audience.Add("teen girls");
 	audience.Add("teen boys");
+	audience.Add("young adults");
+	audience.Add("young adult women");
+	audience.Add("young adult men");
 	audience.Add("old people");
+	audience.Add("small children");
+	audience.Add("children");
+	audience.Add("cautionary");
 	attributes.Add("");
 	attributes.Add("realistic");
 	attributes.Add("imaginary");
@@ -45,6 +56,7 @@ Editor::Editor() {
 	attributes.Add("very sexual");
 	attributes.Add("romantic");
 	attributes.Add("friendly");
+	attributes.Add("unfriendly");
 	attributes.Add("joyful");
 	attributes.Add("violent");
 	attributes.Add("dark");
@@ -60,17 +72,46 @@ Editor::Editor() {
 	attributes.Add("beautiful");
 	attributes.Add("rewarding");
 	attributes.Add("relaxing");
-	attributes.Add("metaforical about life");
-	attributes.Add("metaforical about death");
-	attributes.Add("metaforical about family");
-	attributes.Add("metaforical about happy family event");
-	attributes.Add("metaforical about happy event with friends");
-	attributes.Add("metaforical about romantic relationship");
-	attributes.Add("metaforical about bad relationship");
-	attributes.Add("metaforical about divorce");
-	attributes.Add("metaforical about sex");
-	attributes.Add("metaforical about god");
-	attributes.Add("metaforical about stalker");
+	attributes.Add("blissful");
+	attributes.Add("funny");
+	attributes.Add("punishing");
+	attributes.Add("colourful");
+	attributes.Add("adventurous");
+	attributes.Add("action-packed");
+	attributes.Add("lovely");
+	attributes.Add("cliffhanger");
+	attributes.Add("cute");
+	attributes.Add("melancholic");
+	attributes.Add("hateful");
+	attributes.Add("desperate");
+	attributes.Add("hopeful");
+	attributes.Add("hopeless");
+	attributes.Add("sophisticated");
+	attributes.Add("hopeless");
+	attributes.Add("painful");
+	attributes.Add("happy");
+	attributes.Add("tense");
+	attributes.Add("competitive");
+	attributes.Add("exaggerated");
+	attributes.Add("historical");
+	attributes.Add("sad");
+	attributes.Add("understanding");
+	attributes.Add("wise");
+	attributes.Add("supernatural");
+	attributes.Add("space-themed");
+	attributes.Add("sleepy");
+	attributes.Add("soothing");
+	attributes.Add("metaphorical about life");
+	attributes.Add("metaphorical about death");
+	attributes.Add("metaphorical about family");
+	attributes.Add("metaphorical about happy family event");
+	attributes.Add("metaphorical about happy event with friends");
+	attributes.Add("metaphorical about romantic relationship");
+	attributes.Add("metaphorical about bad relationship");
+	attributes.Add("metaphorical about divorce");
+	attributes.Add("metaphorical about sex");
+	attributes.Add("metaphorical about god");
+	attributes.Add("metaphorical about stalker");
 	
 	for (String s : qualifier) edit.qualifier.Add(s);
 	for (String s : genre) edit.genre.Add(s);
@@ -113,30 +154,40 @@ Editor::~Editor() {
 
 void Editor::FindSongs() {
 	String home = GetHomeDirectory();
-	String dir = home + DIR_SEPS "AudioAssets" DIR_SEPS "music" DIR_SEPS "Composed";
+	String dir = home + DIR_SEPS "AudioAssets" DIR_SEPS "music";
 	LOG("Finding files from: " + dir);
+	
+	Index<String> subdirs;
+	subdirs.Add("Release");
+	subdirs.Add("Composed");
+	subdirs.Add("Unfinished");
 	
 	Time now = GetSysTime();
 	int begin_year = 2001;
 	int end_year = now.year;
 	
-	int idx = 0;
-	for (int year = begin_year; year <= end_year; year++) {
-		FindFile ff;
-		
-		if (ff.Search(dir + DIR_SEPS + IntStr(year) + "/*.tg")) {
-			do {
-				LOG(idx << ": " << ff.GetPath());
-				String relpath = ff.GetPath().Mid(home.GetCount() + 1);
-				
-				Song& song = songlist.GetAdd(relpath);
-				song.year = year;
-				song.name = GetFileName(relpath);
-				song.name = song.name.Left(song.name.GetCount()-3);
-				
-				idx++;
+	for (String sd : subdirs) {
+		int idx = 0;
+		for (int year = begin_year; year <= end_year; year++) {
+			if (year <= 2002 && sd == "Release")
+				continue;
+			
+			FindFile ff;
+			if (ff.Search(dir + DIR_SEPS + sd + DIR_SEPS + IntStr(year) + "/*.tg")) {
+				do {
+					LOG(idx << ": " << ff.GetPath());
+					String relpath = ff.GetPath().Mid(home.GetCount() + 1);
+					
+					Song& song = songlist.GetAdd(relpath);
+					song.subdir = sd;
+					song.year = year;
+					song.name = GetFileName(relpath);
+					song.name = song.name.Left(song.name.GetCount()-3);
+					
+					idx++;
+				}
+				while (ff.Next());
 			}
-			while (ff.Next());
 		}
 	}
 	
@@ -167,6 +218,7 @@ void Editor::SongData() {
 	String key = songs.Get(cursor, 0);
 	Song& song = songlist.Get(key);
 	
+	edit.subdir.SetData(song.subdir);
 	edit.year.SetData(song.year);
 	edit.name.SetData(song.name);
 	edit.topic.SetData(song.topic);
@@ -246,6 +298,7 @@ void Song::Xmlize(XmlIO& xml) {
 	xml
 		("year", year)
 		("name", name)
+		("subdir", subdir)
 		("topic", topic)
 		("genre", genre)
 		("audience", audience)
