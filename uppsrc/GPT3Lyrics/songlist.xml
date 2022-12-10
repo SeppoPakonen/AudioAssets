@@ -1141,10 +1141,10 @@
 			<name>may I - a</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>women but not men</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>very sexual, lovely, funny, imaginary, friendly, joyful, scary, rewarding, sophisticated</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/may I - b.tg</key>
 		<value>
@@ -1152,10 +1152,10 @@
 			<name>may I - b</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, lovely, funny, friendly, joyful, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/more beer.tg</key>
 		<value>
@@ -1163,10 +1163,10 @@
 			<name>more beer</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adult women</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>imaginary, easy, soft, lovely, friendly, punishing, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/movie.tg</key>
 		<value>
@@ -1174,10 +1174,10 @@
 			<name>movie</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>all ages</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>romantic, violent, scary, disorienting, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/public square.tg</key>
 		<value>
@@ -1185,10 +1185,10 @@
 			<name>public square</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>young adult men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>difficult, realistic, funny, hopeful, sad, wise, sophisticated</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/pulse.tg</key>
 		<value>
@@ -1196,10 +1196,10 @@
 			<name>pulse</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>women and men</audience>
+			<qualifier>fighting-like</qualifier>
+			<attributes>sexual, romantic, friendly, funny, wise, soothing</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/summer 2008 (too hot).tg</key>
 		<value>
@@ -1207,10 +1207,10 @@
 			<name>summer 2008 (too hot)</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>friendly, joyful, funny, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2008/twisted loneliness - a.tg</key>
 		<value>
@@ -1229,10 +1229,10 @@
 			<name>vodka search</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adult men</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>difficult, violent, dark, scary, thrilling, exciting, action-packed, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/yellow.tg</key>
 		<value>
@@ -1240,10 +1240,10 @@
 			<name>yellow</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>men but not women</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, difficult, sexual, violent, scary, beautiful, painful, supernatural, understanding, sad, sophisticated</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2008/youth.tg</key>
 		<value>
@@ -1251,10 +1251,10 @@
 			<name>youth</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>teens</audience>
+			<qualifier>popular</qualifier>
+			<attributes>beautiful, empowering, hopeful, tense, unfriendly, realistic</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2009/I&apos;ll find something - part 1 - b.tg</key>
 		<value>
@@ -1262,10 +1262,10 @@
 			<name>I&apos;ll find something - part 1 - b</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>imaginary, scary, adventurous, thrilling, exciting, tense, happy, sad</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2009/bad vibes.tg</key>
 		<value>
@@ -1273,10 +1273,10 @@
 			<name>bad vibes</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>violent, dark, scary, horrifying, hateful, adventurous, action-packed</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2009/bald party.tg</key>
 		<value>
@@ -1284,10 +1284,10 @@
 			<name>bald party</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adult men</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>tense, understanding, competitive, friendly, realistic</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2009/british utopia.tg</key>
 		<value>
@@ -1295,21 +1295,21 @@
 			<name>british utopia</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>happy, joyful, funny, wholesome, sarcastic, lovely</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2009/midlife crisis.tg</key>
 		<value>
 			<year value="2009"/>
 			<name>midlife crisis</name>
 			<subdir>Release</subdir>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<topic>A boy grows to be a man and sees the foolishnes of older generations. Older generation demand high end technology and holidays in warm south, where they travel with planes. It all seems very stupid and unorganized. They don&apos;t even seem to like their lives, but they just balance between idiotic pain and pleasure.</topic>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, friendly, soothing, wise, hopeless, cliffhanger</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2009/pirate song - b.tg</key>
 		<value>
@@ -1317,10 +1317,10 @@
 			<name>pirate song - b</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, unfriendly, joyful, unexpected, surprising</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2009/question to answer 42.tg</key>
 		<value>
@@ -1328,10 +1328,10 @@
 			<name>question to answer 42</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>easy, friendly, joyful, exciting, empowering, wise, soothing</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2009/summer 2009 (at the summer cottage).tg</key>
 		<value>
@@ -1339,10 +1339,10 @@
 			<name>summer 2009 (at the summer cottage)</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>all ages</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>nostalgic, happy, soothing, joyful, thrilling, wholesome, lovely</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/blow my whistle.tg</key>
 		<value>
@@ -1350,10 +1350,10 @@
 			<name>blow my whistle</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, rewarding, tense, surprising, exaggerated, sophisticated, cliffhanger</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/crash landing.tg</key>
 		<value>
@@ -1361,10 +1361,10 @@
 			<name>crash landing</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>lovely, hateful, happy, hopeful, exciting, wise</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/edge - b.tg</key>
 		<value>
@@ -1372,10 +1372,10 @@
 			<name>edge - b</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>men and women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>romantic, hopeful, adventurous, soft, empowering, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/energizer.tg</key>
 		<value>
@@ -1383,10 +1383,10 @@
 			<name>energizer</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>young adult men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, hateful, friendly, energic, exaggerated</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/funk10.tg</key>
 		<value>
@@ -1394,10 +1394,10 @@
 			<name>funk10</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men but not women</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>hopeless, thrilling, desperate, wholesome, dark, scary</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/hometown.tg</key>
 		<value>
@@ -1405,10 +1405,10 @@
 			<name>hometown</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>difficult, tense, punishing, hopeless, painful, unfriendly, hateful, realistic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/loathing inc.tg</key>
 		<value>
@@ -1416,10 +1416,10 @@
 			<name>loathing inc</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, tense, rewarding, beautiful, unexpected, surprising, joyful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/once in a lifetime.tg</key>
 		<value>
@@ -1427,10 +1427,10 @@
 			<name>once in a lifetime</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>difficult, disorienting, unexpected, punishing</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/rabbit&apos;s life.tg</key>
 		<value>
@@ -1438,10 +1438,10 @@
 			<name>rabbit&apos;s life</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>beautiful, blissful, rewarding, happy</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/sailing.tg</key>
 		<value>
@@ -1449,10 +1449,10 @@
 			<name>sailing</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>all ages</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>easy, romantic, rewarding, scary, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/secret agent.tg</key>
 		<value>
@@ -1460,10 +1460,10 @@
 			<name>secret agent</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men</audience>
+			<qualifier>fighting-like</qualifier>
+			<attributes>romantic, hateful, adventurous, action-packed, wholesome, wise</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/slow dancing.tg</key>
 		<value>
@@ -1471,10 +1471,10 @@
 			<name>slow dancing</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>romantic, beautiful, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2010/sofia.tg</key>
 		<value>
@@ -1482,10 +1482,10 @@
 			<name>sofia</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adult men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>joyful, happy, comedic, thrilling, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2010/summer 2010 (sexy).tg</key>
 		<value>
@@ -1493,21 +1493,21 @@
 			<name>summer 2010 (sexy)</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, lovely, happy, friendly, hopeful, adventurous, tense, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2011/city street.tg</key>
 		<value>
 			<year value="2011"/>
 			<name>city street</name>
 			<subdir>Release</subdir>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<topic>A guy goes to a beer after a hard day of work. It&apos;s very nice and hot summer day. The air smells nice and people are happy.</topic>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>happy, slow, tired, friendly, joyful, wholesome, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2011/dot fi.tg</key>
 		<value>
@@ -1515,10 +1515,10 @@
 			<name>dot fi</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>dark, tense, melancholic, tired, comedic</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2011/edge - c.tg</key>
 		<value>
@@ -1526,10 +1526,10 @@
 			<name>edge - c</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, sad, tense, sexual</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/funk11.tg</key>
 		<value>
@@ -1537,10 +1537,10 @@
 			<name>funk11</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>imaginary, surreal, wise, sarcastic, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/gutter.tg</key>
 		<value>
@@ -1548,10 +1548,10 @@
 			<name>gutter</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, disorienting, sarcastic, comedic, hateful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/india.tg</key>
 		<value>
@@ -1559,10 +1559,10 @@
 			<name>india</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men and women</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>soothing, happy, hopeful, relaxing</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/island hideout - a.tg</key>
 		<value>
@@ -1570,10 +1570,10 @@
 			<name>island hideout - a</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>women</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>relaxing, adventurous, blissful, wholesome, exciting, surprising</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/lucky strike.tg</key>
 		<value>
@@ -1581,10 +1581,10 @@
 			<name>lucky strike</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, thrilling, scary, joyful, tense, cliffhanger, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/my first.tg</key>
 		<value>
@@ -1592,10 +1592,10 @@
 			<name>my first</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>joyful, euphoric, sexual, rewarding, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/the day you&apos;re mine - a.tg</key>
 		<value>
@@ -1603,10 +1603,10 @@
 			<name>the day you&apos;re mine - a</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, tense, hopeful, sad, romantic, clueless</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/the day you&apos;re mine - b.tg</key>
 		<value>
@@ -1614,10 +1614,10 @@
 			<name>the day you&apos;re mine - b</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, tense, hopeful, sad, romantic, clueless</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/twisted xmas 2011.tg</key>
 		<value>
@@ -1625,10 +1625,10 @@
 			<name>twisted xmas 2011</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women but not men</audience>
+			<qualifier>fighting-like</qualifier>
+			<attributes>sexual, unfriendly, punishing, disorienting, twisted, bossy</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/virtual world.tg</key>
 		<value>
@@ -1636,10 +1636,10 @@
 			<name>virtual world</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>realistic, difficult, hard, joyful, comedic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/with you - a.tg</key>
 		<value>
@@ -1647,10 +1647,10 @@
 			<name>with you - a</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>friendly, joyful, lovely, bereft</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2011/with you - b.tg</key>
 		<value>
@@ -1658,10 +1658,10 @@
 			<name>with you - b</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>friendly, joyful, lovely, bereft</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2012/around the world.tg</key>
 		<value>
@@ -1669,10 +1669,10 @@
 			<name>around the world</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>friendly, happy, joyful, cheerful, exciting, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2012/bicycling feeling.tg</key>
 		<value>
@@ -1680,10 +1680,10 @@
 			<name>bicycling feeling</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>men and women</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>cheerful, sporty, hopeful, tense, exciting, wholesome, expected, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2012/funk12.tg</key>
 		<value>
@@ -1691,10 +1691,10 @@
 			<name>funk12</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>friendly, joyful, tense, hard, exciting, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2012/melancholy.tg</key>
 		<value>
@@ -1702,10 +1702,10 @@
 			<name>melancholy</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>romantic, sexual, sad, blissful, lovely</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2012/never meant to.tg</key>
 		<value>
@@ -1713,10 +1713,10 @@
 			<name>never meant to</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>apologizing, sad, romantic, lovely, punishing, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2012/pirate song - c.tg</key>
 		<value>
@@ -1724,10 +1724,10 @@
 			<name>pirate song - c</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>sexual, unfriendly, joyful, unexpected, surprising</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2012/sauna-lake.tg</key>
 		<value>
@@ -1735,10 +1735,10 @@
 			<name>sauna-lake</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>imaginary, rewarding, joyful, rewarding, exciting, warm, blissful, funny, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2012/summer 2012 (midsummer).tg</key>
 		<value>
@@ -1746,10 +1746,10 @@
 			<name>summer 2012 (midsummer)</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>realistic, easy, warm, joyful, tense, exciting, energic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2012/time is running out.tg</key>
 		<value>
@@ -1757,10 +1757,10 @@
 			<name>time is running out</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sad, tense, worrisome, exciting, lovely, romantic, friendly, soft</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2012/ultimate.tg</key>
 		<value>
@@ -1768,10 +1768,10 @@
 			<name>ultimate</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>joyful, adventurous, cliffhanger, tense, exciting, worrisome</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2013/gala.tg</key>
 		<value>
@@ -1779,10 +1779,10 @@
 			<name>gala</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>women and men</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>exciting, happy, tense, rewarding, friendly, beautiful, relaxing</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2013/island hideout - b.tg</key>
 		<value>
@@ -1790,10 +1790,10 @@
 			<name>island hideout - b</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>women</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>relaxing, adventurous, blissful, wholesome, exciting, surprising</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2013/mystery.tg</key>
 		<value>
@@ -1801,10 +1801,10 @@
 			<name>mystery</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>tense, worrisome, exciting, thrilling, cliffhanger, dark, scary</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2013/reverb.tg</key>
 		<value>
@@ -1812,10 +1812,10 @@
 			<name>reverb</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, happy, exciting, energizing, euphoric, clueless</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2013/skyscrapers - a.tg</key>
 		<value>
@@ -1823,10 +1823,10 @@
 			<name>skyscrapers - a</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>wishful, tense, realistic, worrisome, cliffhanger, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2013/skyscrapers - b.tg</key>
 		<value>
@@ -1834,10 +1834,10 @@
 			<name>skyscrapers - b</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>wishful, tense, realistic, worrisome, cliffhanger, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2013/sum of goodbyes.tg</key>
 		<value>
@@ -1845,21 +1845,21 @@
 			<name>sum of goodbyes</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women but not men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>soft, wishful, lovely, romantic, sexual, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2013/summer 2013 (cool blue).tg</key>
 		<value>
 			<year value="2013"/>
 			<name>summer 2013 (cool blue)</name>
 			<subdir>Release</subdir>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<topic>Man escapes stressful work life for a single day. He shuts down his phone and goes to a remote beach. He goes to swim. Water is warm. He floats on his back and watches blue sky and seagulls. He feels very blissful.</topic>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, soft, warm, hopeful, happy, joyful, soothing, pleasing, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2013/the one who forgot.tg</key>
 		<value>
@@ -1867,10 +1867,10 @@
 			<name>the one who forgot</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>wistful, realistic, sad, lovely, hopeless, wholesome, wise</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2013/tired.tg</key>
 		<value>
@@ -1878,10 +1878,10 @@
 			<name>tired</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>relaxing, soft, tired, soothing, blissful, sleepy, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2014/missing you.tg</key>
 		<value>
@@ -1889,10 +1889,10 @@
 			<name>missing you</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>wishful, clueless, nostalgic, sad, lovely</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2014/paula.tg</key>
 		<value>
@@ -1900,21 +1900,21 @@
 			<name>paula</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>lovely, wistful, wishful, romantic, sexual, sad</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2014/sad little furry ball.tg</key>
 		<value>
 			<year value="2014"/>
 			<name>sad little furry ball</name>
 			<subdir>Release</subdir>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<topic>An little animal falls to some hole in the nature and can&apos;t get out. It slowly loses it&apos;s faith and in the end, it loses it&apos;s life.</topic>
+			<genre>dance</genre>
+			<audience>everybody</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>metaphorical about human hardship, dark, scary, sad, hopeless, desperate, painful, unnerving, metaphysical, religious</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2014/stadion pop.tg</key>
 		<value>
@@ -1922,10 +1922,10 @@
 			<name>stadion pop</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, adventurous, punishing, soothing, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2014/summer 2014 (kickflip).tg</key>
 		<value>
@@ -1933,10 +1933,10 @@
 			<name>summer 2014 (kickflip)</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adult men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>exciting, funny, sarcastic, friendly, joyful, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2015/change.tg</key>
 		<value>
@@ -1944,10 +1944,10 @@
 			<name>change</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>wishful, hopeful, happy, blissful, exciting, cliffhanger, lovely</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2015/cliche feels.tg</key>
 		<value>
@@ -1955,10 +1955,10 @@
 			<name>cliche feels</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, beautiful, empowering, lovely, sexual</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2015/graduation.tg</key>
 		<value>
@@ -1966,10 +1966,10 @@
 			<name>graduation</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>rewarding, relaxing, liberating, happy, joyful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2015/like that.tg</key>
 		<value>
@@ -1977,10 +1977,10 @@
 			<name>like that</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adult men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>lovely, worrisome, exciting, thrilling, adventurous, soothing</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2015/our chatroom.tg</key>
 		<value>
@@ -1988,10 +1988,10 @@
 			<name>our chatroom</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>men but not women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>realistic, hard, serious, joyful, exciting, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2015/progress finally.tg</key>
 		<value>
@@ -1999,10 +1999,10 @@
 			<name>progress finally</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>wise, unnerving, hopeful, sophisticated, exciting, friendly</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2015/stronger.tg</key>
 		<value>
@@ -2010,10 +2010,10 @@
 			<name>stronger</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>tense, understanding, wise, exciting, beautiful, soft</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2016/old moped road.tg</key>
 		<value>
@@ -2021,10 +2021,10 @@
 			<name>old moped road</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>funny, sarcastic, adventurous, sexual, metaphorical about sex, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2016/summer 2016 (crazy barn ball).tg</key>
 		<value>
@@ -2032,10 +2032,10 @@
 			<name>summer 2016 (crazy barn ball)</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>joyful, energetic, beautiful, exciting, action-packed</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2016/testing out a new sauna.tg</key>
 		<value>
@@ -2043,10 +2043,10 @@
 			<name>testing out a new sauna</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>men and women</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>blissful, relaxing, warm, beautiful, cute, easy</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2016/through difficulty to success.tg</key>
 		<value>
@@ -2054,10 +2054,10 @@
 			<name>through difficulty to success</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>friendly, joyful, happy, exciting, hopeful, wishful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2016/you and me.tg</key>
 		<value>
@@ -2065,10 +2065,10 @@
 			<name>you and me</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>lovely, romantic, sexual, friendly, wholesome, sad</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2017/AAFC AAFA AAFC ADEA DDEE.tg</key>
 		<value>

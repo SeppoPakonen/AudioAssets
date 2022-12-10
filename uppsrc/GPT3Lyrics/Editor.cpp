@@ -44,7 +44,6 @@ Editor::Editor() {
 	audience.Add("old people");
 	audience.Add("small children");
 	audience.Add("children");
-	audience.Add("cautionary");
 	attributes.Add("");
 	attributes.Add("realistic");
 	attributes.Add("imaginary");
@@ -101,6 +100,22 @@ Editor::Editor() {
 	attributes.Add("space-themed");
 	attributes.Add("sleepy");
 	attributes.Add("soothing");
+	attributes.Add("cautionary");
+	attributes.Add("sarcastic");
+	attributes.Add("nostalgic");
+	attributes.Add("comedic");
+	attributes.Add("tired");
+	attributes.Add("euphoric");
+	attributes.Add("clueless");
+	attributes.Add("twisted");
+	attributes.Add("bossy");
+	attributes.Add("cheerful");
+	attributes.Add("sport");
+	attributes.Add("wishful");
+	attributes.Add("unnerving");
+	attributes.Add("liberating");
+	attributes.Add("wistful"); // longing
+	attributes.Add("bereft"); // longing
 	attributes.Add("metaphorical about life");
 	attributes.Add("metaphorical about death");
 	attributes.Add("metaphorical about family");
