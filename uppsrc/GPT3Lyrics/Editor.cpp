@@ -114,6 +114,7 @@ Editor::Editor() {
 	attributes.Add("wishful");
 	attributes.Add("unnerving");
 	attributes.Add("liberating");
+	attributes.Add("humble");
 	attributes.Add("wistful"); // longing
 	attributes.Add("bereft"); // longing
 	attributes.Add("metaphorical about life");

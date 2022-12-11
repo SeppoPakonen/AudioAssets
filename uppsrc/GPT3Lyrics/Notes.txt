@@ -1,3 +1,11 @@
+More:
+ - statistics
+	- songs per
+		- qualifier / attribute / audience / genre
+ - other artist's songs
+ - song finder
+	- put attributes and find direct and indirect matches (etc. hopeful -> positive -> happy)
+
 GPT-3:
  - https://github.com/reach-the-sky/GPT3-Chatbot/blob/main/GPT3-ChatBot.py
  - https://github.com/topics/openai-gpt3

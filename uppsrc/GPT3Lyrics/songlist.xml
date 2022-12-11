@@ -2076,10 +2076,10 @@
 			<name>AAFC AAFA AAFC ADEA DDEE</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>all ages</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>western, imaginary, joyful, funny, comedic, scary, tense, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2017/FFFG AAAC.tg</key>
 		<value>
@@ -2087,10 +2087,10 @@
 			<name>FFFG AAAC</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>romantic, cute, lovely, tense, soothing</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2017/all black clothes.tg</key>
 		<value>
@@ -2098,10 +2098,10 @@
 			<name>all black clothes</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
 			<qualifier></qualifier>
-			<attributes></attributes>
+			<attributes>sexual, kinky, scary, lustful, tense, rewarding, surprising</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2017/favourite juice.tg</key>
 		<value>
@@ -2109,10 +2109,10 @@
 			<name>favourite juice</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>men and women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>rewarding, blissful, woothing, wishful, cute, tense, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2017/my voice.tg</key>
 		<value>
@@ -2120,10 +2120,10 @@
 			<name>my voice</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>teens</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>metaphorical about politics, surreal, violent, tense, wise, difficult, scary, hopeful, cautionary</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2017/summer 2017 (happy memories).tg</key>
 		<value>
@@ -2131,10 +2131,10 @@
 			<name>summer 2017 (happy memories)</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>nostalgic, soothing, happy, longing, wise, lovely, friendly, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2018/fear.tg</key>
 		<value>
@@ -2142,10 +2142,10 @@
 			<name>fear</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>dark, scary, aware, awake, cautionary, fearful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2018/normal guy.tg</key>
 		<value>
@@ -2153,10 +2153,10 @@
 			<name>normal guy</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>friendly, funny, comedic, wholesome, masculine</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2018/trad story.tg</key>
 		<value>
@@ -2164,10 +2164,10 @@
 			<name>trad story</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>romantic, sexual, sad, punishing, violent, dark</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2019/AGFC.tg</key>
 		<value>
@@ -2175,10 +2175,10 @@
 			<name>AGFC</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>sexual, friendly, wholesome, happy, cliffhanger, rewarding, empowering</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2019/alone in the woods.tg</key>
 		<value>
@@ -2186,10 +2186,10 @@
 			<name>alone in the woods</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adult women</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>dark, pessimistic, funny, thrilling, tense, desperate</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2019/an unreasonable woman.tg</key>
 		<value>
@@ -2197,10 +2197,10 @@
 			<name>an unreasonable woman</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>romantic, friendly, apologizing, sarcastic, comedic, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2019/cami.tg</key>
 		<value>
@@ -2208,10 +2208,10 @@
 			<name>cami</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>soft, friendly, lovely, understanding, wise, wholesome, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2019/every song you rip.tg</key>
 		<value>
@@ -2219,10 +2219,10 @@
 			<name>every song you rip</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>tragicomic, sarcastic, funny, wholesome, hopeful, happy, wise, joyful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2019/funk19.tg</key>
 		<value>
@@ -2230,10 +2230,10 @@
 			<name>funk19</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>euphoric, happy, uplifting, rewarding, lovely, high-moral, exciting, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/FFCGAA - a.tg</key>
 		<value>
@@ -2252,10 +2252,10 @@
 			<name>a jump - a</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adult women</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>beautiful, rewarding, adventurous, exciting, hopeful, happy, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/a jump - b.tg</key>
 		<value>
@@ -2263,10 +2263,10 @@
 			<name>a jump - b</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>beautiful, rewarding, adventurous, exciting, hopeful, sad, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2020/corpse identity.tg</key>
 		<value>
@@ -2274,10 +2274,10 @@
 			<name>corpse identity</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>dark, violent, black, funny, sarcastic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/cute story - d.tg</key>
 		<value>
@@ -2308,9 +2308,9 @@
 			<subdir>Composed</subdir>
 			<topic></topic>
 			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, flirting, friendly, joyful, beautiful, tense, hopeful, empowering</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/hot pt2.tg</key>
 		<value>
@@ -2439,10 +2439,10 @@
 			<name>summer 2020 (don&apos;t go inside the tower)</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>friendly, humble, joyful, funny, joyful, hateful</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2020/sweaty hello.tg</key>
 		<value>
@@ -2450,10 +2450,10 @@
 			<name>sweaty hello</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>sexual, tense, beautiful, friendly, soothing, adventurous, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/technical exercise 1.tg</key>
 		<value>
