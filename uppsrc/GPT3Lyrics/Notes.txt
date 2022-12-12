@@ -5,6 +5,26 @@ More:
  - other artist's songs
  - song finder
 	- put attributes and find direct and indirect matches (etc. hopeful -> positive -> happy)
+		- presets
+			- platonic friendship: friendly, not lovely
+			- intimate relationship: lovely, not friendly
+	- presets
+		- female singer: realistic, women/young audience (certain attributes), men audience (certain attributes), etc.
+		- male singer: metaphoric, pop, all audience (certain attributes), men audience (certain attributes), etc.
+			- my style
+ - own imaginary artists
+	- designate songs for imaginary artist
+ - extract valuable data
+	- e.g.
+		- What are the adjectives of the lyrics of the best and most popular pop songs?
+			- Some popular adjectives used in pop songs include: beautiful, loving, courageous, strong, powerful, sweet, tender, magical, amazing, wonderful, special, incredible, heartfelt, and inspiring.
+		- What are the adjectives of the lyrics of most popular rock songs?
+			- Some popular adjectives used in rock songs include: intense, rebellious, wild, heavy, dark, aggressive, bold, dangerous, energetic, defiant, fearless, and passionate.
+		- When comparing 2000s pop songs to 2010s pop songs, what is the difference in the adjectives of the songs?
+			- In 2000s pop songs, common adjectives used include: upbeat, catchy, fun, and lighthearted. In 2010s pop songs, common adjectives used include: powerful, edgy, contemporary, and emotional.
+		- When comparing 2010s pop songs to 2020s pop songs, what is the difference in the adjectives of the songs?
+			- In 2010s pop songs, common adjectives used include: powerful, edgy, contemporary, and emotional. In 2020s pop songs, common adjectives used include: uplifting, moving, deep, and inspiring.
+	- artist profile attributes
 
 GPT-3:
  - https://github.com/reach-the-sky/GPT3-Chatbot/blob/main/GPT3-ChatBot.py
@@ -22,12 +42,19 @@ Needed:
 
 Stages:
  x write down song header data
+ - write down song entity data: who is singing, what entities are in the song, is it first person narrative
+ - choose virtual artist profile per song
+ - inject attributes from artist profile
  - add time range years, and add tropes to them
+ - get data about what attributes are common per year, etc.
  - get name lists for songs
+	- remember to add the year of the song too
  - get other topic suggestions for attributes
-	- e.g.	List what [attributes] [genre] song could tell about in lyrics.
+	- e.g.	list topics of a novel song, which has attributes of 
+			List what [attributes] [genre] song could tell about in lyrics.
 			The song pleases [audience].
 			The content of lyrics is [qualifier] in nature.
+			Write a novel song, which has attributes of melancholic, tense, adventurous and comedic. The song has 2 men and 1 woman. The lyrics are from unrelated observer's viewpoint.
  - get some lists for some more info... e.g. storyline, characters, mood, style, singer-profile, coarse role of the song in the album (filler or hit)
  - pick names
  - form personal trope list from song name list

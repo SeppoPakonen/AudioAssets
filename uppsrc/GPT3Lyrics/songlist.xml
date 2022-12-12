@@ -2241,10 +2241,10 @@
 			<name>FFCGAA - a</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, soft, tense, sad, lovely, unnerving, humble</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/a jump - a.tg</key>
 		<value>
@@ -2285,10 +2285,10 @@
 			<name>cute story - d</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>teen girls</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>friendly, joyful, hateful, sarcastic, punishing, rewarding, funny</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/freeform.tg</key>
 		<value>
@@ -2296,10 +2296,10 @@
 			<name>freeform</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men and women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>friendly, happy, joyful, generous, donating, understanding, wise</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2020/hot pt1.tg</key>
 		<value>
@@ -2318,10 +2318,10 @@
 			<name>hot pt2</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>men and women</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>sexual, surreal, imaginary, tense, rewarding, dark, clueless</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/ironic.tg</key>
 		<value>
@@ -2329,10 +2329,10 @@
 			<name>ironic</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>moronic, funny, sarcastic, ironic, joyful, cheerful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/lightweight.tg</key>
 		<value>
@@ -2340,10 +2340,10 @@
 			<name>lightweight</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>happy, joyful, twisted, rewarding, healthy, wholesome, sarcastic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/november.tg</key>
 		<value>
@@ -2351,10 +2351,10 @@
 			<name>november</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>wistful, humble, clueless, tired, wishful, understanding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/plagiarism riff 1.tg</key>
 		<value>
@@ -2362,10 +2362,10 @@
 			<name>plagiarism riff 1</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>men and women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>hard, sarcastic, funny, dark</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/proud cause of harm.tg</key>
 		<value>
@@ -2373,10 +2373,10 @@
 			<name>proud cause of harm</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>hard, hateful, funny, realistic, sad, wishful, cheerful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/retard in chief.tg</key>
 		<value>
@@ -2384,10 +2384,10 @@
 			<name>retard in chief</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men and women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>joyful, hateful, funny, happy, rewarding, loathing, proud</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/riddle.tg</key>
 		<value>
@@ -2395,10 +2395,10 @@
 			<name>riddle</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>surreal, mystic, tense, exciting, rewarding, wise, beautiful, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/sergeant pepper.tg</key>
 		<value>
@@ -2406,10 +2406,10 @@
 			<name>sergeant pepper</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>easy, soft, funny, joyful, exciting, thrilling, nostalgic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/slow dancing 2020.tg</key>
 		<value>
@@ -2417,10 +2417,10 @@
 			<name>slow dancing 2020</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>romantic, soft, soothing, relaxing, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/sorry but no.tg</key>
 		<value>
@@ -2428,10 +2428,10 @@
 			<name>sorry but no</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>punishing, soothing, tense, sexual, wholesome, disappointed</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2020/summer 2020 (don&apos;t go inside the tower).tg</key>
 		<value>
@@ -2461,10 +2461,10 @@
 			<name>technical exercise 1</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>imaginary, soft, exciting, thrilling, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/technocracy firewall.tg</key>
 		<value>
@@ -2472,10 +2472,10 @@
 			<name>technocracy firewall</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, soft, friendly, rewarding, beautiful, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/thinker 2020.tg</key>
 		<value>
@@ -2483,10 +2483,10 @@
 			<name>thinker 2020</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>joyful, clueless, humble, funny, friendly</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/twisted loneliness - b.tg</key>
 		<value>
@@ -2494,10 +2494,10 @@
 			<name>twisted loneliness - b</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>men and women</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>painful, twisted, tense, cliffhanger, humble, exciting, thrilling, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2020/twisted xmas 2020.tg</key>
 		<value>
@@ -2505,10 +2505,10 @@
 			<name>twisted xmas 2020</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>difficult, tense, punishing, violent, dark, sarcastic, comedic, funny, black humorous</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/FFCGAA - b.tg</key>
 		<value>
@@ -2527,21 +2527,21 @@
 			<name>a jump - c</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>joyful, friendly, hopeful, comedic, adventurous, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/always on my mind.tg</key>
 		<value>
 			<year value="2021"/>
 			<name>always on my mind</name>
 			<subdir>Release</subdir>
-			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<topic>A guy had a hard day in the office work. Now it&apos;s friday and the only thing he thinks is that he gets to home and opens a beer.</topic>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>humble, wishful, relaxing, rewarding, wise, happy, tense, hateful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/bargain.tg</key>
 		<value>
@@ -2549,10 +2549,10 @@
 			<name>bargain</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>funny, energizing, joyful, happy, friendly, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/bassist&apos;s song.tg</key>
 		<value>
@@ -2571,10 +2571,10 @@
 			<name>by your side</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>loyal, friendly, happy, joyful, easy, wholesome, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/catwoman.tg</key>
 		<value>
@@ -2582,10 +2582,10 @@
 			<name>catwoman</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>soft, easy, funny, black humorous, sexual, lovely, friendly, rewarding, tense, exciting, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/clinton ave.tg</key>
 		<value>
@@ -2615,10 +2615,10 @@
 			<name>cutie from future</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>funny, lovely, friendly, wistful, sexual, cliffhanger, tense, exciting</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/cycles.tg</key>
 		<value>
@@ -2637,10 +2637,10 @@
 			<name>date night</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>lovely, sexual, wistful, lustful, rewarding, happy, sophisticated</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/desperado.tg</key>
 		<value>
@@ -2670,10 +2670,10 @@
 			<name>don&apos;t worry honey</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>loyal, romantic, protective, empowering, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/dream job.tg</key>
 		<value>
@@ -2681,10 +2681,10 @@
 			<name>dream job</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>men</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>sexual, punishing, disappointed, comedic, tense, hopeless</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/dreaming of you.tg</key>
 		<value>
@@ -2703,10 +2703,10 @@
 			<name>dreaming together</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>lovely, hopeful, blissful, romantic, wholesome, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/edge - d.tg</key>
 		<value>
@@ -2714,10 +2714,10 @@
 			<name>edge - d</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men and women</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>wise, rewarding, friendly, imaginary, exciting, thrilling, happy, rewarding, joyful</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/elegant.tg</key>
 		<value>
@@ -2725,10 +2725,10 @@
 			<name>elegant</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>imaginary, sexual, hateful, punishing, tense, exciting, humble</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/focus.tg</key>
 		<value>
@@ -2736,10 +2736,10 @@
 			<name>focus</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, difficult, hateful, wise</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/forever repeat.tg</key>
 		<value>
@@ -2747,10 +2747,10 @@
 			<name>forever repeat</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>rewarding, hopeful, adventurous, joyful, wistful, easy, friendly, sexual, competitive</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/funk21.tg</key>
 		<value>
@@ -2813,10 +2813,10 @@
 			<name>got your message</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>wise, cautionary, funny, sexual, understanding, comedic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/green haze.tg</key>
 		<value>
@@ -2835,10 +2835,10 @@
 			<name>had no teacher</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>metaphorical about human resources exploitation, sad, unfriendly, hateful, punishing, hopeless, understanding, wise</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/hardbass.tg</key>
 		<value>
@@ -2879,10 +2879,10 @@
 			<name>it is fine</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>wishful, hopeful, tense, wise, understanding, awake, thrilling, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/it is what.tg</key>
 		<value>
@@ -2890,10 +2890,10 @@
 			<name>it is what</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>joyful, scary, tense, wise, rewarding, clueless, humble, sad</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/jab.tg</key>
 		<value>
@@ -2901,10 +2901,10 @@
 			<name>jab</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>sad, hopeless, wise, dark, scary, unbelieveable, hopeless, unnerving</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/jinn.tg</key>
 		<value>
@@ -2912,10 +2912,10 @@
 			<name>jinn</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>arabic, tense, exciting, thrilling, scary, sexual, unfriendly, rewarding, vulgar</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/kangaroo dictator.tg</key>
 		<value>
@@ -2923,10 +2923,10 @@
 			<name>kangaroo dictator</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>funny, comedic, sarcastic, wise, surreal</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/keeping place safe for her.tg</key>
 		<value>
@@ -2934,10 +2934,10 @@
 			<name>keeping place safe for her</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>lovely, protective, beautiful, sophisticated, hopeful, cute</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/kill the process.tg</key>
 		<value>
@@ -3022,10 +3022,10 @@
 			<name>not taking seriously</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>careless, vulgar, funny, comedic, sarcastic, hopeful, unfriendly</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/on you.tg</key>
 		<value>
@@ -3044,10 +3044,10 @@
 			<name>parametric love</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>intense, rebellious, wild, heavy, dark, aggressive, bold, dangerous, energetic, defiant, fearless, and passionate</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/paranoid.tg</key>
 		<value>
@@ -3055,10 +3055,10 @@
 			<name>paranoid</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>difficult, sad, wise, hopeful, friendly</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/party partyyy.tg</key>
 		<value>
@@ -3066,10 +3066,10 @@
 			<name>party partyyy</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>happy, joyful, rewarding, easy, relaxing, exciting, wise, comedic</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/passenger.tg</key>
 		<value>
@@ -3077,10 +3077,10 @@
 			<name>passenger</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>sad, fearful, punishing, violent, scary, serious</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/pink trance.tg</key>
 		<value>
@@ -3088,10 +3088,10 @@
 			<name>pink trance</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>sexual, tense, romantic, friendly, hopeful, lonely, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/political juggler.tg</key>
 		<value>
@@ -3099,10 +3099,10 @@
 			<name>political juggler</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>friendly, tense, thrilling, funny, comedic, bold, hateful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/professional pride.tg</key>
 		<value>
@@ -3113,7 +3113,7 @@
 			<genre></genre>
 			<audience></audience>
 			<qualifier></qualifier>
-			<attributes></attributes>
+			<attributes>soothing, happy, friendly, thankful, rewarding, hopeful, motivating, empowering, sophisticated, inspiring</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/rainy autumn.tg</key>
 		<value>
@@ -3154,10 +3154,10 @@
 			<name>saturday show</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>relaxing, rewarding, exciting, thrilling, populous, assembling, rewarding, happy, joyful, lovely</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/sea shanty.tg</key>
 		<value>
@@ -3165,10 +3165,10 @@
 			<name>sea shanty</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>wishful, wistful, hopeful, sad, cliffhanger, thrilling, humble</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/second class man.tg</key>
 		<value>
@@ -3176,10 +3176,10 @@
 			<name>second class man</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>melancholic, tense, adventurous, dark humorous, comedic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/snowy winter and candles.tg</key>
 		<value>
@@ -3242,10 +3242,10 @@
 			<name>thanks everyone</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>surreal, exciting, funny, comedic, rewarding, clueless, cheerful, thrilling</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/tiptap.tg</key>
 		<value>
@@ -3253,10 +3253,10 @@
 			<name>tiptap</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>existentialistic, friendly, tired, comedic, funny, cold, dark, winter, clueless </attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/too much pain.tg</key>
 		<value>
@@ -3264,10 +3264,10 @@
 			<name>too much pain</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>disappointed, wise, painful, rewarding, difficult, friendly, hopeless</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/twisted loneliness - c.tg</key>
 		<value>
@@ -3286,10 +3286,10 @@
 			<name>twisted xmas 2021</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>hateful, disorienting, existentialistic, sarcastic</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/waiting for tonight.tg</key>
 		<value>
@@ -3297,10 +3297,10 @@
 			<name>waiting for tonight</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>lovely, romantic, sexual, wistful, wishful, tense, adventurous</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/walrus.tg</key>
 		<value>
@@ -3330,10 +3330,10 @@
 			<name>will you ever notice me</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sad, disappointed, regretting, wise, direct, honest, friendly</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/wound.tg</key>
 		<value>
@@ -3341,10 +3341,10 @@
 			<name>wound</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>imaginary, friendly, liberating, humble, honest, wise, adventurous, action-packed, friendly</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/yet another riser.tg</key>
 		<value>
@@ -3363,10 +3363,10 @@
 			<name>you don&apos;t need to</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>soothing, friendly, rewarding, thrilling, scary, wholesome</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2022/before dawn.tg</key>
 		<value>

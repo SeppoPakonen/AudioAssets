@@ -27,6 +27,7 @@ class Editor : public TopWindow {
 	ArrayCtrl songs;
 	WithSongForm<ParentCtrl> edit;
 	MenuBar menu;
+	String xml_path;
 	
 	VectorMap<String,Song> songlist;
 	
@@ -46,9 +47,12 @@ public:
 	void AttributeListChanged();
 	void SongData();
 	void FindSongs();
+	void RealizeXmlPath();
 	void LoadThis();
 	void StoreThis();
 	void Xmlize(XmlIO& xml);
+	
+	String GetXmlFile() const;
 	
 };
 

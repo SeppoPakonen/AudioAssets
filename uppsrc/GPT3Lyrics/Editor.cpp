@@ -86,7 +86,6 @@ Editor::Editor() {
 	attributes.Add("hopeful");
 	attributes.Add("hopeless");
 	attributes.Add("sophisticated");
-	attributes.Add("hopeless");
 	attributes.Add("painful");
 	attributes.Add("happy");
 	attributes.Add("tense");
@@ -115,6 +114,25 @@ Editor::Editor() {
 	attributes.Add("unnerving");
 	attributes.Add("liberating");
 	attributes.Add("humble");
+	attributes.Add("generous");
+	attributes.Add("donating");
+	attributes.Add("moronic");
+	attributes.Add("loathing");
+	attributes.Add("proud");
+	attributes.Add("dark humorous");
+	attributes.Add("lustful");
+	attributes.Add("protective");
+	attributes.Add("populous");
+	attributes.Add("assembling");
+	attributes.Add("existentialistic");
+	attributes.Add("direct");
+	attributes.Add("regretting");
+	attributes.Add("honest");
+	attributes.Add("unbelieveable");
+	attributes.Add("vulgar");
+	attributes.Add("careless");
+	attributes.Add("confrontational");
+	attributes.Add("thankful");
 	attributes.Add("wistful"); // longing
 	attributes.Add("bereft"); // longing
 	attributes.Add("metaphorical about life");
@@ -272,17 +290,42 @@ void Editor::AttributeListChanged() {
 	DataChanged();
 }
 
+String Editor::GetXmlFile() const {
+	Index<String> dirs;
+	dirs.Add(GetExeFolder());
+	dirs.Add(GetCurrentDirectory());
+	dirs.Add(GetDataFile(""));
+	
+	for (String dir : dirs) {
+		String file = AppendFileName(dir, "songlist.xml");
+		if (FileExists(file))
+			return file;
+	}
+	
+	#ifdef flagDEBUG
+	return AppendFileName(GetDataFile(""), "songlist.xml");
+	#else
+	return AppendFileName(GetExeFolder(), "songlist.xml");
+	#endif
+}
+
+void Editor::RealizeXmlPath() {
+	if (xml_path.IsEmpty())
+		xml_path = GetXmlFile();
+}
+
 void Editor::LoadThis() {
-	String file = GetDataFile("songlist.xml");
-	String xml = LoadFile(file);
+	RealizeXmlPath();
+	LOG("Loading file " << xml_path);
+	String xml = LoadFile(xml_path);
 	LoadFromXML(*this, xml);
 }
 
 void Editor::StoreThis() {
-	String file = GetDataFile("songlist.xml");
+	RealizeXmlPath();
 	String xml = StoreAsXML(*this);
-	LOG("Storing file " << file);
-	FileOut fout(file);
+	LOG("Storing file " << xml_path);
+	FileOut fout(xml_path);
 	fout << xml;
 	fout.Close();
 }
