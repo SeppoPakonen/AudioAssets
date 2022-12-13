@@ -133,6 +133,7 @@ Editor::Editor() {
 	attributes.Add("careless");
 	attributes.Add("confrontational");
 	attributes.Add("thankful");
+	attributes.Add("confident");
 	attributes.Add("wistful"); // longing
 	attributes.Add("bereft"); // longing
 	attributes.Add("metaphorical about life");

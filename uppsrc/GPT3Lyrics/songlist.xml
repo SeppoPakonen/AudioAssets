@@ -2516,10 +2516,10 @@
 			<name>FFCGAA - b</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>wholesome, empowering, hateful, lovely, sexual</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/a jump - c.tg</key>
 		<value>
@@ -2560,10 +2560,10 @@
 			<name>bassist&apos;s song</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>hateful, aggressive, bold, tense, liberating</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/by your side.tg</key>
 		<value>
@@ -2593,10 +2593,10 @@
 			<name>clinton ave</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>friendly, joyful, sophisticated, understanding, liberating, humble</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/crew greetingz.tg</key>
 		<value>
@@ -2604,10 +2604,10 @@
 			<name>crew greetingz</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men and women</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>friendly, tense, worrying, sophisticated, understanding, liberating, humble</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/cutie from future.tg</key>
 		<value>
@@ -2626,10 +2626,10 @@
 			<name>cycles</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>nerdy, funny, joyful, sexual, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/date night.tg</key>
 		<value>
@@ -2648,10 +2648,10 @@
 			<name>desperado</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>historical, beautiful, hateful, funny, sarcastic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/die lederhosen.tg</key>
 		<value>
@@ -2659,10 +2659,10 @@
 			<name>die lederhosen</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>sexual, joyful, funny, exciting</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/don&apos;t worry honey.tg</key>
 		<value>
@@ -2692,10 +2692,10 @@
 			<name>dreaming of you</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>lovely, friendly, wise, wistful, understanding</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/dreaming together.tg</key>
 		<value>
@@ -2758,10 +2758,10 @@
 			<name>funk21</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>metaphoric</qualifier>
+			<attributes>sexual, tense, hateful, lovely, funny, comedic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/funky geek.tg</key>
 		<value>
@@ -2769,10 +2769,10 @@
 			<name>funky geek</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>men and women</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>easy, funny, wholesome, comedic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/gin.tg</key>
 		<value>
@@ -2780,10 +2780,10 @@
 			<name>gin</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>humble, clueless, cheerful, joyful</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/going down.tg</key>
 		<value>
@@ -2791,10 +2791,10 @@
 			<name>going down</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>sexual, friendly, lovely</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/golf.tg</key>
 		<value>
@@ -2802,10 +2802,10 @@
 			<name>golf</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>joyful, easy, sporty, cheerful</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/got your message.tg</key>
 		<value>
@@ -2824,10 +2824,10 @@
 			<name>green haze</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>women and men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>lovely, hopeful, impatient</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/had no teacher.tg</key>
 		<value>
@@ -2846,10 +2846,10 @@
 			<name>hardbass</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>dance</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>tense, competitive, sporty, adventurous, action-packed</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/i love you.tg</key>
 		<value>
@@ -2857,10 +2857,10 @@
 			<name>i love you</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>beautiful, lovely, friendly, romantic, sexual, understanding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/ida to joy.tg</key>
 		<value>
@@ -2868,10 +2868,10 @@
 			<name>ida to joy</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>friendly, cheerful, humble, understanding, wise</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/it is fine.tg</key>
 		<value>
@@ -2945,10 +2945,10 @@
 			<name>kill the process</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>surreal, imaginary, funny, comedic, humorous, sarcastic, surprising</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/like I used to play.tg</key>
 		<value>
@@ -2956,10 +2956,10 @@
 			<name>like I used to play</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>fighting-like</qualifier>
+			<attributes>realistic, imaginary, hateful, tense, joyful, aggressive</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/locals.tg</key>
 		<value>
@@ -2967,10 +2967,10 @@
 			<name>locals</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rap</genre>
+			<audience>everyone</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>realistic, joyful, punishing, humorous, sarcastic</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/loco.tg</key>
 		<value>
@@ -2978,10 +2978,10 @@
 			<name>loco</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>funny, nostalgic, understanding, wise, sad, regretting</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/medical drama.tg</key>
 		<value>
@@ -2989,10 +2989,10 @@
 			<name>medical drama</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>sad, painful, tense, desperate, understanding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/morning in forest.tg</key>
 		<value>
@@ -3000,10 +3000,10 @@
 			<name>morning in forest</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>all ages</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>cute, funny, lovely, joyful, easy</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/mute.tg</key>
 		<value>
@@ -3011,10 +3011,10 @@
 			<name>mute</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>comedic, tense, funny, competetive, confident</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/not taking seriously.tg</key>
 		<value>
@@ -3033,10 +3033,10 @@
 			<name>on you</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everybody</audience>
+			<qualifier>surreal</qualifier>
+			<attributes>lovely, friendly, humble, bossy, confident</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/parametric love.tg</key>
 		<value>
@@ -3121,10 +3121,10 @@
 			<name>rainy autumn</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>unnverving, sad, cold</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/restless cinderella.tg</key>
 		<value>
@@ -3132,10 +3132,10 @@
 			<name>restless cinderella</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>all ages</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>comedic, sad, romantic, lovely, rewarding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/roots.tg</key>
 		<value>
@@ -3143,10 +3143,10 @@
 			<name>roots</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>sad, tired</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/saturday show.tg</key>
 		<value>
@@ -3187,10 +3187,10 @@
 			<name>snowy winter and candles</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>everybody</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>warm, happy, joyful, anticipating, lovely, friendly</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/spring jam.tg</key>
 		<value>
@@ -3198,10 +3198,10 @@
 			<name>spring jam</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>everyone</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>funny, friendly, comedic, lovely</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/summer 2021 - skin trance.tg</key>
 		<value>
@@ -3209,10 +3209,10 @@
 			<name>summer 2021 - skin trance</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, romantic, sexual, happy</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/sweet dreams 21.tg</key>
 		<value>
@@ -3220,10 +3220,10 @@
 			<name>sweet dreams 21</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>small children</audience>
+			<qualifier>dream-like</qualifier>
+			<attributes>soothing, lovely, happy</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/tallalaa.tg</key>
 		<value>
@@ -3231,10 +3231,10 @@
 			<name>tallalaa</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>easy, soft, happy, clueless, funny</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/thanks everyone.tg</key>
 		<value>
@@ -3275,10 +3275,10 @@
 			<name>twisted loneliness - c</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>annoyed, hateful, sarcastic, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/twisted xmas 2021.tg</key>
 		<value>
@@ -3308,10 +3308,10 @@
 			<name>walrus</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>surreal, funny, joyful, tense</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2021/what me worry.tg</key>
 		<value>
@@ -3319,10 +3319,10 @@
 			<name>what me worry</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>exciting, thrilling, hateful, unhappy, sarcastic</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2021/will you ever notice me.tg</key>
 		<value>
@@ -3352,10 +3352,10 @@
 			<name>yet another riser</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>lovely, protective, wise, understanding, soothing</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2021/you don&apos;t need to.tg</key>
 		<value>
@@ -3374,10 +3374,10 @@
 			<name>before dawn</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>lovely, sad, wishful, hopeful, sexual, sad</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2022/breaking my survival.tg</key>
 		<value>
@@ -3385,10 +3385,10 @@
 			<name>breaking my survival</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>women and men</audience>
+			<qualifier>popular</qualifier>
+			<attributes>beautiful, cheerful, wishful, wistful, understanding</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2022/cheapest hussy.tg</key>
 		<value>
@@ -3396,10 +3396,10 @@
 			<name>cheapest hussy</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>RnB</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>sexual, rewarding, unfriendly, sophisticated, bossy</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2022/first of the year 2022.tg</key>
 		<value>
@@ -3407,10 +3407,10 @@
 			<name>first of the year 2022</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everyone</audience>
+			<qualifier>popular</qualifier>
+			<attributes>tense, punishing, violent</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2022/hold on to your socks.tg</key>
 		<value>
@@ -3418,10 +3418,10 @@
 			<name>hold on to your socks</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>men and women</audience>
+			<qualifier>fighting-like</qualifier>
+			<attributes>exciting, funny, energizing, tense, humorous, </attributes>
 		</value>
 		<key>AudioAssets/music/Release/2022/old saying.tg</key>
 		<value>
@@ -3429,10 +3429,10 @@
 			<name>old saying</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>funk-rock</genre>
+			<audience>young adult men</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>tense, wise, funny</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2022/orange 90s.tg</key>
 		<value>
@@ -3440,10 +3440,10 @@
 			<name>orange 90s</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>story-like</qualifier>
+			<attributes>nostalgic, happy, funny, lovely, friendly, cute, beautiful</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2022/she comes between us.tg</key>
 		<value>
@@ -3451,10 +3451,10 @@
 			<name>she comes between us</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adults</audience>
+			<qualifier>popular</qualifier>
+			<attributes>wise, hopeful, soothing, humble, soft</attributes>
 		</value>
 		<key>AudioAssets/music/Unfinished/2022/thunderstorm (summer 2022).tg</key>
 		<value>
@@ -3462,10 +3462,10 @@
 			<name>thunderstorm (summer 2022)</name>
 			<subdir>Unfinished</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>young adults</audience>
+			<qualifier>realistic</qualifier>
+			<attributes>fresh, funny, adventurous, friendly, joyful, sporty, cheerful</attributes>
 		</value>
 		<key>AudioAssets/music/Composed/2022/waiter of the small cafe.tg</key>
 		<value>
@@ -3473,10 +3473,10 @@
 			<name>waiter of the small cafe</name>
 			<subdir>Composed</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>pop</genre>
+			<audience>young adult women</audience>
+			<qualifier>popular</qualifier>
+			<attributes>tense, sexual, clueless, funny, comedic</attributes>
 		</value>
 		<key>AudioAssets/music/Release/2022/will you believe in rock.tg</key>
 		<value>
@@ -3484,10 +3484,10 @@
 			<name>will you believe in rock</name>
 			<subdir>Release</subdir>
 			<topic></topic>
-			<genre></genre>
-			<audience></audience>
-			<qualifier></qualifier>
-			<attributes></attributes>
+			<genre>rock</genre>
+			<audience>everybody</audience>
+			<qualifier>popular</qualifier>
+			<attributes>soothing, lovely, friendly, soft</attributes>
 		</value>
 	</songlist>
 </app>

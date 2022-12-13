@@ -14,6 +14,8 @@ More:
 			- my style
  - own imaginary artists
 	- designate songs for imaginary artist
+	- have real world equivalence and their listening and money statistics
+		- local and global
  - extract valuable data
 	- e.g.
 		- What are the adjectives of the lyrics of the best and most popular pop songs?
@@ -25,6 +27,16 @@ More:
 		- When comparing 2010s pop songs to 2020s pop songs, what is the difference in the adjectives of the songs?
 			- In 2010s pop songs, common adjectives used include: powerful, edgy, contemporary, and emotional. In 2020s pop songs, common adjectives used include: uplifting, moving, deep, and inspiring.
 	- artist profile attributes
+ - virtual artists
+	- fake beatles
+	- strong woman
+	- pop manboy
+	- poor hateful rapper
+	- dream son-in-law (stiff oversafe male singer)
+	- worksafe diva
+	- clubber biatch
+	- teensy contender
+	- slow nerdy late starter
 
 GPT-3:
  - https://github.com/reach-the-sky/GPT3-Chatbot/blob/main/GPT3-ChatBot.py
@@ -42,6 +54,7 @@ Needed:
 
 Stages:
  x write down song header data
+ - write down values, tick boxes: boring, hit, pleasantly listenable, avoidable, interesting, non-interesting, high-value, mid-value, too early to say
  - write down song entity data: who is singing, what entities are in the song, is it first person narrative
  - choose virtual artist profile per song
  - inject attributes from artist profile
@@ -62,6 +75,7 @@ Stages:
  - get meaning and initial lyrics/rap
  - make abstract of song structure and story-line
  - make coarse lyrics without note matchin, but match the length of lines and structure
+ - translate lyrics to finnish
  - make note-matching lyrics
 
 
