@@ -1,3 +1,11 @@
+TODO:
+ - gpt3 adjectives to existing list (synonymous)
+ - tabs: header, statistics, artists, song finder, data mining (long term data)
+ - song value tick boxes
+ - song entities, environment, tick boxes
+ - song virtual artist tick boxes
+	- most matchin artists in percentages
+
 More:
  - statistics
 	- songs per
@@ -16,6 +24,7 @@ More:
 	- designate songs for imaginary artist
 	- have real world equivalence and their listening and money statistics
 		- local and global
+			- https://www.demandsage.com/spotify-stats/
  - extract valuable data
 	- e.g.
 		- What are the adjectives of the lyrics of the best and most popular pop songs?
@@ -54,7 +63,7 @@ Needed:
 
 Stages:
  x write down song header data
- - write down values, tick boxes: boring, hit, pleasantly listenable, avoidable, interesting, non-interesting, high-value, mid-value, too early to say
+ - write down values, tick boxes: boring, hit, pleasantly listenable, avoidable, interesting, non-interesting, high-value, mid-value, too early to say, radio-playable
  - write down song entity data: who is singing, what entities are in the song, is it first person narrative
  - choose virtual artist profile per song
  - inject attributes from artist profile
@@ -141,3 +150,28 @@ Stages:
 	Write a list of novel song names about ...
 -
 	- "Write a rare popular song topic about "[...]". The song is very sexual, soft and metaphorical about sex."
+
+
+
+
+"""
+Ed Sheeran's Finnish counterpart's short abstract is: A singer-songwriter with an acoustic-folk sound, filled with meaningful lyrics and heartfelt emotion. His music is both uplifting and reflective, allowing listeners to connect to his stories on a deeper level. He strives to create a sound that is both timeless and modern, blending traditional folk tones with modern production techniques.
+Ed Sheeran's Finnish counterpart's lyrics' message is: To tell stories of life, love, and hope. He focuses on creating songs that are meaningful and honest, exploring common human themes and experiences. He strives to create music that will inspire listeners to reflect and take action in their own lives.
+Ed Sheeran's Finnish counterpart's brand profile is described by adjectives: authentic, honest, thoughtful, meaningful.
+Ed Sheeran's Finnish counterpart's artist profile is described by adjectives: passionate, emotive, sincere, reflective.
+Ed Sheeran's Finnish counterpart's music is described by adjectives: acoustic, folk, melodic, uplifting, soulful.
+Ed Sheeran's Finnish counterpart's genre is described by adjectives: folk, alternative, indie.
+Ed Sheeran's Finnish counterpart's production is described by adjectives: traditional, modern, organic, warm.
+Ed Sheeran's Finnish counterpart's music video is described by adjectives: cinematic, artistic, captivating, emotive.
+List of novel artist names for Ed Sheeran's Finnish counterpart:
+1. The Folk-Soul Singer
+2. The Acoustic Artiste
+3. The Emotive Troubadour
+4. The Reflectionary Poet
+5. The Timeless Tune-Maker
+6. The Uplifting Songsmith
+7. The Authentic Finn
+8. The Meaningful Minstrel
+9. The Modern Traditionalist
+10. The Heartfelt Harmony-Maker
+"""

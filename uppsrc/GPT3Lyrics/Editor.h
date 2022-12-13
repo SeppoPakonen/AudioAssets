@@ -5,6 +5,24 @@
 #include <CtrlCore/lay.h>
 
 
+struct Artist : Moveable<Artist> {
+	String name;
+	String description;
+	String message;
+	String brand_adjectives;
+	String artist_adjectives;
+	String music_adjectives;
+	String genre_adjectives;
+	String production_adjectives;
+	String music_video_adjectives;
+	String global_example;
+	double global_listeners = 0;
+	String local_example;
+	double local_listeners = 0;
+
+	void Xmlize(XmlIO& xml);
+};
+
 struct Song : Moveable<Song> {
 	String name;
 	int year;
@@ -23,13 +41,60 @@ struct Song : Moveable<Song> {
 };
 
 class Editor : public TopWindow {
-	Splitter hsplit;
-	ArrayCtrl songs;
-	WithSongForm<ParentCtrl> edit;
+	TabCtrl tabs;
+	
+	struct ArtistCtrl : WithArtistForm<ParentCtrl> {
+		typedef ArtistCtrl CLASSNAME;
+		Editor* e = 0;
+		
+		void Init();
+		void Data();
+		void DataChanged();
+		void DataItem();
+		void Add();
+		void Remove();
+	} a;
+	
+	struct Header {
+		typedef Header CLASSNAME;
+		Editor* e = 0;
+		Splitter hsplit;
+		ArrayCtrl songs;
+		WithSongForm<ParentCtrl> edit;
+		
+		void Init();
+		void Data();
+		void SongData();
+		void DataChanged();
+		void AttributeListChanged();
+	} h;
+	
+	struct Statistics : ParentCtrl {
+		Editor* e = 0;
+		
+		void Init();
+		void Data();
+	} s;
+	
+	struct SongFinder : ParentCtrl {
+		Editor* e = 0;
+		
+		void Init();
+		void Data();
+	} f;
+	
+	struct DataMining : ParentCtrl {
+		Editor* e = 0;
+		
+		void Init();
+		void Data();
+	} d;
+	
 	MenuBar menu;
 	String xml_path;
 	
-	VectorMap<String,Song> songlist;
+	ArrayMap<String,Song> songlist;
+	Array<Artist> artistlist;
 	
 	Index<String> qualifier;
 	Index<String> genre;
@@ -43,9 +108,6 @@ public:
 	
 	void MenuBar(Bar& bar);
 	void Data();
-	void DataChanged();
-	void AttributeListChanged();
-	void SongData();
 	void FindSongs();
 	void RealizeXmlPath();
 	void LoadThis();

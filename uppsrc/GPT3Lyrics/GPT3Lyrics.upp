@@ -8,7 +8,7 @@ file
 	Editor.h,
 	Editor.cpp,
 	Editor.lay,
-	songlist.xml;
+	userdata.xml;
 
 mainconfig
 	"" = "GUI";

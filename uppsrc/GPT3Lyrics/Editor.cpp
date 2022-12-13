@@ -148,18 +148,75 @@ Editor::Editor() {
 	attributes.Add("metaphorical about god");
 	attributes.Add("metaphorical about stalker");
 	
-	for (String s : qualifier) edit.qualifier.Add(s);
-	for (String s : genre) edit.genre.Add(s);
-	for (String s : audience) edit.audience.Add(s);
-	for (String s : attributes) edit.attrlist.Add(s);
-	
-	CtrlLayout(edit);
-	
 	AddFrame(menu);
-	Add(hsplit.SizePos());
+	Add(tabs.SizePos());
+	
+	a.e = this;
+	h.e = this;
+	s.e = this;
+	f.e = this;
+	d.e = this;
+	
+	a.Init();
+	h.Init();
+	s.Init();
+	f.Init();
+	d.Init();
+	
+	tabs.Add(a.SizePos(), "Artist");
+	tabs.Add(h.hsplit.SizePos(), "Header");
+	tabs.Add(s.SizePos(), "Statistics");
+	tabs.Add(f.SizePos(), "SongFinder");
+	tabs.Add(d.SizePos(), "DataMining");
+	
+	menu.Sub("App", [this](Bar& b){
+		b.Add("Find all songs", THISBACK(FindSongs)).Key(K_CTRL_F);
+		b.Add("Save", THISBACK(StoreThis)).Key(K_CTRL_S);
+	});
+	
+	LoadThis();
+	Data();
+}
+
+Editor::~Editor() {
+	StoreThis();
+}
+
+void Editor::ArtistCtrl::Init() {
+	CtrlLayout(*this);
+	
+	artistlist.AddColumn("Name");
+	artistlist <<= THISBACK(DataItem);
+	add <<= THISBACK(Add);
+	remove <<= THISBACK(Remove);
+	
+	name <<= THISBACK(DataChanged);
+	description <<= THISBACK(DataChanged);
+	message <<= THISBACK(DataChanged);
+	brand_adjectives <<= THISBACK(DataChanged);
+	artist_adjectives <<= THISBACK(DataChanged);
+	music_adjectives <<= THISBACK(DataChanged);
+	genre_adjectives <<= THISBACK(DataChanged);
+	production_adjectives <<= THISBACK(DataChanged);
+	music_video_adjectives <<= THISBACK(DataChanged);
+	global_example <<= THISBACK(DataChanged);
+	global_listeners <<= THISBACK(DataChanged);
+	local_example <<= THISBACK(DataChanged);
+	local_listeners <<= THISBACK(DataChanged);
+
+}
+
+void Editor::Header::Init() {
 	
 	hsplit.Horz().SetPos(2000);
 	hsplit << songs << edit;
+	
+	for (String s : e->qualifier) edit.qualifier.Add(s);
+	for (String s : e->genre) edit.genre.Add(s);
+	for (String s : e->audience) edit.audience.Add(s);
+	for (String s : e->attributes) edit.attrlist.Add(s);
+	
+	CtrlLayout(edit);
 	
 	songs.AddIndex();
 	songs.AddColumn("Year");
@@ -174,17 +231,18 @@ Editor::Editor() {
 	edit.attributes <<= THISBACK(DataChanged);
 	edit.attrlist <<= THISBACK(AttributeListChanged);
 	
-	menu.Sub("App", [this](Bar& b){
-		b.Add("Find all songs", THISBACK(FindSongs)).Key(K_CTRL_F);
-		b.Add("Save", THISBACK(StoreThis)).Key(K_CTRL_S);
-	});
-	
-	LoadThis();
-	Data();
 }
 
-Editor::~Editor() {
-	StoreThis();
+void Editor::Statistics::Init() {
+	
+}
+
+void Editor::SongFinder::Init() {
+	
+}
+
+void Editor::DataMining::Init() {
+	
 }
 
 void Editor::FindSongs() {
@@ -233,9 +291,93 @@ void Editor::FindSongs() {
 }
 
 void Editor::Data() {
-	for(int i = 0; i < songlist.GetCount(); i++) {
-		Song& song = songlist[i];
-		songs.Set(i, 0, songlist.GetKey(i));
+	int i = tabs.Get();
+	switch (i) {
+		case 0: a.Data();
+		case 1: h.Data();
+		case 2: s.Data();
+		case 3: f.Data();
+		case 4: d.Data();
+		default: break;
+	}
+}
+
+void Editor::ArtistCtrl::Data() {
+	for(int i = 0; i < e->artistlist.GetCount(); i++) {
+		Artist& a = e->artistlist[i];
+		artistlist.Set(i, 0, a.name);
+	}
+	if (!artistlist.IsCursor() && artistlist.GetCount())
+		artistlist.SetCursor(0);
+	DataItem();
+}
+
+void Editor::ArtistCtrl::DataItem() {
+	if (!artistlist.IsCursor())
+		return;
+	
+	int c = artistlist.GetCursor();
+	Artist& a = e->artistlist[c];
+	
+	name.SetData(a.name);
+	description.SetData(a.description);
+	message.SetData(a.message);
+	brand_adjectives.SetData(a.brand_adjectives);
+	artist_adjectives.SetData(a.artist_adjectives);
+	music_adjectives.SetData(a.music_adjectives);
+	genre_adjectives.SetData(a.genre_adjectives);
+	production_adjectives.SetData(a.production_adjectives);
+	music_video_adjectives.SetData(a.music_video_adjectives);
+	global_example.SetData(a.global_example);
+	global_listeners.SetData(a.global_listeners);
+	local_example.SetData(a.local_example);
+	local_listeners.SetData(a.local_listeners);
+
+}
+
+void Editor::ArtistCtrl::DataChanged() {
+	if (!artistlist.IsCursor())
+		return;
+	int c = artistlist.GetCursor();
+	Artist& a = e->artistlist[c];
+	
+	a.name = name.GetData();
+	a.description = description.GetData();
+	a.message = message.GetData();
+	a.brand_adjectives = brand_adjectives.GetData();
+	a.artist_adjectives = artist_adjectives.GetData();
+	a.music_adjectives = music_adjectives.GetData();
+	a.genre_adjectives = genre_adjectives.GetData();
+	a.production_adjectives = production_adjectives.GetData();
+	a.music_video_adjectives = music_video_adjectives.GetData();
+	a.global_example = global_example.GetData();
+	a.global_listeners = global_listeners.GetData();
+	a.local_example = local_example.GetData();
+	a.local_listeners = local_listeners.GetData();
+	
+	artistlist.Set(c, 0, a.name);
+}
+
+void Editor::ArtistCtrl::Add() {
+	Artist& a = e->artistlist.Add();
+	e->StoreThis();
+	Data();
+	artistlist.SetCursor(artistlist.GetCount()-1);
+}
+
+void Editor::ArtistCtrl::Remove() {
+	if (artistlist.IsCursor()) {
+		int c = artistlist.GetCursor();
+		e->artistlist.Remove(c);
+		e->StoreThis();
+		Data();
+	}
+}
+
+void Editor::Header::Data() {
+	for(int i = 0; i < e->songlist.GetCount(); i++) {
+		Song& song = e->songlist[i];
+		songs.Set(i, 0, e->songlist.GetKey(i));
 		songs.Set(i, 1, song.year);
 		songs.Set(i, 2, song.name);
 	}
@@ -246,12 +388,24 @@ void Editor::Data() {
 	SongData();
 }
 
-void Editor::SongData() {
+void Editor::Statistics::Data() {
+	
+}
+
+void Editor::SongFinder::Data() {
+	
+}
+
+void Editor::DataMining::Data() {
+	
+}
+
+void Editor::Header::SongData() {
 	int cursor = songs.GetCursor();
 	if (cursor < 0) return;
 	
 	String key = songs.Get(cursor, 0);
-	Song& song = songlist.Get(key);
+	Song& song = e->songlist.Get(key);
 	
 	edit.subdir.SetData(song.subdir);
 	edit.year.SetData(song.year);
@@ -259,20 +413,20 @@ void Editor::SongData() {
 	edit.topic.SetData(song.topic);
 	
 	int i;
-	i = genre.Find(song.genre); if (i >= 0) edit.genre.SetIndex(i); else edit.genre.SetData(Value());
-	i = audience.Find(song.audience); if (i >= 0) edit.audience.SetIndex(i); else edit.audience.SetData(Value());
-	i = qualifier.Find(song.qualifier); if (i >= 0) edit.qualifier.SetIndex(i); else edit.qualifier.SetData(Value());
-	i = attributes.Find(song.attributes); if (i >= 0) edit.attrlist.SetIndex(i); else edit.attrlist.SetData(Value());
+	i = e->genre.Find(song.genre); if (i >= 0) edit.genre.SetIndex(i); else edit.genre.SetData(Value());
+	i = e->audience.Find(song.audience); if (i >= 0) edit.audience.SetIndex(i); else edit.audience.SetData(Value());
+	i = e->qualifier.Find(song.qualifier); if (i >= 0) edit.qualifier.SetIndex(i); else edit.qualifier.SetData(Value());
+	i = e->attributes.Find(song.attributes); if (i >= 0) edit.attrlist.SetIndex(i); else edit.attrlist.SetData(Value());
 	edit.attributes.SetData(song.attributes);
 	
 }
 
-void Editor::DataChanged() {
+void Editor::Header::DataChanged() {
 	int cursor = songs.GetCursor();
 	if (cursor < 0) return;
 	
 	String key = songs.Get(cursor, 0);
-	Song& song = songlist.Get(key);
+	Song& song = e->songlist.Get(key);
 	
 	//song.year  = edit.year.GetData();
 	//song.name  = edit.name.GetData();
@@ -284,9 +438,9 @@ void Editor::DataChanged() {
 	
 }
 
-void Editor::AttributeListChanged() {
+void Editor::Header::AttributeListChanged() {
 	String a = edit.attributes.GetData();
-	if (a == "" || attributes.Find(a) >= 0)
+	if (a == "" || e->attributes.Find(a) >= 0)
 		edit.attributes.SetData(edit.attrlist.GetData());
 	DataChanged();
 }
@@ -298,15 +452,15 @@ String Editor::GetXmlFile() const {
 	dirs.Add(GetDataFile(""));
 	
 	for (String dir : dirs) {
-		String file = AppendFileName(dir, "songlist.xml");
+		String file = AppendFileName(dir, "userdata.xml");
 		if (FileExists(file))
 			return file;
 	}
 	
 	#ifdef flagDEBUG
-	return AppendFileName(GetDataFile(""), "songlist.xml");
+	return AppendFileName(GetDataFile(""), "userdata.xml");
 	#else
-	return AppendFileName(GetExeFolder(), "songlist.xml");
+	return AppendFileName(GetExeFolder(), "userdata9.xml");
 	#endif
 }
 
@@ -334,6 +488,7 @@ void Editor::StoreThis() {
 void Editor::Xmlize(XmlIO& xml) {
 	xml
 		("songlist", songlist)
+		("artistlist", artistlist)
 	;
 }
 
@@ -347,6 +502,23 @@ void Editor::Xmlize(XmlIO& xml) {
 
 
 
+void Artist::Xmlize(XmlIO& xml) {
+	xml
+		("name", name)
+		("description", description)
+		("message", message)
+		("brand_adjectives", brand_adjectives)
+		("artist_adjectives", artist_adjectives)
+		("music_adjectives", music_adjectives)
+		("genre_adjectives", genre_adjectives)
+		("production_adjectives", production_adjectives)
+		("music_video_adjectives", music_video_adjectives)
+		("global_example", global_example)
+		("global_listeners", global_listeners)
+		("local_example", local_example)
+		("local_listeners", local_listeners)
+	;
+}
 
 String Song::GetPath() const {
 	String home = GetHomeDirectory();

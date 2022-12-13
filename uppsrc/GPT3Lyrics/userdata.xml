@@ -3490,4 +3490,606 @@
 			<attributes>soothing, lovely, friendly, soft</attributes>
 		</value>
 	</songlist>
+	<artistlist>
+		<item>
+			<name>Poet Prince</name>
+			<description>Poet Prince has captivated audiences with his soulful, emotive music and heartfelt lyrics. His distinct sound, versatility, and genuine sincerity have made him a global phenomenon.</description>
+			<message>His lyrics are honest, heartfelt, and uplifting. He encourages his listeners to pursue their dreams and to never lose hope.</message>
+			<brand_adjectives>iconic, trendsetting, magnetic, stylish, influential</brand_adjectives>
+			<artist_adjectives>poetic, versatile, genuine, sincere, relatable</artist_adjectives>
+			<music_adjectives>soulful, heartfelt, emotive, romantic, uplifting</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Ed Sheeran</global_example>
+			<global_listeners value="97.17"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Magnetic Maestro</name>
+			<description>Magnetic Maestro has captivated audiences with his infectious melodies, energetic performances, and charismatic personality.</description>
+			<message>His lyrics are inspiring, uplifting, and romantic. He encourages his listeners to pursue their passions and to take risks.</message>
+			<brand_adjectives>iconic, trendsetting, magnetic, stylish, influential</brand_adjectives>
+			<artist_adjectives>charismatic, talented, passionate, humble, dedicated</artist_adjectives>
+			<music_adjectives>poppy, catchy, melodic, upbeat, fresh</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Justin Bieber</global_example>
+			<global_listeners value="79.66"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Stylish Starlet</name>
+			<description>An innovative and boundary-pushing artist, Stylish Starlet has taken the music world by storm with her playful, funky, and sassy sound. Her eccentric style and daring creativity have made her one of the most memorable names in music.</description>
+			<message>Her lyrics are playful, confident, and empowering. She encourages her listeners to embrace their individuality and to never apologize for who they are.</message>
+			<brand_adjectives>bold, daring, stylish, unapologetic, inspiring</brand_adjectives>
+			<artist_adjectives>eccentric, daring, boundary-pushing, unique</artist_adjectives>
+			<music_adjectives>playful, funky, sassy, creative, upbeat</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Doja Cat</global_example>
+			<global_listeners value="55.39"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Club King</name>
+			<description>An internationally acclaimed producer and DJ, Club King has revolutionized the music scene with his innovative sound and masterful remixes. His energetic and trance-like style has made him a leader in the EDM world. </description>
+			<message>His lyrics are energetic, upbeat, and empowering. He encourages his listeners to find joy in life and to keep their spirits high.</message>
+			<brand_adjectives>iconic, trendsetting, magnetic, stylish, influential</brand_adjectives>
+			<artist_adjectives>electronic, remix-savvy, musical, EDM-influenced, beat-blasting</artist_adjectives>
+			<music_adjectives>energetic, innovative, club-ready, masterful, trance-like</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>David Guetta</global_example>
+			<global_listeners value="0"/>
+			<local_example></local_example>
+			<local_listeners value="53.96"/>
+		</item>
+		<item>
+			<name>Fierce Flowsmith</name>
+			<description>A prolific rapper and storyteller, Fierce Flowsmith has captivated audiences with his intense lyrics and aggressive flows. His dynamic style, rap savvy, and unstoppable charisma have made him one of the most iconic names in music.</description>
+			<message>His lyrics are raw and honest, exploring themes of struggle, pain, and resilience. Through his music, he encourages listeners to find strength in difficult times and to never give up on themselves. </message>
+			<brand_adjectives>iconic, trendsetting, magnetic, stylish, influential</brand_adjectives>
+			<artist_adjectives>controversial, rap-savvy, storyteller, unstoppable</artist_adjectives>
+			<music_adjectives>intense, aggressive, lyrical, dynamic, versatile</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Eminem</global_example>
+			<global_listeners value="51.35"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Songbird Supreme</name>
+			<description>Songbird Supreme is a globally renowned singer-songwriter and artist, known for her innovative, creative, and captivating music, stylish brand, and empowering message.</description>
+			<message>Her lyrics are empowering, inspiring, and uplifting. She encourages her listeners to be brave, independent, and confident, while also exploring themes of heartbreak, loss, and resilience. Her music is anthemic, danceable, and relatable, motivating people to take charge of their lives and live it to the fullest.</message>
+			<brand_adjectives>stylish, confident, empowering, trendy, charming, relatable, fashionable, authentic, influential.</brand_adjectives>
+			<artist_adjectives>innovative, creative, captivating, iconic, talented, successful, charismatic, ambitious, generous</artist_adjectives>
+			<music_adjectives>energetic, catchy, emotional, melodic, uplifting, powerful, inspiring, endearing, heartfelt</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Taylor Swift</global_example>
+			<global_listeners value="55.4"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Stylish Siren</name>
+			<description>Stylish Siren is a renowned artist, renowned for her bold, daring, and stylish music, glamorous brand, and fearless message.</description>
+			<message>Her music is unapologetically bold and empowering, encouraging listeners to embrace their individuality and live life without fear or shame. Through her lyrics, she conveys messages of self-love, resilience, and perseverance, while also exploring themes of heartbreak, loss, and pain.</message>
+			<brand_adjectives>stylish, daring, bold, modern, daring, eclectic, seductive, vivacious, luxurious</brand_adjectives>
+			<artist_adjectives>daring, iconic, glamorous, fearless, captivating, bold, energetic, influential, confident</artist_adjectives>
+			<music_adjectives>rhythmic, soulful, vibrant, edgy, sultry, provocative, innovative, timeless, danceable</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Rihanna</global_example>
+			<global_listeners value="49.66"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Icebergs</name>
+			<description>Icebergs is an innovative and experimental band, known for their sophisticated and captivating music, dreamy brand, and uplifting message.</description>
+			<message>Their lyrics explore themes of love, loss, hope, and resilience. Through their music, the band encourages listeners to find strength and courage in the face of adversity and to never give up on their dreams. Coldplay&apos;s emotive songs uplift the spirit and inspire listeners to strive for a better future.</message>
+			<brand_adjectives>sophisticated, dreamy, peaceful, calming, poetic, tranquil, ambient, gentle, uplifting</brand_adjectives>
+			<artist_adjectives>inventive, experimental, unique, innovative, groundbreaking, exquisite, heartfelt, sensitive, evocative</artist_adjectives>
+			<music_adjectives>melodic, lush, atmospheric, ethereal, dreamy, spiritual, uplifting, poignant, soothing</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Coldplay</global_example>
+			<global_listeners value="57.53"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Dark Angel</name>
+			<description>Dark Angel is a globally renowned singer-songwriter, known for her bold, daring, and stylish music, vibrant brand, and empowering message.</description>
+			<message>She encourages listeners to embrace their self-worth and to never give up on their dreams. She strives to empower people through her music and to spread a message of strength and resilience.</message>
+			<brand_adjectives>bold, daring, stylish, glamorous, edgy, sassy, flamboyant, fashionable, unique</brand_adjectives>
+			<artist_adjectives>confident, dynamic, charismatic, vibrant, strong, talented, inspirational, ambitious, stylish</artist_adjectives>
+			<music_adjectives>upbeat, catchy, empowering, fun, soulful, dynamic, sassy, playful, energetic</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Ariana Grande</global_example>
+			<global_listeners value="53.47"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Mischief Makers</name>
+			<description>Mischief Makers is a globally renowned band, known for their captivating and funky music, stylish brand, and energetic message.</description>
+			<message>They encourage listeners to let go of their inhibitions and to live life to the fullest. They strive to create an atmosphere of joy and positivity, while still staying true to their musical roots.</message>
+			<brand_adjectives>stylish, daring, funky, bold, modern, cool, edgy, unique, influential</brand_adjectives>
+			<artist_adjectives>captivating, charismatic, innovative, creative, talented, successful, entertaining, energetic, stylish</artist_adjectives>
+			<music_adjectives>soulful, catchy, groovy, funky, vibrant, melodic, uplifting, funky, danceable</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Maroon 5</global_example>
+			<global_listeners value="50.29"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Midnight Musician</name>
+			<description>Midnight Musician is a globally renowned artist, known for his daring and edgy music, mysterious brand, and captivating message.</description>
+			<message>He encourages listeners to embrace their own unique identity and to never be afraid to express themselves.</message>
+			<brand_adjectives>edgy, dark, sultry, mysterious, captivating, seductive, intense, stylish, unique</brand_adjectives>
+			<artist_adjectives>daring, enigmatic, captivating, creative, talented, innovative, enigmatic, influential, stylish</artist_adjectives>
+			<music_adjectives>moody, soulful, mysterious, dark, seductive, captivating, edgy, hypnotic, intense</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>The Weeknd</global_example>
+			<global_listeners value="76.59"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Groundbreaking Princess</name>
+			<description>Groundbreaking Princess is an innovative and daring pop star who has achieved global success with her edgy and empowering music. With her iconic sound, she has become one of the most acclaimed, influential, and beloved acts of her generation.</description>
+			<message>Her lyrics are bold, confident, and empowering. She encourages her listeners to embrace their individuality and to live life without fear or shame. Through her music, she conveys messages of self-love, resilience, and perseverance, while also exploring themes of passion, excitement, and joy.</message>
+			<brand_adjectives>iconic, groundbreaking, innovative, acclaimed, daring, inspirational, influential, multigenerational, successful, timeless</brand_adjectives>
+			<artist_adjectives>stylish, innovative, groundbreaking, acclaimed, influential, versatile, daring, fearless, ambitious, captivating</artist_adjectives>
+			<music_adjectives>upbeat, empowering, anthemic, passionate, uplifting, edgy, bold, danceable, energetic, funky</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Dua Lipa</global_example>
+			<global_listeners value="66.08"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Dreamy Crooner</name>
+			<description>Dreamy Crooner is an ambitious and daring singer-songwriter who has achieved global success with his soulful and anthemic music. With his iconic sound, he has become one of the most beloved, innovative, and influential acts of his generation.</description>
+			<message>His lyrics are romantic, heartfelt, and uplifting. He encourages his listeners to find joy in life and to never give up on their dreams.</message>
+			<brand_adjectives>iconic, pioneering, innovative, acclaimed, inspirational, influential, multigenerational, successful, timeless, universal</brand_adjectives>
+			<artist_adjectives>daring, ambitious, stylish, iconic, beloved, innovative, pioneering, influential, acclaimed, imaginative</artist_adjectives>
+			<music_adjectives>soulful, anthemic, dreamy, melodic, romantic, wistful, upbeat, inspiring, emotive, soulful</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Harry Styles</global_example>
+			<global_listeners value="64.92"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Dreamy Destroyers</name>
+			<description>Dreamy Destroyers is an ambitious and inventive rock band that has achieved global success with its anthemic and uplifting music.</description>
+			<message>Their lyrics explore themes of courage, strength, and resilience. Through their music, the band encourages listeners to never give up on their dreams and to find hope in the face of adversity.</message>
+			<brand_adjectives>iconic, pioneering, influential, innovative, renowned, inspirational, global, multigenerational, successful, timeless</brand_adjectives>
+			<artist_adjectives>inventive, ambitious, iconic, acclaimed, influential, pioneering, groundbreaking, imaginative, creative, innovative</artist_adjectives>
+			<music_adjectives>anthemic, uplifting, emotive, atmospheric, empowering, anthemic, dreamy, intense, wistful, epic</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Imagine Dragons</global_example>
+			<global_listeners value="56.79"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Gross Guru</name>
+			<description>Gross Guru is an ambitious and daring rapper who has achieved global success with his soulful and anthemic music.</description>
+			<message>His lyrics are honest, heartfelt, and reflective. He encourages his listeners to stay true to themselves and to never give up on their dreams.</message>
+			<brand_adjectives>iconic, pioneering, innovative, acclaimed, inspirational, influential, multigenerational, successful, timeless, universal</brand_adjectives>
+			<artist_adjectives>daring, ambitious, stylish, iconic, beloved, innovative, pioneering, influential, acclaimed, imaginative</artist_adjectives>
+			<music_adjectives>soulful, anthemic, dreamy, melodic, romantic, wistful, upbeat, inspiring, emotive, soulful</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Drake</global_example>
+			<global_listeners value="55.82"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Fearless Dynamo</name>
+			<description>Fearless Dynamo is an innovative and daring reggaeton artist who has achieved global success with his energetic and uplifting music. With his iconic sound, he has become one of the most acclaimed, influential, and beloved acts of his generation.</description>
+			<message>His lyrics are bold, confident, and empowering. He encourages his listeners to embrace their individuality and to live life without fear or shame. Through his music, he conveys messages of self-love, resilience, and perseverance, while also exploring themes of passion, excitement, and joy. </message>
+			<brand_adjectives>iconic, groundbreaking, innovative, acclaimed, daring, inspirational, influential, multigenerational, successful, timeless</brand_adjectives>
+			<artist_adjectives>stylish, innovative, groundbreaking, acclaimed, influential, versatile, daring, fearless, ambitious, captivating</artist_adjectives>
+			<music_adjectives>energetic, upbeat, anthemic, passionate, uplifting, edgy, bold, danceable, funky, soulful</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Bad Bunny</global_example>
+			<global_listeners value="54.84"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Rege Phenom</name>
+			<description>Rege Phenom is an innovative and daring reggaeton artist who has achieved global success with his upbeat and uplifting music. With his iconic sound, he has become one of the most acclaimed, influential, and beloved acts of his generation.</description>
+			<message>His lyrics are bold, confident, and empowering. He encourages his listeners to embrace their individuality and to live life without fear or shame. Through his music, he conveys messages of self-love, resilience, and perseverance, while also exploring themes of passion, excitement, and joy.</message>
+			<brand_adjectives>iconic, groundbreaking, innovative, acclaimed, daring, inspirational, influential, multigenerational, successful, timeless</brand_adjectives>
+			<artist_adjectives>stylish, innovative, groundbreaking, acclaimed, influential, versatile, daring, fearless, ambitious, captivating</artist_adjectives>
+			<music_adjectives>upbeat, anthemic, passionate, uplifting, edgy, bold, danceable, funky, soulful, energetic</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>J Balvin</global_example>
+			<global_listeners value="54.29"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Disruptor</name>
+			<description>An innovative and stylish rapper with boundary-pushing music that is both melodic and witty, The Disruptor is a trendsetting artist who creates vibrant, catchy and soulful sounds that are sure to inspire.</description>
+			<message>His lyrics focus on themes of ambition, self-discovery, and perseverance. He encourages his listeners to strive for their goals and to never give up on their dreams. He also celebrates individuality and encourages people to be themselves and live life to the fullest.</message>
+			<brand_adjectives>charismatic, stylish, boundary-pushing, trendsetting, inspirational, cool, enigmatic</brand_adjectives>
+			<artist_adjectives>versatile, charismatic, creative, confident, inspiring, stylish, boundary-pushing, talented, enthusiastic</artist_adjectives>
+			<music_adjectives>innovative, melodic, catchy, energetic, upbeat, soulful, witty, clever, vibrant, fresh</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Jack Harlow</global_example>
+			<global_listeners value="53.36"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>King of Catchy Beats</name>
+			<description>King of Catchy Beats is an iconic, talented, and trendsetting artist who has crafted a unique and innovative sound, blending melodic, catchy, soulful, and witty music to create a vibrant and fresh sound. His success and popularity have made him an inspiring and influential figure in the music industry.</description>
+			<message>His lyrics often emphasize self-worth, positivity, and resilience. He encourages listeners to stay true to themselves, work hard, and never give up on their dreams, no matter what the odds. He also writes about the importance of love, friendship, and family, and celebrates the joys of life.</message>
+			<brand_adjectives>iconic, innovative, trendsetting, influential, inspiring, stylish, versatile, sophisticated, creative, timeless</brand_adjectives>
+			<artist_adjectives>talented, charismatic, stylish, prolific, prolific, popular, successful, iconic, passionate, groundbreaking</artist_adjectives>
+			<music_adjectives>innovative, melodic, catchy, energetic, upbeat, soulful, witty, clever, vibrant, fresh</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Bruno Mars</global_example>
+			<global_listeners value="52.76"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>Ethereal Enchantress</name>
+			<description>Ethereal Enchantress is an iconic and trendsetting artist who creates captivating music, blending dreamy, romantic, passionate, and emotive sounds to create a powerful and ethereal sound. She is an inspiring and fearless figure in the music industry, with her genre-defying style and innovative approach to music.</description>
+			<message>Her lyrics often explore themes of love, self-acceptance, and inner-strength. She encourages listeners to embrace individuality and to never give up on their dreams, no matter what the odds. She also writes about the importance of friendship and family, and celebrates the beauty of life.</message>
+			<brand_adjectives>iconic, trendsetting, stylish, genre-defying, daring, innovative, compelling, impactful, stylish, timeless</brand_adjectives>
+			<artist_adjectives>dynamic, charismatic, inspiring, creative, powerful, authentic, captivating, soulful, outspoken, fearless</artist_adjectives>
+			<music_adjectives>dreamy, romantic, soulful, passionate, uplifting, emotive, heartfelt, ethereal, sultry, dynamic</music_adjectives>
+			<genre_adjectives></genre_adjectives>
+			<production_adjectives></production_adjectives>
+			<music_video_adjectives></music_video_adjectives>
+			<global_example>Camila Cabello</global_example>
+			<global_listeners value="49.76"/>
+			<local_example></local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Finnisher</name>
+			<description>A singer-songwriter with an acoustic-folk sound, filled with meaningful lyrics and heartfelt emotion. His music is both uplifting and reflective, allowing listeners to connect to his stories on a deeper level. He strives to create a sound that is both timeless and modern, blending traditional folk tones with modern production techniques.</description>
+			<message>To tell stories of life, love, and hope. He focuses on creating songs that are meaningful and honest, exploring common human themes and experiences. He strives to create music that will inspire listeners to reflect and take action in their own lives.</message>
+			<brand_adjectives>authentic, honest, thoughtful, meaningful</brand_adjectives>
+			<artist_adjectives>passionate, emotive, sincere, reflective</artist_adjectives>
+			<music_adjectives>acoustic, folk, melodic, uplifting, soulful</music_adjectives>
+			<genre_adjectives>folk, alternative, indie</genre_adjectives>
+			<production_adjectives>traditional, modern, organic, warm</production_adjectives>
+			<music_video_adjectives>cinematic, artistic, captivating, emotive</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Ed Sheeran&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Fresh-Faced Finn</name>
+			<description>An ambitious, energetic and vibrant singer-songwriter creating catchy, melodic pop music with a youthful, danceable edge. His upbeat sound is sure to get listeners out of their seats and onto the dance floor. He has an eye for modern trends and strives to create something fresh and revolutionary.</description>
+			<message>To make music that encourages people to have fun and be themselves. He also hopes to create a message of self-expression, acceptance and positivity through his music.</message>
+			<brand_adjectives>fresh, trendy, hip, modern, revolutionary</brand_adjectives>
+			<artist_adjectives>energetic, vibrant, confident, ambitious, outgoing</artist_adjectives>
+			<music_adjectives>upbeat, pop, catchy, melodic, lighthearted, youthful, danceable</music_adjectives>
+			<genre_adjectives>pop, dance, edm, electronica</genre_adjectives>
+			<production_adjectives>modern, polished, dynamic, creative</production_adjectives>
+			<music_video_adjectives>visually stunning, creative, innovative, engaging</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Justin Bieber&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Soulful Seducer</name>
+			<description>A dark, edgy and soulful artist creating alternative R&amp;B and hip-hop influenced music. His music is driven by deep, moody bass lines and hypnotic melodies which create an atmosphere of mystery and emotion. He is unafraid to explore the darker depths of human emotion and strives to create something new and innovative. </description>
+			<message>To express the struggles of life, and the emotions of love, loss, and heartache. He strives to create a sound that is both raw and relatable, allowing listeners to connect to his stories on a deep level.</message>
+			<brand_adjectives>edgy, dark, soulful, mysterious</brand_adjectives>
+			<artist_adjectives>progressive, innovative, daring, unafraid</artist_adjectives>
+			<music_adjectives>alternative, R&amp;B, hip-hop, moody, hypnotic</music_adjectives>
+			<genre_adjectives>alternative R&amp;B, hip-hop, dark pop</genre_adjectives>
+			<production_adjectives>experimental, modern, moody, atmospheric</production_adjectives>
+			<music_video_adjectives>cinematic, edgy, captivating, emotive</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>The Weeknd&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Pop Princess of the North</name>
+			<description>An edgy, energetic and creative singer-songwriter creating catchy, danceable pop music with a modern edge. Her music is a blend of eclectic sounds and styles, combining elements of hip-hop, R&amp;B, and electronic music to create something truly unique. She strives to break down barriers and empower listeners to be themselves.</description>
+			<message>To encourage self-expression and self-love. She wants to create music that is empowering and uplifting, creating a safe space for people to express themselves and be who they want to be.</message>
+			<brand_adjectives>edgy, creative, empowering, modern</brand_adjectives>
+			<artist_adjectives>confident, energetic, fearless, ambitious</artist_adjectives>
+			<music_adjectives>pop, danceable, eclectic, hip-hop, R&amp;B, electronic</music_adjectives>
+			<genre_adjectives>pop, dance, hip-hop, electronic</genre_adjectives>
+			<production_adjectives>modern, polished, dynamic, creative</production_adjectives>
+			<music_video_adjectives>visually stunning, creative, innovative, engaging</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Dua Lipa&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Soulful Rocker</name>
+			<description>A passionate and emotive singer-songwriter creating a unique blend of soulful pop and rock music. His music is characterized by heartfelt lyrics and dynamic production, creating an atmosphere of emotion and reflection. He strives to create music that is both timeless and meaningful, blending traditional sounds with modern production techniques.</description>
+			<message>To explore the complexities of human emotion and experience. He wants to create music that will inspire listeners to reflect on life and their own choices. He hopes to encourage listeners to be open to different perspectives and to be compassionate to one another. </message>
+			<brand_adjectives>passionate, emotive, meaningful, timeless</brand_adjectives>
+			<artist_adjectives>creative, confident, sincere, reflective</artist_adjectives>
+			<music_adjectives>soulful, pop, rock, dynamic, heartfelt</music_adjectives>
+			<genre_adjectives>pop, rock, soul</genre_adjectives>
+			<production_adjectives>traditional, modern, organic, dynamic</production_adjectives>
+			<music_video_adjectives>cinematic, artistic, captivating, emotive</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Harry Styles&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Creative Composers</name>
+			<description>A passionate and emotive band creating alternative rock and pop music filled with heartfelt lyrics and dynamic production. Their music is both uplifting and reflective, allowing listeners to connect to their stories on a deeper level. They strive to create a sound that is both timeless and modern, blending traditional sounds with modern production techniques.</description>
+			<message>To tell stories of life, love, and hope. They focus on creating songs that are meaningful and honest, exploring common human themes and experiences. They strive to create music that will inspire listeners to reflect and take action in their own lives. </message>
+			<brand_adjectives>passionate, emotive, meaningful, timeless</brand_adjectives>
+			<artist_adjectives>creative, confident, sincere, reflective</artist_adjectives>
+			<music_adjectives>alternative, rock, pop, dynamic, heartfelt</music_adjectives>
+			<genre_adjectives>alternative rock, pop, indie</genre_adjectives>
+			<production_adjectives>traditional, modern, organic, dynamic</production_adjectives>
+			<music_video_adjectives>cinematic, artistic, captivating, emotive</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Coldplay&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Anthemic Architects</name>
+			<description>A passionate and energetic rock band creating anthemic music filled with intense lyrics and powerful production. Their music is both inspiring and uplifting, allowing listeners to connect to their stories on a deeper level. They strive to create a sound that is both modern and timeless, blending traditional sounds with modern production techniques.</description>
+			<message>To tell stories of courage, resilience, and hope. They focus on creating songs that are meaningful and honest, exploring common human themes and experiences. They strive to create music that will inspire listeners to stand up for themselves and take action in their own lives. </message>
+			<brand_adjectives>passionate, energetic, meaningful, timeless</brand_adjectives>
+			<artist_adjectives>creative, confident, sincere, inspiring</artist_adjectives>
+			<music_adjectives>rock, anthemic, powerful, intense</music_adjectives>
+			<genre_adjectives>alternative rock, pop rock, indie</genre_adjectives>
+			<production_adjectives>traditional, modern, organic, dynamic</production_adjectives>
+			<music_video_adjectives>cinematic, artistic, captivating, energetic</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Imagine Dragons&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Thoughtful Rhymer</name>
+			<description>A talented and innovative artist creating hip hop and rap music that is both accessible and thought-provoking. Their music has a modern and fresh sound, blending elements of R&amp;B, soul, and funk. Their lyrics explore themes of love, loss, joy, and empowerment, while their production is infused with energy and creativity.</description>
+			<message>To tell stories of resilience and hope in the face of life&apos;s struggles. Their music is empowering and inspiring, encouraging listeners to find strength and courage in the midst of difficult times. They aim to create songs that will uplift and motivate those in need.</message>
+			<brand_adjectives>talented, innovative, accessible, thought-provoking</brand_adjectives>
+			<artist_adjectives>creative, confident, passionate, inspiring</artist_adjectives>
+			<music_adjectives>hip hop, rap, R&amp;B, soul, funk</music_adjectives>
+			<genre_adjectives>hip hop, rap, R&amp;B, soul</genre_adjectives>
+			<production_adjectives>modern, fresh, energetic, creative</production_adjectives>
+			<music_video_adjectives>cinematic, artistic, captivating, emotive</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Drake&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Pop Prodigy</name>
+			<description>A talented and energetic artist creating upbeat pop and country-folk music with inspiring lyrics and dynamic production. Their music is both fun and reflective, allowing listeners to connect to their stories on a deeper level. They strive to create a sound that is both catchy and unique, blending traditional sounds with modern production techniques.</description>
+			<message>To tell stories of hope, courage, and resilience. They focus on creating songs that are uplifting and relatable, exploring common human experiences and emotions. They strive to create music that will inspire listeners to strive for their dreams and fight for their happiness.</message>
+			<brand_adjectives>talented, energetic, inspiring, unique</brand_adjectives>
+			<artist_adjectives>confident, creative, courageous, optimistic</artist_adjectives>
+			<music_adjectives>upbeat, pop, country-folk, dynamic</music_adjectives>
+			<genre_adjectives>pop, country-folk, indie</genre_adjectives>
+			<production_adjectives>traditional, modern, organic, dynamic</production_adjectives>
+			<music_video_adjectives>cinematic, artistic, captivating, emotive</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Taylor Swift&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Modern Melodist</name>
+			<description>A bold and innovative artist creating bold and creative beats, coupled with powerful and introspective lyrics. Their music is filled with energy and emotion, blending elements of hip hop, R&amp;B, and pop with unique production techniques to create a unique and modern sound.</description>
+			<message>To create music that encourages self-reflection and self-expression. They focus on creating songs that are honest and empowering, exploring both personal and universal themes. Their music is filled with stories of hope, resilience, and growth. </message>
+			<brand_adjectives>bold, innovative, empowering, modern</brand_adjectives>
+			<artist_adjectives>creative, confident, introspective, passionate</artist_adjectives>
+			<music_adjectives>hip hop, R&amp;B, pop, unique, energetic</music_adjectives>
+			<genre_adjectives>hip hop, R&amp;B, pop, electro, funk</genre_adjectives>
+			<production_adjectives>modern, experimental, organic, eclectic</production_adjectives>
+			<music_video_adjectives>edgy, artistic, captivating, vibrant</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Doja Cat&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Latin Groovers</name>
+			<description>A vibrant, fresh artist that blends Latin rhythms, hip hop, and reggaeton to create a unique sound that is both energetic and captivating. They explore themes of identity and self-expression, and their music is filled with positivity and empowerment. Their live performances are full of energy, and they strive to create a space for their audiences to feel safe and accepted.</description>
+			<message>To inspire others to be true to themselves and find their own unique voice. They aim to create music that is uplifting, empowering, and full of positive energy. They focus on exploring themes of identity and self-expression, as well as issues of social justice and equality.</message>
+			<brand_adjectives>vibrant, fresh, positive, empowering</brand_adjectives>
+			<artist_adjectives>creative, confident, energetic, inclusive</artist_adjectives>
+			<music_adjectives>latin, hip hop, reggaeton, captivating</music_adjectives>
+			<genre_adjectives>latin, hip hop, reggaeton, pop</genre_adjectives>
+			<production_adjectives>rhythmic, groovy, upbeat, dynamic</production_adjectives>
+			<music_video_adjectives>vibrant, creative, energetic, colourful</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Bad Bunny&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Vibrant Vanguard</name>
+			<description>A Latin artist blending traditional rhythms and modern production techniques to create a unique sound that celebrates the cultures of Latin America. Their music is a mix of reggaeton, hip-hop, and Latin pop, with powerful and uplifting lyrics that explore themes of identity, love, and empowerment.</description>
+			<message>To explore themes of identity, love, and empowerment. They aim to create music that celebrates Latin American culture, while also encouraging listeners to be proud of who they are and to strive for a better future. </message>
+			<brand_adjectives>vibrant, energetic, uplifting, celebratory</brand_adjectives>
+			<artist_adjectives>creative, confident, pioneering, inspiring</artist_adjectives>
+			<music_adjectives>reggaeton, hip-hop, latin pop, rhythmic</music_adjectives>
+			<genre_adjectives>latin hip-hop, Latin pop, reggaeton</genre_adjectives>
+			<production_adjectives>traditional, modern, organic, dynamic</production_adjectives>
+			<music_video_adjectives>vibrant, energetic, colorful, captivating</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>The Vibrant Vanguards</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The EDM Extravaganza</name>
+			<description>A high-energy DJ and producer creating an electrifying blend of EDM and pop music. Their sound is big, bold, and danceable, with infectious hooks and catchy melodies, perfect for any party. Guetta&apos;s Finnish counterpart strives to create music that is both timeless and modern, taking inspiration from classic EDM and infusing it with a modern pop twist.</description>
+			<message>To motivate and empower listeners to embrace life and find joy in the moment. They create music that is designed to make people dance and to enjoy the present moment. They strive to create music that is both uplifting and reflective, encouraging listeners to take action in their lives and to make the most of every opportunity. </message>
+			<brand_adjectives>high-energy, vibrant, bold, innovative</brand_adjectives>
+			<artist_adjectives>creative, confident, powerful, inspirational</artist_adjectives>
+			<music_adjectives>EDM, pop, danceable, infectious</music_adjectives>
+			<genre_adjectives>EDM, pop, dance, electronic</genre_adjectives>
+			<production_adjectives>classic, modern, explosive, catchy</production_adjectives>
+			<music_video_adjectives>vivacious, colorful, energetic, dynamic</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>David Guetta&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Pop Phenomenon</name>
+			<description>An innovative and electrifying performer creating a unique blend of pop, R&amp;B, and hip-hop music. Their sound is dynamic and energetic, filled with infectious beats and soulful melodies. They strive to create music that will move both the body and the soul, inspiring listeners to find joy and freedom in their lives.</description>
+			<message>To celebrate self-expression, self-love, and freedom. Their music is empowering and uplifting, encouraging people to follow their passions and pursue their dreams. They strive to create a sound that is both inspiring and entertaining, encouraging listeners to dance and feel alive.</message>
+			<brand_adjectives>innovative, electrifying, inspiring, entertaining</brand_adjectives>
+			<artist_adjectives>confident, bold, spontaneous, free-spirited</artist_adjectives>
+			<music_adjectives>pop, R&amp;B, hip-hop, dynamic, soulful</music_adjectives>
+			<genre_adjectives>pop, R&amp;B, hip-hop, dance</genre_adjectives>
+			<production_adjectives>infectious, energetic, melodic, groovy</production_adjectives>
+			<music_video_adjectives>vibrant, stylish, captivating, dynamic</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Ariana Grande&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Innovative MC</name>
+			<description>An up-and-coming hip-hop artist that blends witty lyricism with a unique and stylized flow. His music is a modern twist on classic hip-hop, with catchy hooks and thoughtful storytelling. He brings a fresh energy to the genre, pushing the boundaries of lyrical content and production.</description>
+			<message>To explore topics such as identity, ambition, and self-expression. His lyrics often reflect his own life experiences, encouraging listeners to search within themselves and find their own paths. He also encourages listeners to think beyond the status quo and strive to push boundaries in their own lives.</message>
+			<brand_adjectives>innovative, witty, unique, stylized</brand_adjectives>
+			<artist_adjectives>ambitious, creative, expressive, confident</artist_adjectives>
+			<music_adjectives>modern, classic, catchy, thoughtful</music_adjectives>
+			<genre_adjectives>hip-hop, rap, trap</genre_adjectives>
+			<production_adjectives>energetic, innovative, cutting-edge</production_adjectives>
+			<music_video_adjectives>visually-stunning, dynamic, expressive, energetic</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Jack Harlow&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Groovy Glamourist</name>
+			<description>A captivating, eclectic mix of funk, soul, and pop music. Their vibrant and energetic performances bring to life a unique and soulful sound. Their music is an uplifting blend of catchy beats and heartfelt lyrics, creating a unique and memorable experience for listeners.</description>
+			<message>To explore the joys and struggles of life, love, and relationships. Their music is rooted in truth, celebrating the beauty of life while acknowledging its difficulties. They strive to create music that will inspire and empower listeners to find joy in their own lives.</message>
+			<brand_adjectives>vibrant, soulful, funky, energetic</brand_adjectives>
+			<artist_adjectives>captivating, eclectic, groovy, glamorous</artist_adjectives>
+			<music_adjectives>funk, soul, pop, catchy, heartfelt</music_adjectives>
+			<genre_adjectives>funk, soul, pop, R&amp;B</genre_adjectives>
+			<production_adjectives>organic, modern, funky, soulful</production_adjectives>
+			<music_video_adjectives>creative, vibrant, cinematic, energetic</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Bruno Mars&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Bold MC</name>
+			<description>A versatile and dynamic hip-hop artist creating intense and thought-provoking lyrics. Their music is unapologetically bold, exploring controversial topics and creating a space for self-expression. They strive to merge innovative production with classic hip-hop elements, creating a sound that is both familiar and new.</description>
+			<message>To empower the listener by conveying the importance of self-expression, resilience and standing up for what is right. Their lyrics are often introspective and often challenge societal norms, encouraging people to think for themselves and question authority.</message>
+			<brand_adjectives>fearless, versatile, dynamic, intense</brand_adjectives>
+			<artist_adjectives>bold, confident, innovative, thoughtful</artist_adjectives>
+			<music_adjectives>hip-hop, rap, lyrical, freestyle</music_adjectives>
+			<genre_adjectives>hip-hop, rap, trap</genre_adjectives>
+			<production_adjectives>classic, modern, gritty, innovative</production_adjectives>
+			<music_video_adjectives>edgy, powerful, expressive, cinematic</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Eminem&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Joyful Jammers</name>
+			<description>A vibrant and energetic band creating a unique blend of pop, rock, funk, and soul music. They are dedicated to creating music that is both captivating and enjoyable, offering listeners an exciting and memorable experience. Their music is both lighthearted and meaningful, aiming to bring joy to listeners.</description>
+			<message>To encourage listeners to appreciate the joys of life and to never give up on their dreams. Their music is full of uplifting messages, promoting optimism and hope. They strive to create songs that will inspire listeners to be the best versions of themselves.</message>
+			<brand_adjectives>vibrant, energetic, joyful, captivating</brand_adjectives>
+			<artist_adjectives>passionate, inventive, playful, soulful</artist_adjectives>
+			<music_adjectives>pop, rock, funk, soulful</music_adjectives>
+			<genre_adjectives>pop, rock, funk, soul</genre_adjectives>
+			<production_adjectives>upbeat, funky, groovy, energetic</production_adjectives>
+			<music_video_adjectives>fun, stylish, vibrant, captivating</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Maroon 5&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Soulful Siren</name>
+			<description>A powerful, soulful pop vocalist who blends Latin and R&amp;B influences with thoughtful lyrics and bright melodies. Their sound is rooted in the spirit of the traditional while keeping one foot firmly in the present. They strive to create music that has the power to uplift and inspire.</description>
+			<message>To tell stories of self-discovery, empowerment, and resilience. They focus on exploring their own life experiences and sharing messages of hope and strength with their audience. Their music is meant to encourage listeners to be their best selves and to never give up on their dreams.</message>
+			<brand_adjectives>powerful, soulful, traditional, modern</brand_adjectives>
+			<artist_adjectives>passionate, confident, creative, inspirational</artist_adjectives>
+			<music_adjectives>pop, Latin, R&amp;B, melodic</music_adjectives>
+			<genre_adjectives>pop, Latin, R&amp;B, soul</genre_adjectives>
+			<production_adjectives>bright, uplifting, captivating</production_adjectives>
+			<music_video_adjectives>vibrant, stylish, emotive</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Camila Cabello&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+		<item>
+			<name>The Daring Diva</name>
+			<description>A genre-bending artist creating a unique sound that blends hip-hop, R&amp;B, pop, and electronic music. Their music is both playful and thoughtful, combining innovative production with bold lyrics. They strive to create a sound that is both modern and timeless, blending traditional sounds with modern production techniques.</description>
+			<message>To tell stories of identity, empowerment, and courage. They focus on creating songs that are empowering and inspiring, exploring themes of self-discovery, growth, and resilience. They strive to create music that will challenge and uplift their listeners.</message>
+			<brand_adjectives>genre-bending, innovative, bold, timeless</brand_adjectives>
+			<artist_adjectives>creative, confident, powerful, thoughtful</artist_adjectives>
+			<music_adjectives>hip-hop, R&amp;B, pop, electronic</music_adjectives>
+			<genre_adjectives>hip-hop, pop, R&amp;B, EDM</genre_adjectives>
+			<production_adjectives>traditional, modern, experimental, innovative</production_adjectives>
+			<music_video_adjectives>vibrant, stylish, daring, inspirational</music_video_adjectives>
+			<global_example></global_example>
+			<global_listeners value="0"/>
+			<local_example>Rihanna&apos;s Finnish counterpart</local_example>
+			<local_listeners value="0"/>
+		</item>
+	</artistlist>
 </app>
