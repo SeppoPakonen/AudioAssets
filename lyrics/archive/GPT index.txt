@@ -1,0 +1,255 @@
+List of song names and their adjectives:
+- all your coffee belongs to us: cheeky, sardonic, mischievous
+- casually: reflective, pensive, melancholic
+- not feeling like home: forlorn, desperate, regretful
+- dancing: sensual, seductive, provocative
+- get out: forceful, desperate, emotional, sorrowful
+- Jesus saves: inspirational, uplifting, comforting, hopeful
+- Great Escape: liberating, determined, independent, brave
+- Have a nice trip: melancholic, reflective, bittersweet, resigned
+- Spikeless rose: perfect, rare, beautiful, malicious, hurtful
+- I don't know: hard, afraid, stupid, human, answermachine
+- She went away: hard, sorry, caring, nice, broken
+- Love is only a word: misunderstood, unproven, unreliable
+- I'm fucked up: restless, stressed, late, freefalling, killing
+- Feeling blind: Malicious, spiteful, scathing, rude, hurtful.
+- Heart cone: Sentimental, romantic, dreamy, soothing, peaceful.
+- Alone in the dark: Gloomy, desolate, lonely, forlorn, sorrowful.
+- The Hatred: Vindictive, acrimonious, malevolent, hostile, rancorous.
+- A Pity: Mournful, regretful, remorseful, apologetic, contrite.
+- Nightmares: Eerie, chilling, nightmarish, spooky, eerie.
+- Invincible: Powerful, Unstoppable, Supreme, Unbeatable, Unconquerable, Fearless, Indomitable, Unvanquishable.
+- Doing the Dirty Work: Cheating, Cruel, Distant, Vengeful, Unforgiving, Unfaithful, Betraying, Detached.
+- Black and White: Opposite, Contrasting, Different, Similar, Carefree, Disappointed, Peaceful, Relaxed.
+- Romeo: Romantic, Sweet, Loving, Passionate, Charming, Endearing, Adoring.
+- This Evening: Hopeful, Desirous, Longing, Ardent, Yearning, Affectionate, Intimate.
+- Mr. Loser: Relaxing, Happy, Homely, Welcoming, Destined
+- Let's Leave: Free, Momentary, Attached, Teenage, Bold
+- Calling the man to death: Shadowy, Immortal, Hidden, Understandable
+- Nightmare: Scary, Dark, Sorry, Afraid, Bedmate
+- Sexy Enemy: Moneyed, Powerful, Stylish, Ugly, Unsuccessful
+- Computer guy: Impressive, friendly, talented, skilled, smart, knowledgeable
+- A shoulder to lean on: Sarcastic, ironic, sardonic, critical, witty
+- From this view: Poignant, evocative, moving, romantic
+- Teen in Custody: Heartbreaking, poignant, sad, sympathetic
+- Finnish rap: Cynical, sardonic, mocking, sarcastic
+- Invincible: Confident, bold, daring, powerful, strong
+- Cheap spirit: Desperate, Dark, Sad, Miserable, Depressing
+- Troublemaker: Regretful, Guilty, Remorseful, Contrite, Apologetic
+- Two: Conflicted, Confused, Puzzled, Perplexed, Uncertain
+- Withdrawal Symptomps: Anxious, Worried, Nervous, Frightened, Fearful
+- You got it wrong: intense, dark, regretful
+- Great Escape: defiant, determined, liberating
+- Canoe: calming, peaceful, serene
+- Surreal Morning: surreal, dreamy, evocative
+- Specter: eerie, mysterious, haunting
+- A Brat Living in a Pillow: mischievous, crafty, determined
+
+
+
+List of songs with positive adjectives:
+- all your coffee belongs to us: cheeky, sardonic, mischievous
+- dancing: sensual, seductive, provocative
+- Jesus saves: inspirational, uplifting, comforting, hopeful
+- Great Escape: liberating, determined, independent, brave
+- Have a nice trip: melancholic, reflective, bittersweet, resigned
+- Spikeless rose: perfect, rare, beautiful, malicious, hurtful
+- She went away: hard, sorry, caring, nice, broken
+- Heart cone: Sentimental, romantic, dreamy, soothing, peaceful.
+- Invincible: Powerful, Unstoppable, Supreme, Unbeatable, Unconquerable, Fearless, Indomitable, Unvanquishable.
+- Romeo: Romantic, Sweet, Loving, Passionate, Charming, Endearing, Adoring.
+- This Evening: Hopeful, Desirous, Longing, Ardent, Yearning, Affectionate, Intimate.
+- Mr. Loser: Relaxing, Happy, Homely, Welcoming, Destined
+- Let's Leave: Free, Momentary, Attached, Teenage, Bold
+- Computer guy: Impressive, friendly, talented, skilled, smart, knowledgeable
+- From this view: Poignant, evocative, moving, romantic
+- Invincible: Confident, bold, daring, powerful, strong
+- Great Escape: defiant, determined, liberating
+- Canoe: calming, peaceful, serene
+- Surreal Morning: surreal, dreamy, evocative
+
+	Group "Joyful" contains songs:
+	- All your coffee belongs to us: cheeky, sardonic, mischievous
+	- Dancing: sensual, seductive, provocative
+	- Jesus saves: inspirational, uplifting, comforting, hopeful
+	- Have a nice trip: melancholic, reflective, bittersweet, resigned
+	- Romeo: Romantic, Sweet, Loving, Passionate, Charming, Endearing, Adoring
+	- Mr. Loser: Relaxing, Happy, Homely, Welcoming, Destined
+	- Let's Leave: Free, Momentary, Attached, Teenage, Bold
+	- Computer guy: Impressive, friendly, talented, skilled, smart, knowledgeable
+	- Canoe: calming, peaceful, serene
+
+		- "Happy" Group:
+			- Jesus saves: inspirational, uplifting, comforting, hopeful
+			- Have a nice trip: melancholic, reflective, bittersweet, resigned
+			- Romeo: Romantic, Sweet, Loving, Passionate, Charming, Endearing, Adoring
+			- Mr. Loser: Relaxing, Happy, Homely, Welcoming, Destined
+			- Let's Leave: Free, Momentary, Attached, Teenage, Bold
+			- Computer guy: Impressive, friendly, talented, skilled, smart, knowledgeable
+
+				- "Happy"
+					- Jesus Saves
+					- Have a Nice Trip
+					- Romeo
+					- Let's Leave
+
+				- "Relaxing"
+					- Mr. Loser
+					- Computer Guy
+
+		- "Cheerful" Group:
+			- All your coffee belongs to us
+			- Dancing
+			- Canoe
+
+	Group "Uplifting" contains songs:
+	- Great Escape: liberating, determined, independent, brave
+	- Spikeless rose: perfect, rare, beautiful, malicious, hurtful
+	- She went away: hard, sorry, caring, nice, broken
+	- Heart cone: Sentimental, romantic, dreamy, soothing, peaceful.
+	- Invincible: Powerful, Unstoppable, Supreme, Unbeatable, Unconquerable, Fearless, Indomitable, Unvanquishable.
+	- This Evening: Hopeful, Desirous, Longing, Ardent,
+	- From this view: Poignant, evocative, moving, romantic
+	- Surreal Morning: surreal, dreamy, evocative
+
+		- Empowering Group
+			- Great Escape
+			- Invincible
+			- This Evening
+
+		- Inspirational Group
+			- Spikeless Rose
+			- She Went Away
+			- Heart Cone
+			- From This View
+			- Surreal Morning
+
+List of songs with negative adjectives:
+- casually: reflective, pensive, melancholic
+- not feeling like home: forlorn, desperate, regretful
+- get out: forceful, desperate, emotional, sorrowful
+- I don't know: hard, afraid, stupid, human, answermachine
+- Love is only a word: misunderstood, unproven, unreliable
+- I'm fucked up: restless, stressed, late, freefalling, killing
+- Feeling blind: Malicious, spiteful, scathing, rude, hurtful.
+- Alone in the dark: Gloomy, desolate, lonely, forlorn, sorrowful.
+- The Hatred: Vindictive, acrimonious, malevolent, hostile, rancorous.
+- A Pity: Mournful, regretful, remorseful, apologetic, contrite.
+- Nightmares: Eerie, chilling, nightmarish, spooky, eerie.
+- Doing the Dirty Work: Cheating, Cruel, Distant, Vengeful, Unforgiving, Unfaithful, Betraying, Detached.
+- Black and White: Opposite, Contrasting, Different, Similar, Carefree, Disappointed, Peaceful, Relaxed.
+- Calling the man to death: Shadowy, Immortal, Hidden, Understandable
+- Nightmare: Scary, Dark, Sorry, Afraid, Bedmate
+- Sexy Enemy: Moneyed, Powerful, Stylish, Ugly, Unsuccessful
+- A shoulder to lean on: Sarcastic, ironic, sardonic, critical, witty
+- Teen in Custody: Heartbreaking, poignant, sad, sympathetic
+- Finnish rap: Cynical, sardonic, mocking, sarcastic
+- Cheap spirit: Desperate, Dark, Sad, Miserable, Depressing
+- Troublemaker: Regretful, Guilty, Remorseful, Contrite, Apologetic
+- Two: Conflicted, Confused, Puzzled, Perplexed, Uncertain
+- Withdrawal Symptomps: Anxious, Worried, Nervous, Frightened, Fearful
+- You got it wrong: intense, dark, regretful
+- Specter: eerie, mysterious, haunting
+- A Brat Living in a Pillow: mischievous, crafty, determined
+
+	"Sad" group songs:
+	- Casually: reflective, pensive, melancholic
+	- Not Feeling Like Home: Forlorn, Desperate, Regretful
+	- Love is Only a Word: Misunderstood, Unproven, Unreliable
+	- I'm Fucked Up: Restless, Stressed, Late, Freefalling, Killing
+	- Feeling Blind: Malicious, Spiteful, Scathing, Rude, Hurtful
+	- Alone in the Dark: Gloomy, Desolate, Lonely, Forlorn, Sorrowful
+	- A Pity: Mournful, Regretful, Remorseful, Apologetic, Contrite
+	- Nightmares: Eerie, Chilling, Nightmarish, Spooky, Eerie
+	- You Got it Wrong: Intense, Dark, Regretful
+	- Specter: Eerie, Mysterious, Haunting
+	- Cheap Spirit: Desperate, Dark, Sad, Miserable, Depressing
+	- Troublemaker: Regretful, Guilty, Remorseful, Contrite, Apologetic
+	- Two: Conflicted, Confused, Puzzled, Perplexed, Uncertain
+	- Withdrawal Symptoms: Anxious, Worried, Nervous, Frightened, Fearful
+	- A Brat Living in a Pillow: Mischievous, Crafty, Determined
+	- Teen in Custody: Heartbreaking, poignant, sad, sympathetic
+
+		"Depressing" group songs:
+		- Not Feeling Like Home: Forlorn, Desperate, Regretful
+		- Love is Only a Word: Misunderstood, Unproven, Unreliable
+		- I'm Fucked Up: Restless, Stressed, Late, Freefalling, Killing
+		- Feeling Blind: Malicious, Spiteful, Scathing, Rude, Hurtful
+		- Alone in the Dark: Gloomy, Desolate, Lonely, Forlorn, Sorrowful
+		- A Pity: Mournful, Regretful, Remorseful, Apologetic, Contrite
+		- Nightmares: Eerie, Chilling, Nightmarish, Spooky, Eerie
+		- You Got it Wrong: Intense, Dark, Regretful
+		- Specter: Eerie, Mysterious, Haunting
+		- Cheap Spirit: Desperate, Dark, Sad, Miserable, Depressing
+		- Troublemaker: Regretful, Guilty, Remorseful, Contrite, Apologetic
+		- Withdrawal Symptoms: Anxious, Worried, Nervous, Frightened, Fearful
+		- Get Out: Forceful, Desperate, Emotional, Sorrowful
+
+			"Eerie" group songs:
+				- Nightmares: Eerie, Chilling, Nightmarish, Spooky, Eerie
+				- Specter: Eerie, Mysterious, Haunting
+
+			"Regretful" group songs:
+				- A Pity: Mournful, Regretful, Remorseful, Apologetic, Contrite
+				- You Got it Wrong: Intense, Dark, Regretful
+				- Troublemaker: Regretful, Guilty, Remorseful, Contrite, Apologetic
+
+			"Desperate" group songs:
+				- Not Feeling Like Home: Forlorn, Desperate, Regretful
+				- Cheap Spirit: Desperate, Dark, Sad, Miserable, Depressing
+				- Get Out: Forceful, Desperate, Emotional, Sorrowful
+
+			"Gloomy" group songs:
+				- Love is Only a Word: Misunderstood, Unproven, Unreliable
+				- Alone in the Dark: Gloomy, Desolate, Lonely, Forlorn, Sorrowful
+				- Withdrawal Symptoms: Anxious, Worried, Nervous, Frightened, Fearful
+
+			"Hurtful" group songs:
+				- I'm Fucked Up: Restless, Stressed, Late, Freefalling, Killing
+				- Feeling Blind: Malicious, Spiteful, Scathing, Rude, Hurtful
+
+		"Heartbreaking" group songs:
+		- Casually: Reflective, Pensive, Melancholic
+		- Two: Conflicted, Confused, Puzzled, Perplexed, Uncertain
+		- A Brat Living in a Pillow: Mischievous, Crafty, Determined
+		- Teen in Custody: Heartbreaking, Poignant, Sad, Sympathetic
+
+	"Angry" group songs:
+	- I Don't Know: Hard, Afraid, Stupid, Human, Answermachine
+	- Doing the Dirty Work: Cheating, Cruel, Distant, Vengeful, Unforgiving, Unfaithful, Betraying, Detached
+	- Black and White: Opposite, Contrasting, Different, Similar, Carefree, Disappointed, Peaceful, Relaxed
+	- Calling the Man to Death: Shadowy, Immortal, Hidden, Understandable
+	- Nightmare: Scary, Dark, Sorry, Afraid, Bedmate
+	- Sexy Enemy: Moneyed, Powerful, Stylish, Ugly, Unsuccessful
+	- The Hatred: Vindictive, Acrimonious, Malevolent, Hostile, Rancorous.
+	- A shoulder to lean on: Sarcastic, ironic, sardonic, critical, witty
+	- Finnish rap: Cynical, sardonic, mocking, sarcastic
+
+		Aggressive songs:
+		- I Don't Know: Hard, Afraid, Stupid, Human, Answermachine
+		- Doing the Dirty Work: Cheating, Cruel, Distant, Vengeful, Unforgiving, Unfaithful, Betraying, Detached
+		- Black and White: Opposite, Contrasting, Different, Similar, Carefree, Disappointed, Peaceful, Relaxed
+		- Calling the Man to Death: Shadowy, Immortal, Hidden, Understandable
+		- Nightmare: Scary, Dark, Sorry, Afraid, Bedmate
+		- Sexy Enemy: Moneyed, Powerful, Stylish, Ugly, Unsuccessful
+		- The Hatred: Vindictive, Acrimonious, Malevolent, Hostile, Rancorous.
+
+			"Angry" songs:
+			- I Don't Know: Hard, Afraid, Stupid, Human, Answermachine
+			- Doing the Dirty Work: Cheating, Cruel, Distant, Vengeful, Unforgiving, Unfaithful, Betraying, Detached
+			- The Hatred: Vindictive, Acrimonious, Malevolent, Hostile, Rancorous
+
+			"Forceful" songs:
+			- Black and White: Opposite, Contrasting, Different, Similar, Carefree, Disappointed, Peaceful, Relaxed
+			- Calling the Man to Death: Shadowy, Immortal, Hidden, Understandable
+			- Nightmare: Scary, Dark, Sorry, Afraid, Bedmate
+			- Sexy Enemy: Moneyed, Powerful, Stylish, Ugly, Unsuccessful
+
+		Sarcastic/Ironic songs:
+		- A shoulder to lean on: Sarcastic, ironic, sardonic, critical, witty
+		- Finnish rap: Cynical, sardonic, mocking, sarcastic
+
+
+
+Group "Joyful" can be described with two adjectives: "Happy" and "Cheerful".
+"Joyful" group is divided to groups "Happy" and "Cheerful".

@@ -19,3 +19,7 @@ Fix:
 	What would rhyme with ""?
 	Change words in the chorus.
 
+
+Other:
+	List of novel and negative nicknames for [artistname].
+
