@@ -5,3 +5,27 @@ Description:
 Style: 
 Genre: 
 Chords:
+
+
+
+
+
+### Process for the operator ###
+1. listen to the song and write down words which comes easily to your mind
+2. translate them to english
+3. fill the lines with the "edit" tool, but don't accept dumb answers
+4. put your incomplete lines to "complete tool" with the header "Lyrics with holes" and then in the end "lyrics without holes" (+ header info about the song if any)
+5. ALSO: ask the rest of the song e.g. "Lyrics with holes:\nVerse 2" and complete missing words by yourself for fun
+
+
+Instructions:
+- Select line 5 and 6. Shorten them. The length of line should be 7 syllables. Lines should rhyme.
+
+
+
+
+Other:
+- The same song, but with 80s and 90s Red Hot Chili Peppers lyrics style:
+- List of things to improve in lyrics:
+- The same song, but with these improvements:
+
