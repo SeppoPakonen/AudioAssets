@@ -193,17 +193,39 @@ void Editor::ArtistCtrl::Init() {
 	name <<= THISBACK(DataChanged);
 	description <<= THISBACK(DataChanged);
 	message <<= THISBACK(DataChanged);
-	brand_adjectives <<= THISBACK(DataChanged);
-	artist_adjectives <<= THISBACK(DataChanged);
-	music_adjectives <<= THISBACK(DataChanged);
-	genre_adjectives <<= THISBACK(DataChanged);
-	production_adjectives <<= THISBACK(DataChanged);
-	music_video_adjectives <<= THISBACK(DataChanged);
 	global_example <<= THISBACK(DataChanged);
 	global_listeners <<= THISBACK(DataChanged);
 	local_example <<= THISBACK(DataChanged);
 	local_listeners <<= THISBACK(DataChanged);
-
+	
+	pos_brand_adjectives <<= THISBACK(DataChanged);
+	pos_artist_adjectives <<= THISBACK(DataChanged);
+	pos_music_adjectives <<= THISBACK(DataChanged);
+	pos_genre_adjectives <<= THISBACK(DataChanged);
+	pos_production_adjectives <<= THISBACK(DataChanged);
+	pos_music_video_adjectives <<= THISBACK(DataChanged);
+	
+	neg_brand_adjectives <<= THISBACK(DataChanged);
+	neg_artist_adjectives <<= THISBACK(DataChanged);
+	neg_music_adjectives <<= THISBACK(DataChanged);
+	neg_genre_adjectives <<= THISBACK(DataChanged);
+	neg_production_adjectives <<= THISBACK(DataChanged);
+	neg_music_video_adjectives <<= THISBACK(DataChanged);
+	
+	pop_brand_adjectives <<= THISBACK(DataChanged);
+	pop_artist_adjectives <<= THISBACK(DataChanged);
+	pop_music_adjectives <<= THISBACK(DataChanged);
+	pop_genre_adjectives <<= THISBACK(DataChanged);
+	pop_production_adjectives <<= THISBACK(DataChanged);
+	pop_music_video_adjectives <<= THISBACK(DataChanged);
+	
+	rare_brand_adjectives <<= THISBACK(DataChanged);
+	rare_artist_adjectives <<= THISBACK(DataChanged);
+	rare_music_adjectives <<= THISBACK(DataChanged);
+	rare_genre_adjectives <<= THISBACK(DataChanged);
+	rare_production_adjectives <<= THISBACK(DataChanged);
+	rare_music_video_adjectives <<= THISBACK(DataChanged);
+	
 }
 
 void Editor::Header::Init() {
@@ -322,17 +344,39 @@ void Editor::ArtistCtrl::DataItem() {
 	name.SetData(a.name);
 	description.SetData(a.description);
 	message.SetData(a.message);
-	brand_adjectives.SetData(a.brand_adjectives);
-	artist_adjectives.SetData(a.artist_adjectives);
-	music_adjectives.SetData(a.music_adjectives);
-	genre_adjectives.SetData(a.genre_adjectives);
-	production_adjectives.SetData(a.production_adjectives);
-	music_video_adjectives.SetData(a.music_video_adjectives);
 	global_example.SetData(a.global_example);
 	global_listeners.SetData(a.global_listeners);
 	local_example.SetData(a.local_example);
 	local_listeners.SetData(a.local_listeners);
 
+	pos_brand_adjectives.SetData(a.pos_brand_adjectives);
+	pos_artist_adjectives.SetData(a.pos_artist_adjectives);
+	pos_music_adjectives.SetData(a.pos_music_adjectives);
+	pos_genre_adjectives.SetData(a.pos_genre_adjectives);
+	pos_production_adjectives.SetData(a.pos_production_adjectives);
+	pos_music_video_adjectives.SetData(a.pos_music_video_adjectives);
+	
+	neg_brand_adjectives.SetData(a.neg_brand_adjectives);
+	neg_artist_adjectives.SetData(a.neg_artist_adjectives);
+	neg_music_adjectives.SetData(a.neg_music_adjectives);
+	neg_genre_adjectives.SetData(a.neg_genre_adjectives);
+	neg_production_adjectives.SetData(a.neg_production_adjectives);
+	neg_music_video_adjectives.SetData(a.neg_music_video_adjectives);
+	
+	pop_brand_adjectives.SetData(a.pop_brand_adjectives);
+	pop_artist_adjectives.SetData(a.pop_artist_adjectives);
+	pop_music_adjectives.SetData(a.pop_music_adjectives);
+	pop_genre_adjectives.SetData(a.pop_genre_adjectives);
+	pop_production_adjectives.SetData(a.pop_production_adjectives);
+	pop_music_video_adjectives.SetData(a.pop_music_video_adjectives);
+	
+	rare_brand_adjectives.SetData(a.rare_brand_adjectives);
+	rare_artist_adjectives.SetData(a.rare_artist_adjectives);
+	rare_music_adjectives.SetData(a.rare_music_adjectives);
+	rare_genre_adjectives.SetData(a.rare_genre_adjectives);
+	rare_production_adjectives.SetData(a.rare_production_adjectives);
+	rare_music_video_adjectives.SetData(a.rare_music_video_adjectives);
+	
 }
 
 void Editor::ArtistCtrl::DataChanged() {
@@ -344,16 +388,38 @@ void Editor::ArtistCtrl::DataChanged() {
 	a.name = name.GetData();
 	a.description = description.GetData();
 	a.message = message.GetData();
-	a.brand_adjectives = brand_adjectives.GetData();
-	a.artist_adjectives = artist_adjectives.GetData();
-	a.music_adjectives = music_adjectives.GetData();
-	a.genre_adjectives = genre_adjectives.GetData();
-	a.production_adjectives = production_adjectives.GetData();
-	a.music_video_adjectives = music_video_adjectives.GetData();
 	a.global_example = global_example.GetData();
 	a.global_listeners = global_listeners.GetData();
 	a.local_example = local_example.GetData();
 	a.local_listeners = local_listeners.GetData();
+	
+	a.pos_brand_adjectives = pos_brand_adjectives.GetData();
+	a.pos_artist_adjectives = pos_artist_adjectives.GetData();
+	a.pos_music_adjectives = pos_music_adjectives.GetData();
+	a.pos_genre_adjectives = pos_genre_adjectives.GetData();
+	a.pos_production_adjectives = pos_production_adjectives.GetData();
+	a.pos_music_video_adjectives = pos_music_video_adjectives.GetData();
+	
+	a.neg_brand_adjectives = neg_brand_adjectives.GetData();
+	a.neg_artist_adjectives = neg_artist_adjectives.GetData();
+	a.neg_music_adjectives = neg_music_adjectives.GetData();
+	a.neg_genre_adjectives = neg_genre_adjectives.GetData();
+	a.neg_production_adjectives = neg_production_adjectives.GetData();
+	a.neg_music_video_adjectives = neg_music_video_adjectives.GetData();
+	
+	a.pop_brand_adjectives = pop_brand_adjectives.GetData();
+	a.pop_artist_adjectives = pop_artist_adjectives.GetData();
+	a.pop_music_adjectives = pop_music_adjectives.GetData();
+	a.pop_genre_adjectives = pop_genre_adjectives.GetData();
+	a.pop_production_adjectives = pop_production_adjectives.GetData();
+	a.pop_music_video_adjectives = pop_music_video_adjectives.GetData();
+	
+	a.rare_brand_adjectives = rare_brand_adjectives.GetData();
+	a.rare_artist_adjectives = rare_artist_adjectives.GetData();
+	a.rare_music_adjectives = rare_music_adjectives.GetData();
+	a.rare_genre_adjectives = rare_genre_adjectives.GetData();
+	a.rare_production_adjectives = rare_production_adjectives.GetData();
+	a.rare_music_video_adjectives = rare_music_video_adjectives.GetData();
 	
 	artistlist.Set(c, 0, a.name);
 }
@@ -507,16 +573,39 @@ void Artist::Xmlize(XmlIO& xml) {
 		("name", name)
 		("description", description)
 		("message", message)
-		("brand_adjectives", brand_adjectives)
-		("artist_adjectives", artist_adjectives)
-		("music_adjectives", music_adjectives)
-		("genre_adjectives", genre_adjectives)
-		("production_adjectives", production_adjectives)
-		("music_video_adjectives", music_video_adjectives)
 		("global_example", global_example)
 		("global_listeners", global_listeners)
 		("local_example", local_example)
 		("local_listeners", local_listeners)
+		
+		("brand_adjectives", pos_brand_adjectives)
+		("artist_adjectives", pos_artist_adjectives)
+		("music_adjectives", pos_music_adjectives)
+		("genre_adjectives", pos_genre_adjectives)
+		("production_adjectives", pos_production_adjectives)
+		("music_video_adjectives", pos_music_video_adjectives)
+		
+		("neg_brand_adjectives", neg_brand_adjectives)
+		("neg_artist_adjectives", neg_artist_adjectives)
+		("neg_music_adjectives", neg_music_adjectives)
+		("neg_genre_adjectives", neg_genre_adjectives)
+		("neg_production_adjectives", neg_production_adjectives)
+		("neg_music_video_adjectives", neg_music_video_adjectives)
+		
+		("pop_brand_adjectives", pop_brand_adjectives)
+		("pop_artist_adjectives", pop_artist_adjectives)
+		("pop_music_adjectives", pop_music_adjectives)
+		("pop_genre_adjectives", pop_genre_adjectives)
+		("pop_production_adjectives", pop_production_adjectives)
+		("pop_music_video_adjectives", pop_music_video_adjectives)
+		
+		("rare_brand_adjectives", rare_brand_adjectives)
+		("rare_artist_adjectives", rare_artist_adjectives)
+		("rare_music_adjectives", rare_music_adjectives)
+		("rare_genre_adjectives", rare_genre_adjectives)
+		("rare_production_adjectives", rare_production_adjectives)
+		("rare_music_video_adjectives", rare_music_video_adjectives)
+		
 	;
 }
 

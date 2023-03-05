@@ -1,10 +1,12 @@
 TODO:
  - gpt3 adjectives to existing list (synonymous)
  - tabs: header, statistics, artists, song finder, data mining (long term data)
- - song value tick boxes
- - song entities, environment, tick boxes
- - song virtual artist tick boxes
-	- most matchin artists in percentages
+ - next round
+	 - song virtual artist tick boxes
+		- most matchin artists in percentages
+	 - song value tick boxes (avoidable, boring, listenable, pleasant, hit, interesting, high-value, low-value, too early to tell)
+ - later
+	- song entities, environment, tick boxes
 
 More:
  - statistics
@@ -36,6 +38,8 @@ More:
 		- When comparing 2010s pop songs to 2020s pop songs, what is the difference in the adjectives of the songs?
 			- In 2010s pop songs, common adjectives used include: powerful, edgy, contemporary, and emotional. In 2020s pop songs, common adjectives used include: uplifting, moving, deep, and inspiring.
 	- artist profile attributes
+	- what attributes to NOT have!!!
+
  - virtual artists
 	- fake beatles
 	- strong woman
@@ -63,6 +67,14 @@ Needed:
 
 Stages:
  x write down song header data
+ x write virtual artists
+
+ - estimate correct virtual artist with gpt3
+	- check synonymous adjektives first... also consider main, negative, rarely and most popular adjectives
+ - collect albums per artist
+ - evaluate hits and misses per album
+	- use "most popular" adjektives for hits and "rarely" for misses
+
  - write down values, tick boxes: boring, hit, pleasantly listenable, avoidable, interesting, non-interesting, high-value, mid-value, too early to say, radio-playable
  - write down song entity data: who is singing, what entities are in the song, is it first person narrative
  - choose virtual artist profile per song
@@ -163,6 +175,24 @@ Ed Sheeran's Finnish counterpart's music is described by adjectives: acoustic, f
 Ed Sheeran's Finnish counterpart's genre is described by adjectives: folk, alternative, indie.
 Ed Sheeran's Finnish counterpart's production is described by adjectives: traditional, modern, organic, warm.
 Ed Sheeran's Finnish counterpart's music video is described by adjectives: cinematic, artistic, captivating, emotive.
+Ed Sheeran's Finnish counterpart's brand profile is never described by adjectives: superficial, formulaic, generic.
+Ed Sheeran's Finnish counterpart's artist profile is never described by adjectives: aloof, detached, unemotional.
+Ed Sheeran's Finnish counterpart's music is never described by adjectives: abrasive, chaotic, chaotic.
+Ed Sheeran's Finnish counterpart's genre is never described by adjectives: pop, EDM, hip-hop.
+Ed Sheeran's Finnish counterpart's production is never described by adjectives: robotic, synthetic, over-processed.
+Ed Sheeran's Finnish counterpart's music video is never described by adjectives: gaudy, cliched, ostentatious.
+Ed Sheeran's Finnish counterpart's most popular brand profile is described by adjectives: soulful, heartfelt, sincere, emotional.
+Ed Sheeran's Finnish counterpart's most popular artist profile is described by adjectives: passionate, creative, authentic, inspiring.
+Ed Sheeran's Finnish counterpart's most popular music is described by adjectives: melodic, uplifting, anthemic, harmonious.
+Ed Sheeran's Finnish counterpart's most popular genre is described by adjectives: folk, alternative, indie, pop.
+Ed Sheeran's Finnish counterpart's most popular production is described by adjectives: traditional, modern, organic, warm.
+Ed Sheeran's Finnish counterpart's most popular music video is described by adjectives: cinematic, artistic, captivating, emotive.
+Ed Sheeran's Finnish counterpart's brand profile is rarely described by adjectives: whimsical, surreal, experimental.
+Ed Sheeran's Finnish counterpart's artist profile is rarely described by adjectives: eccentric, unpredictable, enigmatic.
+Ed Sheeran's Finnish counterpart's music is rarely described by adjectives: ethereal, dreamy, hypnotic.
+Ed Sheeran's Finnish counterpart's genre is rarely described by adjectives: ambient, new age, chillwave.
+Ed Sheeran's Finnish counterpart's production is rarely described by adjectives: lo-fi, minimalist, vintage.
+Ed Sheeran's Finnish counterpart's music video is rarely described by adjectives: abstract, surreal, dream-like.
 List of novel artist names for Ed Sheeran's Finnish counterpart:
 1. The Folk-Soul Singer
 2. The Acoustic Artiste
@@ -174,4 +204,148 @@ List of novel artist names for Ed Sheeran's Finnish counterpart:
 8. The Meaningful Minstrel
 9. The Modern Traditionalist
 10. The Heartfelt Harmony-Maker
+"""
+
+"""
+List of most popular music artists and listeners (mil.):
+Ed Sheeran, 84.31
+Justin Bieber, 79.66
+The Weeknd, 76.59
+Dua Lipa, 66.08
+Harry Styles, 64.92
+Coldplay, 57.53
+Imagine Dragons, 56.79
+Drake, 55.82
+Taylor Swift, 55.40
+Doja Cat, 55.388
+Bad Bunny, 54.84
+J Balvin, 54.29
+David Guetta, 53.96
+Ariana Grande, 53.47
+Jack Harlow, 53.36
+Bruno Mars, 52.76
+Eminem, 51.35
+Maroon 5, 50.29
+Camila Cabello, 49.76
+Rihana, 49.66
+"""
+
+"""
+A Finnish nerdy, liberal, 30 years old, guitarist, computer programmer, serious man with 20 years of songwriting experience would be closest to:
+Coldplay, 57.53
+"""
+
+"""
+A Finnish sensitive, soft-spoken, liberal, 30-year-old, happy woman with 20 years of singing experience would be closest to:
+Dua Lipa. Dua Lipa's music style is known for being sensitive, soft-spoken, and liberal, making her a great fit for the described Finnish woman. Additionally, Dua Lipa is a 30-year-old artist with 20 years of singing experience.
+A Finnish sensitive, soft-spoken, liberal, 30-year-old, happy woman with 20 years of singing experience would be second closest after Dua Lipa to:
+Harry Styles
+A Finnish sensitive, soft-spoken, liberal, 30-year-old, happy woman with 20 years of singing experience would be second closest after Dua Lipa and Harry Styles to:
+Adele, 48.47
+"""
+
+"""
+A Finnish but Latin, wild, liberal, 27 years old, waiter, weed smoking, bi-sexual, Latin woman with 20 years of singing experience would be closest to: Dua Lipa
+"""
+
+"""
+A Finnish but Latin, wild, liberal, 27 years old, waiter, weed smoking, bi-sexual, Latin woman with 20 years of singing experience would be second closest after Dua Lipa to:
+ROSALÍA. Rosalía is a Spanish singer, songwriter, record producer, and actress. She has achieved international recognition for her fusion of flamenco and Latin pop. Her music incorporates a wide variety of styles, including hip hop, trap, flamenco, reggaeton, and Afro-Latinx music. She is also known for her signature red hair and her signature mix of traditional Latin and modern fashion styles.
+"""
+
+"""
+Female: A Finnish sensitive, soft-spoken, liberal, 30-year-old, happy woman with 20 years of singing experience would be second closest after Dua Lipa to: Adele
+
+Male: A Finnish nerdy, liberal, 30 years old, guitarist, computer programmer, serious man with 20 years of songwriting experience would be closest after Coldplay to: Radiohead
+
+Female: A Finnish but Latin, wild, liberal, 27 years old, waiter, weed smoking, bi-sexual, Latin woman with 20 years of singing experience would be second closest after Dua Lipa to: Shakira
+"""
+
+
+
+
+"""The Daring Dancer
+
+The Daring Dancer is a singer and dancer who blends Latin and pop music to create a unique sound. Her music is vibrant and passionate, filled with catchy melodies and passionate lyrics. She is unafraid to experiment with her sound, pushing the boundaries of Latin and pop music and creating a truly unique style.
+
+Her message to express a wide range of emotions, from joy and celebration to heartache and pain. She celebrates the beauty of life and encourages listeners to be true to themselves and live their lives to the fullest.
+
+Positive adjectives:
+brand profile: vibrant, passionate, playful, daring.
+artist profile: creative, expressive, imaginative, bold.
+music: Latin, pop, melodic, rhythmic.
+genre: Latin pop, dance, electro.
+production: fusion, experimental, eclectic.
+music video: colorful, dynamic, energetic, fun.
+
+Negative adjectives:
+brand profile: conservative, conventional, dull.
+artist profile: apathetic, indifferent, uninspired.
+music: abrasive, chaotic, cacophonous.
+genre: metal, punk, rap.
+production: synthetic, over-processed, robotic.
+music video: dark, morbid, depressing.
+
+Most popular adjectives:
+brand profile: vibrant, passionate, playful, daring.
+artist profile: creative, expressive, imaginative, bold.
+music: Latin, pop, melodic, rhythmic.
+genre: Latin pop, dance, electro.
+production: fusion, experimental, eclectic.
+music video: colorful, dynamic, energetic, fun.
+
+Rarely used adjectives:
+brand profile: avant-garde, edgy, progressive.
+artist profile: enigmatic, unpredictable, daring.
+music: atmospheric, soulful, mesmerizing.
+genre: Latin fusion, global beats, alternative.
+production: lo-fi, minimalist, vintage.
+music video: abstract, surreal, dream-like.
+
+List of the names of the songs in the her first album:
+1. “Dance to the Beat”
+2. “Till the Sun Comes Up”
+3. “Crazy in Love”
+4. “Lose Myself in You”
+5. “Shake It Off”
+6. “Live Out Loud”
+7. “Let the Music Play”
+8. “Beautiful Life”
+9. “Rise Up”
+10. “The Unstoppable”
+
+The biggest hit and the most popular song of them is "Crazy in Love".
+
+The scores for the songs are:
+1. Dance to the Beat – 8.5
+2. Till the Sun Comes Up – 9.2
+3. Crazy in Love – 9.8 2
+4. Lose Myself in You – 8.1
+5. Shake It Off – 8.7
+6. Live Out Loud – 9.4
+7. Let the Music Play – 8.9
+8. Beautiful Life – 8.3
+9. Rise Up – 9.6
+10. The Unstoppable – 9.9 1
+
+Information about songs:
+1. Dance to the Beat – Genre: Latin Pop. Adjectives: upbeat, fun, energetic. Tempo: Medium-Fast. Key: G Major. Production: Latin-infused, electro-pop.
+2. Till the Sun Comes Up – Genre: Latin Pop. Adjectives: romantic, sweet, heartfelt. Tempo: Medium. Key: C Major. Production: Dance-infused, electro-pop.
+3. Crazy in Love – Genre: Latin Pop. Adjectives: passionate, exhilarating, catchy. Tempo: Fast. Key: B Major. Production: Latin-infused, electro-pop.
+4. Lose Myself in You – Genre: Latin Pop. Adjectives: soulful, emotive, lush. Tempo: Slow. Key: D Major. Production: Latin-infused, electro-pop.
+5. Shake It Off – Genre: Latin Pop. Adjectives: playful, sassy, infectious. Tempo: Fast. Key: A Major. Production: Latin-infused, electro-pop.
+6. Live Out Loud – Genre: Latin Pop. Adjectives: uplifting, inspiring, powerful. Tempo: Medium. Key: A Major. Production: Latin-infused, electro-pop.
+7. Let the Music Play – Genre: Latin Pop. Adjectives: joyous, upbeat, celebratory. Tempo: Fast. Key: F# Major. Production: Latin-infused, electro-pop.
+8. Beautiful Life – Genre: Latin Pop. Adjectives: romantic, sweet, beautiful. Tempo: Slow. Key: G Major. Production: Latin-infused, electro-pop.
+9. Rise Up – Genre: Latin Pop. Adjectives: empowering, anthemic, anthemic. Tempo: Medium-Fast. Key: B Minor. Production: Latin-infused, electro-pop.
+10. The Unstoppable – Genre: Latin Pop. Adjectives: inspirational, uplifting, defiant. Tempo: Fast. Key: A Major. Production: Latin-infused, electro-pop.
+"""
+
+
+"""
+Emma is a singer and dancer who blends Latin and pop music to create a unique sound. Her music is vibrant and passionate, filled with catchy melodies and passionate lyrics. She is unafraid to experiment with her sound, pushing the boundaries of Latin and pop music and creating a truly unique style. This is her black and white cartoonish Twitter profile image.
+"""
+
+"""
+Emma is a singer and dancer who blends Latin and pop music to create a unique sound. Her music is vibrant and passionate, filled with catchy melodies and passionate lyrics. This is her beautiful, a synthwave style, digital art, "Move with the Music" music album's cover image, which pleases both men and women.
 """

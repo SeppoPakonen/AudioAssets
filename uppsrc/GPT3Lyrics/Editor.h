@@ -9,17 +9,39 @@ struct Artist : Moveable<Artist> {
 	String name;
 	String description;
 	String message;
-	String brand_adjectives;
-	String artist_adjectives;
-	String music_adjectives;
-	String genre_adjectives;
-	String production_adjectives;
-	String music_video_adjectives;
 	String global_example;
 	double global_listeners = 0;
 	String local_example;
 	double local_listeners = 0;
 
+	String pos_brand_adjectives;
+	String pos_artist_adjectives;
+	String pos_music_adjectives;
+	String pos_genre_adjectives;
+	String pos_production_adjectives;
+	String pos_music_video_adjectives;
+	
+	String neg_brand_adjectives;
+	String neg_artist_adjectives;
+	String neg_music_adjectives;
+	String neg_genre_adjectives;
+	String neg_production_adjectives;
+	String neg_music_video_adjectives;
+	
+	String pop_brand_adjectives;
+	String pop_artist_adjectives;
+	String pop_music_adjectives;
+	String pop_genre_adjectives;
+	String pop_production_adjectives;
+	String pop_music_video_adjectives;
+	
+	String rare_brand_adjectives;
+	String rare_artist_adjectives;
+	String rare_music_adjectives;
+	String rare_genre_adjectives;
+	String rare_production_adjectives;
+	String rare_music_video_adjectives;
+	
 	void Xmlize(XmlIO& xml);
 };
 
