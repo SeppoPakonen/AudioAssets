@@ -1,0 +1,31 @@
+
+verse 1
+me {
+	apologizing you( about my ignorance )
+	feeling {
+		clarity( about our problems ( not having enough time together ) )
+		lack of importance( by anyone )
+		longing towards our trekking ( nighttrips ( to see stars ) )
+		of holding you tight ( when you were crying )
+	}
+	promised that {
+		I will always ( be next to you )
+	}
+}
+passive {
+	time {
+		goes faster ( than thinking )
+	}
+}
+us {
+	kissing {
+		is tied to a moment {
+			in which {
+				we feel eternity ( without time )
+			}
+		}
+	}
+}
+passive {
+	
+}

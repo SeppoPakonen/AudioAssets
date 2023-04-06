@@ -1,0 +1,61 @@
+
+me {
+	reminding you( about elections )
+	feeling {
+		anger ( about world's problems )
+		importance ( by everyone )
+		longing towards peace and boringness
+		of voting right
+	}
+	promised that {
+		I won't belong to a party
+	}
+}
+passive {
+	time {
+		goes slow ( with a bad government )
+	}
+}
+
+Äänestin just, muistitko sää?
+Mun raivon nostaa asiat nää.
+Mut ääni on tärkee ja kaikkii varten,
+kaipaan rauhaa ja tylsyyttä arkeen.
+Muistan, kun äänestin kerran oikein.
+Silti puolueeseen liittyä voi en.
+Aika menee hitaasti, kun on surkee hallitus.
+Aika on nyt, käyttää keinot sallitut.
+
+
+me {
+	loving you ( forever and more )
+	feeling {
+		warm and fuzzy ( when I am thinking about you )
+		important ( when you call my name )
+		longing towards our nights ( kosketusta ja huulia )
+		of holding you tight ( when you were falling asleep )
+	}
+	promised that {
+		I will always ( love you )
+	}
+}
+passive {
+	time {
+		stays still ( when I'm with you )
+	}
+}
+us {
+	kissing {
+		is eternity in a moment
+		}
+	}
+}
+
+Mä rakastan sua ikuisesti ja kauemmin.
+Mietin sitä kun nään sut, kuinka sua lemmin.
+Ikävöin meidän öitä salassa aitan yläsillä,
+aamukastetta, kuinka haluis nousta en millään.
+Mä lupaan sua rakastaa niin ainiaan.
+viel kun aika on kypsä viljan korjaamaan.
+Maailma sammuu meidän suudelman hetkellä.
+Sun luonasi tahdon olla, ja nukahtaa sun vierellä.
