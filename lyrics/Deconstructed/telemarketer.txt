@@ -1,0 +1,149 @@
+Chorus
+me (magazine seller) {
+	being ( honest seller )
+	speaking ( selling magazine ) {
+		to ( you ) {
+			during ( this call ) {
+				best friends ( we'll be )
+			}
+		}
+	}
+	saying ( thank you and hello )
+	wishing ( best regards )
+	calling ( yourself ) {
+		favorite seller
+	}
+}
+
+
+
+Verse 1
+me {
+	identifying ( newspaper seller ) {
+		honest ( seller )
+	}
+	offering ( magazine ) {
+		listening ( to me ) {
+			phone
+		}
+		asking ( not much ) {
+			through ( honest mouth )
+		}
+	}
+	benefits ( work ) {
+		easy ( work )
+		pay ( good )
+		creator ( work, thanked )
+		stylish ( scarf )
+	}
+	warning ( job ) {
+		not ( easy )
+		wallet ( open ) {
+			hundreds ( pages )
+		}
+		not ( hit groin )
+	}
+	recommend ( buy magazines ) {
+		in contrast {
+			throw away ( CDs )
+			forget ( PC )
+			turn off ( TV )
+		}
+	}
+}
+
+
+
+Chorus
+
+
+
+Verse 2
+me {
+	offering {
+		leisurely read {
+			if ( have money ) {
+				don't hesitate {
+					for ( a second )
+				}
+			}
+			products include {
+				Seiska
+				Aku Ankka
+				Alibi ( for tough cases )
+			}
+			payment {
+				divided ( into three installments )
+				in contrast ( to wife Eeva ) {
+					only paying ( couple tens )
+				}
+				so ( doesn't start to get boring )
+			}
+		}
+	}
+	difficult ( being customer ) {
+		but ( once ) {
+			made ( a lot of deals ) {
+				always ( got bonuses )
+			}
+		}
+	}
+	job {
+		giving ( money )
+		making ( new friends )
+		knowing ( grandmother and neighbor )
+		sharing ( love and magazines )
+	}
+	in contrast {
+		lacking ( mouth ) {
+			in ( this work )
+		}
+	}
+	answer ( tut tut tut )
+	future ( in this job )
+	offering ( civility ) {
+		thank you
+		bye
+	}
+}
+
+
+
+Chorus
+
+
+
+Sketch
+Customer {
+	asking ( worth the price )
+}
+Telemarketer {
+	answering ( not dog buried in store )
+	asking ( what about deal )
+	answering ( projector clock ) {
+		comes with ( radio )
+		also ( does dishes ) 
+		also ( walks dog )
+	}
+	answering ( price only twenty years worth magazines )
+	asking ( take standing order )
+}
+Customer {
+	answering ( take standing order )
+	praising ( Telemarketer ) {
+		good ( talking )
+		wishing ( luck )
+		thanking
+	}
+}
+Telemarketer {
+	answering ( thanks ) {
+		blessing ( family ) {
+			abroad ( bankruptcy ) {
+				for example ( to Spain )
+			}
+		}
+		thanking
+		good evening
+	}
+}

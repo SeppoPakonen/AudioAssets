@@ -1,31 +1,135 @@
-
-verse 1
+Chorus
 me {
-	apologizing you( about my ignorance )
-	feeling {
-		clarity( about our problems ( not having enough time together ) )
-		lack of importance( by anyone )
-		longing towards our trekking ( nighttrips ( to see stars ) )
-		of holding you tight ( when you were crying )
+	not wanting {
+		to fight
+		to break up
 	}
-	promised that {
-		I will always ( be next to you )
+	never ( imagined ) {
+		this ( end )
 	}
-}
-passive {
-	time {
-		goes faster ( than thinking )
+	not meaning {
+		to break ( you )
+		to make ( us ) {
+			like ( this )
+		}
 	}
 }
 us {
-	kissing {
-		is tied to a moment {
-			in which {
-				we feel eternity ( without time )
+	loving {
+		one ( of us ) {
+			hurting ( other ) {
+				again
 			}
 		}
 	}
 }
-passive {
-	
+
+
+
+Verse 1
+me {
+	apologizing ( miss ) {
+		not calling in ( while )
+		felt ( two of us ) {
+			too little ( time )
+		}
+	}
+	missing {
+		feeling ( like I mattered )
+		night trips {
+			searching ( sky ) {
+				for ( North Star )
+			}
+		}
+		you ( cried ) {
+			curl ( up ) {
+				in ( my arms )
+			}
+		}
+	}
+	promised ( always by your side )
+	time ( goes faster ) {
+		than ( thinking )
+	}
+	trips ( tied to moment )
+	kisses ( tied to moment )
+	feelings ( gone )
+	time ( behind )
 }
+passive {
+	two ( lovers )
+	sounds ( quieter )
+	environment ( dims )
+	sky ( darkens )
+	until ( last touch )
+}
+us {
+	neither ( tried hard enough )
+}
+me {
+	thank you {
+		taking ( time ) {
+			ask
+			forgive
+		}
+	}
+	maybe ( meet again )
+	good luck ( baby )
+	wishing ( you ) {
+		safe ( journey ) {
+			wherever ( you go )
+		}
+	}
+}
+
+
+Verse 2
+me (man) {
+	metaphor {
+		symbol of love without target ( heart without a name )
+		symbol of love sensing something good ( dark spot in the heart brightening up )
+	}
+	story {
+		moved to a new place {
+			met a new woman ( possible new wife )
+		}
+		tried to suppress feelings ( to the woman )
+		our eyes met ( I fell in love )
+		can't suppress feelings ( as rhethorical question )
+		can't fulfill the meaning for this neither
+	}
+	have been afraid ( the feeling of crush ) {
+		because it leads to disappointment
+	}
+	telling immediately to her ( not waiting ) {
+		waiting leads to be closer to death ( waiting until tomorrow )
+	}
+	does not want to feel the fluctuation of emotions ( alone )
+	I don't take any initiative at all {
+		if we feel love {
+			we drift together automatically
+		}
+	}
+}
+
+
+
+Bridge
+you {
+	were sorry ( you said )
+	wanted to forget ( the fights )
+}
+me {
+	remember the fights {
+		without showing it
+	}
+}
+you {
+	did not show {
+		that you cared
+	}
+	show {
+		that you are nice ( unhelpful )
+	}
+}
+
