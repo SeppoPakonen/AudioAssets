@@ -1,3 +1,5 @@
+Original:
+
 Chorus
 me {
 	not wanting {
@@ -8,15 +10,15 @@ me {
 		this ( end )
 	}
 	not meaning {
-		to break ( you )
-		to make ( us ) {
+		to break ( my romantic partner )
+		to make ( me and my romantic partner ) {
 			like ( this )
 		}
 	}
 }
-us {
+me and my romantic partner {
 	loving {
-		one ( of us ) {
+		one ( of me and my romantic partner ) {
 			hurting ( other ) {
 				again
 			}
@@ -30,7 +32,7 @@ Verse 1
 me {
 	apologizing ( miss ) {
 		not calling in ( while )
-		felt ( two of us ) {
+		felt ( two of me and my romantic partner ) {
 			too little ( time )
 		}
 	}
@@ -41,13 +43,13 @@ me {
 				for ( North Star )
 			}
 		}
-		you ( cried ) {
+		my romantic partner ( cried ) {
 			curl ( up ) {
 				in ( my arms )
 			}
 		}
 	}
-	promised ( always by your side )
+	promised ( always by my romantic partnerr side )
 	time ( goes faster ) {
 		than ( thinking )
 	}
@@ -63,11 +65,11 @@ passive {
 	sky ( darkens )
 	until ( last touch )
 }
-us {
+me and my romantic partner {
 	neither ( tried hard enough )
 }
 me {
-	thank you {
+	thank my romantic partner {
 		taking ( time ) {
 			ask
 			forgive
@@ -75,48 +77,78 @@ me {
 	}
 	maybe ( meet again )
 	good luck ( baby )
-	wishing ( you ) {
+	wishing ( my romantic partner ) {
 		safe ( journey ) {
-			wherever ( you go )
+			wherever ( my romantic partner go )
 		}
 	}
 }
 
 
 Verse 2
-me (man) {
-	metaphor {
-		symbol of love without target ( heart without a name )
-		symbol of love sensing something good ( dark spot in the heart brightening up )
-	}
-	story {
-		moved to a new place {
-			met a new woman ( possible new wife )
+me {
+	question ( in heart ) {
+		without ( name )
+		already ( dark spot ) {
+			even ( dimmer )
 		}
-		tried to suppress feelings ( to the woman )
-		our eyes met ( I fell in love )
-		can't suppress feelings ( as rhethorical question )
-		can't fulfill the meaning for this neither
 	}
-	have been afraid ( the feeling of crush ) {
-		because it leads to disappointment
+	changing ( place of residence )
+	looking ( into eyes ) {
+		owned ( future wife )
 	}
-	telling immediately to her ( not waiting ) {
-		waiting leads to be closer to death ( waiting until tomorrow )
+	trying {
+		make ( feelings stop )
 	}
-	does not want to feel the fluctuation of emotions ( alone )
-	I don't take any initiative at all {
-		if we feel love {
-			we drift together automatically
+	eyes ( my romantic partnerrs and mine ) {
+		think ( fell in love )
+	}
+	searching {
+		for ( answer ) {
+			in ( my mind ) {
+				in contrast {
+					nothing
+				}
+			}
 		}
+	}
+	afraid ( feeling ) {
+		of ( falling in love ) {
+			in contrast {
+				not ( crush itself )
+			}
+			but ( fact ) {
+				will be ( disappointed ) {
+					again
+				}
+			}
+		}
+	}
+	telling ( my romantic partner ) {
+		in contrast {
+			not ( tomorrow )
+		}
+		because ( every day ) {
+			closer ( death )
+		}
+	}
+	contrast {
+		let ( emotions run wild ) {
+			alone ( without love )
+		}
+	}
+	not ( telling name )
+	not ( whispering ear )
+	if ( feeling same ) {
+		notice ( when together )
 	}
 }
 
 
 
 Bridge
-you {
-	were sorry ( you said )
+my romantic partner {
+	were sorry ( my romantic partner said )
 	wanted to forget ( the fights )
 }
 me {
@@ -124,12 +156,190 @@ me {
 		without showing it
 	}
 }
-you {
+my romantic partner {
 	did not show {
-		that you cared
+		that my romantic partner cared
 	}
 	show {
-		that you are nice ( unhelpful )
+		that my romantic partner are nice ( unhelpful )
 	}
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Psychological:
+Chorus
+me {
+	not wanting {
+		to fight against my inner demons
+		to break up my emotional connection with myself
+	}
+	never ( imagined ) {
+		this ( end ) of the relationship with myself
+	}
+	not meaning {
+		to break ( my self-esteem )
+		to make ( me and my inner self ) {
+			like ( this ) in terms of emotional state
+		}
+	}
+}
+me and my inner self {
+	loving {
+		one ( of me and my inner self ) {
+			hurting ( other ) {
+				again
+			}
+		}
+	}
+}
+
+
+
+Verse 1
+me {
+	apologizing ( to my inner self ) {
+		not calling in ( while ) life gives me no time
+		felt ( two of me and my inner self ) {
+			too little ( time ) to be together
+		}
+	}
+	missing {
+		feeling ( like I mattered ) in the broader context of life
+		night trips {
+			searching ( sky ) {
+				for ( hope )
+			}
+		}
+		my inner self ( cried ) {
+			curl ( up ) {
+				in ( my arms ) for comfort
+			}
+		}
+	}
+	promised ( always by my inner self-side ) but life kept me busy
+	time ( goes faster ) {
+		than ( thinking ) about my inner self and my problems
+	}
+	trips ( tied to moment ) in life that keep me away from my inner self
+	kisses ( tied to moment ) that I give to others instead of myself
+	feelings ( gone ) as life pulls me away
+	time ( behind ) me as life keeps going
+}
+passive {
+	two ( lovers ) of life and my inner self
+	sounds ( quieter ) as I drift further away
+	environment ( dims ) as I feel more distant
+	sky ( darkens ) as the night takes over
+	until ( last touch ) of my inner self
+}
+me and my inner self {
+	neither ( tried hard enough ) to keep the bond alive
+}
+me {
+	thank my inner self {
+		taking ( time ) {
+			ask for forgiveness
+			forgive myself
+		}
+	}
+	maybe ( meet again ) if I make the effort
+	good luck ( baby ) as I go through life
+	wishing ( my inner self ) {
+		safe ( journey ) {
+			wherever ( I go )
+		}
+	}
+}
+
+
+Verse 2
+me {
+	question ( in heart ) {
+		without ( name ) as I forget who I am
+		already ( dark spot ) {
+			even ( dimmer ) as I become more lost
+		}
+	}
+	changing ( place of residence ) as I try to forget
+	looking ( into eyes ) {
+		owned ( future wife ) as I try to distract myself
+	}
+	trying {
+		make ( feelings stop ) by running away
+	}
+	eyes ( my inner selfs and mine ) {
+		think ( fell in love ) but I'm scared of the pain
+	}
+	searching {
+		for ( answer ) {
+			in ( my mind ) {
+				in contrast {
+					nothing
+				}
+			}
+		}
+	}
+	afraid ( feeling ) {
+		of ( falling in love ) {
+			in contrast {
+				not ( crush itself ) as I'm scared of the pain
+			}
+			but ( fact ) {
+				will be ( disappointed ) {
+					again as I try to move on
+				}
+			}
+		}
+	}
+	telling ( my inner self ) {
+		in contrast {
+			not ( tomorrow ) as I'm scared of being disappointed
+		}
+		because ( every day ) {
+			closer ( death ) as life keeps going
+		}
+	}
+	contrast {
+		let ( emotions run wild ) {
+			alone ( without love ) as I feel disconnected
+		}
+	}
+	not ( telling name ) of my inner self
+	not ( whispering ear ) of my inner self
+	if ( feeling same ) {
+		notice ( when together ) as I reconnect
+	}
+}
+
+
+
+Bridge
+my inner self {
+	were sorry ( my inner self said ) for not being there
+	wanted to forget ( the fights ) against myself
+}
+me {
+	remember the fights {
+		without showing it as I try to forget
+	}
+}
+my inner self {
+	did not show {
+		that my inner self cared
+	}
+	show {
+		that my inner self are nice ( unhelpful ) as I ignore my inner needs
+	}
+}
