@@ -1,0 +1,144 @@
+Verse 1
+me {
+	stopped {
+		looked ( around )
+	}
+	wondering ( happened ) {
+		old friends ( Arttu, Milja, Ilkka, Arska, Kalle, Make )
+	}
+	scenarios {
+		Arttu {
+			lying ( bench ) {
+				with ( bottle )
+			}
+		}
+		Milja {
+			taking ( pill ) {
+				while ( sweating )
+			}
+		}
+		Ilkka {
+			taking ( splash of liquor ) {
+				everyday life ( in the middle )
+				silencing ( own reason ) {
+					moment ( whim )
+				}
+			}
+		}
+		Arska {
+			pharmacy ( clear selection ) {
+				cider
+				beer
+				windshield washer fluid
+			}
+		}
+		Kalle {
+			police ( don't care ) {
+				box ( shoved under coat )
+				camera ( corner of shop ) {
+					slept ( nights in cell )
+				}
+			}
+		} 
+		Make {
+			good job {
+				but in contrast {
+					pay-hungry ( gaming machines ) {
+						eating ( up )
+					}
+				}
+			}
+		}
+	}
+	addressing ( Finnish government ) {
+		not ( doing well ) {
+			under ( North Star )
+		}
+	}
+}
+
+
+
+Chorus
+Kaijonharju {
+	describing ( poverty ) {
+		tells ( lot )
+	}
+}
+Border village {
+	buildings ( concrete houses ) {
+		filled ( fear )
+	}
+}
+Kaukovainio {
+	describing ( cradle of alcoholism )
+}
+Toppila {
+	describing ( crime ) {
+		only option ( available )
+	}
+}
+
+
+
+Verse 2
+me {
+	talking 
+	not for {
+		self {
+			but for ( those unable to )
+		}
+	}
+	many {
+		staying up {
+			after ( work )
+		}
+		church ( replaced ) {
+			by ( liquor store )
+		}
+		drinking {
+			stronger ( than water ) {
+				when ( mourning )
+			}
+		}
+		dying {
+			nearby ( hospital ) {
+				with ( broken liver )
+			}
+		}
+		love ( not coming ) {
+			between ( bills )
+		}
+		tears ( rolling ) {
+			past ( empty pockets )
+		}
+		father ( beating ) {
+			mother {
+				spanking ( child )
+			}
+		}
+		child ( hitting ) {
+			schoolmates {
+				on ( empty stomach )
+			}
+		}
+	}
+	asking ( who takes initiative )
+	real sanction {
+		against ( marginalization )
+	}
+	documentaries ( not enough ) {
+		booklets {
+			not enough ( light entertainment )
+		}
+	}
+	listening ( Finnish government )
+	not doing well {
+		under ( North Star )
+	}
+}
+
+
+
+
+Chorus x2

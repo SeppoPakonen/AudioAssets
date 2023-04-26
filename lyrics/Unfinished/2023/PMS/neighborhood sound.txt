@@ -1,0 +1,168 @@
+
+Me {
+	stopped {
+		looked ( inward )
+	}
+	wondering ( what had happened ) {
+		old friends ( Aleksi, Maija, Iiro, Antti, Keijo, Matti )
+	}
+	scenarios {
+		Aleksi {
+			talking ( to his romantic partner ) {
+				with ( a cup of tea )
+			}
+		}
+		Maija {
+			reading ( a book ) {
+				while ( feeling content )
+			}
+		}
+		Iiro {
+			enjoying ( a glass of wine ) {
+				everyday life ( feeling appreciated )
+				listening ( to his inner voice ) {
+					moment ( of joy )
+				}
+			}
+		}
+		Antti {
+			farmer’s market ( wide selection ) {
+				fruit
+				vegetables
+				herbal tea
+			}
+		}
+		Keijo {
+			doctor ( friendly ) {
+				box ( of vitamins )
+				camera ( capturing beautiful views ) {
+					slept ( with his partner )
+				}
+			}
+		} 
+		Matti {
+			good job {
+				but in contrast {
+					investment-oriented ( trading platforms ) {
+						earning ( more money )
+					}
+				}
+			}
+		}
+	}
+	addressing ( the Finnish government ) {
+		providing ( solutions ) {
+			under ( the Northern Lights )
+		}
+	}
+}
+
+
+
+Chorus
+Kaijonharju {
+	describing ( the beauty of nature ) {
+		tells ( a lot )
+	}
+}
+Border village {
+	buildings ( made of wood ) {
+		filled ( with love )
+	}
+}
+Kaukovainio {
+	describing ( the origin of friendship )
+}
+Toppila {
+	describing ( the prevalence of togetherness ) {
+		only option ( left )
+	}
+}
+
+
+
+Verse 2
+me {
+	talking 
+	not for {
+		self {
+			but for ( those who cannot )
+		}
+	}
+	many {
+		staying up {
+			after ( long hours of work )
+		}
+		church ( still there ) {
+			by ( a park )
+		}
+		drinking {
+			sweeter ( than water ) {
+				when ( celebrating )
+			}
+		}
+		dying {
+			nearby ( the hospital ) {
+				with ( a fulfilled life )
+			}
+		}
+		love ( present ) {
+			between ( monthly bills )
+		}
+		tears ( streaming ) {
+			past ( a full wallet )
+		}
+		father ( affectionate ) {
+			mother {
+				hugging ( the children )
+			}
+		}
+		child ( smiling ) {
+			schoolmates {
+				on ( a full stomach )
+			}
+		}
+	}
+	asking ( who will take action )
+	real action {
+		against ( social injustice )
+	}
+	documentaries ( enough ) {
+		booklets {
+			enough ( inspiring stories )
+		}
+	}
+	listening ( to the Finnish government )
+	doing well {
+		under ( the Northern Lights )
+	}
+}
+
+
+
+
+Verse 1
+I stopped and looked inward, wondering what had happened to my old friends:
+Aleksi talking to his romantic partner with a cup of tea,
+Maija reading a book while feeling content,
+Iiro enjoying a glass of wine everyday life feeling appreciated
+and listening to his inner voice for a moment of joy,
+Antti at the farmer’s market with a wide selection of fruit,
+vegetables, and herbal tea,
+Keijo at the doctor’s, friendly, with a box of vitamins
+and a camera capturing beautiful views,
+and Matti with a good job but in contrast investing in trading platforms to earn more money.
+I then addressed the Finnish government, providing solutions under the Northern Lights. 
+
+Chorus
+Kaijonharju describing the beauty of nature telling a lot,
+Border village buildings made of wood filled with love,
+Kaukovainio describing the origin of friendship,
+and Toppila describing the prevalence of togetherness with only one option left. 
+
+Verse 2 
+I talked, not for myself but for those who can’t,
+of many staying up after long hours of work,
+the church still there by a park, drinking something sweeter than water when celebrating,
+dying nearby the hospital with a fulfilled life, love present between monthly bills, tears streaming past a full wallet, a father being affectionate and a mother hugging the children, and a child smiling with schoolmates on a full stomach. I asked who will take action, real action, against social injustice and documentaries and booklets with enough inspiring stories. I listened to the Finnish government doing well under the Northern Lights.
+
