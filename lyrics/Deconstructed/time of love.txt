@@ -11,12 +11,13 @@ me {
 	ran ( with you ) {
 		without ( destination )
 	}
-	requesting ( fuck me ) {
-		slut ( you )
-	}
-	asking ( with flowers ) {
-		in contrast {
-			not giving ( packages )
+	in contrast {
+		would be requesting ( fuck me ) {
+			slut ( you )
+		}
+		asking ( with flowers ) {
+				but was not the one ( breaking up )
+			}
 		}
 	}
 	lost ( trust ) {
@@ -25,7 +26,7 @@ me {
 	world ( made gray ) {
 		by ( you )
 	}
-	backbiting ( me ) {
+	talking bad ( about me ) {
 		behind ( my back ) {
 			and ( to my face )
 		}
@@ -43,9 +44,9 @@ me {
 				at ( same time )
 			}
 		}
-		interrupt ( thoughts ) {
+		would like to interrupt ( thoughts ) {
 			at ( same time ) {
-				mouth ( you )
+				break bones ( your )
 			}
 		}
 		kissing ( you ) {
@@ -87,6 +88,15 @@ me {
 }
 us {
 	relationship ( was time of love )
+}
+
+me {
+	saying ( hey girl )
+}
+me {
+	don't miss ( you ) {
+		even in ( my dreams )
+	}
 }
 
 
@@ -181,8 +191,10 @@ me {
 			you ( changed )
 		}
 	}
-	fucked ( only inside the side ) {
-		fucked ( you, all over the country )
+	fucked ( only locally ) {
+		in contrast {
+			fucked ( you, all over the country )
+		}
 	}
 	something ( wrong ) {
 		with ( me ) {
