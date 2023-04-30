@@ -1,0 +1,74 @@
+Verse 1
+passive {
+	world {
+		moves fast
+		people goes by
+	}
+}
+you {
+	rain falls as you look
+	go inside ( coffee shop )
+	coffee makes you warm
+}
+us {
+	saw each other ( in the cafe )
+	both had dissatisfied face
+}
+me {
+	thought you seemed familiar
+	had to check my old contacts
+}
+
+Chorus
+us {
+	go pass by fast
+}
+you {
+	are looking good
+	are like my old crush
+}
+me {
+	I search my memories ( about you )
+}
+
+Verse 2
+me {
+	found matching old friend
+}
+passive {
+	time has gone by ( a lot ) {
+		it revealed ( that everything changed )
+	}
+}
+you {
+	got a message ( from me ) {
+		after years
+		someone looked like you
+	}
+}
+us {
+	had to be at the same cafe
+	noticed {
+		haven't talked since school years
+	}
+	feel ankward ( about searching different person in dating world )
+}
+
+Bridge
+passive {
+	rain won't stop ( while we wait ) {
+		until we find the love we are searching for ( which is not us )
+	}
+}
+us {
+	would look good together ( but won't match )
+}
+you {
+	are so beautiful ( I won't get a match in tinder ever )
+}
+passive {
+	common past ( aren't enough )
+	love ( won't happen )
+	talking ( won't last long )
+}
+
