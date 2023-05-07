@@ -1,0 +1,441 @@
+Kurota tähtiin
+San. Seppo Pakonen
+
+Säe 1:
+Kertoi sun telkkari kuinka tääl on ongelmii,
+mutta ei kuinka niissä pärjäisi.
+On muille vaikea uskoo aamuun parempaan.
+Tsemppaat vaik ei sitä muut kuuliskaan.
+Mietin mä, meil on järkeä.
+Voidaanhan me selviytyä.
+Vaikka pelko vallan sais.
+Pelko katoo sulta, kyllä kaikki järjestyy.
+
+Kertosäe:
+Ole vahva.
+Vain tähdet ohjaa läpi kaiken.
+Sun tarvii säilyy varmana
+ja toivoa jatkoa.
+Kurota tähtiin, juuri nyt.
+
+Säe 2:
+Ne telkkaris kysyy kuinka tääl voi selviytyy,
+vaikka on tässä kaikki yhdessä.
+Meil on viel toivoa, vaikka muuta puhutaan.
+Täällä luovuteta ei kuitenkaan.
+Aina sä kannustat tätä
+mistä on arki tehtyä,
+kun ei aina jaksaiskaan.
+Varmuus pysyy sulla, kyllä kaikki onnistuu.
+
+
+
+
+
+Verse 1:
+passive {
+	people ( are struggling ) {
+		just ( to keep going ) {
+			on their own
+		}
+	}
+}
+she (questioning) {
+	how ( can they do it )
+}
+passive {
+	it's ( so hard ) {
+		for them ( to keep ) {
+			their faith
+		}
+	}
+}
+you (encouraging) {
+	don't ( give up ) {
+		just keep going
+	}
+}
+
+Pre-chorus 1:
+me (reflective) {
+	we're ( all in this ) {
+		together
+	}
+}
+we ( strong ) {
+	we ( can do this ) {
+		we can make it
+	}
+}
+passive {
+	there's ( so much fear ) {
+		around us
+	}
+}
+you ( encouraging ) {
+	don't ( lose hope ) {
+		it will be alright
+	}
+}
+
+Chorus:
+imperative {
+	be  ( strong) {
+		now
+	}
+}
+passive {
+	the ( stars will guide ) {
+		us through
+	}
+}
+you ( determined ) {
+	must stay ( strong ) {
+		and never give up
+	}
+}
+you ( hopeful ) {
+	we'll ( reach success ) {
+		in the end
+	}
+}
+we ( together ) {
+	we'll ( make it out ) {
+		alive
+	}
+}
+imperative {
+	reach ( for the stars ) {
+		right now
+	}
+}
+
+Verse 2:
+they ( questioning ) {
+	how ( can we survive )
+}
+passive {
+	we're ( all in this ) {
+		together
+	}
+}
+we ( hopeful ) {
+	must ( keep going ) {
+		despite the odds
+	}
+}
+me ( determined ) {
+	we'll ( make it through ) {
+		no matter what
+	}
+}
+
+Pre-chorus 2:
+you (encouraging) {
+	don't ( give up ) {
+		just keep going
+	}
+}
+question {
+	can ( we make it )
+}
+passive {
+	it's ( so hard ) {
+		for us ( to keep going ) {
+			despite the odds
+		}
+	}
+}
+you ( determined ) {
+	we'll ( fight till the end ) {
+		against all odds
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verse 1:
+passive {
+Weather's ( so dark ) {
+	no ( sign of light ) {
+		in sight
+	}
+}
+me {
+	I'm ( scared and lonely )
+}
+she {
+	knows ( that I'm hurting ) {
+		won't ( give up on me ) {
+			even if I can't see
+		}
+	}
+}
+they {
+	try ( to break me down )
+}
+we {
+	can ( stand and fight )
+}
+
+Pre-chorus 1:
+you {
+	take ( my hand and guide me ) {
+		through ( this troubled time )
+	}
+}
+imperative {
+	believe ( in me ) {
+		now
+	}
+}
+you all {
+	shout ( out loud and proud )
+}
+
+Chorus:
+me {
+	I'll ( take a chance )
+}
+you {
+	we'll ( make a stand )
+}
+she {
+	we'll ( reach for the stars )
+}
+
+Verse 2:
+passive {
+	storms ( may come and go ) {
+		but ( we will remain )
+	}
+}
+me {
+	I'm ( not scared anymore )
+}
+she {
+	knows ( our dreams will last ) {
+		won't ( give up on us ) {
+			even when we have to part
+		}
+	}
+}
+they {
+	try ( to break us down )
+}
+we {
+	can ( still stand strong )
+}
+
+Pre-chorus 2:
+you {
+	take ( my hand and guide me ) {
+		through ( this difficult time )
+	}
+}
+imperative {
+	believe ( in me ) {
+		now
+	}
+}
+you all {
+	shout ( out loud and proud )
+}
+
+Chorus:
+me {
+	I'll ( take a chance )
+}
+you {
+	we'll ( make a stand )
+}
+she {
+	we'll ( reach for the stars )
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verse 1 structure:
+passive {
+	people ( are struggling ) {
+		just ( to keep going ) {
+			on their own
+		}
+	}
+}
+me (questioning) {
+	how ( can they do it )
+}
+you (encouraging) {
+	telling ( them to be brave ) {
+		and ( never give up ) {
+			no matter what
+		}
+	}
+}
+we (reflecting) {
+	thinking ( of our own struggles )
+}
+you all (asserting) {
+	we ( can make it ) {
+		against ( all odds )
+	}
+}
+
+Pre-Chorus 1 structure:
+passive {
+	facing ( the unknown ) {
+		not ( knowing what's ahead )
+	}
+}
+me (wondering) {
+	where ( we can find hope )
+}
+you (doubting) {
+	will ( we ever get through )
+}
+we (resolving) {
+	we ( will find a way ) {
+		to ( make it through )
+	}
+}
+
+Chorus
+you all (asserting) {
+	we ( can reach for the stars ) {
+		against ( all odds )
+	}
+}
+me (showing courage) {
+	we ( can be strong ) {
+		no ( matter what comes )
+	}
+}
+you (encouraging) {
+	believing ( in ourselves ) {
+		we ( can make it ) {
+			against ( all odds )
+		}
+	}
+}
+we (hopeful) {
+	we ( can persevere ) {
+		no ( matter what life brings )
+	}
+}
+
+Verse 2 structure:
+passive {
+	people ( are facing despair ) {
+		just ( to keep going ) {
+			on their own
+		}
+	}
+}
+you (questioning) {
+	how ( can they do it )
+}
+me (encouraging) {
+	telling ( them to be  strong) {
+		and ( never give in ) {
+			to the pressure
+		}
+	}
+}
+we (reflecting) {
+	thinking ( of our own struggles)
+}
+you all (asserting) {
+	we ( can make it ) {
+		against ( all odds )
+	}
+}
+
+Pre-Chorus 2 structure:
+passive {
+	standing ( tall in adversity ) {
+		not ( knowing what's to come )
+	}
+}
+me (asking) {
+	where ( can we find courage )
+}
+you (doubting) {
+	will ( we ever get through )
+}
+we (resolving) {
+	we ( will find a way ) {
+		to ( make it through )
+	}
+}

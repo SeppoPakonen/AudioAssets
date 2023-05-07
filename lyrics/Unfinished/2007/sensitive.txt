@@ -1,0 +1,253 @@
+Verse 1 structure:
+me {
+	feeling ( excited )
+}
+you {
+	looking ( forward ) {
+		anticipating
+	}
+}
+question {
+	what ( will it be ) {
+		like
+	}
+}
+answer {
+	gentle ( glides ) {
+		of pleasure 
+	}
+}
+passive {
+	mind ( racing ) {
+		with desire 
+	}
+}
+you {
+	start ( to move ) 
+}
+me {
+	in response
+}
+we {
+	are in motion 
+}
+
+Chorus structure:
+we {
+	enter ( a new world )
+}
+passive {
+	sensations ( heighten ) {
+		with each touch
+	}
+}
+we {
+	become ( one )
+}
+you {
+	and me
+}
+
+Verse 2 structure:
+you {
+	caress ( me ) 
+}
+me {
+	respond ( in kind )
+}
+we {
+	explore ( each other ) 
+}
+question {
+	will ( it last ) {
+		forever
+	}
+}
+answer {
+	gentle ( glides ) {
+		of pleasure 
+	}
+}
+passive {
+	body ( trembling ) {
+		with delight 
+	}
+}
+you {
+	nestle ( close ) 
+}
+me {
+	in your arms
+}
+we {
+	are in harmony
+}
+
+Verse 3 structure:
+me {
+	seeking ( more )
+}
+you {
+	driving ( me ) {
+		higher
+	}
+}
+question {
+	will ( I survive ) {
+		this joy
+	}
+}
+answer {
+	gentle ( glides ) {
+		of pleasure 
+	}
+}
+passive {
+	heart ( racing ) {
+		with delight
+	}
+}
+you {
+	tantalize ( me ) 
+}
+me {
+	unable to resist
+}
+we {
+	are in ecstasy 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verse 1 structure:
+me {
+	struggling ( with emotions )
+}
+you {
+	finding ( solace ) {
+		in each other
+	}
+}
+question {
+	how ( to stay strong )
+}
+answer {
+	embracing ( the fragility ) {
+		of love
+	}
+}
+passive {
+	we ( will be )
+}
+you {
+	taking ( the time )
+}
+me {
+	to understand
+}
+we {
+	each other
+}
+
+Chorus structure:
+we {
+	will find ( strength ) 
+}
+passive {
+	in ( our vulnerability ) 
+}
+we {
+	cherish ( each moment )  {
+		of ( gentle glides )
+}
+you {
+	of our love
+}
+
+Verse 2 structure:
+you {
+	taking ( the time )
+}
+me {
+	to understand
+}
+we {
+	each other
+}
+question {
+	how ( to stay strong )
+}
+answer {
+	in ( our vulnerability ) 
+}
+passive {
+	we ( will be )
+}
+you {
+	cherishing ( the moments )
+}
+me {
+	of tenderness
+}
+
+Verse 3 structure:
+me {
+	struggling ( with emotions )
+}
+you {
+	finding ( solace ) {
+		in each other
+	}
+}
+question {
+	how ( to stay strong )
+}
+answer {
+	embracing ( the fragility ) {
+		of love
+	}
+}
+passive {
+	we ( will be )
+}
+you {
+	taking ( the time )
+}
+me {
+	to understand
+}
+we {
+	each other
+}
+
+
