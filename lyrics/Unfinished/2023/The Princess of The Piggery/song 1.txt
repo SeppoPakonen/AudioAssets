@@ -1,0 +1,38 @@
+
+Description of the song 1 for scene 1:
+Genre: Interlude
+Instruments: Piano, harp, strings
+Vocals: None
+Tempo (bpm): 73
+Rhythm: Waltz
+Mood: airy, graceful
+Chords: C, F, G, Ab
+Alternative chords: Dm, Em, Am, Bb
+Melody notes: Highs and lows in mid-register
+Name of the song: The King's Court Waltz
+Structure of the song (e.g. intro, verse, chorus and length in bars):
+
+Intro (2 bars): Piano playing the chord progression
+Verse (8 bars): Strings and harp accompanying; melody is mainly in the mid-register
+Chorus (8 bars): Piano and harp play a more upbeat accompaniment; the melody remains mostly in the mid-register
+Outro (2 bars): Piano cues a variation of the chord progression from the intro
+
+Total length: 20 bars
+
+In Intro,
+the song starts off with a slow but airy piano playing the chords of C major, F major, G major, and Ab major.
+The verse then follows with a more whimsical melody in the mid-register supported with strings and harp,
+before transitioning to the chorus where the accompaniment becomes lighter and more upbeat to create a feeling of joy and grace.
+The outro is a variation of the intro and ends with a hopeful feeling.
+
+In Verse 1,
+the backing instruments settle in to provide a gentle and harmonic soundscape,
+while the melody remains mainly in the mid-register to evoke a feeling of ease and relaxation.
+
+In Chorus 1,
+the backing instruments become brighter and livelier,
+while the melody soars in the mid-register to create a sense of excitement and joy.
+
+In Outro,
+the song closes with a hopeful and gentle feeling,
+as the piano cues a variation of the chord progression from the intro.
