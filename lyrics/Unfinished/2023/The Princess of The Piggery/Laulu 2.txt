@@ -43,19 +43,19 @@ En ois uskonu et sika tekis sankarityön.
 
 VALTTERI
 Röh röh, laa la laa
-Ota sorkasta kiinni nii paetaan.
+Ota sorkasta kiinni nii kuljetaan.
 Anna sian sua ohjata läpi yön
 Anna mun näyttää et voidaan me selvitä myös
 
 DARIA
 Must tuntuu et tää onnistuu vaik masistelin.
-Mä en näe paljo mitää mut en yksin jumittele.
+Mä en näe paljo mitää mut yksin en oo jumis,
 Metsä tää on täynnä omanlaista rakkautta,
 se on tumma mutta oppaan kanssa kauneutta.
 
 VALTTERI
 Just nii tyttö pieni, älä pelkää.
-Mä aikoinaan sienii tääl tapasin kerää.
+Mä aikoinaan sienii tääl tapasin kerätä
 Sikalaan suunta nyt, tää on just oikee tie,
 sä saat sun näkös takas siel.
 
@@ -74,3 +74,16 @@ DARIA & VALTTERI
 Ja yhes sun kaa turvaan voidaan hakeutuu.
 
 Bridge:
+DARIA & VALTTERI
+Älä luovuta, avaa silmäs.
+Luota muhun, me yhes mennään.
+Päästä irti ja katso eteenpäin.
+Tehään tulevaisuutta, se on meidän.
+VALTTERI:
+Tuu mun mukaan, mennää samaan tahtiin.
+Eessä on kohtalos, ota vähä vauhtii.
+DARIA:
+Pelastetaan päivä, eikä menetetä toivoo,
+et voi huomiseen uskoo.
+
+Kertosäe:
