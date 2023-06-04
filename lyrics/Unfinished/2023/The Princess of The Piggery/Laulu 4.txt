@@ -1,4 +1,4 @@
-Nimi: Rakkautta Ilmassa
+ Nimi: Rakkautta Ilmassa
 Näytelmästä Sikalan Prinsessa
 
 Säe 1:
@@ -43,7 +43,7 @@ Arvaan et oltiin sieluja eksyksis,
 se muuttu henkäykses, yhdes sekunnis.
 
 DARIA
-Tiesin tää on uutta aitoo rakkautta.
+Tiesin et  tää on uutta aitoo rakkautta.
 Ei kipuu, epäilystä, ei pimeitä varjoja.
 Mä löysin mun totuuden, joka olit sä,
 ei muu merkitse, tiesin mitä tehdä.
