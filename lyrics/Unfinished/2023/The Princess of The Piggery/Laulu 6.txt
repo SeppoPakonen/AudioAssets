@@ -1,5 +1,6 @@
-Nimi: Sikalan Häät
 Tausta: 86bpm, tyyliin "Can I Kick It?" (https://www.youtube.com/watch?v=r6TdnuEinSA)
+
+Nimi: Sikalan Häät
 
 Säe 1:
 KERTOJA
@@ -28,11 +29,11 @@ mut bileet nyt alkaa.
 
 Kertosäe:
 Oijoi, sikala on paikka meille
-Darian ja Simeonin sikakavereille.
+sun ja mun sikakavereille.
 Oijoi, enemmän ku odottivat.
 Voivoi, sen kestäväks huomasivat.
 Oijoi, sikala on paikka meille
-Darian ja Simeonin sikakavereille.
+sun ja mun sikakavereille.
 Oijoi, se on just niin mukavaa,
 voivoi, lupasit et on ikuista.
 
@@ -57,9 +58,9 @@ elämänsuolaa ne vain antaa.
 
 DARIA
 Tarinat vain tahrautuu ja muistot unohtuu,
-mut muista olin kuningatar, kun sain sut.
+mut muista et olin kuningatar, kun sain sut.
 Yhdes aina, läpi rakkauden mistä kuullu en
-mut nyt nään sen.
+mut nyt näen sen.
 
 Kertosäe:
 Oijoi, sikala on paikka meille

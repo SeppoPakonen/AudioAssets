@@ -32,7 +32,7 @@ Kuinka oon voinut olla näin sinisilmänen.
 ohitin vihjeet varoituksineen
 Se tuli puree mua takaa,
 virheet maksaa
-ja nyt on määräaika.
+ja nyt on maksun aika.
 
 Säe 2:
 TORIKAUPPIAS
@@ -59,7 +59,7 @@ Kuinka oon voinut olla näin sinisilmänen.
 ohitin vihjeet varoituksineen
 Se tuli puree mua takaa,
 virheet maksaa
-ja ny on määräaika.
+ja ny on maksun aika.
 
 Bridge:
 (On niin paljon) muutakin selvitettävää
@@ -77,5 +77,5 @@ Kuinka oon voinut olla näin sinisilmänen.
 ohitin vihjeet varoituksineen
 Se tuli puree mua takaa,
 virheet maksaa
-ja ny on määräaika.
+ja ny on maksun aika.
 
