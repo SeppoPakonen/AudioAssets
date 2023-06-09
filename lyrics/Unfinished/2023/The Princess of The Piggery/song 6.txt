@@ -216,14 +216,11 @@ In this scene, Simeon rushes home after discovering the truth about himself and 
 
 Description of the song 6 for scene 11: A triumphant song that celebrates the wedding in the piggery and Simeon and Daria’s happy future together.
 Name of the song: The Piggery
-Genre: Pop
-Instruments: Drums, Electric Guitar, Synth
-Tempo (bpm): 120
+Genre: 90s hip-hop
+Instruments: Drums, Acoustic Guitar, Bass
+Tempo (bpm): 96
 Mood: Joyful, Uplifting, Lively, Optimistic
 Rhythm: Uptempo, Driving, Energetic
-Chords 1: C, G, Dm, Am
-Chords 2: F, C, Am, Dm
-Structure of the song (e.g. intro, verse, chorus and length in bars):
 
 Intro (16 bars)
 Verse (8 bars)
@@ -234,113 +231,90 @@ Bridge (8 bars)
 Chorus (8 bars)
 Outro (8 bars)
 
-In intro,
-the song starts off soft and light,
-with a guitar playing sparkling chords together with a synth playing a low drone.
-
-In the verse,
-the drums come in with a driving beat,
-accented by the electric guitar playing a rhythmic riff.
-The vocals come in singing the story of Simeon and Daria's happy union.
-
-In the chorus,
-the music grows more joyous and triumphant,
-with the drums and guitar playing a more upbeat rhythm and the synth playing a more driving melody.
-The vocal line is more passionate and powerful,
-singing happily about the beautiful union of Simeon and Daria.
-
-In the bridge,
-the instrumental is quieter and softer,
-with the guitar strumming chords softly and the synth playing a gentle melody.
-The vocals sing a lullaby of love and happiness,
-before leading into the final chorus.
-
-In the outro,
-the guitar and drums come back in with an uptempo beat,
-while the synth plays a fanfare-like melody and the vocals add a triumphant quality to the song.
-The song ends with a big finish that celebrates the beautiful bond between Simeon and Daria.
-
-
 This song is about the upcoming marriage of Daria and Simeon. It's also about their wedding in the piggery. It's very happy and optimistic song in the immediate end of the play.
 
+Rap-lyrics by Tribe Called Quest, performed by DARIA, SIMEON, WALTER, NARRATOR:
 
 
 
-Lyrics by Bloodhound Gang, performed by DARIA, SIMEON, WALTER, NARRATOR:
+
 
 Verse 1:
 NARRATOR
- Come gather round folks,
- We’re here to share a special story 
- About two hearts, that found true love,
- Beyond life’s ordinary glory
-
-WALTER
- We all jumped and cheered so loud,
- As Simeon and Daria committed
- To this bond, that shall be strong,
- In the piggery they wed and pleaded
-
-SIMEON
- My heart holds something special,
- Something I can never explain
- But I'm so glad that you've come here,
- To make me feel such joy again
+We had the fairy tales and bedtime stories
+But never saw it like this,
+For now it's Daria and Simeon as history's biggest twist
 
 DARIA
- I walked in feeling so confused,
- But now I'm glad that I gave in 
- We'll both be here until the end,
- Together eternally we shall win
+They said I would never find a prince
+But now I'm walking in his arms, yeah
+My dreams have all gone up in smoke
+But I don't need a castle
+
+SIMEON
+Daria and me have been through a tough ride
+But we'll prove 'em wrong, no matter how long we try
+Cause now we got a love, we will never hide
+We will never die, our love is so alive
+
+WALTER
+Chasing destiny through The Thread of Love
+And finding it, yeah it was enough
+For all of the drama, it's already been done
+We can the party now, at The Piggery!
 
 Chorus:
- We'll live in the piggery with joy and love,
- Welcomed by the piggies from above
-We'll never forget, tht special vow,
-Living happily together until the cows come home
+Oh oh, The Piggery, the place for us
+Oh oh, Daria and Simeon – a love that's just
+Oh oh, so bigger than what they had expected
+Oh oh, and so much stronger than the Everlasting Pact
 
-Verse 2: 
-WALTER
-Newlyweds take a shot, 
-The best cheers they'll make without a doubt 
-We'll be sipping until the sun is out
-Give me new beer or else I'll pout
+Verse 2:
+DARIA
+We defied all odds and we kept the faith
+No one believed us, but it never mattered
+We said we would be alright
+And now that's what true love is about
 
 SIMEON
-Pigs, cows and goats come running around, 
-Making noise and enjoying the sound 
-Daria laughs and enjoys the view,
-As Walter is drunk with something to chew
+And we ain't never giving up
+And no castle could be enough
+We don't need no fairy tale
+'Cause we got the real thing
+
+WALTER
+Gonna take two strong wills to make it through
+yeah, rewriting the rules with Daria and you
+With or without the family, we'll make it through
+For our wedding at The Piggery!
 
 DARIA
-Our love will never die, 
-It will remain so strong and true 
-A love forever strong, forever alive, 
-Even through life's biggest trial or two
+Stories just tarnish and memories won't last
+But on our wedding day, we were just like kings and queens
+Forever together, through a love that was never seen
+We got the future and we share it all at The Piggery!
 
-NARRATOR
-Their lives are full of love and laughter
-As they rest on the piggery's green grass
-And everyone can see and hear,
-That their love will last
-
-Chorus: 
-We'll live in the piggery with joy and love,
-Welcomed by the piggies from above
-We'll never forget, tht special vow,
-Living happily together until the cows come home
+Chorus:
+Oh oh, The Piggery, the place for us
+Oh oh, Daria and Simeon – a love that's just
+Oh oh, so bigger than what they had expected
+Oh oh, and so much stronger than the Everlasting Pact
 
 Bridge:
-Walter:
-Our weddin' is there for us all to see,
-The perfect union of you and me
-Simeon & Daria:
-No one can take away the joy of our love,
-Validated by the stars above
+SIMEON
+Don't you know it's our destiny?
+WALTER
+No turning back, there's nothing like it
+DARIA & SIMEON
+We’ve travelled this far side,
+For The Piggery, together tonight!
 
-Outro: 
-
-Everyone come join in on
+Outro:
+DARIA & SIMEON
+We said we would conquer the world
+Living in a piggery, seeming hypocritical
+But maybe you can be our kind of monopoly
+Living in The Piggery, forever!
 
 
 
