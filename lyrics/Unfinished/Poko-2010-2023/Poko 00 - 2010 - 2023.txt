@@ -1,0 +1,920 @@
+subject {
+	name: Seppo Pakonen
+	born: 1989
+	place: Oulu, Finland
+	timeline: high school (2005-2009), military (2009-2010), university (2010-2019), unemployed(2019-2023)
+	character: caring, beautiful, intelligent, techie, cheap
+	artist name: Poko
+}
+theme {
+	storyline {
+		2010 - 2023 {
+			With the understanding and support of my good friends, I was able to emerge from a tough time stronger and more resilient. 
+		}
+	}
+}
+published (2006-2010 summer){
+	album #1 (artist-name: the wayward, during: second half of 2005) {
+		explanation {
+			my friends {
+				I had a lot of friends
+			}
+			school {
+				I was in High School
+			}
+			life {
+				I didn't date
+				I had gotten to kiss girls quite recently
+			}
+			music producer career {
+				I used Steinberg Cubase
+				I played electric guitar
+				made music with guitar tabulature software
+			}
+			what was good {
+				We had a good group in the band and we enjoyed doing it.
+			}
+		}
+		production {
+			song: "Feels Like Home"
+		}
+	}
+	album #2 (artist-name: The Vice, during: first half of 2006) {
+		explanation {
+			I needed a band
+			we had a gig
+			life {
+				I dated a girl
+			}
+		}
+		production {
+			3 rock songs {
+				made by me
+				in english
+			}
+		}
+	}
+	album #3 (artist-name: PMS, during: winter 2006-2007) {
+		explanation {
+			I had a friend, who rapped
+			life {
+				I dated a girl
+			
+		}
+		production {
+			rap song "Heartbeat" {
+				I composed and made lyrics partially
+				very well received: 100k listens
+			}
+		}
+	}
+	album #4 (artist-name: Pohjan Tähti, during: summer of 2007) {
+		explanation {
+			I had two friend, who rapped
+			life {
+				I broke up with a girl
+			}
+		}
+		production {
+			song "Time of love" {
+				I co-writed the song
+				very well received: 300k listens
+			}
+			song "Sound of suburb" {
+				very well received: 100k listens
+			}
+		}
+	}
+	album #5 (artist-name: Vaikeat Ajat, during: semester 2007-2008) {
+		explanation {
+			I needed a band
+			I wanted to produce band music
+		}
+		production {
+			song "Epic" {
+				I co-writed the song
+				very beautiful
+			}
+		}
+	}
+	album #6 (artist-name: Vaikeat Ajat, during: spring 2008 - late 2008) {
+		explanation {
+			I wanted to hang around with a band
+			I wanted to produce band music
+			I trained my own voice as a lyricist
+		}
+		production {
+			song "Praises or thanks?" {
+				my first finnish song
+				it took a lot of strength
+			}
+		}
+	}
+	album #7 (artist-name: Vaikeat Ajat, during: winter 2008-2009) {
+		explanation {
+			I wanted to hang around with a band
+			I wanted to produce band music
+			I wanted to explore mindscapes with lyrics
+		}
+		production {
+			song "How did this happen?" {
+				a song about about the abuse I got
+				it has shattered thoughts intentionally
+			}
+		}
+	}
+}
+
+unpublished period (2010 summer - 2023 summer) {
+	album #8 (artistname: loathing inc, when: during second half of 2010, where: myspace) {
+		explanation {
+			military {
+				I got out of the air force
+				I was bullied and in bad shape mentally
+			}
+			friends {
+				I got hundreds of Facebook friends
+				I lost my close friends
+			}
+			school {
+				I started university
+			}
+			life {
+				I moved away from my hometown
+				my old traumas struck again and I stayed in my room
+			}
+			professional music producer {
+				I was very hopeful still
+				my rap projects were still popular
+			}
+			pictures {
+				
+			}
+			mistakes {
+				didn't make enough lyrics
+				not strengthening my internet artist profile
+			}
+			what is good {
+				music and notes survived
+				authentic songs can be made
+			}
+			conclusion {
+				I started my own artist career
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Losers Anonymous
+				Uninvited Guests
+				Twisted Minds
+				A Facade of Sadness
+				The Broken Hearted  
+				The Painful Goodbye 
+				Cursed Night 
+				Darkest Before Dawn 
+				Clinging on to Memories 
+				Empty Promises 
+				Lingering Shadows 
+				Drowning in Melancholy 
+				Living in Despair
+				Lost in the Dark
+				No Raindrops Fall 
+				Silent Battle 
+				Whispers of Regret  
+				Misery of Yesterday
+			}
+			songs {
+				"edge - b" (a touching and danceable fast ballad) {
+					1. "The Unspoken" - a song about unspoken love, and the fear of speaking up
+					2. "Pretty Little Escape" - a romantic song about turning away from the world and letting go
+					3. "Dare To Move" - a motivational song about taking risks and embracing the unknown
+					4. "Under the Moonlight" - a hauntingly beautiful love ballad with romantic lyrics
+					5. "Forever Burning Fight" - an up-tempo battle song about a passionate fight to the finish
+					6. "Abandon" - an emotional song about walking away and never looking back
+					7. "Dreaming Eyes" - a gentle dreamy love song about living in a fantasy world
+					8. "The Truth Unfolds" - a powerful story of coming to terms with yourself and the painful truth of life
+				}
+				"hometown" (powerful and energetic, danceable power song, dark tune) {
+					1. Desperation - a song about the last line of defense and breaking the boundaries 
+					2. Warrior - a song about standing up in the face of danger and defeating the foes 
+					3. Rivers of Blood - a powerful song about the price of war and the losses it causes 
+					4. No End in Sight - a song about the dark road ahead and resilience in the face of adversity 
+					5. Out of the Dark - a song about hope and courage in the darkest of times 
+					6. Fight for life - a motivational and inspirational a song about never giving up 
+					7. Fire in My Soul - a song about the power of will and the desire to never give up 
+					8. Battle in the Sky - a powerful and uplifting song about battles in the sky and being brave 
+					9. Unstoppable Force - a song about the strength and courage it takes to not give up 
+					10. Perfect Storm - a song about the intensity of fighting against all odds
+				}
+				"loathing inc" ( powerful and energetic, a twisted composition, a song to dance to while drunk) (
+					1. "Dancing Fools" - A song about people who are so lost in the bliss of partying that they are willing to do anything and go anywhere. 
+					2. "Lost Control" - A song about a person who is so drunk that they lose all control and feeling, going wild and far away from the norm.
+					3. "Into the Night" - A song about a person who caves in to the pressure of partying, and willingly going on a journey, no matter how dangerous.
+					4. "Crossing Lines" - A song about a person who is breaking all the rules and trying hard to make some memories without any regret.
+					5. "Wild Things" - A song about how people can go to great lengths when they give into their desire and need for pleasure.
+					6. "Feeling High" - A song about the sensation of being engulfed by alcohol and drugs, and embraced by the high.
+					7. "Out of Sight" - A song about the person who can let go of all rationalities and just go with the flow, no matter where this journey might take him. 
+					8. "Lust For Life" - A song about the person who is delving into dark desires and is yearning for more than just pleasure, but for a life-altering experience.
+				}
+				"slow dancing" ( slow tempo, danceable with a couple, romantic, exciting, love song) {
+					1. "One Last Dance" - an upbeat, lighthearted song about embracing the fleeting moments of love and companionship when life is hard and the future is uncertain. 
+					2. "Softly Fading Away" - a wistful, nostalgic song about how quickly love can be taken away, and the pain of not being able to hold onto it forever. 
+					3. "Heart of Stone" - a soaring, heartfelt ballad about the struggle to open up and show love and emotion, even in the face of tough times. 
+					4. "Where Time Stands Still" - a beautiful, romantic duet about two lovers who find joy and peace in each other when chaos threatens to overwhelm them. 
+					5. "Love Letters Lost" - an emotive, sorrowful song about letters written with love that can never be read or received. 
+					6. "The Passions of Time" - an empowering, powerful song about staying strong and determined in the face of difficulty and how things can fall away quickly without warning. 
+					7. "Until The Light Reaches You" - a hopeful, heartening song about never giving up and enduring the darkness, waiting for a brighter future
+				}
+				"crash landing" ( fast paced, energetic, happy, catchy, rap song ) {
+					1. Motorway - A rap song about the joys of driving on the motorway highway while celebrating life and overcoming obstacles. 
+					2. Living Free - A rap song about living life to the fullest, free of struggles and worries. 
+					3. Keeping Up With the Times - A rap song about keeping up with trends and fashion in an ever changing world. 
+					4. Get Goes Up - A rap song about achieving success and motivating others to strive to do the same. 
+					5. Crazy World - A rap song about how crazy the world is, but how it can still be enjoyed and appreciated through positive perspectives. 
+					6. Future Is Yours - A rap song about believing in the future and taking action to make it happen. 
+					7. Living Legend - A rap song about the power of believing in oneself and striving to become a legend in one's field of choice. 
+					8. Opposites Attract - A rap song about embracing different opinions and cultures that clash with one's mindset. 
+					9. Dancing In the Rain - A rap song about finding joy in the midst of chaos and difficulties. 
+					10. The Show Must Go On - A rap song about continuing to keep on moving towards success and to never give up in life.
+				}
+				"energizer" ( mid-tempo, energetic, exciting, carefree and worried alternately, rhythmic, rap song) {
+					1. "Take It Easy" - A song about trying to take life one day at a time and not let problems overwhelm you.
+					2. "One Voice" - A song about standing united in the face of adversity and being stronger when united as one.
+					3. "Rise Up" - A song about overcoming challenges and becoming something more than who you used to be.
+					4. "Triumphant" - A song about overcoming seemingly insurmountable obstacles and achieving personal glory.
+					5. "Who We Are" - A song about the things that make you who you are and your unique place in the world.
+					6. "Unstoppable" - A song about never giving up and continuing to fight even when things are tough.
+					7. "Breaking the Chains" - A song about freeing yourself from the chains of society and following your own path.
+					8. "Resilience" - A song about bouncing back from hardships and using them as a motivation to be better.
+					9. "Victory" - A song about pushing on even when the odds are against you and finally reaching success.
+					10. "Make It Through" - A song about rising through the ashes of your defeats and having the courage to keep going.
+				}
+				"rabbit's life" ( mid-tempo, trio in tempo, energetic, exciting, really touching and catchy, slightly sad, rhythmic, rap song ) {
+					1. "Life Doesn't Stop", it is a story about resilience after traumatic experiences, when life doesn't stop when things get bad but just keep going. 
+					2. "Good & Bad Times", an optimistic view on experiences, even the bad times don't last forever, but the good times will return. 
+					3. "From Here to There", a rap story about the journey of someone who goes through hardships and learns to overcome them. 
+					4. "Never Give Up", an inspiring story about never giving up, regardless of the losses or difficulties life throws at you.
+					5. "The Long Night", a solemn rap story about surviving the long night that seems endless, when all hope seems to be lost. 
+					6. "One Step at a Time", a reminder that progress will come with time, if we take it one step at a time. 
+					7. "New Dawn", it is a story about the power of looking towards the future, when a new dawn will bring the possibility of a new beginning. 
+					8. "Fight!", a powerful rap story about facing the challenges of life head-on and never giving up the fight. 
+					9. "Touch the Sky", an uplifting rap story about being able to reach for the stars and touch the sky. 
+					10. "The Sun Will Rise Again", a calming rap story about always knowing that the sun will rise again in the morning and the light of sunshine will bring with it optimism and new hope.
+				}
+				"sailing" ( medium-tempo waltz, carefree, reminiscent of summer days at the beach, occasionally sad, with a happy chorus ) {
+					1. "Goodbye Summer" -  A reflection on a summer that has gone by, with bittersweet memories of days spent at the beach with friends and friends no longer around. 
+					2. "Waves Crashing" -  A tranquil song about just laying back and enjoying the lull of the waves that both bring worry and peace. 
+					3. "Letting Go" -  A song about the struggles of closure-- both physical and emotional-- to keep moving forward. 
+					4. "Falling Star" -  A song about the hope that comes with even fleeting moments of brightness, despite difficult times. 
+					5. "Embrace the Night" -  A song about embracing the darkness of night and the unknown, and learning strength and acceptance from it. 
+					6. "Rising Sun" -  A song about the hope of a new dawn, and the new beginning that it brings. 
+					7. "Forget and Remember" -  A song about being able to let go of the past and still hold on to the memories of it.
+				}
+				"sexy" ( medium tempo, happy, carefree, reminiscent of summer days, dance song ) {
+					1. "Lazy Summer" - A song about taking a break from the hustle and bustle of life and just enjoying a lazy summer day. 
+					2. "Good Times" - A song about reminiscing about the good times and the carefree days of summer. 
+					3. "Chill Out" - A song about just letting go and taking it easy. 
+					4. "Be Happy" - A song about embracing the day and being thankful for the blessings in life. 
+					5. "Dancing in the Sun" - A song about enjoying life and having a great time! 
+					6. "Gonna Live Life" - A song about living life to the fullest and making the most out of life! 
+					7. "Party in the Sky" - A song about the euphoria of dancing and living life to the fullest! 
+					8. "Fun in the Sun" - A song about enjoying the summer days and taking everything life has to offer! 
+					9. "Free Spirit" - A song about freedom and embracing the unconventional lifestyle. 
+					10. "Live & Let Go" - A song about letting go of all the negative emotions and just living life to the fullest.
+				}
+				"blow my whistle" ( a mid-tempo, exciting or sad, reggae-like song ) {
+					1. "Rebuilding The Wall": A song about picking yourself up and trying to believe in yourself again after being hurt.
+					2. "Lost Paradise": A song about lost hopes and dreams, and reflecting on how your life has changed.
+					3. "A New Dawn": A song about moving into a new phase of life after a challenging period, seeing the positive side of things.
+					4. "Coming Home": A song about finding peace in a place that used to feel like home.
+					5. "Conquering My Demons": A song about finding the strength to overcome personal obstacles and learning to trust yourself again.
+					6. "Call the Sun": A song about being brave, embracing life and seeing the sun rise even after the darkest night.
+					7. "Keep Pushing On": A song about not giving up, finding courage and determination to reach new heights.
+					8. "Rise Up": A song about dreaming big and standing tall even after suffering.
+					9. "Pulling the Pieces Together": A song about making the best out of what you have and rebuilding a broken dream.
+					10. "Just Believe": A song about never giving up on yourself, having faith and believing that things will get better.
+				}
+			}
+			best combination ( album title: Empty Promises ) {
+				"edge - b" (a touching and danceable fast ballad): "The Unspoken" - a song about unspoken love, and the fear of speaking up
+				"hometown" (powerful and energetic, danceable power song, dark tune): No End in Sight - a song about the dark road ahead and resilience in the face of adversity 
+				"loathing inc" ( powerful and energetic, a twisted composition, a song to dance to while drunk): "Lost Control" - A song about a person who is so drunk that they lose all control and feeling, going wild and far away from the norm.
+				"slow dancing" ( slow tempo, danceable with a couple, romantic, exciting, love song): "Softly Fading Away" - a wistful, nostalgic song about how quickly love can be taken away, and the pain of not being able to hold onto it forever. 
+				"crash landing" ( fast paced, energetic, happy, catchy, rap song ): Motorway - A rap song about the joys of driving on the motorway highway while celebrating life and overcoming obstacles.
+				"energizer" ( mid-tempo, energetic, exciting, carefree and worried alternately, rhythmic, rap song): "Who We Are" - A song about the things that make you who you are and your unique place in the world.
+				"rabbit's life" ( mid-tempo, trio in tempo, energetic, exciting, really touching and catchy, slightly sad, rhythmic, rap song ): "Life Doesn't Stop", it is a story about resilience after traumatic experiences, when life doesn't stop when things get bad but just keep going. 
+				"sailing" ( medium-tempo waltz, carefree, reminiscent of summer days at the beach, occasionally sad, with a happy chorus ): "Rising Sun" -  A song about the hope of a new dawn, and the new beginning that it brings. 
+				"sexy" ( medium tempo, happy, carefree, reminiscent of summer days, dance song ): "Lazy Summer" - A song about taking a break from the hustle and bustle of life and just enjoying a lazy summer day.
+				"blow my whistle" ( a mid-tempo, exciting or sad, reggae-like song ): "Rebuilding The Wall": A song about picking yourself up and trying to believe in yourself again after being hurt.
+			}
+			lyrics only {
+				"The Unspoken" - a song about unspoken love, and the fear of speaking up
+				"No End in Sight" - a song about the dark road ahead and resilience in the face of adversity 
+				"Lost Control" - A song about a person who is so drunk that they lose all control and feeling, going wild and far away from the norm.
+				"Softly Fading Away" - a wistful, nostalgic song about how quickly love can be taken away, and the pain of not being able to hold onto it forever. 
+				"Motorway" - A rap song about the joys of driving on the motorway highway while celebrating life and overcoming obstacles.
+				"Who We Are" - A song about the things that make you who you are and your unique place in the world.
+				"Life Doesn't Stop", it is a story about resilience after traumatic experiences, when life doesn't stop when things get bad but just keep going. 
+				"Rising Sun" -  A song about the hope of a new dawn, and the new beginning that it brings. 
+				"Lazy Summer" - A song about taking a break from the hustle and bustle of life and just enjoying a lazy summer day.
+				"Rebuilding The Wall": A song about picking yourself up and trying to believe in yourself again after being hurt.
+			}
+		}
+	}
+	album #9 (when: year 2011) {
+		explanation {
+			health {
+				I was mentally in a bad shape, because of bullying, attacks, abuse and traumas
+				I couldn't be in the school
+				I moved back to my hometown
+			}
+			legal {
+				in troubles because of stupid friends talked into something
+				I wasn't even responsible one
+			}
+			friends {
+				had to delete facebook because of mental and legal burden
+			}
+			life {
+				searched for girlfriend
+				tried to study in university
+			}
+			professional music producer {
+				I made new songs in cubase
+			}
+			mistakes {
+				didn't make enough lyrics
+				got into more troubles, but others can be blamed
+			}
+			what is good {
+				music and notes survived
+				authentic songs can be made
+			}
+			conclusion {
+				I was abused even more and it added 10 years for me to recovery
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Darkness Within
+				Living on the Edge
+				Cage of Deceit
+				On the Run
+				Wishful Thinking
+				The Price of Freedom
+				Dreams of Pain
+				Growing Up Too Fast
+				Staying Calm Amidst the Chaos
+				Survival of the Fittest
+			}
+			song ideas {
+				1. "Holding On" –  a song about struggling to stay positive and keep going despite challenges.
+				2. "Shattered Dreams" – a song about the reality of not achieving what you set out to do.
+				3. "Take the Pain Away" – a song about finding solace in music and seeking comfort from pain.
+				4. "Free from Chains" – a song about the difficulty of letting go of the past.
+				5. "The Lights of Home" – a song about returning to a place of safety and security.
+				6. "Redemption" – a song about the power of inner strength and courage to push through hard times.
+				7. "The Lesson of the Storm" – a song about learning from life's hard lessons.
+				8. "Lifting the Weights" – a song about getting back up after going through tough times.
+				9. "Rising from the Ashes" – a song about recovery from pain and finding hope in the future.
+				10. "The Unseen Hand" – a song about relying on an unknown higher power for guidance.
+			}
+			songs {
+				"island hideout - a" (mid-tempo, upbeat, high-flying, complex melody, builds emotion into the chorus) {
+					1. "Fly High” - This song is about finding comfort and strength in hard times and feeling like you can overcome your problems by rising above them.
+					2. “Chains of Life” - This song is about the ups and downs of life and how they create an endless cycle of disappointment and hope.
+					3. “Rise Up” - This song is about finding the inner strength within yourself to overcome all odds and come out stronger on the other end.
+					4. “Run Away” - This song is a plea to run away from oppressive situations and negative influences that prevent you from reaching your potential.
+					5. “Not Alone” - This song is about never giving up and knowing that you are never alone, no matter how dark and lonely life may seem.
+					6. “See the Light” - This song is about finding hope and seeing the light at the end of the tunnel, despite how hard life may get.
+					7. “Defy the Odds” - This song is about rising above and going after what you want despite the odds that are stacked against you.
+					8. “Life is Short” - This song is about the importance of living life to the fullest and not letting anything stand in your way.
+				}
+				"lucky strike" (fast paced, energetic, slightly aggressive, high flying, simple tune, catchy) {
+					1. "Lost in Air" - The song tells the story of a person who's been in military and how they've lost their way in the chaotic world after leaving it. The lyrics tell a story of protection, hope, and courage in the face of fear and danger. 
+					2. "Fight for Freedom" - A song about the fight for freedom and justice. With a mix of heavy riffs and upbeat rhythms, the song captures the intensity of the struggle for freedom and the will of those fighting for it. 
+					3. "Rise Above" - A song about the will to rise above and defy the obstacles in life. It speaks ofstrength, courage, and resilience to keep going and to never give up.
+					4. "Living Fearless" - A song about living life with no fear and taking risks. It speaks of taking on challenges, pushing boundaries and taking the lead. 
+					5. "Power in Your Voice" - A song about standing up and using your voice for good. It's a call for people to find their voice, speak up, and make a difference. 
+					6. "Rise to the Top" - A song about striving to be the best at something. It speaks of determination, and the need to believe in yourself to reach for the stars. 
+					7. "Make our Way" - A song about believing in yourself and believing in each other, working together for a common goal. It's a song about unity, and how together we can make our way.
+				}
+			}
+		}
+	}
+	album #10 (when: year 2012) {
+		explanation {
+			health { I was in pain and in lock because of all of the past experiences }
+			life {
+				searched for girlfriend
+				tried to study in university
+				lived with school roommates
+				I wasn't in the social media
+			}
+			professional music producer {
+				started to lose interest
+				bought new guitar and made songs with it
+			}
+			pictures {
+				
+			}
+			mistakes {
+				didn't make enough lyrics
+			}
+			what is good {
+				important music survived
+			}
+			conclusion {
+				my situation detoriated because of lack of support and services
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Troubles - A Lyrical Journey
+				Unbearable Times - The Dark Side of Music
+				Despondency and Despair - The Musical Manifestation of Pain
+				Down in the Depths - Living with Mental Illness
+				Lost in Reflection - A Collection of Melancholy Music
+				Questions and Struggles - Songs from the Depths of Despair
+				Shattered - Revealing a Broken Soul
+				Crucified and Disowned - A Life of Misfortune
+				Wretched and Forgotten - A Soul in Emotional Turmoil
+				Cruel Folly - The Painful Realities of Reality
+			}
+			song ideas {
+				1. "Coming Back" –  a song about rediscovering strength and beauty after adversities
+				2. "Safe and Sound" – a song about finding safety and security
+				3. "The Change" –  a song about how feeling hopeful often entails a lot of hard work
+				4. "A New Start" – a song about discovering new possibilities
+				5. "Where I Belong" –  a song about looking for and finding a place in the world
+				6. "This is Home" –  a song about never giving up hope
+				7. "One Step at a Time" –  a song about taking courage and starting the journey to reach goals
+				8. "Reality" – a song about growing and being in charge of our own life
+				9. "The Bright Side" – a song about finding hope in impossible situations
+				10. "What If" –  a song about the strength we find when we dare to follow our dreams
+			}
+		}
+	}
+	album #11 (name: dragons vs snakes, when: year 2013-2014) {
+		explanation {
+			health { I was in pain and in lock because of all of the past experiences }
+			life {
+				searched for girlfriend
+				tried to study in university
+				lived with school roommates
+				I had two very good friends
+				I wasn't in the social media
+			}
+			professional music producer {
+				composed different shades of sadness in music
+				made music with free and open source tools
+			}
+			pictures {
+				
+			}
+			mistakes {
+				didn't make enough lyrics
+				didn't record songs
+			}
+			what is good {
+				I rejected cracked music software
+				not keeping notes and voice records
+			}
+			conclusion {
+				found a new joy in music with open source music software
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Dragons Vs Snakes: A Battle of Wills
+				Battle of the Self: Dragons Vs Snakes
+				Fight for Freedom: Dragons Vs Snakes
+				Rise of the Underdog: Dragons Vs Snakes
+				Overcoming Adversity: Dragons Vs Snakes
+				Inner Conflict: Dragons Vs Snakes
+				The Journey: Dragons Vs Snakes
+				Under the Surface: Dragons Vs Snakes
+				New Beginnings: Dragons Vs Snakes
+				Strength to Conquer: Dragons Vs Snakes
+			}
+			song ideas {
+				1. "Drown Me" –  a song about feeling overwhelmed and isolated
+				2. "Burning Inside" – a song about unresolved pain and heartache
+				3. "Broken Wings" – a song about finding strength even through the toughest of times
+				4. "Dark Days" – a song about feeling stuck in despair and hopelessness
+				5. "Paralyzed" – a song about being unable to move forward
+				6. "Shards of Darkness" – a song about surviving despite overwhelming darkness
+				7. "Cold Embrace" – a song about facing rejection and betrayal
+				8. "Alone Again" – a song about finding companionship and solace in loneliness
+				9. "Silent Voices" – a song about searching for meaning and understanding in a complex world
+				10. "The Sea of Uncertainty" – a song about the journey of self-discovery and exploration
+			}
+		}
+	}
+	album #12 (when: year 2015-2016) {
+		explanation {
+			health { I was in pain and in lock because of all of the past experiences }
+			life {
+				searched for girlfriend
+				tried to study in university
+				lived with school roommates
+				I had two very good friends
+				I wasn't in the social media
+			}
+			professional music producer {
+				had new joy and strength in music
+				made music with guitar only
+			}
+			pictures {
+				
+			}
+			mistakes {
+				didn't make enough lyrics
+				didn't record songs
+			}
+			what is good {
+			
+			}
+			conclusion {
+				I found joy in just playing the guitar again
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Chaos Unleashed 
+				Slaughter the World 
+				The Blackness of Life 
+				Coming Down from the Clouds 
+				Inside the Valley of Death 
+				Blades of Destruction 
+				Chaos and Catastrophe 
+				Lost in a Maze 
+				Face the Demons 
+			}
+			song ideas {
+				1. "Haunting Memories" –  a song about the painful memories of the past 
+				2. "Stay Away From Me" – a song about the need for emotional distance 
+				3. "Lost and Found" –  a song about searching for meaning in life 
+				4. "Desperation" – a song about desperation in the face of life's hardships 
+				5. "Take Your Time" – a song about the importance of taking things slowly 
+				6. "I'm Not Broke" – a song about staying strong in spite of adversity 
+				7. "Hard Times" – a song about the struggles of life 
+				8. "The Grind" – a song about the long and difficult journey we all take 
+				9. "Pain in the Heart" – a song about the pain of loss 
+				10. "See it Through" – a song about perseverance and the will to keep going even when it's hard
+			}
+		}
+	}
+	album #13 (when: year 2017-2019) {
+		explanation {
+			health {
+				I was in pain and in lock because of all of the past experiences
+				my ex grilfriend came to abuse me even more and I had to be hospitalized because of traumas
+			}
+			life {
+				searched for girlfriend
+				tried to study in university
+				lived with school roommates
+				I had two very good friends
+				I wasn't in the social media
+			}
+			professional music producer {
+				had new joy and strength in music
+				made music with guitar only
+			}
+			pictures {
+				
+			}
+			mistakes {
+				didn't make enough lyrics
+				didn't record songs
+			}
+			what is good {
+			
+			}
+			conclusion {
+				I was attacked again and used the guitar to comfort myself
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Progression
+				Heroes of Trauma
+				Reflections of Pain
+				Shattered Thoughts
+				Dreams and Nightmares
+				Rise above the Hate
+				Reflection in the Dark
+				Unbreakable Strength
+				Battle for Survival
+				Back from the Abyss
+			}
+			song ideas {
+				1. “Tears of Joy” – A song about finding joy in the darkness
+				2. “Painful Memories” – A song about recalling the past and the struggles endured
+				3. “Scars of Life” – A song about coping with the wounds of life
+				4. “Unchained” – A song about breaking free from the bonds of pain
+				5. “Rise Up” – A song of hope and resilience
+				6. “Standing Strong” – A song about resilience in the face of adversity
+				7. “Touching the Light” – A song about finding light within the darkness
+				8. “Acceptance” – A song about letting go and embracing the present
+				9. “A New Day” – A song about finding a new beginning
+			}
+		}
+	}
+	album #14 (when: year 2020) {
+		explanation {
+			health {
+				I was in pain and got wrong help from doctors
+				my 2017 traumas were healed mostly
+				lost weight and started hiking
+			}
+			life {
+				searched for girlfriend
+				was unemployed
+				moved to live alone
+				I had two very good friends
+				I had only a few social media friends
+			}
+			professional music producer {
+				had new hope again
+				started to {
+					make music with guitar tabulature software again
+					archive 2010-2020 song catalogue
+					make lyrics
+					record songs
+				}
+			}
+			pictures {
+				
+			}
+			mistakes {
+				didn't apply to music production vocational school yet
+			}
+			what is good {
+				my career began to materialize again
+			}
+			conclusion {
+				I started cherishing my memory as a music creator and producer
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Painful Recovery 
+				Rediscovering Music 
+				Finding Strength in Sadness 
+				The Path to Healing 
+				Hope in Strife 
+				Overcoming the Darkness 
+				New Joys in Music 
+				A Journey of Music and Healing 
+				Music as a Balm for the Soul 
+			}
+			song ideas {
+				1. “A New Start” – A song about creating a new life
+				2. “Forever Young” – A song about finding your inner strength
+				3. “Self Reflection” – A song about looking within
+				4. “Roots” – A song about discovery and belonging
+				5. “Grow” – A song about personal growth and development
+				6. “The Journey” – A song about the journey of life
+				7. “Rise Above” – A song about confronting your challenges
+				8. “Hope” – A song about finding hope in the darkness
+				9. “Light at the End of the Tunnel” – A song about finding the courage to move forward
+			}
+		}
+	}
+	album #15 (when: year 2021) {
+		explanation {
+			health {
+				I was in pain and got wrong help from doctors
+				I kept hiking and walking a lot
+				I was in the best physical shape I had been in a decade
+			}
+			life {
+				searched for girlfriend
+				was unemployed
+				lived alone
+				I had two very good friends
+				I had only a few social media friends
+			}
+			professional music producer {
+				I wanted a professional future
+				started {
+					started preparing for a career
+					polishing my old songs
+					making lyrics for old songs
+				}
+			}
+			pictures {
+				
+			}
+			mistakes {
+				didn't produce the song myself singing or rapping
+			}
+			what is good {
+				all and notes songs survived
+				I learned to make a musical
+			}
+			conclusion {
+				I realized to apply to music production school and start a professional career
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Memoirs of a Music Maker 
+				Chapter of a Music Life 
+				The Journey of Creating Music 
+				Memory of a Music Maker 
+				My Music Tale 
+				Chronicles of a Musician 
+				Trudging the Road of Sound 
+				Letting the Music Go 
+				Soulful Strumming 
+				Music in my Heart
+			}
+			song ideas {
+				1. “Believe in Yourself” – A song about trusting your instincts
+				2. “Finding Balance” – A song about striving for harmony
+				3. “Moving Forward” – A song about continuing to grow
+				4. “Stronger” – A song about becoming stronger with each hurdle
+				5. “Dreams Come True” – A song about finding the courage to make your dreams reality
+				6. “Determination” – A song about never giving up
+				7. “Letting Go” – A song about releasing the past and embracing the future
+				8. “The Path Less Travelled” – A song about taking a different path
+				9. “Joy of Life” – A song about finding happiness in new experiences
+			}
+		}
+	}
+	album #16 (when: year 2022) {
+		explanation {
+			health {
+				I was in pain and got wrong help from doctors
+				I kept hiking and walking a lot
+			}
+			life {
+				searched for girlfriend
+				was unemployed
+				lived alone
+				I had two very good friends
+				I had only a few social media friends
+			}
+			professional music producer {
+				I was waiting for the start of the training for the next music producer's professional degree
+				started {
+					started preparing for a career
+					polishing my old songs
+					making lyrics for old songs
+				}
+			}
+			pictures {
+				
+			}
+			mistakes {
+				when I applied for Turku's music production training, I didn't make a modern enough song
+			}
+			what is good {
+				all and notes songs survived
+				I produced the song myself singing
+			}
+			conclusion {
+				I realized to apply to music production school and start a professional career
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Through Pain and Rain"
+				The Path of Perseverence
+				My Journey to a New Future
+				The Power of Hope
+				A Song of courage
+				Unstoppable Determination
+				Never Giving Up
+				Start the Music
+				The Rebirth of a Dream
+				The Road to Success
+			}
+			song ideas {
+				1. “The Brave Ones” – A song about those who conquer their fears
+				2. “New Horizons” – A song about taking on new challenges
+				3. “Walking the Talk” – A song about putting your beliefs into action
+				4. “Reaching Out” – A song about opening your heart to those who need help
+				5. “The Change Within” – A song about self-reflection and transformation
+				6. “Restart” – A song about taking a step back and trying again
+				7. “The Power of Words” – A song about speaking your truth
+				8. “Life Goes On” – A song about picking yourself back up and continuing
+				9. “Strength of Character” – A song about finding the courage to stand up for what’s right
+			}
+		}
+	}
+	album #17 (when: year 2023) {
+		explanation {
+			health {
+				I got good pain medication finally
+			}
+			life {
+				searched for girlfriend
+				was unemployed
+				lived alone
+				I had two very good friends
+				I had only a few social media friends
+				I had new school friends in the Tornio's music production school
+			}
+			professional music producer {
+				I got in to study a professional degree in music production
+				started {
+					started studying for a career
+					co-writing songs with my schoolfriends
+					I started blogging as a music producer
+				}
+			}
+			pictures {
+				
+			}
+			mistakes {
+				I was too optimistic about cooperation with school friends
+			}
+			what is good {
+				all and notes songs survived
+				I produced the song myself rapping
+			}
+			conclusion {
+				I realized to apply to music production school and start a professional career
+			}
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+		content {
+			title ideas {
+				Tornio's Dreams
+				Music Production Diaries
+				Aspiring Artist: The Journey
+				The Path of A Music Producer
+				A Producer's Tale
+				The Music Journey
+				Ambitions of a Music Creator
+				Musically Equipped
+				My Creative Outburst
+				Odds and Ends of My Creative Mind
+				Glued To The Mic
+				Frequency of Creativity
+			}
+			song ideas {
+				1. “Defying the Odds” – A song about overcoming obstacles
+				2. “Roots of Change” – A song about finding new beginnings
+				3. “Power of Choice” – A song about choosing the right path
+				4. “Love and Acceptance” – A song about letting go of judgement and embracing yourself
+				5. “Taking Control” – A song about making changes in your life
+				6. “The Voice Within” – A song about trusting your inner voice
+				7. “Change is Good” – A song about understanding that growth is necessary
+				8. “Breathe in the Moment” – A song about living in the present
+				9. “Lift Yourself Up”– A song about having the courage to take on any challenge
+			}
+		}
+	}
+}
+
+
+
+
+subject {;name: Seppo Pakonen;born: 1989;place: Oulu, Finland;timeline: high school (2005-2009), military (2009-2010), university (2010-2019), unemployed(2019-2023);character: caring, beautiful, intelligent, techie, cheap;};theme {;storyline {;2010 - 2023 {;With the understanding and support of my good friends, I was able to emerge from a tough time stronger and more resilient. ;};};};pre-publishing (2005) {music project (artist-name: the wayward, during: second half of 2005) {my friends {}production {song "Feels Like Home"}}}published (2006-2010 summer){album #1 (artist-name: The Vice, during: ) {my friends {}production {song ""}}album #2 (artist-name: PMS, during: ) {my friends {}production {song ""}}album #3 (artist-name: Pohjan Tähti, during: ) {my friends {}production {song ""}}album #4 (artist-name: Vaikeat Ajat, during: ) {my friends {}production {song ""}}album #5 (artist-name: Vaikeat Ajat, during: ) {my friends {}production {song ""}}album #6 (artist-name: Vaikeat Ajat, during: ) {my friends {}production {song ""}}album #7 (artist-name: Vaikeat Ajat, during: ) {my friends {}production {song ""}}}unpublished period (2010 summer - 2023 summer) {album #8 (artistname: loathing inc, when: during second half of 2010, where: myspace) {explanation {military {I had just gotten out of the army, which was the hardest experience of my life up to that pointin addition to the physical harshness, I had been severely bullied and had not found a girlfriendI was in really bad shape mentally, but nothing bothered me and I was happyfriends {I got hundreds of Facebook friends during the army, when I added new and old friends from Kiiminki through friends}}school {I had moved away from my hometown to Vaasa to study in the university because of the ideas given by my army friends}life I still tried to find joy in musicI lived in a student apartment in Vaasamy old traumas struck again and I wasn't able to go to the students' night out, which upset me a lot, and on top of that I seemed antisocial, unfortunately}professional music producer {I was very hopeful that my music would still spread, because I had been active for 5 years and had successes undermy rap projects were so popular at the moment that strangers were uploading songs to youtube and they had tens of thousands of views. I didn't rap myself, even though I was the main force in them}}the things that the pictures tell about this time {}mistakes {not following internet trends and where people are { reason: I had been disconnected in military for a year }no internet talking { reason: I was too rusty to talk because of military and also because of Steiner school's way of teaching } not strengthening courage to rap or sing { reason: I was traumatized and discouraged to sing and talk directly already in my third class in Kiiminki which people don't still understand }not training voice and lyricsnot keeping text records what I did { my rap projects were popular, but I didn't keep track of them }}what is good {songs survived { info: I have all songs what I did }27 notes survived ( info: they are not all lyrics but I can use them for lyrics still }I can make authentic songs now { info: I could have make them back them if I had had help }}the best proposals in relation to the 2010-2023 amendment {these are good and energetic songs, and almost all of them are worth producing}}album #9 (when: year 2011) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #10 (when: year 2012) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #11 (when: year 2013-2014) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #12 (when: year 2015-2016) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #13 (when: year 2017-2019) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #14 (when: year 2020) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #15 (when: year 2021) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #16 (when: year 2022) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #17 (when: year 2023) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}}
+
+
+
+
+
+list of song ideas and explanations for album #8 song, which is mid-tempo, shuffle in tempo, energetic, exciting, really touching and catchy, slightly sad, rhythmic, rap song: 
+
+
+
+
+
+New novel order of songs and compositions, which creates a novel story, but composotion can only be once:
+
