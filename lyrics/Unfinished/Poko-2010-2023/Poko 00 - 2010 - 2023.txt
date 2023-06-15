@@ -522,17 +522,73 @@ unpublished period (2010 summer - 2023 summer) {
 				Wretched and Forgotten - A Soul in Emotional Turmoil
 				Cruel Folly - The Painful Realities of Reality
 			}
-			song ideas {
-				1. "Coming Back" –  a song about rediscovering strength and beauty after adversities
-				2. "Safe and Sound" – a song about finding safety and security
-				3. "The Change" –  a song about how feeling hopeful often entails a lot of hard work
-				4. "A New Start" – a song about discovering new possibilities
-				5. "Where I Belong" –  a song about looking for and finding a place in the world
-				6. "This is Home" –  a song about never giving up hope
-				7. "One Step at a Time" –  a song about taking courage and starting the journey to reach goals
-				8. "Reality" – a song about growing and being in charge of our own life
-				9. "The Bright Side" – a song about finding hope in impossible situations
-				10. "What If" –  a song about the strength we find when we dare to follow our dreams
+			song {
+				"never meant to" (touching, romantic, wistful, mid-tempo dance song, where the chorus has a rather crooked sounding tune) {
+					1. Crazy Love: This song is about a love that is too good to be true. It is about a feeling that you just can't put into words, and how it can make you feel so vulnerable. It is about finding something so pure, that it hurts. It is about being too deeply in love to ever get out, no matter how crazy it might seem. 
+					2. Unshed Tears: This song is about unrequited love. It is about a love that can never be fully expressed. It is about those moments where all the feelings inside are just too much to keep inside and the only way to let go of them is through tears. It is a reminder of how powerful love can be, and how the emotions can be so strong that they seem insurmountable. 
+					3. Never Letting Go: This song is about the feeling of never wanting to let go of someone despite all the pain and sadness that may come with it. It is about clinging on to something that might break us, and the irrational hope that we may receive in return. It is about sticking through whatever comes our way, even if the outcome is uncertain. 
+					4. Walking Away in Silence: This song is about knowing when to walk away from a situation that no longer serves us. It is about understanding that sometimes our dreams will never come to fruition, so it is best to keep going and try and find a bit of solace in the silence of the night. It is a reminder that we don't lose anything by letting go of what is not meant for us.
+				}
+				"sauna-lake" (an exciting, half-tempo, relaxed song that sounds like a Finnish lake landscape and a beach sauna) {
+					1. The Calm Before the Storm (Featuring Sap Dark, a Finnish rap artist who explores the peace and silence of the Finnish landscape ) 
+					  -Exploration of a peaceful moment, when nature and man are in harmony with each other; 
+					  -A reflection on the beauty and tranquility of a Finnish lake, as well as the feeling of peace in the face of a storm; 
+					  -Rhyming, meditative rap that speaks of the power of nature in a time of chaos;
+
+					2. Beach Sauna Night (featuring Petri Mitään, a producer who uses synth and traditional sauna sounds to create a unique soundscape )  
+					  -Talking about the joys of a sauna night, the feeling of relaxation and release when all the worries are gone; 
+					  -The peacefulness of nature and the joy of a communal sauna;
+
+					3. Rust From The Tide ((featuring Mika Lulut, a folk singer that explores stories of the ancient Arctic Circle) 
+					  -A reflection on the legacy of a small fishing village, its rhythm in the unknown; 
+					  -A journey of discovery of what is hidden beneath the waves; 
+					  -Calm, mellow singing that speaks of the beauty and power of the sea.
+				}
+				"time is running out" (worried, romantic, tense, modern, pop song) {
+					1. "Constant Struggle" - A song about the never ending struggle against one's own inner demons and how to keep going in spite of it.
+					2. "Fall and Get Up Again" - A song about coming to terms with failure and how to pick yourself up and keep going.
+					3. "You and I Know" - A song about the two of us and our shared understanding of the situation.
+					4. "Masks of Reality" - A song about the lies and half-truths that we often tell each other.
+					5. "Where I Belong" - A song about coming to terms with the idea of being accepted for who you are and where you fit in life.
+					6. "Dreams and Nightmares" - A song about the dreamlike state of wanting something and the nightmares of thinking you can't have it.
+					7. "Silent Voices" - A song about the underlying feelings of loneliness and desperation that can't be expressed through words.
+					8. "Finding Security" - A song about the search for safety in a world that can feel a little too chaotic at times.
+					9. "Hope's Lullaby" - A peaceful song about the importance of hope, even when things seem hopeless.
+					10. "New Sunrise" - A hopeful song about a new chapter in life and the promise of a better tomorrow.
+				}
+				"jungle soul" (slower tempo, stirring, exciting, happy, ecstatic, energetic, rap song) {
+					1. "One More Time" - This rap song is about second chances and starting from scratch. It tells an inspirational story of coming out of a dark place and giving life another shot. It speaks of courage, strength, and faith in one's ability to overcome obstacles.
+					2. "Reborn" - This rap song is about being reborn, of having the courage to pick yourself up and start anew. It speaks of courage, perseverance, and hope.
+					3. "Believe in Myself" - This rap song is about finding strength in yourself and embracing the power of faith and belief in yourself. It is about never giving up, no matter how hard it gets.
+					4. "Unleash the Beast" - This rap song is about unleashing the beast within and letting go of any fear or anger. It speaks of letting go of limits and instead, being the best version of yourself and letting your inner strength and ambition take over.
+					5. "Rise Above" - This rap song is about rising up against the odds and proving everyone wrong. It speaks of determination, resilience, and courage in the face of any hardship.
+					6. "Light the Fire" - This rap song is about burning brightly and inspiring others to reach new heights. It is about never stopping, even when it feels like no one is standing in your corner. It speaks of passion and dreams that will never die.
+				}
+				"around the world" (novel, friendly, catchy, works well live, adventurous, poignant pop-rock song, and set in a well-known geographic location or city) {
+					1. "Hometown": A song about coming back to one's hometown after leaving for a while. It reflects the nostalgia of coming back to the places where they used to live. It also talks about the excitement of returning and the joy in seeing familiar faces once again. It's a positive, upbeat song that celebrates the friendship and warmth that can be found in a hometown.
+					2. "Electric Avenue": This song celebrates a modern metropolis and its bright lights. It's a funky, pop-rock hybrid about the energy of the city, its vibrancy and hustle and bustle. It speaks of the bustling energy and the dreams that can be found in a city. It also talks about searching for a place to call home and the courage it takes to do something new.
+					3. "Urban Warrior": A song that celebrates the grit and resilience of people living in cities. It talks about overcoming the everyday challenges of life in a large city and never giving up. It is a high-energy, rock-inspired track with positive lyrics that speaks of never losing hope in spite of life's struggles. It's a motivational song that is inspiring and uplifting. 
+					4. "Places We Loved": A reflective, soulful song that reminisces on the places we used to love. It speaks of the memories that linger of time spent with family and friends and the places that are now long gone. It is a beautiful and heartfelt song that is sad yet uplifting, and speaks of the importance of cherishing memories and memories lost.
+				}
+				"bicycling feeling" (outgoing, adventurous, cycling related, touching, exciting, carefree, moody, sad) {
+					1. "On the Road Again": This song is about the joys and struggles of the adventurous journey of life, emphasizing on the importance of staying mentally and physically strong while on the road. It talks about the joys of cycling and the beauty of the countryside seen along the way, as well as the sadness of being away from home and missing one's beloved ones.
+					2. "Riding the Line": This song portrays the ups and downs of life while on the journey. It talks about how the road can sometimes be hard but how one must keep pushing forward and never give up. It emphasizes on the importance of finding inner strength even in difficult days.
+					3. "The Far Away Dream": This song is a sad and melancholic yet inspiring tune about living a long and fulfilling life. It talks about always pushing forward and never giving up hope. It also talks about accepting the fact that although we all have our own dreams and ambitions, sometimes we may have to modify them, or accept that they may never be fully realized.
+					4. "The Highs and the Lows": This song is about learning to accept the highs and lows of life, and how one must learn to accept whatever comes along. It talks about how, even when faced with adversity, one must learn to take it in stride and find courage to move forward.
+					5. "Soul of the Journey": This song is about the beauty of life and how one must always remember to enjoy the journey and appreciate the little things. It is a cheerful and empowering song about being grateful for whatever life brings. It is also a song about how one must always keep an open heart and an open mind in order to make the most out of each day.
+				}
+				"summer 2012" (relaxed, bouncy, rhythmic, happy, positive, set in the countryside, 70's rock style, pop-rap song) {
+					1. "Out in the Sun" - a song about spending time in nature, relaxing and being in a cool and happy atmosphere.
+					2. "Peaceful Breeze" - a song about the appreciation of the peace and tranquility that comes with living in the countryside.
+					3. "Countryside Cool" - a song that celebrates the joy of being out of the hustle and bustle of city life and finding relaxation in the countryside.
+					4. "Crossroads over Hills" - a song about finding new paths and gaining insightful perspectives when taking a road trip around the countryside.
+					5. "Fly Away Countryside" - a song about the dream of escaping and getting away to experience the peace and beauty of the countryside.
+					6. "Cool Summer Road" - a song about taking a drive to get away from it all and to find solace on a hot summer day.
+					7. "Nighttime Drive" - a song about taking the wheel while the stars are blazing away and the night air is full of promise.
+					8. "Rural Rhythm" - a song about the slow, steady rural life and how it is full of joy and neighborly bonds.
+					9. "Downhome Sweet Home" - a song about the comfort of familiar places and the comforts of life in the countryside.
+					10. "Roads Leading Home" - a song about the journey of coming home from a long vacation or a trip to the countryside and how the roads leading home are always welcoming.
+				}
 			}
 		}
 	}
@@ -581,17 +637,76 @@ unpublished period (2010 summer - 2023 summer) {
 				New Beginnings: Dragons Vs Snakes
 				Strength to Conquer: Dragons Vs Snakes
 			}
-			song ideas {
-				1. "Drown Me" –  a song about feeling overwhelmed and isolated
-				2. "Burning Inside" – a song about unresolved pain and heartache
-				3. "Broken Wings" – a song about finding strength even through the toughest of times
-				4. "Dark Days" – a song about feeling stuck in despair and hopelessness
-				5. "Paralyzed" – a song about being unable to move forward
-				6. "Shards of Darkness" – a song about surviving despite overwhelming darkness
-				7. "Cold Embrace" – a song about facing rejection and betrayal
-				8. "Alone Again" – a song about finding companionship and solace in loneliness
-				9. "Silent Voices" – a song about searching for meaning and understanding in a complex world
-				10. "The Sea of Uncertainty" – a song about the journey of self-discovery and exploration
+			songs {
+				"gala" (luxurious, expectant, festive, exciting, gala, feel-good, rap song) {
+					1. "Light the Fire" - an ode to the power of creativity, music, and friendship, talking about how uniting in these pursuits can cause a spark of something special. 
+					2. "Heart and Soul" - a celebration of finding genuine happiness and joy, expressing the need to drop insecurities and be free to only forge ahead with an optimistic spirit. 
+					3. "Cheers and Beers" - a fun, upbeat rap about good times and partying, reminiscing on the intense and vibrant memories. 
+					4. "Shine On" - a rap about getting back up after you fall and pushing through hardship, taking strength from the painful experiences and finding the courage to move on. 
+					5. "Celebrate Now" - an anthem of seizing the moment and living life to the fullest, encouraging people to find peace and joy in the present.
+				}
+				"skyscrapers" (traditional, orchestral, festive, wistful, sad, rap song) {
+					1. "Fading Memoirs": A rap about the pain of remembering the past, but the importance of never giving up. 
+					2. "Lingerin' Aches": A rap about the sorrow and hurt from the pains of loss, but finding joy and strength to continue. 
+					3. "Lonely Goals": A rap about reflecting on past mistakes and looking toward the future with optimism and hope. 
+					4. "Grieving Heart": A rap about struggling to let go of the past, and searching for a better tomorrow. 
+					5. "Cold November": A rap about facing depression and sadness, but finding solace in music. 
+					6. "Ode to Autumn": A rap about looking into the beauty of fall and finding inner peace. 
+					7. "Fight the Good Fight": A rap about fighting to make positive changes and stay strong despite obstacles along the way. 
+					8. "Tides of Voices": A rap about pushing through the pain and choosing to keep living despite sadness. 
+					9. "Frosty Dawn": A rap about keeping hope alive in the face of a cold winter morning. 
+					10. "Fading Melody": A rap about transitioning into the future, and finding inner strength in the beauty of life's symphony.
+				}
+				"reverb" (fast-paced, happy, exciting, sometimes sad, story-like, expectant, brooding, rap song) {
+					1. Dragons vs Snakes: a story of overcoming your fears and obstacles in life and discovering your true potential. The protagonist is battling the snakes of doubt and fear in their lives and eventually emerging triumphant after facing the dragons of anxiety, fear, and despair. 
+					2. Complicated Web: a song about the complications that life can bring and how difficult it can be to find a way out. It is about fighting personal demons and trying to untangle the web of life you are in. 
+					3. The Journey: this song is about the journey we take in life and how sometimes it is not easy, but it is worth it in the end. It is about never giving up, staying appreciative, and staying strong and resilient. 
+					4. Rising Into Battle: a song about facing your personal struggles head on and never giving up. It is about embracing the fight and having the courage to defy your struggles and push through any adversity. 
+					5. Bold and Brave: this song is about staying courageous and never giving up, no matter how hard the struggle is. It is about facing your fears and moving forward in life, no matter what consequences.
+				}
+				"the one who forgot" {
+					elämäntulta
+				}
+				"summer 2013 cool blue" (mid-tempo, relaxed, sunny, intense, holiday-like, cosmic, sunny, pop song) {
+					1. "The Stars Align" - this song is about the feeling of hope and optimism when everything in life seems to be working out according to plan.
+					2. "Light of the Moon" - this song is about falling in love and the moonlight illuminating the night sky.
+					3. "Dancing in the Wind" - this song is about the joy of letting go and letting yourself be carried away in the moment.
+					4. "Rise Above It All" - this song is about overcoming obstacles and looking at the world from a higher point of view.
+					5. "Take Flight" - this song is about leaving all of your troubles behind and embracing a new beginning.
+					6. "Soar High" - this song is about feeling empowered to reach new heights and explore new possibilities.
+					7. "Riding the Waves" - this song is about going with the flow and embracing life's uncertainty.
+					8. "Laughter in the Sun" - this song is about finding joy and contentment in the present moment.
+					9. "Reach for the Sky" - this song is about believing in yourself and striving to reach your goals.
+					10. "Glitter of the Sky" - this song is about the beauty of looking up at a starry sky and being filled with awe.
+				}
+				"stadion pop" (sporty, nostalgic, missing out, watching, reminiscing, happy, rap-pop song) {
+					1. “Summer Days” : The song explores a summer day with friends where they’re out and enjoying the season but at the same time feeling nostalgic for what could’ve been. It’s a perfect song for someone who’s feeling a bit down about missing out on summer fun with their friends. The chorus conveys the idea of watching friends having fun while they reminisce about the past. The song is happy and upbeat with rap-pop vibes. 
+					2. “Memories” : This rap-pop song looks at the idea of reminiscing and cherishing memories both good and bad. It conveys a sense of nostalgia with catchy and uplifting beats. The lyrics explore missed opportunities and wondering what could have been, but also looking at the silver lining of the situations. The chorus is a singalong, catchy, feel-good moment exhorting listeners to make the most out of the current moment.
+				}
+				"missing you" (a sad, emotional, touching, mid-tempo, rock-rap song focused on longing and longing) {
+					1. "Longing for Me" - This song is about the intense longing for someone one loves, who has slipped out of reach. It deals with the emotions of wanting to have that person in one's life, and wishing they could find the way back.
+					2. "In the Dark" - This track focuses on the feelings of not knowing what to do when feeling lonely and trapped. It expresses longing for someone to take you out of your darkness and help you find your strength.
+					3. "Holding On" - This song is about the hope that things can turn around, even when hope seems lost. It is an emotional song about the desire to hold on and keep pushing even in the face of adversity.
+					4. "Crying Out" - This song is about the frustration and sadness of not feeling heard or understood. It is about the longing for someone to care enough to pay attention and listen, and to make the effort to reach out.
+					5. "Take Me Away" - This track is about the desire to escape the current reality and find a place of peace and quiet. It speaks about longing for something better and wanting to be in a place where one can forget about the struggles of life.
+				}
+				"paula" (a song focusing on a woman named Paula, a minor key, exciting, catchy, worried sounding, interesting, rap-pop song) {
+					1. "Paula's Story": This song tells the story of a young woman named Paula, and her struggles with mental health issues, feelings of loneliness and uncertainty as she goes through life. It talks about the struggles she faced, how she overcame them, and the new life she found in the end. 
+					2. "The Journey": This song is a reflection on Paula's journey, and all of the hardships and pain she experienced while growing and learning. It talks about the moments when she was ready to give up, and the strength she found to keep going. 
+					3. "Reaching Out": This song is about the moment when Paula finally reaches out and asks for help. It talks about the relief and joy felt when she finally finds the courage to do so, and the newfound freedom and power she finds in getting help. 
+					4. "Support": This song talks about the amazing support and strength that comes from having real and meaningful relationships with people who care about her. It also talks about the comfort and protection that comes from having those people around her. 
+					5. "Possibilities": This is a song about the possibilities that are available to Paula now that she has reached out and gotten help. It talks about the light at the end of the tunnel and the possibility of a brighter future. 
+					6. "My Future": This song is an expression of pride and confidence of a woman who has been through the darkness and hardship but come out stronger and more determined than ever. It talks about her new found strength and optimism for the future.
+				}
+				"kickflip", "roadtrip" (positive, summery, sunny, going, fast, punk-rap song) {
+					1. "Sunshine": a song about welcoming the summer and taking advantage of life's chance opportunities. The song speaks about seizing the day and the good vibes the summer brings.
+					2. "Runnin'": a song about taking an exciting new journey, whether a physical or a mental one. It speaks about leaving all the negative thoughts behind and embracing the possibilities that life can bring.
+					3. "On My Own": a song about being independent and making your own decisions. This song looks at how strong and powerful we can be, despite being alone in a big world.
+					4. "Revolution": a song about rising up and challenging the status quo. This song talks about being a leader and inspiring others to make positive changes in their lives.
+					5. "Live for Today": a song about living in the moment and being present in your life. This song encourages us to take a step back and look at what matters most.
+					6. "No Regrets": a song about accepting and forgiving past experiences, and learning from them. It speaks about moving forward and achieving our goals without any guilt.
+				}
+				"sad little furry ball" (worried pop song)
 			}
 		}
 	}
@@ -905,8 +1020,9 @@ unpublished period (2010 summer - 2023 summer) {
 			}
 		}
 	}
-	album #17 (when: year 2023) {
+	album #17 (artist: Uni-iq (Emma, she/her), when: year 2023) {
 		explanation {
+			I co-write and produce an album for my friend, Emma
 			health {
 				I got good pain medication finally
 			}
@@ -982,7 +1098,7 @@ subject {;name: Seppo Pakonen;born: 1989;place: Oulu, Finland;timeline: high sch
 
 
 
-list of song ideas and explanations for album #8 song, which is mid-tempo, shuffle in tempo, energetic, exciting, really touching and catchy, slightly sad, rhythmic, rap song: 
+list of song ideas and explanations for a song in the album #8, which is mid-tempo, shuffle in tempo, energetic, exciting, really touching and catchy, slightly sad, rhythmic, rap song: 
 
 
 
