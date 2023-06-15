@@ -309,6 +309,7 @@ unpublished period (2010 summer - 2023 summer) {
 				"sailing" ( medium-tempo waltz, carefree, reminiscent of summer days at the beach, occasionally sad, with a happy chorus ): "Rising Sun" -  A song about the hope of a new dawn, and the new beginning that it brings. 
 				"sexy" ( medium tempo, happy, carefree, reminiscent of summer days, dance song ): "Lazy Summer" - A song about taking a break from the hustle and bustle of life and just enjoying a lazy summer day.
 				"blow my whistle" ( a mid-tempo, exciting or sad, reggae-like song ): "Rebuilding The Wall": A song about picking yourself up and trying to believe in yourself again after being hurt.
+				extra "heartbeat"
 			}
 			lyrics only {
 				"The Unspoken" - a song about unspoken love, and the fear of speaking up
@@ -321,6 +322,7 @@ unpublished period (2010 summer - 2023 summer) {
 				"Rising Sun" -  A song about the hope of a new dawn, and the new beginning that it brings. 
 				"Lazy Summer" - A song about taking a break from the hustle and bustle of life and just enjoying a lazy summer day.
 				"Rebuilding The Wall": A song about picking yourself up and trying to believe in yourself again after being hurt.
+				extra "heartbeat"
 			}
 		}
 	}
@@ -373,38 +375,108 @@ unpublished period (2010 summer - 2023 summer) {
 				Staying Calm Amidst the Chaos
 				Survival of the Fittest
 			}
-			song ideas {
-				1. "Holding On" –  a song about struggling to stay positive and keep going despite challenges.
-				2. "Shattered Dreams" – a song about the reality of not achieving what you set out to do.
-				3. "Take the Pain Away" – a song about finding solace in music and seeking comfort from pain.
-				4. "Free from Chains" – a song about the difficulty of letting go of the past.
-				5. "The Lights of Home" – a song about returning to a place of safety and security.
-				6. "Redemption" – a song about the power of inner strength and courage to push through hard times.
-				7. "The Lesson of the Storm" – a song about learning from life's hard lessons.
-				8. "Lifting the Weights" – a song about getting back up after going through tough times.
-				9. "Rising from the Ashes" – a song about recovery from pain and finding hope in the future.
-				10. "The Unseen Hand" – a song about relying on an unknown higher power for guidance.
-			}
 			songs {
-				"island hideout - a" (mid-tempo, upbeat, high-flying, complex melody, builds emotion into the chorus) {
-					1. "Fly High” - This song is about finding comfort and strength in hard times and feeling like you can overcome your problems by rising above them.
-					2. “Chains of Life” - This song is about the ups and downs of life and how they create an endless cycle of disappointment and hope.
-					3. “Rise Up” - This song is about finding the inner strength within yourself to overcome all odds and come out stronger on the other end.
-					4. “Run Away” - This song is a plea to run away from oppressive situations and negative influences that prevent you from reaching your potential.
-					5. “Not Alone” - This song is about never giving up and knowing that you are never alone, no matter how dark and lonely life may seem.
-					6. “See the Light” - This song is about finding hope and seeing the light at the end of the tunnel, despite how hard life may get.
-					7. “Defy the Odds” - This song is about rising above and going after what you want despite the odds that are stacked against you.
-					8. “Life is Short” - This song is about the importance of living life to the fullest and not letting anything stand in your way.
+				"dot fi" (a slightly slower rap song, which is sometimes twisted and sometimes sadly touching, which combines old-fashioned instruments and a new kind of synth music, the mood of the song goes from anxiety to sadness) {
+					1. Anxiety - Anxiety is a feeling of unease or dread, often without the cause. This song will deal with the everyday worries about the future that everyone can feel, but due to the hopeful instrumental it will also be interpreted as the feeling of hope trapped in despair.
+					2. Lost - This song is about the feeling of being lost in life and not knowing which direction to take. The instrumental aims to capture a feeling of sadness and loneliness, sometimes turning to happy tone when feeling close to a solution.
+					3. Fallout - This is a song about the fallout of a relationship and the struggles to cope with all the pain and sorrow. The instrumental combines melancholic guitar riffs and hip-hop elements to give the song a unique edge.
+					4. Broken - Broken is a song about the feeling of being broken and broken-hearted. The instrumental combines soft melodies and hip-hop elements to give the song a feeling of intensity and sorrow.
+					5. Memories - Memories is a song about looking back at fond memories and trying to hold onto them. The instrumental combines soft piano pieces and hip-hop elements to give the song a small sense of comfort.
+					6. Oblivion - Oblivion is a song about the feeling of being forgotten and left in the dark. The instrumental combines synth elements and a steady beat to capture the feeling of loneliness and dread.
+					7. Graveyard - Graveyard is a song about lost love and the feeling of despair that comes when someone is gone forever. The instrumental combines atmospherical soundscapes and melancholic guitar riffs to capture the dark feeling of the song.
 				}
-				"lucky strike" (fast paced, energetic, slightly aggressive, high flying, simple tune, catchy) {
-					1. "Lost in Air" - The song tells the story of a person who's been in military and how they've lost their way in the chaotic world after leaving it. The lyrics tell a story of protection, hope, and courage in the face of fear and danger. 
-					2. "Fight for Freedom" - A song about the fight for freedom and justice. With a mix of heavy riffs and upbeat rhythms, the song captures the intensity of the struggle for freedom and the will of those fighting for it. 
-					3. "Rise Above" - A song about the will to rise above and defy the obstacles in life. It speaks ofstrength, courage, and resilience to keep going and to never give up.
-					4. "Living Fearless" - A song about living life with no fear and taking risks. It speaks of taking on challenges, pushing boundaries and taking the lead. 
-					5. "Power in Your Voice" - A song about standing up and using your voice for good. It's a call for people to find their voice, speak up, and make a difference. 
-					6. "Rise to the Top" - A song about striving to be the best at something. It speaks of determination, and the need to believe in yourself to reach for the stars. 
-					7. "Make our Way" - A song about believing in yourself and believing in each other, working together for a common goal. It's a song about unity, and how together we can make our way.
+				"gutter" (a slightly slower ethereal rap song with complex jazz chords, rhythmic) {
+					1. "Fugitive": The song talks about about grappling with the pain of a past mistake - one you can never truly escape - and the freedom to come to terms and move on that comes from accepting that mistake.
+					2. "Black and White": This song talks about the difficulty of choosing between two paths, without knowing the consequences that come with each.
+					3. "The Journey": This song talks about how life itself is a journey filled with hard decisions and choices, but how you can always find a light at the end of the tunnel.
+					4. "Thorns of Roses": This song talks about the beauty and difficulty of relationships and how even when things seem perfect, there are usually struggles on the inside.
+					5. "The Dreamer":This song talks about the importance of never giving up on yourself and your dreams, even when it feels like no one is listening.
+					6. "Reflection": This song is about taking time to reflect on where you are in life, where you have been, and where you want to go.
 				}
+				"india" (a slightly faster rap song with relaxed and warm tones, happy chorus, full of sunshine, African warmth) {
+					1. “African Sunrise” : The song is about the joy of a new day and a new start, where the African sun brings warmth and peace to the listener’s life.
+					2. “A New Day” : The song is about how a new day is a chance to set a new and brighter path and to focus on living your dreams and taking on life.
+					3. “The Best Is Yet to Come” : The song is about keeping hope alive and looking forward to the future. It encourages the listener to have faith and to keep pushing through even in tough times. 
+					4. “Rise Above It” : The song is about keeping your head high and dealing with life’s challenges without letting them bring you down. It encourages the listener to have courage and strength, and to look for a better tomorrow. 
+					5. “Brave the Storm” : The song is about having courage and stepping up in difficult times. It encourages the listener to keep fighting the storms, no matter how hard they may seem, and to stay brave in the face of adversity. 
+					6. “Unstoppable”: The song is about having the strength to never give up and to keep pushing through even in the toughest moments. It encourages the listener to stay motivated and to always believe in themselves.
+				}
+				"twisted xmas 2012" (a mid-tempo Christmas themed dance song with a twisted sound featuring a newlywed couple with the man humorously objecting to being together at Christmas and the woman wanting to be with him) {
+					1. “Lost in Christmas” – This song tells the story of a couple that both have been wounded in love and don't know how to deal with it. The man resists being together at Christmas, and the woman is angry and wants to be with him.
+					2. “For Better or for Worse” – A slow, melancholic love ballad, this song captures the emotions of the newlywed couple as they confront their differences, realizing they can only make it work “for better or for worse”.
+					3. “Second Chance at Christmas” – A song of hope and redemption, this bop about a couple taking a leap of faith and giving each other a second chance.
+					4. “Crazy Love” – This is an uptempo rocker where the couple realizes that the love between them is worth fighting for and celebrates it with reckless abandon.
+					5. “Christmas Without You” – This song provides a deep dive into the man's inner struggles, as he contemplates what a future without the woman by his side might look like. 
+					6. “Light in the Dark” – A hopeful and uplifting anthem about finding joy and acceptance in the darkest moments. A ray of light for both the couple and the listener.
+				}
+				"with you" (a artistic fanstical mid-tempo happy and upbeat pop-rap song) {
+					1. "Joyride" - This song tells the story of someone who is just starting out in life and going on a joyride with all of the possibilities that come with it. 
+					2. "Free and Clear" - A upbeat track about wholeheartedly taking risks without any doubts in order to chase after your dreams and goals.
+					3. "Runaway" - A mid-tempo track about running away from your troubles and overcoming fear with a sense of hope and adventure.
+					4. "Rise Up" - A passionate and powerful song about pushing forward and rising up, no matter how many times one has been knocked down.
+					5. "On the Road Again" - This song tells the story of how no matter how far you go in life you always come back home and start the journey again. 
+					6. "The Journey" - An emotional track about all the ups and downs, and all of the emotion and energy of a great journey.
+					7. "Let's Fly Away" - A high energy pop-rap track about wishing everyone could take off and live life to the fullest. 
+					8. "Sky's the Limit" - A song about the power of positivity and believing in oneself to achieve dreams that seem impossible. 
+					9. "We're Unstoppable" - A motivational track about persisting despite all obstacles and never giving up on your passions and dreams.
+				}
+				"island hideout" (slow, adventurous, story-like, ethereal, comforting, rising in mood to a happy chorus) {
+					1. "To The Stars" - A story about a journey of self-discovery and hope despite the obstacles faced. A reminder that despite the hardships, we can still reach for our dreams and be brave enough to take the risk.
+					2. "The Age Of The Phoenix" - A song about the journey of turning a difficult situation into something beautiful and unexpected. About the power of courage and embracing change despite the fear.
+					3. "Stories Yet Unsung" - A song about overcoming tragedy and pain, and finding strength, solace and hope in telling your story.
+					4. "The Brave Ones" - A song about standing up and being the voice of the underdogs, of the overlooked and forgotten ones. A tribute to those who risk it all to make a statement and a difference.
+					5. "Carry On" - A song about finding strength and courage to keep going despite the obstacles and difficulties. A reminder to ourselves and others that together we can get through it no matter how hard it may seem.
+					6. "Growth and Renewal" - A song about the beauty and power of resilience. How we can reflect and learn from our mistakes, and transform our dark times into something inspiring.
+					7. "The Journey Within" - A song about taking a moment to reflect on our innermost thoughts, and understanding that the answers lie within us. About finding clarity and peace through inner exploration.
+					8. "Insightful Dreams" - A song about the power of the subconscious and the wisdom we can gain from our dreams. Reflecting on our dreams and the messages hidden within them.
+					9. "Strength Through Adversity" - A song about overcoming struggles and emerging stronger. About understanding that in order to rise, we must first fall and explore the depths of our emotions and experiences.
+				}
+				"lucky strike" (fast paced, energetic, slightly aggressive, sarcastic, high flying, simple tune, catchy, party rap-song) {
+					1. "Party's over": This song expresses the frustrations of someone who's been living the high life but is now stuck in a mundane life. This person is feeling burned out and fed up with their situation. 
+					2. "Not my Problem": This song is about not letting other people's opinions or decisions affect you. It's about ignoring the drama and focusing on being your own person, without letting anyone pull you down. 
+					3. "Take Life Back": This song is about taking control of your life, and not letting anyone or anything stand in the way of your dreams and goals. It's about making your own choices and living life on your own terms, despite what other people think. 
+					4. "Stand Up": This song is about standing up for yourself and believing in who you are, even when people try to bring you down. It's about not giving into pressure and having the courage to be yourself and follow your own path. 
+					5. "Be the Change": This song encourages the listener to make a change in their life and not be afraid of the challenges and obstacles that may come along the way. It talks about having the courage to take risks and embrace the unknown. 
+					6. "Rise Up": This song is about pushing yourself to reach new heights and believing in yourself when doubt and fear try to pull you down. It encourages the listener to believe in themselves and have the courage to take risks and reach their goals. 
+					7. "Fly High": This song is about embracing freedom and taking life into your own hands. It encourages the listener to take on life's challenges and reach new heights. It's about having the courage to be yourself and go for your dreams.
+					8. "Do It Again": This song is about having the courage to try something new and challenging, and being ready to face any obstacles. It encourages the listener to rise up and do it again, despite the fear of failure.
+				}
+				"the day you're mine" (slightly slower dance track, synthwave, exciting, determined, beautiful, wistful) {
+					1. "Tonight": The singer talks about his need to get laid tonight and how much he wants to escape the reality. He's dreaming of his perfect girl to come and rescue him from his lonely world and take him away to the places he's been dreaming of.
+					2. "Reach Out": The singer needs someone to reach out and take him away from his lonely world. He doesn't know who to turn to and his desperation is getting worse. He hopes that one day someone will come and take him away and change his life forever.
+					3. "Take Me Away": The singer is asking somebody to take him away from his dark and empty world. He's desperate for love and attention and he desperately needs somebody to love him and to take away all his pain.
+					4. "I Dream of You": The singer dreams of the perfect girl every night and he's desperate to meet her. He's looking for someone who will be his rock and take him away from his constant darkness.
+					5. "Release Me": The singer is desperate to be released from the darkness and loneliness he is stuck in. He wants to find someone who will show him what true love and happiness can be. He wants to be free from all the pain and sorrows that keep him stuck in his dark world.
+					6. "You Set Me Free": The singer finally finds his freedom and peace when he meets his perfect girl. He's relieved to finally find somebody who can take him away from his darkness and give him a new life.
+				}
+				"city street" (a slightly faster casual, sad, urban, rap song) {
+					1. "Broken Chains" - This song is about all the people I met growing up in my hometown Oulu, and how we struggled together against the pain and suffering of society. The sad reality of being trapped in our hometown and the hard bond we developed over shared experiences. 
+					2. "Crying Alone" - This song is about how I felt when I had to leave home due to legal issues. I was crying alone, and the world seemed cold and grey, but I knew that I needed to keep fighting and that my hometown would always be a part of me. 
+					3. "Lost Friends" - This song is about all the friends I lost while trying to stay out of trouble. We had laughs and some tears, but all too soon they were gone and I was left to deal with my loneliness. 
+					4. "Lost in the Fog" - This song is about my life when I was studying at university and was still dealing with all my issues from the past. Trying to navigate life was foggy and confusing—like I was lost in a dense cloud.
+					5. "Forward April" - This is a song about the hope I found on the other side of my struggles. It's about the determination to move forward and make new memories—it's my tribute to April, the month of my transformation.
+				}
+				"unspoken" (a slow, sarcastic, epic, rap-funk-metal song, with an ecstatic chorus) {
+					1. "Emptied Skies" - This song is a sad reflection on how depression has drained the skies of hope and optimism. It talks about the need for hope and courage, with a chorus that celebrates the idea that the skies may be empty, but that the spirits of the strong remain.
+					2. "Fool's Paradise" - This song is about people who are living in a false sense of security, a state of delusion, without any awareness of the real world. The chorus is a message to those who are living in a fool’s paradise to recognize the truth and to start seeing the world as it really is.
+					3. "War of the Voices" - This song is about the constant struggle to be heard amidst all of the outside noise. It's a battle of the voices within our heads vs. the voices being pushed on us from the outside. It encourages people to stand up for themselves and to fight for their own inner truth.
+					4. "Explosive Love" - This is an intense love song about a relationship that is both passionate and tumultuous. The song encapsulates the thrill of being with one’s soul mate, while struggling to navigate the struggles within a passionate relationship. 
+					5. "Drowning in the Crowd" - This song is a reflection on how people can sometimes feel lost and overwhelmed in a crowd. It talks about how it can be difficult to stand apart and express one’s true self, while feeling like an insignificant speck among a teeming mass of people. 
+					6. "Escape into Solitude" - This song is an ironic anthem for those seeking refuge in the peace of self-isolation. It praises the need for retreating to the comfort of one’s inner world and embracing the silence within. 
+					7. "Rise from the Ashes" - Inspired by the Phoenix, this song is a message of resilience. It celebrates the idea that no matter how bad things can get, we can always find a way to pick ourselves up and rise again.
+				}
+			}
+			best combination ( album title: On the Run ) {
+				"dot fi": Anxiety - Anxiety is a feeling of unease or dread, often without the cause. This song will deal with the everyday worries about the future that everyone can feel, but due to the hopeful instrumental it will also be interpreted as the feeling of hope trapped in despair.
+				"gutter": "Fugitive": The song talks about about grappling with the pain of a past mistake - one you can never truly escape - and the freedom to come to terms and move on that comes from accepting that mistake.
+				"india": “The Best Is Yet to Come” : The song is about keeping hope alive and looking forward to the future. It encourages the listener to have faith and to keep pushing through even in tough times. 
+				"twisted xmas 2012": “Lost in Christmas” – This song tells the story of a couple that both have been wounded in love and don't know how to deal with it. The man resists being together at Christmas, and the woman is angry and wants to be with him.
+				"with you": "Free and Clear" - A upbeat track about wholeheartedly taking risks without any doubts in order to chase after your dreams and goals.
+				"island hideout": "To The Stars" - A story about a journey of self-discovery and hope despite the obstacles faced. A reminder that despite the hardships, we can still reach for our dreams and be brave enough to take the risk.
+				"lucky strike": "Party's over": This song expresses the frustrations of someone who's been living the high life but is now stuck in a mundane life. This person is feeling burned out and fed up with their situation. 
+				"the day you're mine": "Tonight": The singer talks about his need to get laid tonight and how much he wants to escape the reality. He's dreaming of his perfect girl to come and rescue him from his lonely world and take him away to the places he's been dreaming of.
+				"city street": "Broken Chains" - This song is about all the people I met growing up in my hometown Oulu, and how we struggled together against the pain and suffering of society. The sad reality of being trapped in our hometown and the hard bond we developed over shared experiences. 
+				"unspoken": "Fool's Paradise" - This song is about people who are living in a false sense of security, a state of delusion, without any awareness of the real world. The chorus is a message to those who are living in a fool’s paradise to recognize the truth and to start seeing the world as it really is.
 			}
 		}
 	}
