@@ -1179,7 +1179,7 @@ unpublished period (2010 summer - 2023 summer) {
 					4. "How Far You've Come" - This song is about reflecting on the journey and progress you have made throughout different stages in life. It is a testament to the strength you have and how far you have come, even when it felt like it was impossible to do so.
 					5. "The End of The Day" - This song is about how the day ends but the journey does not. It's a reminder of how we'll get through each day, no matter what, because the journey will always have moments of hope, strength, happiness, and joy.
 					 6. "Never Give Up" - This song is about persevering and never giving up despite all odds. It encourages you to keep striving and pushing forward no matter how hard the world and life can get.
-				}
+				}	
 				"freeform" (a half-tempo, comforting, positive, major-harmonic, loving, rock-rap song) {
 					1. "Feels Like Home": This song is about growing up, overcoming obstacles, and coming back to the familiar places with more understanding and appreciation for the journey. This is a song to help reassure others that they are not alone and provide hope for a better tomorrow.
 					2. "Dream Big": This song is about aspiring to greater heights and chasing after one's dreams. The lyrics are uplifting and encouraging with a catchy sing-a-long chorus.
@@ -1310,6 +1310,25 @@ unpublished period (2010 summer - 2023 summer) {
 					9. "Code of Silence" - Seppo keeps his struggles and stories hidden under a mask of silence, until he can find the courage to speak his truth. 
 					10. "No Going Back" - Seppo has made the decision to take control of his life and never look back, and this track has an uplifting feeling that encourages the listener to never give up.
 				}
+			}
+			best combination ( album title: Rediscovering Music ) {
+				"a jump - a": "Beautiful Chaos": This is a chaotic dreamy track about creating something beautiful out of chaotic feelings especially when overcoming doubts and fears. 
+				"cute song - d": "Fly Away" - a song about the excitement of traveling and exploring the world together in search of adventure and having fun.
+				"FFCGAA": "Life Goes On" - This song is about accepting change and growing as your path leads you to different places. It talks about going on despite the challenges that come in life, and never giving up hope.
+				"freeform": "Feels Like Home": This song is about growing up, overcoming obstacles, and coming back to the familiar places with more understanding and appreciation for the journey. This is a song to help reassure others that they are not alone and provide hope for a better tomorrow.
+				"hot part 2": "Forget The Rules" - A song about having the courage to break away from established norms and conventions in order to achieve something truly great.
+				"ironic": "Broken Soul" - This song speaks about the internal battle Seppo faced as he tried to break free from the mental and emotional restraints caused by his traumatic experiences. It focuses on his grief, fear, and courage to keep going.
+				"lightweight": "Rockin' in the City": This song is about going out and having a great time with friends in the city. It is about the joy of being together and just having a good time.
+				"proud case of harm": "Be Yourself" - A song about overcoming inner struggle and negativity and having courage to be true to oneself. 
+				"retard in chief": "Connected" — A song about the bond between the artist and their audience, and how the artist is lifted up by the support of the people around them.
+				"sorry but no": "Prison of Emotions" - a song about being stuck in a cycle of negative and destructive emotions and the struggle to break free.
+				"technocracy firewall": "Crying on the Dance Floor": A song exploring the pain and loneliness of wanting to be loved, while feeling trapped in a world of hurt and sorrow. The song can express the feeling of wanting freedom yet feeling trapped in the same old cycle of unbearable pain.
+				"thinker 2020": "Peace and Rockin'" - A song about unity and love, and how music can bring people together no matter where they are from or what language they speak.
+				"twisted christmas": "Ghosts of December's Past" - This is a sadder, somber song about memories of the past and a time long gone. It's about feeling nostalgic and wishing you could go back in time. It's about cherishing the memories, but also accepting the truth that you can never go back and that the person you used to be is gone forever. 
+				"hot - part 1": "Turn It Up": This is a song about never giving up and pushing through tough times. No matter what troubles are thrown at you, never give up. Turn the music up, and work through it with focus.
+				"corpse identity": "Dance in the Dark" - This song is about life and death and how no one can stop the inevitable. It speaks of how death will come one day and that no amount of dancing or partying can make it go away.
+				"summer 2020": "Light Up The Sky": This song will be about being daring and bold in order to create a brighter future. It should have an uplifting and positive feeling. 
+				"sweaty hello": As the Music Plays" - A love story about Seppo's search for someone to share his journey with him, with a dreamy vibe that speaks of his passionate character. 
 			}
 		}
 	}
@@ -1730,6 +1749,54 @@ unpublished period (2010 summer - 2023 summer) {
 					9. "The Best of Me" - A song about not giving up on yourself and believing you always have the ability to be the best version of you.
 				}
 			}
+	best combination 1 ( album title: Soulful Strumming ) {
+		cd 1 {
+			"bargain": "Gettin' It Done": This song is about taking action and making things happen. It's an energetic and motivational anthem for all people who are hustling and pushing through to achieve their goals. 
+			"clinton ave": "Rebel and Dream" - An up-tempo, energizing and upbeat song about challenging the status quo and going against the grain to build a better future. Encourages people to dream big and take risks.
+			"cycles": "True Love": The song talks about the journey of reaching true love. It talks about believing in yourself and having faith in the power of love while being surrounded by critics and cynics who tell you that it is impossible. It celebrates the importance of being able to trust yourself and others again. 
+			"die lederhosen": "Friday Night Fever" --A danceable catchy song about the weekend high of partying, living life to the fullest, and finding a romantic connection with someone special. 
+			"dreaming of you": "Time is Precious" - The song is about how time passes so quickly and how it is important to enjoy life and take risks to create the best possible life. It talks about overcoming fear and facing the unknown. 
+			"funk21": "Grizzly Bear" - a song which talks about taking risks and embracing a sense of adventure. The song could explore themes such as facing your fears, jumping off of a cliff due to peer pressure, facing life's unknowns, and ultimately coming out on top.
+			"funky geek": "Reflections" - This song is about reflecting on the moments and people that shaped us over the years and how each experience has helped us grow.
+			"gin": "Beers and Cheers" – This song is about getting together with friends, releasing stress, and having fun, in the midst of all the troubles and hardships that life throws our way. 
+			"golf": "Reunite"- A song about reuniting with your old friends and realizing that the time spent apart has made each of you a better person.
+			"green haze": "Loving You Away": A love song about letting go and allowing the one you love take their journey. It speaks of dedication and the desire to always have a connection despite the distance. 
+			"hardbass": "Can't Stop Me": A song about pushing through despite any opposition and refusing to be deterred.
+		}
+		cd 2 {
+			"i love you": "Please Don't Go" - This could be a reminder to always stay close and never give up on someone close to you.
+			"loco": "In Good Company" - a song about the comfort of knowing that you are not alone and that there are friends you can rely on that will help you pick yourself up and will be with you through thick and thin.
+			"medical drama": "Fallen Tears": This is a slow and haunting ballad about the pain of loving and losing. It captures the despair of having to let go of someone who was once so close.
+			"morning in the forest": "Wild Wild Wood" - The song is about the beautiful and wild forests of the world and the freedom and beauty found there.
+			"snowy winter and candles": "Ice and Snow": A slow-tempo traditional song that captures the feeling of a cold winter and tells a story of the uniqueness of family. The chorus is a poetic reflection on the beauty of nature. 
+			"summer 2021": "Beautiful Girl" - a song about appreciation for my beautiful and intelligent love, the one I can't express my feelings to. The lyrical content is about wanting to show the world how much I care for her, how much I appreciate her and how beautiful she is in my eyes. 
+			"by your side": "Loving Kinky" - A song about finding an entertaining way to explore one's inner desires and intimate connection with another person. 
+			"cutie from future": "Grow": This is a song about growth and self-improvement. Seppo talks about the importance of learning from the mistakes we make and how the experience can help us become better people. He reflects on how he has grown emotionally due to the support of his friends. It's an upbeat, empowering track that celebrates the journey of personal development.
+			"desperado": "This is War" - A song depicting the battles and struggles of life, with an understanding of the power of resilience and grit to overcome all obstacles .
+			"don't worry honey": "We'll Be Fine": A tune that speaks of embracing the uncertainty of life and knowing that we will make it through the difficult times.
+			"jinn": "Kiiminki": This song is an ode to my hometown Kiiminki. It pays homage to the people I grew up with and the memories we shared together. 
+			"political juggler": "Seeds of Revolution" – the song starts with an intense intro which features a throbbing and heavy beat that changes phrasing and tempo multiple times. The track develops as a combination of a delicate piano outro interrupted by a chorus full of rap verses which urge the listener to stand up and fight for a better future. It creates a sense of urgency and strength.
+			"professional pride": "Call it Fate" : This song is about the twists and turns life takes and gives us, and how destiny gives us clues and signals if we only recognize it. It talks about the uncertainty and faith it takes to decide our own paths and stay true to ourselves. It has an upbeat tone full of energy with rhythmic beats and uplifting vocals. 
+			"thanks everyone": "Too Late Now" A song about how it's already too late for me to make up for any mistakes that I've made, and I'm just trying to live a happier life forget about the past
+		}
+		cd 3 {
+			"too much pain": "Painful Price" - This song is about the price of a lifetime of painful mistakes and obstacles. It is a reflection of the damage caused by my experiences, showing that there was a price to pay for my lack of courage and judgment.
+			"you don't need to": "Fast and Furious": this song will be about the ultimate chase for life and the journey that follows. It will touch topics like ambition, focus, determination, and courage.
+			"always on my mind": "Midnight Cowboy": A song about being stuck in a place, trying to get out but unsure as to if you can make it. It speaks of determination to make it out and tries to find the motivation to keep going.
+			"date night": "A Page Out of Time" - A song that reflects on the page Seppo's life is on, and how it's time to turn it over and start over, and time for him to make better choices.
+			"dream job": "Letting Go": This song is about dealing with a breakup and needing to move on with life. It talks about the pain of trying to accept that the relationship is over and struggling to let go of the past.
+			"elegant": "Dying Mind"- This song focuses on the inner struggle of a soldier having to experience the horrors of war. It looks at questions of morality and the depths of what a person can be capable of in extreme circumstances. It also dives into the dreams of the soldier and how their life could have been drastically different. 
+			"forever repeat": "Breaking Through": A motivational track about breaking through the barriers that hold us back and embracing new possibilities. It talks about the power of believing in yourself and using your determination and strength to push forward.
+			"keeping place safe for her": "Victim of Love": The song is about a partner who falls in love with someone who they know will never love them back. The song lyrics talk about how it can be painful and frustrating to be in such a situation, but despite that, there is still a hope that they might be able to find some kind of happiness even if it's just for a fleeting moment.
+			"party partyyy": "Celebrate Now": This song is about the importance of being thankful for the present and celebrating life in the here and now. 
+			"saturday show": "Kohtalon valitus" - This is a song about courage to fight against destiny to appreciate life. It tells the story of Seppo's journey from his hard time in military to his beginning of a new life as an music producer.
+			"sea shanty": "My Rising Tide": This song speaks to someone who is struggling through hard times, but is able to find the strength to push forward. The chorus is a metaphor for the person's struggle, likening it to a vast ocean that comes crashing down. The verses explore themes of love and resilience as the person pick themselves up and look towards a new horizon.
+			"tiptap": "Back To The Grind" - A modern hip-hop based song that combines hard-hitting drums, aggressive raps, and distorted electric guitars. Describes the daily stress and non-stop grind of hardworking young men in modern society.
+			"will you ever notice me": "Invisible Tears": This track is about feeling depleted and exhausted, and how it affects one's self-confidence, relationships, and overall life.
+			"wound": "Powerful" - A song about embracing your strength and potential, and believing in yourself to come out on top.
+		}
+	}
+}
 		}
 	}
 	album #16 (when: year 2022) {
