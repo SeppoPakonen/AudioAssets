@@ -590,6 +590,16 @@ unpublished period (2010 summer - 2023 summer) {
 					10. "Roads Leading Home" - a song about the journey of coming home from a long vacation or a trip to the countryside and how the roads leading home are always welcoming.
 				}
 			}
+			best combination (Troubles) {
+				"never meant to". Never Letting Go: This song is about the feeling of never wanting to let go of someone despite all the pain and sadness that may come with it. It is about clinging on to something that might break us, and the irrational hope that we may receive in return. It is about sticking through whatever comes our way, even if the outcome is uncertain. 
+				"sauna-lake": The Calm Before the Storm. Exploration of a peaceful moment, when nature and man are in harmony with each other
+				"time is running out": "Silent Voices" - A song about the underlying feelings of loneliness and desperation that can't be expressed through words.
+				"jungle soul": "Unleash the Beast" - This rap song is about unleashing the beast within and letting go of any fear or anger. It speaks of letting go of limits and instead, being the best version of yourself and letting your inner strength and ambition take over.
+				"around the world": "Hometown": A song about coming back to one's hometown after leaving for a while. It reflects the nostalgia of coming back to the places where they used to live. It also talks about the excitement of returning and the joy in seeing familiar faces once again. It's a positive, upbeat song that celebrates the friendship and warmth that can be found in a hometown.
+				"bicycling feeling": "Soul of the Journey": This song is about the beauty of life and how one must always remember to enjoy the journey and appreciate the little things. It is a cheerful and empowering song about being grateful for whatever life brings. It is also a song about how one must always keep an open heart and an open mind in order to make the most out of each day.
+				"summer 2012": "Peaceful Breeze" - a song about the appreciation of the peace and tranquility that comes with living in the countryside.
+			}
+
 		}
 	}
 	album #11 (name: dragons vs snakes, when: year 2013-2014) {
@@ -761,6 +771,93 @@ unpublished period (2010 summer - 2023 summer) {
 					4. "The Power of Dreams": A song about being driven by passions and dreams, regardless of how big the task is or how much one may doubt themselves. The synthwave elements and tension of the song represents the intensity of the journey, while the minor-key rap-dance rhythm emphasizes the effort and courage that it takes to pursue one’s dreams. 
 					5. "Fighting In the Dark": A song about never giving up, even in the face of the darkest of odds. The synthwave elements and tense atmosphere represents the strength of the protagonist to keep pushing forward, while the minor-key rap-dance rhythm emphasizes the courage and determination it takes to battle against the darkness.
 				}
+				"our chatroom" (interesting, special, positive, interesting, exciting, relaxing, rap-pop song) {
+					1. "Better Days" - this song would be about overcoming challenges and the fact that there will always be better days ahead if you stay focused and never give up. It would be a rap-pop mix and will have uplifting and melodic beats that will inspire positive thinking.
+					2. "Flossin'" - this song is about not caring about what others think and just enjoying life without worrying too much about judgment. It'll be an energetic mix of rap and pop that encourages people to step out of their comfort zone and be confident in their endeavours.
+					3. "Love In The Air" - this song is about the love of life and how beautiful life can be when we appreciate and take it all in. It will be a mellow mix of rap and pop with a soulful melody that will capture the listener's feelings.
+					4. "Stay on Top" - this song is about pushing yourself and striving to reach the top of your field and not giving up even in difficult times. It will have a powerful rap-pop mix to inspire listener to keep striving for their dreams.
+					5. "Against the Wall" - this song is about staying determined and never giving up even when faced with difficult obstacles. It will be a blend of rap and pop
+				}
+				"progress finally" (hopeful, sad and happy alternately, interesting, going, sunny, rap-pop song) {
+					1. "On My Way" : This song is about enthusiasm and passion. It has a smooth and profound sound that reflects hopefulness. It tells about Seppo having a good plan to get out of his current challenging situation in life, and how he is determined to get through it. The lyrics are strong and powerful and include themes such as staying focused, building self-confidence, and knowing that things will get better.
+					2. "Back To Basics" : This song is about accepting and appreciating the little things in life, which can sometimes be overlooked. It features a more laid-back sound, with a hint of funk and soul. The lyrics are about Seppo's journey back to simplicity and finding joy in the simple things. It is a celebration of life and how having simple goals and dreams can be just as satisfying as the large ones.
+					3. "Diamond Heart": This song is about finding resilience and strength in the face of adversity. It has a slower tempo and a more emotional sound to it. The lyrics are about Seppo's courage as he faces difficulties and how he is able to come out of it stronger and wiser. It is an anthem of hope and resilience that resonates with everyone who listens to it out.
+					4. "Can't Stop Dreaming": This song is about never giving up, no matter how tough things may get. It is a motivating and inspiring song that has an uplifting techno-pop sound. The lyrics are about Seppo pressing on and persevering, even when the odds are against him. It is a reminder that with determination and resilience, anything is possible.
+				}
+				"stronger" (wistful, sad, powerful, going, sure-feeling, rap-pop-ballad song) {
+					1. "The Way It Was Meant To Be": The song is about the feelings of powerlessness and uncertainty that can arise when facing complex life situations. It is about how all the seemingly small decisions, mixed with luck, are combined to form the course of our lives. Despite the sorrow and sadness of the situation, the song conveys hope that in the end, all will work out.
+					2. "Carry On": This is an upbeat, rap-pop song about understanding that life is not always fair or perfect and that we have to learn to let go of some of the disappointments. It is an emotional reminder to keep pushing forward no matter what life throws your way.
+					3. "Rising Up": This is a powerful, soulful rap song about persevering in the face of adversity and never giving up. It is an inspirational anthem about never losing sight of dreams and always being true to oneself.
+					4. "Hope": This song is a hopeful anthem of encouragement and strength in difficult moments. It is about trusting that even during our darkest moments, there is something inside us that will bring us back to the light. It is a reminder to find the courage to keep going and never give up.
+					5. "Never Give Up": This is an inspirational and uplifting rap song about never giving up no matter how hard the journey. It is about finding the strength to keep pushing forward and fighting for what we believe in.
+				}
+				"graduation" (festive, happy, positive, relaxing, rewarding, pop-rap song) {
+					1. "Time Of My Life" : This song reflects on Seppo Pakonen's journey and his realization of how quickly time passes and how important it is to make the most of each moment. It celebrates the successes and milestones that Seppo has achieved and looks ahead to ones yet to come.
+					2. "Independence" : This song reflects on Seppo Pakonen's approach to living an independent life, free of judgement from others. It draws from Seppo's journey in the military and draws attention to the strength it takes to face challenges and to stand on your own. 
+					3. "My Day" : This song speaks of Seppo Pakonen's life journey; from growing up in a small town, going to the army and eventually going to university. The song emphasizes his will to continue pushing and striving for better even when times are hard and everything seems to be working against him.
+					4. "Rise Again" : This song reflects on the difficult times that Seppo Pakonen faced and his determination to move forward. It encourages its listeners to never give up and to always remember that they have the potential to move forward and make a positive impact on their lives. 
+					5. "I Believe" : This song reflects on Seppo Pakonen's courage and inner confidence to never give up and be resilient. It speaks of his determination to never let his circumstances prevent him from reaching his goals and dreams. It serves to remind the listener to always believe in themselves and to never let any situation in life define who you are meant to be.
+				}
+				"like that" (fast-paced, exciting, adventure-like, minor-keyed, Finnish-style tune, rap-pop-rock song) {
+					1. "The Journey". A song describing a journey from darkness to light as Seppo begins to trust and overcome his fears after a year of military service.
+					2. "Victory". A song about Seppo experiencing success and having the courage to pursue his dreams and people who came in his life for his help.
+					3. "Courage". A song about Seppo's growing confidence and courage as he feels supported by his friends, realizing the power of believing in himself and not giving up.
+					4. "The Dark Ages". A song about the year in military and the struggles he overcame during that time.
+					5. "Don't Give Up". A song about overcoming his negative thoughts and fighting his demons, reminding himself to not give up no matter how tough life can get.
+					6. "Youthful Dream". A song about how the past experiences will never leave Seppo, although he managed to press on and live for something more.
+					7. "Battle Cry". A song about Seppo's determination to make something of himself despite his struggles, summoning his inner courage to keep going.
+					8. "Rise Above". A song about Seppo's determination to rise above the odds and the obstacles in his way.
+					9. "Mighty Dreams". A song about Seppo's dreams for the future and his willingness to make them come true.
+					10. "Ready To Fight". A song about Seppo's readiness and commitment to pursue his dreams no matter what.
+				}
+				"summer 2016" (semi-tempo, relaxed, sunny, summery, warm, major chord, rap-rock song) {
+					1. "The Good Shot" - The song is about getting out of a difficult situation, regardless of the odds, and not allowing what happened to define who you are and where you go.
+					2. "The Shine" - A song about standing up to what life throws at you and finding the courage and strength to succeed.
+					3. "The Wave" - This song speaks to understanding that your identity is more than just how the world sees you, and finding your inner strength through the waves of life.
+					4. "The Undiscovered" - A song about discovering yourself and realizing the potential and beauty of the unknown.
+					5. "The Unbeatable" - Summarizing the idea that despite facing challenges, you can always triumph over them and be the best version of yourself.
+					6. "The Struggle" - A song about the confronting and overcoming the struggles in life and refusing to be discouraged by them.
+					7. "The Phoenix" - A song about rising from the ashes, rebuilding your life, and using your past experiences to create a better future.
+				}
+				"testing out a new sauna" (shuffle-tempo, relaxing, weekend and Saturday feeling, positive, major chord, rap-pop song) {
+					1. "Weekend Vibes" - A song about embracing the weekend, exploring the positive sides of life and enjoying the small things, taking the time to relax and appreciate the simple moments.
+					2. "Shuffle Time" - A song about partying with friends on a Saturday night, forgetting about the past and focusing on the present moment.
+					3. "Saturday Feelings" - A song about having a peaceful, laid back day of relaxation and reflection, getting away from the hustle and bustle of everyday life.
+					4. "Major Chords" - A song about enjoying a major milestone of life, such as graduating college, getting your first job, moving into a new home or getting married.
+					5. "Celebrate the Weekend" - A song about taking time to appreciate the weekend with family and friends, being grateful for what we have and living life to the fullest.
+					6. "Saturday Night Jam" - A song about getting together and having an impromptu party, turn the music up and just enjoy the moment.
+					7. "Positive Vibes" - A song about looking on the bright side even when things seem dark, keeping a positive outlook on life and making the most out of every situation.
+				}
+				"old moped road" (slow-tempo, exciting, minor-chord, motorcycle-themed, touching, rap song) {
+					1. "My Road Ahead" - A song describing the challenges, hopes, and dreams of facing the unknown future.
+					2. "Motorcycle Dreams" - A song talking about the transformation and growth from overcoming the struggles of the past towards the future.
+					3. "Riding Away" - A song about having to leave your current environment in order to find something new and better. It reflects on the mixture of emotions that come with this kind of decision.
+					4. "Westward Bound" - A song about the journey of seizing every opportunity presented to you and turning the fear of the unknown into excitement.
+					5. "Second Chances" - A song about taking a second chance in life, reflecting on the what-ifs and the power of changes. 
+					6. "Reaching For More" - A song about the beauty of the little things in life, and looking for love and understanding in a cruel world. 
+					7. "Exhaustion" - A song about pushing your limits and relying on your knowledge, strength, and courage to make it to the end. 
+					8. "Breaking Free" - A song about breaking out of your shell, inspiring others to challenge themselves and try new adventures.
+					9. "Rise Again" - A song about learning from your mistakes and rising from your failures, staying strong and taking each day as it comes. 
+					10. "One Road" - A song about finding the right path, facing your fears, and enjoying the ride.
+				}
+				"through difficulty to success" (shuffle-tempo, jazzy, exciting, minor chord, energetic, positive, rap-pop song) {
+					1. "Start it All Again": It is a song about taking a new approach to life, no matter how rough the times have been. The song is about having the courage to start over, keep trying, and not give up.
+					2. "Freedom": This song speaks about the liberation from all the worries and fears of the world, and a chance to feel free and live life to the fullest.
+					3. "Take Control": This song is about taking control of our own lives, ignoring the voices of fear and doubt, and being strong and determined. 
+					4. "Push Your Limits": This song is about challenging yourself and pushing your limits to become the best version of yourself you can be.
+					5. "Dreams Come Alive": This song speaks about the courage it takes to pursue dreams and the never-ending journey we are on to make those dreams come true. 
+					6. "Follow Through": This song is about being brave and having the will to see projects and goals through, no matter how difficult things may become.
+					7. "Rise and Shine": This song is about finding the strength to get back up when life knocks us down, and believing that what is dark today can be bright tomorrow. 
+					8. "Find the Light": This is a song about not giving up on hope, even in the toughest of times, and believing in yourself and finding the bright and positive things even in the darkest moments.
+				}
+				"you and me" (a fast-paced, romantic, touching, minor-key, rock-pop-rap song) {
+					1. "Life is an Adventure" - This song is about the journey that people take in life and how it is ever-changing and difficult, but rewarding and beautiful. The lyrics focus on the power of positivity and that no matter what life throws you, you can make the best with what you have. 
+					2. "Tomorrows" - This song is about taking life one day at a time and not allowing the obstacles of life to keep you from living a full life. This song talks about all the possibilities that life holds and how there is no telling what tomorrow will bring. 
+					3. "Carousel of Memories" - This song talks about how life can sometimes be a rollercoaster ride and how it can be hard to keep up with all of the ups and downs. The lyrics express that memories should be made and enjoyed, no matter the circumstances. 
+					4. "Rise Above It" - This song talks about the courage it takes to stay strong in the face of difficult circumstances. This song encourages people to stay positive with the outlook that things will turn around and that you can tackle whatever life throws your way. 
+					5. "Stay Centered" - This song talks about not allowing yourself to get overwhelmed with life's chaos. The lyrics talk about staying in the moment and appreciating whatever comes your way. 
+					6. "Beauty of Forever" - This song is about how life is full of unexpected surprises and how no matter what difficulties you face, the beauty of life is that it continues forever. The lyrics of the song focus on being present in every situation and to find joy in it.
+				}
 			}
 		}
 	}
@@ -811,16 +908,146 @@ unpublished period (2010 summer - 2023 summer) {
 				Battle for Survival
 				Back from the Abyss
 			}
-			song ideas {
-				1. “Tears of Joy” – A song about finding joy in the darkness
-				2. “Painful Memories” – A song about recalling the past and the struggles endured
-				3. “Scars of Life” – A song about coping with the wounds of life
-				4. “Unchained” – A song about breaking free from the bonds of pain
-				5. “Rise Up” – A song of hope and resilience
-				6. “Standing Strong” – A song about resilience in the face of adversity
-				7. “Touching the Light” – A song about finding light within the darkness
-				8. “Acceptance” – A song about letting go and embracing the present
-				9. “A New Day” – A song about finding a new beginning
+			songs ideas {
+				"FFFG AAAC" (guitar-themed, slower tempo, sad, hopeful, danceable, pop-rap song) {
+					1. "I Believe In Miracles" - The main theme of the song is to find hope in the midst of despair and to keep going no matter what. The lyrics are focused on growing and learning from one's experiences, and to never give up. 
+					2. "Slowdown" - This song is about the importance of slowing down and enjoying life despite the hustle and bustle of modern life. It has a gentle beat and reflects a "take it slow" type message. 
+					3. "The Hardest Struggle" - This is a slower tempo song about facing life's challenges and coming out stronger than before. It talks about inspiration and fighting for what is right. 
+					4. "The Unexpected" - This song is about embracing the unexpected moments that life throws at you. It's a song of exploration and adapting to new situations and learning from them. 
+					5. "The Long Road" - This song is about the long haul and taking a step forward at a time. It shows how important it is to keep going despite the struggles and obstacles that life throws at you. 
+					6. "Live Life On Your Own" - This song is about taking control of your own life and having the courage to make the decisions that will make you happy. It's a song of self-worth and believing in yourself.
+				}
+				"summer 2017" (mid-tempo, cheerful, sunny, summery, guitar-themed, pop-rap style song) {
+					1. "In the Sun" - A song about the joy of the summer, feeling happy and alive after a tough time.
+					2. "Living Life" - A song about making the most of the little moments, and appreciating every day.
+					3. "Always Reaching" - A song about continuing to strive for more, even after adversity.
+					4. "Go Get 'Em!" - A motivational song about reaching for your goals no matter what, and never giving up.
+					5. "Chasing Dreams" - A song about hard work, dedication, and never settling for less. 
+					6. "Adventures Ahead" - A song about taking risks and embracing the unknown.
+					7. "Staying Strong" - A song about resilience and having faith in oneself.
+					8. "Good Times" - A song about finding the silver linings, and creating more of them.
+				}
+				"all black clothes" (a slower tempo, dark, twisted sounding, hopeful, rap song) {
+					1. "The Puzzle" - This dark, yet hopeful track takes its concept from the real-life struggles that Seppo has faced in his life, and how he fought back against them to come out a stronger person. He feels as though he's been trying to piece together the puzzle of his life to try and find a place within himself that he can call home.
+					2. "The Rise" - Focusing more on Seppo's journey of self-discovery, this uplifting rap song looks at the hard work and determination he put in to being the person he is today. From his struggles in military, to his determination not to succumb to his fears, and his commitment to finding a place in music and in his life that he can connect with. 
+					3. "The Trail" – A reflective and conscious track that looks at the obstacles Seppo has faced in his past and how he’s using the paths he’s taken as a guide for his future. He talks about a journey of self-discovery, and how he faced his fears, found strength, and learned from his mistakes in order to create a better life for himself. 
+					4. "The Challenge" – Embracing facing life’s obstacles and turning them into opportunities, Seppo delves into his past and draws from his experience to bring a challenging, yet encouraging rhyme scheme as he talks about how he did what he felt was right, no matter what the consequences may have been.
+					5. "Answers" – Seppo confronts the tough questions of life that he had been searching for answers to, and by finding those answers for himself, he pledges to use the knowledge to help make a better world. Despite all the struggles and pain, Seppo finds solace in the knowledge that he faced the challenges and conquered them. 
+					6. "Fighting Back" – Charge forward with an aggressive beat as Seppo tackles the struggles he encountered in life and overcame them with hard work, determination, and an unwavering love of music. He talks about putting in the hard work to make a better future. 
+					7. "The March of Triumph" – A triumphant yet tired march that describes Seppo’s journey of self-reflection and explores his determination to make better choices and stay fully committed to his dreams. He talks about the countless sacrifices he made along the way and how he never gave up no matter how difficult the obstacles were.
+				}
+				"favourite juice" (faster tempo, danceable, melancholic, minor key, exciting, energetic, dance-rap song) {
+					1. "New Beginnings" - About finding the courage to start again and make something new out of the life you've lived so far.
+					2. "Living Forever" - About struggling to cope with the idea that life could be passing by as you try to make the best of it.
+					3. "Survivor" - About the determination to make it through.
+					4. "Last Breath" - About never giving up and being determined to fight until the very end.
+					5. "Keep Going" - About overcoming obstacles and pushing past fear and difficulties.
+					6. "The Hustle" - About the hard work, dedication, and drive necessary to make it out of difficult circumstances.
+					7. "It's Your Time" - About making the most out of every second you have and seizing the present moment. 
+					8. "You Got This" - About believing in yourself and having the courage to move forward no matter what. 
+					9. "Still We Rise" - About being resilient in spite of the odds and rising up from the ashes.
+					10. "Turn Up The Volume" - About using your voice and passion to make a difference in the world.
+				}
+				"travel" (fast-paced, danceable, positive, minor, Slavic, exciting, energetic, folk-rap song) {
+					1. "Catch Me If You Can" - A fast-paced, danceable, positive, motivational song about overcoming obstacles in life and never giving up despite all the hardships you face.
+					2. "Raise the Flag" - A minor, Slavic-sounding, energetic folk-rap song about standing up and fighting for what you believe in, no matter how hard the fight is.
+					3. "Dancing on Rainbows" - A cheerful, feel-good song about finding joy in life despite all the difficulties and negative moments.
+					4. "Endless Journey" - An exhilarating track about never giving up on your dreams and taking the road to success no matter what.
+					5. "The Strength Within" - An inspirational song about being brave enough to face your fears and to keep pushing despite all the odds.
+					6. "Fly Away" - A song about finding freedom by letting go of all the worries and burdens.
+					7. "Rise and Shine" - A positive, motivational track about always looking for the better, no matter how hard the journey might be.
+				}
+				"my voice" (mid-tempo, sad, negative, sarcastic, hopeful, minor-key, low-energy, bitter, folk-rap song) {
+					1. "Same Old Story" - This song is about how I had expected a different reality from the one I was living in; school was boring, the friends I made were equally disengaged and not helpful, and I was stuck in the same unsolved cycles of trying to find something, and facing silence, disappointment or a lack of understanding.
+					2. "Bullied Again" - This song is about how I was constantly being bullied in school and in the military, and how it made me feel weak, unworthy, and helpless.
+					3. "My Salvation" - This song speaks of music and art being my only salvation, helping me survive despite challenges I faced, providing me hope and letting me remain in my own world.
+					4. "Time to Look Away" - This song highlights how I finally decided to take hold of some courage and cut loose from my past, leaving all the drama I had been through in the past and start anew.
+					5. "The Night Is Mine" - This song emphasizes that even though I feel like an outsider, I still can take over some part of the night, even it is just sitting in my room singing and playing the guitar.
+					6. "The Resilience" - In this song, I reflect how I learned that even though life is hard, I can still move forward, accepting my pain, failures and uncertainties.
+				}
+				"trad story" (midtempo, traditional, danceable, sarcastic, slavic, sexy, straightforward, rap song) {
+					1. "Scalpel of Life" - is a song about having to live with the challenges of life.  It talks about how life sometimes forces us to confront even the sharpest realities and how hard it can be to take responsibility for the things that we cannot control.
+					2. "Once More" - is a song about the struggles of trying to get back on your feet after a major life event. It's a reminder that even though it may take some time and effort, it can be done and that it's important to stay positive.
+					3. "Trust Me" - is a song about how we can't always trust the people around us and how trusting the right people can make all the difference in our lives.  It talks about how learning to trust can be difficult but ultimately rewarding.
+					4. "Scream for Me" - is a song about the importance of letting out emotions and not bottling them up. It talks about the power of being able to express ourselves and how it can be very cathartic. 
+					5. "Stand by Me" - is a song about how important it is to have friends who have your back and who make you feel loved and accepted no matter what. It talks about relying on the people closest to us and taking comfort in them when times get tough.
+					6. "Always Love You" - is a song about the strength of unconditional love and how it can help to carry us through even the toughest times. It talks about how our relationships should always be based on true love and understanding.
+				}
+				"fear" (slower tempo, touching, minor chord, danceable, scary, Slavic, sexy, straight forward, rap song) {
+					1. "The Reaper" - A song about confronting death and still being able to find hope in life.
+					2. "Last Dance" - A song about saying goodbye to loved ones and not being able to have closure.
+					3. "Back to Where it Began" - A song about coming back full circle, using the lessons learned throughout life.
+					4. "Living Life" - A song about embracing life for all it has to offer and all the things that make it beautiful.
+					5. "Living with Fear" - A song about the fear of the unknown and the need for courage to move forward.
+					6. "Surviving on Memories" - A song about keeping the memories of the past alive, both to remember the beauty and to remind us of the challenges we overcame in the past.
+					7. "This Life Isn't Fair" - A song about realizing that life can be cruel at times and needing to have faith in order to move forward.
+					8. "Don't Look Back" - A song about never wanting to forget the past, but having to keep it in perspective and let it go in order to move on.
+					9. "Always Searching" - A song about never giving up hope, even if it feels like the dream is out of reach.
+					10. "Out of Reach" - A song about learning to accept that some things are just out of reach and knowing when it's time to move on.
+				}
+				"normal guy" (medium tempo, happy, supportive, hopeful, positive, danceable, rhythmic, rock-rap song) {
+					1. "Love and Life" - Talking about how love and life are hard but worth fighting for.
+					2. "Finding Peace" - Discussing struggles and how to find peace of mind in difficult times.
+					3. "Revolution" - Talking about how important it is to small and big changes in society 
+					4. "Dreams" - Discussing dreams, challenges and how to persevere despite the odds.
+					5. "A New Beginning" - Celebrating the start of a new chapter and starting something new.
+					6. "Strength" - Addressing the importance of staying strong through the tough times.
+					7. "Discover Yourself" - Exploring self-discovery and exploring who one is.
+					8. "Freedom" - Exploring the importance of freedom and the power of it.
+					9. "Rise Up" - Addressing how important it is to stand up and fight for what's right. 
+					10. "Be The Change" - Discussing how we all have the power to effect change for the better.
+				}
+				"AGFC" (medium tempo, danceable, exciting, minor chord, energetic, rap-hiphop song) {
+					1. "Come Back": This song is narrative story of a young man who is trying to rebuild his life after a series of disappointments. It describes his effort to overcome his inner struggles and maintain his strength despite the setbacks. It is a song where he will be encouraging others and himself to never give up. 
+					2. "Rise Up": This song is a reminder to never give up in the face of adversity. It is about pushing yourself to be the best you can be and conquering all things that tries to hold you back. It is also about how no matter how hard things get, you can always get up and keep going. 
+					3. "New Chapter": This song is a positive outlook and journey with overcoming the odds of life. It talks about the difficult times and a search for answers. It is about taking control of your life and creating the future you want for yourself. 
+					4. "Look Back": This song is about reflecting back on the life you have lived and thinking about the choices you have made. It is about learning from the past, overcoming mistakes, and striving to become a better person in the present. It is an upbeat song with positive messages. 
+					5. "Living In the Moment": This song is about taking advantage of every opportunity in life, not worrying about the future, letting go of the past and focusing on the present. It is also about savoring the moments and living life to the fullest.
+				}
+				"alone in the woods" (slower tempo, danceable, exciting, terrifying, sexy, energetic, minor chord, energetic, rap-dance song) {
+					1. "Reunited" - a danceable upbeat song about finding a beautiful girl who is like a soulmate and has been missing all along, and being happy for finally finding her.
+					2. "Switch Places" - an exciting and scary song about the challenges of relationships and learning to be more understanding and forgiving as two people switch roles in a relationship.
+					3. "Fresh Start" - a sexy and energetic song about starting over and beginning anew, while we still have a chance despite the past.
+					4. "Eyes of Steel" - a energetic minor chord rap song about having the courage to stand against the odds and make something out of our lives.
+					5. "Keep Fighting" - an energetic and powerful rap-dance song about having the courage to keep fighting for what we want no matter what the odds.
+				}
+				"every song you rip" (mid-tempo, guitar-tempo, calm, comforting, hopeful, forgiving, danceable, energetic, major chord, rap-pop song) {
+					1. "Struggle for More": A song about courage and determination to turn adversity into blessing. It is about how being strong enough to face our fears and not give up can be the key to success.
+					2. "Take My Hand": A song about reaching out to someone and offering them comfort and hope. It is about having faith in one another in order to help each other through difficult times.
+					3. "Keep Going": A song about never giving up and continuing to fight even when times are tough. It is an energetic song about never giving up despite the odds.
+					4. "Love of Life": A song about appreciating life and the people in it. It is a reminder not to take life for granted but to keep on living and enjoying it.
+					5. "Rise Up": A song about believing in yourself and having the courage to stand up for what you believe in. It is a call for change and to fight for a better future.
+					6. "Let Go": A song about accepting what life brings and learning to be at peace with it. It is about learning to let go of the past and the things we cannot change and focus on being here in the present.
+					7. "Dreams Come True": A song about believing that it is never too late to achieve your dreams and that with hard work and dedication anything is possible. It is a song about having faith and never giving up.
+				}
+				"funk19" (mid-tempo, funky, positive, ecstatic, rhythmic, riffing, funk-rap song) {
+					1. "Everybody Wanna Fly": A positive, upbeat track about the power of dreams and embracing and allowing yourself to be the best version of yourself, despite the struggles and fears that sometimes creep in.
+					2. "Climbing The Ladder": An inspirational song about how even when all hope seems lost, hard work and dedication will eventually get you to the top and make anything possible.
+					3. "Dream Maker": A song about the importance of having dreams, and how they can give you the strength to keep going and achieving what you set out to do in life.
+					4. "Keep The Faith": A message about believing in yourself and trusting in the power of your dreams, despite how difficult life can get.
+					5. "Ain't Giving Up": A song about never giving up on yourself, no matter how hard life may be.
+					6. "Stand Up Strong": A song about showing your strength through even the toughest times, and how you can keep fighting and persevere through any challenge.
+					7. "I'm Unstoppable": A track about the power of believing in yourself and all that you are capable of, and how no matter how hard life can be, you can stay strong and reach your goals.
+				}
+				"an unreasonable woman" () {
+					1. "Let Go" – a celebration of life, of coming to terms with what you once had and being able to move on from it in order to appreciate whatever comes in the future. 
+					2. "The Moment" – a song about taking the time to savor the best moments of life and embracing whatever comes your way, no matter the difficulties and hardships. 
+					3. "Grievance" – dealing with the hurt and pain of bereavement, and how you can find strength through adversity. 
+					4. "The Challenge" – a motivational take on life's struggles, and how you can face them with confidence.
+					5. "One Step At A Time" – an uplifting message about never giving up, and taking small steps to achieve your goals. 
+					6. "From Here To There" – a reflection on the significance of each journey and the lessons learnt from every experience. 
+					7. "Today Is A New Day" – cradles the spirit of optimism and grace and encourages you to appreciate the present day.
+				}
+				"cami" (a slower tempo, piano themed, happy, loving, hopeful, supportive, accepting, pop-rap song) {
+					1. "Living Just Fine" – A song about trying to stay positive and being appreciative of the journey and the people around you despite adversity and obstacles.
+					2. "Gonna Make It Through" – An uplifting song about overcoming trials and tribulations with the help of friends and family.
+					3. "My Way To You" – A romantic rap ballad about how love can conquer all despite distance, circumstances, and other obstacles.
+					4. "On My Own" – A song about the struggle to find your own path and make it to where you want to be in life despite the struggles encountered along the way.
+					5. "Crushing It" – A song about not letting anyone or anything stop you from achieving your dreams despite the odds.
+					6. "Come Alive" – A track about hope, resilience and the motivation to do great things despite the struggles and challenges faced.
+					7. "Rainbow Bridge" – A rap song about finding faith and hope in difficult times and leaving it all behind to reach the rainbow bridge.
+					8. "Stars in the Skies" – A song about believing in yourself even when times are hard and the strength to reach your dreams amidst the darkness of life.
+				}
 			}
 		}
 	}
@@ -875,16 +1102,167 @@ unpublished period (2010 summer - 2023 summer) {
 				A Journey of Music and Healing 
 				Music as a Balm for the Soul 
 			}
-			song ideas {
-				1. “A New Start” – A song about creating a new life
-				2. “Forever Young” – A song about finding your inner strength
-				3. “Self Reflection” – A song about looking within
-				4. “Roots” – A song about discovery and belonging
-				5. “Grow” – A song about personal growth and development
-				6. “The Journey” – A song about the journey of life
-				7. “Rise Above” – A song about confronting your challenges
-				8. “Hope” – A song about finding hope in the darkness
-				9. “Light at the End of the Tunnel” – A song about finding the courage to move forward
+			songs {
+				"a jump - a" (half-tempo, sexy, danceable, atmospheric, minor, rhythmic, dancehall-rhythmic, dancehall-rap song) {
+					1. "Turn Up The Heat": This track will detail the feeling of getting out of a sheltered life into a big world with high expectations. Telling how the protagonist flipped the switch on their control and desire to shine against the odds. 
+					2. "Defy The World": This is an upbeat track that will have a strong message. It focuses on the struggles of a personified character against adversity and society while refusing to settle and accept anything else than success. 
+					3. "Beautiful Chaos": This is a chaotic dreamy track about creating something beautiful out of chaotic feelings especially when overcoming doubts and fears. 
+					4. "Love Me Stronger": This is a love song which reiterates how important being together and strong is even though life may throw difficulties and difficult challenges in our way. 
+					5. "Believe In Your Dream": This is a motivational song about having faith in yourself and never giving up in the face of challenges and fear. It will talk about designing our own life and turning into reality what we dream of. 
+					6. "No Fear": This song will talk about overcoming fear and instead living life to the fullest and accepting changes with courage. 
+					7. "Rise Up": This is an uplifting and motivating track about standing up and believing that barriers can be overcome with hard work and dedication. 
+					8. "The Fine Line": This song speaks about finding the balance between good and bad, freedom and responsibility, and passion and fear. It is a reminder that life often lies in the grey areas and that balance is the key between success and failure.
+				}
+				"cute song - d" (slower tempo, happy, supportive, cute, childish, sarcastic, love, pop-rap song) {
+					1. "Hope Not" - my journey of struggling with antisocial behavior, low self-esteem and lack of hope of finding someone and how I pushed through.
+					2. "Keep on Fighting" - an uplifting anthem for everyone that never stopped believing and kept on pushing, no matter how hard it got.
+					3. "Happy Together" - talking about the joy of finding a partner and how amazing we can be when we are together.
+					4. "Fly Away" - a song about the excitement of traveling and exploring the world together in search of adventure and having fun.
+					5. "Never Give Up" - a reminder to always push forward, no matter how hard it gets and that good things come to those who work hard and strive for greatness.
+					6. "Beautiful Mind" - an ode to individuality and uniqueness, being comfortable in your own skin and loving yourself regardless of what society expects.
+					7. "Never Alone" - a song about strength in numbers, and having loyal friends by your side that you can rely on.
+					8. "Dreams Come True" - a song about the power of dreams and how everything is possible when you put your mind to it.
+					9. "Stay Strong" - a reminder to keep strong, no matter what life brings, and to always be brave and believe in yourself.
+					10. "A New Start" - a hopeful look towards the future, leaving the past behind with excitement and optimism.
+				}
+				"FFCGAA" (medium-tempo, powerful, minor chord, farewell, energetic, rock-rap song) {
+					1. "Find A Way Out" - This song is about the struggles of life and looking for a way to make it through those struggles. It questions if and how to keep going and keep smiling despite all odds.
+					2. "Life Goes On" - This song is about accepting change and growing as your path leads you to different places. It talks about going on despite the challenges that come in life, and never giving up hope.
+					3. "Tears Don't Lie" - This song is about how your pain and tears do not lie about how you feel. It encourages reflection on your feelings, accepting yourself, and making the journey of life a little easier.
+					4. "How Far You've Come" - This song is about reflecting on the journey and progress you have made throughout different stages in life. It is a testament to the strength you have and how far you have come, even when it felt like it was impossible to do so.
+					5. "The End of The Day" - This song is about how the day ends but the journey does not. It's a reminder of how we'll get through each day, no matter what, because the journey will always have moments of hope, strength, happiness, and joy.
+					 6. "Never Give Up" - This song is about persevering and never giving up despite all odds. It encourages you to keep striving and pushing forward no matter how hard the world and life can get.
+				}
+				"freeform" (a half-tempo, comforting, positive, major-harmonic, loving, rock-rap song) {
+					1. "Feels Like Home": This song is about growing up, overcoming obstacles, and coming back to the familiar places with more understanding and appreciation for the journey. This is a song to help reassure others that they are not alone and provide hope for a better tomorrow.
+					2. "Dream Big": This song is about aspiring to greater heights and chasing after one's dreams. The lyrics are uplifting and encouraging with a catchy sing-a-long chorus.
+					3. "Rise Up": This song is about resilience and determinedly overcoming tough times. The lyrics evoke the idea of refusing to give up and pushing forward against all odds.
+					4. "Take It All In Stride": This song is about learning to accept life as it comes and going with the flow despite any difficulties. The lyrics encourage being content in the moment, yet never forgetting your goals.
+					5. "Always Believe": This song is about holding onto faith even in the darkest of moments. The lyrics will offer hope and remind listeners that they can make it through anything if they stay strong and keep believing.
+					6. "Choose To Be": This song is about taking control of one's destiny and making the best decisions to reach success. The lyrics serve to remind one that no matter what life throws at you, it is up to you to create the life you want.
+				}
+				"hot part 2" (medium tempo, funky, rhythmic, interesting, positive, energetic, funk-rock-rap song) {
+					1. "Rock In The Funk" - A song about the joy of letting loose after a long period of struggle, with rock and funk elements intertwining to create an upbeat sound.
+					2. "Forget The Rules" - A song about having the courage to break away from established norms and conventions in order to achieve something truly great.
+					3. "Unstoppable Passion" - A song inspired by Seppo's determination and strength of purpose, which is evident in his relentless search for love even when surrounded by darkness.
+					4. "My Miracle"- A song about the miraculous transformation that comes from learning to believe in one's own power and potential to create powerful new paths in life.
+					5. "Live and Let Go" - A song about courageously facing and embracing life's highs and lows without letting them control you.
+					6. "Take My Hand" - An anthem of solidarity and companionship for those that struggle alone in the darkness of life.
+					7. "Sky Is The Limit" - A song about finding reasons to keep hoping, dreaming, and believing in yourself no matter what the current circumstances are.
+				}
+				"ironic" (slower tempo, danceable, comforting, touching, minor chord, beautiful, pop-rap song) {
+					1. "The Long Walk Home" - This song tells the story of Seppo going through a difficult time after he got out of the military, and the struggles he faced. It talks about finding himself and gaining the strength to move on by the support of his good friends.
+					2. "Broken Soul" - This song speaks about the internal battle Seppo faced as he tried to break free from the mental and emotional restraints caused by his traumatic experiences. It focuses on his grief, fear, and courage to keep going.
+					3. "My Backup Plan" - This is a song about going through ups and downs in life, but ultimately finding a way to create a promising future and reaching success. Despite the struggles ahead, Seppo remains positive and strives to create a supportive network.
+					4. "Family Through Friends" - This song focuses on the bond Seppo has created with his close friends and how they serve as a family to him since he is far away from his own family. It speaks of comfort, friendship, and unity in the midst of difficult times.
+					5. "Rise Above" - This is an inspirational song about Seppo's determination to overcome any obstacle he faces. It talks about perseverance, dedication, and the power of will to stay strong and be successful, even when the odds are against you.
+				}
+				"lightweight" (slow-tempo, relaxed, fun, positive, major chord, surprising, riffy, interesting, rock-rap song) {
+					1. "Feels like Home": When a feeling of hope brings new life, love and understanding, the listeners will feel at home. It is about a story of a long journey of a person who finds a place that he can finally call home. 
+					2. "Never Give Up": This is a story and motivation to never give up on your dreams and goals, no matter how hard the challenges are. It is about pushing through the tough times and coming out stronger.
+					3. "We Go Again": This is a fun, upbeat song that encourages people to see the best in every situation and just keep going. It is about not giving in to defeat, but rather to look at it as a challenge and experience.
+					4. "Rockin' in the City": This song is about going out and having a great time with friends in the city. It is about the joy of being together and just having a good time.
+					5. "Life's a Journey": This is a thoughtful and reflective song about discovering the meaning of life and the struggles along the way. It is about standing up for yourself and learning from mistakes. 
+					6. "Feel the Fire": This is a song about the intensity of love and how it can change your life. It is about being passionate and knowing that you can achieve anything if you are brave enough to take risks.
+					7. "No Turning Back": This is a powerful song about achieving your goals, no matter how hard it seems. It is about pushing through despite the fear of failure and believing in yourself.
+				}
+				"proud case of harm" (slower tempo, relaxed, fun, positive, major chord, predictable, reggae or ska style, ska-rap song) {
+					1. "Be Yourself" - A song about overcoming inner struggle and negativity and having courage to be true to oneself. 
+					2. "Oh Sun" - A song that reminds of the joy of light and how beautiful life can be. 
+					3. "Moments" - A song to highlight the importance of taking time to savor moments and appreciate small joys in life.
+					4. "Take a Breather" - A song with an uplifting message of taking a deep breath when feeling overwhelmed 
+					5. "I Believe" - A song of finding inner strength and believing in yourself. 
+					6. "Dream Big" - A motivational song encouraging people to reach for their dreams. 
+					7. "Let Go" - A song which celebrates the freedom of letting go of our worries.
+					8. "Rise Up" - A inspiring tune which encourages people to fight through struggles and rise above them. 
+					9. "Peace of Mind" - A peaceful and serene song about finding peace of mind and having trust in oneself. 
+					10. "No Regrets" - A song which calls for living life to the fullest and without regrets.
+				}
+				"retard in chief" (faster-paced, relaxed, fun, positive, major chord, ecstatic, danceable, kinky-sounding, dance-rap song) {
+					1. "Connected" — A song about the bond between the artist and their audience, and how the artist is lifted up by the support of the people around them.
+					2. "Living Louder" — A song about how life can get hectic and how it's important to take control of it and live life to its fullest.
+					3. "Dance All Night" — A party anthem to get people up on their feet and dancing.
+					4. "Beautiful Mind" — A song about tapping into the creative power within, and channeling it into something beautiful and meaningful.
+					5. "Unstoppable" — A song about pushing through obstacles and embracing the journey.
+					6. "Let the Sunshine In" — A song about optimism and embracing a brighter outlook.
+					7. "Rise Up" — A song about grabbing life by the horns and making something of it.
+					8. "All I Wanna Do" — A song about chasing one's dreams and turning them into reality.
+					9. "Keep Groovin'" — A song about staying in the groove and not giving up even when things get tough.
+					10. "Can't Slow Me Down" — A song about keeping momentum and never giving up in the face of adversity.
+				}
+				"sorry but no" (slower tempo, serious, weight loss themed, hopeful, honest, straightforward, pop-rap song) {
+					1. "Breaking Free" - a song about how hard it is to break free from the emotional trap of being in a low weight situation and striving to live a healthier lifestyle.
+					2. "Rise Again" - a song about pushing oneself to be stronger and move forward, despite the challenges of life.
+					3. "Weight of the Words" - a song about the power of words and how our thoughts can shape us.
+					4. "Rage of the Beast" - a song that deals with the rage and anger that comes from being in a low weight situation and the desperation to escape it.
+					5. "Prison of Emotions" - a song about being stuck in a cycle of negative and destructive emotions and the struggle to break free.
+					6. "Strength of Pain" - a song about finding the strength and courage to move forward despite the difficulties.
+					7. "Warrior's Cry" - a song about having the courage to face one's inner struggles and carry on despite the pain and fear.
+					8. "Life Reborn" - a song about the joy of starting anew and believing in yourself after suffering a traumatic experience.
+					9. "The Strength Within" - a song about tapping into the inner potential and strength to overcome struggles.
+					10. "Light of Hope" - a song about finding the light of hope in the darkness and believing in one's own capabilities.
+				}
+				"technocracy firewall" (mid-tempo, danceable, regular, minor key, honest, straightforward, plaintive, dance-pop-rap song) {
+					1. "Crying on the Dance Floor": A song exploring the pain and loneliness of wanting to be loved, while feeling trapped in a world of hurt and sorrow. The song can express the feeling of wanting freedom yet feeling trapped in the same old cycle of unbearable pain.
+					2. "Break Free": A song about the urge to break away from one's roots and fight one's way out of a miserable situation. This could be a slow rock, electronic/pop or rap song that builds energy as the song progresses.
+					3. "You Don't Know How Much I Want": A song exploring the desperate hunger for something real, in spite of all the turmoils of life. The lyrics could be full of pain and longing as the protagonist begs to be set free.
+					4. "I Won't Break": A song about not giving up and continuing the fight against all odds. This could be a dancy punk/ska/garage pop track full of hope and determination.
+					5. "You Gotta Believe In Me": A song that speaks about the strength of believing in oneself and of never giving up, despite all odds and pressures from society and family. A hip hop influenced song can make this message resonate even better.
+				}
+				"thinker 2020" (reggae-like, mid-tempo, danceable, varied, hopeful, sunny, summery, reggae-rap song) {
+					1. "Irie Summerdream" - A light, joyful, and mellow song about how summer is a time of great joy, and that this joy gets stronger with positive energy and good music to listen to.
+					2. "Music Is A Universal Language" - This song tells tells the story of music being a shared experience that can unite us and make us feel better no matter what.
+					3. "Be Brave" - A motivational song about having the courage to take a chance and take risks, despite any fear or doubts that one might have.
+					4. "Peace and Rockin'" - A song about unity and love, and how music can bring people together no matter where they are from or what language they speak.
+					5. "Party Hard" - A light and fun song about the joys of enjoying life to the fullest.
+					6. "Live Life To The Fullest" - A more serious and reflective song that encourages one to take life by the horns and make the most out of it.
+					7. "No Time To Waste" - An upbeat and energetic song that speaks to embracing every moment and making it count.
+				}
+				"twisted christmas" (mid-tempo, Christmas-themed, bitter, twisted-sounding, danceable, energetic, rock-rap song) {
+					1. "Burned Out Xmas Light" - The song is about a person who is emotionally overloaded, with too much stress from the society, is feeling burned out. It's that weird feeling when you're not sure what's happening but you're generally just tired and exhausted of everything. The message is that at time like that, you should take a much needed break.
+					2. "Gift of Regret" - The song is about feeling regret for decisions made in the past, especially during the holidays. It's about realizing that maybe some of the decisions you made when you were younger weren't so great. But it's also about hope and embracing the imperfections of life. The song is about making the best of a situation, even if it's something that you regret. 
+					3. "Home Alone in Frosty's Snow" - This is a fun, upbeat song about being a solo traveler during the holidays. It's about that feeling of being alone but surprisingly content. It's embracing the freedom of being away and in a new place, while thinking about the people back home. 
+					4. "Ghosts of December's Past" - This is a sadder, somber song about memories of the past and a time long gone. It's about feeling nostalgic and wishing you could go back in time. It's about cherishing the memories, but also accepting the truth that you can never go back and that the person you used to be is gone forever. 
+					5. "Like the Snowflakes in the Winter" - This is a more positive, uplifting song about the beauty of nature and the passing of the seasons. It's a song about cherishing the joys of the winter and embracing the refreshing feeling that it brings. It's about how fleeting and precious life is, and how quickly it can change and be gone in the blink of an eye.
+				}
+				"hot - part 1" (slow-tempo, funky, rhythmic, exciting, major chord, energetic, engaging, interesting, funk-rap song) {
+					1. "Turn It Up": This is a song about never giving up and pushing through tough times. No matter what troubles are thrown at you, never give up. Turn the music up, and work through it with focus.
+					2. "Break Through The Wall": This is a song about breaking out of a bad situation. Whether it be an abusive relationship, a crippling project, or an overbearing job. This song is about letting go, and remembering that you are strong enough to break through any wall.
+					3. "Climbing Up": This is a song about striving for greatness. No matter where you start, and no matter what you face, you can always keep climbing up the ladder to success.
+					4. "Live Your Dream": This is a song about chasing a dream, and never letting fear stand in the way. It's an inspiring track that celebrates having the courage to stand up for what you believe in.
+					5. "Be Yourself": This song is a tribute to being true to yourself. Never change who you are for anyone else, and always strive to reach your dreams.
+					6. "Be Alive": This upbeat, motivational track is about taking chances and living life to the fullest. It's about appreciating the beauty of life and never giving up on yourself.
+				}
+				"corpse identity" (mid-tempo, dark, death-themed, sarcastic, black-humorous, guitar-themed, danceable, rap-rock song) {
+					1. "Dance in the Dark" - This song is about life and death and how no one can stop the inevitable. It speaks of how death will come one day and that no amount of dancing or partying can make it go away.
+					2. "Eternity" - A song about how much life can change in an instant and how it is impossible to go back in time. It speaks of how our lives are a never ending cycle of life and death and how no matter what we do, it will keep passing.
+					3. "Devil's Playground" - A song about the dangers of living life in the fast lane and the risks associated with it. It speaks of how there is a price to be paid and how sometimes it can be too late.
+					4. "Death Comes Around" - A song about how death is inevitable and how no one can stop it from coming.
+					5. "Acid Rain" - A song about how much pain and suffering are associated with death. It speaks of how life can become unbearable and no one can change it.
+					6. "Living in the Aftermath" - A song about how life can be so hard after the death of a loved one. It speaks about how life can seem so empty and how hard it can be to cope with the loss.
+					7. "Last Goodbye" - A song about how it can be so hard to say goodbye to those who have passed away. It speaks about how hard it can be to let them go and how important it is to cherish the memories.
+				}
+				"summer 2020" (fast-paced, euphoric, happy, summery, hopeful, joyful, engaging, interesting, rock-rap song) {
+					1. "fast-paced, euphoric, happy, summery, hopeful, joyful, engaging, interesting, rock-rap song": This song will be about finding a great new perspective and evolution in life despite difficulties and darkness. It should sound like a fresh breeze after a hard day’s work. 
+					2. "Eruption": This song will be about breaking through boundaries and going after your dreams despite any obstacles that may stand in the way. It should be fast-paced, energetic, hard-hitting, edgy, and passionate. 
+					3. "Breaking Free": This song will be about courage and being not afraid to take risks in order to build a better life for oneself. It should have a fast-paced, confident, upbeat, and determined feel to it. 
+					4. "Follow My Own Path": This song will be about staying true to one’s self and remaining focused and committed to one’s goals regardless of what other people say. It should have an creative energy with a powerful and inspirational vibe to it. 
+					5. "Rise Up": This song will be about fighting obstacles and rising above them to reach one’s highest potential. It should be high-energy, inspiring, and motivating. 
+					6. "Light Up The Sky": This song will be about being daring and bold in order to create a brighter future. It should have an uplifting and positive feeling. 
+					7. "Voice Of The People": This song will be about coming together as one and standing up for what is right. It should have a message of solidarity, power, and unity.
+				}
+				"sweaty hello" (slower tempo, exciting, special, danceable, interesting, melodic, atmospheric, dark, rap song) {
+					1. "Behind the Mask" - A track that speaks of the struggles Seppo has experienced in his life, including his time in the military, the tough times in high school, and his relentless search for love. 
+					2. "Shadow Dance" - A track that follows the story of Seppo as his shadows come to life and search for a way to help him escape his reality, in the form of a dark and intriguing rap number. 
+					3. "Lost and Found" - A track about Seppo's return to music and how it has helped him to heal and move forward from his past. 
+					4. "The Search" - Seppo is determined to continue his journey despite the doubts and obstacles that life throws at him, and this track has an uplifting feeling with a focus on his positive traits. 
+					5. "Voices from Within" - Seppo's inner thoughts and struggles take the form of a rhyming rap, allowing him to express his deepest feelings that nobody else knows. 
+					6. "Never Give Up" - Seppo is determined to make a name for himself and make his dreams come true, so he plays this song and keeps pushing forward. 
+					7. "As the Music Plays" - A love story about Seppo's search for someone to share his journey with him, with a dreamy vibe that speaks of his passionate character. 
+					8. "Rhapsody of a Life" - Seppo's successes and failures are blended together forming a rap melody of growth and hope, with a steady danceable beat. 
+					9. "Code of Silence" - Seppo keeps his struggles and stories hidden under a mask of silence, until he can find the courage to speak his truth. 
+					10. "No Going Back" - Seppo has made the decision to take control of his life and never look back, and this track has an uplifting feeling that encourages the listener to never give up.
+				}
 			}
 		}
 	}
@@ -940,16 +1318,370 @@ unpublished period (2010 summer - 2023 summer) {
 				Soulful Strumming 
 				Music in my Heart
 			}
-			song ideas {
-				1. “Believe in Yourself” – A song about trusting your instincts
-				2. “Finding Balance” – A song about striving for harmony
-				3. “Moving Forward” – A song about continuing to grow
-				4. “Stronger” – A song about becoming stronger with each hurdle
-				5. “Dreams Come True” – A song about finding the courage to make your dreams reality
-				6. “Determination” – A song about never giving up
-				7. “Letting Go” – A song about releasing the past and embracing the future
-				8. “The Path Less Travelled” – A song about taking a different path
-				9. “Joy of Life” – A song about finding happiness in new experiences
+			songs {
+				"bargain" (mid-tempo, fun, repetitive, guitar-themed, hopeful, positive, rock-rap song) {
+					1. "Climbing Up": This song is about perseverance and strength in difficult times. It's upbeat and fun, and encourages people to keep pushing through and pushing forward despite obstacles that may come their way. 
+					2. "Be Yourself": This song is about finding out who you are and embracing it. It's honest and personal and encourages listeners to be themselves no matter who's watching or what's happening around them. 
+					3. "Keep Going": This song is about motivation and resilience. It's powerful and inspiring, reminding listeners that they have the willpower and determination to press on no matter what life throws their way. 
+					4. "Lovin' Life": This song is about loving and living life to the fullest. It's oozing with positivity and encourages listeners to appreciate the moments and experiences that are presented to them. 
+					5. "Tomorrow Is A New Day": This song is about creating a new beginning and looking ahead to the future with optimism and hope. It inspires listeners to take every situation as a learning experience and to use it to progress and grow. 
+					6. "Gettin' It Done": This song is about taking action and making things happen. It's an energetic and motivational anthem for all people who are hustling and pushing through to achieve their goals. 
+					7. "Back On The Rise": This song is about standing back up and facing the challenges that come your way. It's an uplifting and inspirational track about never giving up and believing in yourself.
+				}
+				"clinton ave" (funky, atmospheric, dark, positive, bluesy-sounding, funk-rap song) {
+					1. "Keep On Believe" - The song is about how hard it is to stay positive, even when everything around us is telling us to give up. Lyrically it contains encouragements to "keep on believing" and promises that things will get better.
+					2. "Rebel and Dream" - An up-tempo, energizing and upbeat song about challenging the status quo and going against the grain to build a better future. Encourages people to dream big and take risks.
+					3. "Glowing in the Dark" - A dark, haunting and atmospheric song which reflects on one's inner light and how it can keeps them going even when the world around them is dark and discouraging.
+					4. "Rising Out of the Ashes" - A bluesy and emotional song about how one can rise out of the ashes and take control of their life, and embrace the strength and courage to overcome any obstacles.
+					5. "Come and Shine" - A song about self-acceptance and how important it is to love and take care of yourself.
+					6. "Fight for Your Life" - An inspirational and melodic song about never giving up and how we can find the strength within us to fight for the life we want.
+					7. "Take That Step" - A danceable, funk-rap track which talks about the importance of taking that first step to start achieving your goals and dreams, no matter how big or small.
+				}
+				"cycles" (mid-tempo, futuristic, happy, positive, danceable, repetitive, fun, pleasant, dance-rap song) {
+					1. "True Love": The song talks about the journey of reaching true love. It talks about believing in yourself and having faith in the power of love while being surrounded by critics and cynics who tell you that it is impossible. It celebrates the importance of being able to trust yourself and others again. 
+					2. "On the Rise": The song is about achieving your dreams despite any doubts and fears. It is a motivational anthem for staying strong and marching onward, even when things seem impossible. It encourages the listener to keep on pushing and never stop believing in themselves. It is a piece of inspirational work that encourages everyone to keep on striving for greatness. 
+					3. "Living the Dream": This song speaks about having the courage to pursue your dreams no matter what the cost may be. It is an uplifting and positive track that is meant to lift the listener up and remind them that it is possible to come out on top when you have the nerves and conviction to follow your dreams.
+					4. "Take It All": This song is about the importance of taking chances. It talks about how life is short and we have to make the most of it. It encourages us to not be afraid of taking calculated risks and trying something new. It is a reminder that it's often the unexpected things that can bring us the most joy. 
+					5. "Rainbow of Hope": The song is about the power of hope and the beauty of seeing the world through the bright prism of optimism. It speaks of the courage to keep believing that the future will be brighter and to keep searching for the silver lining in even the most broken of clouds. It is an inspiring reminder of the importance of staying positive no matter what one may be going through.
+				}
+				"die lederhosen" (fast-paced, danceable, 90s-style, retro, major-chord, loving, sexy, kinky, straightforward, dance-rap song) {
+					1. "Friday Night Fever" --A danceable catchy song about the weekend high of partying, living life to the fullest, and finding a romantic connection with someone special. 
+					2. "Let's Get Wild" --A song about how getting wild and crazy can turn a night into a high-energy party. 
+					3. "Always On My Mind" --A love song about how someone always seems to linger in the back of your thoughts, no matter how much time passes. 
+					4. "Feeling Hot" --A danceable groove about feeling the summer heat and letting go of inhibitions. 
+					5. "Summer Dream" --A laid-back song about falling in love and letting the summer pass in a state of poetic bliss. 
+					6. "Tonight's the Night" --A song about seizing the moment, letting loose with friends, and letting passion take over. 
+					7. "Do it Again" --An uptempo, feel good, and danceable number about wanting to relive a special moment again. 
+					8. "Make it Last Forever" --A passionate love song about wanting this moment to last forever and extending a love that seems made for each other.
+				}
+				"dreaming of you" (a slow-tempo, wistful, guitar-themed, sleepy, romantic, rap-ballad song) {
+					1. "Time is Precious" - The song is about how time passes so quickly and how it is important to enjoy life and take risks to create the best possible life. It talks about overcoming fear and facing the unknown. 
+					2. "Fly Away" - A song about letting go of control and realizing that life is meant to be enjoyed. 
+					3. "Life Ain't Easy" - A mellow track that sheds light on the struggles and hardships of life, but ultimately tells us to never give up even when things get hard. 
+					4. "The Road Unravels" - A song about the journey of life, and how it is full of unknowns and mystery. It encourages us to take chances and explore the unknown. 
+					5. "No Place Like Home" - A track about how there is always a place that we can return to whenever we're feeling lost and confused, and how those comfortable feelings are what keep us going. 
+					6. "Don't Take Your Time" - A song about living in the present and cherishing the special moments we have in life. 
+					7. "Dream On" - A motivational track that encourages us to keep going, no matter what challenges may come our way. 
+					8. "Could Be Better" - A chilled out track about making the best out of every day and realizing that even when life isn't perfect, we can still find ways to make it better. 
+					9. "It's All About Me" - A song about taking responsibility for our own decisions and actions, and the importance of self-worth and self-love. 
+					10. "Walk On By" - A mellow, dreamy track that reminds us to never give up on our dreams and to keep pushing forward.
+				}
+				"funk21" (medium-tempo, even-rhythmic, danceable, funky, minor-key, exciting, energetic, kinky, straight-talking, sometimes crooked, pop-rap song) {
+					1. "Grizzly Bear" - a song which talks about taking risks and embracing a sense of adventure. The song could explore themes such as facing your fears, jumping off of a cliff due to peer pressure, facing life's unknowns, and ultimately coming out on top.
+					2. "In The Dark" - a song which talks about facing inner struggles, darkness, and finding a way to power through in order to make it to the other side. The track could discuss topics such as solitude, inner strength, conquering the battle against depression, and rising to success.
+					3. "Be Yourself" - a song which encourages people to stay true to their beliefs and values. The song could discuss themes such as following one's passion, self-love, confidence, and being comfortable in one's own skin.
+					4. "Every Step Is A Step Forward" - a song which talk about taking those little steps that add up to success. The track could explore topics such as resilience in the face of obstacles, taking risks, perseverance, and seeing success through.
+					5. "Step Into The Light" - a song which encourages people to keep believing, keep fighting, and keep going no matter what. The song could discuss common themes such as triumph over adversity, leaving the past behind, being fearless, and ultimately finding a way out of darkness.
+				}
+				"funky geek" (slower-tempo, funky, major chord, positive, exciting, energetic, even-rhythmic, funk-rock-rap song) {
+					1. "U Can Do It" - The song would be about believing in yourself and following your dreams no matter the obstacles, with lyrics emphasizing that everyone has the strength and courage to pursue their goals and be who they want to be.
+					2. "Stay True" - This song would be about staying true to yourself no matter what is thrown at you and what kind of life you live, staying uncurtailed and never giving up.
+					3. "Never Quit" - This song is about not giving up no matter how hard things get, talking about taking on the obstacles that life throws at you without any fear or doubts and always believing in yourself no matter what.
+					4. "Reflections" - This song is about reflecting on the moments and people that shaped us over the years and how each experience has helped us grow.
+					5. "Turn It Up" - This song is about turning obstacles into opportunities and making the best out of every situation, emphasizing the importance of staying positive and channeling it into whatever action is necessary.
+					6. "Now & Then" - This song is a reflection of the past and present, talking about the journey we have been on and all the lessons that it has taught us.
+					7. "Limitless" - This song is about how our potential is limitless and we can reach whatever goal we set out to accomplish, with lyrics emphasizing the power of determination and focus.
+				}
+				"gin" (mid-tempo, positive, rhythmic, fun, alcohol-related, nice, friendly, forgiving, rock-rap song) {
+					1. "Beers and Cheers" – This song is about getting together with friends, releasing stress, and having fun, in the midst of all the troubles and hardships that life throws our way. 
+					2. "The Taste of Victory" – This song celebrates victory over adversity, and encourages us to keep fighting through every challenge that comes our way. 
+					3. "You Got This" – A motivational song about believing in yourself, and persevering even when things seem impossible. 
+					4. "Rescue Me" – This song is about hope and strength, and the power of friendship to help us overcome any challenge. 
+					5. "High and Higher" – This song celebrates life, and encourages us to keep reaching for the stars. 
+					6. "Rise Up" – A powerful song that urges us to stand up and make a difference. 
+					7. "It's All Good" – A lighthearted song that celebrates the joys of life.
+					8. "Cheers With Friends" – This song is a tribute to friendship and the power it has to elevate our spirits. 
+					9. "Behind the Booze" – A more serious track that explores the dark side of alcohol, and encourages us to be mindful of our drinking habits. 
+					10. "One More Round" – One last celebratory song, toasting to life, friendship, and success.
+				}
+				"golf" (medium tempo, exciting, ecstatic, rhythmic, danceable, catchy, rock-rap song) {
+					1. "Reunite"- A song about reuniting with your old friends and realizing that the time spent apart has made each of you a better person.
+					2. "Lost & Found"- A song about the search for the lost and realized that you've been lost inside yourself for so long, but now you found what you're looking for.
+					3. "Rise Up"- A song about rising up, leaving your fears behind, and being the person you want to be
+					4. "Free To Be"- A song about being free to do whatever you want, and embracing who you are, regardless of the obstacles you face.
+					5. "Still Got It"- A song about realizing that even though life has made you stumble, you can still show the world who you truly are and shines through.
+					6. "No One Else"- A song about knowing that no one else will understand what it's like to be you, but this should not stop you from pursuing your dreams.
+					7. "Dreams Come True"- A song about hoping for a better tomorrow and that dreams can be achieved if you never give up.
+				}
+				"green haze" (medium-tempo, loving, wedding-like, rhythmic, danceable, happy, hopeful, looking to the future, dance-rap song) {
+					1. "Found My Way": A song about looking for love and finding it finally after a long journey of searching. The chorus is bouncy and catchy, and the verses are full of vivid imagery of the search for love and the joy when it is found.
+					2. "Hope Reborn": A song about learning to find hope and joy after facing hardship and despair. It is uplifting and has a fast tempo while exploring the journey from despair to hope. 
+					3. "The Light Ahead": A song about growing through the darkness and finding the light at the end of the tunnel. Uplifting lyrics and a strong beat create a powerful anthem of hope. 
+					4. "Loving You Away": A love song about letting go and allowing the one you love take their journey. It speaks of dedication and the desire to always have a connection despite the distance. 
+					5. "Pushing Forward": A motivational song about confronting fear and finding courage despite challenging obstacles. With upbeat verses and a catchy chorus, it can motivate listeners to take on their challenges and keep going. 
+					6. "The Strength to Carry On": A song of celebration after over coming difficult challenges. It is triumphant and speaks of new found inner strength after facing difficult times. 
+					7. "Breaking Through": An anthem about continuing to strive even when it feels like there's no end in sight. It's a powerful and inspiring song with a strong beat and melodic chorus. 
+					8. "Rise Above": An uplifting song about rising above one's current situation and finding strength to reach greater heights. With a bold message of hope and determination, it is sure to motivate its listeners.
+				}
+				"hardbass" (fast-paced, even-rhythmic, industrial, danceable, exciting, twisted-sounding, interesting, dance-rap song) {
+					1. "Be a Warrior": A song about strength and courage in the face of life's challenges, and a reminder not to give up.
+					2. "Fight the Fear": A song about overcoming fears and doubts, and about the power of believing in yourself.
+					3. "Let Go of the Outcome": A song about learning to leave the outcome of our efforts to fate and the will of the universe.
+					4. "Can't Stop Me": A song about pushing through despite any opposition and refusing to be deterred.
+					5. "Victory": A song about achieving success in the face of adversity, and about remaining focused on the goal.
+					6. "Hold Your Ground": A song about standing firm in the face of adversity, and about believing in yourself and your own power.
+					7. "Live for the Moment": A song about seizing and appreciating life's momentary pleasures, and about looking for joy in the present.
+					8. "Start Again": A song about the power of beginning anew, and about taking advantage of the opportunities that life offers.
+				}
+				"i love you" (slow, sad, complaining, straightforward, loving, friendly, angry, demanding, rap song) {
+					1. "No One Knows" - This could be about how enough is enough and that it's time to take a stand for yourself and find your own way in life.
+					2. "Letting You Go" - This could be about the pain and regret of having to let someone go after a hard, but ultimately loving relationship.
+					3. "Please Don't Go" - This could be a reminder to always stay close and never give up on someone close to you.
+					4. "Despair" - This could be an anthem to express the feeling of desperation and loneliness felt when lost in the world.
+					5.  "Giving Up the Fight" - This could explore the idea of taking a step back and recognizing that sometimes fighting only causes more pain and suffering.
+					6. "Empty Inside" - This could be an exploration of the emptiness left behind after losing a loved one.
+					7. "No Choice But To Move On" - This could be about how difficult it can be to stay strong and look towards the future when everything else is falling apart.
+					8. "How Far Can I Go" - This could be a song about the power of overcoming obstacles and pushing yourself to achieve great things.
+					9. "Nobody's Perfect" - This could be a reminder of accepting your faults and failures while remaining strong and determined to never give up.
+					10. "Unfair" - This could be a song of frustration outlining the feeling of injustice and struggle often faced in life.
+				}
+				"loco" (slower tempo, moody, urban, interesting, exciting, positive, funk-rap song) {
+					1. "Always Find A Way Out" - about the spirit of determination and resilience and never giving up no matter what the situation, no matter how difficult the circumstances are.
+					2. "Rise Again" - about coming back stronger than ever, an encouraging song to rise up and not to be discouraged by any setback or difficulties.
+					3. "Yesterday's Lullaby" - a ballad about looking back on the past and seeing how different it is than the present, about understanding that change is inevitable and that it brings new possibilities for the future.
+					4. "See The Light" - an optimistic, empowering song about finding hope and strength in tough times and believing in yourself and in finding the inner strength to push through anything.
+					5. "In Good Company" - a song about the comfort of knowing that you are not alone and that there are friends you can rely on that will help you pick yourself up and will be with you through thick and thin.
+					6. "No More Waiting" - a call to action, a reminder that life is too short to wait and that it's time to take action and start living.
+					7. "Daily Grind" - a song about the grind of day to day life and the need to break out of the monotony and to live life to the fullest.
+				}
+				"medical drama" (midtempo, worried, angry, crying, disappointed, bitter, scared, pop-rap song) {
+					1. "Unresolved": The song expresses my feelings of being stuck in an unresolved situation. Right when I thought I was out of it, something got in the way. 
+					2. "So Cold": A heartache slow jam that talks about the coldness of heartbreak and loneliness. It touches on how sometimes the person who loves you the most can hurt you the hardest.
+					3. "Dead End": This song speaks to the feeling of being in a relationship with someone but it leading to a dead end. It's about the reality of love and all it's complications.
+					4. "Lost in the Crowd": This song talks about a experience of feeling lost in a sea of people. It speaks to how it's easy to get lost in the mix of life and how we all desire a connection.
+					5. "Can't Find Myself Anymore": This is a song about being lost in the fog of life without being able to find ground. It brings out the feeling of wanting to find oneself but never being able to do so.
+					6. "Goodbye": This song speaks to the regret of leaving something behind that matters. It tells the story of having to say goodbye to something that was once essential. 
+					7. "Hold On Tight": This song centers around the thought of holding onto an object or person a little bit too tightly. It represents the fear of letting go and the comfort of holding on. 
+					8. "Fallen Tears": This is a slow and haunting ballad about the pain of loving and losing. It captures the despair of having to let go of someone who was once so close.
+				}
+				"morning in the forest" (medium-tempo, fun, humorous, childish, forest-themed, rock-rap song) {
+					1. "Beaver Builder" - The song is about a beaver, who tries to build its dream the best it can despite all the odds and challenges.
+					2. "Wild Wild Wood" - The song is about the beautiful and wild forests of the world and the freedom and beauty found there.
+					3. "Tales from the Trees" - This song takes the listener on a musical journey through the history, culture, and mythology of the forests.
+					4. "Sapling to Oak" - This song follows the life of a single tree from a sapling to an adult oak giant.
+					5. "The Sap" - A rap about the inner strength and determination that trees need to survive in a world full of hazards.
+					6. "Guardians of the Forest" - This song pays tribute to the animals and people who act as stewards and protectors of the forests.
+					7. "Tree Huggers" - A celebration of the people who give their time and energy to help preserve and maintain the forests.
+					8. "Tired Timbers" - A bluesy song that frames the plight of forests as they succumb to the pressures of the environment.
+					9. "Woodland Wonders" - A song that celebrates the sheer variety and awesomeness of the forests and nature.
+					10. "Calling the Trees" - An ode to the natural connections between people and trees, and the positive energy that comes from embracing both.
+				}
+				"snowy winter and candles" (slow-tempo, traditional, atmospheric, wintry, close to nature, loving, family-friendly, folk-rap song) {
+					1. "Ice and Snow": A slow-tempo traditional song that captures the feeling of a cold winter and tells a story of the uniqueness of family. The chorus is a poetic reflection on the beauty of nature. 
+					2. "Finding Home": A slow-tempo folk-rap song that talks about dealing with hardships and finding a sense of home in one's surroundings. It is a reflection on the struggles of life, and how despite the struggles, a person starts to find a sense of belonging. 
+					3. "The Dark Season": A slow-tempo, atmospheric, and wintry song that captures the feeling of struggling through a tough period. It talks about reflection, how things that seem dark can have a light of hope, and the beauty of accepting one's own imperfections. 
+					4. "A New Beginning": A slow-tempo, family-friendly song that talks about fresh beginnings and old wounds, how sometimes embracing the journey is the only way a person can make a new start.
+				}
+				"summer 2021" (half-tempo, loving, sexy, dancehall rhythmic, atmospheric, dancehall-rap song) {
+					1. "Beautiful Girl" - a song about appreciation for my beautiful and intelligent love, the one I can't express my feelings to. The lyrical content is about wanting to show the world how much I care for her, how much I appreciate her and how beautiful she is in my eyes. 
+					2. "Cherish the Moment" - a song about not taking time or relationships for granted. It's about valuing and cherishing what we do have and trying to focus on the good in any situation. 
+					3. "Paradise" - a song about how life can change and how everything can turn to gold if we believe in ourselves and stay true to our path. This song draws inspiration from the idea of love being the ultimate paradise and finding joy in life. 
+					4. "We Will Survive" - a song about resilience and determination, about finding inner peace and understanding in hard times. It's a reminder of not giving up and believing in our potential and in our own strength. 
+					5. "The Light" - a song about hope and about trust. Focused on the idea that there is always a silver lining and that we can find a way to look at the bright side of anything we go through. 
+					6. "Breathe Again" - a song about starting anew and about keeping going when we feel like all hope is lost. It's a reminder to never give up and get back up when we feel like we are the weakest. 
+					7. "The Remix" - a remix of one of the tracks from #9, so to celebrate the 10 year milestone since I started producing music. This song will share all the learning I have experienced so far and help me to appreciate where I am now.
+				}
+				"by your side" (fast paced, loving, loving, kinky, metaphorical, happy, positive, calm, rock-rap song) {
+					1. "Loving Kinky" - A song about finding an entertaining way to explore one's inner desires and intimate connection with another person. 
+					2. "The Game of Life" - A song about playing the game of life and tackling its challenges while striving to stay positive and victorious. 
+					3. "A Journey of Love" - A song about embarking on a journey of romantic emotions with someone special and coming out a winner.
+					4. "Inner Freedom" - A song about the liberation from one's restrictive self-imposed boundaries by starting to express oneself freely and openly. 
+					5. "Unraveling Mysteries" - A song about the power of exploration and discovering the truth of life by unravelling its secrets. 
+					6. "Perfect Harmony" - A song about finding peace and balance through music and its harmonious notes. 
+					7. "Letting Go of Fear" - A song about embracing the courage to tackle your fears and not letting them take control of your life. 
+					8. "Higher Educations" - A song about gaining greater knowledge and wisdom through educated ways of thinking. 
+					9. "Funky Fusion" - A song about merging two separate mindsets and combining them into one unique entity. 
+					10. "Taking Flight" - A song that encourages you to take off on a new journey and discover new heights of your existence.
+				}
+				"cutie from future" (mid-tempo, loving, happy, hopeful, comforting, danceable, major chord, rock-rap song) {
+					1. "Rise Again": This song focuses on how even at our lowest points we can rise again and keep going. It speaks to the resilience of the human spirit and the wisdom that comes with facing hardship. It tells the story of when Seppo was in the military and was facing a lot of adversity, but was able to overcome it and keep going. 
+					2. "Caring and Beautiful": This song emphasizes the importance of friendship and love in our lives. It speaks to the ways in which our good friends not only give us the support that we need, but that the presence of people in our lives that care about us makes us better people. Seppo is singing about the relationships he has built with his friends and how it has made him stronger and more caring. 
+					3. "Breakaway": This song is an ode to the future that's possible. Seppo reflects on everything he has overcome and creates a call to action to break away from where we were, take what we have and create something better. It speaks to the power of second chances and the ability to keep moving forward.
+					4. "Grow": This is a song about growth and self-improvement. Seppo talks about the importance of learning from the mistakes we make and how the experience can help us become better people. He reflects on how he has grown emotionally due to the support of his friends. It's an upbeat, empowering track that celebrates the journey of personal development.
+				}
+				"desperado" (cinematic, exciting, dark, dark, hopeful, powerful, strong, manly, angry, rap song) {
+					1. "This is War" - A song depicting the battles and struggles of life, with an understanding of the power of resilience and grit to overcome all obstacles .
+					2. "Rise Above" - A song expressing the will to keep fighting and pushing forward, emphasising on how one can reach great heights if they never give up and continue to strive.
+					3. "Mask of Strength" - A song about the internal battles each person fights and how they can become masked and hidden under a false security of safety.
+					4. "Stronger Than Before" - A powerful anthem about self- growth and rising from the ashes even through the darkest of times.
+					5. "We Will Not Falter" - A song dedicated towards never giving up, no matter how hard life can be. With a message of never losing faith, this song is a declaration of never giving up. 
+					6. "Look Away" - A story of pain, sorrow and sadness, yet also a journey of hope, light and strength. Describing a difficult period of one’s life, looking away from the darkness and focusing on the light.
+					7. "Beautiful Light" - A story of seizing the moment and of never giving up on hope, despite the difficulties of life. 
+					8. "Louder than Courage" - A song focused on the importance of one's thoughts and dreams, and on the strength to fight for the right to do what you believe in. 
+					9. "Ready to Fight" - An anthem of resilience and courage, this song talks about being unafraid and ready to battle any difficult situation that comes our way. 
+					10. "Collective Strength" - A song about the power of Collectivism and the strength of coming together to overcome. This song stresses the importance of standing in solidarity and overcoming obstacles together.
+				}
+				"don't worry honey" (positive, comforting, loving, happy, soothing, romantic, pop-rap song) {
+					1. "Highlights" : A story of how someone overcame the difficulties of life to reconnect and move on.
+					2. "Falling Out Of Love": A song about feeling like it's better to let go of someone you once loved than stay in a negative relationship.
+					3. "Her Smile": A song about being content and thankful for all the joy and happiness someone brings along.
+					4. "Unbroken": A song about finding strength and freedom in the middle of a challenging situation.
+					5. "We'll Be Fine": A tune that speaks of embracing the uncertainty of life and knowing that we will make it through the difficult times.
+					6. "Let Go": A song that encourages people to break free from the pain and anxiety, and to fight for a better tomorrow.
+					7. "Love You Still": A song about standing strong despite all the difficulties and still loving someone.
+					8. "Don't Worry": A song to ease the worry and fear by reminding people that all will be better in the end.
+					9. "Shine Your Light": A song to remind the listener to keep believing in themselves and keep up the courage and strength to move on. 10. "Honor the Journey": A song that emphasizes the importance of cherishing the efforts we make and appreciate the positive changes and shifts in life.
+				}
+				"jinn" (medium-tempo, oriental, even-rhythmic, danceable, exciting, special, interesting, pop-rap song) {
+					1. "Raise Your Hands": The song is about overcoming shyness and the courage to take the plunge and enjoy life despite of the adversity. The chorus celebrates joyousness and accepting yourself.
+					2. "Kiiminki": This song is an ode to my hometown Kiiminki. It pays homage to the people I grew up with and the memories we shared together. 
+					3. "Never Be Afraid": This is a song about learning to trust yourself, challenging fear, and never giving up. The chorus is meant to be an inspirational reminder to never be afraid of taking risks in life and facing your fears. 
+					4. "Trust": This song is an uplifting anthem that talks about finding inner strength and trusting your gut. The message is that we all have the capacity to trust our intuition and act on our dreams. 
+					5. "Chase Your Dreams": This is an anthem for those who are striving to make their dreams a reality. The song is about pushing through the fear to achieve success and fulfillment. 
+					6. "Follow Your Heart": This song is an ode to trusting your instincts and going wherever life takes you. It's about taking chances and embracing the journey of life despite the obstacles. 
+					7. "At the End of the Day": This song is about looking back on life and being proud of the accomplishments and memories achieved along the way. The chorus focuses on positivity and resilience. 
+				}
+				"political juggler" (slow-paced, funky, aggressive, rhythmic, political, positive, funk-rock-rap song) {
+					1. "Seeds of Revolution" – the song starts with an intense intro which features a throbbing and heavy beat that changes phrasing and tempo multiple times. The track develops as a combination of a delicate piano outro interrupted by a chorus full of rap verses which urge the listener to stand up and fight for a better future. It creates a sense of urgency and strength.
+					2. "Light Up the Night" – a track which begins with a head-moving drum and bass beat that is quickly followed by energetic and melodic piano playing. It then builds up to a bombastic chorus which features rap verses advocating peace and justice. The listener is told to keep the flame of optimism alive in their hearts.
+					3. "Listen to My Voice" – a track featuring a slow and dark intro made up of distorted electronic sounds and drum programming. Then the song breaks into an uplifting chorus which contains a message of self-empowerment and motivation to take control of one’s life.
+					4. "Rebel's Anthem" – a rocking and energetic tune which features an infectious groove and guitar riff that alternates between distorted and clean sounds. The track carries an inspirational message of freedom and the courage to stand up for one’s beliefs.
+					5. "Speak Out Loud"– a powerful rap-rock anthem that starts with a soul-crushing beat that lays the foundation for the rest of the song. It contains a message of powerful words which urge to be spoken aloud in order to make a difference in the world.
+					6. "Unite the World" – a song featuring a funky hip-hop beat that is harmonic and cheerful. It evokes the sense of unity and is driven by empowering rap verses which tell the listener to join forces and work together in order to make a better tomorrow. 
+					7. "We Won't Give Up" – a track featuring an electrifying beat that is constantly building up and then breaking down. The heartfelt lyrics and inspiring chorus push the idea of staying strong and fighting for a better future. 
+					8. "Born to Shine" – a melody that carries a hopeful message of not giving up on yourself and your dreams no matter what the circumstances. The track features powerful rap verses accompanied by uplifting synths and hard-hitting drums.
+				}
+				"professional pride" (slow tempo, calm, ethereal, beautiful, hopeful, soothing, danceable, ballad-rap) {
+					1. "Feels like Home" : This song is about the journey and experiences of Seppo to find happiness at home, exploring the highs and lows of life after the military and facing new challenges in university. The song is full of melancholic instrumentals and calming vocal sounds to accompany the reflective lyrics. 
+					2. "Call it Fate" : This song is about the twists and turns life takes and gives us, and how destiny gives us clues and signals if we only recognize it. It talks about the uncertainty and faith it takes to decide our own paths and stay true to ourselves. It has an upbeat tone full of energy with rhythmic beats and uplifting vocals. 
+					3. "The Way out" : This song is about Seppo's search for a way out of the difficulties and struggles he's been through. It talks about his journey to find himself and re-discover the courage he once lost. It's a combination of rap-like vocals and dreamy orchestrated music to create a feeling of hope and light. 
+					4. "Life Unravelled" : This is a reflective song about Seppo's journey from boyhood to adulthood and the understanding that life will test us in unexpected ways. It has a soothing and slow tempo combining melodic chords and soulful vocals. 
+					5. "Honored" : This is a song about Seppo's appreciation for the challenges in life. He talks about how the hard times have made him into who he is today and how thankful he is for it. It has an upbeat rhythm with rap-like verses, uplifting choruses and powerful adlibs.
+				}
+				"thanks everyone" (fast-paced, flattering, exciting, 50s rock nuanced, happy, major chord, interesting, rock-rap song) {
+					1. "Too Late Now" A song about how it's already too late for me to make up for any mistakes that I've made, and I'm just trying to live a happier life forget about the past
+					2.  "Light at the End of the Tunnel" A song about how I have managed to have some improvements in my life, and I'm not the same person I was before. 
+					3. "Make Me Believe" A song about my journey when I was trying to find out who I am and where I should be headed, and how I tried to remain hopeful.
+					4. "Rise Up" A song about how I learned from making mistakes and stood up back stronger and ready to face life again.
+					5. "Grow Stronger" A song about how I pushed myself to become better, stronger and wiser every day in order to succeed in life. 
+					6. "What Keeps Me Going" A song about my passion for life and my drive to never give up even when life gets tough.
+					7. "Stay In The Moment" A song about how I try to take my time and stay in the present, as I know that it will help me appreciate life more. 
+					8. "Stronger Beliefs" A song about me focusing on doing things that I truly believe in and fighting for what I think is right.
+					9. "To Feel Alive" A song about me trying to enjoy every moment and make the most of life. 
+					10. "Take My Time" A song about my journey through life, taking my time to enjoy each moment, no matter how hard things get.
+				}
+				"too much pain" (mid-tempo, aggressive, complaining of pain, angry, determined, demanding, rock-rap song) {
+					1. "Painful Price" - This song is about the price of a lifetime of painful mistakes and obstacles. It is a reflection of the damage caused by my experiences, showing that there was a price to pay for my lack of courage and judgment.
+					2. "Justice Now" - This song calls for justice for those that have suffered and speaks of the need for fairness and equality for those that have been oppressed.
+					3. "Fight Back" - This song is about standing up for your rights and fighting for what is right. It speaks of the strength given by standing up for yourself even in the face of great obstacles.
+					4. "Stand Up" - This song encourages people to take action and make a stand against injustice. It speaks of the power of speaking out and the importance of standing up for what you believe in.
+					5. "The Beast Within" - This song speaks of the inner beast in all of us, and how even in dark times, courage and strength can be found. It is an empowering song, showing that we all have something deep inside of us that can never be taken away.
+					6. "Unstoppable" - This song conveys a message of self-belief and shows how even the greatest battles can be won if you are unafraid to take risks and stand your ground.
+					7. "Rise Again" - This song shows the power of resilience and speaks of how no matter how many times life knocks you down, you can always get back up and move forward. It is a celebration of perseverance.
+				}
+				"you don't need to" (faster-tempo, exciting, intense, interesting, disturbing new awakening, minor chord, rock-rap song) {
+					1. "Fast and Furious": this song will be about the ultimate chase for life and the journey that follows. It will touch topics like ambition, focus, determination, and courage.
+					2. "The End of the Beginning": this song will talk about getting over tough times and finding the joy and hope after hardships.
+					3. "Hard Love": this emotional song will explore the hardships of love and talk about going through the pain and suffering that come with it.
+					4. "Run Away": this fast-paced and upbeat song will depict the moment when one breaks free of the emotional, physical, and mental constraints of the past and moves forward.
+					5. "Absolute Power": this intense song will discuss the idea of how some people feel the need to be in control in all aspects of their lives. 
+					6. "The End is Near": this song will explore the concept of death and its finality. It will also focus on how to accept and embrace life in all its imperfect and fragile forms.
+				}
+				"always on my mind" (mid-tempo, masculine, waiting for a break, tired but relieved, rewarding, rock-rap song) {
+					1. "Tired But Relieved": A song about the feeling of being exhausted and longing for new opportunities while still enjoying the moment and knowing that life keeps going and that a bright future is in sight.
+					2. "Midnight Cowboy": A song about being stuck in a place, trying to get out but unsure as to if you can make it. It speaks of determination to make it out and tries to find the motivation to keep going.
+					3. "Heading For Tomorrow": A song about the sensation of finally achieving what you dreamed of despite all the hardships and obstacles. A celebratory and uplifting song about overcoming the odds and starting your journey to a better life.
+					4. "Here I Stand": A song about standing firm in ones beliefs despite what the world may think. It speaks of the strength and courage gained from having the courage of one's convictions and never backing down.
+					5. "The Reward": A song about the reward of making the right choices in life, and how great it feels to have been able to make a difference and achieve success.
+					6. "The Break": A song about taking a break from it all, finally realizing that it pays off to stay true to oneself and focus on ones dreams and aspirations. A motivational song about taking a break from the hustle and bustle of life and allowing yourself to enjoy it.
+					7. "Waiting for a Miracle": A song about believing in something bigger than yourself and holding on to the hope that something greater is right around the corner. A song about the power of faith and the never-ending willingness to soldier on despite all the odds.
+				}
+				"date night" (midtempo, dating, romantic, expectant, dreamy, worried, love, pop-rap song) {
+					1. "A Page Out of Time" - A song that reflects on the page Seppo's life is on, and how it's time to turn it over and start over, and time for him to make better choices.
+					2. "Take A Chance" - A song about taking a risk and making a step forward and working to build a brighter future despite his tumultuous past.
+					3. "Can I Still Believe?" - A song asking if Seppo can still believe in himself and his abilities, even though he has gone through so much and has made so many mistakes.
+					4. "Unconditional" - A song about the unconditional love Seppo has received from his friends and family, even through his hardest moments, and how this love keeps him going.
+					5. "Questions Without Answers" - A song about Seppo's struggles and questions that seem to have no answers, but there still is hope and something to cling on to.
+					6. "You Are The One" - A song about Seppo's newfound determination to make his life better and how he knows he can do it with the right person by his side.
+					7. "Raise Your Voice" - A song encouraging Seppo to raise his voice and speak up despite his past traumas.
+					8. "A Dream Awaiting" - A song stressing the importance of dreaming and visualising the possibilities before him.
+					9. "Everything Will Be Okay" - A song about how no matter how much heartache Seppo has endured, his life will be okay.
+				}
+				"dream job" (midtempo, breakup, disappointed, minor, exciting, interesting, sleepy, rock-rap song) {
+					1. "Runaway":  This song is about feeling overwhelmed by the situations life has thrown at you, and wanting to escape it all. It talks about a person's struggle to stay the course and resist running away from their life's problems.
+					2. "Letting Go": This song is about dealing with a breakup and needing to move on with life. It talks about the pain of trying to accept that the relationship is over and struggling to let go of the past.
+					3. "Give and Take": This song is about learning to be more selfless and compassionate. It talks about the solution of learning what it means to give and take in equal measure in order to create lasting relationships. 
+					4. "Closing Doors": This song is about understanding when it is time to leave a situation or to move on from a relationship. It talks about the importance of recognizing when it is time to close a chapter of your life and move on.
+					5. "Lost in Time": This song is about struggling against the passing of time and feeling as if life is speeding up. It talks about being scared of what lies ahead but also determined to keep making the best of every moment. 
+					6. "Hopeless Broken": This song is about feeling completely broken and lost. It talks about accepting that you can't find your way from the darkness and not knowing how to pick yourself up and start again. 
+					7. "Unfulfilled": This song is about the feeling of disappointment after an unfulfilled expectation. It talks about the pain of knowing that your expectations will not be realized, and the struggle to accept this.
+				}
+				"elegant" (slow-tempo, hard, rhythmic, metal music woman, aggressive, minor-chord, interesting, metal-rap song) {
+					1. "Heart Of War"- This song dives into the horrors and tragedy of war on a personal level. It talks about the pain and anguish of people who have to face death on a daily basis, and the struggle to keep their humanity intact. The song also looks at how people can be a part of something that will have a lasting impact on the world around them. 
+					2. "Dying Mind"- This song focuses on the inner struggle of a soldier having to experience the horrors of war. It looks at questions of morality and the depths of what a person can be capable of in extreme circumstances. It also dives into the dreams of the soldier and how their life could have been drastically different. 
+					3. "Echo Of Shame"- This song is about the role of a soldier in an unjust war. It speaks to how the devastation and suffering of those caught in the middle of it will linger long after the war is over. It also talks about how that shame can sometimes linger in those soldiers, and how they must work to overcome it. 
+					4. "Streets Of Misery"- This song examines the effect of the war on those who are left in its wake. It speaks to those who are struggling to survive and cope with their losses, and how no amount of money or material possessions can heal the pain. It also speaks to how the cycle of violence and its aftermath can linger in an area for generations. 
+					5. "Lifeblood Of Survival"- This song celebrates the resilience and strength of those who fight and survive in the face of violence and bloodshed. It speaks to how no matter what tragedies have befallen people, they can still be strong and their voices can still be heard. It is a reminder that life is precious and can be used as a source of strength and hope.
+				}
+				"forever repeat" (medium-tempo, holiday-like, sunny, happy, positive, festive, rock-rap song) {
+					1. "A Happy Year": A song about celebrating the end of the year and embracing the new beginnings it brings. It talks about the joy of leaving the struggles of the past behind, and looking ahead to a brighter future with optimism.
+					2. "Reaching for the Sky": A song about finding the courage to reach out for your dreams, no matter how big or how small. It emphasizes the importance of believing in yourself and having the confidence to pursue something bigger.
+					3. "The Journey of Life": A song about life's unpredictable ups and downs and the importance of staying positive even when things don't go as expected. It acknowledges the difficulties of life but encourages us to keep reaching for our goals. 
+					4. "Dancing In The Sun": A cheerful song about learning how to appreciate the simple pleasures life has to offer and be grateful for the little things, like dancing in the sun. 
+					5. "Breaking Through": A motivational track about breaking through the barriers that hold us back and embracing new possibilities. It talks about the power of believing in yourself and using your determination and strength to push forward.
+				}
+				"keeping place safe for her" (slow, steady, danceable, minor, romantic, protective, loving, worried, pop-rap song) {
+					1. "Feels Like Home": The song is about how it feels to be in a deep and meaningful relationship, where one can feel emotionally protected and accepted. It talks about how it's comforting to be in this kind of relationship, giving stability and safety. It expresses love for the partner and how it can be reassuring to have someone who really cares for you.
+					2. "Victim of Love": The song is about a partner who falls in love with someone who they know will never love them back. The song lyrics talk about how it can be painful and frustrating to be in such a situation, but despite that, there is still a hope that they might be able to find some kind of happiness even if it's just for a fleeting moment.
+					3. "The Unexpected": The song is about someone who likes being taken by surprise and sometimes letting go and just trusting the process. It talks about how the fear of the unknown can be just as scary as the feelings of love one has for someone else. It's also about how sometimes it takes a while to recognize true feelings and truly let yourself go in the moment.
+					4. "Take Another Chance": The song is about taking a chance and allowing oneself to be vulnerable by admitting feelings for someone else, but also knowing that a new relationship may not work out and that it is important to be prepared for a possible breakup. It acknowledges the risks but also talks about how it can be worth it to open up and take a chance. 
+					5. "Dream of the Future": The song is about dreaming of what could be and having hope despite knowing that sometimes our dreams may not come true no matter how hard we try. It is about having the courage to reach for something and accept that it may be out of reach, yet still believing that it could become a reality.
+				}
+				"party partyyy" (fast-tempo, steady rhythm, orchestral, big band style, horn playing, positive, major chord, festive, fun, pop-rap song) {
+					1. "Feel Good Again": This song is about embracing life and living in the moment despite struggles and challenges. It celebrates overcoming and resilience. 
+					2. "The Joy Is Here": This song is about acknowledging the present moment and giving thanks for every opportunity and blessing in life. 
+					3. "Celebrate Now": This song is about the importance of being thankful for the present and celebrating life in the here and now. 
+					4. "Good Vibrations": This song is about how focusing on the positive things in life can create joy and increase happiness. 
+					5. "Born to Shine": This song is about recognizing and embracing the unique gifts and talents each person has and using them to make the world a better place. 
+					6. "Never Give Up": This song is about staying strong and never losing hope during difficult times. It encourages perseverance and determination. 
+					7. "Break Free": This song is about overcoming obstacles and having the courage to take risks and chances. It encourages listeners to do their own thing and break free of their comfort zones.
+				}
+				"saturday show" (mid-tempo, steady rhythm, orchestral, big band style, horn playing, positive, major chord, festive, epic, ecstatic, pop-rap song) {
+					1. "Kohtalon valitus" - This is a song about courage to fight against destiny to appreciate life. It tells the story of Seppo's journey from his hard time in military to his beginning of a new life as an music producer.
+					2. "Löysin anteeksi" - This song is about the journey of self-forgiveness and understanding. it tells how Seppo was able to free himself from his past and how he was able to turn his life around.
+					3. "Vain olla itse" - This song is about finding strength in being true to oneself. It is a song about courage to follow one's heart despite all the struggles.
+					4. "Nousu jälleen" - This song is about continuing to move forward even if the way is painful. It tells the story of how Seppo was able to keep going even in difficult times.
+					5. "Löytynyt Luova" - This song is about the discovery of one's inner creativity. It talks about the process of Seppo's finding his identity as a music producer.
+					6. "Uudelleen" - This song is about the power of starting over. It is about how the strength of those friends and the courage of Seppo to move to another city with a new hope made him a successful music producer.
+					7. "Syntynyt ja tehnyt" - This song is about the transformation that Seppo made from being bullied in military to becoming a music producer. It talks about Seppo's determination to continue his creative path and using the support of his friends to achieve this.
+				}
+				"sea shanty" (fast-paced, sea-themed, worried, pleasant, touching, love, punk-rap song) {
+					1. "My Rising Tide": This song speaks to someone who is struggling through hard times, but is able to find the strength to push forward. The chorus is a metaphor for the person's struggle, likening it to a vast ocean that comes crashing down. The verses explore themes of love and resilience as the person pick themselves up and look towards a new horizon.
+					2. "Living Waves": This song is an uptempo anthem of staying strong against life's tough seas. It speaks of a narrator who is determined to push through whatever hardships come their way. It addresses the need for used to be strong and to keep perspective even when feeling down.
+					3. "Salties": This song draws on classic punk and rap influences to paint a picture of someone who is determined to stand their ground against the tides and the difficulties ahead of them. It speaks of a narrator who won't be knocked down by the seas, but is determined to keep rising again and again even if they have to trudge through the muck.
+					4. "Full Tilt": This is an upbeat, upbeat folk-pop love song that speaks of two lovers rising together despite the tides, and the joys of keeping each other afloat. It speaks of a dream of the future, and of two hearts being strong together against the odds.
+					5. "Highs and Lows": This is a slower, but still fast-paced punk-rock ode to the struggles of life, as well as the joys. It speaks of the highs and lows of life, and of the narrator's determination to keep moving forward, even when times are hard.
+					6. "Light of Day": This is an up-tempo, folk-inspired power anthem that speaks of survival and fighting against the tide. It speaks of the narrator's determination to keep trudging forward and making it to the light of day. It speaks of the hope for a brighter future ahead.
+				}
+				"tiptap" (fast-paced, band-themed, guy-themed, insider, minor key, exciting, technical, danceable, rock-rap song) {
+					1. "Back To The Grind" - A modern hip-hop based song that combines hard-hitting drums, aggressive raps, and distorted electric guitars. Describes the daily stress and non-stop grind of hardworking young men in modern society.
+					2. "Warzone" - An intense electronic song infused with pop culture influences and fast-paced drum beats. Lyrically, it is about life in the war zone, and making it through despite having no direction or purpose to fight for.
+					3. "On My Own" - A fast-paced, minor key punk/rock ballad with a solo electric guitar. Lyrically, it's about the protagonist's journey of self-discovery and determination to find their own path in life.
+					4. "Under Pressure" - A heavy rock-rap style track featuring heavy rapping and distorted electric guitars. A warning for others to stay away and stay out of trouble.
+					5. "Lose Yourself" - An upbeat danceable rap song with a modern trap-style beat. The lyrics talk about recognising yourself, breaking the mould, and trying to fulfil your dreams - even when faced with adversity. 
+					6. "Tech Souls" - An all-out rap-metal song with powerful distorted electric guitars and rapping. The lyrics focus on technology's impact on humanity, and its power to rob us of our freedom and souls. 
+					7. "All That's Left" - A melodic acoustic rock ballad expressing the emotions of a lost and confused young man. It features a vivid story of someone struggling to find his place in the world.
+				}
+				"will you ever notice me" (mid-tempo, inconsolable, complaining, individual-oriented, emotional, telling, partly happy, sad, disappointed, self-loathing, major chord, pop-rap song) {
+					1. "Questioning Everything": This song talks about the struggle of facing difficult decisions, uncertainties, and what-ifs.
+					2. "Invisible Tears": This track is about feeling depleted and exhausted, and how it affects one's self-confidence, relationships, and overall life.
+					3. "Loneliness Is Natural": This is a reflective look at how life is often a mix of both good and bad times, and how it is important to still focus on the good and love what lifes has to offer.
+					4. "After the Rain": This song is about coming out of hardship, adversity, and pain with newfound wisdom and strength.
+					5. "Tunes of Tonight": This track is about having faith in the future and staying strong for the night ahead.
+					6. "It's Alright to Frown": This is about accepting one's emotions, even if they are not always pleasant.
+					7. "Looking Ahead": This song is an optimistic, encouraging look at not letting the past define you and focusing on the positives in life.
+				}
+				"wound" (mid-tempo, emotional, interesting, meditative, minor, Slavic, positive, confident, folk-rap song) {
+					1. "Honest Love" - A story about self-acceptance in the face of hard times, when doubts prevail and life is seemingly difficult.
+					2. "Dreams of Home" - A song about the emotional journey of moving away from home, being homesick and the struggles of being away from friends and family.
+					3. "Rise Up" - A song about overcoming obstacles, even when the odds are against you.
+					4. "Powerful" - A song about embracing your strength and potential, and believing in yourself to come out on top.
+					5. "Take All You Can" - A song about working hard, taking risks, and taking advantage of the abundant opportunities available to you.
+					6. "Mistake Upon Mistake" - A song about accepting your imperfections and not giving up in the face of adversity.
+					7. "On My Own" - A song about taking ownership of your life and learning to stand on your own two feet.
+					8. "Reach Out" - A song about the power of friendship and the importance of appreciating your loved ones. 
+					9. "The Best of Me" - A song about not giving up on yourself and believing you always have the ability to be the best version of you.
+				}
 			}
 		}
 	}
@@ -1092,4 +1824,4 @@ unpublished period (2010 summer - 2023 summer) {
 subject {;name: Seppo Pakonen;born: 1989;place: Oulu, Finland;timeline: high school (2005-2009), military (2009-2010), university (2010-2019), unemployed(2019-2023);character: caring, beautiful, intelligent, techie, cheap;};theme {;storyline {;2010 - 2023 {;With the understanding and support of my good friends, I was able to emerge from a tough time stronger and more resilient. ;};};};pre-publishing (2005) {music project (artist-name: the wayward, during: second half of 2005) {my friends {}production {song "Feels Like Home"}}}published (2006-2010 summer){album #1 (artist-name: The Vice, during: ) {my friends {}production {song ""}}album #2 (artist-name: PMS, during: ) {my friends {}production {song ""}}album #3 (artist-name: Pohjan Tähti, during: ) {my friends {}production {song ""}}album #4 (artist-name: Vaikeat Ajat, during: ) {my friends {}production {song ""}}album #5 (artist-name: Vaikeat Ajat, during: ) {my friends {}production {song ""}}album #6 (artist-name: Vaikeat Ajat, during: ) {my friends {}production {song ""}}album #7 (artist-name: Vaikeat Ajat, during: ) {my friends {}production {song ""}}}unpublished period (2010 summer - 2023 summer) {album #8 (artistname: loathing inc, when: during second half of 2010, where: myspace) {explanation {military {I had just gotten out of the army, which was the hardest experience of my life up to that pointin addition to the physical harshness, I had been severely bullied and had not found a girlfriendI was in really bad shape mentally, but nothing bothered me and I was happyfriends {I got hundreds of Facebook friends during the army, when I added new and old friends from Kiiminki through friends}}school {I had moved away from my hometown to Vaasa to study in the university because of the ideas given by my army friends}life I still tried to find joy in musicI lived in a student apartment in Vaasamy old traumas struck again and I wasn't able to go to the students' night out, which upset me a lot, and on top of that I seemed antisocial, unfortunately}professional music producer {I was very hopeful that my music would still spread, because I had been active for 5 years and had successes undermy rap projects were so popular at the moment that strangers were uploading songs to youtube and they had tens of thousands of views. I didn't rap myself, even though I was the main force in them}}the things that the pictures tell about this time {}mistakes {not following internet trends and where people are { reason: I had been disconnected in military for a year }no internet talking { reason: I was too rusty to talk because of military and also because of Steiner school's way of teaching } not strengthening courage to rap or sing { reason: I was traumatized and discouraged to sing and talk directly already in my third class in Kiiminki which people don't still understand }not training voice and lyricsnot keeping text records what I did { my rap projects were popular, but I didn't keep track of them }}what is good {songs survived { info: I have all songs what I did }27 notes survived ( info: they are not all lyrics but I can use them for lyrics still }I can make authentic songs now { info: I could have make them back them if I had had help }}the best proposals in relation to the 2010-2023 amendment {these are good and energetic songs, and almost all of them are worth producing}}album #9 (when: year 2011) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #10 (when: year 2012) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #11 (when: year 2013-2014) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #12 (when: year 2015-2016) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #13 (when: year 2017-2019) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #14 (when: year 2020) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #15 (when: year 2021) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #16 (when: year 2022) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}album #17 (when: year 2023) {explanation {school {friends {I hoped that the guys would be social on their own initiative also in my direction, and not always just the other way around}}life {I was hoping to find a beautiful girlfriend}professional music producer {I didn't have the strength to use my voice and produce songs for myself, even if I could have otherwise}}the things that the pictures tell about this time {}mistakes {}what is good {}the best proposals in relation to the 2010-2023 amendment {}}}
 
 
-1list of song ideas and explanations for a song in the album #12 , which is synthwave, clichéd, tense, atmospheric, minor-key, rap-dance song:
+list of song ideas and explanations for a song in the album #12 , which is synthwave, clichéd, tense, atmospheric, minor-key, rap-dance song:
