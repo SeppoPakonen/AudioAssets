@@ -718,6 +718,19 @@ unpublished period (2010 summer - 2023 summer) {
 				}
 				"sad little furry ball" (worried pop song)
 			}
+			best combination (Dragons Vs Snakes) {
+				"gala": "Cheers and Beers" - a fun, upbeat rap about good times and partying, reminiscing on the intense and vibrant memories. 
+				"skyscrapers": "Fading Memoirs": A rap about the pain of remembering the past, but the importance of never giving up. 
+				"reverb": Dragons vs Snakes: a story of overcoming your fears and obstacles in life and discovering your true potential. The protagonist is battling the snakes of doubt and fear in their lives and eventually emerging triumphant after facing the dragons of anxiety, fear, and despair. 
+				"the one who forgot": elämäntulta
+				"summer 2013 cool blue": "Rise Above It All" - this song is about overcoming obstacles and looking at the world from a higher point of view.
+				"stadion pop": “Summer Days” : The song explores a summer day with friends where they’re out and enjoying the season but at the same time feeling nostalgic for what could’ve been. It’s a perfect song for someone who’s feeling a bit down about missing out on summer fun with their friends. The chorus conveys the idea of watching friends having fun while they reminisce about the past. The song is happy and upbeat with rap-pop vibes. 
+				"missing you": "Longing for Me" - This song is about the intense longing for someone one loves, who has slipped out of reach. It deals with the emotions of wanting to have that person in one's life, and wishing they could find the way back.
+				"paula": "Paula's Story": This song tells the story of a young woman named Paula, and her struggles with mental health issues, feelings of loneliness and uncertainty as she goes through life. It talks about the struggles she faced, how she overcame them, and the new life she found in the end. 
+				"kickflip": roadtrip
+				"sad little furry ball": sad little furry ball
+			}
+
 		}
 	}
 	album #12 (when: year 2015-2016) {
@@ -859,6 +872,20 @@ unpublished period (2010 summer - 2023 summer) {
 					6. "Beauty of Forever" - This song is about how life is full of unexpected surprises and how no matter what difficulties you face, the beauty of life is that it continues forever. The lyrics of the song focus on being present in every situation and to find joy in it.
 				}
 			}
+			best combination (Chaos Unleashed) {
+				"cliche feels": "The Power of Dreams": A song about being driven by passions and dreams, regardless of how big the task is or how much one may doubt themselves. The synthwave elements and tension of the song represents the intensity of the journey, while the minor-key rap-dance rhythm emphasizes the effort and courage that it takes to pursue one’s dreams. 
+				"our chatroom": "Flossin'" - this song is about not caring about what others think and just enjoying life without worrying too much about judgment. It'll be an energetic mix of rap and pop that encourages people to step out of their comfort zone and be confident in their endeavours.
+				"progress finally": "On My Way" : This song is about enthusiasm and passion. It has a smooth and profound sound that reflects hopefulness. It tells about Seppo having a good plan to get out of his current challenging situation in life, and how he is determined to get through it. The lyrics are strong and powerful and include themes such as staying focused, building self-confidence, and knowing that things will get better.
+				"stronger": "Carry On": This is an upbeat, rap-pop song about understanding that life is not always fair or perfect and that we have to learn to let go of some of the disappointments. It is an emotional reminder to keep pushing forward no matter what life throws your way.
+				"graduation": "Time Of My Life" : This song reflects on Seppo Pakonen's journey and his realization of how quickly time passes and how important it is to make the most of each moment. It celebrates the successes and milestones that Seppo has achieved and looks ahead to ones yet to come.
+				"like that": "Victory". A song about Seppo experiencing success and having the courage to pursue his dreams and people who came in his life for his help.
+				"summer 2016": "The Wave" - This song speaks to understanding that your identity is more than just how the world sees you, and finding your inner strength through the waves of life.
+				"testing out a new sauna": "Weekend Vibes" - A song about embracing the weekend, exploring the positive sides of life and enjoying the small things, taking the time to relax and appreciate the simple moments.
+				"old moped road": "Westward Bound" - A song about the journey of seizing every opportunity presented to you and turning the fear of the unknown into excitement.
+				"through difficulty to success": "Rise and Shine": This song is about finding the strength to get back up when life knocks us down, and believing that what is dark today can be bright tomorrow. 
+				"you and me": "Carousel of Memories" - This song talks about how life can sometimes be a rollercoaster ride and how it can be hard to keep up with all of the ups and downs. The lyrics express that memories should be made and enjoyed, no matter the circumstances. 
+			}
+
 		}
 	}
 	album #13 (when: year 2017-2019) {
@@ -1029,14 +1056,17 @@ unpublished period (2010 summer - 2023 summer) {
 					6. "Stand Up Strong": A song about showing your strength through even the toughest times, and how you can keep fighting and persevere through any challenge.
 					7. "I'm Unstoppable": A track about the power of believing in yourself and all that you are capable of, and how no matter how hard life can be, you can stay strong and reach your goals.
 				}
-				"an unreasonable woman" () {
-					1. "Let Go" – a celebration of life, of coming to terms with what you once had and being able to move on from it in order to appreciate whatever comes in the future. 
-					2. "The Moment" – a song about taking the time to savor the best moments of life and embracing whatever comes your way, no matter the difficulties and hardships. 
-					3. "Grievance" – dealing with the hurt and pain of bereavement, and how you can find strength through adversity. 
-					4. "The Challenge" – a motivational take on life's struggles, and how you can face them with confidence.
-					5. "One Step At A Time" – an uplifting message about never giving up, and taking small steps to achieve your goals. 
-					6. "From Here To There" – a reflection on the significance of each journey and the lessons learnt from every experience. 
-					7. "Today Is A New Day" – cradles the spirit of optimism and grace and encourages you to appreciate the present day.
+				"an unreasonable woman" (a medium tempo, piano themed, happy, loving, hopeful, supportive, sarcastic, about a romantic partner (woman), pop-rap song) {
+					1. "This Change Is Good" - an observational song about how wrong it is for a person to feel so dependent on someone else that they're scared to change.
+					2. "No Matter What" - a song about continuing on through life's struggles regardless of what is thrown in your way whether it's in the form of a person or an obstacle.
+					3. "Together We'll Find The Way" - a song about being lost in life and looking to someone special for guidance and how huge a difference their support can make.
+					4. "Can't Get Enough of You" - a song about how strong the connection between two people can be and the feeling that you never get enough.
+					5. "Keep Moving Forward" - a song about trying to stay positive and progress forward despite feeling stuck in life.
+					6. "I Laugh When I Should Cry" - a song about how emotions can often be overbearing and we have to find ways to cope with them.
+					7. "One Step Ahead" - a song about how hard life can be and the importance of staying one step ahead of it in all ways.
+					8. "Catch Me If You Can" - an energetic, dance-y tune about letting go and enjoying life without worrying about other people's judgement.
+					9. "Take Me Away" - a song about escape and looking for freedom from a dead-end situation.
+					10. "Grow Together, Not Apart" - a heartfelt song about how two people in a relationship can be a source of strength for each other and how they should strive to become stronger together.
 				}
 				"cami" (a slower tempo, piano themed, happy, loving, hopeful, supportive, accepting, pop-rap song) {
 					1. "Living Just Fine" – A song about trying to stay positive and being appreciative of the journey and the people around you despite adversity and obstacles.
@@ -1048,6 +1078,23 @@ unpublished period (2010 summer - 2023 summer) {
 					7. "Rainbow Bridge" – A rap song about finding faith and hope in difficult times and leaving it all behind to reach the rainbow bridge.
 					8. "Stars in the Skies" – A song about believing in yourself even when times are hard and the strength to reach your dreams amidst the darkness of life.
 				}
+			}
+			best combination (Heroes of Trauma) {
+				"FFFG AAAC": "The Hardest Struggle" - This is a slower tempo song about facing life's challenges and coming out stronger than before. It talks about inspiration and fighting for what is right. 
+				"summer 2017": "In the Sun" - A song about the joy of the summer, feeling happy and alive after a tough time.
+				"all black clothes": "The Puzzle" - This dark, yet hopeful track takes its concept from the real-life struggles that Seppo has faced in his life, and how he fought back against them to come out a stronger person. He feels as though he's been trying to piece together the puzzle of his life to try and find a place within himself that he can call home.
+				"favourite juice": "Living Forever" - About struggling to cope with the idea that life could be passing by as you try to make the best of it.
+				"travel": "Catch Me If You Can" - A fast-paced, danceable, positive, motivational song about overcoming obstacles in life and never giving up despite all the hardships you face.
+				"my voice": "Same Old Story" - This song is about how I had expected a different reality from the one I was living in; school was boring, the friends I made were equally disengaged and not helpful, and I was stuck in the same unsolved cycles of trying to find something, and facing silence, disappointment or a lack of understanding.
+				"trad story": "Trust Me" - is a song about how we can't always trust the people around us and how trusting the right people can make all the difference in our lives.  It talks about how learning to trust can be difficult but ultimately rewarding.
+				"fear": "Living Life" - A song about embracing life for all it has to offer and all the things that make it beautiful.
+				"normal guy": "Love and Life" - Talking about how love and life are hard but worth fighting for.
+				"AGFC": "Look Back": This song is about reflecting back on the life you have lived and thinking about the choices you have made. It is about learning from the past, overcoming mistakes, and striving to become a better person in the present. It is an upbeat song with positive messages. 
+				"alone in the woods": "Reunited" - a danceable upbeat song about finding a beautiful girl who is like a soulmate and has been missing all along, and being happy for finally finding her.
+				"every song you rip": "Keep Going": A song about never giving up and continuing to fight even when times are tough. It is an energetic song about never giving up despite the odds.
+				"funk19": "Everybody Wanna Fly": A positive, upbeat track about the power of dreams and embracing and allowing yourself to be the best version of yourself, despite the struggles and fears that sometimes creep in.
+				"an unreasonable woman": "This Change Is Good" - an observational song about how wrong it is for a person to feel so dependent on someone else that they're scared to change.
+				"cami": "My Way To You" – A romantic rap ballad about how love can conquer all despite distance, circumstances, and other obstacles.
 			}
 		}
 	}
