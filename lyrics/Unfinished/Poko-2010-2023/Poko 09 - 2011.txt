@@ -29,7 +29,7 @@ album #9 (when: year 2011) {
 		}
 		conclusion {
 			I was abused even more and it added 10 years for me to recovery
-		
+		}
 		what happened {
 			I moved back to my hometown
 			In my hometown, horrible sexual lies are being spread about me, which changed people's attitude towards me, and about which I knew nothing.

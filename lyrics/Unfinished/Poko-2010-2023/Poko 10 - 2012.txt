@@ -1,0 +1,126 @@
+album #10 (when: year 2012) {
+	explanation {
+		health { I was in pain and in lock because of all of the past experiences }
+		life {
+			searched for girlfriend
+			tried to study in university
+			lived with school roommates
+			I wasn't in the social media
+		}
+		professional music producer {
+			started to lose interest
+			bought new guitar and made songs with it
+		}
+		pictures {
+			
+		}
+		mistakes {
+			didn't make enough lyrics
+		}
+		what is good {
+			important music survived
+		}
+		conclusion {
+			my situation detoriated because of lack of support and services
+		}
+		what happened {
+			I studied environmental engineering at the University of Oulu, but my health was failing
+			I didn't find a girlfriend
+			I behaved quite antisocially because of my failing health
+			I made music regularly
+			I started using FreeBSD operating system and C++ programming
+			I spent my weekend nights with a couple of my old good friends
+		}
+		sugar-coated fantasy explanation {
+			I started a career as a programmer, how to survive even if the music career fails
+			Even though I met beautiful women, I didn't cling to anyone that bound me to a family and an environment that didn't support me as a music producer.
+			I avoided the circles of friends that took me away from music.
+		}
+	}
+	notes {
+		{
+			I saw a strange dream again.
+			I had been in the city at night, I had wandered somewhere for a long time, but I don't remember anymore. I had gone to my room, where me and Ville Haapakoski had been drinking. I had a balcony there. I had been in a dream earlier
+			there, but I don't remember how and why. We were having a cigarette and Haapakoski started playing on the railing. Then it suddenly falls from it. I get scared. After a while, however, it comes in through the front door, hands
+			broken and in poor condition. I'll call an ambulance. A crowd will come all the way inside from there, the police will also come. Ville is said to have dropped through some ceiling and killed another person named Ville with it. Ville is saying like
+			"Come on, it's nice that you told me too", and he didn't seem to believe it. But still, the guys ask if they can take our hard drives. (By the way, earlier in the dream we had been there with Olli and we were
+			looking old computers and working on e.g. from windows 3.11). I'm still drunk so I say yes and I start to wonder if there was something there. Everyone goes away, Ville gets to the hospital. Then I start looking,
+			however, no hard drives have been taken from my real modern computer. There are all three inside.
+			The next day, the mother has something to say, she probably says something like "Ville is dead" and I'm freaking out again. She's going to come pick me up and we have to go to the police station. We just go to police station yard and come back because,
+			when we talk, it becomes clear that Haapakoski's Ville is not dead, but a well-known singer, whom Ville fell in love with. I got angry with my mother that scares people like that, that I already knew it, and
+			that the singer is not interesting to me, that the main thing is that Ville is fine, but that singer was more important to my mother. There's a fire or something at the police station, so they bring the police stuff to random motorists
+			to take them to another place. Of course, there will be a policeman on board to supervise them. A policeman comes to us and asks if we can take it to Tuira's kiosk. Granted. From there, a couple of policemen are going to bring some fucking papers and folders on board, but we are told that we are not taking them there, but to different location.
+			We start to drive. We first drive to Toppila junction, intending to go to Tuira from there, but mother, who is driving, gets lost on the route and we are suddenly in Heinäpää. I have a terrible urge to get to toilet again and I'm going to tell my mother that
+			how on earth did it get lost from such an easy and direct route to the center. Suddenly our car transforms into a bus. We have to stop because mom doesn't know how to drive a bus. They go out with that policeman to look
+			this bus and suddenly it starts to roll backwards. I, who am inside, pull the handbrake and the speed slows down and stops. We continue the journey, the car is normal again. Mom is trying to find a way to Tuira, but that's it
+			right in the yard. That policeman sees someone he knows and says "I'll get out of here" and that's it. Then suddenly the mother finds the normal and easiest route to Tuira. We are near the Lysio, when I see my old dog in it
+			by the side of the road. My old dog looks me and elsewhere and again me and elsewhere.. I look it long time. My old dog is terribly sad. I guess I'll try to tell mom to stop because my old dog is there. I look my old dog more and she looks me long time too. Then I woke up.
+		}
+		{
+			I had a really disgusting dream.
+			I had been to a three-part lecture, where before the last one I had left to get food from the grill in my father's car.
+			There was already a guy like Grubert or Mikko Korhonen working at the grill, he had put a hamburger the size of a pizza for us.
+			It had taken a long time, so I hadn't made it to the lecture. I sent a message to that Jarkko, who was at the same lecture, to pick up our notebook and note-taking equipment when they were left there.
+			I'm going home to eat. Then suddenly that Jarkko is at my house, he's my roommate, he starts quietly judging me for starting to eat and not going to class.
+			Then I lock myself in my room, and a voice starts to come from the speaker. Some old granny starts to explain that she's giving me probation for the previous reason and she's telling me about some guys who are offering me a favor
+			beers at a picnic.
+		}
+		{
+			The last dream was largely stitched together with the dreams of the past year. There was some outdoor stuff and parties and everything in between. The Patela-Kuivasjärvi road was strongly involved again.
+			Keijo was still involved from those earlier events, and we were in a very nice home, where there was great art and artistic objects.
+			We went from there to a kind of underground parking garage. There was a passage to the street, but it had a gate.
+			Without opening the gate, a gray old van drove into the hall. It was really kind of slow and ugly, American model. Square headlights, slightly protruding engine compartment.
+			Three short guys wearing winter clothes came out from inside. The coat was a thick, ring-shaped silver gray winter coat. There was something on their heads and faces that you couldn't even see a face.
+			We greeted each other somehow. I went closer to look, and it starts communicating really fast. It says something like "you look like you want a hug?" I answer that "I'll just come closer to look when I can't see" and then
+			it jumps up to hug at the same time. At the same time, the other two wrestled for some reason, because one had been sitting on the stairs and the other had jumped on top of the other so that the other was buried under there.
+		}
+		{
+			I had a strange dream.
+			I was at a Steiner school, where there was a break for a few hours around three to six in the afternoon.
+			I was going to go to the store and go home to eat.
+			Apparently, I was going to go from there in front of the candy shop on bus line 8 to Merikoskenkatu and change there, but I must have fallen asleep in my fatigue on that bus when I woke up at Karjasilta (where does it go) and went to visit grandma.
+			Grandma and grandpa haven't lived there for years, but they did during the Steiner school.
+			I had the grocery bag with me.
+			I had to explain to grandma why I was suddenly there, I obviously didn't tell the truth, but I don't even remember lying.
+			They told me from somewhere that in Australia a really big phenomenon had been seen in the sky, where there was just like gasoline in the sky, which was burning and there were such yellow burning edges in that gasoline.
+			It remained unclear. But there was also father and cousins Keijo and Päivi at grandma's house.
+			They had been washing the windows there.
+			Dad gave me and my sister Mirja candy boxes, which is pretty cool because Mirja wasn't supposed to be there, dad also disappeared right then and there.
+			Father left with Keijo and Päivi.
+			After a while, a new guest came to the yard, because the guy had a security guard with him and he went up those stairs and I watched with grandma from that veranda.
+			I noticed that it had a silver single-barreled shotgun or rifle in the bag.
+			He came to that veranda and I said something to him, I must have asked what that gun was or rather why.
+			He said something like "I noticed that if he's a minor so.." and then it took that gun and put it on the middle left of my forehead and shot.
+			I woke up to it.
+		}
+		{
+			I had a weird dream.
+			I was hanging out in nature, my hometown was nearby.
+			I walked along the paths.
+			There was a green parrot with which I had telepathy.
+			Then that bird got lost and I tried to find it everywhere.
+			Finally, I started walking towards home.
+		}
+		{
+			I had a really weird dream last night.
+			I tried to remember it for a long time, but now I can't remember everything anymore.
+			However, there was a dark forest path there in Pukkila or whatever it is nowadays in its area near Hietasaari.
+			Mainly, that dream changed from one scene to another and I made changes in those scenes, then I always went back to that forest path, finally someone on a bike came there and then I dared to go through that rut, and at the end I got to such a wonderful sunny grass field.
+			It was exciting that between that grass field and the forest there was a "gate" where there was a big stone, from which there were two mushrooms on the forest side, where there was a red one on the left and a blue one on the right.
+			Then on the side of that beautiful square there were two mushrooms on the left and one on the right.
+			Of the two on the left, the left was red and the right was blue, and the rightmost was also blue.
+		}
+	}
+	content {
+		music album (title: Troubles) {
+			"never meant to". Never Letting Go: This song is about the feeling of never wanting to let go of someone despite all the pain and sadness that may come with it. It is about clinging on to something that might break us, and the irrational hope that we may receive in return. It is about sticking through whatever comes our way, even if the outcome is uncertain. 
+			"sauna-lake": The Calm Before the Storm. Exploration of a peaceful moment, when nature and man are in harmony with each other
+			"time is running out": "Silent Voices" - A song about the underlying feelings of loneliness and desperation that can't be expressed through words.
+			"jungle soul": "Unleash the Beast" - This rap song is about unleashing the beast within and letting go of any fear or anger. It speaks of letting go of limits and instead, being the best version of yourself and letting your inner strength and ambition take over.
+			"around the world": "Hometown": A song about coming back to one's hometown after leaving for a while. It reflects the nostalgia of coming back to the places where they used to live. It also talks about the excitement of returning and the joy in seeing familiar faces once again. It's a positive, upbeat song that celebrates the friendship and warmth that can be found in a hometown.
+			"bicycling feeling": "Soul of the Journey": This song is about the beauty of life and how one must always remember to enjoy the journey and appreciate the little things. It is a cheerful and empowering song about being grateful for whatever life brings. It is also a song about how one must always keep an open heart and an open mind in order to make the most out of each day.
+			"summer 2012": "Peaceful Breeze" - a song about the appreciation of the peace and tranquility that comes with living in the countryside.
+		}
+	}
+}
+
