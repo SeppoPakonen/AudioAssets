@@ -235,6 +235,21 @@ album #11 (name: dragons vs snakes, when: year 2013-2014) {
 			I woke up to it.
 		}
 	}
+	song ideas based on notes {
+		"Escape From the Rascals"
+		"Put FreeBSD in Their Brains"
+		"Valley of the Water Tower"
+		"Slip Into the Night"
+		"The Information War"
+		"Misunderstood Love Nests"
+		"To the Shore and Back"
+		"Broken Towbar Blues"
+		"The Suspicious Crowd"
+		"In Pieces"
+		"A Cheerful Goodbye"
+		"Your Soft Brown Shoes"
+		"The Treasure Place"
+	}
 	content {
 		music album (Dragons Vs Snakes) {
 			"gala": "Cheers and Beers" - a fun, upbeat rap about good times and partying, reminiscing on the intense and vibrant memories. 
@@ -248,7 +263,6 @@ album #11 (name: dragons vs snakes, when: year 2013-2014) {
 			"kickflip": roadtrip
 			"sad little furry ball": sad little furry ball
 		}
-
 	}
 }
 
