@@ -1,0 +1,254 @@
+album #11 (name: dragons vs snakes, when: year 2013-2014) {
+	explanation {
+		health { I was in pain and in lock because of all of the past experiences }
+		life {
+			searched for girlfriend
+			tried to study in university
+			lived with school roommates
+			I had two very good friends
+			I wasn't in the social media
+		}
+		professional music producer {
+			composed different shades of sadness in music
+			made music with free and open source tools
+		}
+		pictures {
+			
+		}
+		mistakes {
+			didn't make enough lyrics
+			didn't record songs
+		}
+		what is good {
+			I rejected cracked music software
+			not keeping notes and voice records
+		}
+		conclusion {
+			found a new joy in music with open source music software
+		}
+		what happened {
+			I tried to study at university
+			I lived in a shared apartment
+			I saw old friends from my hometown, and not new friends from university in my free time
+			I seem to behave a bit anti-socially with my university friends
+			I was really excited to program my own c++ projects even though i was looking for a girlfriend
+			In my lack of sex, I missed one of my old relationships
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+	}
+	notes {
+		{
+			I had a dream. I spent the time in that dream and sleeping a lot somewhere in the school gym, where there were others.
+			There was some girl like Grace Helbig. There was something really the same. Then we started dating and eventually dating
+			Then the rather annoying part starts when we are on a bike trip somewhere, and she puts all the weight on me and then complains for no reason.
+			There are several others on that trip.
+			We won't get there, because I would know the right route, but she's starting to be the boss on top of that.
+			Then she goes on his own way, back to the city, and we have to follow the source. We can't catch her.
+			I end up in front of a pub in Tuira. I drink beer in it and sit until closing time. I stay there even after closing time, and it gets some "suspicious" crowd.
+			I feel a little threatened at first, but then I start talking to them and they are really nice.
+		}
+		{
+			I dreamed that I was at the university, where I studied computer classes, and there were some computers for sale for cheap, an 8-core machine with Windows for about 85e.
+			Then I went to another computer class, where it was of much lower quality, there was also a piano with strange, slightly broken keys.
+			Those keys were completely white, and they had round holes for the fingers.
+			It had a really good and soft sound.
+			I left that class, and suddenly I was in Steiner school.
+			I hear when some people start playing the piano really loud.
+		}
+		{
+			I had a dream.
+			Somewhere between my dreams, I led a group of people through a sparse tropical forest to a turquoise sandy beach.
+			The sun shone really low through the trees, as if it had just risen or set.
+			It was a great feeling at that point.
+			Later, I think I was with Miro in a school-like town.
+			Just like in the city library, though.
+			We were given a task where there were some series resistances and some current and we had to solve it..
+			There was plenty of time.
+			We then left while waiting for someone's house just to pass the time.
+			It was somehow related to something much earlier.
+			Then we went to return assignments.
+			All we ended up with were some ugly quick drawings as answers.
+			Our old teacher Niina was checking the assignments, and she didn't accept our suggestions.
+			It gave us about 2 minutes to do them neatly.
+			It had an A and a B point, and I managed to make A fast on it.
+			Just as the time was up, I woke up.
+		}
+		{
+			By the way, I dreamed that I was a guest at Maili, i.e. at Aleksi's mother's house, then Aleksi came there.
+			Part of me thought Aleksi was completely normal, and part thought he was somehow out of control.
+			Clearly, my Steiner school-me considered him quite normal, but the army-me somehow abnormal.
+			It was a dark dream.
+		}
+		{
+			I had a strange dream.
+			I remember a bit more about it now.
+			I left with my Ford car, bike and bike hook to the center of Syynimaa.
+			I left the car approximately at the yellow elementary school, which is near the church.
+			There was a strange slanted highway there.
+			Then I left walking, making a detour in some "duty", which was over there in Tietomaa.
+			On my way back from there, I decided to explore Oulu a bit from street level.
+			I saw Iina, my ex-girlfriend, somewhere there.
+			Talking and being with her was the same as it was before the breakup in real life.
+			It was that kind of weird on/off dating.
+			We walked around Oulu with it and ended up kissing.
+			We decided to go to a more peaceful place.
+			It was already evening.
+			Then suddenly we are in the tent.
+			In the kind we had there at their cabin.
+			Soft, warm, comfortable.
+			I talk a lot with Iina.
+			One conversation:
+			Iina: You were mean to me in the beginning.
+			We: Well, you were mean to me at the end.
+			Iina was a little different, much sweeter, and smaller.
+			It was still really nice just to hang out with her in the tent.
+			Then it's time to have sex.
+			Iina gets on top of me and starts to position my dick, and presses herself down.
+			I'm trying to react in time, but Iina was too quick...
+			I said something like "no, I don't have a condom."
+			Iina is a little confused.
+			The usual birth control pill had taken too much of her reflexes (which she didn't have now).
+			I lift her up from my lap to get my dick out and say I have condoms in my backpack, it's over there.
+			Then I go out of the tent, and I see that our tent is from the park of the church and the Lyseo, facing the Torinranta hotel.
+			Maybe from the church directly.
+			I'm wearing just my socks, and it's cloudy and chilly outside.
+			Maybe I said to Iina that we can't stay here, because we are in a tent in the middle of Oulu.
+			I almost walked to the car.
+			Either my bike was stolen or I had left it somewhere else, but there were some familiar people who wanted a ride.
+			I then took a nice white SUV embroidered with green patterns out of it for them to admire.
+			I started attaching that SUV to the bike hook, and then taped it with clear tape (which makes no sense).
+			When it was "done" and the guys were watching from the side, I realized that it was a big mess.
+			I thought "not like this" and started to take it apart.
+			At the same time, some guy came in with a sour attitude.
+			Dissatisfied with my own mess, I realize that of course the real owner of that car has to come to the same mess.
+			I'll be the first to tell it that I'm sorry, this must not have gone right.
+			A very distressing situation.
+			Well, he says quite cheerfully to us back when he got his bike that "I use linux too."
+			I reply that "Well, I do use FreeBSD." and it laughs back in a kind of silly surprise.
+			I'll leave it at that, I'm glad I didn't get caught stealing the bike.
+			I also found it to be more forgiving than usual.
+			There's something unclear going on.
+			There's a lot of people coming to join us.
+			I'm starting to wonder where my own bike is.
+			I'll go get it, I'll find it somewhere.
+			When I get back, my red Ford is already completely full, to the driver's seat, even though I am the driver.
+			Then suddenly my father is there, he is taking the bike with him.
+			However, somehow Mirja and father had managed to break the car's towbar.
+			Then there is only one option, that I cycle home to Syynimaa.
+			I'm quite happy at that point already to get rid of those other people.
+		}
+		{
+			I had a funny dream.
+			I was at Oulu's steiner school.
+			We had school there for a long time, and after that I stayed on the school grounds to hang out.
+			I visited different classes.
+			I don't remember much about it.
+			Then I went to eat.
+			There was good food in the canteen.
+			I piled up the ration, and greeted my acquaintances.
+			I sat at the table where Tiina and about five other classmates were.
+			The atmosphere was really good.
+			We ate and talked shit, I stayed at that table while the others left.
+			There were girls a year younger than us at the table next to me, and then I chatted with my dance partner.
+			She was called Laura.
+			Well, a really beautiful and good-looking girl, I would date her anytime.
+			Then it asks if I'm going for a cigarette, and in a sexy way, looking in the eyes.
+			I look at the clock and I'm almost late for school.
+			I say I can't do it now and leave.
+			Then I go to the high school classes through the front yard.
+			I think I'll go closer to the shops for some reason and I'll still come back.
+			My walking style somehow turned into a strange dog-like bounce.
+			The ground is icy and slippery.
+			Then I go along the side of the wall to high school classes again.
+			Those other people are in that year's younger classroom.
+			It has an open window, and Ahti Sepp.
+			He says to bring this through the window so you can get there faster.
+			I'll jump in through the window.
+			Ahti starts telling me things that I don't understand at all, but which I still remember well:
+			"""
+			I heard you didn't put anything about this place on Facebook?
+			Admittedly, those messages from a week ago did not give the best picture.
+			From what I've seen of Aleksi and Veera during the year, I'm not happy about what the group is talking about.
+			Now there is really an "information war" going on, and at least they are not on the side of the truth.
+			I don't know if you would believe everything either.
+			So I don't mind if nothing is organized here, it doesn't matter to me.
+			I hope you still didn't get a bad picture.
+			"""
+			Ahti continues:
+			"""
+			I guess I didn't say it clearly that those earlier messages could be forgotten, and that the latest one just meant.
+			Miro was going to tell in more detail.
+			Sorry it's confusing :)
+			Admittedly, there is negativity here, and it's not my start!
+			I too hope for the same time together.
+			One more time: if you want, you can put on Facebook that [the club room at my home address] is also available all evening.
+			"""
+			Ahti continues:
+			"""
+			It would be nice to participate :)
+			That mess is based on such a large amount of delusion, hypnosis and carelessness that you have to sort it out one by one so you don't get carried away.
+			Surely one meeting could still go in good spirits.
+			"""
+		}
+		{
+			I had a strange dream.
+			It was long again and I remember the end.
+			I'm in the old water tower, and there's a strange room in there that looks like a love nest.
+			I went there by elevator and spent the night that belongs to the subject.
+			I wake up and put on clothes, it's dark outside.
+			I suddenly have the feeling that the building is going to collapse.
+			I try to go down, but I already feel that the water tower is going to fall.
+			I also realize at the same time that it is the tower in motion.
+			The tip of that water tower hits the ground and makes a big crack in the one from which I fly to the highway.
+			I see that they are trying to push that building with a cart.
+			There are my old friends from my childhood home village in army uniforms.
+			They are in some military-style crew transport car.
+			But it's still a school group (the two have merged into one).
+			I show Olli-Pekka my shoes, soft brown ones.
+			Olli just scrunches his nose and disappointedly says something like such cheap low-quality...
+			Then I go away from it, and suddenly the world becomes minecraft-like, which is awesome.
+			That girl friend of mine from the love room in the water tower suddenly comes there.
+			That girl is going to show one of her treasure spots.
+			It's at the water line in the wall and you have to dig it out.
+			I'll get inside that treasure place first.
+			There's lava and it's lit, but there's also some chests.
+			I freak out because there are a couple of monsters, one much bigger.
+			My girlfriend says that they must be destroyed.
+			I wonder how, and the girl says something like "stick FreeBSD in their brains."
+			Okay, well, I'll go to the back of those monsters, jump on their shoulders and start using something like a screwdriver to drive those red devil heads into their brains.
+			I go on for so long that I've made quite a mess out of their heads.
+			It gave me great pleasure...
+			I finally wake up.
+		}
+		{
+			I had a bad dream last night.
+			I had been to my father's detached house, there were some really bad rascals, roaches, or something horrible.
+			They pulled my forehead open in the same way as now in real life, but even worse, they made incisions in my eyelids with a scalpel.
+			I couldn't escape them.
+			But then I got out the front door.
+			There was a spirit of a stepmother (Pirjo) who gave me a cell phone and led me to the backyard and up the ladder to the roof.
+			She gave me that phone, and there was already a call somewhere. She said "you can tell now what's the matter".
+			I broke down right on that phone call, I was in absolutely terrible shape.
+			I said something along the lines of "well I'm... quite in pieces".
+			I woke up to it.
+		}
+	}
+	content {
+		music album (Dragons Vs Snakes) {
+			"gala": "Cheers and Beers" - a fun, upbeat rap about good times and partying, reminiscing on the intense and vibrant memories. 
+			"skyscrapers": "Fading Memoirs": A rap about the pain of remembering the past, but the importance of never giving up. 
+			"reverb": Dragons vs Snakes: a story of overcoming your fears and obstacles in life and discovering your true potential. The protagonist is battling the snakes of doubt and fear in their lives and eventually emerging triumphant after facing the dragons of anxiety, fear, and despair. 
+			"the one who forgot": elämäntulta
+			"summer 2013 cool blue": "Rise Above It All" - this song is about overcoming obstacles and looking at the world from a higher point of view.
+			"stadion pop": “Summer Days” : The song explores a summer day with friends where they’re out and enjoying the season but at the same time feeling nostalgic for what could’ve been. It’s a perfect song for someone who’s feeling a bit down about missing out on summer fun with their friends. The chorus conveys the idea of watching friends having fun while they reminisce about the past. The song is happy and upbeat with rap-pop vibes. 
+			"missing you": "Longing for Me" - This song is about the intense longing for someone one loves, who has slipped out of reach. It deals with the emotions of wanting to have that person in one's life, and wishing they could find the way back.
+			"paula": "Paula's Story": This song tells the story of a young woman named Paula, and her struggles with mental health issues, feelings of loneliness and uncertainty as she goes through life. It talks about the struggles she faced, how she overcame them, and the new life she found in the end. 
+			"kickflip": roadtrip
+			"sad little furry ball": sad little furry ball
+		}
+
+	}
+}
+
