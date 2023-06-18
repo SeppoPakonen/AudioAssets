@@ -1,0 +1,34 @@
+dreams {
+	{
+		I had a weird dream:
+		There were many parts, and I don't remember anything from the beginning, except that we were at our cabin.
+		There were a lot of moose hunters in the vicinity.
+		I thought I could move our cottage building from there to the center of Oulu, Hietasaari.
+		I already started dismantling the boards of the cottage building.
+		Then a group came there to help with that.
+		Then we realized that it was a pointless job, but that cottage building somehow still moved to Hietasaari.
+		Then my cousins Keijo and Päivi came there.
+		Ne pointed out that from behind the straw barn you can see directly into the center of Oulu.
+		Then the ground began to crumble away from under that straw barn, when it was a little on the slope, and trees were exposed from under it, and they were painted red even though it was against the ground.
+	}
+	{
+		I dreamed that I was with my Eino grandfather driving his Lada and then we had to stop at a barbecue kiosk where we smoked cigarettes with him.
+	}
+	{
+		I had a weird dream again.
+		We climbed to the top of a church building with a friend.
+		I said something like "before I didn't get used to the height but now I don't get used to this walk" or something like that.
+		I saw the top floor with stuff wrapped in newspaper and then next to that was the door we were supposed to go through.
+		It led to a side room with glass windows on the walls and ceiling, like in an old-fashioned vegetable garden.
+		It was a "summer room".
+		It wasn't square, but from the door you went down the stairs inside that room to a living room-like area.
+		It had been our goal to get there for a long time, and then we did.
+	}
+	{
+		Näin unta sellaisesta musiikinteko-ohjelmasta.
+		Se oli VR ohjelma.
+		Siinä oli sellainen pyörivä tsydeemi...
+		Biisin edetessä käyttäjä pyöri sellaisen konsolin keskellä.
+		Se paineli etukäteen nappeja, jotka vaikutti biisiin.
+	}
+}

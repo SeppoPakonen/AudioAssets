@@ -99,3 +99,18 @@ notes {
 		we are still collecting debt
 	}
 }
+dreams {
+	{
+		I had a strange dream at night.
+		I was somewhere in a small village in Lapland, and in its hotel.
+		There were guys from Kummel doing skits, or I was in a skit with them.
+		However, at the end I was on the roof of that hotel and I watched from there, when from the opposite house, it was a store or something similar, the salesmen were calling the crowd to something like a lottery.
+	}
+	{
+		I had a dream last night that I was in a steel cage prison, and from another steel cage a large group of prisoners pointed at me with red laser lights.
+		I glanced at those lasers and turned my head as soon as they did
+		pointed me straight in the eye.
+		Today, while awake in English class, the English teacher pointed a red laser (for the first time) at the video projector.
+	}
+}
+
