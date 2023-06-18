@@ -3,3 +3,9 @@ Love songs:
 2. "Sexually explicit romantic novel:"
 3. "A sexually explicit rap song called ""  "
 
+
+Meta to single (Poko 00 -> Poko xx - 20xx):
+- freeze initial titles and songs descriptions (this is partially useless)
+
+Single to subfiles (Poko xx - 20xx ---> dir Poko xx):
+- 

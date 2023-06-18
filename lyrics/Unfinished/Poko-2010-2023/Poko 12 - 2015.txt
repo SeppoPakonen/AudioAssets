@@ -1,0 +1,63 @@
+album #12 (when: year 2015-2016) {
+	explanation {
+		health {
+			I was in pain and in lock because of all of the past experiences
+			I gained a lot of weight
+			my BMI was 35
+			my mental well-being was already improving, but my physical health began to collapse
+		}
+		life {
+			tried to study in university
+			lived with school roommates
+			I had two very good friends
+			I wasn't in the social media for health reasons
+			I followed the internet, world politics and computer geek news intensively
+			I impressed my exchange student friends with my guitar playing, which is better than nothing
+		}
+		professional music producer {
+			had new joy and strength in music
+			made music with guitar only
+			I made some new music that still impresses me
+		}
+		pictures {
+			
+		}
+		mistakes {
+			didn't make enough lyrics
+			didn't record songs
+		}
+		what is good {
+			I kept making music
+			I kept writing notes actively
+			My notes can be used for making authentic lyrics
+			I kept learning C++ and making my own projects in github
+		}
+		conclusion {
+			I found joy in just playing the guitar again
+		}
+		over-positive explanation {
+			I moved towards a stronger future, keeping the fruits of my work with me and in my own control
+			I got stronger and improved slowly but surely from my previous experiences
+			I learned skills to make a positive change in the world, also from the point of view of a computer geek
+			I learned programming skills, which I already wanted as a teenager, but which I missed because I didn't know how to follow English-language material at the time
+			I was walking towards the realization of my childhood dreams of being a computer game maker
+			I improved my systematic and logical thinking ability through programming, which is also useful in music production
+		}
+	}
+	content {
+		music album (Chaos Unleashed) {
+			"cliche feels": "The Power of Dreams": A song about being driven by passions and dreams, regardless of how big the task is or how much one may doubt themselves. The synthwave elements and tension of the song represents the intensity of the journey, while the minor-key rap-dance rhythm emphasizes the effort and courage that it takes to pursue one’s dreams. 
+			"our chatroom": "Flossin'" - this song is about not caring about what others think and just enjoying life without worrying too much about judgment. It'll be an energetic mix of rap and pop that encourages people to step out of their comfort zone and be confident in their endeavours.
+			"progress finally": "On My Way" : This song is about enthusiasm and passion. It has a smooth and profound sound that reflects hopefulness. It tells about Seppo having a good plan to get out of his current challenging situation in life, and how he is determined to get through it. The lyrics are strong and powerful and include themes such as staying focused, building self-confidence, and knowing that things will get better.
+			"stronger": "Carry On": This is an upbeat, rap-pop song about understanding that life is not always fair or perfect and that we have to learn to let go of some of the disappointments. It is an emotional reminder to keep pushing forward no matter what life throws your way.
+			"graduation": "Time Of My Life" : This song reflects on Seppo Pakonen's journey and his realization of how quickly time passes and how important it is to make the most of each moment. It celebrates the successes and milestones that Seppo has achieved and looks ahead to ones yet to come.
+			"like that": "Victory". A song about Seppo experiencing success and having the courage to pursue his dreams and people who came in his life for his help.
+			"summer 2016": "The Wave" - This song speaks to understanding that your identity is more than just how the world sees you, and finding your inner strength through the waves of life.
+			"testing out a new sauna": "Weekend Vibes" - A song about embracing the weekend, exploring the positive sides of life and enjoying the small things, taking the time to relax and appreciate the simple moments.
+			"old moped road": "Westward Bound" - A song about the journey of seizing every opportunity presented to you and turning the fear of the unknown into excitement.
+			"through difficulty to success": "Rise and Shine": This song is about finding the strength to get back up when life knocks us down, and believing that what is dark today can be bright tomorrow. 
+			"you and me": "Carousel of Memories" - This song talks about how life can sometimes be a rollercoaster ride and how it can be hard to keep up with all of the ups and downs. The lyrics express that memories should be made and enjoyed, no matter the circumstances. 
+		}
+
+	}
+}

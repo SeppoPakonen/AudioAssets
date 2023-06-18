@@ -162,13 +162,13 @@ unpublished period (2010 summer - 2023 summer) {
 				I started my own artist career
 			}
 		}
-		sugar-coated fantasy explanation {
+		over-positive explanation {
 			I was protecting my homeland and learning valueable skills and inter-personal skills
 			I was learning very benficial skill to make more money in organisations
 			I improved my self-confidence, which shows even with women
 			I improved my long-term profits and rewards
 			Learning important things like this will always change your life and surprise you
-		I was full of good energy after coming out of military, which can be heard in my music
+			I was full of good energy after coming out of military, which can be heard in my music
 		}
 		content {
 			title ideas {
@@ -364,9 +364,6 @@ unpublished period (2010 summer - 2023 summer) {
 				I was abused even more and it added 10 years for me to recovery
 			}
 		}
-		sugar-coated fantasy explanation {
-		
-		}
 		content {
 			title ideas {
 				Darkness Within
@@ -511,9 +508,6 @@ unpublished period (2010 summer - 2023 summer) {
 				my situation detoriated because of lack of support and services
 			}
 		}
-		sugar-coated fantasy explanation {
-		
-		}
 		content {
 			title ideas {
 				Troubles - A Lyrical Journey
@@ -635,9 +629,6 @@ unpublished period (2010 summer - 2023 summer) {
 			conclusion {
 				found a new joy in music with open source music software
 			}
-		}
-		sugar-coated fantasy explanation {
-		
 		}
 		content {
 			title ideas {
@@ -765,9 +756,6 @@ unpublished period (2010 summer - 2023 summer) {
 			conclusion {
 				I found joy in just playing the guitar again
 			}
-		}
-		sugar-coated fantasy explanation {
-		
 		}
 		content {
 			title ideas {
@@ -923,9 +911,6 @@ unpublished period (2010 summer - 2023 summer) {
 			conclusion {
 				I was attacked again and used the guitar to comfort myself
 			}
-		}
-		sugar-coated fantasy explanation {
-		
 		}
 		content {
 			title ideas {
@@ -1138,9 +1123,6 @@ unpublished period (2010 summer - 2023 summer) {
 			conclusion {
 				I started cherishing my memory as a music creator and producer
 			}
-		}
-		sugar-coated fantasy explanation {
-		
 		}
 		content {
 			title ideas {
@@ -1372,9 +1354,6 @@ unpublished period (2010 summer - 2023 summer) {
 			conclusion {
 				I realized to apply to music production school and start a professional career
 			}
-		}
-		sugar-coated fantasy explanation {
-		
 		}
 		content {
 			title ideas {
@@ -1839,9 +1818,6 @@ unpublished period (2010 summer - 2023 summer) {
 				I realized to apply to music production school and start a professional career
 			}
 		}
-		sugar-coated fantasy explanation {
-		
-		}
 		content {
 			title ideas {
 				Through Pain and Rain"
@@ -1903,9 +1879,6 @@ unpublished period (2010 summer - 2023 summer) {
 			conclusion {
 				I realized to apply to music production school and start a professional career
 			}
-		}
-		sugar-coated fantasy explanation {
-		
 		}
 		content {
 			title ideas {
