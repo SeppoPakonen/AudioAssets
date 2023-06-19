@@ -1,169 +1,452 @@
+index {
+	themes {
+		longing {
+			#1, my canoe
+		}
+		communication {
+			#2, broke the amp
+		}
+		context value {
+			#3, diamond
+		}
+		appearance {
+			#4, video blog
+		}
+		humorous {
+			#5, my humor
+		}
+		trauma {
+			#6, with God
+		}
+		distress {
+			#7, sky tears apart
+		}
+		acceptance {
+			#8, walk of life
+		}
+		external validation {
+			#9, need for feels
+		}
+		powerlessness {
+			#10, social media calls to you
+		}
+		power imbalance {
+			#11, people like livestock
+		}
+	}
+	songs {
+		major topics {
+			#3
+			#4
+			#8
+			#11
+		}
+		minor topics {
+			#1
+			#2
+			#6
+			#7
+			#9
+			#10
+		}
+		"sexy": major, happy dance song						--> #3,  "impressing you requires work"
+		"hometown": major, powerful, energetic dance song	--> #8,  "In the beginning you're walking somewhere at sunset direction."
+		"edge - b": minor, touching, beautiful dance song	--> #9,  "love doesn't remain just a dream"
+		"crash landing": major, fast and happy song			--> #4,  "which clothes would you choose yourself?"
+		"loathing inc": minor, sad, distressing dance song	--> #7,  "moisture is burning my skin"
+		"slow dancing": minor, romantic slow song			--> #10, "relationships start and end, everything is visible"
+		"energizer": major/minor, interesting neutral song	--> #5,  "French fries, hamburger and coke"
+		"rabbit's life": minor, interesting beautiful song	--> #1,  "I am free and fly like a bird"
+		"sailing": major, relaxing holiday vibe song		--> #11, "people improves the world one card at a time"
+		"blow my whistle": minor, slow vibe song			--> #2,  "where we met last time?"
+}
 notes {
-	{
-		my canoe can cross this sea
-		but I missed home already a week ago
-		I am free and fly like a bird
-		if you don't consider this damn water under me
+	#1, my canoe {
+		original {
+			my canoe can cross this sea
+			but I missed home already a week ago
+			I am free and fly like a bird
+			if you don't consider this damn water under me
 
-		my meal is delicious
-		after all, I drank three beers
-		what's up, you've changed
-		everything is fine in here
-	}
-	{
-		Call and Sing I can hear your voice
-		the song of the birds and the grasshoppers
-		chord triad and last measure
-		played my guitar and broke the amp
+			my meal is delicious
+			after all, I drank three beers
+			what's up, you've changed
+			everything is fine in here
+		}
+		backstory {
+			I was in the army and I wanted a girlfriend.
+			I feel independent, but it makes unreasonable demands.
+			I learned the importance of eating regularly in the military.
+		}
+		analysis {
+			"My canoe can cross this sea, but I missed home already a week ago":
+			The image of a canoe crossing a sea may represent the individual's journey through life, facing challenges and navigating difficult waters.
+			The reference to missing home suggests a sense of longing or nostalgia, possibly indicating a desire for a familiar and comforting place or state of being.
 
-		where were you when we last saw each other
-		what is written in the stars
-		my tongue went into a knot when I corked the beer
-		and this is not embarrassing in light of the future
-		to clarify, my world is in your words
+			"I am free and fly like a bird if you don't consider this damn water under me":
+			This line suggests a feeling of liberation or freedom. The speaker perceives themselves as soaring like a bird, emphasizing a sense of independence.
+			However, the mention of the water beneath them as a negative element implies that there may still be underlying emotional or psychological obstacles to overcome.
 
-		morning coffee is delicious at sunrise
-		the most demanding work maybe before lunch
-		I don't want pain on my deathbed
-	}
-	{
-		problem solving needs a problem
-		the situation should become certain
-		change requires work
-		are there any tools?
-		The problem is: What tools do we need?
-		Enough power, technology and practicality
-		Wrong tool, the biggest problem.
-		The tools are attractive to use.
-		Sometimes a wooden plank is more useful as a chopping board than as firewood.
-		Sometimes a diamond is more profitable in a drill bit than as a status symbol and "crow decoy".
-	}
-	{
-		It's for the video blog
-		It's in the voice
-		power and technology
-		practicality arises when writing a manuscript
-		is in the picture
-		technology and practicality
-		but no power
-		the motive for producing is found in the joy of doing
-		but there is no motive for publishing, which affects the content of the manuscript, i.e. the practicality of the end result
-		the image can be made more effective by cutting and using simple effects
-		however, the biggest efficiency effect comes from the host, who should dress correctly
-		which clothes would you choose yourself?
-		if you were the furthest away from "yourself" when you were naked, what clothes would you wear then?
-	}
-	{
-		I've been listening to a lot of music about fire.
-		Well, I decided that once all the songs are on fire, I won't make one either.
-		I made the words and thought about the title for the song. At first I was going to name this song "light my cigarette, babe", but then I came to my senses, and I realized that the whole point of this thing is that the title must have the word came, so the name of the song then became:
-		"Light my cigarette (on fire), babe"
-		(pours Zippo gasoline on himself)
-		(lights a match)
-		Light my cigarette, babe
-		I broke my zippo and I'm wet from gas
-		i need your fire, baby
-		but be careful, girl, I might flare up
-		why are you staring at me babe
-		so now you dig that match
-		you have a crazy glint in your eyes
-		if the flame touches the gasoline
-		babe, I might freak out
-		You can't do that
-		The girls want to burn me at the stake, I want to smoke a cigarette and not die
-		I messed up the words again in the wee hours, I can only touch the cancer wrap with my lips
-		I'm something but not crazy and not a king
-		this is about when I went home through the grill
-		Had to run away, babe
-		pyromaniacs are scary, I'll die wet from gasoline
-		I can't get a cigarette, babe
-		must have, someone will give
-		Would you give me fire?
-		Would you give me ... fire?
-		French fries, hamburger and coke
-		and you don't have that snuff to sell? Oh no, you can't help it
-	}
-	{
-		God: Host, hear me.
-		Who's talking what?
-		God: It's me, God.
-		Wait, oh God.
-		God: I came to tell you that you are one of my best jokes.
-		Okay... thanks.
-		God: Show me those scars.
-		Er, what scars?
-		God: I said, show me those scars!
-		*pim* red visible scars appear on the forehead.
-		what the f? why did you do that oh it's just masking tape.
-		I was hit in the head with a bottle and got a lightning bolt scar.
-		in the same way as, I won't even say who.
-	}
-	{
-		I have a problem
-		in which I can't get out of my head
-		that one song where everything was told
+			"My meal is delicious, after all, I drank three beers":
+			This line appears to be a straightforward statement about enjoying a satisfying meal and having consumed three beers.
+			It could represent a moment of pleasure and indulgence, possibly highlighting a sense of contentment or relaxation.
 
-		When the ice falls and the sky tears apart
-		when the world is over
-		you still can't take my soul away
-		even if you were true
-
-		you sink into the lake and your mind wanders
-		the moisture burns my skin
-		does the world shut down when i close my eyes
-		or is it just me
+			"What's up, you've changed, everything is fine in here":
+			This line suggests a shift in perspective or perception.
+			The speaker addresses someone who has undergone a noticeable change, perhaps indicating that their viewpoint or attitude has evolved.
+			The statement that "everything is fine in here" implies a sense of internal well-being or personal satisfaction.
+		}
+		alternative {
+			I was in military missing you.
+			I feel strong and independent now, but lonely.
+			I learned to take care of my eating.
+			I don't recognize you as the same anymore, and I don't recognize that anyone can replace you, so I'm stuck.
+		}
+		themes {
+			longing, independence, emotional changes, and feeling stuck
+		}
 	}
-	{
-		In the beginning you walk towards your destination. You're walking somewhere at sunset direction.
-		Route is blocked by mountains and gorges. You will pass the mountains, because it would be quite foolish to climb up and come back down. Especially when the destination is waiting.
-		Sometimes you encounter a ravine, and you must get the other side.
-		You descend the ravine slopes, and you look at the other side looking for a route there.
-		Sooner or later, you step wrong and you hit the bottom of the gorge.
-		Fall does not hurt, because the walls are soft as pillows. And from the bottom you will find all the things you've always dreamed of.
-		Even if you're trying to get away and climb up the slope, you will fall down.
-		Eventually you will no longer try to escape, and you accept things as they are.
-		<3
+	#2, broke the amp {
+		original {
+			Call and Sing I can hear your voice
+			the song of the birds and the grasshoppers
+			chord triad and last measure
+			played my guitar and broke the amp
+
+			where were you when we last saw each other
+			what is written in the stars
+			my tongue went into a knot when I corked the beer
+			and this is not embarrassing in light of the future
+			to clarify, my world is in your words
+
+			morning coffee is delicious at sunrise
+			the most demanding work maybe before lunch
+			I don't want pain on my deathbed
+		}
+		backstory {
+			There had been very little room for talking in the army.
+			I had largely lost my own voice, but on the other hand I was also freed from pointless conversations.
+			I thought about old conversations a lot when I talked less.
+			There is a metaphor about how one day is a life, because I think about it often.
+		}
+		analysis {
+			"Call and Sing, I can hear your voice, the song of the birds and the grasshoppers":
+			This line suggests an appreciation for the sounds of nature and the ability to perceive the beauty in the world.
+			The speaker acknowledges the voices of birds and grasshoppers as a metaphorical call and sings, indicating a connection to the natural environment.
+
+			"Chord triad and last measure, played my guitar and broke the amp":
+			Here, the mention of playing the guitar and breaking the amp may symbolize the speaker's passion or creative expression.
+			It could imply that their artistic endeavors sometimes result in unintended consequences or disruptions.
+
+			"Where were you when we last saw each other, what is written in the stars":
+			This line touches upon questions of time and destiny.
+			The speaker ponders the whereabouts of the person they last encountered and contemplates the significance of celestial influences, suggesting an interest in fate or cosmic symbolism.
+
+			"My tongue went into a knot when I corked the beer, and this is not embarrassing in light of the future, to clarify, my world is in your words":
+			This section reflects on moments of awkwardness or difficulty, such as the tongue knotting when corking a beer.
+			Despite these moments, the speaker finds solace and meaning in the words of another person, emphasizing the importance of communication and connection.
+
+			"Morning coffee is delicious at sunrise, the most demanding work maybe before lunch":
+			These lines express an appreciation for simple pleasures like enjoying coffee in the morning.
+			The mention of demanding work before lunch suggests that the speaker acknowledges the challenges they may face during the day.
+
+			"I don't want pain on my deathbed":
+			This straightforward statement reflects a desire for a peaceful and pain-free end to life, indicating a preference for a dignified and comfortable passing.
+		}
+		themes {
+			Connection and Communication
+			Creativity and Expression
+			Time and Fate
+		}
 	}
-	{
-		Don't give me anything, I want your anger
-		I already have my testicles ripped out of my soul
-		don't give me a reason to cry and hug a man in public
-		I want to be a weak troll who screams ugly
-
-		I recognize mine from the starry sky
-		the mirror image resembles my idol
-		if you get into this rhythm
-		love doesn't remain just a dream
+	#3, diamond {
+		original {
+			problem solving needs a problem
+			the situation should become certain
+			change requires work
+			are there any tools?
+			The problem is: What tools do we need?
+			Enough power, technology and practicality
+			Wrong tool, the biggest problem.
+			The tools are attractive to use.
+			Sometimes a wooden plank is more useful as a chopping board than as firewood.
+			Sometimes a diamond is more profitable in a drill bit than as a status symbol and "crow decoy".
+		}
+		backstory {
+			My problems at that time were vague even to myself, due to weird gossip and stuff.
+			If you don't know the exact problem, you can't solve it.
+			Imprecise problems usually have no solution.
+			I also wanted to summarize my problem in a simple way, but it was not possible.
+		}
+		analyisis {
+			The lines suggest a psychological perspective on problem-solving and the significance of choosing the right tools for the task at hand.
+			The speaker contemplates the need for a problem to solve and the importance of clarity in the situation.
+			They recognize that change requires effort and work, highlighting the idea that problem-solving is an active process.
+			The speaker also emphasizes the need for appropriate tools and the potential consequences of using the wrong tool for a given situation.
+			There is an acknowledgment of the allure and attractiveness of tools and the consideration that their usefulness may vary depending on the context.
+			The examples of a wooden plank and a diamond highlight the notion that objects can serve different purposes and have different values depending on how they are used.
+		}
+		themes {
+			Problem-solving
+			Tools and Resources
+			Effort and Change
+			Adaptability and Context
+		}
+	}	
+	#4, video blog {
+		original {
+			It's for the video blog
+			It's in the voice
+			power and technology
+			practicality arises when writing a manuscript
+			is in the picture
+			technology and practicality
+			but no power
+			the motive for producing is found in the joy of doing
+			but there is no motive for publishing, which affects the content of the manuscript, i.e. the practicality of the end result
+			the image can be made more effective by cutting and using simple effects
+			however, the biggest efficiency effect comes from the host, who should dress correctly
+			which clothes would you choose yourself?
+			if you were the furthest away from "yourself" when you were naked, what clothes would you wear then?
+		}
+		backstory {
+			I was used to dressing edgy in the army.
+			I'm thinking about trending video blogging from that point of view.
+		}
+		analysis {
+			The lines reflect on various aspects of creating and presenting a video blog.
+			They touch upon the importance of voice, power, technology, and practicality.
+			The speaker considers the practicality of writing a manuscript and how it relates to the content and end result of the vlog.
+			The role of images and technology is emphasized, along with the impact of editing and simple effects.
+			The host's appearance is also discussed, highlighting the significance of dressing appropriately.
+			The lines conclude with a thought-provoking question about clothing choices and personal identity.
+		}
+		themes {
+			Practicality and End Result
+			Creativity and Production
+			Personal Motivation and Joy
+			Presentation and Appearance
+			Identity and Authenticity
+		}
 	}
-	{
-		social media fills my time
-		although I don't like those messages either
-		and that's not really my boyfriend
-
-		that also just reminds me of how I embarrassed myself back then
-		and it's not my boyfriend, it's annoying on purpose
-
-		there are about two hundred of them
-		they will listen, maybe, when I open up again
-		don't put an invite in the farm game, I don't want to
-		wasting my time more on this, which I'm doing even now
-		so I'm waiting for new status updates.
-
-		Social media calls to you like a siren's song
-		there is strength in the crowd, they say, and each of them wants to take me with them
-		relationships start and end, everything is visible, I know where you live.
-		and I'm not really your boyfriend, I'm still talking shit behind your back
-
-		there are about two hundred of them
-		they will listen, maybe, when I open up again
-		don't put an invitation, in the farm game, I don't want to
-		wasting my time more on this, which I'm doing even now
-		status updates are pouring in
-		family, friends and others listen to my words
-		is this pointless and that's why it's so interesting
+	#5, my humor {
+		original {
+			I've been listening to a lot of music about fire.
+			Well, I decided that once all the songs are on fire, I won't make one either.
+			I made the words and thought about the title for the song. At first I was going to name this song "light my cigarette, babe", but then I came to my senses, and I realized that the whole point of this thing is that the title must have the word came, so the name of the song then became:
+			"Light my cigarette (on fire), babe"
+			(pours Zippo gasoline on himself)
+			(lights a match)
+			Light my cigarette, babe
+			I broke my zippo and I'm wet from gas
+			i need your fire, baby
+			but be careful, girl, I might flare up
+			why are you staring at me babe
+			so now you dig that match
+			you have a crazy glint in your eyes
+			if the flame touches the gasoline
+			babe, I might freak out
+			You can't do that
+			The girls want to burn me at the stake, I want to smoke a cigarette and not die
+			I messed up the words again in the wee hours, I can only touch the cancer wrap with my lips
+			I'm something but not crazy and not a king
+			this is about when I went home through the grill
+			Had to run away, babe
+			pyromaniacs are scary, I'll die wet from gasoline
+			I can't get a cigarette, babe
+			must have, someone will give
+			Would you give me fire?
+			Would you give me ... fire?
+			French fries, hamburger and coke
+			and you don't have that snuff to sell? Oh no, you can't help it
+		}
+		backstory {
+			I was listening to music from the USA and had read Jim Morrison's biography (by chance).
+			I was impressed with him after reading the book, and I thought about the song "Light My Fire" with strange connections.
+		}
+		analysis {
+			The lines you provided take on a humorous and eccentric tone, showcasing a playful and sarcastic approach.
+			The speaker engages in wordplay and exaggeration, crafting a bizarre scenario centered around fire, a song title, and a request for a cigarette to be lit.
+			The language and actions described are meant to be comedic and unconventional, rather than reflecting self-destructive tendencies.
+		}
+		theme {
+			The most significant theme that emerges from these humoristic lines is a satirical take on desire and absurdity.
+			The speaker's exaggerated and comical requests for fire and a lit cigarette, along with their playful warnings and observations, highlight the theme of embracing the absurd and finding humor in unconventional situations.
+			The overall tone suggests a whimsical and offbeat approach to expressing desires and cravings.
+		}
+	#6, with God {
+		original {
+			God: Host, hear me.
+			Who's talking what?
+			God: It's me, God.
+			Wait, oh God.
+			God: I came to tell you that you are one of my best jokes.
+			Okay... thanks.
+			God: Show me those scars.
+			Er, what scars?
+			God: I said, show me those scars!
+			*pim* red visible scars appear on the forehead.
+			what the fuck? why did you do that oh it's just masking tape.
+			I was hit in the head with a bottle and got a lightning bolt scar.
+			It's so ironic, I look like a Harry Potter now.
+		}
+		backstory {
+			I had been hit on the head with a beer bottle and had visible scars on my forehead, which upset me deeply.
+			I hadn't done anything to deserve it, and it was solely the outsiders' own mess.
+		}
+		analysis {
+			The protagonist is using dark humor to cope with the trauma of being attacked, as evidenced by how he sees humor in his new appearance resembling Harry Potter.
+			It may be a sign of emotional repression, as the protagonist seemingly cannot express his feelings about the attack directly.
+			Furthermore, the fact that God is asking to see the scars suggests a form of projection, with God symbolizing a supernatural force who may be responsible for the attack, or an unseen force that is out of the protagonist's control.
+			The protagonist is trying to come to terms with his new reality, and by making light of the situation, he is attempting to gain a sense of control over it.
+		}
+		theme {
+			Trauma, repression, projection, coping mechanisms, control
+		}
 	}
-	{
-		There are people who imagine themselves to be livestock. They believe that the police use their supercomputers to keep an eye on every person, they believe in encrypted technology for teleportation, for governments to communicate with extraterrestrial life.
-		There are also people who move this world to card and board games, and improve the world one card at a time.
+	#7, sky tears apart {
+		original {
+			I have a problem
+			in which I can't get out of my head
+			that one song where everything was told
+
+			When the ice falls and the sky tears apart
+			when the world is over
+			you still can't take my soul away
+			even if you were true
+
+			you sink into the lake and your mind wanders
+			the moisture burns my skin
+			does the world shut down when i close my eyes
+			or is it just me
+		}
+		backstory {
+			For a year, I had been thinking about surreal lyrics for one of my surreal compositions, which told about the end of the world, which starts from a single lake.
+		}
+		analysis {
+			The notes may reveal a desire to retreat from the world in order to protect the self from external disruption.
+			The lake may represent a flight into the unconscious, while the "ice falling" and "sky tearing apart" may indicate a fear of or a resistance to intrusive external forces.
+			The "moisture burning my skin" may express a sense of psychological trauma stemming from a violation of boundaries.
+			The phrase "does the world shut down when I close my eyes, or is it just me" reflects a feeling of isolation and disconnection from society.
+		}
+		theme {
+			The notes appear to suggest feelings of distress, vulnerability, fear of external forces, and a longing for a safe refuge away from the world.
+			These themes indicate a deep yearning to protect the self at all costs, even from the end of the world.
+		}
+	}
+	#8, walk of life {
+		original {
+			In the beginning you walk towards your destination. You're walking somewhere at sunset direction.
+			Route is blocked by mountains and gorges. You will pass the mountains, because it would be quite foolish to climb up and come back down. Especially when the destination is waiting.
+			Sometimes you encounter a ravine, and you must get the other side.
+			You descend the ravine slopes, and you look at the other side looking for a route there.
+			Sooner or later, you step wrong and you hit the bottom of the gorge.
+			Fall does not hurt, because the walls are soft as pillows. And from the bottom you will find all the things you've always dreamed of.
+			Even if you're trying to get away and climb up the slope, you will fall down.
+			Eventually you will no longer try to escape, and you accept things as they are.
+			<3
+		}
+		backstory {
+			This is just some of my own philosophical and metaphorical thinking at the age of 20.
+		}
+		analysis {
+			The note reflects a desire to accept the paths of life that cannot be avoided, however harrowing or challenging.
+			This reflects an acceptance of reality with a dose of optimism, and a belief that these paths can lead to greater knowledge and experience of life, and maybe even enlightenment along the way.
+			The note also conveys a sense of love and compassion, and an inner strength that can help stick through these new paths of life.
+		}
+		theme {
+			Acceptance of Reality, Optimism, Compassion, Inner Strength
+		}
+	}
+	#9, need for feels {
+		original {
+			Don't give me anything, I want your anger
+			I already have my testicles ripped out of my soul
+			don't give me a reason to cry and hug a man in public
+			I want to be a weak troll who screams ugly
+
+			I recognize mine from the starry sky
+			the mirror image resembles my idol
+			if you get into this rhythm
+			love doesn't remain just a dream
+		}
+		backstory {
+			This sums up my uncomfortable experiences from a year where I'm forced to be around men in military.
+			I couldn't find a girlfriend even though everyone else has, and I still feel bad.
+		}
+		analysis {
+			The notes suggest a deep level of frustration, which could be interpreted as a feeling of being suppressed and judged by society.
+			The references to screaming and crying, and wanting to be a weak troll, could indicate a desperate desire for attention or acceptance.
+			The imagery of the starry sky and mirror images further point to a need for a sense of identity and belonging, someone or something to look up to and admire.
+			This could be interpreted to mean that he seeks external validation and is struggling to reconcile with his true identity.
+		}
+		themes {
+			Suppression and judgement
+			Desperate need for acceptance
+			Struggle to find identity and belonging
+			Seeking external validation
+			Desire to be accepted for one's true self
+		}
+	}
+	#10, social media calls to you {
+		original {
+			social media fills my time
+			although I don't like those messages either
+			and that's not really my boyfriend
+
+			that also just reminds me of how I embarrassed myself back then
+			and it's not my boyfriend, it's annoying on purpose
+
+			there are about two hundred of them
+			they will listen, maybe, when I open up again
+			don't put an invite in the farm game, I don't want to
+			wasting my time more on this, which I'm doing even now
+			so I'm waiting for new status updates.
+
+			Social media calls to you like a siren's song
+			there is strength in the crowd, they say, and each of them wants to take me with them
+			relationships start and end, everything is visible, I know where you live.
+			and I'm not really your boyfriend, I'm still talking shit behind your back
+
+			there are about two hundred of them
+			they will listen, maybe, when I open up again
+			don't put an invitation, in the farm game, I don't want to
+			wasting my time more on this, which I'm doing even now
+			status updates are pouring in
+			family, friends and others listen to my words
+			is this pointless and that's why it's so interesting
+		}
+		backstory {
+			These are notes for a song where a man and a woman sing.
+			The author is disappointed with his experience on social media.
+		}
+		analysis {
+			The notes in this piece appear to reflect a feeling of powerlessness and disappointment in the ways that social media impacts our daily lives.
+			Numerous references to messages, people, and games, combined with a sense of “embarrassment” and fear of “wasting time” demonstrate an ambivalent attitude towards the medium.
+			It appears the author is torn between seeking connection and validation online, and the desire to protect themselves from the potentially toxic relationships it can cultivate.
+			At the same time, there is the implication that the author is in control, and that they can take the initiative to open up and be heard by the “two hundred” people who listen.
+			The imagery of the “siren’s song” suggests that despite the drawbacks, the draw of social media can be irresistible.
+		}
+		theme {
+			powerlessness, disappointment, ambivalence, connection, validation, fear, control
+		}
+	}
+	#11, people like livestock {
+		original {
+			There are people who imagine themselves to be livestock. They believe that the police use their supercomputers to keep an eye on every person, they believe in encrypted technology for teleportation, for governments to communicate with extraterrestrial life.
+			There are also people who move this world to card and board games, and improve the world one card at a time.
+		}
+		backstory {
+			This reflects on the balance between ordinary people and conspiracy theorists, and tries to find significant aspects of both.
+		}
+		analysis {
+			The notes suggest that the individual perceives a great imbalance of power between ordinary people and the citizens of power.
+			It appears that they view those in power as something inaccessible, exotic and mysterious ("extraterrestrial life"), and an almost magical ability to control everyday life ("supercomputers" and "encrypted technology for teleportation").
+			This could indicate a sense of underlying insecurity and fear of those in power, wanting to fight back with their own creative and imaginative solutions ("improve the world one card at a time").
+			The reference to livestock may suggest a feeling of powerlessness and helplessness in the individual's daily life.
+		}
+		theme {
+			power imbalance, insecurity, fear, resistance, empowerment.
+		}
 	}
 }
