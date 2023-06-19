@@ -51,8 +51,8 @@ index {
 		}
 		"sexy": major, happy dance song						--> #3,  "impressing you requires work"
 		"hometown": major, powerful, energetic dance song	--> #8,  "In the beginning you're walking somewhere at sunset direction."
-		"edge - b": minor, touching, beautiful dance song	--> #9,  "love doesn't remain just a dream"
 		"crash landing": major, fast and happy song			--> #4,  "which clothes would you choose yourself?"
+		"edge - b": minor, touching, beautiful dance song	--> #9,  "love doesn't remain just a dream"
 		"loathing inc": minor, sad, distressing dance song	--> #7,  "moisture is burning my skin"
 		"slow dancing": minor, romantic slow song			--> #10, "relationships start and end, everything is visible"
 		"energizer": major/minor, interesting neutral song	--> #5,  "French fries, hamburger and coke"

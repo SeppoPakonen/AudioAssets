@@ -89,7 +89,21 @@ What makes Poko laugh? {
 		}
 	}
 	Casual and Conversational Tone {
-		
+		{
+			When I go to visit a woman, I always bring the tools with me.	
+			He can ask me to do anything.
+			I hope she admires my tool.
+		}
+		{
+			I enjoy pushing my tools into places.
+			Especially when you take it by the hand and guide it there.
+			You can do anything to help.
+		}
+		{
+			I'm not a dentist, but my tool is still sometimes in your mouth.
+			I provide toothpicks.
+			And dick.
+		}
 	}
 }
 
