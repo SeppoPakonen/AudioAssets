@@ -371,7 +371,7 @@ notes {
 			love doesn't remain just a dream
 		}
 		backstory {
-			This sums up my uncomfortable experiences from a year where I'm forced to be around men in military.
+			This sums up my uncomfortable experiences from a year where I'm forced to be around idiot men in military.
 			I couldn't find a girlfriend even though everyone else has, and I still feel bad.
 		}
 		analysis {

@@ -137,4 +137,19 @@ humour {
 	How can Poko handle misinterpretation or failure? {
 		I'll hike into the mountains to dig my own grave, where I'll write down what happened in hieroglyphs so that a thousand years from now someone can decipher why the public was so stupid as not to laugh at this joke
 	}
+	Mockery humor {
+		e.g.
+			- I walk down the street alone in a heavy downpour of rain, yet I'm smiling as I wear a t-shirt that says 'Nobody Cares'.
+			- I keep my head held high as the rain drenches my t-shirt reading "Be Your Own Hero".
+			- A smile still tugging at my lips despite the relentless pouring from the sky, my shirt proudly proclaiming "Take a Chance".
+			- I walk alone, dripping wet in my "Own the Moment" t-shirt, a smile spread across my face.
+
+		Steps to take to make this "Mockery Humor":
+		1. Start by identifying an exaggeration of a predicament that many people can relate to.
+		2. Add a humorous slogan or statement to make light of the situation.
+		3. Embrace the laughter and show a smile to show that you don't take yourself too seriously.
+		4. Add a twist at the end to keep the joke fresh.
+		
+		
+	}
 }

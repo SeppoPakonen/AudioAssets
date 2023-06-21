@@ -13,6 +13,7 @@ Underlying song content (not lyrics):
 
 Verse 1
 I leave house, I'm having a life
+I walk these streets alone, but I just don't care.
 I take different route, because my life is better
 The weather is warm and sunny.
 I'm going to enjoy.
@@ -27,3 +28,138 @@ When you have challenges, you can't live your life.
 Now I can live my life how I couldn't before.
 I'm having a life finally.
 
+AI {
+	Verse 2
+	The colours that surround me won't be the same and with curiosity I start to face my fears
+	My freedom calls me - it crushes silently
+	I'm walking with music, exploring this world
+	Strong and fearless wings help me find my Calling.
+	She codes up with empathy, Always breathless alive
+	Singing for young people the way I stand under sun or silver light.
+	My friends are my shelter, this rock next to me keep me safe
+	My People always here, we fight together and with one voice to believe. 
+
+	Bridge 
+	I can trust my friends, no one is too much for them 
+	No one judges me, the confidence grows with me.
+	I wear my yellow mohawk, it's part of me like my life
+	The power is in me, no one can break that chains.
+}
+
+
+
+What makes Poko laugh? {
+	Contrasting and Unexpected Elements {
+		Going a different route when typically you would stay the same
+		Choosing a self-made family over traditional family
+		Having challenges that keep one from living life 
+		Overcoming challenges and being able to live life finally
+		In a self-made family, the bonds are weaker than in a blood-related family.	
+		The different route is usually worse because the usual route has been refined to the best.
+		Chooses quick, easy and fleeting friendships instead of cultivating a long-term network of friendships.
+		Challenges in life tell you that you have an opportunity to be useful.
+		Overcoming challenges and living life usually just means getting paid and wasting money.
+	}
+	Exaggeration and Surreal Situations {
+		Living on my own terms in a sun-soaked place, with the support of my own self-made family of trusted individuals.
+		Reflecting on the past and realizing the challenges I was facing before, but now feeling joyous and liberated as I'm free to live life as I've wanted to.
+		Living in a safe and stable environment, without the expectations or restrictions of others.
+		Finding comfort and learning to rely on a chosen circle of people who are supportive and understanding.
+		Focusing on personal growth and taking steps to achieve that, whilst taking the time to appreciate the little things that life has to offer.
+	}
+	Subversion of Expectations {
+		{
+			The narrator starts off in a state of hopelessness, feeling like their life has no worth or purpose.
+			Through the support and love of friends, they learn that family is not necessarily blood, and that the people that you choose to be with are the ones that truly matter.
+			With this newfound understanding, they realize that they are capable of living their life, despite the challenges they face, and no longer feel like they are stuck in a never-ending cycle of pain and disappointment.
+		}
+	}
+	Absurd concept {
+		The protagonist has left their family to find a new path.
+		They are walking streets alone, enjoying the warm weather and cherishing the support from their new chosen family.
+		Despite the challenges life throws their way, they can finally live their life how they couldn't before.
+		They ponder what their life was always meant to be.
+	}
+	Self-Deprecating Humor {
+		"I walk these streets alone, but I just don't care" 
+		"My relatives, I trust them not" 
+		"Family is not your parents, but people you choose to be with"
+	}
+	Irony {
+		{
+			The irony in this song is that the protagonist is living a life which they previously couldn’t due to challenges and not having a traditional family.
+			They are now relying on their own self-made family and the support they get from them, rather than their biological relatives.
+		}
+	}
+	Playful Wordplay {
+		Leave house: Start living
+		Walk the streets alone: Taking the path less traveled
+		Different route: Changing perspectives
+		Weather is warm and sunny: Seeing positivity in everything
+		Support: A strong foundation of love
+		Self-made family: Making your own support system
+		What it all was: Reflecting on the journey
+		Have challenges: Overcoming obstacles
+		Live life: Experiencing new possibilities
+	}
+	Absurd and Exaggerated Scenarios {
+		{
+			I walk down the street alone in a heavy downpour of rain, yet I'm smiling as I wear a t-shirt that says "Nobody Cares". 
+			My friends and I have a pact that we won't leave each other behind, and I trust them more than my own blood relatives.
+			I pick and choose who I want in my family and define the meaning of family in my own way.
+		}
+		{
+			I ponder what my life and choices would have been like if I hadn't faced certain challenges. 
+			Now I'm living my life how I want, and it's more than I could ever ask for.
+			My life is finally mine.
+		}
+	}
+	Satirical Observations {
+		{
+			The satire presented here is that much of what is considered 'normal' life goals and expectations are set by family and society, and in some cases may not actually reflect what an individual wants or needs to be happy.
+			The song suggests that true happiness comes from striking out on one's own and choosing the people and the lifestyle that truly reflect the individual's own desires.
+			The refrain of "I'm having a life finally" furthers this concept, signaling that the narrator has finally found the freedom to pursue the life he wants.
+		}
+		satire towards what is considered 'normal' life {
+		
+		}
+	}
+	Dark Humor {
+		{
+			The weather is warm and sunny, but I just don't care - it's like I'm living my life, despite what the weather might be. 
+			My relatives don't support me, but I chose my people, my family - no matter what, I'm still surrounded by people who have my back. 
+			I wonder what it all was, what my life was all about - like, why did I have to go through all of this to get to where I am now?
+		}
+	}
+	Casual and Conversational Tone {
+		{
+			I'm having a life now, walking these streets alone but I don't care.
+			The weather's warm and sunny so I'm going to enjoy it.
+			I have my own family supporting me, unlike my family of origin.
+			I can live my life how I couldn't before and I'm so thankful for that.
+		}
+	}
+	Mockery humor {
+		e.g.
+			- I walk down the street alone in a heavy downpour of rain, yet I'm smiling as I wear a t-shirt that says 'Nobody Cares'.
+			- I keep my head held high as the rain drenches my t-shirt reading "Be Your Own Hero".
+			- A smile still tugging at my lips despite the relentless pouring from the sky, my shirt proudly proclaiming "Take a Chance".
+			- I walk alone, dripping wet in my "Own the Moment" t-shirt, a smile spread across my face.
+
+		Steps to take to make this "Mockery Humor":
+		1. Start by identifying an exaggeration of a predicament that many people can relate to.
+		2. Add a humorous slogan or statement to make light of the situation.
+		3. Embrace the laughter and show a smile to show that you don't take yourself too seriously.
+		4. Add a twist at the end to keep the joke fresh.
+		
+		- I go to a bar, which is empty
+		- have t-shirt on which says "lonely"
+		- bartender gives a drink and says "it's on me"
+		- who wants friends when you can have free drinks
+	}
+}
+Alternative lines {
+	I keep my head held high as the rain drenches my t-shirt reading "Be Your Own Hero".
+	A smile still tugging at my lips despite the relentless pouring from the sky, my shirt proudly proclaiming "Take a Chance".
+	I walk alone, dripping wet in my "Own the Moment" t-shirt, a smile spread across my face.
+}
