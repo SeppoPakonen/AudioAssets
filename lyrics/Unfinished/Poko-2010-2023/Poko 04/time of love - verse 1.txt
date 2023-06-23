@@ -1,3 +1,86 @@
+Singer: young caucasian man
+Voice: aggressive, hostile, bitter, unfriendly, womanizing
+
+
+Main pronouns, comedy topics, humor explanation and absract of lines:
+"I can hear it in your voice": 
+- pronouns: I, you
+- comedy topics: Subversion of expectations, ironic statements, self-deprecating humor
+- humor explanation: The speaker expresses their understanding in an ironic and self-deprecating way. The use of the phrase ‘I can hear it in your voice’ implies that the speaker can sense the listener's anger and frustration, further serving to build a humorous contrast with the following lines. 
+- abstract: ironic expression of understanding.
+
+"Look inside your vain instead of pointing fingers too": 
+- pronouns: I, you
+- comedy topics: Subversion of expectations, ironic statements, self-deprecating humor
+- humor explanation: A pleading tone is used, suggesting contrition and regret. This serves to build a humorous contrast with the following lines, which express frustration.
+- abstract: expression of contrition juxtaposed with frustration.
+
+"I only wanted one thing, you only wanted Richards": 
+- pronouns: I, you
+- comedy topics: Secrecy, romantic comedy, irony
+- humor explanation: The speaker expresses their anger in an ironic and humorous way. The contrast between the speaker's want only for "one thing," while the woman is only looking for Richard, adds to the humorous tone.
+- abstract: ironic expression of anger. 
+
+"Now I'm a broken mess and you're a silly bitch": 
+- pronouns: I, you 
+- comedy topics: Wrongdoing, exaggerated scenarios, sarcasm, ironic statements, smartassery 
+- humor explanation: The speaker expresses their anger through frustration in an exaggerated and ironic way. Calling the woman with the word ‘bitch’ adds to the tone of sarcasm and smartassery.
+- abstract: exaggerated anger and sarcasm. 
+
+"All these games you've played, nobody asked for it with flowers":
+- pronouns: I, you
+- comedy topics: Self-deprecating humor, gallows humor, irony
+- humor explanation: The speaker expresses their regret and sorrow in an ironic way. The use of the phrase ‘ask for it with flowers’ is a humorous way to suggest that the speaker is suggesting something romantic even in this difficult situation. 
+- abstract: ironic expression of regret and sorrow.
+
+"Pain turn into scars, sweetheart nobody else cares":
+- pronouns: I, you
+- comedy topics: Irony, self-mockery, irony
+- humor explanation: The speaker expresses their heartbreak in an ironic way. The use of the word ‘sweetheart’ is a humorous indication that despite the feelings of betrayal, the speaker is still trying to express their feelings in a romantic way.
+- abstract: ironic expression of heartbreak.
+
+"You left me for cigarettes and beers, you think it's funny now?":
+- pronouns: I, you
+- comedy topics: Exaggeration, humiliation, facetiousness
+- humor explanation: The speaker exaggerates the other person's wrongdoings in a humorous way. This is further highlighted by the use of cheeky words such as ‘cigarettes’ and ‘beers’ as a humorous way to express how they feel violated. 
+- abstract: exaggerated expression of humiliation.
+
+"The wrong timing's killing us, do you think you can close both your eyes and mouth at the same time?":
+- pronouns: I, you
+- comedy topics: Subversion of expectations, absurd concepts, surreal humor 
+- humor explanation: The speaker subverts traditional expectations in womanizing and humorous way. The idea of being making her to close both eyes and mouth at the same time is a surreal one, which serves to create a humorous and ankward situation. 
+- abstract: humorous subversion of traditional expectations.
+
+"But I'd still take you in my arms and give you a kiss":
+- pronouns: I, you
+- comedy topics: Romantic comedy, romantic humor
+- humor explanation: The speaker expresses their desire in a romantic and humorous way. The juxtaposition of the surreal and absurd idea of being able to close both eyes and mouth at the same time with the romantic idea of a kiss further serves to create a humorous situation. 
+- abstract: humorous expression of romantic desire.
+
+"Still I try to keep my mind in check, before my heart's too far gone":
+- pronouns: I
+- comedy topics: Melancholic tone, self-deprecating humor, irony
+- humor explanation: The speaker expresses their regret and sadness in a humorous way. The idea of trying to keep one's mind in check serves to create a humorous contrast with the images of their past relationship. 
+- abstract: ironic expression of regret and sadness.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+
+Original:
+
 Lyrics:
 
 Verse 1 (sung by the man)
@@ -60,79 +143,60 @@ List of topics:
 - Pratfalls
 
 
-Main pronouns, topics and abracts of lines:
-"Close your eyes, listen to my voice;":
-- pronouns: you, my
-- topics: Contrasting and Unexpected Elements, Subversion of Expectations, Absurd concepts, Atheistic Interaction, Irony, Ironical statements, Playful Wordplay
-- abstract: Listener is being requested to use imagination. 
 
-"my head hurts because I was wrong again.":
-- pronouns: I, my
-- topics: Exaggeration and Surreal Situations, Self-Deprecating Humor, Dark Humor, Casual and Conversational Tone
-- abstract: Speaker is expressing regret for a wrong action. 
-
-"I ran with you without a destination,":
+Main pronouns, comedy topics, humor explanation and absract of lines:
+"Close your eyes, listen to my voice; my head hurts because I was wrong again.": 
 - pronouns: I, you
-- topics: Absurd and Exaggerated Scenarios, Mockery humor 
-- abstract: Speaker is expressing a sense of aimlessness and confusion. 
+- comedy topics: Subversion of expectations, ironic statements, self-deprecating humor
+- humor explanation: A pleading tone is used, suggesting contrition and regret. This serves to build a humorous contrast with the following lines, which express frustration.
+- abstract: expression of contrition juxtaposed with frustration.
 
-"please, would you you get out of my head, bitch?":
-- pronouns: you, my
-- topics: Subversion of Expectations, Playful Interaction with God, Self-Mockery humor, Sarcasm, Smartassery
-- abstract: Speaker is expressing anger and frustration. 
+"I ran with you without a destination, please, would you you get out of my head, bitch?":
+- pronouns: I, you 
+- comedy topics: Wrongdoing, exaggerated scenarios, sarcasm, ironic statements, smartassery 
+- humor explanation: The speaker expresses their anger through frustration in an exaggerated and ironic way. The use of the word ‘bitch’ adds to the tone of sarcasm and smartassery.
+- abstract: exaggerated anger and sarcasm. 
 
 "I'd like to ask for it with flowers, but if you remember, I wasn't the one who started the breakup.":
 - pronouns: I, you
-- topics: Romantic Comedy, Romantic Humor, Melancholic Tone, Pleading Tone, Facetiousness
-- abstract: Speaker is asking for a reconciliation while expressing regret and sorrow.
+- comedy topics: Self-deprecating humor, gallows humor, irony
+- humor explanation: The speaker expresses their regret and sorrow in an ironic way. The use of the phrase ‘ask for it with flowers’ is a humorous way to suggest that the speaker is suggesting something romantic even in this difficult situation. 
+- abstract: ironic expression of regret and sorrow.
 
-"I just lost my trust with you,":
-- pronouns: I, you 
-- topics: Dark Humor, Self-Deprecating Humor, Casual and Conversational Tone
-- abstract: Speaker is expressing feelings of distrust and betrayal.
-
-"Sweetheart, you made my world gray.":
-- pronouns: you, my
-- topics: Surreal Humor, Irony, Playful Wordplay, Satirical Observations
-- abstract: Speaker is expressing his disappointment at the state of the world caused by the listener.
-
-"You talked bad about me behind my back and to my face,":
-- pronouns: you, I
-- topics: Ironical statements, Absurd concepts, Parodical Statements, Caricature Statements
-- abstract: Speaker is expressing his outrage at the listener's behaviour. 
-
-"you smoked my cigarettes and drank my beers.":
-- pronouns: you, I
-- topics: Slapstick, Mustache Twirling, Pratfalls, Improvisation, Exaggeration
-- abstract: Speaker is pointing out the listener's poor etiquette and lack of consideration.
-
-"Close your eyes and your mouth at the same time,":
-- pronouns: you
-- topics: Subversion of Expectations, Playful Interaction with God
-- abstract: Listener is being asked to use his imagination to think about other possibilities.
-
-"I would like to interrupt your thoughts and at the same time your mouth.":
+"I just lost my trust with you, Sweetheart, you made my world gray.":
 - pronouns: I, you
-- topics: Atheistic Interaction, Irony, Mockery humor
-- abstract: Speaker is attempting to subvert the expectations of the listener and create a disruption.
+- comedy topics: Irony, self-mockery, irony
+- humor explanation: The speaker expresses their heartbreak in an ironic way. The use of the word ‘sweetheart’ is a humorous indication that despite the feelings of betrayal, the speaker is still trying to express their feelings in a romantic way.
+- abstract: ironic expression of heartbreak.
 
-"And at the same time, I'd like to kiss you,":
-- pronouns: I, you 
-- topics: Romantic Humor, Irony, Playful Wordplay
-- abstract: Speaker is conveying his longing to be with the person he used to be with, while being comical about it.
+"You talked bad about me behind my back and to my face, you smoked my cigarettes and drank my beers.":
+- pronouns: I, you
+- comedy topics: Exaggeration, humiliation, facetiousness
+- humor explanation: The speaker exaggerates the other person's wrongdoings in a humorous way. This is further highlighted by the use of cheeky words such as ‘cigarettes’ and ‘beers’ as a humorous way to express how they feel violated. 
+- abstract: exaggerated expression of humiliation.
 
-"with the same feeling as our first kiss.":
-- pronouns: I, our
-- topics: Romantic Comedy, Romantic Humor
-- abstract: Speaker is expressing his wish to share the same excitement as when they were together.
+"Close your eyes and your mouth at the same time, I would like to interrupt your thoughts and at the same time your mouth.":
+- pronouns: I, you
+- comedy topics: Subversion of expectations, absurd concepts, surreal humor 
+- humor explanation: The speaker subverts traditional expectations in a humorous way. The idea of being able to close both eyes and mouth at the same time is a surreal one, which serves to create a humorous situation. 
+- abstract: humorous subversion of traditional expectations.
 
-"Damn, I'm trying to keep my mind in check, but it's no fun":
+"And at the same time, I'd like to kiss you, with the same feeling as our first kiss.":
+- pronouns: I, you
+- comedy topics: Romantic comedy, romantic humor
+- humor explanation: The speaker expresses their desire in a romantic and humorous way. The juxtaposition of the surreal and absurd idea of being able to close both eyes and mouth at the same time with the romantic idea of a kiss further serves to create a humorous situation. 
+- abstract: humorous expression of romantic desire.
+
+"Damn, I'm trying to keep my mind in check, but it's no fun when I look at old photos.":
 - pronouns: I
-- topics: Dark Humor, Self-Deprecating Humor
-- abstract: Speaker is expressing his frustration at being unable to prevent himself from thinking about his past.
+- comedy topics: Melancholic tone, self-deprecating humor, irony
+- humor explanation: The speaker expresses their regret and sadness in a humorous way. The idea of trying to keep one's mind in check serves to create a humorous contrast with the images of their past relationship. 
+- abstract: ironic expression of regret and sadness.
 
-"when I look at old photos.":
-- pronouns: I
-- topics: Melancholic Tone, Playful Wordplay, Atheistic Interaction
-- abstract: Speaker is expressing his sadness when looking back on memories of his time with the person.
+
+
+
+
+
+
 

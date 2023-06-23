@@ -1,3 +1,18 @@
+# Best method (so far):
+- make prompt to davinci gpt 3
+    - add part of lyrics
+    - copy-paste the header of template.txt
+    - get: "Pronouns, comedy topic, humor explanation and abstract:"
+- remove original lyrics
+- use gpt insert tool to replace line per line
+    - increase temperature, e.g. 1.3
+    - add header info, e.g:
+        - Singer: young caucasian man
+        - Voice: aggressive, hostile, bitter, unfriendly
+
+
+
+#### 
 Love songs:
 1. take a good section of notes
 2. "Sexually explicit romantic novel:"
@@ -12,3 +27,4 @@ Meta to single (Poko 00 -> Poko xx - 20xx):
 
 Single to subfiles (Poko xx - 20xx ---> dir Poko xx):
  
+

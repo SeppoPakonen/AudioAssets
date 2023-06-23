@@ -1,13 +1,97 @@
+Title: Time of love
+
+List of topics:
+- Contrasting and Unexpected Elements
+- Exaggeration and Surreal Situations
+- Subversion of Expectations
+- Absurd concepts
+- Atheistic Interaction
+- Religious Interaction
+- Playful Interaction with God
+- Irony
+- Ironical statements
+- Playful Wordplay
+- Absurd and Exaggerated Scenarios
+- Satirical Observations
+- Romantic Comedy
+- Romantic Humor
+- Self-Deprecating Humor
+- Dark Humor
+- Casual and Conversational Tone
+- Mockery humor
+- Self-Mockery humor
+- Sarcasm
+- Slapstick
+- Facetiousness
+- Melancholic Tone
+- Pleading Tone
+- Parodical Statements (with the normal statement)
+- Caricature Statements (with the normal statement)
+- Gallows Humor
+- Sex Humor
+- Surreal Humor
+- Absurdist Humor
+- One-liners
+- Smartassery
+- Improvisation
+- Exaggeration
+- Mustache Twirling
+- Pratfalls
+
+
+Pronouns, comedy topic, humor explanation and abstract :
+
+
+Pronouns, comedy topic, humor explanation and abstract :
+"love is not a work of art"
+- pronouns: We
+- comedy topic: Irony
+- humor explanation: By giving the common saying “love is a work of art” a twist, the speaker reveals the fact that love isn't as easily crafted as a piece of art, thus creating a humorous irony. 
+- abstract: A cheeky comment at the uncompromising culmination of love. 
+
+"we crafted our love, not art."
+- pronouns: We
+- comedy topic: Contrasting and Unexpected Elements
+- humor explanation: by juxtaposing the idea of creating art with the idea of feelings in a relationship, the speaker creates a humorous contrast to showcase how 'unartistic' relationships can be.
+- abstract: A whimsical observation about relationship complexities, and the surprises that come with them.
+
+"we loved until love fell apart."
+- pronouns: We
+- comedy topic: Subversion of Expectations
+- humor explanation: By implying that even the strongest of relationships will eventually come to an end goes against the traditional view of everlasting relationships, creating a humorous irony.
+- abstract: A lighthearted reminder that even relationships that seemed to be built to last are only temporary.
+
+"it was a time of love, that I won't soon forget."
+- pronouns: We
+- comedy topic: Ironical Statements
+- humor explanation: By emphasizing the relationship being a “time of love” in a morose tone implies a contradiction, suggesting that it wasn’t a positive experience despite being a time of love. 
+- abstract: A muted yet sincere acknowledgment of the feelings felt during a special part of life, now past.
+
+"not even in my dreams do I miss the time together."
+- pronouns: We
+- comedy topic: Surreal Humor
+- humor explanation: By referencing “dreams”, the speaker surreally suggests that there aren’t even nostalgic feelings, even in his dreams, further emphasizing the lack of “miss” one would have of a significant other. 
+- abstract: A whimsical imagining of a relationship gone but in which feelings are still far away.
+
+
+
+
+
+
+############ original
+
+
+Title: Time of love
+
 Lyrics:
+
+
 
 Chorus (sung by the man)
 Hey girl, we made art out of our feelings.
 Hey girl, nothing lasts forever.
 Hey girl, even though our relationship was a time of love,
 Hey girl, no, even in my dreams I don't miss you.
-
-
-
 
 
 
@@ -51,23 +135,27 @@ List of topics:
 - Pratfalls
 
 
-Main pronouns, topics and abracts of lines:
-"Hey girl, we made art out of our feelings.":
-- pronouns: we 
-- topics: contrast of unexpected elements, exaggeration
-- abstrac: making something meaningful and beautiful out of feelings.
+Pronouns, comedy topic, humor explanation and abstract :
+"Hey girl, we made art out of our feelings."
+- pronouns: We, Hey Girl
+- comedy topic: Contrasting and Unexpected Elements
+- humor explanation: by juxtaposing the idea of creating art with the idea of feelings in a relationship, the speaker creates a humorous contrast to showcase how 'unartistic' relationships can be.
+- abstract: A whimsical observation about relationship complexities, and the surprises that come with them.
 
-"Hey girl, nothing lasts forever.":
-- pronouns: none 
-- topics: subversion of expectations, absurd concepts 
-- abstract: emphasizing how fleeting everything is and how nothing is permanent.
+"Hey girl, nothing lasts forever."
+- pronouns: We, Hey Girl
+- comedy topic: Subversion of Expectations
+- humor explanation: By implying that even the strongest of relationships will eventually come to an end goes against the traditional view of everlasting relationships, creating a humorous irony.
+- abstract: A lighthearted reminder that even relationships that seemed to be built to last are only temporary.
 
-"Hey girl, even though our relationship was a time of love,":
-- pronouns: our 
-- topics: playfulness, irony 
-- abstract: acknowledging that in spite of the affection and love shared, it could not be permanent.
+"Hey girl, even though our relationship was a time of love"
+- pronouns: We, Hey Girl
+- comedy topic: Ironical Statements
+- humor explanation: By emphasizing the relationship being a “time of love” in a morose tone implies a contradiction, suggesting that it wasn’t a positive experience despite being a time of love. 
+- abstract: A muted yet sincere acknowledgment of the feelings felt during a special part of life, now past.
 
 "Hey girl, no, even in my dreams I don't miss you."
-- pronouns: my 
-- topics: self-deprecating humor, dark humor, mockery
-- abstract: emphasizing a completely different and new reality with no longing for the past.
+- pronouns: We, Hey Girl
+- comedy topic: Surreal Humor
+- humor explanation: By referencing “dreams”, the speaker surreally suggests that there aren’t even nostalgic feelings, even in his dreams, further emphasizing the lack of “miss” one would have of a significant other. 
+- abstract: A whimsical imagining of a relationship gone but in which feelings are still far away.
