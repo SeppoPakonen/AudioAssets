@@ -1,4 +1,49 @@
 
+
+
+List of comedy topics:
+- Contrasting and Unexpected Elements
+- Exaggeration and Surreal Situations
+- Subversion of Expectations
+- Absurd concepts
+- Atheistic Interaction
+- Religious Interaction
+- Playful Interaction with God
+- Irony
+- Ironical statements
+- Playful Wordplay
+- Absurd and Exaggerated Scenarios
+- Satirical Observations
+- Romantic Comedy
+- Romantic Humor
+- Self-Deprecating Humor
+- Dark Humor
+- Casual and Conversational Tone
+- Mockery humor
+- Self-Mockery humor
+- Sarcasm
+- Slapstick
+- Facetiousness
+- Melancholic Tone
+- Pleading Tone
+- Parodical Statements (with the normal statement)
+- Caricature Statements (with the normal statement)
+- Gallows Humor
+- Sex Humor
+- Surreal Humor
+- Absurdist Humor
+- One-liners
+- Smartassery
+- Improvisation
+- Exaggeration
+- Mustache Twirling
+- Pratfalls
+
+Main pronouns, comedy topics, humor explanation and abracts of lines::
+
+
+
+
 What makes Poko laugh? {
 	Contrasting and Unexpected Elements {
 		
@@ -9,54 +54,103 @@ What makes Poko laugh? {
 	Subversion of Expectations {
 		
 	}
-	Absurd concept {
+	Absurd concepts {
+		
+	}
+	Atheistic Interaction {
+		
+	}
+	Religious Interaction {
 		
 	}
 	Playful Interaction with God {
 		
 	}
-	Self-Deprecating Humor {
-		
-	}
 	Irony {
 		
+	}
+	Ironical statements {
+	
 	}
 	Playful Wordplay {
 		
 	}
 	Absurd and Exaggerated Scenarios {
-		{
-			
-		}
+		
 	}
 	Satirical Observations {
-		{
-			
-		}
+		
+	}
+	Self-Deprecating Humor {
+		
 	}
 	Dark Humor {
-		{
-			
-		}
+		
 	}
 	Casual and Conversational Tone {
-		{
-			
-		}
+		
 	}
 	Mockery humor {
-		e.g.
-			- I walk down the street alone in a heavy downpour of rain, yet I'm smiling as I wear a t-shirt that says 'Nobody Cares'.
-			- I keep my head held high as the rain drenches my t-shirt reading "Be Your Own Hero".
-			- A smile still tugging at my lips despite the relentless pouring from the sky, my shirt proudly proclaiming "Take a Chance".
-			- I walk alone, dripping wet in my "Own the Moment" t-shirt, a smile spread across my face.
-
-		Steps to take to make this "Mockery Humor":
-		1. Start by identifying an exaggeration of a predicament that many people can relate to.
-		2. Add a humorous slogan or statement to make light of the situation.
-		3. Embrace the laughter and show a smile to show that you don't take yourself too seriously.
-		4. Add a twist at the end to keep the joke fresh.
 		
+	}
+	Self-mockery humor {
 		
+	}
+	Sarcasm {
+		
+	}
+	Slapstick {
+		
+	}
+	Facetiousness {
+	
+	}
+	Melancholic Tone {
+	
+	}
+	Pleading Tone {
+	
+	}
+	Parodical Statements (with the normal statement) {
+	
+	}
+	Caricature Statements (with the normal statement) {
+	
+	}
+	Romantic Comedy {
+		
+	}
+	Romantic Humor {
+		
+	}
+	Gallows Humor {
+	
+	}
+	Sex Humor {
+	
+	}
+	Surreal Humor {
+	
+	}
+	Absurdist Humor {
+		
+	}
+	One-liners {
+	
+	}
+	Smartassery {
+	
+	}
+	Improvisation {
+	
+	}
+	Exaggeration {
+	
+	}
+	Mustache Twirling {
+	
+	}
+	Pratfalls {
+	
 	}
 }

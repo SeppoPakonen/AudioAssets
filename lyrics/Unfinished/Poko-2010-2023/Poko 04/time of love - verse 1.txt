@@ -1,0 +1,138 @@
+Lyrics:
+
+Verse 1 (sung by the man)
+Close your eyes, listen to my voice;
+my head hurts because I was wrong again.
+I ran with you without a destination,
+please, would you you get out of my head, bitch?
+I'd like to ask for it with flowers, but if you remember, I wasn't the one who started the breakup.
+I just lost my trust with you,
+Sweetheart, you made my world gray.
+You talked bad about me behind my back and to my face,
+you smoked my cigarettes and drank my beers.
+Close your eyes and your mouth at the same time,
+I would like to interrupt your thoughts and at the same time your mouth.
+And at the same time, I'd like to kiss you,
+with the same feeling as our first kiss.
+Damn, I'm trying to keep my mind in check, but it's no fun
+when I look at old photos.
+
+
+
+
+
+List of topics:
+- Contrasting and Unexpected Elements
+- Exaggeration and Surreal Situations
+- Subversion of Expectations
+- Absurd concepts
+- Atheistic Interaction
+- Religious Interaction
+- Playful Interaction with God
+- Irony
+- Ironical statements
+- Playful Wordplay
+- Absurd and Exaggerated Scenarios
+- Satirical Observations
+- Romantic Comedy
+- Romantic Humor
+- Self-Deprecating Humor
+- Dark Humor
+- Casual and Conversational Tone
+- Mockery humor
+- Self-Mockery humor
+- Sarcasm
+- Slapstick
+- Facetiousness
+- Melancholic Tone
+- Pleading Tone
+- Parodical Statements (with the normal statement)
+- Caricature Statements (with the normal statement)
+- Gallows Humor
+- Sex Humor
+- Surreal Humor
+- Absurdist Humor
+- One-liners
+- Smartassery
+- Improvisation
+- Exaggeration
+- Mustache Twirling
+- Pratfalls
+
+
+Main pronouns, topics and abracts of lines:
+"Close your eyes, listen to my voice;":
+- pronouns: you, my
+- topics: Contrasting and Unexpected Elements, Subversion of Expectations, Absurd concepts, Atheistic Interaction, Irony, Ironical statements, Playful Wordplay
+- abstract: Listener is being requested to use imagination. 
+
+"my head hurts because I was wrong again.":
+- pronouns: I, my
+- topics: Exaggeration and Surreal Situations, Self-Deprecating Humor, Dark Humor, Casual and Conversational Tone
+- abstract: Speaker is expressing regret for a wrong action. 
+
+"I ran with you without a destination,":
+- pronouns: I, you
+- topics: Absurd and Exaggerated Scenarios, Mockery humor 
+- abstract: Speaker is expressing a sense of aimlessness and confusion. 
+
+"please, would you you get out of my head, bitch?":
+- pronouns: you, my
+- topics: Subversion of Expectations, Playful Interaction with God, Self-Mockery humor, Sarcasm, Smartassery
+- abstract: Speaker is expressing anger and frustration. 
+
+"I'd like to ask for it with flowers, but if you remember, I wasn't the one who started the breakup.":
+- pronouns: I, you
+- topics: Romantic Comedy, Romantic Humor, Melancholic Tone, Pleading Tone, Facetiousness
+- abstract: Speaker is asking for a reconciliation while expressing regret and sorrow.
+
+"I just lost my trust with you,":
+- pronouns: I, you 
+- topics: Dark Humor, Self-Deprecating Humor, Casual and Conversational Tone
+- abstract: Speaker is expressing feelings of distrust and betrayal.
+
+"Sweetheart, you made my world gray.":
+- pronouns: you, my
+- topics: Surreal Humor, Irony, Playful Wordplay, Satirical Observations
+- abstract: Speaker is expressing his disappointment at the state of the world caused by the listener.
+
+"You talked bad about me behind my back and to my face,":
+- pronouns: you, I
+- topics: Ironical statements, Absurd concepts, Parodical Statements, Caricature Statements
+- abstract: Speaker is expressing his outrage at the listener's behaviour. 
+
+"you smoked my cigarettes and drank my beers.":
+- pronouns: you, I
+- topics: Slapstick, Mustache Twirling, Pratfalls, Improvisation, Exaggeration
+- abstract: Speaker is pointing out the listener's poor etiquette and lack of consideration.
+
+"Close your eyes and your mouth at the same time,":
+- pronouns: you
+- topics: Subversion of Expectations, Playful Interaction with God
+- abstract: Listener is being asked to use his imagination to think about other possibilities.
+
+"I would like to interrupt your thoughts and at the same time your mouth.":
+- pronouns: I, you
+- topics: Atheistic Interaction, Irony, Mockery humor
+- abstract: Speaker is attempting to subvert the expectations of the listener and create a disruption.
+
+"And at the same time, I'd like to kiss you,":
+- pronouns: I, you 
+- topics: Romantic Humor, Irony, Playful Wordplay
+- abstract: Speaker is conveying his longing to be with the person he used to be with, while being comical about it.
+
+"with the same feeling as our first kiss.":
+- pronouns: I, our
+- topics: Romantic Comedy, Romantic Humor
+- abstract: Speaker is expressing his wish to share the same excitement as when they were together.
+
+"Damn, I'm trying to keep my mind in check, but it's no fun":
+- pronouns: I
+- topics: Dark Humor, Self-Deprecating Humor
+- abstract: Speaker is expressing his frustration at being unable to prevent himself from thinking about his past.
+
+"when I look at old photos.":
+- pronouns: I
+- topics: Melancholic Tone, Playful Wordplay, Atheistic Interaction
+- abstract: Speaker is expressing his sadness when looking back on memories of his time with the person.
+
