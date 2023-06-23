@@ -1,0 +1,787 @@
+sanoitukset {
+	yksin metsässä {
+		Karttaa eikö tullut matkaan?
+		Kompassiko puuttuu?
+		Kaveritko suuttuu johtajaan?
+		Nälkä.
+		Vesi pitäis keittää.
+		Tulitikut kastui kun suonsilmään astuin.
+		Mm.. mm.. mm...
+		Kun tullutkaan ei vastaan laavua
+		ja polkumerkit taisin hukata,
+		jostakin se täytyy taas jatkaa,
+		vaik oman haudan kaivuulla.
+	}
+	syklit {
+		Tän kytkimellä käynnistää ja kytkimellä sammuttaa.
+		Ei tiedostot tän rikkoudu. 
+		Ne tallessa on korpulla.
+		Syklit tunnen, tän syklit tunnen.
+
+		Mun pacman on karu pallo valoo.
+		Mun prop cycle saa hiukset hulmuamaan.
+		Pyörii täs kuus mega hertsiä, speksejä en liioin tiedäkkään.
+		Tän taijan tun nen nuoruudesta.
+		Piippaukset saa muistamaan.
+		Syklit tunnen, tän syklit tunnen.
+
+		Me Parasol Stars
+		siskon kanssa pelataan.
+		Saa Bubble Bobble
+		meneen ajan nopeasti.
+
+		Arkanoid ja Ski or die.
+		Wolfenstein, Emerald mines.
+		Pizza worm ja Minebombers.
+		Slicks 'n' slide, Koulu kolome.
+
+		On mun parhaat muistot näissä piireissä.
+		Mä oon vanhanliiton jengiä.
+		Se on varma, ettei saada tyttöjä mukaan.
+		Ei, ne ei lämpeä.
+		Sid Paulan kaa bileissä soittaa taas tulevaisuuden soundeja.
+		Demoskenen tän tietää.
+		Syklit tunnen, tän syklit tunnen.
+
+		Tää Monkey Island vie pakoon talvesta.
+		Keen ja vihreä jänis näitä esteitä viel hyppii.
+	}
+	nahkahousut {
+		Kuminen, kiiltävä vaate iholla.
+		Meikit naamassa olet pelottava ja kun kosketat olenko taivaassa mä?
+		Olet kuin kaupan pakkaus, kaunis, enkä voi avata mä sun kuoria.
+		Jostakin raotan vain.
+		Ei, en oo liian rankka, sirouttas ihailen vaan.
+		Narskuu kun reidet koskettaa, sun ihoon kynnet ei vastaa. 
+		Oot supernainen, aito, lateksinen.
+		Kiusaat ja en voi vastustaa, meen taas sun kieroimpaan ansaan. 
+		Oot supernainen, kaunis, himon herättävä.
+	}
+	rahat takaisin {
+		Maailmas on paljon nautintoo.
+		On kilttiä ja rajua menoo, eikä unohdeta alistamistakaan.
+		Toiset tahtoo olla milffin kaa, mutta mulle on tuo hetki himoton, jos keikistelee narsisti faneilleen.
+		Hei, tahtoisin saada rahat takaisin.
+		Hän ei näytä huomaavan muuta kuin itsensä.
+		Eikä kiinnosta hulavanne.
+		Käyttäytyy hän kuin kymppi mutta kutonen hän on.
+		Ei oo kivaa, ei en haluu katsoo enää.
+		Jos hän ei saa, onhan se uutta.
+		Tänne lisää todellisuutta.
+		Huononee vain, vuosi vuodelta, kysykää vain veteraanilta.
+		Kauneutta voi myös halventaa, itsekkyys voi vain rumentaa.
+		Valittaa mulle nirppanokka.
+		Hiljempaa pliis, et tajuu koskaan.
+	}
+	ainut laiva {
+		Pyysit laittaan vireen sun kitaraan ja jälkeen sen kahvit juomaan.
+		En ala sun luo turhaan bodyy tuomaan, koska muista aina: mä olen sulle vaiva, en lähde sunnuntaina.
+		Sä olet ainut laiva jonka kohtaan tylsyyteen.
+	}
+	gin {
+		Oltu on se onneton, aamukahvilla viinaton. 
+		Kiltimpää ei löydäkkään, huikat saa aina myös ystävä.
+		Meidät tunnetaan puiston kulmalla.
+		Penkil istuu ryysyissään  kaikki tyypit nää ammatin.
+		Mun tauko tuodaan se kilisevissä, niissä kirkkaissa pulloissa väkevien.
+		Meil on tullu oltua väärillä teillä, mutta en haise viinalle, giniä se on.
+	}
+	vihreä {
+		Jos et ole mun kaa, jos et tule mukaan, jos et mua pussaa, niin lähden menneen.
+		Jos sä annat kihlat, jos mä sanon kyllä, vaikka satais vettä on häät kesällä.
+		Apinat haluu mua tavata, yrittää monetkin kiinni mua saada, ei oo hajuukaan, ei tajuu muutkaan, et toi yks hiljanen satuili musta päiväkirjaansa.
+		Se hullu on toivonut kai jotain meistä, mut prinsessathan ei piittaa rengeistä.
+		Mitä ees haluan?
+		Ketä ees kestän, että jaksais kauan yhdessä.
+	}
+	hardbass {
+		Karaokes laulan paratiisii, ja kotiin menen traktorilla.
+		Oon maantienkuningas, ee äs jonne kakskyt viis.
+		Bilehile Mira, lähipubin sangria.
+		Tyttöjen ilta ja vitut himaan.
+		Suo ja kuu, porot ja muut, akka uus.
+		Joku gorilla, tupakkakopilla.
+		Arjen sotilas, eikä maksa kortilla.
+		Aamupuun unelma, kotiovella.
+		Läpi Suomen Valmetilla.
+		Helsinki Utsjoki ja Savonlinnaan.
+		Kaikien kaveri, saunoja parempi.
+		Sisul hiihdän ens viikollakin.
+	}
+	loco {
+		Äl oo see oooo 
+		Jälkiä öiden, kiertäjän kaupungin.
+		Joskus on hauskaa, joskus ei vain kiinnosta.
+		Täällä on oltu syystä ja toisesta.
+		Tarvetta varten, mihin meen sen muille merkkaan.
+		Mitä Fränklin nyt sanoo kun peitetään sen kulttuuri?
+		Vaaditaan sen myyntituote.
+		Valkopestään sensuuri.
+	}
+	hätätilanne {
+		Oli meilläkin monta unelmaa.
+		Kotiinpaluu ei kuitenkaan.
+		Jäisel tiellä kun mutkaan jarruttaa, voi yllättää vastaantulija.
+		Olin mä, olit sä, oltiin me niin erinlaisii, muihin vertailtiin ulkoisii ominaisuuksii.
+		Kuuletko huokaavat puut?
+		Lämpö valuu tippuen, se sattuu, en muistakkaan miks tänne tultiin?
+		Hei vastaa mulle nyt, oon pettynyt.
+		Kulta, valoo näkyy...
+		Oli meilläkin monta unelmaa.
+		Kotiinpaluu ei kuitenkaan.
+		Jäisel tiellä kun mutkaan jarruttaa, voi yllättää vastaantulija.
+	}
+	skin trance {
+		Piknikillä se on sellanen viini, että määrällä korvaa fiinimmänkin.
+		Meillä täällä on sellanen piiri, että kiertää se juttu toisillekin.
+		Tunne palaa, se on rytmissä roihus.
+		Lantiolla tahti sun ei sekoitu.
+		Tanssijalat tallaa voimal mut transsiin.
+		Kanssas iholla on viiminen valssi.
+		On lähinpuska ja sääskien surma.
+		Remmi kaulaan ja ittee taluttaan.
+		Näime ihan ensimmäistä kertaa, puskapysäkillä katsoitmua silmiin.
+		Tunne palaa, se on rytmissä roihus.
+		Lantiolla tahti sun ei sekoitu.
+		Tanssijalat tallaa voimal mut transsiin.
+		Kanssas iholla on viiminen valssi.
+	}
+	sä yhdistät pisteet {
+		Viivana pisteitä yhdistelet.
+		Maalina vieres mä kastelen.
+		Haluut et sanon sua pensseliks, mut mää oon kierorata.
+		Sumuisen vihreä tuoksu tää saa violetinkin jo pelästymään.
+		Täytyy jo karata keltaiseen, että tahrais ei mua sininen.
+		Linjalla violetinväristen viivojen me oltiin hetken aikaa ruskeita.
+		Sä muutuit takaisin, mut mä menin oranssiin.
+		Iltaan tummansiniseen, tuo kirkkaat pisteet rakkuden.
+		Ja pinkkiä on mahassa, kun tunnut pumpulilta.
+	}
+	parametristä seksiä {
+		Laitan kolikon laitteeseen ja syötän sun tiedot: pitkä, hoikka ja platinablondi, silikoonitissit.
+		Parametristä seksii, kun ei oo sekaisin tarpeeksi.
+		Ei oo vaimoon varaa, mutta ainakin antaa tämä hologrammirobotti.
+		Robotit yrittää ees.
+															 
+		Parametristä seksii, kun ei oo sekaisin tarpeeksi.
+		En oo velkaa mitään, eikä kiinnosta ketään.
+		Nythän joku edes ymmärtää.
+		Parametrista seksii, kun ei saa sitä mitä etsii.
+		Ei oo vaimoon varaa, mutta ainakin antaa tämä hologrammirobotti.
+		Robotit yrittää ees.
+	}
+	aina mielessä {
+		On raskas viikko nyt takana ja hommat valmiiksi sain.
+		Palkintona mielessä on avaamaton. 
+		Puskin mä helvetin eteenpäin ja samas paikassa oon.
+		Ylläpitoo, työni tekoo, pääni sekoo. 
+		Niin oli vaikea keskittyy.
+		Vihdoin voin poistuu kotiin, missä mul on kylmänä jo avaamaton. 
+
+		Aina mielessä on urakan palkinto.
+		Siihen asti jaksan sisul vielä painaa.
+		Aina mielessä on perjantaiilta.
+		Sitä miettiessä siedän hetken vielä.
+
+		Kirjoitin tyhjiä lauseita.
+		Kiroilin niin paljon taas.
+		Vihaiseks saa tollot tän maan, mut hiljaisena. 
+		Kaukana häämöttää lomakin.
+		Se lyhyt on, mutta niin tarpeellinen. 
+		Tarpeeks ei oo avaamaton. 
+
+		Aina mielessä on urakan palkinto.
+		Siihen asti jaksan sisul vielä painaa.
+		Aina mielessä on perjantaiilta.
+		Sitä miettiessä siedän hetken vielä.
+		Aina mielessä on urakan palkinto.
+		Siihen asti jaksan mä sisul vielä painaa vaan.
+		Aina mielessä on perjantaiilta.
+		Sitä miettiessä mä siedän vielä, siedän vaan.
+	}
+	deitti-ilta {
+		Saa aamun tahti verkkainen muistamaan illallisen.
+		On lounasaika sellainen, et kuvaasi himoitsen, vaan iltapäivä alkaa jo hermostuttaan.
+		Luurii vahtaan. 
+		Pyydän neuvoo, hei kerro mitä mä teen.
+		Meenkö sinne ees? 
+
+		Ankeaa, ankee on vaan odottaa et näen sut uudestaan.
+		Pakottaa rintaa, henkee en saa kun taas mietin deitti-iltaa.
+
+		Saa hörpyn hetkee harkitseen katseesi merkillinen.
+		On tuoksus niin papaijainen, et mitään muuta mieti en.
+		Pyydät tanssiin, mutta mä en oo sellainen, silti kyl menen. 
+		Lämpösi kuuma saa mieleni karkaamaan aina aamun taakse. 
+
+		Ankeaa, ankee on vaan odottaa et näen sut uudestaan.
+		Pakottaa rintaa, henkee en saa kun taas mietin deitti-iltaa.
+		Ankeaa, ankee on vaan odottaa, et sun ihon tuntea saan taas.
+		Kauniinpi oot aina silmissä mun, kun oot jälleen viereen tullut.
+
+		Tanssiessa huomaa vain hurmion.
+		Kumit kortilla kanssasi aina on.
+		Selkäpiissäsi voima on salaman. 
+		Ja on aamulla myrskyn jäljet.
+	}
+	tässä tää on {
+		Virtaavassa puheessa saan taas hetkeks sun tunteet palaamaan.
+		Taas hetken huumaa sun kaa, mutta arki sen loitsun purkaa.
+		Kamas täältä lähti.
+		Mä vedän lärvit. 
+		Ei mikään helpotusta tuo mun tuskaan.
+
+		En kuumaksi tunteitas saa. 
+		Et kuumaksi laittaudu mun kaa. 
+		Enää et tuu, tuu mun luo. 
+		Enää et tuu, tuu mun luo. 
+		Tässä tää nyt on.
+
+		En oo sulle sama enää.
+		En herkkä ja voimakas yhtään.
+		En mitään ymmärräkkään.
+		En virheitä huomaa yhtään.
+		Kulkee vastavirtaan sun lihan hinta. 
+		Ei osakkeet mun nousekkaan  sun mukaan.
+
+		En kuumaksi tunteitas saa. 
+		Et kuumaksi laittaudu mun kaa. 
+		Enää et tuu, tuu mun luo. 
+		Enää et tuu, tuu mun luo. 
+		Tässä tää nyt on.
+
+		Pylvään päässä pää mun on julki laitettu.
+		Tiedoks, et on tässä se naisten hirmuinen kauhu.
+		Pois pisaratkin juon, poissa pullonpohjalta.
+		Puhelinta kauan tuijotan vaan.
+		En mä soitakkaan, en sano sua kauniiksi.
+		En mä sitä yhtään tarkoittaisikaan.
+
+		Harmaampi on tie mikä kotiin vie. 
+		Sisältöä ei ole elämässä siel.
+		Se jää ilman toivoa lain uudesta maasta mikä kasvaa, jos siitä vain hieman huolehtii. 
+		Ja mistä tuoreen hedelmän voi noukkia, jos mielen malttaakin, jos antaa ajan.
+
+		Saavun taas aamulla 
+		hoiperrellen hangen reunalla. 
+		Ovella avainta sovitan, osu ei millään.
+		Osu vitun avain koloon.
+		On aika meillä lopussa, peli ohi on.
+		Peli missä mies roisto lopussa on. 
+		Olihan se parasta: aika sun kaa.
+		Tiedät että aukeaa peli
+
+		En kuumaksi tunteitas saa. 
+		Et kuumaksi laittaudu mun kaa. 
+		Enää et tuu, tuu mun luo. 
+		Enää et tuu, tuu mun luo. 
+		Tässä tää nyt on.
+
+		Mun voimat lopus on.
+		Mun rahat lopus on.
+		Mun juomat lopus on.
+		Mut oli kivaa.
+	}
+	elegantti {
+		Et saa sä maistiaista, et pienintä palasta.
+		Alle satatonnii, viime vuoden mersul, viimisin iPhone, huippumerkkii kehyksetkin.
+		Tää on boss leidi.
+		Se on saletisti särmä, joka päivä.
+		Kokomusta on tyylikkäintä.
+		Eikä sulla oo asiaa, tulla sanomaan, ku sil on virtuaalipenis takin alla.
+		Palkka varma, iso johtajalla.
+		Lasikattoja pirstaleina.
+		Terveysjuomaa, kehonmuokkausta.
+		Jahtaamas nuoruutta ikuista.
+		Kuka uskoo ja kenelle tarjotaan.
+		kuka hedonian pumpuliin sukeltaa, kuka tajua ei kyseenalaistaa.
+		Tätä allekirjoita ei ainakaan.
+
+		Et saa sä maistiaista, et pienintä palasta.
+		Millaista on tää meille murusta etsiville.
+
+		Sil on koulut käyty.
+		Maisterin paperit, vaik ikää kolkyt.
+		Ja vaikuttaa jo nyt, someseuraajii on miljoona ja yks.
+		Ehkä tuleva diktaattori, jol on tissit ja vibraattori.
+		Mut onhan nähty näitä, miesten päässä, on paljo samaa näissä.
+		Se on saalis, aina valmis, tuhmapartion uniformuis.
+		Ei oo häpee, jos sääntö pätee, et miehet kuolaa, jos ruudul sen näkee.
+		Kuka uudet säännöt keksii?
+		Kuka omistaa läntisen seksin?
+		Kuka monopolin pinkiksi värjää?
+		Tätä vakavissaan ei teekkään.
+
+		Et saa sä maistiaista, et pienintä palasta.
+		Millaista on tää meille murusta etsiville.
+
+		Et päästä lähellekkään, vastausta et näytäkkään.
+		On kaikki es tot päällä, tornista imevällä.
+		Kaikki sua vituttaa.
+		Maailma on kamala.
+		Kaikki on tyhmii täällä
+		Kaikki kiroat sä vaan päivittäin.
+		Aina vain virheit tehdään.
+		Hauska on ansoja viritellä.
+		Sanat sun ei lievitä raivoo, "elää saat, mut tappiokaivos."
+		Kuka saa ja kenelle annetaan?
+		Kenen firma on harmien takana?
+		"Veroja ne saatanan paskat tahtoo. Mitään hyötyä niil ei tääl oo."
+		Vaik se vituttaa, tuolilta tiputtaa, salaisuutes mätkyillä pilataan.
+
+		Et saa sä maistiaista, et pienintä palasta.
+		Millaista on tää meille murusta etsiville.
+	}
+	aina jaksais uudelleen {
+		On uusi chartteri, mul kuvio pantterin.
+		Pilvis kruisaan ja tilaan skumppaa kuivaa.
+		Kun mennään Espanjaan, sen luontoon kuumempaan.
+		Tuon allasbaarin luo, mis bikineis on nuo naiset Suomen.
+
+		Yks pitkä kylmä tänne, mun täytyy irroittaa syksyn jäänteet.
+		Joooo, vinkkaan silmää ja sulle tilaan lisää.
+		On lämmin ilta ja tunnelma taas kiva.
+
+		Kun mennään Espanjaan, sen luontoon kuumempaan.
+		Tuon allasbaarin luo, mis bikineis on nuo naiset Suomen.
+
+		Kippistä matkalle täl.
+		Tää on se hetki kun mieli lepää.
+		Jooo.
+		Aamul on kosteen kuuma ja krapula.
+		Täytyy mun hedarin kaa olla rannalla.
+		Onneks sen poissa voin vähän loiventaa.
+		Eihän aurinkoo nää ennen ens kesää.
+
+		Kiertoajeluu ja kaduil seikkailuu.
+		Mä ravintolan nään,
+		Meen sinne syömään.
+		Muut tekee työt, kun meikä vaan ottaa tän kaiken vain lomailun kannalta.
+		Valmiiseen ruokapöytään istumaan, ei elo olla vois hetkel täl helpompaa.
+		Ei vois.
+	}
+	ei ollut opettajaa {
+		Kaltevalla tasolla vierin kohti keskusharhalaa ja sen vitunmoisia tunnepurkauksia maailmanlopunennustuksista.
+		Täytyy ottaa kiinni sieltä mistä saa, kun taas ne valittaa, et standardit mun pään sisäiset puuttuvat.
+		On vain puutteita. 
+		Et saa valtaa ja kunniaa jos jatkat mainehaittoja.
+		Puet vaan ne haalarit, ne, jotka näyttää että sinut ostaa voi kuten orjan.
+
+		Ei oo mul opettajaa josta kiittää voi.
+		On vain pappei ja vanginvartioit.
+		Vihainen on se tasa-arvon pakottaja, joka etsijää ei ymmärrä.
+
+		Mun on pakko tietää minne juuret ulottuu.
+		Ei tuu noilta totuutta.
+		Ne antaa uskonnolle vihreetä valoa, tukee korruptiokirjoja.
+		Ei saa valtaa ne jotka lapsen illuusion rikkovat.
+		Tallettaa valtaa se pieni valhe mikä palkitsee.
+
+		Ei oo mul opettajaa josta kiittää voi.
+		On vain pappei ja vanginvartioit.
+		Vihainen on se tasa-arvon pakottaja, joka etsijää ei ymmärrä.
+
+		Saan valhetta vain, ja ne viittaa siihen valheeseen, että tunne saadaan laukaistua.
+		Kierompaa ei oo, kuin hän joka tuo kuolemaa korvat sulkeneena.
+		Kynä raapii vasten tahtoani.
+		Sanottiin et sitä tahdon sit kun mä oon viisas, vanha ja rikas.
+	}
+	suojelen häntä {
+		Vieläkö muut huomaa, kun uuden kuvan postaat? 
+		Vielkö lähettää rakkautta ne sieltä ilman taka-ajatuksia?
+		Jää kuvan ulkopuolelle ne jotka selkänahastaan toi sulle kaikki kauniit korut, palvelut ja vaatteet.
+		Ne tahtovat oikaista hinnan.
+
+		Rakkaimpain, pidinhän aina sut turvassa, erossa niistä pimeistä kaavoista mihin muut sotkeutuu? 
+		Ne katkeraks muuttuu.
+
+		Aurinkolomalta kauniita kuvia. 
+		Ollaan vähissä vaatteissa ja sylikkäin niin että kateellisuuden kuulen.
+		Jää kuvan ulkopuolelle ne jotka ei onnistukkaan tekeen itselleen niinku me.
+		Ja ne hitaasti mielensä muuttavat vastustaan meitä.
+
+		Rakkaimpain, pidinhän aina sut turvassa, erossa niist pimeistä kaavoista mihin muut sotkeutuu? 
+		Ne katkeraks muuttuu.
+
+		Meil onni on.
+		Muilta se puuttuu.
+		Meil kauneus on.
+		Muut siitä suuttuu.
+		Luovuta en, tää on ansaittu.
+		Vahdin mä vain, rikkoo ne voi sut.
+
+		Rakkaimpain, pidinhän aina sut turvassa, erossa niist pimeistä kaavoista mihin muut sotkeutuu? 
+		Ne katkeraks muuttuu.
+	}
+	juhlat alkaa {
+		Hyllyt tursuaa vanhaa mallia. 
+		Ei kelpaa, nettiä, kun käytetään. 
+		Kauppa tää jo kierretään. 
+		
+		Jos ei mee, ei tuu, eikä tehdä.
+		Sääntöjä näitä ei voi kiertää.
+		Jos ei tuu, ei oo, eikä meekkään.
+		Matkalla konkurssiin.
+		
+		Taas alennusta mainostan vaikka plus miinus nolla on se vanhasta. 
+		Toivon et ei huomata. 
+		
+		Jos ei mee, ei tuu, eikä tehdä.
+		Sääntöjä näitä ei voi kiertää.
+		Jos ei tuu, ei oo, eikä meekkään.
+		Matkalla konkurssiin.
+		
+		Pahana tapana tulitikut sytyttää ja paperin kulmastakin aloittaa.
+		Hetkeks unohtuu mut ääni varoittaa: ei oo vielä levitetty bensat tänne.
+	}
+	sininen päivä {
+		Kouluun aamul bussilla, se on se sininen aamu ja uninen pää.
+		Ne on ne samat naamat taas.
+		En niiden nimiä tiedä eikä kiinnostakkaan.
+		Oon aina viiminen valoissa, punaset vihreinä muistan mä viel.
+		Ilman aamun nättejä matkustajii en varmaan jaksaisi ees.
+
+		Yhä uudestaan, yhä pyörä pyörii vaan.
+		Se sama pyörä mikä pyöriny on.
+		Yhä uudestaan, yhä pyörä pyörii vaan.
+		Se pyörii että uusiks kaatua saa.
+
+		Luokan perään istumaan.
+		Se on se selostus surkee ja uskollinen.
+		Ne on ne samat edessä, ne jotka johtajaa uskoo, ei kritisoi lain.
+		Oon aina viittausta välttämäs.
+		Tiedän mut en sun peliis pelaa.
+		Ilman rauhaa ja omaa iloo en mä varmaan täällä jaksaisi ees.
+
+		Yhä uudestaan, yhä pyörä pyörii vaan.
+		Se sama pyörä mikä pyöriny on.
+		Yhä uudestaan, yhä pyörä pyörii vaan.
+		Se pyörii että uusiks kaatua saa.
+		Yhä uudestaan, yhä pyörä pyörii vaan.
+		Se on se sama rata tänäänkin taas.
+		Yhä uudestaan, yhä pyörä pyörii vaan.
+		Se pyörii uudestaan.
+
+		Treenikselle koulusta.
+		Se on se äänekäs bändi, ne kaveritkin.
+		Ne on ne samat biisit taas, ne mitä soitetaan kunnes ei jaksetakkaan.
+		Ei se radio tuu meitä soittaan, ku me vaan miellytetään itteä.
+		Ei se yleisö tuu meitä kattoon, ku ei oo keulassa tyttöä.
+		Yhä uudestaan, yhä hyrrä pyörii vaan.
+		Se sama hyrrä mikä pyöriny on.
+		Yhä uudestaan, yhä hyrrä pyörii vaan.
+		Se pyörii että uusiks kaatua saa.
+		Yhä uudestaan, yhä hyrrä pyörii vaan.
+		Se on se sama rata tänäänkin taas.
+		Yhä uudestaan, yhä hyrrä pyörii vaan, se pyörii uudestaan.
+	}
+	jos et mua nää {
+		Jos et mua nää, täältä ei löydy merkitystä, on vain arjessa rämpimistä.
+		Vieraiden viiletystä ohi mun.
+		Kuulumista ei kysytä sun.
+		Muutin kauas mä kavereista.
+		Muuta en täällä katunutkaan.
+		Kun on vauhdissa yksinäänkin, yksin jää ain.
+
+		Hei jos et mua nää, jos et mua huomaa enää yhtään, muistan vain, ilon eilisen, jonka löytää tahdon uudelleen. 
+
+		Vaikee erottuu on se kun vaatteit ei voi ostaa, rahat riitä ei tarpeeks koskaan.
+		Enkä oo pitkä tai lihaksikaskaan.
+		Arvo virtuaalista on vaan.
+		Annoin nähdä ne heikkoudetkin, jos vaik sillä ees täällä saisi, mut se vanhoolliseksi muuttaa modernitkin.
+		Hei jos et mua nää, jos et mua huomaa enää yhtään,  muistan vain, ilon eilisen, jonka löytää tahdon uudelleen. 
+		Muiden arki on niin kovin tavallista. 
+		On uusi perhe ja asuntokin. 
+		On ne juhlat takapihalla, minne mua ei kutsuta.
+
+		Hei jos et mua nää, jos et mua huomaa enää yhtään, muistan vain, ilon eilisen, jonka löytää tahdon uudelleen.
+	}
+	haava {
+		Aavalta taivaltaa viimeiset metrit.
+		Se penkalle istahtaa.
+		Se jalkapohjansakkin tuulessa viilentää.
+		Kun se viheltää sen ääni jo vapisee.
+		Se sanat mutisee nää: "ei sun mun haavojani tarvihte kahtoo,ei sun mun kipuani miettiä lain.
+		On mulle selvä että kuin näi on käyny ja kui se näi jatkuu tästä etteennipäin."
+		Maantiellä tunturin odottaa tunnin se peukalo pystyssä.
+		"Jos tulis yksikään."
+		Se kaukaa jo kuulla saa renkaiden äänen ja ei kahta kertaakaan tarvitse yrittää, ku "ei sun mun haavojani tarvihte kahtoo, ei sun mun kipuani miettiä lain.
+		On mulle selvä että kuin näi on käyny ja kui se näi jatkuu tästä etteennipäin."
+		Ei juuri sanaakaan, ei täällä tarvi.
+		Se etteenpäin kattoo vaan, ku keula tietä nielee.
+		"Kiitos ja katsellaan."
+		Nää valot illan, ei näytä viel kotia.
+		"Viel käytän koipia ku ei sun mun haavojani tarvihte kahtoo, ei sun mun kipuani miettiä lain.
+		On mulle selvä että kuin näi on käyny ja kui se näi jatkuu tästä etteenkinpäin."
+	}
+	puumanainen {
+		Tää on se kuu ma erämaa, se mikä ei hedelmää aikaan saa.
+		Tää aina alkaa janottaa.
+		Voi vittu puuma mua tuolt katsastaa.
+		Viileä unelmani väistyy.
+		Viiltävästi hänen katse edessä tunkee minun läpi.
+		Kaikkea mitä hän haluaa mun suhteen, sehän varmasti paljastaakin. 
+
+		Meistä viel yks saaliiks päätyy, yöstä hyötyy, toiselle tekee aloitteen.
+
+		Tää on kuuma taistelu, mutta viel pelkästään murinoilla keskustelu.
+		Mä mitä teen ja mihin meen, jos hän mut otteeseensa kahlitsee.
+		Voimissa jään mä toiseksi, vaikka yritän kokoa mun kuvan suurentaa.
+		Vastassa minua on naaraksen voima, mikä minut voi nyt nujertaa. 
+
+		Meistä viel yks saaliiks päätyy, yöstä hyötyy, toiselle tekee aloitteen.
+
+		Kostean kuuma taivas salamoi.
+		Salaman jyrähdys hänet liikkeelle saa vahingossa.
+		Mun murina puumaa ei säikkymään kyllä nyt saa, eikä hän karkaa.
+		Nuorena täytyykö kuolla?
+		Enkö tästä pääsisi, jotta haavoja voin vain nuolla.
+		Tietää hän mitä hän tahtoo.
+		Kissa vaistoaan vain toteuttaa. 
+
+		Meistä viel yks saaliiks päätyy, yöstä hyötyy, toiselle tekee aloitteen.
+
+		Hän lähestyy.
+		Hän tietää syyn.
+	}
+	revontulet {
+		Mies:   Kovin hämärää ja niin kylmä, kun nään sut itkevän. 
+		Mies:   Kovin synkkää, ikävää. 
+		Mies:   Ja kun oven kiinni paiskaat.
+		Nainen: En sua kestä enää. 
+		Nainen: Oot aivan vitun törkeä.
+		Mies:   Illan pilaat.
+		Nainen: Mun täytyy lähteä.
+		Nainen: On aivan sama mihin päädynkään.
+		Mies:   Enhän se mää tahtonut tätä, mä sanoin vain.
+
+		Nainen: Kirkas kylmä talviyö vie mut pois.
+		Nainen: Polku löytyy viel kuun valossa.
+		Nainen: Parempi vois mulla olla siel  missä häärää ei julma mies, missä hengittää voi.
+
+		Nainen: Ei tää parane.
+		Nainen: Nää mun illat on pilal kun sut nään. 
+		Nainen: En sua vieres siedäkkään ja hampait purren naidaan.
+		Mies:   Oonhan se mä työs tärkeäs.
+		Nainen: Oot aivan vitun törkeä.
+		Nainen: Mun täytyy lähteä.
+		Nainen: Aivan sama mihin päädynkään.
+		Mies:   Täytyy tää vielä sun ymmärtää.
+
+		Nainen: Kirkas kylmä talviyö vie mut pois.
+		Nainen: Polku löytyy viel kuun valossa.
+		Nainen: Parempi vois mulla olla siel, missä häärää ei julma mies, missä hengittää voi.
+
+		Mies:   Voidaan sopii kaikki kun tuut takas.
+		Mies:   Sä varmaan ihailet taas revontulia tai mitä lie.
+
+		Nainen: Kirkas kylmä talviyö vie mut pois.
+		Nainen: Polku löytyy viel kuun valossa.
+		Nainen: Parempi vois mulla olla siel missä häärää ei julma mies, missä hengittää voi.
+		Mies:   Hä?
+	}
+	bai bai beibi {
+		Tanssiin! Hakuaika naisten.
+		Orkesteri kaiken värähtämään saa. 
+		Varmasti sä katsot silmiin, askeleet vie pilviin.
+		Lämmin oot sä niin. 
+		Suus kii, tunnet sää nyt muutkin, meidät tääl musiikki uppoutumaan saa. 
+		Kun sanot "tahdot tanssii" tarkoitatko valssii.
+		Orkesteri pakkaa jo. 
+		Rannas selin nojaan puuhuun.
+		Nojailet ja kuiskit sanoin ihanin. 
+		Sut tahdon mutta olen vielä käskypiika siellä minne isä toi. 
+		Jos voit sä ottaa mukaan mut niin aina emäntänä voin vaan sua ylistää. 
+		Mut tänään helmaa voi en sulle nostaa.
+		Lupaukset kostautuvat kuitenkin. 
+		Kostuu silmät mun kun itkuun sanat saa sun.
+		Niin huijausta olit sä. 
+		Mä katson loittonevaas selkää.
+		Roiston siinä tiedän heilaa illaks etsivän.
+	}
+	vieroitusoireet {
+		Arkiaamul krapula.
+		Tutun tyypin ovella.
+		Sinisissä unissa kaiken luovutan.
+		Kahden viikon vapinaa ei uskoiskaan, se hymysuu nuorempi.
+		
+		Ongelmaa ei mul oo.
+		Ongelmaa ei mul oo.
+		Tappaa ei saa vieroitusoireet, oireet.
+		Viiltää mieltä, kiskon sen toisen, toiseen hihaan.
+		
+		Rahat taas on lopussa.
+		Täytyy säästää ruuassa.
+		Sairasvakuutuksena pehmyt kuolema.
+		Kuinka voisin itsekkyyttä vähentää kun lähti muut jo menemään.
+		
+		Ongelmaa ei mul oo.
+		Ongelmaa ei mul oo.
+		Tappaa ei saa vieroitusoireet, oireet.
+		Viiltää mieltä, kiskon sen toisen, toiseen hihaan. 
+		
+		Ongelmaa, ei ole ongelmaa, ei ole ongelmaa.
+		Vain nää mun oireet haittaa. 
+		Tappaa ei saa vieroitusoireet, oireet.
+		Viiltää mieltä, kiskon sen toisen, toiseen hihaan. 
+		
+		Ongelmaa, ei ole ongelmaa, ei ole ongelmaa.
+		Vain nää mun oireet haittaa. 
+		Tappaa ei saa vieroitusoireet, oireet.
+		Viiltää mieltä, kiskon sen toisen, toiseen hihaan. 
+	}
+	kuuma kesätie {
+		Töiden jälkeen helle muistuttaa muistakin.
+		Kyllähän viel sitä yhdellä polkeekin, ja mut taas kaupunkiin vie, kuuma kesä tie.
+		Tuoksuja tuo olut, tupakka.
+
+		Vihreät puut sinitaivaan sekoittavat.
+		Ihmiset muut iloisempana kulkevat.
+		Kello jo käy, sovin et tulee muitakin.
+		Melkein jo siel. Vesikielellä, kiireellä, se mut taas kaupunkiin vie  kuuma kesä tie.
+		Tuoksuja tuo olut, tupakka.
+
+		Pöydän ääreen kannan tuoppia, shottia.
+		Puraise en.
+		Ootan sievempää kassalta.
+		Henkeen vedän savun tuhkalta maistuvan.
+		Vierestä mun kuulen muidenkin juttua, ku mut taas kaupunkiin vei kuuma kesä tie.
+		Tuoksuja tuo olut, tupakka.
+		Kaupunkiin vei kuuma kesä tie.
+		Tuoksuja tuo olut, tupakka.
+	}
+	sinistä päin {
+		Tummansinisen päällä ja vaaleensinistä päin. 
+		Lämmin aurinko antaa lipun ilmaisen. 
+		Oon niin vapaa.
+		Lentää lokit taivaal ja mulle nauraa nauruaan. 
+		Laineet vie.
+		Tuuli viilentää.
+		Kertonut en mä muille et minne menen tänään. 
+		Sammutin puhelimenkin ja se rauhoittaa. 
+		Oon niin vapaa.
+		Lentää lokit taivaal ja mulle nauraa nauruaan. 
+		Hermot lepää.
+		Hetki vielä.
+		Laineet vie.
+		Tuuli viilentää.
+	}
+	surkea pieni karvapallo {
+		Aikaan rukka hukkuu, pienen karvapallon toivo loppuu, eikä ulos pääse ansan seinän jyrkän yli kotiin. 
+		Se oli vaikein hetki luovuttaa vain kaikki.
+		Niin vaikka koittaa kaiken parantaa, on jonkun armoilla. 
+
+		Putki ilman verkkoo, sulkematon kaivo.
+		Uteliaisuus ja sanaton raivo.
+		Ikävä on mulla vaan mennyttä turvaa.
+		Hereillä itsee pidän väkisten.
+		Pehmyt ois luovuttaa.
+		Mennä jo vaan.
+		Kai viel kun hengitän jotain mä teen.
+		Vaikee on vaan, ottaa askel taas uudestaan.
+		Ei porkkanaa aina saa kun hengellä mennään.
+		Yy kaa, painaa sun tie se mikä paikallaan vie.
+		On ain meit täällä piiloyleisössä.
+		Sulle vilkuttaa, moi.
+
+		Aikaan rukka hukkuu, pienen karvapallon toivo loppuu, eikä ulos pääse ansan seinän jyrkän yli kotiin. 
+		Se oli vaikein hetki luovuttaa vain kaikki.
+		Niin vaikka koittaa kaiken parantaa, on jonkun armoilla. 
+
+		Palelee, liikkuu en voi.
+		Nenäni kylmäst paloi.
+		Hetken ootan mä vaan, sit jatkan.
+		Uskois ei jatkoa, ei toivoa.
+		Kai viel kun syke on jotain mä teen.
+		Vaikee on vaan, saada ihme tapahtumaan.
+		Ei auttaja, aina ehdi yksin kun ollaan.
+		Yy yy kaa saa ei mun viestii nyt tähän hätään.
+		Jos kuulee joku, niin auta jo, mun ote lipeää.
+		Pliis.
+
+		Aikaan rukka hukkuu, pienen karvapallon toivo loppuu, eikä ulos pääse ansan seinän jyrkän yli kotiin. 
+		Se oli vaikein hetki luovuttaa vain kaikki.
+		Niin vaikka koittaa kaiken parantaa, on jonkun armoilla. 
+
+		Käärmeet tän maan, ei voi rakoo tällaista peittää.
+		Vastakkain valo ja maa.
+		Nyt on näin ja sun katsomo kiittää.
+		Loppu hyvä sul on aina.
+		Varmaa on se et näin uudestaan tehdään jossain, johonkin aikaan.
+
+		Aikaan rukka hukkuu, pienen karvapallon toivo loppuu, eikä ulos pääse ansan seinän jyrkän yli kotiin. 
+		Se oli vaikein hetki luovuttaa vain kaikki.
+		Niin vaikka koittaa kaiken parantaa, on jonkun armoilla. 
+	}
+	camilla {
+		Hikinen takkutukka, aukeaa kone, kahvi tuodaan, katotaa some, masennut taas ja näin on päivä auki uudelleen.
+		Pelit päälle, frägiä päähän ja ksätti ääneen.
+		Tyypit on jälleen täynnä pelkkää ulinaa ja sua turhauttaa tänään kaikki ihmiset.
+		Sä et täältä löydäkkään ketään. 
+		Tahtoisit vain päästä kainaloon lämpimään.
+		Ahdistaa maailma.
+		Sulle annettu ei huijauskoodeja elämän hedelmään.
+		Joku tuntuu kaiken piiloon pois täältä keräävän.
+		Hymy sun peilikuvas.
+		Missä on bileet?
+		Innostutaan.
+		Katotaan muita, masennutaan niiden sotisovast, meikkeineen.
+		Sä et täsmää, välttelet ilkeit, etkä säädä pelkkää lihaa, piilovihaa kylmäpään. 
+		Siks sua ärsyttää tänään kaikki ihmiset.
+		Sä oot lämmin mieleltäs, ja kiva. 
+		Tahtoisit vain päästä kainaloon lämpimään.
+		Ahdistaa maailma.
+		Sulle annettu ei huijauskoodeja elämän hedelmään.
+		Joku tuntuu kaiken piiloon pois täältä keräävän.
+		Siksi sä oot tääl pelaamas mun kaa tappopeliä Camicaze nimellä.
+	}
+	järjenvastainen nainen {
+		Kauan harhailin taas.
+		Luokse sun palaan uudestaan.
+		Aina oot oikeas, vaikka kuuta taivaalta et saanutkaan.
+		En koskaan ajatuksii sun voi ennustaa.
+		Sun naurusta ei syytä paljastukkaan.
+		Voit jättää mut vaik kylmään tyrmään kuolemaan.
+		Saat anteeks antaan ilman, että tahdotkaan.
+
+		Oot nainen järjenvastainen, joka palvontaa vain suostuu ees kuuleen.
+		Oot nainen järjenvastainen, joka voittavansa vain luulee.
+
+		Sua mietin mä vain, kun sateen tunsin poterossain.
+		Ollut et vastassa, koska tunteitas loukkasi mun sota.
+		En koskaan logikkaa sun opi ymmärtään.
+		Tälläät vain jos sen syynä on sun ystävät.
+		Oon moottoris, mut jota ei kyl huolleta.
+		Oon saalis, joka myydään surutta.
+
+		Oot nainen järjenvastainen, joka palvontaa vain suostuu ees kuuleen.
+		Oot nainen järjenvastainen, joka voittavansa vain luulee.
+
+		Oon kymmenettä kyllää sulle toistamas.
+		Sun juorut tarvii ottaa todesta.
+		Vaadit et olet aina ollut oikeas.
+		Vaadit et kiiltokuvaa sun ei moitita.
+
+		Oot nainen järjenvastainen, joka palvontaa vain suostuu ees kuuleen.
+		Oot nainen järjenvastainen, joka voittavansa vain luulee.
+	}
+	kesä sun mökillä {
+		Kesä sun mökil mulla kai ei koskaan unohdu.
+		Iloinen oot turvapaikassas.
+		Piilossa oot pahalt maailmalt.
+		Melkein tullessa jo tylsistyt.
+		Heti hermot menee hyttysiin.
+		Olut saadaan heti korkata.
+		Samantien grillikin pannaan kuumaksi.
+		Muistan levon lämmössä.
+		Muistan kuokkavieraatkin.
+		Aina tervetulleita on kuulemma nuo, jotka iloa sun luo tuo.
+		Kesä sun mökil. 
+		Tervetullut oonko takaisin?
+		Vaikea on talven jäljiltä nostaa edes suunpieliä.
+		Mietit tullessa jo talvea.
+		Uusiks koitat irtiottoa.
+		Olut saadaan heti korkata.
+		Samantien saunakin lämpee rannalla.
+	}
+}

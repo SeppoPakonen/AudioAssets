@@ -1,0 +1,52 @@
+album #10 (when: year 2012) {
+	explanation {
+		health { I was in pain and in lock because of all of the past experiences }
+		life {
+			searched for girlfriend
+			tried to study in university
+			lived with school roommates
+			I wasn't in the social media
+		}
+		professional music producer {
+			started to lose interest
+			bought new guitar and made songs with it
+		}
+		pictures {
+			
+		}
+		mistakes {
+			didn't make enough lyrics
+		}
+		what is good {
+			important music survived
+		}
+		conclusion {
+			my situation detoriated because of lack of support and services
+		}
+		what happened {
+			I studied environmental engineering at the University of Oulu, but my health was failing
+			I didn't find a girlfriend
+			I behaved quite antisocially because of my failing health
+			I made music regularly
+			I started using FreeBSD operating system and C++ programming
+			I spent my weekend nights with a couple of my old good friends
+		}
+		sugar-coated fantasy explanation {
+			I started a career as a programmer, how to survive even if the music career fails
+			Even though I met beautiful women, I didn't cling to anyone that bound me to a family and an environment that didn't support me as a music producer.
+			I avoided the circles of friends that took me away from music.
+		}
+	}
+	content {
+		music album (title: Troubles) {
+			"never meant to". Never Letting Go: This song is about the feeling of never wanting to let go of someone despite all the pain and sadness that may come with it. It is about clinging on to something that might break us, and the irrational hope that we may receive in return. It is about sticking through whatever comes our way, even if the outcome is uncertain. 
+			"sauna-lake": The Calm Before the Storm. Exploration of a peaceful moment, when nature and man are in harmony with each other
+			"time is running out": "Silent Voices" - A song about the underlying feelings of loneliness and desperation that can't be expressed through words.
+			"jungle soul": "Unleash the Beast" - This rap song is about unleashing the beast within and letting go of any fear or anger. It speaks of letting go of limits and instead, being the best version of yourself and letting your inner strength and ambition take over.
+			"around the world": "Hometown": A song about coming back to one's hometown after leaving for a while. It reflects the nostalgia of coming back to the places where they used to live. It also talks about the excitement of returning and the joy in seeing familiar faces once again. It's a positive, upbeat song that celebrates the friendship and warmth that can be found in a hometown.
+			"bicycling feeling": "Soul of the Journey": This song is about the beauty of life and how one must always remember to enjoy the journey and appreciate the little things. It is a cheerful and empowering song about being grateful for whatever life brings. It is also a song about how one must always keep an open heart and an open mind in order to make the most out of each day.
+			"summer 2012": "Peaceful Breeze" - a song about the appreciation of the peace and tranquility that comes with living in the countryside.
+		}
+	}
+}
+

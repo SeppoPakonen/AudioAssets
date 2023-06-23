@@ -1,0 +1,129 @@
+album #9 (when: year 2011) {
+	explanation {
+		health {
+			I was mentally in a bad shape, because of bullying, attacks, abuse and traumas
+			I couldn't be in the school
+			I moved back to my hometown
+		}
+		legal {
+			in troubles because of stupid friends talked into something
+			I wasn't even responsible one
+		}
+		friends {
+			had to delete facebook because of mental and legal burden
+		}
+		life {
+			searched for girlfriend
+			tried to study in university
+		}
+		professional music producer {
+			I made new songs in cubase
+		}
+		mistakes {
+			didn't make enough lyrics
+			got into more troubles, but others can be blamed
+		}
+		what is good {
+			music and notes survived
+			authentic songs can be made
+		}
+		conclusion {
+			I was abused even more and it added 10 years for me to recovery
+		}
+		what happened {
+			I moved back to my hometown
+			In my hometown, horrible sexual lies are being spread about me, which changed people's attitude towards me, and about which I knew nothing.
+			I was even in danger of my life, but I didn't know it.
+			Graffiti or tags were made on my sister's house, where she was also insulted because of me, but I didn't realize this until too late.
+			Because of lies and people's hatred of me based on lies, I was led to order something legitimate online, which caused me serious problems.
+			There were three people who were more to blame for my legal problems than I was, and who never suffered the consequences.
+			I finally began to sense a strangeness in my surroundings, but I couldn't understand why.
+			I had to delete my Facebook account, which had hundreds of friends, only because I received strange inexplicable hatred and scheming.
+			I started a new course at the university in my hometown, although my health problems continued, and they still prevented me from studying normally, which saddened me.
+			I met a new girl at school while doing group work, who was straight out of my dreams.
+			That new girl clearly felt something for me too.
+			Unfortunately, I was unable to take the initiative, which was partly due to my health problems.
+			To this day, I'm bitter that I didn't get such a wonderful and beautiful girlfriend for myself.
+			I continued making music without having a good outlet for it.
+			I was hoping to find collaborators, but due to my traumas, I didn't dare to make a conversation or make contact on the internet.
+			The local musician types didn't understand my music.
+			I was stuck with my music career and all I could do was compose and take notes.
+			My compositions were still better than ever before, which made me happy.
+			I learned a lot about music production and how to use Cubase.
+		}
+		sugar-coated fantasy explanation {
+			Meeting a new beautiful woman created hope for the future.
+			I started a new era, where I focused on myself and helped myself in my own problems, which was only possible because of closing my facebook account.
+			Focusing on the compositions made the final result even more memorable, even though it took more than 10 years to publish it.
+			My situation forced me to accept and qualify only outcomes that fit me perfectly, which prevented my music career from ending.
+		}
+	}
+	about songs {
+		"dot fi" {
+			The memory of singing a folk song with my friends in elementary school ignited a spark, where I made more classical and folk-song-like tunes, but added the modern angst of a city dweller and suitable chords.
+		}
+		"gutter" {
+			I felt disgust and boredom, but still a strange positivity.
+			The jazzy chords of this song make for a very ethereal atmosphere, which reflects sophistication, but also that things are wrong.
+		}
+		"india" {
+			I had found my late stepmother's painkillers and used them for a week.
+			I made this song while lying in bed and playing the guitar.
+			I was just thinking about traveling and warm countries.
+			I had always wanted to travel to India and I named this song India.
+		}
+		"twisted xmas 2012" {
+			I still need to vent my pain, disappointment, anxiety and confusion.
+			The chords and melody of this song reflect well the suffering I experienced.
+		}
+		"with you" {
+			I've always appreciated Apple computers, but I couldn't afford them.
+			The first computer I used was my family friend Peka's Apple laptop in the early 90s, when I was about 3 years old.
+			I installed the Hackintosh operating system on my PC.
+			I installed music production software on the OSX operating system.
+			I made this song using Ableton on OSX.
+			The song reflects the joy that came when I was finally able to use the Apple operating system despite my poverty.
+		}
+		"island hideout" {
+			I played with complex chords and wanted to make a story with a chord flow again.
+			The story-like chord progressions were remnants of my 2009 band Vaikeat Ajat.
+			I think this turned out to be a particularly beautiful song melodically.
+			The chorus is a great melodic hook.
+		}
+		"lucky strike" {
+			This is an energetic young man's song.
+			I couldn't stand going to nightclubs alone or with friends, even if I wanted to.
+			This song is an image of the energetic nightlife that I missed.
+		}
+		"the day you're mine" {
+			I desperately missed socializing and the company of a girlfriend.
+			I just thought that the day would come when I would have a girlfriend again.
+			The composition of the song is romantic and powerful.
+		}
+		"city street" {
+			I knew that I should make Finnish rap for the audience, because they were my most listened to songs.
+			I deliberately made something slow and beautiful Finnish rap background.
+			However, I couldn't even play with the idea of rapping myself because I was so deep in my trauma.
+		}
+		"unspoken" {
+			My band experiences were still fresh in my mind, and I also thought about joining the band again.
+			This is a particularly good rock band song, but you could also rap to it.
+			This is a lot like Red Hot Chili Peppers production in a good way.
+		}
+	}
+	content {
+		music album (artist: Poko, album title: On the Run ) {
+			"dot fi": Anxiety - Anxiety is a feeling of unease or dread, often without the cause. This song will deal with the everyday worries about the future that everyone can feel, but due to the hopeful instrumental it will also be interpreted as the feeling of hope trapped in despair.
+			"gutter": "Fugitive": The song talks about about grappling with the pain of a past mistake - one you can never truly escape - and the freedom to come to terms and move on that comes from accepting that mistake.
+			"india": “The Best Is Yet to Come” : The song is about keeping hope alive and looking forward to the future. It encourages the listener to have faith and to keep pushing through even in tough times. 
+			"twisted xmas 2012": “Lost in Christmas” – This song tells the story of a couple that both have been wounded in love and don't know how to deal with it. The man resists being together at Christmas, and the woman is angry and wants to be with him.
+			"with you": "Free and Clear" - A upbeat track about wholeheartedly taking risks without any doubts in order to chase after your dreams and goals.
+			"island hideout": "To The Stars" - A story about a journey of self-discovery and hope despite the obstacles faced. A reminder that despite the hardships, we can still reach for our dreams and be brave enough to take the risk.
+			"lucky strike": "Party's over": This song expresses the frustrations of someone who's been living the high life but is now stuck in a mundane life. This person is feeling burned out and fed up with their situation. 
+			"the day you're mine": "Tonight": The singer talks about his need to get laid tonight and how much he wants to escape the reality. He's dreaming of his perfect girl to come and rescue him from his lonely world and take him away to the places he's been dreaming of.
+			"city street": "Broken Chains" - This song is about all the people I met growing up in my hometown Oulu, and how we struggled together against the pain and suffering of society. The sad reality of being trapped in our hometown and the hard bond we developed over shared experiences. 
+			"unspoken": "Fool's Paradise" - This song is about people who are living in a false sense of security, a state of delusion, without any awareness of the real world. The chorus is a message to those who are living in a fool’s paradise to recognize the truth and to start seeing the world as it really is.
+		}
+	}
+}
+

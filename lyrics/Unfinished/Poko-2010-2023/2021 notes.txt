@@ -1,0 +1,794 @@
+lyrics {
+	alone in the woods {
+		Didn't I bring a map with me?
+		Am I missing a compass?
+		Did the guys get mad at me, the manager?
+		I'm hungry.
+		I should boil the water.
+		The matches got wet when I stepped into the vein.
+		Mm.. mm.. mm...
+		When there wasn't a slope against me and I guess I missed the trail markers, I have to start from somewhere again.
+		I'll continue digging my own grave.
+	}
+	cycles {
+		This is switched on with a switch and switched off with a switch.
+		The files won't break.
+		They are stored on a diskette.
+		I know cycles, I know these cycles.
+
+		My pacman is a simple ball of light.
+		My prop cycle makes my hair go crazy.
+		It runs at six megahertz, I don't know much about the specs.
+		I have felt this magic since I was young.
+		You can remember the beeps.
+		I know cycles, I know these cycles.
+
+		My sister and I play Parasol Stars.
+		Bubble Bobble makes our time go by fast.
+
+		Arkanoid and Ski or die.
+		Wolfenstein, Emerald mines.
+		Pizza worm and Minebombers.
+		Slicks 'n' slide, School 3.
+
+		My best memories are in these circuit boards.
+		I'm a gang from the old union.
+		That's for sure we won't get the girls.
+		No, they don't even get warm.
+		Sid plays the sounds of the future again at the party with Paula.
+		Demoscene knows this.
+		I know cycles, I know these cycles.
+
+		This Monkey Island is an escape from winter.
+		Keen and the green hare still jump these obstacles.
+	}
+	die lederhosen {
+		A rubbery, shiny garment on the skin.
+		You are scary with makeup on your face.
+		And when you touch, am I in heaven?
+		You're like a store package, beautiful, and I can't open the package.
+		I still tear the package a little from some corner.
+		No, I'm not too harsh, I just admire your grace.
+		I hear a crunch when our thighs touch.
+		My nails won't bite your skin through your clothes.
+		You are superwoman, genuine, latex.
+		You tease and I can't resist.
+		I'm going into my most twisted trap again.
+		You are a superwoman, beautiful, arousing lust.
+	}
+	refund {
+		There is a lot of pleasure in the world.
+		There is kind and fierce going, and we don't forget about subjugation either.
+		Others want to be in bed with a milf, but for me, that moment is lustless, if you are narcissistically flirting with your fans.
+		Hi, I would like a refund.
+		She seems to notice nothing but herself.
+		And I'm not interested in a hula hoop.
+		She acts like he's 10 but she's 6.
+		This is not nice, no I don't want to watch it anymore.
+		If she doesn't get company, that's new.
+		More reality is needed here.
+		It's only getting worse, year after year, just ask anyone who has followed the industry.
+		Beauty can also be mocked, selfishness can only spoil beauty.
+		That narcissistic girl complains to me.
+		Shut up please, you'll never understand.
+	}
+	only ship {
+		You asked me to tune my guitar and drink coffee afterwards.
+		I don't start bringing my body to you for nothing, because always remember: I'm a nuisance to you, I'm not leaving on Sunday.
+		You are the only ship I meet for boredom.
+	}
+	gin {
+		I've been the unhappy one, without alcohol in the morning coffee.
+		You won't find anyone nicer than me, even a friend always gets a drop of booze from me.
+		We are known at the corner of the park.
+		All the guys in the profession are sitting on the bench.
+		My break is brought in those sparkling, bright bottles of spirits.
+		We must have been on the wrong roads, but I don't smell booze, it's gin.
+	}
+	green haze {
+		If you're not mine, if you don't come along, if you don't kiss me, then I'll leave.
+		If you give the engagement, if I say yes, even if it rains, the wedding will be in the summer.
+		The monkeys want to meet me, many of them try to catch me.
+		I don't know at all, neither do others, that that quiet man wrote about me in his diary.
+		That fool must have hoped for something from us, but the princess doesn't care about low-ranking assistants.
+		What do I even want?
+		Who can I stand to be together for a long time.
+	}
+	hardbass {
+		In karaoke I sing "Paradise", and I go home on a tractor.
+		I'm the king of the road, "ES Jonne" 25 years old.
+		Party girl Mira, wants sangria from the local pub.
+		She's having girls' night and she don't want to go home.
+		
+		Swamp and moon, reindeer and others, new wife.
+		Some gorilla, in a smoking booth.
+		Everyday soldier, and doesn't pay by card.
+		The dream of a morning erection, at the front door.
+		
+		Through Finland on Valmet.
+		From Helsinki to Utsjoki and Savonlinna.
+		He's everyone's friend, but he's better than others in the sauna.
+		With the power of "Sisu" he will ski next week as well.
+	}
+	loco {
+		L O C O (cheerleader shouting)
+		Traces of the night, city wanderer.
+		Sometimes it's fun, sometimes I'm just not interested in anything else.
+		I have been here for one reason or another.
+		For the need, where I go, I mark it for others.
+		What does Franklin now say when his culture is being painted over?
+		He is required to sell his commercial product.
+		Together we whitewash censorship.
+	}
+	icy road emergency {
+		We also had many dreams.
+		However, returning home didn't seem like a dream before.
+		On an icy road, when you brake around a bend, you may be surprised by the oncoming vehicle.
+		It was me, you were you, we were so different
+		We compared our external characteristics to others.
+		Do you hear the groaning trees?
+		My heat is dripping, it hurts, I don't remember why I came here?
+		Hello, answer me now, I'm disappointed.
+		Honey, the light can be seen...
+		We also had many dreams.
+		However, returning home didn't seem like a dream before.
+	}
+	skin trance {
+		At a picnic, it's such a wine that the quantity replaces even the finest.
+		We have such a circle here that we pass it on to others.
+		
+		The feeling is burning, it's a rush in the rhythm.
+		At the hips, the pace doesn't mix.
+		Dancer's feet trample me into a trance.
+		With you, the skin has the last waltz.
+		
+		The nearest bush is the target, and mosquitoes are killed.
+		A strap around my neck and I start to tame myself.
+		We saw each other for the first time, we were peeing and you looked me in the eyes.
+		
+		The feeling is burning, it's a rush in the rhythm.
+		At the hips, the pace doesn't mix.
+		Dancer's feet trample me into a trance.
+		With you, the skin has the last waltz.
+	}
+	you connect points {
+		You connect points as a line.
+		I'm a paint and next to you I'm looking at you.
+		You don't want me to call you a brush, but I am the planet's orbit.
+		This foggy green scent makes even violets scared.
+		I already have to run to the yellow so that I don't get stained by the blue.
+		On the line of purple lines, we were brown for a while, you changed back, but I went orange.
+		To the dark blue of the evening, love brings the bright dots.
+		And there's pink in the stomach when you feel like cotton.
+	}
+	parametric sex {
+		I insert a coin into the device and enter her information.
+		Tall, slim and platinum blonde, silicone tits.
+
+		Parametric sex.
+		That's what you want when you're not messed up enough.
+		I can't afford a wife, but at least this hologram robot gives me sex.
+		At least the robots try to please me.
+
+		Parametric sex.
+		That's what you want when you're not messed up enough.
+		I owe nothing and nobody cares.
+		At least someone understands me now.
+	}
+	always on my mind {
+		It's a hard week now at the end, and I got things done.
+		The prize in my mind is an unopened beer.
+		I pushed the hell forward and I'm in the same place.
+		Maintenance, doing my job, and finally my head is falling apart.
+		It was so hard to concentrate.
+		I finally get to go home, where I have a cold, unopened beer.
+
+		Always in mind is the reward of the job.
+		Until then, I can still work with the will to win.
+		Friday night is always on my mind.
+		Thinking about it, I'll put up with this for a while longer.
+
+		I wrote empty sentences.
+		I cursed so much again.
+		The idiots in this country make me angry, but I remain silent.
+		The holiday is also looming in the distance.
+		It's short, but so necessary.
+		Unopened beer is not enough.
+
+		Always in mind is the reward of the job.
+		Until then, I can still work with the will to win.
+		Friday night is always on my mind.
+		Thinking about it, I'll put up with this for a while longer, I'll just put up with it.
+	}
+	date night {
+		The leisurely pace of the morning makes me remember dinner.
+		It's lunch time that makes me crave your picture, but the afternoon is already starting to make me nervous.
+		I look at my smartphone again and again.
+		I'm asking a friend for advice, hey tell me what to do.
+		Do I even go on a date there?
+
+		It's stressful, stressful just waiting for me to see you again.
+		Squeezes my chest, I can't breathe while I think about our date night.
+
+		The strange look in your eyes makes me consider the moment of drinking.
+		Your scent is so papaya, I can't think of anything else.
+		You ask me to dance, but I'm not like that, but I'll go anyway.
+		The heat of your heat makes my mind always run away to the morning.
+
+		It's stressful, stressful just waiting for me to see you again.
+		Squeezes my chest, I can't breathe while I think about our date night.
+
+		It's depressing, it's depressing just waiting to feel your skin again.
+		You are always more beautiful in my eyes when you are next to me again.
+
+		When dancing, you can only see ecstasy.
+		We always run out of condoms.
+		You have the power of lightning on your back.
+		And together we leave the tracks of the storm.
+	}
+	the game with you {
+		In the flowing speech, I get my feelings back for a moment.
+		Again, we experience a moment of intoxication together, but everyday wears off that spell.
+		Your goods left here.
+		I'm drinking booze.
+		Nothing can ease my pain.
+
+		I can't get your feelings for me hot.
+		You don't get hot for me when we're together.
+		You don't come, you don't come to me anymore.
+		You don't come, you don't come to me anymore.
+		This is the end of us.
+
+		I'm not the same to you anymore.
+		I'm not sensitive and strong at all according to you.
+		You say I don't understand anything.
+		I don't see any mistakes according to you.
+		The price of your meat goes upstream.
+		My stock won't go up, according to you.
+
+		I can't get your feelings for me hot.
+		You don't get hot for me when we're together.
+		You don't come, you don't come to me anymore.
+		You don't come, you don't come to me anymore.
+		This is the end of us.
+
+		My head is exposed at the end of the pole.
+		For everyone's information, this is the terrible horror of women.
+		I'll drink even the drops, away from the bottom of the bottle.
+		I just stare at the phone for a long time.
+		I won't call you, I won't call you beautiful.
+		I wouldn't mean that at all.
+
+		Gray is the road that leads home.
+		There is no content in life at home.
+		The home is left without hope for new soil, which will grow if you take care of it just a little.
+		And from which you can pick fresh fruit, if you have the patience, if you give it time.
+
+		I will arrive home again in the morning.
+		I walk shakily on the edge of the snowdrift.
+		I fit the key in the door, it won't fit in anything.
+		Damn key, now fit in the hole!
+
+		We're running out of time, it's game over.
+		A game where the man is the villain at the end.
+		After all, that was the best thing: time spent together.
+		You know that I will open the game if necessary.
+
+		I can't get your feelings for me hot.
+		You don't get hot for me when we're together.
+		You don't come, you don't come to me anymore.
+		You don't come, you don't come to me anymore.
+		This is the end of us.
+
+		My strength is gone.
+		My money is gone.
+		My drinks are gone.
+		But it was nice.
+	}
+	elegant {
+		You won't get a taste, not the smallest piece.
+		Less than a hundred tons of kilometers, last year's Mercedes Benz, the latest iPhone, top brand eyeglass frames too.
+		She is the boss lady.
+		He's an absolute cutie, every day.
+		All black is the most stylish.
+		And you have no business coming to say that he has a virtual penis under his coat.
+		Salary for sure, is big for the manager.
+		Glass ceilings in pieces.
+		Drinks health drinks, does body modification.
+		Chasing youth forever.
+		Who believes and to whom is it offered?
+		Who dives into hedonia?
+		Who doesn't question anything?
+		At least he won't sign the aforementioned.
+
+		You won't get a taste, not the smallest piece.
+		What is it like for us crumb seekers.
+
+		She has gone to school.
+		Master's papers, despite his young age.
+		And it is already having an impact politically.
+		He has a million and one social followers.
+		Maybe she's a future dictator with tits and a vibrator.
+		But I have seen these, on the men's side, they are much the same.
+		He is the catch. He is always ready.
+		If necessary, he is the uniform of the naughty patrol.
+		There is no shame if the rule applies that men drool if the screen sees him.
+		Who comes up with the new rules?
+		Who owns western sex?
+		Who paints Monopoly pink?
+		He doesn't do this seriously.
+
+		You won't get a taste, not the smallest piece.
+		What is it like for us crumb seekers.
+
+		He won't let you near him.
+		He doesn't show an answer.
+		He who sucks from the tower has all the blockings on.
+
+		Everything annoys you.
+		The world is horrible.
+		Everyone is stupid here
+		You curse all people every day.
+		Mistakes are always made.
+		Tuning traps is fun.
+		Your words don't ease the rage, "you will live, but you will be stuck in a well."
+		Who gets and who is given?
+		Whose company is behind the trouble?
+		"Taxes are what the devil's bastards want. They have no use here."
+		Even if it sucks, it will make you fall off your chair, and your secrets will be spoiled.
+
+		You won't get a taste, not the smallest piece.
+		What is it like for us crumb seekers.
+	}
+	forever repeat {
+		It's a new charter, I have a panther pattern.
+		A plane cruises high in the clouds and I order dry champagne.
+
+		We are going to Spain, and there to the hotter nature.
+		We're going to that pool bar where those women from Finland are in bikinis.
+
+		One long beer here, I have to get rid of the remnants of autumn.
+		Yes, I'll give you a wink and I'll order more for you.
+		It's a warm evening and the atmosphere is nice again.
+
+		We are going to Spain, and there to the hotter nature.
+		We're going to that pool bar where those women from Finland are in bikinis.
+
+		Cheers to the trip for this one.
+		This is the moment when the mind rests.
+		Yeah.
+		The morning is hot and humid with a hangover.
+		I have to be at the beach with my headache.
+		Luckily, I can get it off by medicating myself with alcohol.
+		I won't see the sun until summer when I return to Finland.
+
+		Touring and exploring the streets.
+		I see the restaurant.
+		I'm going there to eat.
+		Other people do the work, while we just take it all in terms of vacation.
+		I go to sit at the prepared dining table.
+		Life couldn't be easier right now.
+		Could not.
+	}
+	got no teacher {
+		On an inclined level, I'm rolling towards the central delusion and its fucking emotional outbursts about doomsday predictions.
+		I have to take it where I can, while they complain that the standards inside my head are missing.
+		There are only flaws.
+		You won't get power and honor if you continue to cause bad reputations.
+		You just wear those overalls, the ones that look like you can be bought like a slave.
+
+		I don't have a teacher to thank.
+		It's just the priest and the prison guards.
+		The angry one is the enforcer of equality who does not understand the seeker.
+
+		I have to know where the roots go.
+		They don't tell the truth.
+		They give religion a green light, support corruption books.
+		Those who break the child's illusion do not get power.
+		The small lie that rewards stores power.
+
+		I don't have a teacher to thank.
+		It's just the priest and the prison guards.
+		The angry one is the enforcer of equality who does not understand the seeker.
+
+		All I get is a lie, and they refer to the lie to trigger the feeling.
+		There is none more wicked than he who brings death with closed ears.
+		The pen scratches against my will.
+		They said that's what I want when I'm wise, old and rich.
+	}
+	keeping the place safe for her {
+		Do others still notice when you post a new picture?
+		Do they still send love from there without ulterior motives?
+		Outside the picture are those who brought you all the beautiful jewelry, services and clothes from their backs.
+		They want to adjust the price.
+
+		My dearest, I always kept you safe, away from those dark patterns that others get involved in?
+		They become bitter.
+
+		Beautiful pictures were taken from the sun vacation.
+		We are in scanty clothes and spit, so that I can hear the jealousy.
+		Outside the picture are those who do not succeed in doing things for themselves like we do.
+		And they are slowly changing their minds against us.
+
+		My dearest, I always kept you safe, away from those dark patterns that others get involved in?
+		They become bitter.
+
+		We are lucky.
+		Others lack it.
+		We have beauty.
+		Others get angry about it.
+		I won't give up, this is deserved.
+		I was just watching, they can break you.
+
+		My dearest, I always kept you safe, away from those dark patterns that others get involved in?
+		They become bitter.
+	}
+	party party {
+		The shelves are bulging with the old model.
+		It's not good for people.
+		Because the internet is used nowadays.
+		People are already going around this store.
+
+		If the product doesn't go, it won't come, and it won't be made.
+		These rules cannot be circumvented.
+		If you don't bring it, it doesn't exist, and it won't go.
+		I'm on my way to bankruptcy.
+
+		Again, I advertise the discount, even if it's plus minus zero from the old price.
+		I hope it won't be noticed.
+
+		If the product doesn't go, it won't come, and it won't be made.
+		These rules cannot be circumvented.
+		If you don't bring it, it doesn't exist, and it won't go.
+		I'm on my way to bankruptcy.
+
+		I have a bad habit of lighting matches and starting from the corner of the paper.
+		I forget for a moment, but a voice warns me: gasoline has not been spread here yet.
+	}
+	blue day {
+		I go to school in the morning by bus.
+		It's that blue morning and I have a sleepy head.
+		I see the same faces again.
+		I don't know their names and I'm not interested.
+		I'm always last at traffic lights.
+		I still remember the reds as greens.
+		Without the pretty passengers on the morning bus, I probably wouldn't be able to cope.
+
+		Again and again, the wheel keeps turning.
+		It's the same wheel that's spinning.
+		Again and again, the wheel keeps turning.
+		It spins until it crashes again.
+
+		I'm going to sit at the back of the class.
+		The teacher again has a sad and semi-religious narration.
+		The same students are in front again, those who believe in the leader, those who never criticize anything.
+		I'm always avoiding raising my hand.
+		I know the answer, but I don't play the teacher's game.
+		Without peace and my own joy, I probably wouldn't be able to survive here.
+
+		Again and again, the wheel keeps turning.
+		It's the same wheel that's spinning.
+		Again and again, the wheel keeps turning.
+		It spins until it crashes again.
+		Again and again, the wheel keeps turning.
+		It's the same track again today.
+		Again and again, the wheel keeps turning.
+		It spins again.
+
+		I go to practice from school.
+		We have a loud band, and my friends are in it.
+		We play the same songs again, the ones we play until we can't stop.
+		The radio doesn't play us, because we just please ourselves.
+		The audience won't come to see us because there's no girl in the lead.
+
+		Over and over again, the wheel just keeps spinning.
+		It's the same thing that's spinning.
+		Over and over again, the wheel just keeps spinning.
+		It spins until it crashes again.
+		Over and over again, the wheel just keeps spinning.
+		It's the same track again today.
+		Over and over, over and over again, the wheel just spins, it spins again.
+	}
+	if you don't see me {
+		If you don't see me, there's no meaning here, it's just everyday rambling.
+		Guests walking past me.
+		I'm not asked what's up.
+		I moved away from my friends.
+		I didn't regret anything else here.
+		When you're on the move alone, you'll always be alone.
+
+		Hey, if you don't see me, if you don't notice me at all anymore, I just remember, the joy of yesterday, which I want to find again.
+
+		It's hard to stand out when you can't buy the clothes.
+		There is never enough money.
+		I'm not tall or muscular either.
+		My value is virtual.
+		I let people see those weaknesses too.
+		If it would even impress a woman.
+		However, it makes even modern women old-fashioned.
+
+		Hey, if you don't see me, if you don't notice me at all anymore, I just remember, the joy of yesterday, which I want to find again.
+
+		The everyday life of others is so very ordinary.
+		There is a new family and an apartment.
+		There are those parties in the backyard where I'm not invited.
+
+		Hey, if you don't see me, if you don't notice me at all anymore, I just remember, the joy of yesterday, which I want to find again.
+	}
+	wound {
+		He climbs the last meters from the open swamp.
+		He sits on the bench.
+		He cools down in the wind of the soles of his feet.
+		When he whistles its voice is already trembling.
+		He mumbles these words: "you don't need to look at my wounds, you don't need to think about my pain."
+		It is clear to me why this has happened and how this will continue from now on."
+		
+		He waits for an hour on the mountain road with his thumb up.
+		"If even one car came."
+		He already hears the sound of tires from afar and doesn't have to try twice, because "you don't have to look at my wounds, you don't have to think about my pain.
+		It is clear to me why this has happened and how this will continue from now on."
+		
+		The passenger hardly says a word with the driver, because there is no need here.
+		He just looks ahead as the front of the car swallows the road.
+		As he leaves, he says "Thanks and see you."
+		He sees the evening lights, but they don't show his home yet.
+		So he still walks
+		"because you don't have to look at my wounds, you don't have to think about the law about my pain.
+		It is clear to me why this has happened and how this will continue from now on."
+	}
+	cougar {
+		This is the hot wilderness, that which does not produce fruit.
+		It always makes me thirsty.
+		Damn, the cougar is looking at me over there.
+		My cool dream is giving way.
+		His gaze straight ahead cuts through me.
+		Everything she wants about me, she will surely reveal.
+
+		One of us ends up a prey, benefits from the night, initiates the other.
+
+		It's a hot fight, but it's still just a conversation with grunts.
+		What will I do and where will I go if she shackles me in his grip.
+		I'm second in strength, even though I'm trying to increase the size of my picture.
+		Opposite me is the power of a female, which can overwhelm me now.
+
+		One of us ends up a prey, benefits from the night, initiates the other.
+
+		The humid hot sky flashed.
+		A bolt of lightning accidentally sets him in motion.
+		My growling doesn't scare the cougar now, and she doesn't run away.
+		Do you have to die young?
+		Couldn't I get out of this so I can just lick the wounds.
+		She knows what she wants.
+		The cat just fulfills its instinct.
+
+		One of us ends up a prey, benefits from the night, initiates the other.
+
+		She approaches.
+		She knows the reason.
+	}
+	northern lights {
+		Man:
+		It's very dark and so cold when I see you crying.
+		Very dark, sad.
+		And when you slam the door shut.
+
+		Woman:
+		I can't stand you anymore.
+		You're fucking rude.
+
+		Man:
+		You're ruining the night.
+
+		Woman:
+		I have to go.
+		It doesn't matter where I end up.
+
+		Man:
+		I didn't want this, I just said it.
+
+		Woman:
+		Clear cold winter night, take me away.
+		The path can still be found in the moonlight.
+		It would be better for me where no cruel man lives, where I can breathe.
+
+		Woman:
+		This won't get better.
+		My evenings are ruined when I see you.
+		I can't stand you around, and I bite my teeth when we have sex.
+
+		Man:
+		I'm important at work.
+
+		Woman:
+		You're fucking rude.
+		I have to go.
+		No matter where I end up.
+
+		Man: You still have to understand this.
+
+		Woman:
+		A clear, cold winter night takes me away.
+		The path can still be found in the moonlight.
+		It would be better for me where no cruel man dwells, where I can breathe.
+
+		Man:
+		Everything can be arranged when you come back.
+		You must be admiring the northern lights again or something.
+
+		Woman:
+		A clear, cold winter night takes me away.
+		The path can still be found in the moonlight.
+		It would be better for me where no cruel man lives, where I can breathe.
+
+		Man: Huh?
+	}
+	bye bye baby {
+		Let's dance! It's time for a women's search.
+		The orchestra makes everything vibrate.
+		Surely you look into my eyes, our step takes you to the clouds.
+		You are so warm.
+		Shut your mouth, you know the rest of us too, the music here makes us feel.
+		When you say "want to dance" Do you mean waltz?
+		The orchestra is already packing.
+		On the beach, I leaned my back against a tree.
+		You lean in and whisper the sweetest words.
+		I want you, but I'm still an errand girl where dad brought me.
+		If you can take me along, I can always praise you as a hostess.
+		But today I can't lift the hem of my skirt for you.
+		Because promises backfire anyway.
+		My eyes get wet because your words make me cry.
+		You were such a fraud.
+		I'm looking at your receding back.
+		I know the thug in it is looking for a quick relationship for the evening.
+	}
+	withdrawal symptoms {
+		Weekday morning hangover.
+		I'm at the door of a familiar guy.
+		In my blue dreams I give everything up.
+		The younger, smiling version of me wouldn't believe two weeks of shaking.
+
+		I don't have a problem.
+		I don't have a problem.
+		Withdrawal symptoms are not allowed to kill me.
+		Everything cuts my mind, so I take the other, in the other hand.
+
+		The money has run out.
+		Must not buy food.
+		My health insurance is soft death.
+		How could I reduce my selfishness when the others had already left.
+
+		I don't have a problem.
+		I don't have a problem.
+		Withdrawal symptoms are not allowed to kill me.
+		Everything cuts my mind, so I take the other, in the other hand.
+
+		No problem, no problem, no problem.
+		Only these symptoms bother me.
+		Withdrawal symptoms are not allowed to kill me.
+		Everything cuts my mind, so I take the other, in the other hand.
+	}
+	hot street {
+		After work, the heat also reminds me of other people.
+		Yes, I still had time to cycle for one beer.
+		And it takes me to the city again, hot summer road.
+		Smells brought by beer, tobacco.
+
+		Green trees and blue sky mix.
+		People walk happily.
+		The clock is already ticking, I agreed with my friends that there will be others.
+		Almost there already.
+		I can not wait.
+		In a hurry, the hot summer road takes me back to the city.
+		Smells brought by beer, tobacco.
+
+		I bring a pint, a shot to the table.
+		I don't taste it because I'm waiting for my pretty date at the checkout.
+		I inhale smoke that tastes like ash.
+		Next to me, I can also hear the conversation of others.
+
+		The hot summer road took me to the city again.
+		Smells brought by beer, tobacco.
+		The hot summer road took me to the city.
+		Smells brought by beer, tobacco.
+	}
+	cool blue {
+		On dark blue and facing light blue.
+		The warm sun gives me a free ticket.
+		I am so free.
+		Seagulls fly in the sky and laugh at me.
+		The waves take me.
+		The wind cools me down.
+
+		I didn't tell others where I was going today.
+		I also turned off the phone, and that calms me down.
+		I am so free.
+		Seagulls fly in the sky and laugh at me.
+
+		My nerves are at rest.
+		Just a moment.
+		The waves take me.
+		The wind cools me down.
+	}
+	camilla {
+		She's got sweaty shaggy hair.
+		She opens the computer and brings the coffee.
+		She looks at social media and gets depressed.
+		This is how her day is open again.
+		She starts the game, shoots others and talks in ksät.
+		Other people just complain.
+		Everyone is frustrating you today.
+		You won't find anyone here.
+		You just want to get into a warm embrace.
+
+		The world oppresses you.
+		You are given no cheat codes for the fruit of life.
+		It feels like someone is hiding everything away from here.
+
+		A smile can be seen in your reflection.
+		Where's the party?
+		You get excited.
+		You look at others, and are depressed by their well-groomed appearance with make-up.
+		You don't match, you avoid mean people.
+		You don't offer meat, or hidden hatred.
+		That's why all the people are annoying you today.
+		You are warm-hearted and nice.
+		You just want to get into a warm embrace.
+
+		The world oppresses you.
+		You are given no cheat codes for the fruit of life.
+		It feels like someone is hiding everything away from here.
+
+		That's why you're here playing my deathmatch under the name Camicaze.
+	}
+	unreasonable woman {
+		I wandered for a long time.
+		I will come back to you again.
+		You're always right, even if you didn't get the moon from the sky.
+		I can never predict your thoughts.
+		There's no excuse for your laughter to be exposed.
+		You can even leave me in a cold dungeon to die.
+		You make me forgive you without even wanting to.
+
+		You are an unreasonable woman who only agrees to compliments.
+		You are a crazy woman who only thinks she can win.
+
+		I only thought about you when I felt the rain in the forest in the army.
+		You didn't respond because your feelings were hurt by my war.
+		I will never understand your logic.
+		You only wear make-up if it's because of your friends.
+		I am the engine of your life, but one that is not maintained.
+		I am a catch that will be sold happily.
+
+		You are an unreasonable woman who only agrees to compliments.
+		You are a crazy woman who only thinks she can win.
+
+		I repeat "yes" to you for the tenth time.
+		I always have to believe the gossip you spread.
+		You insist you've always been right.
+		You demand that others don't say a negative word about your picture.
+
+		You are an unreasonable woman who only agrees to compliments.
+		You are a crazy woman who only thinks she can win.
+	}
+	your cabin on the beach {
+		I guess I will never forget the summer at your cottage.
+		You are happy in your shelter.
+		You are hidden from the evil world.
+		When you come to the cottage, you get bored almost immediately.
+		You immediately get nervous about mosquitoes.
+		The beer can be opened immediately.
+		At the same time, the grill is also heated.
+
+		I remember resting in the heat.
+		I also remember the surprise guests.
+		People who bring joy to you are always welcome.
+
+		Summer in your cottage.
+		Am I welcome back?
+		It's hard for me to smile after winter.
+		When you get to the cabin, you're already thinking about next winter.
+		You try to relax again.
+		The beer can be opened immediately.
+		Immediately the sauna is heated on the beach.
+	}
+}

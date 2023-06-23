@@ -1,0 +1,73 @@
+album #11 (name: dragons vs snakes, when: year 2013-2014) {
+	explanation {
+		health { I was in pain and in lock because of all of the past experiences }
+		life {
+			searched for girlfriend
+			tried to study in university
+			lived with school roommates
+			I had two very good friends
+			I wasn't in the social media
+		}
+		professional music producer {
+			composed different shades of sadness in music
+			made music with free and open source tools
+		}
+		pictures {
+			
+		}
+		mistakes {
+			didn't make enough lyrics
+			didn't record songs
+		}
+		what is good {
+			I rejected cracked music software
+			not keeping notes and voice records
+		}
+		conclusion {
+			found a new joy in music with open source music software
+		}
+		what happened {
+			I tried to study at university
+			I lived in a shared apartment
+			I saw old friends from my hometown, and not new friends from university in my free time
+			I seem to behave a bit anti-socially with my university friends
+			I was really excited to program my own c++ projects even though i was looking for a girlfriend
+			In my lack of sex, I missed one of my old relationships
+			I wasn't in the social media for health reasons
+			I followed the internet, world politics and computer geek news intensively
+		}
+		sugar-coated fantasy explanation {
+		
+		}
+	}
+	song ideas based on notes {
+		"Escape From the Rascals"
+		"Put FreeBSD in Their Brains"
+		"Valley of the Water Tower"
+		"Slip Into the Night"
+		"The Information War"
+		"Misunderstood Love Nests"
+		"To the Shore and Back"
+		"Broken Towbar Blues"
+		"The Suspicious Crowd"
+		"In Pieces"
+		"A Cheerful Goodbye"
+		"Your Soft Brown Shoes"
+		"The Treasure Place"
+	}
+	content {
+		music album (Dragons Vs Snakes) {
+			"gala": "Cheers and Beers" - a fun, upbeat rap about good times and partying, reminiscing on the intense and vibrant memories. 
+			"skyscrapers": "Fading Memoirs": A rap about the pain of remembering the past, but the importance of never giving up. 
+			"reverb": Dragons vs Snakes: a story of overcoming your fears and obstacles in life and discovering your true potential. The protagonist is battling the snakes of doubt and fear in their lives and eventually emerging triumphant after facing the dragons of anxiety, fear, and despair. 
+			"the one who forgot": elämäntulta
+			"summer 2013 cool blue": "Rise Above It All" - this song is about overcoming obstacles and looking at the world from a higher point of view.
+			"stadion pop": “Summer Days” : The song explores a summer day with friends where they’re out and enjoying the season but at the same time feeling nostalgic for what could’ve been. It’s a perfect song for someone who’s feeling a bit down about missing out on summer fun with their friends. The chorus conveys the idea of watching friends having fun while they reminisce about the past. The song is happy and upbeat with rap-pop vibes. 
+			"missing you": "Longing for Me" - This song is about the intense longing for someone one loves, who has slipped out of reach. It deals with the emotions of wanting to have that person in one's life, and wishing they could find the way back.
+			"paula": "Paula's Story": This song tells the story of a young woman named Paula, and her struggles with mental health issues, feelings of loneliness and uncertainty as she goes through life. It talks about the struggles she faced, how she overcame them, and the new life she found in the end. 
+			"kickflip": roadtrip
+			"sad little furry ball": sad little furry ball
+		}
+	}
+}
+

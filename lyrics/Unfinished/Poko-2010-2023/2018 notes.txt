@@ -1,0 +1,10 @@
+dreams {
+	{
+		I dreamed that I lost my job to someone who had more work experience.
+	}
+	{
+		I dreamed that I had money to build my own skyscraper.
+		Then, I dreamed that I was in a school-like place, and I tested some take-home ceiling lamp there, which was bright as hell.
+		Turning on that lamp set someone's computer on fire.
+	}
+}
