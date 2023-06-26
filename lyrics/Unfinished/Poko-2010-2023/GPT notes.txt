@@ -1,4 +1,14 @@
-# Best method (so far):
+# Best method for new lyrics
+- add some header text for the style of the song
+- add new lines with limited info: pronouns and topic
+	Do 
+	"""
+		"[insert]":
+		- pronouns: I, you
+		- topic: Dark humor, Romantic humor, Exaggeration and Surreal Situations
+	""
+
+# Best method for restoring existing (so far):
 - make prompt to davinci gpt 3
     - add part of lyrics
     - copy-paste the header of template.txt

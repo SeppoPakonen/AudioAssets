@@ -1,0 +1,14 @@
+uses
+	CtrlLib;
+
+file
+	AI_Tool.h,
+	AI_Tool.cpp,
+	App.iml,
+	App.lay,
+	App.h,
+	App.cpp;
+
+mainconfig
+	"" = "GUI";
+
