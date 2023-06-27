@@ -6,7 +6,6 @@
 
 
 GUI_APP_MAIN {
-	
-	
+	SetLanguage(GetSystemLNG());
 	ToolApp().Run();
 }

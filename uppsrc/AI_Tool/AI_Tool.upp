@@ -1,13 +1,27 @@
 uses
-	CtrlLib;
+	CtrlLib,
+	CodeEditor;
 
 file
+	Notes.txt,
 	AI_Tool.h,
 	AI_Tool.cpp,
+	AI_Tool.rc,
+	AI_Tool.t,
 	App.iml,
 	App.lay,
+	Data.h,
 	App.h,
-	App.cpp;
+	App.cpp,
+	MainTool.cpp,
+	ArtistEdit.cpp,
+	StoryEdit.cpp,
+	SongCtrl.h,
+	SongCtrl.cpp,
+	AttrCtrl.h,
+	AttrCtrl.cpp,
+	Trash readonly separator,
+	PatternEdit.cpp;
 
 mainconfig
 	"" = "GUI";

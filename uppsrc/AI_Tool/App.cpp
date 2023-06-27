@@ -14,21 +14,21 @@ Story tab:
 Pattern tab:
 	- add/rem
 	- parse
-	
 
 
-Contrast and Unexpected Elements: 
+
+Contrast and Unexpected Elements:
 - Exaggeration and Surreal Situations
 - Subversion of Expectations
 - Absurd Concepts
 - Juxtaposition
 - Unexpected Combinations
 - Repetition of Unusual Themes
-- Props and Characters that are Unusual 
-- Utilization of Unconventional Formats 
-- Incongruous Settings and Environments 
-- Flips of Gender Roles and Social Constructs 
-- Incongruous Pairings of Opposites 
+- Props and Characters that are Unusual
+- Utilization of Unconventional Format
+- Incongruous Settings and Environments
+- Flips of Gender Roles and Social Constructs
+- Incongruous Pairings of Opposites
 - Usage of Unexpected Symbolism
 
 Interactions:
@@ -100,6 +100,17 @@ Moral interactions:
 - Mutual Respect Interaction with Animals 
 - Spiritual Interaction with Animals
 
+Acting Styles:
+- funny
+- dramatic
+- seductive
+- devious
+- mysterious
+- passionate
+- mischievous
+- powerful
+- wistful
+
 Tones:
 - Melancholic Tone
 - Pleading Tone
@@ -117,6 +128,27 @@ Tones:
 - Pensive Tone
 - Restrained Tone
 - Warbling Tone
+
+Voiceover Tones:
+- casual
+- contrasting
+- conversational
+- deep
+- detail focus
+- educational
+- energetic
+- excited
+- enthusiastic
+- gentle
+- laid-back
+- mellow
+- natural
+- nostalgic
+- optimistic
+- sarcastic
+- sophisticated
+- suggestive
+- witty
 
 Types of comedic scenarios:
 - Absurd and Exaggerated Scenarios
@@ -136,6 +168,27 @@ Types of comedic scenarios:
 - Absurd Dialogue 
 - Playing With Expectations 
 - Silliness
+
+Types of dramatic scenarios:
+- tragic death
+- a marriage in crisis
+- a serious illness
+- a family in deep debt
+- a crime
+- a personal betrayal
+- a difficult decision
+- an addiction
+- a forbidden romance
+- a risk
+- a moral dilemma
+- conflicts between cultures
+- political unrest
+- a character's inner struggle
+- a redemption story
+- racism and discrimination
+- embracing fate
+- facing mortality
+- fighting against the odds
 
 Types of sentences:
 - observations
@@ -198,8 +251,69 @@ Humorous expression:
 
 ToolApp::ToolApp() {
 	Title("ToolApp");
-	MaximizeBox().MinimizeBox();
-	Icon(AppImg::Icon());
-	SetRect(Size(640,480));
+	MaximizeBox().MinimizeBox().Sizeable();
+	Icon(AppImg::icon());
+	SetRect(Size(800,600));
 	
+	AddFrame(menu);
+	Add(tabs.SizePos());
+	
+	tabs.Add(main.SizePos(),			t_("Main"));
+	tabs.Add(artist_ctrl.SizePos(),		t_("Artist"));
+	tabs.Add(story_ctrl.SizePos(),		t_("Story"));
+	tabs.Add(pattern_ctrl.SizePos(),	t_("Pattern"));
+	main.app			= this;
+	artist_ctrl.app		= this;
+	story_ctrl.app		= this;
+	pattern_ctrl.app	= this;
+	
+	tabs.WhenSet << THISBACK(Data);
+	menu.Set(THISBACK(MainMenu));
+	
+	
+	#ifdef flagWIN32
+	dir = "C:\\git\\AudioAssets";
+	#else
+	dir = GetHomeDirFile("AudioAssets");
+	#endif
+	
+	if (!DirectoryExists(dir)) {
+		PromptOK(DeQtf("Default path not found.\nSelect AudioAssets directory."));
+		dir = SelectDirectory();
+	}
+	
+}
+
+void ToolApp::Data() {
+	int tab = tabs.Get();
+	switch (tab) {
+		case 0: main.Data(); break;
+		case 1: artist_ctrl.Data(); break;
+		case 2: story_ctrl.Data(); break;
+		case 3: pattern_ctrl.Data(); break;
+		default: break;
+	}
+}
+
+void ToolApp::MainMenu(Bar& bar) {
+	
+	bar.Sub(t_("App"), [this](Bar& bar) {
+		{
+			typedef TopWindow CLASSNAME;
+			bar.Add(t_("Exit"), THISBACK(Close));
+		}
+	});
+	
+}
+
+String ToolApp::GetArtistsDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "artists" DIR_SEPS;
+}
+
+String ToolApp::GetStoriesDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "stories" DIR_SEPS;
+}
+
+String ToolApp::GetPatternsDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "patterns" DIR_SEPS;
 }
