@@ -11,17 +11,18 @@ file
 	App.iml,
 	App.lay,
 	Data.h,
+	Data.cpp,
 	App.h,
 	App.cpp,
 	MainTool.cpp,
 	ArtistEdit.cpp,
 	StoryEdit.cpp,
-	SongCtrl.h,
-	SongCtrl.cpp,
+	CompositionEdit.cpp,
+	AnalysisEdit.cpp,
+	PatternCtrl.h,
+	PatternCtrl.cpp,
 	AttrCtrl.h,
-	AttrCtrl.cpp,
-	Trash readonly separator,
-	PatternEdit.cpp;
+	AttrCtrl.cpp;
 
 mainconfig
 	"" = "GUI";

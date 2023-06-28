@@ -23,9 +23,21 @@ StoryEditCtrl::StoryEditCtrl() {
 	CtrlLayout(*this);
 	
 	add <<= THISBACK(AddStory);
-	save <<= THISBACK(SaveStory);
 	
+	year <<= THISBACK(SaveStory);
+	title <<= THISBACK(SaveStory);
+	meaning <<= THISBACK(SaveStory);
+	devices <<= THISBACK(SaveStory);
+	emotion <<= THISBACK(SaveStory);
+	references <<= THISBACK(SaveStory);
+	structure <<= THISBACK(SaveStory);
+	history <<= THISBACK(SaveStory);
+	storyline <<= THISBACK(SaveStory);
+	implications <<= THISBACK(SaveStory);
+	
+	stories.AddColumn("Year");
 	stories.AddColumn("Story");
+	stories.ColumnWidths("1 5");
 	stories.NoHeader();
 	stories.WhenAction << THISBACK(DataStory);
 }
@@ -44,15 +56,7 @@ void StoryEditCtrl::AddStory() {
 }
 
 void StoryEditCtrl::NewStory(const String& name) {
-	String dir = app->GetStoriesDir();
-	
-	RealizeDirectory(dir);
-	
-	String path = dir + name + ".json";
-	
-	FileOut fout(path);
-	fout << "\n";
-	fout.Close();
+	Database::Single().CreateStory(name);
 	
 	Data();
 	
@@ -61,26 +65,15 @@ void StoryEditCtrl::NewStory(const String& name) {
 }
 
 void StoryEditCtrl::Data() {
-	String dir = app->GetStoriesDir();
-	
-	FindFile ff;
-	
-	String search = dir + "*.json";
-	
-	int file_i = 0;
-	if (ff.Search(search)) do {
-		if (ff.IsFile()) {
-			String path = ff.GetPath();
-			String title = GetFileTitle(path);
-			stories.Set(file_i, 0, title);
-			file_i++;
-		}
+	Database& db = Database::Single();
+	for(int i = 0; i < db.stories.GetCount(); i++) {
+		Story& s = db.stories[i];
+		stories.Set(i, 0, s.year);
+		stories.Set(i, 1, s.file_title);
 	}
-	while (ff.Next());
+	stories.SetCount(db.stories.GetCount());
 	
-	stories.SetCount(file_i);
-	
-	if (file_i && !stories.IsCursor())
+	if (db.stories.GetCount() && !stories.IsCursor())
 		stories.SetCursor(0);
 	
 	if (stories.IsCursor())
@@ -93,13 +86,8 @@ void StoryEditCtrl::DataStory() {
 		return;
 	
 	int cursor = stories.GetCursor();
-	String title = stories.Get(cursor, 0);
-	String dir = app->GetStoriesDir();
-	json_path = dir + title + ".json";
-	
-	Story& o = app->story;
-	o.Clear();
-	LoadFromJsonFile(o, json_path);
+	Story& o = Database::Single().stories[cursor];
+	active_story = &o;
 	
 	this->year							.SetData(o.year);
 	this->title							.SetData(o.title);
@@ -114,7 +102,12 @@ void StoryEditCtrl::DataStory() {
 }
 
 void StoryEditCtrl::SaveStory() {
-	Story& o = app->story;
+	if (!active_story)
+		return;
+	
+	Story& o = *active_story;
+	
+	o.year							= this->year.GetData();
 	o.title							= this->title.GetData();
 	o.meaning						= this->meaning.GetData();
 	o.devices						= this->devices.GetData();
@@ -125,11 +118,4 @@ void StoryEditCtrl::SaveStory() {
 	o.storyline						= this->storyline.GetData();
 	o.implications					= this->implications.GetData();
 	
-	if (json_path.IsEmpty())
-		return;
-	
-	String json = StoreAsJson(o, true);
-	FileOut fout(json_path);
-	fout << json;
-	fout.Close();
 }

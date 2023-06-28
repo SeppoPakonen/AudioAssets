@@ -6,11 +6,11 @@
 T_("Song")
 fiFI("Laulu")
 
-T_("Path:")
-fiFI("Polku")
+T_("Copy to Clipboard")
+fiFI("")
 
-T_("Browse")
-fiFI("Selaa")
+T_("Generate")
+fiFI("")
 
 T_("Artist:")
 fiFI("Artisti:")
@@ -20,6 +20,15 @@ fiFI("Tarina:")
 
 T_("Pattern:")
 fiFI("Kaava:")
+
+T_("Composition:")
+fiFI("S\303\244vellys:")
+
+T_("Analysis:")
+fiFI("Analyysi:")
+
+T_("Add")
+fiFI("Lis\303\244\303\244")
 
 T_("Artist")
 fiFI("Artisti")
@@ -47,12 +56,6 @@ fiFI("Akustinen soitin:")
 
 T_("Electronic instr.:")
 fiFI("Elektroninen soitin:")
-
-T_("Add")
-fiFI("Lis\303\244\303\244")
-
-T_("Save")
-fiFI("Tallenna")
 
 T_("Story")
 fiFI("Kertomus")
@@ -114,62 +117,8 @@ fiFI("Seuraukset")
 T_("The social and political implications of the song")
 fiFI("Laulun sosiaaliset ja poliittiset vaikutukset")
 
-T_("Parse")
-fiFI("Parsi")
-
 T_("Pattern")
 fiFI("Kaavio")
-
-T_("Line")
-fiFI("Laini")
-
-T_("Part:")
-fiFI("Osa:")
-
-T_("Text:")
-fiFI("Teksti:")
-
-T_("Explanation:")
-fiFI("Selitys:")
-
-T_("Pronouns:")
-fiFI("Pronominit:")
-
-T_("Elements:")
-fiFI("Elementit")
-
-T_("Interactions:")
-fiFI("Kanssak\303\244ymiset:")
-
-T_("...with:")
-fiFI("...kanssa:")
-
-T_("Moral interact.")
-fiFI("Moraalinen kanssak\303\244yminen:")
-
-T_("Acting styles:")
-fiFI("Puhumis-tyylit:")
-
-T_("Tones:")
-fiFI("\303\204\303\244nens\303\244vyt:")
-
-T_("Voice-over:")
-fiFI("\303\204\303\244net:")
-
-T_("Comedic scen.:")
-fiFI("Komediset tilanteet:")
-
-T_("Dramatic scen.:")
-fiFI("Dramaattiset tilanteet:")
-
-T_("Comedic attr:")
-fiFI("Komediset ominaisuudet:")
-
-T_("Humor attr:")
-fiFI("Humoristiset ominaisuudet:")
-
-T_("Type of sent.:")
-fiFI("Lauseen tyyppi:")
 
 T_("Struct:")
 fiFI("Rakenne:")
@@ -183,8 +132,17 @@ fiFI("Uudelleenlataa rakenne")
 T_("Main")
 fiFI("Etusivu")
 
+T_("Composition")
+fiFI("S\303\244vellys")
+
+T_("Analysis")
+fiFI("Analyysi")
+
 T_("App")
 fiFI("Ohjelma")
+
+T_("Save")
+fiFI("Tallenna")
 
 T_("Exit")
 fiFI("Poistu")
@@ -193,49 +151,49 @@ fiFI("Poistu")
 // AttrCtrl.cpp
 
 T_("I (m)")
-fiFI("")
+fiFI("min\303\244 (m)")
 
 T_("I (f)")
-fiFI("")
+fiFI("min\303\244 (n)")
 
 T_("you (m)")
-fiFI("")
+fiFI("sin\303\244 (m)")
 
 T_("you (f)")
-fiFI("")
+fiFI("sin\303\244 (n)")
 
 T_("he")
-fiFI("")
+fiFI("h\303\244n (m)")
 
 T_("she")
-fiFI("")
+fiFI("h\303\244n (n)")
 
 T_("we")
-fiFI("")
+fiFI("me")
 
 T_("we (m)")
-fiFI("")
+fiFI("me (m)")
 
 T_("we (f)")
-fiFI("")
-
-T_("they")
-fiFI("")
-
-T_("they (m)")
-fiFI("")
-
-T_("they (f)")
-fiFI("")
+fiFI("me (n)")
 
 T_("plural you")
-fiFI("")
+fiFI("te")
 
 T_("plural you (m)")
-fiFI("")
+fiFI("te (m)")
 
 T_("plural you (f)")
-fiFI("")
+fiFI("te (n)")
+
+T_("they")
+fiFI("he")
+
+T_("they (m)")
+fiFI("he (m)")
+
+T_("they (f)")
+fiFI("he (n)")
 
 T_("Exaggeration and Surreal Situations")
 fiFI("Liioittelua ja surrealistisia biisin tilannevaikutuksia")
@@ -843,6 +801,9 @@ fiFI("Viikset py\303\266riv\303\244t")
 T_("Pratfalls")
 fiFI("Pyll\303\244hdys")
 
+T_("Pronouns")
+fiFI("Pronominit")
+
 T_("Types of sentences")
 fiFI("Lausetyypit")
 
@@ -881,6 +842,66 @@ fiFI("Humoristiset ilmaisut")
 
 
 // Obsolete
+
+T_("Path:")
+fiFI("Polku")
+
+T_("Browse")
+fiFI("Selaa")
+
+T_("Parse")
+fiFI("Parsi")
+
+T_("Line")
+fiFI("Laini")
+
+T_("Part:")
+fiFI("Osa:")
+
+T_("Text:")
+fiFI("Teksti:")
+
+T_("Explanation:")
+fiFI("Selitys:")
+
+T_("Pronouns:")
+fiFI("Pronominit:")
+
+T_("Elements:")
+fiFI("Elementit")
+
+T_("Interactions:")
+fiFI("Kanssak\303\244ymiset:")
+
+T_("...with:")
+fiFI("...kanssa:")
+
+T_("Moral interact.")
+fiFI("Moraalinen kanssak\303\244yminen:")
+
+T_("Acting styles:")
+fiFI("Puhumis-tyylit:")
+
+T_("Tones:")
+fiFI("\303\204\303\244nens\303\244vyt:")
+
+T_("Voice-over:")
+fiFI("\303\204\303\244net:")
+
+T_("Comedic scen.:")
+fiFI("Komediset tilanteet:")
+
+T_("Dramatic scen.:")
+fiFI("Dramaattiset tilanteet:")
+
+T_("Comedic attr:")
+fiFI("Komediset ominaisuudet:")
+
+T_("Humor attr:")
+fiFI("Humoristiset ominaisuudet:")
+
+T_("Type of sent.:")
+fiFI("Lauseen tyyppi:")
 
 T_("Karikatyyri")
 fiFI("")

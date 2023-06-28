@@ -258,30 +258,47 @@ ToolApp::ToolApp() {
 	AddFrame(menu);
 	Add(tabs.SizePos());
 	
-	tabs.Add(main.SizePos(),			t_("Main"));
-	tabs.Add(artist_ctrl.SizePos(),		t_("Artist"));
-	tabs.Add(story_ctrl.SizePos(),		t_("Story"));
-	tabs.Add(pattern_ctrl.SizePos(),	t_("Pattern"));
-	main.app			= this;
-	artist_ctrl.app		= this;
-	story_ctrl.app		= this;
-	pattern_ctrl.app	= this;
+	tabs.Add(main.SizePos(),				t_("Main"));
+	tabs.Add(artist_ctrl.SizePos(),			t_("Artist"));
+	tabs.Add(story_ctrl.SizePos(),			t_("Story"));
+	tabs.Add(pattern_ctrl.SizePos(),		t_("Pattern"));
+	tabs.Add(composition_ctrl.SizePos(),	t_("Composition"));
+	tabs.Add(analysis_ctrl.SizePos(),		t_("Analysis"));
+	
+	main.app				= this;
+	artist_ctrl.app			= this;
+	story_ctrl.app			= this;
+	pattern_ctrl.app		= this;
+	composition_ctrl.app	= this;
+	analysis_ctrl.app	= this;
 	
 	tabs.WhenSet << THISBACK(Data);
 	menu.Set(THISBACK(MainMenu));
 	
+	Database& db = Database::Single();
 	
 	#ifdef flagWIN32
-	dir = "C:\\git\\AudioAssets";
+	db.dir = "C:\\git\\AudioAssets";
 	#else
-	dir = GetHomeDirFile("AudioAssets");
+	db.dir = GetHomeDirFile("AudioAssets");
 	#endif
 	
-	if (!DirectoryExists(dir)) {
+	if (!DirectoryExists(db.dir)) {
 		PromptOK(DeQtf("Default path not found.\nSelect AudioAssets directory."));
-		dir = SelectDirectory();
+		db.dir = SelectDirectory();
 	}
 	
+	db.Load();
+	
+	PostCallback(THISBACK(Data));
+}
+
+ToolApp::~ToolApp() {
+	Save();
+}
+
+void ToolApp::Save() {
+	Database::Single().Save();
 }
 
 void ToolApp::Data() {
@@ -291,6 +308,8 @@ void ToolApp::Data() {
 		case 1: artist_ctrl.Data(); break;
 		case 2: story_ctrl.Data(); break;
 		case 3: pattern_ctrl.Data(); break;
+		case 4: composition_ctrl.Data(); break;
+		case 5: analysis_ctrl.Data(); break;
 		default: break;
 	}
 }
@@ -298,22 +317,11 @@ void ToolApp::Data() {
 void ToolApp::MainMenu(Bar& bar) {
 	
 	bar.Sub(t_("App"), [this](Bar& bar) {
+		bar.Add(t_("Save"), THISBACK(Save)).Key(K_CTRL_S);
 		{
 			typedef TopWindow CLASSNAME;
 			bar.Add(t_("Exit"), THISBACK(Close));
 		}
 	});
 	
-}
-
-String ToolApp::GetArtistsDir() const {
-	return dir + DIR_SEPS "share" DIR_SEPS "artists" DIR_SEPS;
-}
-
-String ToolApp::GetStoriesDir() const {
-	return dir + DIR_SEPS "share" DIR_SEPS "stories" DIR_SEPS;
-}
-
-String ToolApp::GetPatternsDir() const {
-	return dir + DIR_SEPS "share" DIR_SEPS "patterns" DIR_SEPS;
 }

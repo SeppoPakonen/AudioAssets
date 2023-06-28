@@ -29,17 +29,16 @@ AttrCtrl::AttrCtrl() {
 		<< t_("you (m)")
 		<< t_("you (f)")
 		<< t_("he")
-		<< t_("he")
 		<< t_("she")
 		<< t_("we")
 		<< t_("we (m)")
 		<< t_("we (f)")
-		<< t_("they")
-		<< t_("they (m)")
-		<< t_("they (f)")
 		<< t_("plural you")
 		<< t_("plural you (m)")
 		<< t_("plural you (f)")
+		<< t_("they")
+		<< t_("they (m)")
+		<< t_("they (f)")
 		;
 	
 	elements_clr = Color(255, 212, 0);
@@ -309,11 +308,10 @@ void AttrCtrl::Paint(Draw& d) {
 	3  Types of sentences
 	25 Comedic sentences
 	23 Humorous expression
-	
 	*/
 	
 	int tab;
-	int div = 5;
+	int div = 6;
 	int cy, cx = sz.cx / div;
 	float h;
 	
@@ -323,36 +321,41 @@ void AttrCtrl::Paint(Draw& d) {
 	rects.SetCount(0);
 	
 	cy = 0;
-	h = (float)sz.cy / (3 + types_of_sentences.GetCount() + elements.GetCount() + moral_interactions.GetCount());
-	
-	PaintKeys(d, t_("Types of sentences"), types_of_sentences, types_of_sentences_clr, tab * cx, cx, cy, h, fnt, 0);
-	PaintKeys(d, t_("Contrast and Unexpected Elements"), elements, elements_clr, 0, cx, cy, h, fnt, 1);
-	PaintKeys(d, t_("Moral interactions"), moral_interactions, moral_interactions_clr, 0, cx, cy, h, fnt, 2);
+	h = (float)sz.cy / 40; //(1 + pronouns.GetCount());
+	tab = 0;
+	PaintKeys(d, t_("Pronouns"), pronouns, pronouns_clr, tab * cx, cx, cy, h, fnt, PRONOUNS);
 	
 	cy = 0;
+	h = (float)sz.cy / (3 + types_of_sentences.GetCount() + elements.GetCount() + moral_interactions.GetCount());
 	tab = 1;
-	h = (float)sz.cy / (2 + interactions.GetCount() + with.GetCount());
-	PaintKeys(d, t_("Interactions"), interactions, interactions_clr, tab * cx, cx, cy, h, fnt, 3);
-	PaintKeys(d, t_("(Interactions) with"), with, with_clr, tab * cx, cx , cy, h, fnt, 4);
+	PaintKeys(d, t_("Types of sentences"), types_of_sentences, types_of_sentences_clr, tab * cx, cx, cy, h, fnt, TYPES_OF_SENT);
+	PaintKeys(d, t_("Contrast and Unexpected Elements"), elements, elements_clr, tab * cx, cx, cy, h, fnt, ELEMENTS);
+	PaintKeys(d, t_("Moral interactions"), moral_interactions, moral_interactions_clr, tab * cx, cx, cy, h, fnt, MORAL_IA);
 	
 	cy = 0;
 	tab = 2;
-	h = (float)sz.cy / (3 + acting_styles.GetCount() + tones.GetCount() + dramatic_scenarios.GetCount());
-	PaintKeys(d, t_("Acting Styles"), acting_styles, acting_styles_clr, tab * cx, cx, cy, h, fnt, 5);
-	PaintKeys(d, t_("Tones"), tones, tones_clr, tab * cx, cx, cy, h, fnt, 6);
-	PaintKeys(d, t_("Types of dramatic scenarios"), dramatic_scenarios, dramatic_scenarios_clr, tab * cx, cx, cy, h, fnt, 7);
+	h = (float)sz.cy / (2 + interactions.GetCount() + with.GetCount());
+	PaintKeys(d, t_("Interactions"), interactions, interactions_clr, tab * cx, cx, cy, h, fnt, INTERACTIONS);
+	PaintKeys(d, t_("(Interactions) with"), with, with_clr, tab * cx, cx , cy, h, fnt, WITH);
 	
 	cy = 0;
 	tab = 3;
-	h = (float)sz.cy / (2 + voiceover_tones.GetCount() + comedic_sentences.GetCount());
-	PaintKeys(d, t_("Voiceover Tones"), voiceover_tones, voiceover_tones_clr, tab * cx, cx, cy, h, fnt, 8);
-	PaintKeys(d, t_("Comedic sentences"), comedic_sentences, comedic_sentences_clr, tab * cx, cx, cy, h, fnt, 9);
+	h = (float)sz.cy / (3 + acting_styles.GetCount() + tones.GetCount() + dramatic_scenarios.GetCount());
+	PaintKeys(d, t_("Acting Styles"), acting_styles, acting_styles_clr, tab * cx, cx, cy, h, fnt, ACTING_STYLES);
+	PaintKeys(d, t_("Tones"), tones, tones_clr, tab * cx, cx, cy, h, fnt, TONES);
+	PaintKeys(d, t_("Types of dramatic scenarios"), dramatic_scenarios, dramatic_scenarios_clr, tab * cx, cx, cy, h, fnt, DRAMATIC_SCEN);
 	
 	cy = 0;
 	tab = 4;
+	h = (float)sz.cy / (2 + voiceover_tones.GetCount() + comedic_sentences.GetCount());
+	PaintKeys(d, t_("Voiceover Tones"), voiceover_tones, voiceover_tones_clr, tab * cx, cx, cy, h, fnt, VOICEOVER_TONES);
+	PaintKeys(d, t_("Comedic sentences"), comedic_sentences, comedic_sentences_clr, tab * cx, cx, cy, h, fnt, COMEDIC_SENT);
+	
+	cy = 0;
+	tab = 5;
 	h = (float)sz.cy / (2 + comedic_scenarios.GetCount() + humorous_expressions.GetCount());
-	PaintKeys(d, t_("Comedic scenarios"), comedic_scenarios, comedic_scenarios_clr, tab * cx, cx, cy, h, fnt, 10);
-	PaintKeys(d, t_("Humorous expressions"), humorous_expressions, humorous_expressions_clr, tab * cx, cx, cy, h, fnt, 11);
+	PaintKeys(d, t_("Comedic scenarios"), comedic_scenarios, comedic_scenarios_clr, tab * cx, cx, cy, h, fnt, COMEDIC_SCEN);
+	PaintKeys(d, t_("Humorous expressions"), humorous_expressions, humorous_expressions_clr, tab * cx, cx, cy, h, fnt, HUMOROUS_EXPR);
 	
 	
 }

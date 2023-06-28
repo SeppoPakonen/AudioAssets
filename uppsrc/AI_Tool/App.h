@@ -6,18 +6,22 @@ class ToolApp;
 
 
 class MainToolCtrl : public WithMain<Ctrl> {
+	int artist = 0, story = 0, pattern = 0, analysis = 0, composition = 0;
 	
 public:
 	typedef MainToolCtrl CLASSNAME;
 	MainToolCtrl();
 	
 	void Data();
+	void Generate();
+	void CopyToClipboard();
 	
 	ToolApp* app = 0;
 	
 };
 
 class ArtistEditCtrl : public WithArtist<Ctrl> {
+	Artist* active_artist = 0;
 	
 public:
 	typedef ArtistEditCtrl CLASSNAME;
@@ -30,11 +34,11 @@ public:
 	void NewArtist(const String& name);
 	
 	ToolApp* app = 0;
-	String json_path;
 	
 };
 
 class StoryEditCtrl : public WithStory<Ctrl> {
+	Story* active_story = 0;
 	
 public:
 	typedef StoryEditCtrl CLASSNAME;
@@ -47,40 +51,43 @@ public:
 	void SaveStory();
 	
 	ToolApp* app = 0;
-	String json_path;
 	
 };
 
-#if 0
-class PatternEditCtrl : public WithPattern<Ctrl> {
+class CompositionEditCtrl : public WithComposition<Ctrl> {
 	
 public:
-	typedef PatternEditCtrl CLASSNAME;
-	PatternEditCtrl();
+	typedef CompositionEditCtrl CLASSNAME;
+	CompositionEditCtrl();
 	
 	void Data();
-	void DataPattern();
-	void DataPatternLines();
-	void DataLine();
-	void NewPattern(const String& name);
-	void AddPattern();
-	void AddLine();
-	void SavePattern();
+	void DataComposition();
+	void NewComposition(const String& name);
+	void AddComposition();
+	void SaveComposition();
 	
 	ToolApp* app = 0;
-	String json_path;
+	Composition* active_composition = 0;
 	
 };
 
-class PatternWizardCtrl : public Ctrl {
+class AnalysisEditCtrl : public WithAnalysis<Ctrl> {
 	
 public:
-	typedef PatternWizardCtrl CLASSNAME;
-	PatternWizardCtrl();
+	typedef AnalysisEditCtrl CLASSNAME;
+	AnalysisEditCtrl();
 	
+	void Data();
+	void DataAnalysis();
+	void NewAnalysis(const String& name);
+	void AddAnalysis();
+	void SaveAnalysis();
+	
+	ToolApp* app = 0;
+	Analysis* active_analysis = 0;
 	
 };
-#endif
+
 
 class ToolApp : public TopWindow {
 	MenuBar			menu;
@@ -90,24 +97,20 @@ public:
 	MainToolCtrl		main;
 	ArtistEditCtrl		artist_ctrl;
 	StoryEditCtrl		story_ctrl;
-	SongCtrl			pattern_ctrl;
+	PatternCtrl			pattern_ctrl;
+	CompositionEditCtrl	composition_ctrl;
+	AnalysisEditCtrl	analysis_ctrl;
 	
-	String			dir;
-	Artist			artist;
-	Story			story;
-	Pattern			pattern;
 	
 public:
 	typedef ToolApp CLASSNAME;
 	
 	ToolApp();
+	~ToolApp();
 	
+	void Save();
 	void Data();
 	void MainMenu(Bar& bar);
-	
-	String GetArtistsDir() const;
-	String GetStoriesDir() const;
-	String GetPatternsDir() const;
 	
 };
 

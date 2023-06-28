@@ -5,7 +5,15 @@ ArtistEditCtrl::ArtistEditCtrl() {
 	CtrlLayout(*this);
 	
 	add <<= THISBACK(AddArtist);
-	save <<= THISBACK(SaveArtist);
+	
+	name <<= THISBACK(SaveArtist);
+	year_of_birth <<= THISBACK(SaveArtist);
+	year_of_career_begin <<= THISBACK(SaveArtist);
+	biography <<= THISBACK(SaveArtist);
+	musical_style <<= THISBACK(SaveArtist);
+	vibe_of_voice <<= THISBACK(SaveArtist);
+	acoustic_instruments <<= THISBACK(SaveArtist);
+	electronic_instruments <<= THISBACK(SaveArtist);
 	
 	artists.AddColumn("Artist");
 	artists.NoHeader();
@@ -26,15 +34,7 @@ void ArtistEditCtrl::AddArtist() {
 }
 
 void ArtistEditCtrl::NewArtist(const String& name) {
-	String dir = app->GetArtistsDir();
-	
-	RealizeDirectory(dir);
-	
-	String path = dir + name + ".json";
-	
-	FileOut fout(path);
-	fout << "\n";
-	fout.Close();
+	Database::Single().CreateArtist(name);
 	
 	Data();
 	
@@ -43,26 +43,14 @@ void ArtistEditCtrl::NewArtist(const String& name) {
 }
 
 void ArtistEditCtrl::Data() {
-	String dir = app->GetArtistsDir();
-	
-	FindFile ff;
-	
-	String search = dir + "*.json";
-	
-	int file_i = 0;
-	if (ff.Search(search)) do {
-		if (ff.IsFile()) {
-			String path = ff.GetPath();
-			String title = GetFileTitle(path);
-			artists.Set(file_i, 0, title);
-			file_i++;
-		}
+	Database& db = Database::Single();
+	for(int i = 0; i < db.artists.GetCount(); i++) {
+		Artist& a = db.artists[i];
+		artists.Set(i, 0, a.file_title);
 	}
-	while (ff.Next());
+	artists.SetCount(db.artists.GetCount());
 	
-	artists.SetCount(file_i);
-	
-	if (file_i && !artists.IsCursor())
+	if (db.artists.GetCount() && !artists.IsCursor())
 		artists.SetCursor(0);
 	
 	if (artists.IsCursor())
@@ -76,12 +64,10 @@ void ArtistEditCtrl::DataArtist() {
 	
 	int cursor = artists.GetCursor();
 	String title = artists.Get(cursor, 0);
-	String dir = app->GetArtistsDir();
-	json_path = dir + title + ".json";
 	
-	Artist& o = app->artist;
-	o.Clear();
-	LoadFromJsonFile(o, json_path);
+	Database& db = Database::Single();
+	Artist& o = db.artists[cursor];
+	active_artist = &o;
 	
 	this->name						.SetData(o.name);
 	this->year_of_birth				.SetData(o.year_of_birth);
@@ -95,7 +81,10 @@ void ArtistEditCtrl::DataArtist() {
 }
 
 void ArtistEditCtrl::SaveArtist() {
-	Artist& o = app->artist;
+	if (!active_artist)
+		return;
+	
+	Artist& o = *active_artist;
 	o.name						= this->name.GetData();
 	o.year_of_birth				= this->year_of_birth.GetData();
 	o.year_of_career_begin		= this->year_of_career_begin.GetData();
@@ -105,11 +94,4 @@ void ArtistEditCtrl::SaveArtist() {
 	o.acoustic_instruments		= this->acoustic_instruments.GetData();
 	o.electronic_instruments	= this->electronic_instruments.GetData();
 	
-	if (json_path.IsEmpty())
-		return;
-	
-	String json = StoreAsJson(o, true);
-	FileOut fout(json_path);
-	fout << json;
-	fout.Close();
 }

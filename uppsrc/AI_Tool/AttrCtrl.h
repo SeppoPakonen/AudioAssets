@@ -29,13 +29,29 @@ class AttrCtrl : public Ctrl {
 	Color comedic_sentences_clr;
 	Color humorous_expressions_clr;
 	
+	enum {
+		PRONOUNS,
+		ELEMENTS,
+		INTERACTIONS,
+		WITH,
+		MORAL_IA,
+		ACTING_STYLES,
+		TONES,
+		VOICEOVER_TONES,
+		COMEDIC_SCEN,
+		DRAMATIC_SCEN,
+		TYPES_OF_SENT,
+		COMEDIC_SENT,
+		HUMOROUS_EXPR,
+		group_count
+	};
+	
 	using RectId = Tuple3<Rect, int, int>;
 	Vector<RectId> rects;
 	int sel_group = -1;
 	int sel_i = -1;
 	
 	Vector<bool> active;
-	static const int group_count = 12;
 	static const int group_limit = 30;
 	
 public:

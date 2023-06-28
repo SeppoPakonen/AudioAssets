@@ -17,7 +17,7 @@ using namespace Upp;
 #include <CtrlCore/lay.h>
 
 #include "Data.h"
-#include "SongCtrl.h"
+#include "PatternCtrl.h"
 #include "App.h"
 
 #endif
