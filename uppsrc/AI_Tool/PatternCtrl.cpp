@@ -15,6 +15,41 @@ PatternCtrl::PatternCtrl() {
 	reload <<= THISBACK(Reload);
 	
 	tree.WhenSel << THISBACK(OnTreeSel);
+	list.WhenSel << THISBACK(OnListSel);
+	
+	attr.WhenUpdate << THISBACK(DataList);
+	
+	list.Hide();
+	
+	list.AddColumn(t_("Position"));
+	list.AddColumn(t_("Pronouns"));
+	list.AddColumn(t_("Types of sentences"));
+	list.AddColumn(t_("Contrast and Unexpected Elements"));
+	list.AddColumn(t_("Moral interactions"));
+	list.AddColumn(t_("Interactions"));
+	list.AddColumn(t_("(Interactions) with"));
+	list.AddColumn(t_("Acting Styles"));
+	list.AddColumn(t_("Tones"));
+	list.AddColumn(t_("Types of dramatic scenarios"));
+	list.AddColumn(t_("Voiceover Tones"));
+	list.AddColumn(t_("Comedic sentences"));
+	list.AddColumn(t_("Comedic scenarios"));
+	list.AddColumn(t_("Humorous expressions"));
+	
+	mainsplit.Vert(list, attr);
+	mainsplit.SetPos(1000);
+}
+
+void PatternCtrl::SwitchView() {
+	/*attr.Hide();
+	list.Hide();
+	
+	view = (view + 1) % 2;
+	
+	switch (view) {
+		case 0: attr.Show(); break;
+		case 1: list.Show(); break;
+	}*/
 }
 
 void PatternCtrl::Reload() {
@@ -26,6 +61,7 @@ void PatternCtrl::Reload() {
 		return;
 	
 	active_snap = 0;
+	attr.active_snap = 0;
 	
 	o.parts.Clear();
 	o.unique_parts.Clear();
@@ -62,7 +98,7 @@ void PatternCtrl::Reload() {
 				}
 			}
 			else {
-				Pattern::Part& part = o.unique_parts.Add(name);
+				Part& part = o.unique_parts.Add(name);
 				part.len = beats;
 			}
 		}
@@ -74,8 +110,9 @@ void PatternCtrl::Reload() {
 	DUMPM(o.unique_parts);
 	DUMPC(o.parts);
 	
-	for (Pattern::Part& part : o.unique_parts) {
+	for (Part& part : o.unique_parts) {
 		part.snap.Init(0, part.len);
+		part.FixPtrs();
 	}
 	
 	DataPatternTree();
@@ -108,6 +145,9 @@ void PatternCtrl::Data() {
 	if (patterns.IsCursor())
 		DataPattern();
 	
+	
+	DataPatternSnap();
+	DataList();
 }
 
 void PatternCtrl::NewPattern(const String& name) {
@@ -155,13 +195,12 @@ void PatternCtrl::DataPatternTree() {
 	tree.SetRoot(AppImg::Root(), "Root");
 	
 	for(int i = 0; i < o.unique_parts.GetCount(); i++) {
-		Pattern::Part& part = o.unique_parts[i];
+		Part& part = o.unique_parts[i];
 		String s = o.unique_parts.GetKey(i) + " :" + IntStr(part.len);
 		int id = tree.Add(0, AppImg::Part(), s);
 		DataPatternTreeNode(part.snap, id);
 	}
 	tree.OpenDeep(0);
-	
 	
 }
 
@@ -188,10 +227,127 @@ void PatternCtrl::OnTreeSel() {
 	if (i >= 0) {
 		PatternSnap& snap = *tree_snaps[i];
 		active_snap = &snap;
+		FocusList();
+		DataPatternSnap();
+		DataList();
+	}
+}
+
+void PatternCtrl::OnListSel() {
+	int cursor = list.GetCursor();
+	if (cursor >= 0 && cursor < level_snaps.GetCount()) {
+		PatternSnap& snap = *level_snaps[cursor];
+		active_snap = &snap;
+		FocusTree();
 		DataPatternSnap();
 	}
 }
 
+void PatternCtrl::FocusTree() {
+	for(int i = 0; i < tree_snaps.GetCount(); i++) {
+		if (tree_snaps[i] == active_snap) {
+			tree.SetCursor(tree_snaps.GetKey(i));
+			break;
+		}
+	}
+}
+
+void PatternCtrl::FocusList() {
+	for(int i = 0; i < level_snaps.GetCount(); i++) {
+		if (level_snaps[i] == active_snap) {
+			list.SetCursor(i);
+			break;
+		}
+	}
+}
+
 void PatternCtrl::DataPatternSnap() {
+	attr.active_snap = active_snap;
+	attr.Load();
+	attr.Refresh();
+}
+
+void PatternCtrl::DataList() {
+	if (!active_pattern || !active_snap)
+		return;
+	
+	Database& d = Database::Single();
+	Grouplist& g = d.groups;
+	
+	Pattern& o = *active_pattern;
+	PatternSnap& s = *active_snap;
+	int level = s.GetLevel();
+	
+	level_snaps.SetCount(0);
+	o.GetSnapsLevel(level, level_snaps);
+	
+	list.SetCount(level_snaps.GetCount());
+	Index<String> skip_list;
+	for(int i = 0; i < level_snaps.GetCount(); i++) {
+		PatternSnap& s0 = *level_snaps[i];
+		String pos = s0.part->name + " :" + IntStr(s0.pos);
+		if (s0.len > 1)
+			pos += ":" + IntStr(s0.len);
+		list.Set(i, 0, pos);
+		
+		for(int j = 0; j < g.group_count; j++) {
+			skip_list.Clear();
+			String s = GetSnapGroupString(s0, j, skip_list);
+			PatternSnap* owner = s0.owner;
+			String inherited;
+			while (owner) {
+				String s2 = GetSnapGroupString(*owner, j, skip_list);
+				if (s2.GetCount()) {
+					if (!inherited.IsEmpty()) inherited << ", ";
+					inherited += s2;
+				}
+				owner = owner->owner;
+			}
+			if (inherited.GetCount()) {
+				if (s.GetCount()) s << ", ";
+				s << "[" << inherited << "]";
+			}
+			list.Set(i, 1 + j, s);
+		}
+		
+	}
+	
+	if (!list.IsCursor())
+		list.SetCursor(0);
 	
 }
+
+String GetSnapGroupString(PatternSnap& snap, int group, Index<String>& skip_list) {
+	Grouplist& g = Database::Single().groups;
+	
+	String s;
+	for(const SnapAttr& a : snap.attributes.GetKeys()) {
+		if (a.group != group)
+			continue;
+		String item;
+		switch (a.group) {
+			case Grouplist::PRONOUNS:			item = g.pronouns[a.item]; break;
+			case Grouplist::ELEMENTS:			item = g.elements[a.item]; break;
+			case Grouplist::INTERACTIONS:		item = g.interactions[a.item]; break;
+			case Grouplist::WITH:				item = g.with[a.item]; break;
+			case Grouplist::MORAL_IA:			item = g.moral_interactions[a.item]; break;
+			case Grouplist::ACTING_STYLES:		item = g.acting_styles[a.item]; break;
+			case Grouplist::TONES:				item = g.tones[a.item]; break;
+			case Grouplist::VOICEOVER_TONES:	item = g.voiceover_tones[a.item]; break;
+			case Grouplist::COMEDIC_SCEN:		item = g.comedic_scenarios[a.item]; break;
+			case Grouplist::DRAMATIC_SCEN:		item = g.dramatic_scenarios[a.item]; break;
+			case Grouplist::TYPES_OF_SENT:		item = g.types_of_sentences[a.item]; break;
+			case Grouplist::COMEDIC_SENT:		item = g.comedic_sentences[a.item]; break;
+			case Grouplist::HUMOROUS_EXPR:		item = g.humorous_expressions[a.item]; break;
+			default: item = "<error>";
+		}
+		if (skip_list.Find(item) < 0) {
+			if (!s.IsEmpty())
+				s << ", ";
+			skip_list.Add(item);
+			s << item;
+		}
+	}
+	return s;
+}
+

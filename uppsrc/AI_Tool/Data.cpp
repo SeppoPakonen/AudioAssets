@@ -233,6 +233,8 @@ void Database::Create(Pattern& p) {
 	FileOut fout(path);
 	fout << "\n";
 	fout.Close();
+	
+	p.FixPtrs();
 }
 
 void Database::Create(Composition& c) {
@@ -330,4 +332,274 @@ void PatternSnap::Init(int pos, int len) {
 		a.Create().Init(pos,       len0);
 		b.Create().Init(pos + len0, len1);
 	}
+}
+
+
+
+
+
+Grouplist::Grouplist() {
+	pronouns_clr = Color(255, 0, 212);
+	pronouns
+		<< t_("I (m)")
+		<< t_("I (f)")
+		<< t_("you (m)")
+		<< t_("you (f)")
+		<< t_("he")
+		<< t_("she")
+		<< t_("we")
+		<< t_("we (m)")
+		<< t_("we (f)")
+		<< t_("plural you")
+		<< t_("plural you (m)")
+		<< t_("plural you (f)")
+		<< t_("they")
+		<< t_("they (m)")
+		<< t_("they (f)")
+		;
+	
+	elements_clr = Color(255, 212, 0);
+	elements
+		<< t_("Exaggeration and Surreal Situations")
+		<< t_("Subversion of Expectations")
+		<< t_("Absurd Concepts")
+		<< t_("Juxtaposition")
+		<< t_("Unexpected Combinations")
+		<< t_("Repetition of Unusual Themes")
+		<< t_("Props and Characters that are Unusual")
+		<< t_("Utilization of Unconventional Format")
+		<< t_("Incongruous Settings and Environments")
+		<< t_("Flips of Gender Roles")
+		<< t_("Flips of Social Constructs")
+		<< t_("Incongruous Pairings of Opposites")
+		<< t_("Usage of Unexpected Symbolism");
+	
+	moral_interactions_clr = Color(226, 42, 0);
+	moral_interactions
+		<< t_("Playful ia. with God")
+		<< t_("Mutual Antagonism ia.")
+		<< t_("Negligent ia. with God")
+		<< t_("Mechanical/Workaround ia. with God")
+		<< t_("Transcendental ia. with God ")
+		<< t_("Devotional ia. with God")
+		<< t_("Conversational ia. with God")
+		<< t_("Parental ia. with God")
+		<< t_("Playful ia. with Personified Deities ")
+		<< t_("Quasi-Moral Behavioural ia. ")
+		<< t_("Judgmental ia. with God ")
+		<< t_("Confrontational ia. with God ")
+		<< t_("Sympathetic ia. with God ")
+		<< t_("Reverential ia. with God")
+		<< t_("Playful ia. with Angels")
+		<< t_("Oblivious ia. with Angels")
+		<< t_("Trustful ia. with Angels ")
+		<< t_("Supernatural ia. with Angels ")
+		<< t_("Playful ia. with Spirits ")
+		<< t_("Playful ia. with the Dead ")
+		<< t_("Playful ia. with Nature")
+		<< t_("Conflict ia. with Animals ")
+		<< t_("Mutual Respect ia. with Animals ")
+		<< t_("Spiritual ia. with Animals");
+	
+	interactions_clr = Color(28, 85, 255);
+	interactions
+		<< t_("Social")
+		<< t_("Atheistic")
+		<< t_("Religious")
+		<< t_("Playful")
+		<< t_("Sexual")
+		<< t_("Romantic")
+		<< t_("Business")
+		<< t_("Social")
+		<< t_("Political")
+		<< t_("Cultural")
+		<< t_("Emotional")
+		<< t_("Intellectual")
+		<< t_("Creative")
+		<< t_("Virtual")
+		<< t_("Digital");
+	
+	with_clr = Color(85, 127, 0);
+	with
+		<< t_("man")
+		<< t_("woman")
+		<< t_("girl")
+		<< t_("boy")
+		<< t_("animal")
+		<< t_("husband")
+		<< t_("wife")
+		<< t_("friend")
+		<< t_("friends")
+		<< t_("stranger")
+		<< t_("nature")
+		<< t_("technology")
+		<< t_("music")
+		<< t_("art")
+		<< t_("sea")
+		<< t_("forest")
+		<< t_("river")
+		<< t_("road")
+		<< t_("path in forest")
+		<< t_("car")
+		<< t_("train")
+		<< t_("night club")
+		<< t_("bar")
+		<< t_("restaurant")
+		<< t_("beach");
+	
+	acting_styles_clr = Color(198, 42, 200);
+	acting_styles
+		<< t_("funny")
+		<< t_("dramatic")
+		<< t_("seductive")
+		<< t_("devious")
+		<< t_("mysterious")
+		<< t_("passionate")
+		<< t_("mischievous")
+		<< t_("powerful")
+		<< t_("wistful");
+	
+	tones_clr = Color(28, 42, 150);
+	tones
+		<< t_("Melancholic")
+		<< t_("Pleading")
+		<< t_("Earnest")
+		<< t_("Bittersweet")
+		<< t_("Desperate")
+		<< t_("Nostalgic")
+		<< t_("Wistful")
+		<< t_("Reflection")
+		<< t_("Somber")
+		<< t_("Crooning")
+		<< t_("Comforting")
+		<< t_("Hopeful")
+		<< t_("Dreamy")
+		<< t_("Pensive")
+		<< t_("Restrained")
+		<< t_("Warbling");
+	
+	voiceover_tones_clr = Color(28, 255, 200);
+	voiceover_tones
+		<< t_("casual")
+		<< t_("contrasting")
+		<< t_("conversational")
+		<< t_("deep")
+		<< t_("detail focus")
+		<< t_("educational")
+		<< t_("energetic")
+		<< t_("excited")
+		<< t_("enthusiastic")
+		<< t_("gentle")
+		<< t_("laid-back")
+		<< t_("mellow")
+		<< t_("natural")
+		<< t_("nostalgic")
+		<< t_("optimistic")
+		<< t_("sarcastic")
+		<< t_("sophisticated")
+		<< t_("suggestive")
+		<< t_("witty");
+	
+	comedic_scenarios_clr = Color(141, 42, 150);
+	comedic_scenarios
+		<< t_("Absurd and Exaggerated Scenarios")
+		<< t_("Physical Comedy")
+		<< t_("Tragedy Mocks Success")
+		<< t_("Self-Deprecation")
+		<< t_("Deadpan Humor")
+		<< t_("Satire")
+		<< t_("Working Against Cliche")
+		<< t_("Repetitive Actions and Situations")
+		<< t_("Role Reversal")
+		<< t_("Slapstick")
+		<< t_("Miscommunication and Puns")
+		<< t_("Parody")
+		<< t_("Quirky Characters")
+		<< t_("Social Commentary")
+		<< t_("Absurd Dialogue")
+		<< t_("Playing With Expectations")
+		<< t_("Silliness");
+	
+	dramatic_scenarios_clr = Color(56, 42, 200);
+	dramatic_scenarios
+		<< t_("tragic death")
+		<< t_("a marriage in crisis")
+		<< t_("a serious illness")
+		<< t_("a family in deep debt")
+		<< t_("a crime")
+		<< t_("a personal betrayal")
+		<< t_("a difficult decision")
+		<< t_("an addiction")
+		<< t_("a forbidden romance")
+		<< t_("a risk")
+		<< t_("a moral dilemma")
+		<< t_("conflicts between cultures")
+		<< t_("political unrest")
+		<< t_("a character's inner struggle")
+		<< t_("a redemption story")
+		<< t_("racism and discrimination")
+		<< t_("embracing fate")
+		<< t_("facing mortality")
+		<< t_("fighting against the odds");
+	
+	types_of_sentences_clr = Color(0, 150, 246);
+	types_of_sentences
+		<< t_("observations")
+		<< t_("statements")
+		<< t_("questions");
+	
+	comedic_sentences_clr = Color(255, 170, 0);
+	comedic_sentences
+		<< t_("Satirical")
+		<< t_("Pun")
+		<< t_("Irony")
+		<< t_("Sarcasm")
+		<< t_("Hyperbole")
+		<< t_("Slapstick")
+		<< t_("Absurdist")
+		<< t_("Situational")
+		<< t_("Wordplay")
+		<< t_("Self-Deprecating")
+		<< t_("Parodical")
+		<< t_("Caricature")
+		<< t_("Puns")
+		<< t_("Comic Hyperbole")
+		<< t_("Absurdity")
+		<< t_("Mockery")
+		<< t_("Self-Mockery")
+		<< t_("Play-on-Words")
+		<< t_("Situational Irony")
+		<< t_("Topical")
+		<< t_("Improvisation")
+		<< t_("Sight Gags")
+		<< t_("Fish-Out-of-Water")
+		<< t_("Hammy Acting")
+		<< t_("Musical Comedy");
+	
+	humorous_expressions_clr = Color(255, 42, 200);
+	humorous_expressions
+		<< t_("Irony")
+		<< t_("Playful Wordplay")
+		<< t_("Ironical statements")
+		<< t_("Romantic Humor")
+		<< t_("Sexual Humor")
+		<< t_("Self-Deprecating Humor")
+		<< t_("Dark Humor")
+		<< t_("Casual and Conversational Tone")
+		<< t_("Mockery Humor")
+		<< t_("Self-Mockery Humor")
+		<< t_("Sarcasm")
+		<< t_("Slapstick")
+		<< t_("Facetiousness")
+		<< t_("Gallows Humor")
+		<< t_("Sex Humor")
+		<< t_("Surreal Humor")
+		<< t_("Absurdist Humor")
+		<< t_("One-liners")
+		<< t_("Smartassery")
+		<< t_("Improvisation")
+		<< t_("Exaggeration")
+		<< t_("Mustache Twirling")
+		<< t_("Pratfalls");
+	
 }

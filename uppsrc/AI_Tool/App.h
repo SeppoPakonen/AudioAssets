@@ -112,6 +112,13 @@ public:
 	void Data();
 	void MainMenu(Bar& bar);
 	
+	void SwitchView();
+	void MovePrevLevel();
+	void MoveNextLevel();
+	void MovePrevTotal();
+	void MoveNextTotal();
+	void MoveOwner();
+	void MovePrevious();
 };
 
 

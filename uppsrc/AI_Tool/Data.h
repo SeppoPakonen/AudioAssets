@@ -1,6 +1,59 @@
 #ifndef _AI_Tool_Data_h_
 #define _AI_Tool_Data_h_
 
+struct Grouplist {
+	Vector<String> pronouns;
+	Vector<String> elements;
+	Vector<String> interactions;
+	Vector<String> with;
+	Vector<String> moral_interactions;
+	Vector<String> acting_styles;
+	Vector<String> tones;
+	Vector<String> voiceover_tones;
+	Vector<String> comedic_scenarios;
+	Vector<String> dramatic_scenarios;
+	Vector<String> types_of_sentences;
+	Vector<String> comedic_sentences;
+	Vector<String> humorous_expressions;
+	Color pronouns_clr;
+	Color elements_clr;
+	Color interactions_clr;
+	Color with_clr;
+	Color moral_interactions_clr;
+	Color acting_styles_clr;
+	Color tones_clr;
+	Color voiceover_tones_clr;
+	Color comedic_scenarios_clr;
+	Color dramatic_scenarios_clr;
+	Color types_of_sentences_clr;
+	Color comedic_sentences_clr;
+	Color humorous_expressions_clr;
+	
+	enum {
+		PRONOUNS,
+		TYPES_OF_SENT,
+		ELEMENTS,
+		MORAL_IA,
+		INTERACTIONS,
+		WITH,
+		ACTING_STYLES,
+		TONES,
+		DRAMATIC_SCEN,
+		VOICEOVER_TONES,
+		COMEDIC_SENT,
+		COMEDIC_SCEN,
+		HUMOROUS_EXPR,
+		
+		group_count
+	};
+	
+	
+	static const int group_limit = 30;
+	
+	
+	Grouplist();
+};
+
 struct DataFile {
 	String file_title;
 	
@@ -133,20 +186,44 @@ struct LinePattern {
 	}
 };
 
+struct SnapAttr : Moveable<SnapAttr> {
+	int group = 0, item = 0;
+	
+	bool operator==(const SnapAttr& a) const {return group == a.group && item == a.item;}
+	void Clear() {
+		group = 0;
+		item = 0;
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("g", group)
+			("i", item)
+			;
+	}
+	hash_t GetHashValue() const {CombineHash c; c.Put(group); c.Put(item); return c;}
+};
+
+struct Part;
+
 struct PatternSnap : DataFile {
+	PatternSnap* owner = 0;
+	Part* part = 0;
+	
 	One<PatternSnap> a, b;
 	int pos = -1, len = 0;
-	
+	Index<SnapAttr> attributes;
 	
 	void Init(int pos, int len);
 	void Clear() {
 		a.Clear();
 		b.Clear();
+		attributes.Clear();
 	}
 	void Jsonize(JsonIO& json) {
 		json
 			("pos",  pos)
 			("len",  len)
+			("attributes",  attributes)
 		;
 		if (json.IsStoring()) {
 			if (a) json("a", *a);
@@ -161,25 +238,56 @@ struct PatternSnap : DataFile {
 			}
 		}
 	}
+	void FixPtrs() {
+		if (a) {
+			a->owner = this;
+			a->part = part;
+			a->FixPtrs();
+		}
+		if (b) {
+			b->owner = this;
+			b->part = part;
+			b->FixPtrs();
+		}
+	}
+	int GetLevel() const {
+		if (!a) return 0;
+		else return a->GetLevel() + 1;
+	}
+	void GetSnapsLevel(int level, Vector<PatternSnap*>& level_snaps) {
+		if (GetLevel() == level)
+			level_snaps.Add(this);
+		else {
+			if (a) a->GetSnapsLevel(level, level_snaps);
+			if (b) b->GetSnapsLevel(level, level_snaps);
+		}
+	}
+};
+
+struct Part {
+	String name;
+	
+	int len = 0;
+	PatternSnap snap;
+	
+	void Clear() {
+		len = 0;
+		snap.Clear();
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("len", len)
+			("snap", snap)
+			;
+	}
+	String ToString() const {return "len=" + IntStr(len);}
+	void FixPtrs() {
+		snap.part = this;
+		snap.FixPtrs();
+	}
 };
 
 struct Pattern : DataFile {
-	struct Part {
-		int len = 0;
-		PatternSnap snap;
-		
-		void Clear() {
-			len = 0;
-			snap.Clear();
-		}
-		void Jsonize(JsonIO& json) {
-			json
-				("len", len)
-				("snap", snap)
-				;
-		}
-		String ToString() const {return "len=" + IntStr(len);}
-	};
 	String					structure;
 	Vector<String>			parts;
 	ArrayMap<String, Part>	unique_parts;
@@ -195,11 +303,23 @@ struct Pattern : DataFile {
 			("parts", parts)
 			("unique_parts", unique_parts)
 			;
+		if (json.IsLoading()) {
+			FixPtrs();
+		}
 	}
 	bool operator()(const Pattern& a, const Pattern& b) const {
 		return a.file_title < b.file_title;
 	}
-	
+	void FixPtrs() {
+		for(int i = 0; i < unique_parts.GetCount(); i++)
+			unique_parts[i].name = unique_parts.GetKey(i);
+		for (Part& p : unique_parts.GetValues())
+			p.FixPtrs();
+	}
+	void GetSnapsLevel(int level, Vector<PatternSnap*>& level_snaps) {
+		for (Part& p : unique_parts.GetValues())
+			p.snap.GetSnapsLevel(level, level_snaps);
+	}
 };
 
 struct Composition : DataFile {
@@ -315,7 +435,7 @@ struct Database {
 	Array<Pattern>		patterns;
 	Array<Composition>	compositions;
 	Array<Analysis>		analyses;
-	
+	Grouplist			groups;
 	
 	void Save();
 	void Load();
@@ -345,5 +465,6 @@ struct Database {
 	
 };
 
+String GetSnapGroupString(PatternSnap& snap, int group, Index<String>& skip_list);
 
 #endif

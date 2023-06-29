@@ -254,6 +254,7 @@ ToolApp::ToolApp() {
 	MaximizeBox().MinimizeBox().Sizeable();
 	Icon(AppImg::icon());
 	SetRect(Size(800,600));
+	Maximize();
 	
 	AddFrame(menu);
 	Add(tabs.SizePos());
@@ -323,5 +324,55 @@ void ToolApp::MainMenu(Bar& bar) {
 			bar.Add(t_("Exit"), THISBACK(Close));
 		}
 	});
+	
+	bar.Sub(t_("View"), [this](Bar& bar) {
+		//bar.Add(t_("Switch view"), THISBACK(SwitchView)).Key(K_F5);
+		/*bar.Add(t_("Move to previous in level"), THISBACK(MovePrevLevel)).Key(K_F7);
+		bar.Add(t_("Move to next in level"), THISBACK(MoveNextLevel)).Key(K_F8);
+		bar.Separator();
+		bar.Add(t_("Move to previous in total"), THISBACK(MovePrevTotal)).Key(K_F7);
+		bar.Add(t_("Move to next in total"), THISBACK(MoveNextTotal)).Key(K_F8);
+		bar.Separator();*/
+		bar.Add(t_("Move to owner"), THISBACK(MoveOwner)).Key(K_F4);
+		//bar.Add(t_("Move to previous"), THISBACK(MovePrevious)).Key(K_F3);
+	});
+	
+}
+
+void ToolApp::SwitchView() {
+	int tab = tabs.Get();
+	if (tab == 3) {
+		pattern_ctrl.SwitchView();
+	}
+}
+
+void ToolApp::MovePrevLevel() {
+	
+}
+
+void ToolApp::MoveNextLevel() {
+	
+}
+
+void ToolApp::MovePrevTotal() {
+	
+}
+
+void ToolApp::MoveNextTotal() {
+	
+}
+
+void ToolApp::MoveOwner() {
+	int tab = tabs.Get();
+	if (tab == 3) {
+		int c = pattern_ctrl.tree.IsCursor() ? pattern_ctrl.tree.GetCursor() : 0;
+		if (c) {
+			c = pattern_ctrl.tree.GetParent(c);
+			pattern_ctrl.tree.SetCursor(c);
+		}
+	}
+}
+
+void ToolApp::MovePrevious() {
 	
 }
