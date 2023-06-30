@@ -356,6 +356,11 @@ Grouplist::Grouplist() {
 		<< t_("they")
 		<< t_("they (m)")
 		<< t_("they (f)")
+		<< t_("one")
+		<< t_("everyone")
+		<< t_("singular pronoun")
+		<< t_("person")
+		<< t_("that")
 		;
 	
 	elements_clr = Color(255, 212, 0);
@@ -372,10 +377,59 @@ Grouplist::Grouplist() {
 		<< t_("Flips of Gender Roles")
 		<< t_("Flips of Social Constructs")
 		<< t_("Incongruous Pairings of Opposites")
-		<< t_("Usage of Unexpected Symbolism");
+		<< t_("Usage of Unexpected Symbolism")
+		<< t_("Hope for future without immediate action")
+		<< t_("Unexpected turning of a positive thing into negativity")
+		<< t_("Unexpected turning of a negative thing into a positive")
+		<< t_("Using an abstract concept")
+		<< t_("Unexpected comparison between two")
+		<< t_("Serious tone but humorous expectation")
+		<< t_("Unexpected emotional reaction to treatment received from others")
+		;
 	
-	moral_interactions_clr = Color(226, 42, 0);
+	moral_interactions_clr = Color(246, 22, 0);
 	moral_interactions
+		<< t_("Respect")
+		<< t_("Honesty")
+		<< t_("Integrity")
+		<< t_("Kindness")
+		<< t_("Compassion")
+		<< t_("Gratitude")
+		<< t_("Forgiveness")
+		<< t_("Trust")
+		<< t_("Responsibility")
+		<< t_("Patience")
+		<< t_("Humility")
+		<< t_("Loyalty")
+		<< t_("Fairness")
+		<< t_("right to privacy")
+		<< t_("strength")
+		<< t_("resilience")
+		<< t_("spiritual meaningfulness")
+		<< t_("judgement")
+		<< t_("altruism")
+		;
+	
+	moral_interaction_modes_clr = Color(22, 22, 246);
+	moral_interaction_modes
+		<< t_("promote someone's")
+		<< t_("to bring up your own")
+		<< t_("emphasize someone's")
+		<< t_("ask open ended question about")
+		<< t_("support someone's")
+		<< t_("challenges assumptions about")
+		<< t_("give feedback on")
+		<< t_("to give encouragement of strength")
+		<< t_("to invite a discussion about")
+		<< t_("think about your own")
+		<< t_("understand someone else's")
+		<< t_("questioning")
+		<< t_("themes around")
+		<< t_("Suggests a sense of obligation to have ")
+		;
+	
+	religious_moral_interactions_clr = Color(226, 42, 0);
+	religious_moral_interactions
 		<< t_("Playful ia. with God")
 		<< t_("Mutual Antagonism ia.")
 		<< t_("Negligent ia. with God")
@@ -417,7 +471,12 @@ Grouplist::Grouplist() {
 		<< t_("Intellectual")
 		<< t_("Creative")
 		<< t_("Virtual")
-		<< t_("Digital");
+		<< t_("Digital")
+		<< t_("Serious")
+		<< t_("Requesting for confirmation")
+		<< t_("Suggesting actions and not just thoughts")
+		<< t_("Dialogue between people")
+		;
 	
 	with_clr = Color(85, 127, 0);
 	with
@@ -445,7 +504,10 @@ Grouplist::Grouplist() {
 		<< t_("night club")
 		<< t_("bar")
 		<< t_("restaurant")
-		<< t_("beach");
+		<< t_("beach")
+		<< t_("mother")
+		<< t_("father")
+		;
 	
 	acting_styles_clr = Color(198, 42, 200);
 	acting_styles
@@ -457,7 +519,13 @@ Grouplist::Grouplist() {
 		<< t_("passionate")
 		<< t_("mischievous")
 		<< t_("powerful")
-		<< t_("wistful");
+		<< t_("wistful")
+		<< t_("determined")
+		<< t_("aggressive")
+		<< t_("implying urgency")
+		<< t_("light-hearted")
+		<< t_("broody")
+		;
 	
 	tones_clr = Color(28, 42, 150);
 	tones
@@ -476,7 +544,26 @@ Grouplist::Grouplist() {
 		<< t_("Dreamy")
 		<< t_("Pensive")
 		<< t_("Restrained")
-		<< t_("Warbling");
+		<< t_("Warbling")
+		<< t_("Direct")
+		<< t_("Assertive")
+		<< t_("Isolated")
+		<< t_("Mournful")
+		<< t_("Commanding")
+		<< t_("Insistent")
+		<< t_("Uplifting")
+		<< t_("Inspirational")
+		<< t_("Inquisitive")
+		<< t_("Angry")
+		<< t_("Pity")
+		<< t_("Confused")
+		<< t_("Unknowing")
+		<< t_("Sarcastic")
+		<< t_("Sad")
+		<< t_("Disappointed")
+		<< t_("Challenging")
+		<< t_("Encouraging")
+		;
 	
 	voiceover_tones_clr = Color(28, 255, 200);
 	voiceover_tones
@@ -485,7 +572,7 @@ Grouplist::Grouplist() {
 		<< t_("conversational")
 		<< t_("deep")
 		<< t_("detail focus")
-		<< t_("educational")
+		<< t_("educating")
 		<< t_("energetic")
 		<< t_("excited")
 		<< t_("enthusiastic")
@@ -498,7 +585,12 @@ Grouplist::Grouplist() {
 		<< t_("sarcastic")
 		<< t_("sophisticated")
 		<< t_("suggestive")
-		<< t_("witty");
+		<< t_("witty")
+		<< t_("confident")
+		<< t_("assured")
+		<< t_("motivating")
+		<< t_("reflective")
+		;
 	
 	comedic_scenarios_clr = Color(141, 42, 150);
 	comedic_scenarios
@@ -518,7 +610,8 @@ Grouplist::Grouplist() {
 		<< t_("Social Commentary")
 		<< t_("Absurd Dialogue")
 		<< t_("Playing With Expectations")
-		<< t_("Silliness");
+		<< t_("Silliness")
+		;
 	
 	dramatic_scenarios_clr = Color(56, 42, 200);
 	dramatic_scenarios
@@ -540,13 +633,22 @@ Grouplist::Grouplist() {
 		<< t_("racism and discrimination")
 		<< t_("embracing fate")
 		<< t_("facing mortality")
-		<< t_("fighting against the odds");
+		<< t_("fighting against the odds")
+		<< t_("Conflict with someone")
+		<< t_("Bring up a moral issue")
+		<< t_("Existential crisis")
+		;
 	
 	types_of_sentences_clr = Color(0, 150, 246);
 	types_of_sentences
 		<< t_("observations")
 		<< t_("statements")
-		<< t_("questions");
+		<< t_("questions")
+		<< t_("declarative")
+		<< t_("imperative")
+		<< t_("interrogative")
+		<< t_("affirmative")
+		;
 	
 	comedic_sentences_clr = Color(255, 170, 0);
 	comedic_sentences
@@ -574,7 +676,9 @@ Grouplist::Grouplist() {
 		<< t_("Sight Gags")
 		<< t_("Fish-Out-of-Water")
 		<< t_("Hammy Acting")
-		<< t_("Musical Comedy");
+		<< t_("Musical Comedy")
+		<< t_("Suggests lightheartedness")
+		;
 	
 	humorous_expressions_clr = Color(255, 42, 200);
 	humorous_expressions

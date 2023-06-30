@@ -26,6 +26,7 @@ PatternCtrl::PatternCtrl() {
 	list.AddColumn(t_("Types of sentences"));
 	list.AddColumn(t_("Contrast and Unexpected Elements"));
 	list.AddColumn(t_("Moral interactions"));
+	list.AddColumn(t_("Religiously moral"));
 	list.AddColumn(t_("Interactions"));
 	list.AddColumn(t_("(Interactions) with"));
 	list.AddColumn(t_("Acting Styles"));

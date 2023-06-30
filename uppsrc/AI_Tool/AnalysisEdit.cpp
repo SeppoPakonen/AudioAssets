@@ -50,7 +50,8 @@ AnalysisEditCtrl::AnalysisEditCtrl() {
 	last = this;
 	CtrlLayout(*this);
 	
-	add <<= THISBACK(AddAnalysis);
+	add   <<= THISBACK(AddAnalysis);
+	parse <<= THISBACK(ParseAnalysis);
 	
 	data.AddColumn("Key");
 	data.AddColumn("Value").Ctrls(EditData);
@@ -131,4 +132,35 @@ void AnalysisEditCtrl::SaveAnalysis() {
 	#define ITEM(a,b,c) o.c##b = data.Get(i++, 1);
 	ANALYSIS_KEY_LIST
 	#undef ITEM
+}
+
+void AnalysisEditCtrl::ParseAnalysis() {
+	if (!active_analysis)
+		return;
+	
+	String txt = ReadClipboardText();
+	
+	txt.Replace("\r", "");
+	Vector<String> lines = Split(txt, "\n");
+	for(int i = 0; i < lines.GetCount(); i++) {
+		String& l = lines[i];
+		l = TrimBoth(l);
+		if (l.IsEmpty()) {
+			lines.Remove(i--);
+		}
+	}
+	
+	if (lines.GetCount() != 60) {
+		PromptOK("Error: expected 60 lines, got " + IntStr(lines.GetCount()));
+		return;
+	}
+	
+	int i = 1, j = 0;
+	#define ITEM(a, b, c) \
+		active_analysis->c##b = TrimBoth(lines[i]); \
+		i += 2; j++;
+	ANALYSIS_KEY_LIST
+	#undef ITEM
+	
+	DataAnalysis();
 }

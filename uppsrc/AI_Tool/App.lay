@@ -92,8 +92,9 @@ LAYOUT(Composition, 724, 488)
 END_LAYOUT
 
 LAYOUT(Analysis, 724, 488)
-	ITEM(Upp::ArrayCtrl, analyses, LeftPosZ(4, 228).VSizePosZ(4, 32))
-	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(4, 24))
+	ITEM(Upp::ArrayCtrl, analyses, LeftPosZ(4, 228).VSizePosZ(4, 60))
+	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(32, 24))
+	ITEM(Upp::Button, parse, SetLabel(t_("Parse")).LeftPosZ(4, 228).BottomPosZ(4, 24))
 	ITEM(Upp::ArrayCtrl, data, HSizePosZ(236, 4).VSizePosZ(4, 4))
 END_LAYOUT
 

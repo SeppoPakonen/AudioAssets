@@ -6,7 +6,9 @@ struct Grouplist {
 	Vector<String> elements;
 	Vector<String> interactions;
 	Vector<String> with;
+	Vector<String> moral_interaction_modes;
 	Vector<String> moral_interactions;
+	Vector<String> religious_moral_interactions;
 	Vector<String> acting_styles;
 	Vector<String> tones;
 	Vector<String> voiceover_tones;
@@ -19,7 +21,9 @@ struct Grouplist {
 	Color elements_clr;
 	Color interactions_clr;
 	Color with_clr;
+	Color moral_interaction_modes_clr;
 	Color moral_interactions_clr;
+	Color religious_moral_interactions_clr;
 	Color acting_styles_clr;
 	Color tones_clr;
 	Color voiceover_tones_clr;
@@ -34,6 +38,7 @@ struct Grouplist {
 		TYPES_OF_SENT,
 		ELEMENTS,
 		MORAL_IA,
+		RELMORAL_IA,
 		INTERACTIONS,
 		WITH,
 		ACTING_STYLES,
@@ -43,12 +48,13 @@ struct Grouplist {
 		COMEDIC_SENT,
 		COMEDIC_SCEN,
 		HUMOROUS_EXPR,
+		MORAL_IA_MODE,
 		
 		group_count
 	};
 	
 	
-	static const int group_limit = 30;
+	static const int group_limit = 100;
 	
 	
 	Grouplist();

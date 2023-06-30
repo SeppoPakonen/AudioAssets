@@ -100,7 +100,7 @@ void AttrCtrl::Paint(Draw& d) {
 	*/
 	
 	int tab;
-	int div = 6;
+	int div = 7;
 	int cy, cx = sz.cx / div;
 	float h;
 	
@@ -114,34 +114,41 @@ void AttrCtrl::Paint(Draw& d) {
 	tab = 0;
 	PaintKeys(d, t_("Pronouns"), g.pronouns, g.pronouns_clr, tab * cx, cx, cy, h, fnt, g.PRONOUNS);
 	
-	cy = 0;
-	h = (float)sz.cy / (3 + g.types_of_sentences.GetCount() + g.elements.GetCount() + g.moral_interactions.GetCount());
-	tab = 1;
-	PaintKeys(d, t_("Types of sentences"), g.types_of_sentences, g.types_of_sentences_clr, tab * cx, cx, cy, h, fnt, g.TYPES_OF_SENT);
-	PaintKeys(d, t_("Contrast and Unexpected Elements"), g.elements, g.elements_clr, tab * cx, cx, cy, h, fnt, g.ELEMENTS);
-	PaintKeys(d, t_("Moral interactions"), g.moral_interactions, g.moral_interactions_clr, tab * cx, cx, cy, h, fnt, g.MORAL_IA);
 	
 	cy = 0;
-	tab = 2;
+	h = (float)sz.cy / (2 + g.moral_interactions.GetCount() + g.moral_interaction_modes.GetCount());
+	tab++;
+	PaintKeys(d, t_("Moral interactions"), g.moral_interactions, g.moral_interactions_clr, tab * cx, cx, cy, h, fnt, g.MORAL_IA);
+	PaintKeys(d, t_("Moral interactions mode"), g.moral_interaction_modes, g.moral_interaction_modes_clr, tab * cx, cx, cy, h, fnt, g.MORAL_IA_MODE);
+	
+	cy = 0;
+	h = (float)sz.cy / (3 + g.types_of_sentences.GetCount() + g.elements.GetCount() + g.moral_interactions.GetCount());
+	tab++;
+	PaintKeys(d, t_("Types of sentences"), g.types_of_sentences, g.types_of_sentences_clr, tab * cx, cx, cy, h, fnt, g.TYPES_OF_SENT);
+	PaintKeys(d, t_("Contrast and Unexpected Elements"), g.elements, g.elements_clr, tab * cx, cx, cy, h, fnt, g.ELEMENTS);
+	PaintKeys(d, t_("Religiously moral"), g.religious_moral_interactions, g.religious_moral_interactions_clr, tab * cx, cx, cy, h, fnt, g.RELMORAL_IA);
+	
+	cy = 0;
+	tab++;
 	h = (float)sz.cy / (2 + g.interactions.GetCount() + g.with.GetCount());
 	PaintKeys(d, t_("Interactions"), g.interactions, g.interactions_clr, tab * cx, cx, cy, h, fnt, g.INTERACTIONS);
 	PaintKeys(d, t_("(Interactions) with"), g.with, g.with_clr, tab * cx, cx , cy, h, fnt, g.WITH);
 	
 	cy = 0;
-	tab = 3;
+	tab++;
 	h = (float)sz.cy / (3 + g.acting_styles.GetCount() + g.tones.GetCount() + g.dramatic_scenarios.GetCount());
 	PaintKeys(d, t_("Acting Styles"), g.acting_styles, g.acting_styles_clr, tab * cx, cx, cy, h, fnt, g.ACTING_STYLES);
 	PaintKeys(d, t_("Tones"), g.tones, g.tones_clr, tab * cx, cx, cy, h, fnt, g.TONES);
 	PaintKeys(d, t_("Types of dramatic scenarios"), g.dramatic_scenarios, g.dramatic_scenarios_clr, tab * cx, cx, cy, h, fnt, g.DRAMATIC_SCEN);
 	
 	cy = 0;
-	tab = 4;
+	tab++;
 	h = (float)sz.cy / (2 + g.voiceover_tones.GetCount() + g.comedic_sentences.GetCount());
 	PaintKeys(d, t_("Voiceover Tones"), g.voiceover_tones, g.voiceover_tones_clr, tab * cx, cx, cy, h, fnt, g.VOICEOVER_TONES);
 	PaintKeys(d, t_("Comedic sentences"), g.comedic_sentences, g.comedic_sentences_clr, tab * cx, cx, cy, h, fnt, g.COMEDIC_SENT);
 	
 	cy = 0;
-	tab = 5;
+	tab++;
 	h = (float)sz.cy / (2 + g.comedic_scenarios.GetCount() + g.humorous_expressions.GetCount());
 	PaintKeys(d, t_("Comedic scenarios"), g.comedic_scenarios, g.comedic_scenarios_clr, tab * cx, cx, cy, h, fnt, g.COMEDIC_SCEN);
 	PaintKeys(d, t_("Humorous expressions"), g.humorous_expressions, g.humorous_expressions_clr, tab * cx, cx, cy, h, fnt, g.HUMOROUS_EXPR);
@@ -213,6 +220,9 @@ void AttrCtrl::PaintKeys(Draw& d, String title, const Vector<String>& keys, Colo
 				d.DrawRect(r, stripe_clr);
 			}
 		}
+		
+		// Capitalize first letter
+		txt = ToUpper(txt.Left(1)) + txt.Mid(1);
 		
 		d.DrawText(xoff+ x0 + off + 1, y2 + off + 1, txt, txt_fnt, Black());
 		d.DrawText(xoff+ x0 + off, y2 + off, txt, txt_fnt, White());

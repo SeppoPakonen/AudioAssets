@@ -7,10 +7,10 @@ T_("Song")
 fiFI("Laulu")
 
 T_("Copy to Clipboard")
-fiFI("")
+fiFI("Kopioi leikep\303\266yd\303\244lle")
 
 T_("Generate")
-fiFI("")
+fiFI("Generoi")
 
 T_("Artist:")
 fiFI("Artisti:")
@@ -117,6 +117,33 @@ fiFI("Seuraukset")
 T_("The social and political implications of the song")
 fiFI("Laulun sosiaaliset ja poliittiset vaikutukset")
 
+T_("Composition")
+fiFI("S\303\244vellys")
+
+T_("Tempo:")
+fiFI("Tempo:")
+
+T_("Beat/Rhythm:")
+fiFI("Isku/rytmi:")
+
+T_("Melody:")
+fiFI("Melodia:")
+
+T_("Chord Progressions:")
+fiFI("Sointukulku:")
+
+T_("Key and Mode:")
+fiFI("Avain ja moodi:")
+
+T_("Texture:")
+fiFI("Tekstuuri:")
+
+T_("Genre/Style:")
+fiFI("Genre/Tyyli:")
+
+T_("Parse")
+fiFI("Parsi")
+
 T_("Pattern")
 fiFI("Kaavio")
 
@@ -127,28 +154,7 @@ T_("Reload Structure")
 fiFI("Uudelleenlataa rakenne")
 
 
-// App.cpp
-
-T_("Main")
-fiFI("Etusivu")
-
-T_("Composition")
-fiFI("S\303\244vellys")
-
-T_("Analysis")
-fiFI("Analyysi")
-
-T_("App")
-fiFI("Ohjelma")
-
-T_("Save")
-fiFI("Tallenna")
-
-T_("Exit")
-fiFI("Poistu")
-
-
-// AttrCtrl.cpp
+// Data.cpp
 
 T_("I (m)")
 fiFI("min\303\244 (m)")
@@ -195,6 +201,21 @@ fiFI("he (m)")
 T_("they (f)")
 fiFI("he (n)")
 
+T_("one")
+fiFI("yksi")
+
+T_("everyone")
+fiFI("jokainen")
+
+T_("singular pronoun")
+fiFI("yksikk\303\266pronomini")
+
+T_("person")
+fiFI("ihminen")
+
+T_("that")
+fiFI("se")
+
 T_("Exaggeration and Surreal Situations")
 fiFI("Liioittelua ja surrealistisia biisin tilannevaikutuksia")
 
@@ -233,6 +254,126 @@ fiFI("Sopimattomat vastakohtien parit")
 
 T_("Usage of Unexpected Symbolism")
 fiFI("Odottamattoman symbolismin k\303\244ytt\303\266")
+
+T_("Hope for future without immediate action")
+fiFI("Toivo tulevaisuuteen ilman tekoja")
+
+T_("Unexpected turning of a positive thing into negativity")
+fiFI("Odottamaton positiivisisen asian k\303\244\303\244nt\303\266 negatiivisuudeksi")
+
+T_("Unexpected turning of a negative thing into a positive")
+fiFI("Odottamaton negatiivisen asian k\303\244\303\244nt\303\266 positiiviseksi")
+
+T_("Using an abstract concept")
+fiFI("Abstraktin konseptin k\303\244ytt\303\244minen")
+
+T_("Unexpected comparison between two")
+fiFI("Odottamaton vertailu kahden v\303\244lill\303\244")
+
+T_("Serious tone but humorous expectation")
+fiFI("Vakava s\303\244vy, mutta humoristinen odotus")
+
+T_("Unexpected emotional reaction to treatment received from others")
+fiFI("Odottamaton tunnereaktio muilta saatuun kohteluun")
+
+T_("Respect")
+fiFI("Kunnioitus")
+
+T_("Honesty")
+fiFI("Rehellisyys")
+
+T_("Integrity")
+fiFI("Koskemattomuus")
+
+T_("Kindness")
+fiFI("Hyv\303\244ntahtoisuus")
+
+T_("Compassion")
+fiFI("My\303\266t\303\244tunto")
+
+T_("Gratitude")
+fiFI("Kiitollisuus")
+
+T_("Forgiveness")
+fiFI("Anteeksiantavaisuus")
+
+T_("Trust")
+fiFI("Luottaminen")
+
+T_("Responsibility")
+fiFI("Vastuullisuus")
+
+T_("Patience")
+fiFI("K\303\244rsiv\303\244llisyys")
+
+T_("Humility")
+fiFI("N\303\266yryys")
+
+T_("Loyalty")
+fiFI("Lojaalisuus")
+
+T_("Fairness")
+fiFI("Reiluus")
+
+T_("right to privacy")
+fiFI("Oikeus yksityisyyteen")
+
+T_("strength")
+fiFI("vahvuus")
+
+T_("resilience")
+fiFI("sitkeys")
+
+T_("spiritual meaningfulness")
+fiFI("henkinen merkityksellisyys")
+
+T_("judgement")
+fiFI("tuomitsevuus")
+
+T_("altruism")
+fiFI("ep\303\244itsekkyys")
+
+T_("promote")
+fiFI("per\303\244\303\244nkuuluttaa")
+
+T_("to bring up your own")
+fiFI("tuoda esiin omaa")
+
+T_("emphasize someone's")
+fiFI("korostaa jonkun")
+
+T_("ask open ended question about")
+fiFI("kysy\303\244 avoin kysymys")
+
+T_("support someone's")
+fiFI("tukea jonkun")
+
+T_("challenges assumptions about")
+fiFI("haastaa oletuksia")
+
+T_("give feedback on")
+fiFI("antaa palautetta")
+
+T_("to give encouragement of strength")
+fiFI("rohkaista")
+
+T_("to invite a discussion about")
+fiFI("kutsua keskusteluun")
+
+T_("think about your own")
+fiFI("mietti\303\244 omaa")
+
+T_("understand someone else's")
+fiFI("ymm\303\244rt\303\244\303\244 jonkun toisen")
+
+T_("questioning")
+fiFI("kyseenalaistaa")
+
+T_("themes around")
+fiFI("teemoja asian ymp\303\244rilt\303\244")
+
+T_("Suggests a sense of obligation to have ")
+fiFI("Muistuttaa velvollisuudentunteesta")
 
 T_("Playful ia. with God")
 fiFI("Leikkisyys Jumalalle")
@@ -348,6 +489,18 @@ fiFI("Virtuaalinen")
 T_("Digital")
 fiFI("Digitaalinen")
 
+T_("Serious")
+fiFI("Vakava")
+
+T_("Requesting for confirmation")
+fiFI("Hyv\303\244ksymist\303\244 pyyt\303\244v\303\244")
+
+T_("Suggesting actions and not just thoughts")
+fiFI("Ehdottaa toimia, eik\303\244 vain ajatuksia")
+
+T_("Dialogue between people")
+fiFI("Keskustelu ihmisten v\303\244lill\303\244")
+
 T_("man")
 fiFI("mies")
 
@@ -423,6 +576,12 @@ fiFI("ravintola")
 T_("beach")
 fiFI("ranta")
 
+T_("mother")
+fiFI("\303\244iti")
+
+T_("father")
+fiFI("is\303\244")
+
 T_("funny")
 fiFI("hauska")
 
@@ -449,6 +608,21 @@ fiFI("voimakas")
 
 T_("wistful")
 fiFI("haikea")
+
+T_("determined")
+fiFI("p\303\244\303\244tt\303\244v\303\244inen")
+
+T_("aggressive")
+fiFI("aggressiivinen")
+
+T_("implying urgency")
+fiFI("kiirellisyytt\303\244 huokuva")
+
+T_("light-hearted")
+fiFI("hilpe\303\244")
+
+T_("broody")
+fiFI("mieless\303\244\303\244n hautova")
 
 T_("Melancholic")
 fiFI("Melankolinen")
@@ -498,6 +672,60 @@ fiFI("Hillitty")
 T_("Warbling")
 fiFI("Kiertelev\303\244")
 
+T_("Direct")
+fiFI("Suorapuheinen")
+
+T_("Assertive")
+fiFI("Assertiivinen")
+
+T_("Isolated")
+fiFI("Erist\303\244ytynyt")
+
+T_("Mournful")
+fiFI("Valittava")
+
+T_("Commanding")
+fiFI("Komentava")
+
+T_("Insistent")
+fiFI("Itsepintainen")
+
+T_("Uplifting")
+fiFI("Ilmapiiri\303\244 pirist\303\244v\303\244")
+
+T_("Inspirational")
+fiFI("Inspiroiva")
+
+T_("Inquisitive")
+fiFI("Utelias")
+
+T_("Angry")
+fiFI("Vihainen")
+
+T_("Pity")
+fiFI("S\303\244\303\244liv\303\244")
+
+T_("Confused")
+fiFI("H\303\244mmentynyt")
+
+T_("Unknowing")
+fiFI("Tiet\303\244m\303\244t\303\266n")
+
+T_("Sarcastic")
+fiFI("Sarkastinen")
+
+T_("Sad")
+fiFI("Surullinen")
+
+T_("Disappointed")
+fiFI("Pettynyt")
+
+T_("Challenging")
+fiFI("Haastava")
+
+T_("Encouraging")
+fiFI("Kannustava")
+
 T_("casual")
 fiFI("rento")
 
@@ -513,7 +741,7 @@ fiFI("syv\303\244llinen")
 T_("detail focus")
 fiFI("yksityiskohtainen")
 
-T_("educational")
+T_("educating")
 fiFI("opettava")
 
 T_("energetic")
@@ -554,6 +782,18 @@ fiFI("ehdottava")
 
 T_("witty")
 fiFI("nokkela")
+
+T_("confident")
+fiFI("itsevarma")
+
+T_("assured")
+fiFI("vakuuttunut")
+
+T_("motivating")
+fiFI("motivoiva")
+
+T_("reflective")
+fiFI("reflektoiva")
 
 T_("Absurd and Exaggerated Scenarios")
 fiFI("Absurdit ja liioitellut skenaariot")
@@ -663,6 +903,15 @@ fiFI("kuolevaisuuden edess\303\244")
 T_("fighting against the odds")
 fiFI("kamppailua vastaan")
 
+T_("Conflict with someone")
+fiFI("Konflikti jonkun kanssa")
+
+T_("Bring up a moral issue")
+fiFI("Tuoda esiin moraalinen aihe")
+
+T_("Existential crisis")
+fiFI("Eksistentiaalinen kriisi")
+
 T_("observations")
 fiFI("havainnot")
 
@@ -671,6 +920,18 @@ fiFI("lausunnot")
 
 T_("questions")
 fiFI("kysymyksi\303\244")
+
+T_("declarative")
+fiFI("toteava")
+
+T_("imperative")
+fiFI("k\303\244skev\303\244")
+
+T_("interrogative")
+fiFI("kyselev\303\244")
+
+T_("affirmative")
+fiFI("my\303\266nt\303\244v\303\244")
 
 T_("Satirical")
 fiFI("Satiirinen")
@@ -703,7 +964,7 @@ T_("Parodical")
 fiFI("Parodinen")
 
 T_("Caricature")
-fiFI("")
+fiFI("Karikatyyri")
 
 T_("Puns")
 fiFI("Sanaleikit")
@@ -743,6 +1004,9 @@ fiFI("Ylin\303\244yttely")
 
 T_("Musical Comedy")
 fiFI("Musikaalikomedia")
+
+T_("Suggests lightheartedness")
+fiFI("Suosittelee kevytmielisyytt\303\244")
 
 T_("Playful Wordplay")
 fiFI("Leikkis\303\244\303\244 sutkauttelua")
@@ -801,6 +1065,36 @@ fiFI("Viikset py\303\266riv\303\244t")
 T_("Pratfalls")
 fiFI("Pyll\303\244hdys")
 
+
+// App.cpp
+
+T_("Main")
+fiFI("Etusivu")
+
+T_("Analysis")
+fiFI("Analyysi")
+
+T_("App")
+fiFI("Ohjelma")
+
+T_("Save")
+fiFI("Tallenna")
+
+T_("Exit")
+fiFI("Poistu")
+
+T_("View")
+fiFI("N\303\244kym\303\244")
+
+T_("Move to owner")
+fiFI("Siirry omistajaan")
+
+
+// PatternCtrl.cpp
+
+T_("Position")
+fiFI("Kohta")
+
 T_("Pronouns")
 fiFI("Pronominit")
 
@@ -812,6 +1106,9 @@ fiFI("Kontrasti ja odottamattomat elementit")
 
 T_("Moral interactions")
 fiFI("Moraalinen vuorovaikutus")
+
+T_("Religiously moral")
+fiFI("Uskonnollis-moraalinen")
 
 T_("Interactions")
 fiFI("Vuorovaikutukset")
@@ -841,16 +1138,25 @@ T_("Humorous expressions")
 fiFI("Humoristiset ilmaisut")
 
 
+// AttrCtrl.cpp
+
+T_("Moral interactions mode")
+fiFI("Moraalisen vuorovaikutuksen moodi")
+
+
 // Obsolete
+
+T_("Promoting strength")
+fiFI("Per\303\244\303\244nkuuluttaa vahvuutta")
+
+T_("Promoting resilience")
+fiFI("Per\303\244\303\244nkuuluttaa sitkeytt\303\244")
 
 T_("Path:")
 fiFI("Polku")
 
 T_("Browse")
 fiFI("Selaa")
-
-T_("Parse")
-fiFI("Parsi")
 
 T_("Line")
 fiFI("Laini")
@@ -902,6 +1208,3 @@ fiFI("Humoristiset ominaisuudet:")
 
 T_("Type of sent.:")
 fiFI("Lauseen tyyppi:")
-
-T_("Karikatyyri")
-fiFI("")

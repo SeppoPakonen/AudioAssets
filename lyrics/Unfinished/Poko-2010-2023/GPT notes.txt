@@ -41,6 +41,27 @@ Subconscious information about lyrics:
 Love:
 
 
+
+#############
+Lyrical analysis of:
+- Pronouns
+- Types of sentences
+- Contrast and Unexpected Elements
+- Religiosly moral interactions
+- Moral interactions
+- Interactions
+- (Interactions) with
+- Acting Styles
+- Tones
+- Types of dramatic scenarios
+- Voiceover Tones
+- Comedic sentences
+- Comedic scenarios
+- Humorous expressions
+
+################
+
+
 # Best method for new lyrics
 - add some header text for the style of the song
 - add new lines with limited info: pronouns and topic

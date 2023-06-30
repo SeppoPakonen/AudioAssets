@@ -82,6 +82,7 @@ public:
 	void NewAnalysis(const String& name);
 	void AddAnalysis();
 	void SaveAnalysis();
+	void ParseAnalysis();
 	
 	ToolApp* app = 0;
 	Analysis* active_analysis = 0;
