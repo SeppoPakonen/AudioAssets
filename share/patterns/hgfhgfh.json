@@ -1,0 +1,593 @@
+{
+	"structure": "intro:4,verse1:8,chorus1:4,verse2:8,chorus1:4,chorus2:4,bridge:4,chorus1:4,chorus2:4,outro:4",
+	"parts": [
+		"intro",
+		"verse1",
+		"chorus1",
+		"verse2",
+		"chorus1",
+		"chorus2",
+		"bridge",
+		"chorus1",
+		"chorus2",
+		"outro"
+	],
+	"unique_parts": [
+		{
+			"key": "intro",
+			"value": {
+				"len": 4,
+				"snap": {
+					"pos": 0,
+					"len": 4,
+					"attributes": [
+
+					],
+					"a": {
+						"pos": 0,
+						"len": 2,
+						"attributes": [
+							{
+								"g": 2,
+								"i": 1
+							}
+						],
+						"a": {
+							"pos": 0,
+							"len": 1,
+							"attributes": [
+								{
+									"g": 0,
+									"i": 7
+								},
+								{
+									"g": 1,
+									"i": 1
+								},
+								{
+									"g": 2,
+									"i": 7
+								},
+								{
+									"g": 3,
+									"i": 5
+								},
+								{
+									"g": 4,
+									"i": 8
+								},
+								{
+									"g": 5,
+									"i": 6
+								},
+								{
+									"g": 6,
+									"i": 6
+								},
+								{
+									"g": 7,
+									"i": 6
+								},
+								{
+									"g": 8,
+									"i": 6
+								},
+								{
+									"g": 9,
+									"i": 8
+								},
+								{
+									"g": 10,
+									"i": 5
+								},
+								{
+									"g": 11,
+									"i": 7
+								},
+								{
+									"g": 12,
+									"i": 1
+								}
+							]
+						},
+						"b": {
+							"pos": 1,
+							"len": 1,
+							"attributes": [
+								{
+									"g": 5,
+									"i": 0
+								},
+								{
+									"g": 4,
+									"i": 12
+								},
+								{
+									"g": 2,
+									"i": 4
+								},
+								{
+									"g": 0,
+									"i": 7
+								}
+							]
+						}
+					},
+					"b": {
+						"pos": 2,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 2,
+							"len": 1,
+							"attributes": [
+								{
+									"g": 0,
+									"i": 7
+								}
+							]
+						},
+						"b": {
+							"pos": 3,
+							"len": 1,
+							"attributes": [
+								{
+									"g": 0,
+									"i": 3
+								},
+								{
+									"g": 7,
+									"i": 6
+								}
+							]
+						}
+					}
+				}
+			}
+		},
+		{
+			"key": "verse1",
+			"value": {
+				"len": 8,
+				"snap": {
+					"pos": 0,
+					"len": 8,
+					"attributes": [
+
+					],
+					"a": {
+						"pos": 0,
+						"len": 4,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 0,
+							"len": 2,
+							"attributes": [
+
+							],
+							"a": {
+								"pos": 0,
+								"len": 1,
+								"attributes": [
+
+								]
+							},
+							"b": {
+								"pos": 1,
+								"len": 1,
+								"attributes": [
+
+								]
+							}
+						},
+						"b": {
+							"pos": 2,
+							"len": 2,
+							"attributes": [
+
+							],
+							"a": {
+								"pos": 2,
+								"len": 1,
+								"attributes": [
+
+								]
+							},
+							"b": {
+								"pos": 3,
+								"len": 1,
+								"attributes": [
+
+								]
+							}
+						}
+					},
+					"b": {
+						"pos": 4,
+						"len": 4,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 4,
+							"len": 2,
+							"attributes": [
+
+							],
+							"a": {
+								"pos": 4,
+								"len": 1,
+								"attributes": [
+
+								]
+							},
+							"b": {
+								"pos": 5,
+								"len": 1,
+								"attributes": [
+
+								]
+							}
+						},
+						"b": {
+							"pos": 6,
+							"len": 2,
+							"attributes": [
+
+							],
+							"a": {
+								"pos": 6,
+								"len": 1,
+								"attributes": [
+
+								]
+							},
+							"b": {
+								"pos": 7,
+								"len": 1,
+								"attributes": [
+
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"key": "chorus1",
+			"value": {
+				"len": 4,
+				"snap": {
+					"pos": 0,
+					"len": 4,
+					"attributes": [
+
+					],
+					"a": {
+						"pos": 0,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 0,
+							"len": 1,
+							"attributes": [
+
+							]
+						},
+						"b": {
+							"pos": 1,
+							"len": 1,
+							"attributes": [
+
+							]
+						}
+					},
+					"b": {
+						"pos": 2,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 2,
+							"len": 1,
+							"attributes": [
+
+							]
+						},
+						"b": {
+							"pos": 3,
+							"len": 1,
+							"attributes": [
+
+							]
+						}
+					}
+				}
+			}
+		},
+		{
+			"key": "verse2",
+			"value": {
+				"len": 8,
+				"snap": {
+					"pos": 0,
+					"len": 8,
+					"attributes": [
+
+					],
+					"a": {
+						"pos": 0,
+						"len": 4,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 0,
+							"len": 2,
+							"attributes": [
+
+							],
+							"a": {
+								"pos": 0,
+								"len": 1,
+								"attributes": [
+
+								]
+							},
+							"b": {
+								"pos": 1,
+								"len": 1,
+								"attributes": [
+
+								]
+							}
+						},
+						"b": {
+							"pos": 2,
+							"len": 2,
+							"attributes": [
+
+							],
+							"a": {
+								"pos": 2,
+								"len": 1,
+								"attributes": [
+
+								]
+							},
+							"b": {
+								"pos": 3,
+								"len": 1,
+								"attributes": [
+
+								]
+							}
+						}
+					},
+					"b": {
+						"pos": 4,
+						"len": 4,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 4,
+							"len": 2,
+							"attributes": [
+
+							],
+							"a": {
+								"pos": 4,
+								"len": 1,
+								"attributes": [
+
+								]
+							},
+							"b": {
+								"pos": 5,
+								"len": 1,
+								"attributes": [
+
+								]
+							}
+						},
+						"b": {
+							"pos": 6,
+							"len": 2,
+							"attributes": [
+
+							],
+							"a": {
+								"pos": 6,
+								"len": 1,
+								"attributes": [
+
+								]
+							},
+							"b": {
+								"pos": 7,
+								"len": 1,
+								"attributes": [
+
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"key": "chorus2",
+			"value": {
+				"len": 4,
+				"snap": {
+					"pos": 0,
+					"len": 4,
+					"attributes": [
+
+					],
+					"a": {
+						"pos": 0,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 0,
+							"len": 1,
+							"attributes": [
+
+							]
+						},
+						"b": {
+							"pos": 1,
+							"len": 1,
+							"attributes": [
+
+							]
+						}
+					},
+					"b": {
+						"pos": 2,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 2,
+							"len": 1,
+							"attributes": [
+
+							]
+						},
+						"b": {
+							"pos": 3,
+							"len": 1,
+							"attributes": [
+
+							]
+						}
+					}
+				}
+			}
+		},
+		{
+			"key": "bridge",
+			"value": {
+				"len": 4,
+				"snap": {
+					"pos": 0,
+					"len": 4,
+					"attributes": [
+
+					],
+					"a": {
+						"pos": 0,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 0,
+							"len": 1,
+							"attributes": [
+
+							]
+						},
+						"b": {
+							"pos": 1,
+							"len": 1,
+							"attributes": [
+
+							]
+						}
+					},
+					"b": {
+						"pos": 2,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 2,
+							"len": 1,
+							"attributes": [
+
+							]
+						},
+						"b": {
+							"pos": 3,
+							"len": 1,
+							"attributes": [
+
+							]
+						}
+					}
+				}
+			}
+		},
+		{
+			"key": "outro",
+			"value": {
+				"len": 4,
+				"snap": {
+					"pos": 0,
+					"len": 4,
+					"attributes": [
+
+					],
+					"a": {
+						"pos": 0,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 0,
+							"len": 1,
+							"attributes": [
+
+							]
+						},
+						"b": {
+							"pos": 1,
+							"len": 1,
+							"attributes": [
+
+							]
+						}
+					},
+					"b": {
+						"pos": 2,
+						"len": 2,
+						"attributes": [
+
+						],
+						"a": {
+							"pos": 2,
+							"len": 1,
+							"attributes": [
+
+							]
+						},
+						"b": {
+							"pos": 3,
+							"len": 1,
+							"attributes": [
+
+							]
+						}
+					}
+				}
+			}
+		}
+	]
+}

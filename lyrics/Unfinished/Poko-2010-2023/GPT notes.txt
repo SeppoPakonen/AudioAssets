@@ -1,4 +1,57 @@
-# Best method (so far):
+List of topics what makes the listener to think while listening song's lyrics:
+
+1. Life choices
+2. Changing the world
+3. Overcoming adversity
+4. Friendship
+5. Love
+6. Finding purpose
+7. Loyalty
+8. Journeys
+9. Faith
+10. Loss
+
+
+List of topics what makes the listener to think subconsciously while listening song's lyrics:
+1. Love 
+2. Loss and longing
+3. Memories 
+4. Coming of age
+5. Happiness and joy 
+6. Heartache and sadness
+7. Intimacy and connection
+8. Self-esteem and identity
+9. Hope and optimism
+10. Fear and despair
+11. Redemption and reconciliation
+12. Social justice and intervention
+13. Gratitude and appreciation
+14. Rejection and abandonment 
+15. Longing for belongingness
+16. Creativity and expression
+17. Hard work and resilience
+18. Impermanence and interconnectedness
+19. Courage and resilience
+20. Awe and wonder
+
+Information about lyrics:
+Life choices:
+
+Subconscious information about lyrics:
+Love:
+
+
+# Best method for new lyrics
+- add some header text for the style of the song
+- add new lines with limited info: pronouns and topic
+	Do 
+	"""
+		"[insert]":
+		- pronouns: I, you
+		- topic: Dark humor, Romantic humor, Exaggeration and Surreal Situations
+	""
+
+# Best method for restoring existing (so far):
 - make prompt to davinci gpt 3
     - add part of lyrics
     - copy-paste the header of template.txt
