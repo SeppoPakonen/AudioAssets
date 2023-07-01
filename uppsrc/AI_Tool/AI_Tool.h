@@ -19,6 +19,8 @@ using namespace Upp;
 #include "Data.h"
 #include "PlotCtrl.h"
 #include "PatternCtrl.h"
+#include "ScoreCtrl.h"
+#include "AttrScoreCtrl.h"
 #include "App.h"
 
 #endif

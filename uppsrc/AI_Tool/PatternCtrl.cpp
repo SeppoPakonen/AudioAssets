@@ -119,8 +119,8 @@ void PatternCtrl::AddPattern() {
 	String pattern_name;
 	bool b = EditTextNotNull(
 		pattern_name,
-		"Pattern's name",
-		"Please write pattern's name",
+		t_("Pattern's name"),
+		t_("Please write pattern's name"),
 		0
 	);
 	if (b) {

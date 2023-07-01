@@ -23,8 +23,12 @@ file
 	PatternCtrl.cpp,
 	AttrCtrl.h,
 	AttrCtrl.cpp,
+	AttrScoreCtrl.h,
+	AttrScoreCtrl.cpp,
 	PlotCtrl.h,
-	PlotCtrl.cpp;
+	PlotCtrl.cpp,
+	ScoreCtrl.h,
+	ScoreCtrl.cpp;
 
 mainconfig
 	"" = "GUI";

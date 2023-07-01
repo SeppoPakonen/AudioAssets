@@ -108,3 +108,17 @@ LAYOUT(Pattern, 556, 216)
 	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(4, 24))
 END_LAYOUT
 
+LAYOUT(Score, 556, 216)
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Score")).LeftPosZ(4, 228).TopPosZ(4, 92))
+	ITEM(Upp::Label, dv___1, SetLabel(t_("Struct:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))
+	ITEM(Upp::EditString, structure, LeftPosZ(68, 160).TopPosZ(20, 20))
+	ITEM(Upp::Button, reload, SetLabel(t_("Reload Structure")).LeftPosZ(68, 160).TopPosZ(44, 20))
+	ITEM(Upp::Button, load_active_pattern, SetLabel(t_("Load active pattern")).LeftPosZ(68, 160).TopPosZ(68, 20))
+	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(100, 32))
+	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
+	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(4, 24))
+END_LAYOUT
+
+LAYOUT(AttrScore, 400, 200)
+END_LAYOUT
+

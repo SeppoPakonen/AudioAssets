@@ -24,6 +24,10 @@ String Database::GetAttributesDir() const {
 	return dir + DIR_SEPS "share" DIR_SEPS "attributes" DIR_SEPS;
 }
 
+String Database::GetScoresDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "scores" DIR_SEPS;
+}
+
 void Database::Save() {
 	{
 		String dir = GetArtistsDir();
@@ -87,6 +91,17 @@ void Database::Save() {
 			Grouplist& o = groups;
 			String json_path = dir + o.file_title + ".json";
 			String json = StoreAsJson(groups, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
+	{
+		String dir = GetScoresDir();
+		RealizeDirectory(dir);
+		for (PatternScore& o : scores) {
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(o, true);
 			FileOut fout(json_path);
 			fout << json;
 			fout.Close();
@@ -193,6 +208,25 @@ void Database::Load() {
 		ASSERT(FileExists(json_path));
 		LoadFromJsonFile(groups, json_path);
 	}
+	
+	{
+		scores.Clear();
+		String dir = GetScoresDir();
+		String search = dir + "*.json";
+		
+		FindFile ff;
+		if (ff.Search(search)) do {
+			if (ff.IsFile()) {
+				String path = ff.GetPath();
+				PatternScore& p = scores.Add();
+				p.file_title = GetFileTitle(path);
+				Load(p);
+			}
+		}
+		while (ff.Next());
+		Sort(scores, PatternScore());
+	}
+	
 }
 
 void Database::Load(Artist& a) {
@@ -218,6 +252,11 @@ void Database::Load(Composition& c) {
 void Database::Load(Analysis& a) {
 	String json_path = GetAnalysesDir() + a.file_title + ".json";
 	LoadFromJsonFile(a, json_path);
+}
+
+void Database::Load(PatternScore& p) {
+	String json_path = GetScoresDir() + p.file_title + ".json";
+	LoadFromJsonFile(p, json_path);
 }
 
 void Database::Create(Story& s) {
@@ -287,6 +326,19 @@ void Database::Create(Analysis& a) {
 	fout.Close();
 }
 
+void Database::Create(PatternScore& p) {
+	ASSERT(!p.file_title.IsEmpty());
+	String dir = GetScoresDir();
+	
+	RealizeDirectory(dir);
+	
+	String path = dir + p.file_title + ".json";
+	
+	FileOut fout(path);
+	fout << "\n";
+	fout.Close();
+}
+
 Story& Database::CreateStory(String name) {
 	for (Story& s : stories)
 		if (s.file_title == name)
@@ -342,6 +394,17 @@ Analysis& Database::CreateAnalysis(String name) {
 	return a;
 }
 
+PatternScore& Database::CreateScore(String name) {
+	for (PatternScore& p : scores)
+		if (p.file_title == name)
+			return p;
+	
+	PatternScore& p = scores.Add();
+	p.file_title = name;
+	Create(p);
+	return p;
+}
+
 
 
 
@@ -366,6 +429,43 @@ int Grouplist::trans_i = -1;
 
 Grouplist::Grouplist() {
 	file_title = "default";
+	
+	#if 0
+	
+	AddScoring(("Mood: joyful/melancholic"), scorings);
+	AddScoring(("Mood: playful/serious"), scorings);
+	AddScoring(("Mood: uplifting/heavy"), scorings);
+	AddScoring(("Mood: lighthearted/somber"), scorings);
+	AddScoring(("Mood: humorous/dramatic"), scorings);
+	AddScoring(("Social: authoritarian/liberatrian"), scorings);
+	AddScoring(("Economic: liberal/conservative"), scorings);
+	AddScoring(("Culture: individualism/collective"), scorings);
+	AddScoring(("Human strength: strong/weak"), scorings);
+	AddScoring(("Motivation: rewarding/punishing"), scorings);
+	AddScoring(("Sexualization: sexual/non-sexual"), scorings);
+	AddScoring(("Attitude: hopeful/despair"), scorings);
+	AddScoring(("Attitude: optimistic/pessimistic"), scorings);
+	AddScoring(("Attitude: open/closed"), scorings);
+	AddScoring(("Beliefs: spiritual/secular"), scorings);
+	AddScoring(("Expectations: perfection/acceptance"), scorings);
+	
+	#endif
+	
+}
+
+void Grouplist::AddScoring(String s, Vector<Grouplist::ScoringType>& scorings) {
+	int a = s.Find(":");
+	
+	Grouplist::ScoringType& t = scorings.Add();
+	t.klass = s.Left(a);
+	s =  s.Mid(a+2);
+	a = s.Find("/");
+	t.axes0 = s.Left(a);
+	t.axes1 = s.Mid(a+1);
+	
+	Translate(t.klass);
+	Translate(t.axes0);
+	Translate(t.axes1);
 }
 
 void Grouplist::DumbFix() {
@@ -791,4 +891,14 @@ String Grouplist::Translate(const String& s) {
 			t.data.Add(ToLower(s));
 	}
 	return o.IsEmpty() ? s : o;
+}
+
+
+
+
+void PartScore::Realize() {
+	Grouplist& g = Database::Single().groups;
+	values.SetCount(g.scorings.GetCount());
+	for (auto& v : values)
+		v.SetCount(len, 0);
 }

@@ -101,7 +101,8 @@ public:
 	PatternCtrl			pattern_ctrl;
 	CompositionEditCtrl	composition_ctrl;
 	AnalysisEditCtrl	analysis_ctrl;
-	
+	ScoreCtrl			score_ctrl;
+	AttrScoreCtrl		attrscore_ctrl;
 	
 public:
 	typedef ToolApp CLASSNAME;

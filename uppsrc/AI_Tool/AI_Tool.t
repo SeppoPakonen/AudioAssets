@@ -153,6 +153,15 @@ fiFI("Rakenne:")
 T_("Reload Structure")
 fiFI("Uudelleenlataa rakenne")
 
+T_("Score")
+fiFI("Pisteytys")
+
+T_("Load active pattern")
+fiFI("Lataa aktiivinen kaavio")
+
+T_("Add preset")
+fiFI("Lis\303\244\303\244 esiasetus")
+
 
 // App.cpp
 
@@ -161,6 +170,9 @@ fiFI("Etusivu")
 
 T_("Analysis")
 fiFI("Analyysi")
+
+T_("Attribute score")
+fiFI("Ominaisuuden pisteet")
 
 T_("App")
 fiFI("Ohjelma")
@@ -182,6 +194,12 @@ fiFI("Siirry omistajaan")
 
 T_("Position")
 fiFI("Kohta")
+
+T_("Pattern's name")
+fiFI("Kaavion nimi")
+
+T_("Please write pattern's name")
+fiFI("Kirjoita kaavion nimi")
 
 
 // AttrCtrl.cpp
@@ -209,6 +227,26 @@ fiFI("Merkinn\303\244n k\303\244\303\244nn\303\266s")
 
 T_("Entry '%s' exists already")
 fiFI("Merkint\303\244 '%s' on jo olemassa")
+
+
+
+
+// ScoreCtrl.cpp
+
+T_("Title")
+fiFI("Otsikko")
+
+T_("Name")
+fiFI("Nimi")
+
+T_("Read-only")
+fiFI("Vain-luku")
+
+T_("Preset's name")
+fiFI("Esiasetuksen nimi")
+
+T_("Whole song")
+fiFI("Koko kappale")
 
 
 // Obsolete

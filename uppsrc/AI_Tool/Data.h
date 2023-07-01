@@ -49,8 +49,22 @@ struct Grouplist : DataFile {
 			return false;
 		}
 	};
+	struct ScoringType : Moveable<ScoringType> {
+		String klass;
+		String axes0, axes1;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("class", klass)
+				("axes0", axes0)
+				("axes1", axes1)
+				;
+		}
+	};
+	
 	VectorMap<String, Group> groups;
 	VectorMap<String, Translation> translation;
+	Vector<ScoringType> scorings;
 	
 	
 	Grouplist();
@@ -69,6 +83,7 @@ struct Grouplist : DataFile {
 		json
 			("groups", groups)
 			("translation", translation)
+			("scorings", scorings)
 			;
 		if (json.IsLoading()) {
 			//DumbFix();
@@ -77,6 +92,7 @@ struct Grouplist : DataFile {
 		}
 	}
 	void DumbFix();
+	void AddScoring(String s, Vector<Grouplist::ScoringType>& scorings);
 	
 	static const int group_limit = 1024;
 	static int trans_i;
@@ -346,6 +362,46 @@ struct Pattern : DataFile {
 	}
 };
 
+struct PartScore {
+	int len = 0;
+	Vector<Vector<int>> values;
+	
+	void Clear() {
+		len = 0;
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("len", len)
+			("values", values)
+			;
+		if (json.IsLoading())
+			Realize();
+	}
+	void Realize();
+};
+
+struct PatternScore : DataFile {
+	String						structure;
+	Vector<String>				parts;
+	ArrayMap<String, PartScore>	unique_parts;
+	
+	void Clear() {
+		structure.Clear();
+		parts.Clear();
+		unique_parts.Clear();
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("structure", structure)
+			("parts", parts)
+			("unique_parts", unique_parts)
+			;
+	}
+	bool operator()(const PatternScore& a, const PatternScore& b) const {
+		return a.file_title < b.file_title;
+	}
+};
+
 struct Composition : DataFile {
 	int year = 0;
 	String title;
@@ -459,6 +515,7 @@ struct Database {
 	Array<Pattern>		patterns;
 	Array<Composition>	compositions;
 	Array<Analysis>		analyses;
+	Array<PatternScore>	scores;
 	Grouplist			groups;
 	
 	void Save();
@@ -468,22 +525,26 @@ struct Database {
 	void Load(Pattern& p);
 	void Load(Composition& c);
 	void Load(Analysis& c);
+	void Load(PatternScore& c);
 	void Create(Story& s);
 	void Create(Artist& a);
 	void Create(Pattern& p);
 	void Create(Composition& c);
 	void Create(Analysis& c);
+	void Create(PatternScore& c);
 	Story& CreateStory(String name);
 	Artist& CreateArtist(String name);
 	Pattern& CreatePattern(String name);
 	Composition& CreateComposition(String name);
 	Analysis& CreateAnalysis(String name);
+	PatternScore& CreateScore(String name);
 	
 	String GetArtistsDir() const;
 	String GetStoriesDir() const;
 	String GetPatternsDir() const;
 	String GetCompositionsDir() const;
 	String GetAnalysesDir() const;
+	String GetScoresDir() const;
 	String GetAttributesDir() const;
 	
 	static Database& Single() {static Database db; return db;}

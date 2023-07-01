@@ -650,6 +650,10 @@
 						"value": "absurdista"
 					},
 					{
+						"key": "acceptance",
+						"value": "hyväksyminen"
+					},
+					{
 						"key": "acting styles",
 						"value": "näyttelijätyylit"
 					},
@@ -698,6 +702,14 @@
 						"value": "ateistinen"
 					},
 					{
+						"key": "attitude",
+						"value": "asenne"
+					},
+					{
+						"key": "authoritarian",
+						"value": "autoritaarinen"
+					},
+					{
 						"key": "baptism of jesus",
 						"value": "jeesuksen kaste"
 					},
@@ -708,6 +720,10 @@
 					{
 						"key": "beach",
 						"value": "ranta"
+					},
+					{
+						"key": "beliefs",
+						"value": "uskomukset"
 					},
 					{
 						"key": "bittersweet",
@@ -762,6 +778,22 @@
 						"value": "taistella jonkin puolesta"
 					},
 					{
+						"key": "chorus1",
+						"value": "kertosäe1"
+					},
+					{
+						"key": "chorus2",
+						"value": "kertosäe2"
+					},
+					{
+						"key": "closed",
+						"value": "suljettu"
+					},
+					{
+						"key": "collective",
+						"value": "kollektiivinen"
+					},
+					{
 						"key": "comedic scenarios",
 						"value": "komediset tilanteet"
 					},
@@ -810,6 +842,10 @@
 						"value": "hämmentynyt"
 					},
 					{
+						"key": "conservative",
+						"value": "konservatiivinen"
+					},
+					{
 						"key": "contrast and unexpected elements",
 						"value": "kontrasti ja odottamattomat elementit"
 					},
@@ -838,6 +874,10 @@
 						"value": "kulttuurillinen"
 					},
 					{
+						"key": "culture",
+						"value": "kulttuuri"
+					},
+					{
 						"key": "dark humor",
 						"value": "pimeää huumoria"
 					},
@@ -856,6 +896,10 @@
 					{
 						"key": "deep",
 						"value": "syvällinen"
+					},
+					{
+						"key": "despair",
+						"value": "epätoivo"
 					},
 					{
 						"key": "desperate",
@@ -899,7 +943,7 @@
 					},
 					{
 						"key": "do ",
-						"value": ""
+						"value": "tehdä "
 					},
 					{
 						"key": "dramatic",
@@ -916,6 +960,10 @@
 					{
 						"key": "earnest",
 						"value": "todellinen"
+					},
+					{
+						"key": "economic",
+						"value": "ekonominen"
 					},
 					{
 						"key": "educating",
@@ -968,6 +1016,10 @@
 					{
 						"key": "existential crisis",
 						"value": "eksistentiaalinen kriisi"
+					},
+					{
+						"key": "expectations",
+						"value": "odotukset"
 					},
 					{
 						"key": "facetiousness",
@@ -1054,6 +1106,10 @@
 						"value": "hän (m)"
 					},
 					{
+						"key": "heavy",
+						"value": "raskas"
+					},
+					{
 						"key": "honesty",
 						"value": "rehellisyys"
 					},
@@ -1066,8 +1122,16 @@
 						"value": "toiveikas"
 					},
 					{
+						"key": "human strength",
+						"value": "ihmisen voima"
+					},
+					{
 						"key": "humility",
 						"value": "nöyryys"
+					},
+					{
+						"key": "humorous",
+						"value": "humoristinen"
 					},
 					{
 						"key": "humorous expressions",
@@ -1108,6 +1172,10 @@
 					{
 						"key": "incongruous settings and environments",
 						"value": "sopimattomat asetelmat ja ympäristöt"
+					},
+					{
+						"key": "individualism",
+						"value": "individualismi"
 					},
 					{
 						"key": "inquisitive",
@@ -1162,6 +1230,10 @@
 						"value": "eristäytynyt"
 					},
 					{
+						"key": "joyful",
+						"value": "iloinen"
+					},
+					{
 						"key": "judgement",
 						"value": "tuomitsevuus"
 					},
@@ -1182,7 +1254,19 @@
 						"value": "rento"
 					},
 					{
+						"key": "liberal",
+						"value": "liberaali"
+					},
+					{
+						"key": "liberatrian",
+						"value": "libertaarinen"
+					},
+					{
 						"key": "light-hearted",
+						"value": "hilpeä"
+					},
+					{
+						"key": "lighthearted",
 						"value": "hilpeä"
 					},
 					{
@@ -1234,6 +1318,10 @@
 						"value": "hetki"
 					},
 					{
+						"key": "mood",
+						"value": "mieliala"
+					},
+					{
 						"key": "moral interactions",
 						"value": "moraalinen vuorovaikutus"
 					},
@@ -1248,6 +1336,10 @@
 					{
 						"key": "motivating",
 						"value": "motivoiva"
+					},
+					{
+						"key": "motivation",
+						"value": "motivaatio"
 					},
 					{
 						"key": "mournful",
@@ -1318,6 +1410,10 @@
 						"value": "yökerho"
 					},
 					{
+						"key": "non-sexual",
+						"value": "ei-seksuaalinen"
+					},
+					{
 						"key": "nostalgic",
 						"value": "nostalginen"
 					},
@@ -1340,6 +1436,10 @@
 					{
 						"key": "one-liners",
 						"value": "yksirivinen"
+					},
+					{
+						"key": "open",
+						"value": "auki"
 					},
 					{
 						"key": "optimistic",
@@ -1378,6 +1478,10 @@
 						"value": "mietteliäs"
 					},
 					{
+						"key": "perfection",
+						"value": "täydellisyyttä"
+					},
+					{
 						"key": "perilious choices leads to a better outcome",
 						"value": "vaaralliset valinnat johtavat parempaan lopputulokseen"
 					},
@@ -1388,6 +1492,10 @@
 					{
 						"key": "personal",
 						"value": "henkilökohtainen"
+					},
+					{
+						"key": "pessimistic",
+						"value": "pessimistinen"
 					},
 					{
 						"key": "physical comedy",
@@ -1498,6 +1606,10 @@
 						"value": "sanaleikki"
 					},
 					{
+						"key": "punishing",
+						"value": "rankaiseva"
+					},
+					{
 						"key": "puns",
 						"value": "sanaleikit"
 					},
@@ -1574,6 +1686,10 @@
 						"value": "kunnioittavaa jumalalle"
 					},
 					{
+						"key": "rewarding",
+						"value": "palkitseva"
+					},
+					{
 						"key": "right to privacy",
 						"value": "oikeus yksityisyyteen"
 					},
@@ -1626,6 +1742,10 @@
 						"value": "meri"
 					},
 					{
+						"key": "secular",
+						"value": "maallinen"
+					},
+					{
 						"key": "seductive",
 						"value": "viettelevä"
 					},
@@ -1668,6 +1788,10 @@
 					{
 						"key": "sexual humor",
 						"value": "seksuaalista"
+					},
+					{
+						"key": "sexualization",
+						"value": "seksualisointi"
 					},
 					{
 						"key": "she",
@@ -1718,6 +1842,10 @@
 						"value": "hienostunut"
 					},
 					{
+						"key": "spiritual",
+						"value": "henkinen"
+					},
+					{
 						"key": "spiritual ia. with animals",
 						"value": "henkisyys eläimille"
 					},
@@ -1736,6 +1864,10 @@
 					{
 						"key": "strength",
 						"value": "vahvuus"
+					},
+					{
+						"key": "strong",
+						"value": "vahva"
 					},
 					{
 						"key": "subversion of expectations",
@@ -1910,6 +2042,14 @@
 						"value": "verbit"
 					},
 					{
+						"key": "verse1",
+						"value": "säe1"
+					},
+					{
+						"key": "verse2",
+						"value": "säe2"
+					},
+					{
 						"key": "virtual",
 						"value": "virtuaalinen"
 					},
@@ -1932,6 +2072,10 @@
 					{
 						"key": "we (m)",
 						"value": "me (m)"
+					},
+					{
+						"key": "weak",
+						"value": "heikko"
 					},
 					{
 						"key": "wife",
