@@ -1,0 +1,1884 @@
+{
+	"groups": [
+		{
+			"key": "pronouns",
+			"value": {
+				"description": "Pronouns",
+				"color": {
+					"red": 255,
+					"green": 0,
+					"blue": 212
+				},
+				"values": [
+					"day",
+					"every",
+					"everyone",
+					"he",
+					"i (f)",
+					"i (m)",
+					"love",
+					"moment",
+					"my",
+					"night",
+					"one",
+					"passive",
+					"person",
+					"plural you",
+					"plural you (f)",
+					"plural you (m)",
+					"she",
+					"singular pronoun",
+					"that",
+					"they",
+					"they (f)",
+					"they (m)",
+					"we",
+					"we (f)",
+					"we (m)",
+					"you (f)",
+					"you (m)",
+					"your"
+				]
+			}
+		},
+		{
+			"key": "elements",
+			"value": {
+				"description": "Contrast and Unexpected Elements",
+				"color": {
+					"red": 255,
+					"green": 212,
+					"blue": 0
+				},
+				"values": [
+					"absurd concepts",
+					"exaggeration and surreal situations",
+					"flips of gender roles",
+					"flips of social constructs",
+					"hope for future without immediate action",
+					"incongruous pairings of opposites",
+					"incongruous settings and environments",
+					"juxtaposition",
+					"props and characters that are unusual",
+					"repetition of unusual themes",
+					"serious tone but humorous expectation",
+					"subversion of expectations",
+					"unexpected combinations",
+					"unexpected comparison between two",
+					"unexpected emotional reaction to treatment received from others",
+					"unexpected turning of a negative thing into a positive",
+					"unexpected turning of a positive thing into negativity",
+					"unexpected use of opposites",
+					"usage of unexpected symbolism",
+					"using an abstract concept",
+					"utilization of unconventional format"
+				]
+			}
+		},
+		{
+			"key": "moral_interactions",
+			"value": {
+				"description": "Moral interactions",
+				"color": {
+					"red": 246,
+					"green": 22,
+					"blue": 0
+				},
+				"values": [
+					"altruism",
+					"compassion",
+					"fairness",
+					"forgiveness",
+					"gratitude",
+					"honesty",
+					"humility",
+					"integrity",
+					"judgement",
+					"kindness",
+					"loyalty",
+					"navigation in life",
+					"patience",
+					"resilience",
+					"respect",
+					"responsibility",
+					"right to privacy",
+					"spiritual meaningfulness",
+					"strength",
+					"trust"
+				]
+			}
+		},
+		{
+			"key": "moral_interaction_modes",
+			"value": {
+				"description": "Moral interactions mode",
+				"color": {
+					"red": 22,
+					"green": 22,
+					"blue": 246
+				},
+				"values": [
+					"ask open ended question about",
+					"challenges assumptions about",
+					"do ",
+					"emphasize someone's",
+					"give feedback on",
+					"promote someone's",
+					"questioning",
+					"suggests a sense of obligation to have",
+					"support someone's",
+					"themes around",
+					"think about your own",
+					"to bring up your own",
+					"to give encouragement of strength",
+					"to invite a discussion about",
+					"understand someone else's"
+				]
+			}
+		},
+		{
+			"key": "religious_moral_interactions",
+			"value": {
+				"description": "Religiously moral",
+				"color": {
+					"red": 226,
+					"green": 42,
+					"blue": 0
+				},
+				"values": [
+					"baptism of jesus",
+					"conflict ia. with animals ",
+					"confrontational ia. with god ",
+					"conversational ia. with god",
+					"devotional ia. with god",
+					"judgmental ia. with god ",
+					"mechanical/workaround ia. with god",
+					"mutual antagonism ia.",
+					"mutual respect ia. with animals ",
+					"negligent ia. with god",
+					"oblivious ia. with angels",
+					"parental ia. with god",
+					"playful ia. with angels",
+					"playful ia. with god",
+					"playful ia. with nature",
+					"playful ia. with personified deities ",
+					"playful ia. with spirits ",
+					"playful ia. with the dead ",
+					"quasi-moral behavioural ia. ",
+					"reverential ia. with god",
+					"spiritual ia. with animals",
+					"supernatural ia. with angels ",
+					"sympathetic ia. with god ",
+					"transcendental ia. with god ",
+					"trustful ia. with angels "
+				]
+			}
+		},
+		{
+			"key": "interactions",
+			"value": {
+				"description": "Interactions",
+				"color": {
+					"red": 28,
+					"green": 85,
+					"blue": 255
+				},
+				"values": [
+					"atheistic",
+					"business",
+					"creative",
+					"cultural",
+					"dialogue between people",
+					"digital",
+					"emotional",
+					"intellectual",
+					"making a decision",
+					"personal",
+					"playful",
+					"political",
+					"religious",
+					"requesting for confirmation",
+					"romantic",
+					"serious",
+					"sexual",
+					"social",
+					"social",
+					"suggesting actions and not just thoughts",
+					"taking a risk",
+					"virtual"
+				]
+			}
+		},
+		{
+			"key": "with",
+			"value": {
+				"description": "(Interactions) with",
+				"color": {
+					"red": 85,
+					"green": 127,
+					"blue": 0
+				},
+				"values": [
+					"animal",
+					"art",
+					"bar",
+					"beach",
+					"boy",
+					"car",
+					"father",
+					"forest",
+					"friend",
+					"friends",
+					"girl",
+					"husband",
+					"man",
+					"mother",
+					"music",
+					"nature",
+					"night club",
+					"path in forest",
+					"restaurant",
+					"river",
+					"road",
+					"sea",
+					"stranger",
+					"technology",
+					"train",
+					"wife",
+					"woman"
+				]
+			}
+		},
+		{
+			"key": "acting_styles",
+			"value": {
+				"description": "Acting Styles",
+				"color": {
+					"red": 198,
+					"green": 42,
+					"blue": 200
+				},
+				"values": [
+					"aggressive",
+					"bold",
+					"broody",
+					"determined",
+					"devious",
+					"dramatic",
+					"funny",
+					"implying urgency",
+					"light-hearted",
+					"mischievous",
+					"mysterious",
+					"passionate",
+					"powerful",
+					"seductive",
+					"wistful"
+				]
+			}
+		},
+		{
+			"key": "tones",
+			"value": {
+				"description": "Tones",
+				"color": {
+					"red": 28,
+					"green": 42,
+					"blue": 150
+				},
+				"values": [
+					"angry",
+					"assertive",
+					"bittersweet",
+					"challenging",
+					"comforting",
+					"commanding",
+					"confused",
+					"crooning",
+					"desperate",
+					"direct",
+					"disappointed",
+					"dreamy",
+					"earnest",
+					"encouraging",
+					"hopeful",
+					"inquisitive",
+					"insistent",
+					"inspirational",
+					"isolated",
+					"melancholic",
+					"mournful",
+					"neutral",
+					"nostalgic",
+					"pensive",
+					"pity",
+					"pleading",
+					"poignant",
+					"reflection",
+					"restrained",
+					"sad",
+					"sarcastic",
+					"somber",
+					"unknowing",
+					"uplifting",
+					"warbling",
+					"wistful"
+				]
+			}
+		},
+		{
+			"key": "voiceover_tones",
+			"value": {
+				"description": "Voiceover Tones",
+				"color": {
+					"red": 28,
+					"green": 255,
+					"blue": 200
+				},
+				"values": [
+					"assured",
+					"casual",
+					"confident",
+					"contrasting",
+					"conversational",
+					"deep",
+					"detail focus",
+					"educating",
+					"energetic",
+					"enthusiastic",
+					"excited",
+					"gentle",
+					"laid-back",
+					"mellow",
+					"motivating",
+					"natural",
+					"nostalgic",
+					"optimistic",
+					"reflective",
+					"sarcastic",
+					"sophisticated",
+					"suggestive",
+					"witty"
+				]
+			}
+		},
+		{
+			"key": "comedic_scenarios",
+			"value": {
+				"description": "Comedic scenarios",
+				"color": {
+					"red": 141,
+					"green": 42,
+					"blue": 150
+				},
+				"values": [
+					"absurd and exaggerated scenarios",
+					"absurd dialogue",
+					"deadpan humor",
+					"miscommunication and puns",
+					"parody",
+					"physical comedy",
+					"playing with expectations",
+					"quirky characters",
+					"repetitive actions and situations",
+					"role reversal",
+					"satire",
+					"self-deprecation",
+					"silliness",
+					"slapstick",
+					"social commentary",
+					"tragedy mocks success",
+					"working against cliche"
+				]
+			}
+		},
+		{
+			"key": "dramatic_scenarios",
+			"value": {
+				"description": "Dramatic scenarios",
+				"color": {
+					"red": 56,
+					"green": 42,
+					"blue": 200
+				},
+				"values": [
+					"a character's inner struggle",
+					"a crime",
+					"a difficult decision",
+					"a family in deep debt",
+					"a forbidden romance",
+					"a marriage in crisis",
+					"a moral dilemma",
+					"a personal betrayal",
+					"a redemption story",
+					"a risk",
+					"a serious illness",
+					"an addiction",
+					"bring up a moral issue",
+					"conflict with someone",
+					"conflicts between cultures",
+					"embracing fate",
+					"existential crisis",
+					"facing mortality",
+					"fighting against the odds",
+					"perilious choices leads to a better outcome",
+					"political unrest",
+					"racism and discrimination",
+					"tragic death"
+				]
+			}
+		},
+		{
+			"key": "types_of_sentences",
+			"value": {
+				"description": "Types of sentences",
+				"color": {
+					"red": 0,
+					"green": 150,
+					"blue": 246
+				},
+				"values": [
+					"affirmative",
+					"declarative",
+					"imperative",
+					"interrogative",
+					"observations",
+					"questions",
+					"statements"
+				]
+			}
+		},
+		{
+			"key": "comedic_sentences",
+			"value": {
+				"description": "Comedic sentences",
+				"color": {
+					"red": 255,
+					"green": 170,
+					"blue": 0
+				},
+				"values": [
+					"absurdist",
+					"absurdity",
+					"caricature",
+					"comic hyperbole",
+					"fish-out-of-water",
+					"hammy acting",
+					"hyperbole",
+					"improvisation",
+					"irony",
+					"mockery",
+					"musical comedy",
+					"parodical",
+					"play-on-words",
+					"pun",
+					"puns",
+					"sarcasm",
+					"satirical",
+					"self-deprecating",
+					"self-mockery",
+					"sight gags",
+					"situational",
+					"situational irony",
+					"slapstick",
+					"suggests lightheartedness",
+					"topical",
+					"wordplay"
+				]
+			}
+		},
+		{
+			"key": "humorous_expressions",
+			"value": {
+				"description": "Humorous expressions",
+				"color": {
+					"red": 255,
+					"green": 42,
+					"blue": 200
+				},
+				"values": [
+					"absurdist humor",
+					"casual and conversational tone",
+					"dark humor",
+					"exaggeration",
+					"facetiousness",
+					"gallows humor",
+					"improvisation",
+					"ironical statements",
+					"irony",
+					"mockery humor",
+					"mustache twirling",
+					"one-liners",
+					"playful wordplay",
+					"pratfalls",
+					"romantic humor",
+					"sarcasm",
+					"self-deprecating humor",
+					"self-mockery humor",
+					"sex humor",
+					"sexual humor",
+					"slapstick",
+					"smartassery",
+					"surreal humor"
+				]
+			}
+		}
+	],
+	"translation": [
+		{
+			"key": "FI_FI",
+			"value": {
+				"data": [
+					{
+						"key": "(Interactions) with",
+						"value": "(Vuorovaikutukset) kanssa"
+					},
+					{
+						"key": "Absurd Concepts",
+						"value": "Absurdeja käsitteitä"
+					},
+					{
+						"key": "Absurd Dialogue",
+						"value": "Absurdi Dialogi"
+					},
+					{
+						"key": "Absurd and Exaggerated Scenarios",
+						"value": "Absurdit ja liioitellut skenaariot"
+					},
+					{
+						"key": "Absurdist",
+						"value": "Absurdistinen"
+					},
+					{
+						"key": "Absurdist Humor",
+						"value": "Absurdia huumoria"
+					},
+					{
+						"key": "Absurdity",
+						"value": "Absurdista"
+					},
+					{
+						"key": "Acting Styles",
+						"value": "Näyttelijätyylit"
+					},
+					{
+						"key": "Angry",
+						"value": "Vihainen"
+					},
+					{
+						"key": "Assertive",
+						"value": "Assertiivinen"
+					},
+					{
+						"key": "Atheistic",
+						"value": "Ateistinen"
+					},
+					{
+						"key": "Baptism of Jesus",
+						"value": "Jeesuksen kaste"
+					},
+					{
+						"key": "Bittersweet",
+						"value": "Katkeransuloinen"
+					},
+					{
+						"key": "Bring up a moral issue",
+						"value": "Tuoda esiin moraalinen aihe"
+					},
+					{
+						"key": "Business",
+						"value": "Liiketoiminnallinen"
+					},
+					{
+						"key": "Caricature",
+						"value": "Karikatyyri"
+					},
+					{
+						"key": "Casual and Conversational Tone",
+						"value": "Rento ja keskusteleva sävy"
+					},
+					{
+						"key": "Challenging",
+						"value": "Haastava"
+					},
+					{
+						"key": "Comedic scenarios",
+						"value": "Komediset tilanteet"
+					},
+					{
+						"key": "Comedic sentences",
+						"value": "Komediset lauseet"
+					},
+					{
+						"key": "Comforting",
+						"value": "Lohduttava"
+					},
+					{
+						"key": "Comic Hyperbole",
+						"value": "Koominen hyperboli"
+					},
+					{
+						"key": "Commanding",
+						"value": "Komentava"
+					},
+					{
+						"key": "Compassion",
+						"value": "Myötätunto"
+					},
+					{
+						"key": "Conflict ia. with Animals ",
+						"value": "Konflikti eläimille"
+					},
+					{
+						"key": "Conflict with someone",
+						"value": "Konflikti jonkun kanssa"
+					},
+					{
+						"key": "Confrontational ia. with God ",
+						"value": "Vastakkainasettelua Jumalaan"
+					},
+					{
+						"key": "Confused",
+						"value": "Hämmentynyt"
+					},
+					{
+						"key": "Contrast and Unexpected Elements",
+						"value": "Kontrasti ja odottamattomat elementit"
+					},
+					{
+						"key": "Conversational ia. with God",
+						"value": "Keskustelua Jumalan kanssa"
+					},
+					{
+						"key": "Creative",
+						"value": "Luova"
+					},
+					{
+						"key": "Crooning",
+						"value": "Kruunaus"
+					},
+					{
+						"key": "Cultural",
+						"value": "Kulttuurillinen"
+					},
+					{
+						"key": "Dark Humor",
+						"value": "Pimeää huumoria"
+					},
+					{
+						"key": "Deadpan Humor",
+						"value": "Kuollut huumori"
+					},
+					{
+						"key": "Desperate",
+						"value": "Epätoivoinen"
+					},
+					{
+						"key": "Devotional ia. with God",
+						"value": "Hartaus Jumalan kanssa"
+					},
+					{
+						"key": "Dialogue between people",
+						"value": "Keskustelu ihmisten välillä"
+					},
+					{
+						"key": "Digital",
+						"value": "Digitaalinen"
+					},
+					{
+						"key": "Direct",
+						"value": "Suorapuheinen"
+					},
+					{
+						"key": "Disappointed",
+						"value": "Pettynyt"
+					},
+					{
+						"key": "Do ",
+						"value": "Do "
+					},
+					{
+						"key": "Dreamy",
+						"value": "Uninen"
+					},
+					{
+						"key": "Earnest",
+						"value": "Todellinen"
+					},
+					{
+						"key": "Emotional",
+						"value": "Tunteellinen"
+					},
+					{
+						"key": "Encouraging",
+						"value": "Kannustava"
+					},
+					{
+						"key": "Exaggeration",
+						"value": "Liioittelu"
+					},
+					{
+						"key": "Exaggeration and Surreal Situations",
+						"value": "Liioittelua ja surrealistisia biisin tilannevaikutuksia"
+					},
+					{
+						"key": "Existential crisis",
+						"value": "Eksistentiaalinen kriisi"
+					},
+					{
+						"key": "Facetiousness",
+						"value": "Hauska nokkelana"
+					},
+					{
+						"key": "Fairness",
+						"value": "Reiluus"
+					},
+					{
+						"key": "Fish-Out-of-Water",
+						"value": "Kala-maalla"
+					},
+					{
+						"key": "Flips of Gender Roles",
+						"value": "Sukupuoliroolien käänteisyys"
+					},
+					{
+						"key": "Flips of Social Constructs",
+						"value": "Sosiaalisten rakenteiden käänteisyys"
+					},
+					{
+						"key": "Forgiveness",
+						"value": "Anteeksiantavaisuus"
+					},
+					{
+						"key": "Gallows Humor",
+						"value": "Musta huumori"
+					},
+					{
+						"key": "Gratitude",
+						"value": "Kiitollisuus"
+					},
+					{
+						"key": "Hammy Acting",
+						"value": "Ylinäyttely"
+					},
+					{
+						"key": "Honesty",
+						"value": "Rehellisyys"
+					},
+					{
+						"key": "Hope for future without immediate action",
+						"value": "Toivo tulevaisuuteen ilman tekoja"
+					},
+					{
+						"key": "Hopeful",
+						"value": "Toiveikas"
+					},
+					{
+						"key": "Humility",
+						"value": "Nöyryys"
+					},
+					{
+						"key": "Humorous expressions",
+						"value": "Humoristiset ilmaisut"
+					},
+					{
+						"key": "Hyperbole",
+						"value": "Hyperbolisuus"
+					},
+					{
+						"key": "I (f)",
+						"value": "minä (n)"
+					},
+					{
+						"key": "I (m)",
+						"value": "minä (m)"
+					},
+					{
+						"key": "Improvisation",
+						"value": "Improvisaatio"
+					},
+					{
+						"key": "Incongruous Pairings of Opposites",
+						"value": "Sopimattomat vastakohtien parit"
+					},
+					{
+						"key": "Incongruous Settings and Environments",
+						"value": "Sopimattomat asetelmat ja ympäristöt"
+					},
+					{
+						"key": "Inquisitive",
+						"value": "Utelias"
+					},
+					{
+						"key": "Insistent",
+						"value": "Itsepintainen"
+					},
+					{
+						"key": "Inspirational",
+						"value": "Inspiroiva"
+					},
+					{
+						"key": "Integrity",
+						"value": "Koskemattomuus"
+					},
+					{
+						"key": "Intellectual",
+						"value": "Älyllinen"
+					},
+					{
+						"key": "Interactions",
+						"value": "Vuorovaikutukset"
+					},
+					{
+						"key": "Ironical statements",
+						"value": "Ironisia lausuntoja"
+					},
+					{
+						"key": "Irony",
+						"value": "Ironia"
+					},
+					{
+						"key": "Isolated",
+						"value": "Eristäytynyt"
+					},
+					{
+						"key": "Judgmental ia. with God ",
+						"value": "Tuomitsevuutta Jumalan kanssa"
+					},
+					{
+						"key": "Juxtaposition",
+						"value": "Vastakkainasettelu"
+					},
+					{
+						"key": "Kindness",
+						"value": "Hyväntahtoisuus"
+					},
+					{
+						"key": "Loyalty",
+						"value": "Lojaalisuus"
+					},
+					{
+						"key": "Making a decision",
+						"value": "Tehdä päätös"
+					},
+					{
+						"key": "Mechanical/Workaround ia. with God",
+						"value": "Huijausyritys Jumalalle"
+					},
+					{
+						"key": "Melancholic",
+						"value": "Melankolinen"
+					},
+					{
+						"key": "Miscommunication and Puns",
+						"value": "Kommunikaatiovirhe ja sanapelit"
+					},
+					{
+						"key": "Mockery",
+						"value": "Pilkkaa"
+					},
+					{
+						"key": "Mockery Humor",
+						"value": "Pilkkaavaa huumoria"
+					},
+					{
+						"key": "Moral interactions",
+						"value": "Moraalinen vuorovaikutus"
+					},
+					{
+						"key": "Moral interactions mode",
+						"value": "Moraalisen vuorovaikutuksen moodi"
+					},
+					{
+						"key": "Mournful",
+						"value": "Valittava"
+					},
+					{
+						"key": "Musical Comedy",
+						"value": "Musikaalikomedia"
+					},
+					{
+						"key": "Mustache Twirling",
+						"value": "Viikset pyörivät"
+					},
+					{
+						"key": "Mutual Antagonism ia.",
+						"value": "Keskinäinen antagonismi"
+					},
+					{
+						"key": "Mutual Respect ia. with Animals ",
+						"value": "Yhteinen kunnioitus eläimille"
+					},
+					{
+						"key": "Negligent ia. with God",
+						"value": "Piittaamattomuus Jumalalle"
+					},
+					{
+						"key": "Neutral",
+						"value": "Neutraali"
+					},
+					{
+						"key": "Nostalgic",
+						"value": "Nostalginen"
+					},
+					{
+						"key": "Oblivious ia. with Angels",
+						"value": "Huomaamattomuus enkeleille"
+					},
+					{
+						"key": "One-liners",
+						"value": "Yksirivinen"
+					},
+					{
+						"key": "Parental ia. with God",
+						"value": "Vanhemmuudesta Jumalan kanssa"
+					},
+					{
+						"key": "Parodical",
+						"value": "Parodinen"
+					},
+					{
+						"key": "Parody",
+						"value": "Parodia"
+					},
+					{
+						"key": "Patience",
+						"value": "Kärsivällisyys"
+					},
+					{
+						"key": "Pensive",
+						"value": "Mietteliäs"
+					},
+					{
+						"key": "Perilious choices leads to a better outcome",
+						"value": "Vaaralliset valinnat johtavat parempaan lopputulokseen"
+					},
+					{
+						"key": "Personal",
+						"value": "Henkilökohtainen"
+					},
+					{
+						"key": "Physical Comedy",
+						"value": "Fyysinen komedia"
+					},
+					{
+						"key": "Pity",
+						"value": "Säälivä"
+					},
+					{
+						"key": "Play-on-Words",
+						"value": "Leikkimistä sanoilla"
+					},
+					{
+						"key": "Playful",
+						"value": "Leikkisä"
+					},
+					{
+						"key": "Playful Wordplay",
+						"value": "Leikkisää sutkauttelua"
+					},
+					{
+						"key": "Playful ia. with Angels",
+						"value": "Leikkisää enkeleille"
+					},
+					{
+						"key": "Playful ia. with God",
+						"value": "Leikkisyys Jumalalle"
+					},
+					{
+						"key": "Playful ia. with Nature",
+						"value": "Leikkisyys luonnolle"
+					},
+					{
+						"key": "Playful ia. with Personified Deities ",
+						"value": "Leikkisyys persoona-ylimyksillä"
+					},
+					{
+						"key": "Playful ia. with Spirits ",
+						"value": "Leikkisyys hengille"
+					},
+					{
+						"key": "Playful ia. with the Dead ",
+						"value": "Leikkisyys kuolleille"
+					},
+					{
+						"key": "Playing With Expectations",
+						"value": "Odotuksilla leikkiminen"
+					},
+					{
+						"key": "Pleading",
+						"value": "Vetoava"
+					},
+					{
+						"key": "Poignant",
+						"value": "Koskettava"
+					},
+					{
+						"key": "Political",
+						"value": "Poliittinen"
+					},
+					{
+						"key": "Pratfalls",
+						"value": "Pyllähdys"
+					},
+					{
+						"key": "Pronouns",
+						"value": "Pronominit"
+					},
+					{
+						"key": "Props and Characters that are Unusual",
+						"value": "Rekvisiitta ja hahmot, jotka ovat epätavallisia"
+					},
+					{
+						"key": "Pun",
+						"value": "Sanaleikki"
+					},
+					{
+						"key": "Puns",
+						"value": "Sanaleikit"
+					},
+					{
+						"key": "Quasi-Moral Behavioural ia. ",
+						"value": "Eettisyys peitetty moralismina"
+					},
+					{
+						"key": "Quirky Characters",
+						"value": "Omituisia hahmoja"
+					},
+					{
+						"key": "Reflection",
+						"value": "Heijastus"
+					},
+					{
+						"key": "Religious",
+						"value": "Uskonnollinen"
+					},
+					{
+						"key": "Religiously moral",
+						"value": "Uskonnollis-moraalinen"
+					},
+					{
+						"key": "Repetition of Unusual Themes",
+						"value": "Epätavallisten teemojen toistoa"
+					},
+					{
+						"key": "Repetitive Actions and Situations",
+						"value": "Toistuvat toiminnot ja tilanteet"
+					},
+					{
+						"key": "Requesting for confirmation",
+						"value": "Hyväksymistä pyytävä"
+					},
+					{
+						"key": "Respect",
+						"value": "Kunnioitus"
+					},
+					{
+						"key": "Responsibility",
+						"value": "Vastuullisuus"
+					},
+					{
+						"key": "Restrained",
+						"value": "Hillitty"
+					},
+					{
+						"key": "Reverential ia. with God",
+						"value": "Kunnioittavaa Jumalalle"
+					},
+					{
+						"key": "Role Reversal",
+						"value": "Roolien vaihto"
+					},
+					{
+						"key": "Romantic",
+						"value": "Romanttinen"
+					},
+					{
+						"key": "Romantic Humor",
+						"value": "Romanttista huumoria"
+					},
+					{
+						"key": "Sad",
+						"value": "Surullinen"
+					},
+					{
+						"key": "Sarcasm",
+						"value": "Sarkasmia"
+					},
+					{
+						"key": "Sarcastic",
+						"value": "Sarkastinen"
+					},
+					{
+						"key": "Satire",
+						"value": "Satiiri"
+					},
+					{
+						"key": "Satirical",
+						"value": "Satiirinen"
+					},
+					{
+						"key": "Self-Deprecating",
+						"value": "Itse-vähättely"
+					},
+					{
+						"key": "Self-Deprecating Humor",
+						"value": "Itseä vähättelevää huumoria"
+					},
+					{
+						"key": "Self-Deprecation",
+						"value": "Itse-vähättely"
+					},
+					{
+						"key": "Self-Mockery",
+						"value": "Itse-pilkkaa"
+					},
+					{
+						"key": "Self-Mockery Humor",
+						"value": "Itseä pilkkaavaa huumoria"
+					},
+					{
+						"key": "Serious",
+						"value": "Vakava"
+					},
+					{
+						"key": "Serious tone but humorous expectation",
+						"value": "Vakava sävy, mutta humoristinen odotus"
+					},
+					{
+						"key": "Sex Humor",
+						"value": "Seksi huumoria"
+					},
+					{
+						"key": "Sexual",
+						"value": "Seksuaalinen"
+					},
+					{
+						"key": "Sexual Humor",
+						"value": "Seksuaalista"
+					},
+					{
+						"key": "Sight Gags",
+						"value": "Visuaalinen vitsi"
+					},
+					{
+						"key": "Silliness",
+						"value": "Tyhmyys"
+					},
+					{
+						"key": "Situational",
+						"value": "Tilannekohtainen"
+					},
+					{
+						"key": "Situational Irony",
+						"value": "Tilanneironia"
+					},
+					{
+						"key": "Slapstick",
+						"value": "Kermakakku"
+					},
+					{
+						"key": "Smartassery",
+						"value": "Näsäviivasus"
+					},
+					{
+						"key": "Social",
+						"value": "Sosiaalisuus"
+					},
+					{
+						"key": "Social Commentary",
+						"value": "Sosiaalinen kommentti"
+					},
+					{
+						"key": "Somber",
+						"value": "Synkkä"
+					},
+					{
+						"key": "Spiritual ia. with Animals",
+						"value": "Henkisyys eläimille"
+					},
+					{
+						"key": "Subversion of Expectations",
+						"value": "Odotusten kumoaminen"
+					},
+					{
+						"key": "Suggesting actions and not just thoughts",
+						"value": "Ehdottaa toimia, eikä vain ajatuksia"
+					},
+					{
+						"key": "Suggests a sense of obligation to have",
+						"value": "Muistuttaa velvollisuudentunteesta"
+					},
+					{
+						"key": "Suggests lightheartedness",
+						"value": "Suosittelee kevytmielisyyttä"
+					},
+					{
+						"key": "Supernatural ia. with Angels ",
+						"value": "Yliluonnollisuus enkeleille"
+					},
+					{
+						"key": "Surreal Humor",
+						"value": "Surreaalista huumoria"
+					},
+					{
+						"key": "Sympathetic ia. with God ",
+						"value": "Sympaattisuus Jumalalle"
+					},
+					{
+						"key": "Taking a risk",
+						"value": "Ottaa riski"
+					},
+					{
+						"key": "Tones",
+						"value": "Sävyt"
+					},
+					{
+						"key": "Topical",
+						"value": "Ajankohtaista"
+					},
+					{
+						"key": "Tragedy Mocks Success",
+						"value": "Tragedia pilkkaa menestystä"
+					},
+					{
+						"key": "Transcendental ia. with God ",
+						"value": "Yliluonnollisuus Jumalalle"
+					},
+					{
+						"key": "Trust",
+						"value": "Luottaminen"
+					},
+					{
+						"key": "Trustful ia. with Angels ",
+						"value": "Luottavaisuus enkeleille"
+					},
+					{
+						"key": "Types of dramatic scenarios",
+						"value": "Dramaattisten skenaarioiden tyypit"
+					},
+					{
+						"key": "Types of sentences",
+						"value": "Lausetyypit"
+					},
+					{
+						"key": "Unexpected Combinations",
+						"value": "Odottamattomia yhdistelmiä"
+					},
+					{
+						"key": "Unexpected comparison between two",
+						"value": "Odottamaton vertailu kahden välillä"
+					},
+					{
+						"key": "Unexpected emotional reaction to treatment received from others",
+						"value": "Odottamaton tunnereaktio muilta saatuun kohteluun"
+					},
+					{
+						"key": "Unexpected turning of a negative thing into a positive",
+						"value": "Odottamaton negatiivisen asian kääntö positiiviseksi"
+					},
+					{
+						"key": "Unexpected turning of a positive thing into negativity",
+						"value": "Odottamaton positiivisisen asian kääntö negatiivisuudeksi"
+					},
+					{
+						"key": "Unexpected use of opposites",
+						"value": "Odottamaton vastakohtien käyttäminen"
+					},
+					{
+						"key": "Unknowing",
+						"value": "Tietämätön"
+					},
+					{
+						"key": "Uplifting",
+						"value": "Ilmapiiriä piristävä"
+					},
+					{
+						"key": "Usage of Unexpected Symbolism",
+						"value": "Odottamattoman symbolismin käyttö"
+					},
+					{
+						"key": "Using an abstract concept",
+						"value": "Abstraktin konseptin käyttäminen"
+					},
+					{
+						"key": "Utilization of Unconventional Format",
+						"value": "Epätavanomaisen muodollisuuden käyttö"
+					},
+					{
+						"key": "Virtual",
+						"value": "Virtuaalinen"
+					},
+					{
+						"key": "Voiceover Tones",
+						"value": "Selostuksen sävyt"
+					},
+					{
+						"key": "Warbling",
+						"value": "Kiertelevä"
+					},
+					{
+						"key": "Wistful",
+						"value": "Haikea"
+					},
+					{
+						"key": "Wordplay",
+						"value": "Sutkautus"
+					},
+					{
+						"key": "Working Against Cliche",
+						"value": "Työskentelee kliseitä vastaan"
+					},
+					{
+						"key": "a character's inner struggle",
+						"value": "hahmon sisäinen kamppailu"
+					},
+					{
+						"key": "a crime",
+						"value": "rikos"
+					},
+					{
+						"key": "a difficult decision",
+						"value": "vaikea päätös"
+					},
+					{
+						"key": "a family in deep debt",
+						"value": "syvässä velassa oleva perhe"
+					},
+					{
+						"key": "a forbidden romance",
+						"value": "kielletty romanssi"
+					},
+					{
+						"key": "a marriage in crisis",
+						"value": "avioliitto kriisissä"
+					},
+					{
+						"key": "a moral dilemma",
+						"value": "moraalinen dilemma"
+					},
+					{
+						"key": "a personal betrayal",
+						"value": "henkilökohtainen petos"
+					},
+					{
+						"key": "a redemption story",
+						"value": "lunastustarina"
+					},
+					{
+						"key": "a risk",
+						"value": "riski"
+					},
+					{
+						"key": "a serious illness",
+						"value": "vakava sairaus"
+					},
+					{
+						"key": "affirmative",
+						"value": "myöntävä"
+					},
+					{
+						"key": "aggressive",
+						"value": "aggressiivinen"
+					},
+					{
+						"key": "altruism",
+						"value": "epäitsekkyys"
+					},
+					{
+						"key": "an addiction",
+						"value": "riippuvuus"
+					},
+					{
+						"key": "animal",
+						"value": "eläin"
+					},
+					{
+						"key": "art",
+						"value": "taide"
+					},
+					{
+						"key": "ask open ended question about",
+						"value": "kysyä avoin kysymys"
+					},
+					{
+						"key": "assured",
+						"value": "vakuuttunut"
+					},
+					{
+						"key": "bar",
+						"value": "baari"
+					},
+					{
+						"key": "beach",
+						"value": "ranta"
+					},
+					{
+						"key": "bold",
+						"value": "ylpeän rohkea"
+					},
+					{
+						"key": "boy",
+						"value": "poika"
+					},
+					{
+						"key": "broody",
+						"value": "mielessään hautova"
+					},
+					{
+						"key": "car",
+						"value": "auto"
+					},
+					{
+						"key": "casual",
+						"value": "rento"
+					},
+					{
+						"key": "challenges assumptions about",
+						"value": "haastaa oletuksia"
+					},
+					{
+						"key": "confident",
+						"value": "itsevarma"
+					},
+					{
+						"key": "conflicts between cultures",
+						"value": "kulttuurien välisiä konflikteja"
+					},
+					{
+						"key": "contrasting",
+						"value": "kontrastinen"
+					},
+					{
+						"key": "conversational",
+						"value": "keskusteleva"
+					},
+					{
+						"key": "day",
+						"value": "päivä"
+					},
+					{
+						"key": "declarative",
+						"value": "toteava"
+					},
+					{
+						"key": "deep",
+						"value": "syvällinen"
+					},
+					{
+						"key": "detail focus",
+						"value": "yksityiskohtainen"
+					},
+					{
+						"key": "determined",
+						"value": "päättäväinen"
+					},
+					{
+						"key": "devious",
+						"value": "kavala"
+					},
+					{
+						"key": "dramatic",
+						"value": "dramaattinen"
+					},
+					{
+						"key": "educating",
+						"value": "opettava"
+					},
+					{
+						"key": "embracing fate",
+						"value": "kohtalon haltuunotto"
+					},
+					{
+						"key": "emphasize someone's",
+						"value": "korostaa jonkun"
+					},
+					{
+						"key": "energetic",
+						"value": "energinen"
+					},
+					{
+						"key": "enthusiastic",
+						"value": "paneutunut"
+					},
+					{
+						"key": "every",
+						"value": "joka"
+					},
+					{
+						"key": "everyone",
+						"value": "jokainen"
+					},
+					{
+						"key": "excited",
+						"value": "innostunut"
+					},
+					{
+						"key": "facing mortality",
+						"value": "kuolevaisuuden edessä"
+					},
+					{
+						"key": "father",
+						"value": "isä"
+					},
+					{
+						"key": "fighting against the odds",
+						"value": "kamppailua vastaan"
+					},
+					{
+						"key": "forest",
+						"value": "metsä"
+					},
+					{
+						"key": "friend",
+						"value": "kaveri"
+					},
+					{
+						"key": "friends",
+						"value": "kaverit"
+					},
+					{
+						"key": "funny",
+						"value": "hauska"
+					},
+					{
+						"key": "gentle",
+						"value": "lempeä"
+					},
+					{
+						"key": "girl",
+						"value": "tyttö"
+					},
+					{
+						"key": "give feedback on",
+						"value": "antaa palautetta"
+					},
+					{
+						"key": "he",
+						"value": "hän (m)"
+					},
+					{
+						"key": "husband",
+						"value": "aviomies"
+					},
+					{
+						"key": "imperative",
+						"value": "käskevä"
+					},
+					{
+						"key": "implying urgency",
+						"value": "kiirellisyyttä huokuva"
+					},
+					{
+						"key": "interrogative",
+						"value": "kyselevä"
+					},
+					{
+						"key": "judgement",
+						"value": "tuomitsevuus"
+					},
+					{
+						"key": "laid-back",
+						"value": "rento"
+					},
+					{
+						"key": "light-hearted",
+						"value": "hilpeä"
+					},
+					{
+						"key": "love",
+						"value": "rakkaus"
+					},
+					{
+						"key": "man",
+						"value": "mies"
+					},
+					{
+						"key": "mellow",
+						"value": "täyteläinen"
+					},
+					{
+						"key": "mischievous",
+						"value": "ilkikurinen"
+					},
+					{
+						"key": "moment",
+						"value": "hetki"
+					},
+					{
+						"key": "mother",
+						"value": "äiti"
+					},
+					{
+						"key": "motivating",
+						"value": "motivoiva"
+					},
+					{
+						"key": "music",
+						"value": "musiikki"
+					},
+					{
+						"key": "my",
+						"value": "minun"
+					},
+					{
+						"key": "mysterious",
+						"value": "salaperäinen"
+					},
+					{
+						"key": "natural",
+						"value": "luonnollinen"
+					},
+					{
+						"key": "nature",
+						"value": "luonto"
+					},
+					{
+						"key": "navigation in life",
+						"value": "navigointia elämässä"
+					},
+					{
+						"key": "night",
+						"value": "yö"
+					},
+					{
+						"key": "night club",
+						"value": "yökerho"
+					},
+					{
+						"key": "nostalgic",
+						"value": "nostalginen"
+					},
+					{
+						"key": "observations",
+						"value": "havainnot"
+					},
+					{
+						"key": "one",
+						"value": "yksi"
+					},
+					{
+						"key": "optimistic",
+						"value": "optimistinen"
+					},
+					{
+						"key": "passionate",
+						"value": "intohimoinen"
+					},
+					{
+						"key": "passive",
+						"value": "passiivi"
+					},
+					{
+						"key": "path in forest",
+						"value": "polku metsässä"
+					},
+					{
+						"key": "person",
+						"value": "ihminen"
+					},
+					{
+						"key": "plural you",
+						"value": "te"
+					},
+					{
+						"key": "plural you (f)",
+						"value": "te (n)"
+					},
+					{
+						"key": "plural you (m)",
+						"value": "te (m)"
+					},
+					{
+						"key": "political unrest",
+						"value": "poliittinen levottomuus"
+					},
+					{
+						"key": "powerful",
+						"value": "voimakas"
+					},
+					{
+						"key": "promote someone's",
+						"value": "promote someone's"
+					},
+					{
+						"key": "questioning",
+						"value": "kyseenalaistaa"
+					},
+					{
+						"key": "questions",
+						"value": "kysymyksiä"
+					},
+					{
+						"key": "racism and discrimination",
+						"value": "rasismia ja syrjintää"
+					},
+					{
+						"key": "reflective",
+						"value": "reflektoiva"
+					},
+					{
+						"key": "resilience",
+						"value": "sitkeys"
+					},
+					{
+						"key": "restaurant",
+						"value": "ravintola"
+					},
+					{
+						"key": "right to privacy",
+						"value": "Oikeus yksityisyyteen"
+					},
+					{
+						"key": "river",
+						"value": "joki"
+					},
+					{
+						"key": "road",
+						"value": "tie"
+					},
+					{
+						"key": "sarcastic",
+						"value": "sarkastinen"
+					},
+					{
+						"key": "sea",
+						"value": "meri"
+					},
+					{
+						"key": "seductive",
+						"value": "viettelevä"
+					},
+					{
+						"key": "she",
+						"value": "hän (n)"
+					},
+					{
+						"key": "singular pronoun",
+						"value": "yksikköpronomini"
+					},
+					{
+						"key": "sophisticated",
+						"value": "hienostunut"
+					},
+					{
+						"key": "spiritual meaningfulness",
+						"value": "henkinen merkityksellisyys"
+					},
+					{
+						"key": "statements",
+						"value": "lausunnot"
+					},
+					{
+						"key": "stranger",
+						"value": "muukalainen"
+					},
+					{
+						"key": "strength",
+						"value": "vahvuus"
+					},
+					{
+						"key": "suggestive",
+						"value": "ehdottava"
+					},
+					{
+						"key": "support someone's",
+						"value": "tukea jonkun"
+					},
+					{
+						"key": "technology",
+						"value": "teknologia"
+					},
+					{
+						"key": "that",
+						"value": "se"
+					},
+					{
+						"key": "themes around",
+						"value": "teemoja asian ympäriltä"
+					},
+					{
+						"key": "they",
+						"value": "he"
+					},
+					{
+						"key": "they (f)",
+						"value": "he (n)"
+					},
+					{
+						"key": "they (m)",
+						"value": "he (m)"
+					},
+					{
+						"key": "think about your own",
+						"value": "miettiä omaa"
+					},
+					{
+						"key": "to bring up your own",
+						"value": "tuoda esiin omaa"
+					},
+					{
+						"key": "to give encouragement of strength",
+						"value": "rohkaista"
+					},
+					{
+						"key": "to invite a discussion about",
+						"value": "kutsua keskusteluun"
+					},
+					{
+						"key": "tragic death",
+						"value": "traaginen kuolema"
+					},
+					{
+						"key": "train",
+						"value": "juna"
+					},
+					{
+						"key": "understand someone else's",
+						"value": "ymmärtää jonkun toisen"
+					},
+					{
+						"key": "we",
+						"value": "me"
+					},
+					{
+						"key": "we (f)",
+						"value": "me (n)"
+					},
+					{
+						"key": "we (m)",
+						"value": "me (m)"
+					},
+					{
+						"key": "wife",
+						"value": "vaimo"
+					},
+					{
+						"key": "wistful",
+						"value": "haikea"
+					},
+					{
+						"key": "witty",
+						"value": "nokkela"
+					},
+					{
+						"key": "woman",
+						"value": "nainen"
+					},
+					{
+						"key": "you (f)",
+						"value": "sinä (n)"
+					},
+					{
+						"key": "you (m)",
+						"value": "sinä (m)"
+					},
+					{
+						"key": "your",
+						"value": "sinun"
+					}
+				]
+			}
+		}
+	]
+}

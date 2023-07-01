@@ -2,6 +2,42 @@
 #define _AI_Tool_Data_h_
 
 struct Grouplist {
+	struct Translation : Moveable<Translation> {
+		VectorMap<String, String> data;
+		
+		Translation& Add(String key, String value) {data.GetAdd(key) = value; return *this;}
+		void Jsonize(JsonIO& json) {
+			if (json.IsStoring())
+				SortByKey(data, StdLess<String>());
+			json
+				("data", data)
+				;
+		}
+	};
+	
+	struct Group : Moveable<Group> {
+		Vector<String> values;
+		Color clr;
+		String description;
+		
+		Group& SetDescription(String s) {description = s; return *this;}
+		Group& SetColor(Color c) {clr = c; return *this;}
+		Group& SetColor(int r, int g, int b) {clr = Color(r,g,b); return *this;}
+		Group& operator<<(String s) {values.Add(s); return *this;}
+		void Jsonize(JsonIO& json) {
+			if (json.IsStoring())
+				Sort(values, StdLess<String>());
+			json
+				("description", description)
+				("color", clr)
+				("values", values)
+				;
+		}
+		
+	};
+	VectorMap<String, Group> groups;
+	VectorMap<String, Translation> translation;
+	
 	Vector<String> pronouns;
 	Vector<String> elements;
 	Vector<String> interactions;
@@ -58,6 +94,15 @@ struct Grouplist {
 	
 	
 	Grouplist();
+	
+	void StoreJson();
+	void Jsonize(JsonIO& json) {
+		json
+			("groups", groups)
+			("translation", translation)
+			;
+	}
+	
 };
 
 struct DataFile {
@@ -466,6 +511,7 @@ struct Database {
 	String GetPatternsDir() const;
 	String GetCompositionsDir() const;
 	String GetAnalysesDir() const;
+	String GetAttributesDir() const;
 	
 	static Database& Single() {static Database db; return db;}
 	

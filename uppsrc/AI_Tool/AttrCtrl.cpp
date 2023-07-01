@@ -100,11 +100,11 @@ void AttrCtrl::Paint(Draw& d) {
 	*/
 	
 	int tab;
-	int div = 7;
+	int div = 8;
 	int cy, cx = sz.cx / div;
 	float h;
 	
-	int font_h = 0.75 * (float)sz.cy / (g.acting_styles.GetCount() + g.tones.GetCount() + g.dramatic_scenarios.GetCount());
+	int font_h = 0.5 * (float)sz.cy / (g.acting_styles.GetCount() + g.dramatic_scenarios.GetCount());
 	Font fnt = SansSerif(font_h);
 	
 	rects.SetCount(0);
@@ -122,7 +122,7 @@ void AttrCtrl::Paint(Draw& d) {
 	PaintKeys(d, t_("Moral interactions mode"), g.moral_interaction_modes, g.moral_interaction_modes_clr, tab * cx, cx, cy, h, fnt, g.MORAL_IA_MODE);
 	
 	cy = 0;
-	h = (float)sz.cy / (3 + g.types_of_sentences.GetCount() + g.elements.GetCount() + g.moral_interactions.GetCount());
+	h = (float)sz.cy / (3 + g.types_of_sentences.GetCount() + g.elements.GetCount() + g.religious_moral_interactions.GetCount());
 	tab++;
 	PaintKeys(d, t_("Types of sentences"), g.types_of_sentences, g.types_of_sentences_clr, tab * cx, cx, cy, h, fnt, g.TYPES_OF_SENT);
 	PaintKeys(d, t_("Contrast and Unexpected Elements"), g.elements, g.elements_clr, tab * cx, cx, cy, h, fnt, g.ELEMENTS);
@@ -136,10 +136,14 @@ void AttrCtrl::Paint(Draw& d) {
 	
 	cy = 0;
 	tab++;
-	h = (float)sz.cy / (3 + g.acting_styles.GetCount() + g.tones.GetCount() + g.dramatic_scenarios.GetCount());
+	h = (float)sz.cy / (3 + g.acting_styles.GetCount() + g.dramatic_scenarios.GetCount());
 	PaintKeys(d, t_("Acting Styles"), g.acting_styles, g.acting_styles_clr, tab * cx, cx, cy, h, fnt, g.ACTING_STYLES);
-	PaintKeys(d, t_("Tones"), g.tones, g.tones_clr, tab * cx, cx, cy, h, fnt, g.TONES);
 	PaintKeys(d, t_("Types of dramatic scenarios"), g.dramatic_scenarios, g.dramatic_scenarios_clr, tab * cx, cx, cy, h, fnt, g.DRAMATIC_SCEN);
+	
+	cy = 0;
+	tab++;
+	h = (float)sz.cy / (1 + g.tones.GetCount());
+	PaintKeys(d, t_("Tones"), g.tones, g.tones_clr, tab * cx, cx, cy, h, fnt, g.TONES);
 	
 	cy = 0;
 	tab++;

@@ -292,6 +292,12 @@ ToolApp::ToolApp() {
 	db.Load();
 	
 	PostCallback(THISBACK(Data));
+	
+	
+	
+	db.groups.StoreJson();
+	Exit(1);
+	
 }
 
 ToolApp::~ToolApp() {

@@ -216,6 +216,30 @@ fiFI("ihminen")
 T_("that")
 fiFI("se")
 
+T_("every")
+fiFI("joka")
+
+T_("day")
+fiFI("p\303\244iv\303\244")
+
+T_("night")
+fiFI("y\303\266")
+
+T_("love")
+fiFI("rakkaus")
+
+T_("moment")
+fiFI("hetki")
+
+T_("passive")
+fiFI("passiivi")
+
+T_("my")
+fiFI("minun")
+
+T_("your")
+fiFI("sinun")
+
 T_("Exaggeration and Surreal Situations")
 fiFI("Liioittelua ja surrealistisia biisin tilannevaikutuksia")
 
@@ -276,6 +300,9 @@ fiFI("Vakava s\303\244vy, mutta humoristinen odotus")
 T_("Unexpected emotional reaction to treatment received from others")
 fiFI("Odottamaton tunnereaktio muilta saatuun kohteluun")
 
+T_("Unexpected use of opposites")
+fiFI("Odottamaton vastakohtien k\303\244ytt\303\244minen")
+
 T_("Respect")
 fiFI("Kunnioitus")
 
@@ -333,6 +360,9 @@ fiFI("tuomitsevuus")
 T_("altruism")
 fiFI("ep\303\244itsekkyys")
 
+T_("navigation in life")
+fiFI("navigointia el\303\244m\303\244ss\303\244")
+
 T_("promote")
 fiFI("per\303\244\303\244nkuuluttaa")
 
@@ -372,8 +402,11 @@ fiFI("kyseenalaistaa")
 T_("themes around")
 fiFI("teemoja asian ymp\303\244rilt\303\244")
 
-T_("Suggests a sense of obligation to have ")
+T_("Suggests a sense of obligation to have")
 fiFI("Muistuttaa velvollisuudentunteesta")
+
+T_("Do")
+fiFI("Tehd\303\244")
 
 T_("Playful ia. with God")
 fiFI("Leikkisyys Jumalalle")
@@ -447,6 +480,9 @@ fiFI("Yhteinen kunnioitus el\303\244imille")
 T_("Spiritual ia. with Animals")
 fiFI("Henkisyys el\303\244imille")
 
+T_("Baptism of Jesus")
+fiFI("Jeesuksen kaste")
+
 T_("Social")
 fiFI("Sosiaalisuus")
 
@@ -500,6 +536,18 @@ fiFI("Ehdottaa toimia, eik\303\244 vain ajatuksia")
 
 T_("Dialogue between people")
 fiFI("Keskustelu ihmisten v\303\244lill\303\244")
+
+T_("Personal")
+fiFI("Henkil\303\266kohtainen")
+
+T_("Personal")
+fiFI("Henkil\303\266kohtainen")
+
+T_("Making a decision")
+fiFI("Tehd\303\244 p\303\244\303\244t\303\266s")
+
+T_("Taking a risk")
+fiFI("Ottaa riski")
 
 T_("man")
 fiFI("mies")
@@ -624,6 +672,9 @@ fiFI("hilpe\303\244")
 T_("broody")
 fiFI("mieless\303\244\303\244n hautova")
 
+T_("bold")
+fiFI("ylpe\303\244n rohkea")
+
 T_("Melancholic")
 fiFI("Melankolinen")
 
@@ -725,6 +776,12 @@ fiFI("Haastava")
 
 T_("Encouraging")
 fiFI("Kannustava")
+
+T_("Neutral")
+fiFI("Neutraali")
+
+T_("Poignant")
+fiFI("Koskettava")
 
 T_("casual")
 fiFI("rento")
@@ -911,6 +968,9 @@ fiFI("Tuoda esiin moraalinen aihe")
 
 T_("Existential crisis")
 fiFI("Eksistentiaalinen kriisi")
+
+T_("Perilious choices leads to a better outcome")
+fiFI("Vaaralliset valinnat johtavat parempaan lopputulokseen")
 
 T_("observations")
 fiFI("havainnot")
