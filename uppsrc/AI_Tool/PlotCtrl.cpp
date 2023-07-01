@@ -148,7 +148,7 @@ void Plotter::Paint(Draw& d) {
 	
 	{
 		d.DrawText(3,3,part_key,fnt,txt_clr);
-		d.DrawText(3,13, !mode ? "absolute value" : "accumulated value",fnt,txt_clr);
+		d.DrawText(3,13, !mode ? t_("absolute value") : t_("accumulated value"), fnt,txt_clr);
 	}
 	
 	// Accumulated value mode

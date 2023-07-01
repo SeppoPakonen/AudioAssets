@@ -159,20 +159,17 @@ fiFI("Pisteytys")
 T_("Load active pattern")
 fiFI("Lataa aktiivinen kaavio")
 
-T_("Add preset")
-fiFI("Lis\303\244\303\244 esiasetus")
-
 
 // App.cpp
 
 T_("Main")
 fiFI("Etusivu")
 
-T_("Analysis")
-fiFI("Analyysi")
-
 T_("Attribute score")
 fiFI("Ominaisuuden pisteet")
+
+T_("Analysis")
+fiFI("Analyysi")
 
 T_("App")
 fiFI("Ohjelma")
@@ -229,6 +226,61 @@ T_("Entry '%s' exists already")
 fiFI("Merkint\303\244 '%s' on jo olemassa")
 
 
+// PlotCtrl.cpp
+
+T_("absolute value")
+fiFI("absoluuttinen arvo")
+
+T_("accumulated value")
+fiFI("kertynyt arvo")
+
+T_("Mood: joyful/melancholic")
+fiFI("")
+
+T_("Mood: playful/serious")
+fiFI("")
+
+T_("Mood: uplifting/heavy")
+fiFI("")
+
+T_("Mood: lighthearted/somber")
+fiFI("")
+
+T_("Mood: humorous/dramatic")
+fiFI("")
+
+T_("Social: authoritarian/liberatrian")
+fiFI("")
+
+T_("Economic: liberal/conservative")
+fiFI("")
+
+T_("Culture: individualism/collective")
+fiFI("")
+
+T_("Human strength: strong/weak")
+fiFI("")
+
+T_("Motivation: rewarding/punishing")
+fiFI("")
+
+T_("Sexualization: sexual/non-sexual")
+fiFI("")
+
+T_("Attitude: hopeful/despair")
+fiFI("")
+
+T_("Attitude: optimistic/pessimistic")
+fiFI("")
+
+T_("Attitude: open/closed")
+fiFI("")
+
+T_("Beliefs: spiritual/secular")
+fiFI("")
+
+T_("Expectations: perfection/acceptance")
+fiFI("")
 
 
 // ScoreCtrl.cpp
@@ -250,6 +302,9 @@ fiFI("Koko kappale")
 
 
 // Obsolete
+
+T_("Add preset")
+fiFI("Lis\303\244\303\244 esiasetus")
 
 T_("I (m)")
 fiFI("min\303\244 (m)")

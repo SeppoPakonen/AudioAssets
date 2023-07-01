@@ -118,7 +118,7 @@ void ScoreCtrl::DataScores() {
 	part_list.SetCount(o.unique_parts.GetCount() + 1);
 	part_list.Set(0, 0, t_("Whole song"));
 	for(int i = 0; i < o.unique_parts.GetCount(); i++) {
-		part_list.Set(1+i, 0, o.unique_parts.GetKey(i));
+		part_list.Set(1+i, 0, db.groups.Translate(o.unique_parts.GetKey(i)));
 	}
 	if (!part_list.IsCursor() && part_list.GetCount())
 		part_list.SetCursor(0);
