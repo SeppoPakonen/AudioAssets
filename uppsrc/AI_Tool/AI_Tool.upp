@@ -22,7 +22,9 @@ file
 	PatternCtrl.h,
 	PatternCtrl.cpp,
 	AttrCtrl.h,
-	AttrCtrl.cpp;
+	AttrCtrl.cpp,
+	PlotCtrl.h,
+	PlotCtrl.cpp;
 
 mainconfig
 	"" = "GUI";

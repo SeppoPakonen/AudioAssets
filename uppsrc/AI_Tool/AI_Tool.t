@@ -154,7 +154,64 @@ T_("Reload Structure")
 fiFI("Uudelleenlataa rakenne")
 
 
-// Data.cpp
+// App.cpp
+
+T_("Main")
+fiFI("Etusivu")
+
+T_("Analysis")
+fiFI("Analyysi")
+
+T_("App")
+fiFI("Ohjelma")
+
+T_("Save")
+fiFI("Tallenna")
+
+T_("Exit")
+fiFI("Poistu")
+
+T_("View")
+fiFI("N\303\244kym\303\244")
+
+T_("Move to owner")
+fiFI("Siirry omistajaan")
+
+
+// PatternCtrl.cpp
+
+T_("Position")
+fiFI("Kohta")
+
+
+// AttrCtrl.cpp
+
+T_("Add group")
+fiFI("Lis\303\244\303\244 ryhm\303\244")
+
+T_("Add entry to group '%s'")
+fiFI("Lis\303\244\303\244 merkint\303\244 ryhm\303\244\303\244n '%s'")
+
+T_("Translation of the group")
+fiFI("K\303\244\303\244nn\303\266s ryhm\303\244lle")
+
+T_("Group's translation")
+fiFI("Ryhm\303\244n k\303\244\303\244nn\303\266s")
+
+T_("Group '%s' exists already")
+fiFI("Ryhm\303\244 '%s' on jo olemassa")
+
+T_("Translation of the entry")
+fiFI("K\303\244\303\244nn\303\266s merkinn\303\244lle")
+
+T_("Entry's translation")
+fiFI("Merkinn\303\244n k\303\244\303\244nn\303\266s")
+
+T_("Entry '%s' exists already")
+fiFI("Merkint\303\244 '%s' on jo olemassa")
+
+
+// Obsolete
 
 T_("I (m)")
 fiFI("min\303\244 (m)")
@@ -536,9 +593,6 @@ fiFI("Ehdottaa toimia, eik\303\244 vain ajatuksia")
 
 T_("Dialogue between people")
 fiFI("Keskustelu ihmisten v\303\244lill\303\244")
-
-T_("Personal")
-fiFI("Henkil\303\266kohtainen")
 
 T_("Personal")
 fiFI("Henkil\303\266kohtainen")
@@ -1125,36 +1179,6 @@ fiFI("Viikset py\303\266riv\303\244t")
 T_("Pratfalls")
 fiFI("Pyll\303\244hdys")
 
-
-// App.cpp
-
-T_("Main")
-fiFI("Etusivu")
-
-T_("Analysis")
-fiFI("Analyysi")
-
-T_("App")
-fiFI("Ohjelma")
-
-T_("Save")
-fiFI("Tallenna")
-
-T_("Exit")
-fiFI("Poistu")
-
-T_("View")
-fiFI("N\303\244kym\303\244")
-
-T_("Move to owner")
-fiFI("Siirry omistajaan")
-
-
-// PatternCtrl.cpp
-
-T_("Position")
-fiFI("Kohta")
-
 T_("Pronouns")
 fiFI("Pronominit")
 
@@ -1197,14 +1221,8 @@ fiFI("Komediset tilanteet")
 T_("Humorous expressions")
 fiFI("Humoristiset ilmaisut")
 
-
-// AttrCtrl.cpp
-
 T_("Moral interactions mode")
 fiFI("Moraalisen vuorovaikutuksen moodi")
-
-
-// Obsolete
 
 T_("Promoting strength")
 fiFI("Per\303\244\303\244nkuuluttaa vahvuutta")

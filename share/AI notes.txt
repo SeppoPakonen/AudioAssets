@@ -1,0 +1,51 @@
+List of axes:
+Mood: joyful/melancholic
+Mood: playful/serious
+Mood: uplifting/heavy
+Mood: lighthearted/somber
+Mood: humorous/dramatic
+Social: authoritarian/liberatrian
+Economic: liberal/conservative
+Culture: individualism/collective
+Human strength: strong/weak
+Motivation: rewarding/punishing
+Sexualization: sexual/non-sexual
+Attitude: hopeful/despair
+Attitude: optimistic/pessimistic
+Attitude: open/closed
+Beliefs: spiritual/ secular
+Expectations: expectations of perfection/acceptance
+
+Entries:
+- i (m)
+- i (f)
+- you (m)
+- you (f)
+- he
+- she
+- we
+- we (m)
+- we (f)
+- plural you
+- plural you (m)
+- plural you (f)
+- they
+- they (m)
+- they (f)
+- one
+- everyone
+- singular pronoun
+- person
+- that
+- every
+- day
+- night
+- love
+- moment
+- passive
+- my
+- your
+
+
+Scores per entry:
+"i (m)":

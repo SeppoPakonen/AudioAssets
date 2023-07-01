@@ -1,7 +1,12 @@
 #ifndef _AI_Tool_Data_h_
 #define _AI_Tool_Data_h_
 
-struct Grouplist {
+struct DataFile {
+	String file_title;
+	
+};
+
+struct Grouplist : DataFile {
 	struct Translation : Moveable<Translation> {
 		VectorMap<String, String> data;
 		
@@ -12,6 +17,12 @@ struct Grouplist {
 			json
 				("data", data)
 				;
+			if (json.IsLoading()) {
+				VectorMap<String, String> tmp;
+				for(int i = 0; i < data.GetCount(); i++)
+					tmp.Add(ToLower(data.GetKey(i)), ToLower(data[i]));
+				Swap(tmp, data);
+			}
 		}
 	};
 	
@@ -25,88 +36,50 @@ struct Grouplist {
 		Group& SetColor(int r, int g, int b) {clr = Color(r,g,b); return *this;}
 		Group& operator<<(String s) {values.Add(s); return *this;}
 		void Jsonize(JsonIO& json) {
-			if (json.IsStoring())
-				Sort(values, StdLess<String>());
 			json
 				("description", description)
 				("color", clr)
 				("values", values)
 				;
 		}
-		
+		bool HasValue(String v) const {
+			for (const String& s : values)
+				if (s == v)
+					return true;
+			return false;
+		}
 	};
 	VectorMap<String, Group> groups;
 	VectorMap<String, Translation> translation;
 	
-	Vector<String> pronouns;
-	Vector<String> elements;
-	Vector<String> interactions;
-	Vector<String> with;
-	Vector<String> moral_interaction_modes;
-	Vector<String> moral_interactions;
-	Vector<String> religious_moral_interactions;
-	Vector<String> acting_styles;
-	Vector<String> tones;
-	Vector<String> voiceover_tones;
-	Vector<String> comedic_scenarios;
-	Vector<String> dramatic_scenarios;
-	Vector<String> types_of_sentences;
-	Vector<String> comedic_sentences;
-	Vector<String> humorous_expressions;
-	Color pronouns_clr;
-	Color elements_clr;
-	Color interactions_clr;
-	Color with_clr;
-	Color moral_interaction_modes_clr;
-	Color moral_interactions_clr;
-	Color religious_moral_interactions_clr;
-	Color acting_styles_clr;
-	Color tones_clr;
-	Color voiceover_tones_clr;
-	Color comedic_scenarios_clr;
-	Color dramatic_scenarios_clr;
-	Color types_of_sentences_clr;
-	Color comedic_sentences_clr;
-	Color humorous_expressions_clr;
-	
-	enum {
-		PRONOUNS,
-		TYPES_OF_SENT,
-		ELEMENTS,
-		MORAL_IA,
-		RELMORAL_IA,
-		INTERACTIONS,
-		WITH,
-		ACTING_STYLES,
-		TONES,
-		DRAMATIC_SCEN,
-		VOICEOVER_TONES,
-		COMEDIC_SENT,
-		COMEDIC_SCEN,
-		HUMOROUS_EXPR,
-		MORAL_IA_MODE,
-		
-		group_count
-	};
-	
-	
-	static const int group_limit = 100;
-	
 	
 	Grouplist();
 	
-	void StoreJson();
+	int GetCount() const {return groups.GetCount();}
+	int GetItemCount() const {
+		int i = 0;
+		for (const Group& g : groups.GetValues())
+			i += g.values.GetCount();
+		return i;
+	}
+	String Translate(const String& s);
+	
+	void Clear() {groups.Clear(); translation.Clear();}
 	void Jsonize(JsonIO& json) {
 		json
 			("groups", groups)
 			("translation", translation)
 			;
+		if (json.IsLoading()) {
+			//DumbFix();
+			String lng = GetCurrentLanguageString().Left(5);
+			trans_i = translation.Find(lng);
+		}
 	}
+	void DumbFix();
 	
-};
-
-struct DataFile {
-	String file_title;
+	static const int group_limit = 1024;
+	static int trans_i;
 	
 };
 

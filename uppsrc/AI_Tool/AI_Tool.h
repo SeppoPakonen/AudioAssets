@@ -17,6 +17,7 @@ using namespace Upp;
 #include <CtrlCore/lay.h>
 
 #include "Data.h"
+#include "PlotCtrl.h"
 #include "PatternCtrl.h"
 #include "App.h"
 

@@ -15,6 +15,7 @@ protected:
 	Vector<PatternSnap*> level_snaps;
 	AttrCtrl attr;
 	ArrayCtrl list;
+	PlotCtrl plot;
 	
 public:
 	typedef PatternCtrl CLASSNAME;

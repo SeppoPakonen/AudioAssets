@@ -3,7 +3,8 @@
 
 PatternCtrl::PatternCtrl() {
 	CtrlLayout(*this);
-	vsplit.Vert(tree, patterns);
+	vsplit.Vert();
+	vsplit << tree << plot << patterns;
 	
 	add <<= THISBACK(AddPattern);
 	
@@ -22,22 +23,17 @@ PatternCtrl::PatternCtrl() {
 	list.Hide();
 	
 	list.AddColumn(t_("Position"));
-	list.AddColumn(t_("Pronouns"));
-	list.AddColumn(t_("Types of sentences"));
-	list.AddColumn(t_("Contrast and Unexpected Elements"));
-	list.AddColumn(t_("Moral interactions"));
-	list.AddColumn(t_("Religiously moral"));
-	list.AddColumn(t_("Interactions"));
-	list.AddColumn(t_("(Interactions) with"));
-	list.AddColumn(t_("Acting Styles"));
-	list.AddColumn(t_("Tones"));
-	list.AddColumn(t_("Types of dramatic scenarios"));
-	list.AddColumn(t_("Voiceover Tones"));
-	list.AddColumn(t_("Comedic sentences"));
-	list.AddColumn(t_("Comedic scenarios"));
-	list.AddColumn(t_("Humorous expressions"));
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
+	for(int i = 0; i < db.groups.groups.GetCount(); i++) {
+		Grouplist::Group& gg = db.groups.groups[i];
+		String key = g.Translate(gg.description);
+		list.AddColumn(key);
+	}
 	
-	mainsplit.Vert(list, attr);
+	
+	mainsplit.Vert();
+	mainsplit << list << attr;
 	mainsplit.SetPos(1000);
 }
 
@@ -291,7 +287,7 @@ void PatternCtrl::DataList() {
 			pos += ":" + IntStr(s0.len);
 		list.Set(i, 0, pos);
 		
-		for(int j = 0; j < g.group_count; j++) {
+		for(int j = 0; j < g.GetCount(); j++) {
 			skip_list.Clear();
 			String s = GetSnapGroupString(s0, j, skip_list);
 			PatternSnap* owner = s0.owner;
@@ -320,28 +316,15 @@ void PatternCtrl::DataList() {
 
 String GetSnapGroupString(PatternSnap& snap, int group, Index<String>& skip_list) {
 	Grouplist& g = Database::Single().groups;
+	Grouplist::Group& gg = g.groups[group];
 	
 	String s;
 	for(const SnapAttr& a : snap.attributes.GetKeys()) {
 		if (a.group != group)
 			continue;
-		String item;
-		switch (a.group) {
-			case Grouplist::PRONOUNS:			item = g.pronouns[a.item]; break;
-			case Grouplist::ELEMENTS:			item = g.elements[a.item]; break;
-			case Grouplist::INTERACTIONS:		item = g.interactions[a.item]; break;
-			case Grouplist::WITH:				item = g.with[a.item]; break;
-			case Grouplist::MORAL_IA:			item = g.moral_interactions[a.item]; break;
-			case Grouplist::ACTING_STYLES:		item = g.acting_styles[a.item]; break;
-			case Grouplist::TONES:				item = g.tones[a.item]; break;
-			case Grouplist::VOICEOVER_TONES:	item = g.voiceover_tones[a.item]; break;
-			case Grouplist::COMEDIC_SCEN:		item = g.comedic_scenarios[a.item]; break;
-			case Grouplist::DRAMATIC_SCEN:		item = g.dramatic_scenarios[a.item]; break;
-			case Grouplist::TYPES_OF_SENT:		item = g.types_of_sentences[a.item]; break;
-			case Grouplist::COMEDIC_SENT:		item = g.comedic_sentences[a.item]; break;
-			case Grouplist::HUMOROUS_EXPR:		item = g.humorous_expressions[a.item]; break;
-			default: item = "<error>";
-		}
+		
+		String item = g.Translate(gg.values[a.item]);
+		
 		if (skip_list.Find(item) < 0) {
 			if (!s.IsEmpty())
 				s << ", ";

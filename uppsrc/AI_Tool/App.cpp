@@ -276,27 +276,8 @@ ToolApp::ToolApp() {
 	tabs.WhenSet << THISBACK(Data);
 	menu.Set(THISBACK(MainMenu));
 	
-	Database& db = Database::Single();
-	
-	#ifdef flagWIN32
-	db.dir = "C:\\git\\AudioAssets";
-	#else
-	db.dir = GetHomeDirFile("AudioAssets");
-	#endif
-	
-	if (!DirectoryExists(db.dir)) {
-		PromptOK(DeQtf("Default path not found.\nSelect AudioAssets directory."));
-		db.dir = SelectDirectory();
-	}
-	
-	db.Load();
 	
 	PostCallback(THISBACK(Data));
-	
-	
-	
-	db.groups.StoreJson();
-	Exit(1);
 	
 }
 
