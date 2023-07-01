@@ -37,7 +37,8 @@
 					"moment",
 					"passive",
 					"my",
-					"your"
+					"your",
+					"Fight"
 				]
 			}
 		},
@@ -555,6 +556,20 @@
 					"Is not revealed"
 				]
 			}
+		},
+		{
+			"key": "verbs",
+			"value": {
+				"description": "Verbs",
+				"color": {
+					"red": 191,
+					"green": 208,
+					"blue": 101
+				},
+				"values": [
+					"Champion"
+				]
+			}
 		}
 	],
 	"translation": [
@@ -741,6 +756,10 @@
 					{
 						"key": "challenging",
 						"value": "haastava"
+					},
+					{
+						"key": "champion",
+						"value": "taistella jonkin puolesta"
 					},
 					{
 						"key": "comedic scenarios",
@@ -965,6 +984,10 @@
 					{
 						"key": "father",
 						"value": "isä"
+					},
+					{
+						"key": "fight",
+						"value": "tappelu"
 					},
 					{
 						"key": "fighting against the odds",
@@ -1883,6 +1906,10 @@
 						"value": "epätavanomaisen muodollisuuden käyttö"
 					},
 					{
+						"key": "verbs",
+						"value": "verbit"
+					},
+					{
 						"key": "virtual",
 						"value": "virtuaalinen"
 					},
@@ -1956,6 +1983,88 @@
 					}
 				]
 			}
+		}
+	],
+	"scorings": [
+		{
+			"class": "Mood",
+			"axes0": "joyful",
+			"axes1": "melancholic"
+		},
+		{
+			"class": "Mood",
+			"axes0": "playful",
+			"axes1": "serious"
+		},
+		{
+			"class": "Mood",
+			"axes0": "uplifting",
+			"axes1": "heavy"
+		},
+		{
+			"class": "Mood",
+			"axes0": "lighthearted",
+			"axes1": "somber"
+		},
+		{
+			"class": "Mood",
+			"axes0": "humorous",
+			"axes1": "dramatic"
+		},
+		{
+			"class": "Social",
+			"axes0": "authoritarian",
+			"axes1": "liberatrian"
+		},
+		{
+			"class": "Economic",
+			"axes0": "liberal",
+			"axes1": "conservative"
+		},
+		{
+			"class": "Culture",
+			"axes0": "individualism",
+			"axes1": "collective"
+		},
+		{
+			"class": "Human strength",
+			"axes0": "strong",
+			"axes1": "weak"
+		},
+		{
+			"class": "Motivation",
+			"axes0": "rewarding",
+			"axes1": "punishing"
+		},
+		{
+			"class": "Sexualization",
+			"axes0": "sexual",
+			"axes1": "non-sexual"
+		},
+		{
+			"class": "Attitude",
+			"axes0": "hopeful",
+			"axes1": "despair"
+		},
+		{
+			"class": "Attitude",
+			"axes0": "optimistic",
+			"axes1": "pessimistic"
+		},
+		{
+			"class": "Attitude",
+			"axes0": "open",
+			"axes1": "closed"
+		},
+		{
+			"class": "Beliefs",
+			"axes0": "spiritual",
+			"axes1": "secular"
+		},
+		{
+			"class": "Expectations",
+			"axes0": "perfection",
+			"axes1": "acceptance"
 		}
 	]
 }
