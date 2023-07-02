@@ -38,7 +38,8 @@
 					"passive",
 					"my",
 					"your",
-					"Fight"
+					"his",
+					"fight"
 				]
 			}
 		},
@@ -125,7 +126,8 @@
 					"spiritual meaningfulness",
 					"judgement",
 					"altruism",
-					"navigation in life"
+					"navigation in life",
+					"navigate in life"
 				]
 			}
 		},
@@ -205,7 +207,7 @@
 		{
 			"key": "with",
 			"value": {
-				"description": "(Interactions) with",
+				"description": "Interactions with",
 				"color": {
 					"red": 85,
 					"green": 127,
@@ -351,7 +353,8 @@
 					"conflict with someone",
 					"bring up a moral issue",
 					"existential crisis",
-					"perilious choices leads to a better outcome"
+					"perilious choices leads to a better outcome",
+					"perilous choices leads to a better outcome"
 				]
 			}
 		},
@@ -520,7 +523,7 @@
 					"questioning",
 					"themes around",
 					"suggests a sense of obligation to have",
-					"do "
+					"do"
 				]
 			}
 		},
@@ -939,11 +942,11 @@
 					},
 					{
 						"key": "do",
-						"value": "tee"
+						"value": "tehdä"
 					},
 					{
-						"key": "do ",
-						"value": "tehdä "
+						"key": "do",
+						"value": "tee"
 					},
 					{
 						"key": "dramatic",
@@ -1110,6 +1113,10 @@
 						"value": "raskas"
 					},
 					{
+						"key": "his",
+						"value": ""
+					},
+					{
 						"key": "honesty",
 						"value": "rehellisyys"
 					},
@@ -1200,6 +1207,10 @@
 					{
 						"key": "interactions",
 						"value": "vuorovaikutukset"
+					},
+					{
+						"key": "interactions with",
+						"value": ""
 					},
 					{
 						"key": "interrogative",
@@ -1390,6 +1401,10 @@
 						"value": "luonto"
 					},
 					{
+						"key": "navigate in life",
+						"value": ""
+					},
+					{
 						"key": "navigation in life",
 						"value": "navigointia elämässä"
 					},
@@ -1484,6 +1499,10 @@
 					{
 						"key": "perilious choices leads to a better outcome",
 						"value": "vaaralliset valinnat johtavat parempaan lopputulokseen"
+					},
+					{
+						"key": "perilous choices leads to a better outcome",
+						"value": ""
 					},
 					{
 						"key": "person",

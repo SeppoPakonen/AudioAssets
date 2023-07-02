@@ -252,7 +252,7 @@ Scores per entry:
 - Beliefs: spiritual/ secular: -1 Secular
 - Expectations: expectations of perfection/acceptance: +1 Perfection
 
-Pronouns "despair", "fear", "helplessness", "hopelessness", "defeat":
+Nouns "despair", "fear", "helplessness", "hopelessness", "defeat":
 - Mood: joyful/melancholic: -1 Melancholic
 - Mood: playful/serious: -1 Serious
 - Mood: uplifting/heavy: 0
@@ -271,25 +271,7 @@ Pronouns "despair", "fear", "helplessness", "hopelessness", "defeat":
 - Expectations: expectations of perfection/acceptance: -1 Acceptance
 
 
-Pronouns "despair", "fear", "helplessness", "hopelessness", "defeat":
-- Mood: joyful/melancholic: -1 Melancholic
-- Mood: playful/serious: -1 Serious
-- Mood: uplifting/heavy: 0
-- Mood: lighthearted/somber: -1 Somber
-- Mood: humorous/dramatic: 0
-- Social: authoritarian/liberatrian: -1 Libertarian
-- Economic: liberal/conservative: 0
-- Culture: individualism/collective: -1 Collective
-- Human strength: strong/weak: -1 Weak
-- Motivation: rewarding/punishing: -1 Punishing
-- Sexualization: sexual/non-sexual: +1 Sexual
-- Attitude: hopeful/despair: -1 Despair
-- Attitude: optimistic/pessimistic: +1 Optimistic
-- Attitude: open/closed: 0
-- Beliefs: spiritual/ secular: +1 Spiritual
-- Expectations: expectations of perfection/acceptance: -1 Acceptance
-
-Pronoun "Relationship":
+Nouns "Relationship":
 - Mood: joyful/melancholic: +1 Joyful
 - Mood: playful/serious: +1 Playful
 - Mood: uplifting/heavy: +1 Uplifting
