@@ -186,7 +186,7 @@
 					"sexual",
 					"romantic",
 					"business",
-					"social",
+					"antisocial",
 					"political",
 					"cultural",
 					"emotional",
@@ -537,10 +537,10 @@
 					"blue": 213
 				},
 				"values": [
-					"My bed (m)",
-					"My bed (f)",
-					"Your bed (m)",
-					"Your bed (f)"
+					"my bed (m)",
+					"my bed (f)",
+					"your bed (m)",
+					"your bed (f)"
 				]
 			}
 		},
@@ -683,6 +683,10 @@
 					{
 						"key": "animal",
 						"value": "eläin"
+					},
+					{
+						"key": "antisocial",
+						"value": "antisosiaalinen"
 					},
 					{
 						"key": "art",
@@ -942,11 +946,11 @@
 					},
 					{
 						"key": "do",
-						"value": "tee"
+						"value": "tehdä"
 					},
 					{
 						"key": "do",
-						"value": "tehdä"
+						"value": "tee"
 					},
 					{
 						"key": "dramatic",
@@ -1114,7 +1118,7 @@
 					},
 					{
 						"key": "his",
-						"value": ""
+						"value": "hänen"
 					},
 					{
 						"key": "honesty",
@@ -1210,7 +1214,7 @@
 					},
 					{
 						"key": "interactions with",
-						"value": ""
+						"value": "vuorovaikutuksia kanssa"
 					},
 					{
 						"key": "interrogative",
@@ -1402,7 +1406,7 @@
 					},
 					{
 						"key": "navigate in life",
-						"value": ""
+						"value": "navigoida elämässä"
 					},
 					{
 						"key": "navigation in life",
@@ -1502,7 +1506,7 @@
 					},
 					{
 						"key": "perilous choices leads to a better outcome",
-						"value": ""
+						"value": "vaaralliset valinnat johtavat parempaan lopputulokseen"
 					},
 					{
 						"key": "person",

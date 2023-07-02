@@ -132,8 +132,10 @@ END_LAYOUT
 LAYOUT(Music, 400, 200)
 END_LAYOUT
 
-LAYOUT(AttrWords, 396, 200)
-	ITEM(Upp::ArrayCtrl, dv___0, HSizePosZ(0, 0).VSizePosZ(0, 32))
+LAYOUT(AttrWords, 396, 332)
+	ITEM(Upp::ArrayCtrl, list, HSizePosZ(0, 0).VSizePosZ(32, 32))
+	ITEM(Upp::Label, dv___1, SetLabel(t_("Group:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(0, 88).TopPosZ(0, 32))
+	ITEM(Upp::DropList, groups, HSizePosZ(92, 4).TopPosZ(4, 24))
 	ITEM(Upp::Button, copy_prompt, SetLabel(t_("Copy prompt to clipboard")).HCenterPosZ(192, -98).BottomPosZ(4, 24))
 	ITEM(Upp::Button, paste_prompt, SetLabel(t_("Paste prompt from clipboard")).HCenterPosZ(192, 98).BottomPosZ(4, 24))
 END_LAYOUT

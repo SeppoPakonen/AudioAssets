@@ -356,6 +356,7 @@ void AttrCtrl::AddGroup() {
 		0
 	);
 	if (!b) return;
+	name = ToLower(name);
 	
 	// Description
 	String desc;
@@ -414,6 +415,8 @@ void AttrCtrl::AddEntry(int group) {
 		0
 	);
 	if (!b) return;
+	
+	desc = ToLower(desc);
 	
 	// Translation
 	String trans;

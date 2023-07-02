@@ -240,6 +240,7 @@ struct SnapAttr : Moveable<SnapAttr> {
 			("i", item)
 			;
 	}
+	String ToString() const {return IntStr(group) + ":" + IntStr(item);}
 	hash_t GetHashValue() const {CombineHash c; c.Put(group); c.Put(item); return c;}
 };
 

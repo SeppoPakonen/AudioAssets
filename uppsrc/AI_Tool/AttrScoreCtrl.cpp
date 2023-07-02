@@ -38,14 +38,18 @@ AttrScoreCtrl::AttrScoreCtrl() {
 	make_prompt <<= THISBACK(MakePrompt);
 	parse_prompt <<= THISBACK(ParsePrompt);
 	src_entries.WhenBar << THISBACK(SrcEntryMenu);
+	
+	
+	attrwords.Title(t_("Attributes to words wizard"));
+	attrwords.Sizeable();
+	CtrlLayout(attrwords);
+	attrwords.list.AddColumn(t_("Key"));
+	attrwords.list.AddColumn(t_("Value"));
+	attrwords.list.ColumnWidths("2 1");
 }
 
 void AttrScoreCtrl::SrcEntryMenu(Bar& b) {
 	b.Add(t_("Add to scoring group"), THISBACK(AddSrcEntryToScoringGroup));
-}
-
-void AttrScoreCtrl::OpenPromptScores() {
-	
 }
 
 void AttrScoreCtrl::Data() {
@@ -105,6 +109,12 @@ void AttrScoreCtrl::DataGroup() {
 		int score_i = db.attrscores.attr_to_score[cursor][i];
 		if (score_i >= 0)
 			score_txt = db.attrscores.groups[score_i].GetName();
+		else {
+			DUMP(cursor);
+			DUMP(i);
+			DUMP(score_i);
+			DUMP(v);
+		}
 		src_entries.Set(i, 1, Capitalize(score_txt));
 	}
 	src_entries.SetCount(gg.values.GetCount());
@@ -158,8 +168,8 @@ void AttrScoreCtrl::AddAttrScoreGroup() {
 	Vector<int> score_ints;
 	for (String& s : scores) {
 		int i = StrInt(s);
-		if (i < -1 || i > +1) {
-			PromptOK(DeQtf(Format(t_("error: expected values between -1 and +1 (got %d)"), i)));
+		if (i < -5 || i > +5) {
+			PromptOK(DeQtf(Format(t_("error: expected values between -5 and +5 (got %d)"), i)));
 			return;
 		}
 		score_ints.Add(i);
@@ -207,7 +217,7 @@ bool AttrScoreCtrl::AddAttrScoreEntry(String group, String entry_str) {
 			continue;
 		
 		for(int j = 0; j < gg.values.GetCount(); j++) {
-			if (gg.values[j] == lname) {
+			if (ToLower(gg.values[j]) == lname) {
 				a.group = i;
 				a.item = j;
 				found = true;
@@ -229,20 +239,35 @@ bool AttrScoreCtrl::AddAttrScoreEntry(String group, String entry_str) {
 
 void AttrScoreCtrl::AddAttrScoreId(const SnapAttr& a) {
 	Database& db = Database::Single();
+	//bool found = false;
 	for (AttrScoreGroup& ag : db.attrscores.groups) {
-		for (const SnapAttr& a0 : ag.attrs) {
+		for(int i = 0; i < ag.attrs.GetCount(); i++) {
+			const SnapAttr& a0 = ag.attrs[i];
 			if (a0 == a) {
-				PromptOK(DeQtf(Format(t_("Entry was already in the group '%s'"), ag.GetName())));
-				return;
+				//PromptOK(DeQtf(Format(t_("Entry was already in the group '%s'"), ag.GetName())));
+				//return;
+				//found = true;
+				LOG("AttrScoreCtrl::AddAttrScoreId: error: entry " << a.ToString() << " was already in a group: " << ag.GetName());
+				ag.attrs.Remove(i--);
 			}
 		}
 	}
 	
 	int active_idx = db.GetActiveScoreGroupIndex();
+	//if (!found)
 	db.active_scoregroup->attrs.Add(a);
 	
+	db.attrscores.attr_to_score.Clear();
 	db.attrscores.RealizeTemp();
-	db.attrscores.attr_to_score[a.group][a.item] = active_idx;
+	
+	DUMP(db.attrscores.attr_to_score[5][0]);
+	/*auto& vv = db.attrscores.attr_to_score;
+	if (a.group >= vv.GetCount())
+		vv.SetCount(a.group+1);
+	auto& v = vv[a.group];
+	if (a.item >= v.GetCount())
+		v.SetCount(a.item+1, -1);
+	v[a.item] = active_idx;*/
 	
 	DataAttrScore();
 	DataGroup();
@@ -295,7 +320,7 @@ void AttrScoreCtrl::CheckErrors() {
 	
 }
 
-const char* attrscore_prompt = R"ATRSCROO(
+const char* attrscore_prompt1 = R"ATRSCROO(
 
 List of axes:
 -a Mood: joyful/melancholic
@@ -313,18 +338,18 @@ List of axes:
 -m Attitude: optimistic/pessimistic
 -n Attitude: open/closed
 -o Beliefs: spiritual/ secular
--p Expectations: expectations of perfection/acceptance
+-p Expectations: perfection/acceptance
 
 Combination string from results:
  - a (Mood: joyful/melancholic) b (Mood: playful/serious) c (Mood: uplifting/heavy) etc.
 
 Entries:
-- Pronoun: i (m)
+- Pronouns: "i (m)"
 ${ENTRIES}
 
 
 Scores per entry:
-Pronoun: "i (m)":
+Pronouns: "i (m)":
 -a Mood: joyful/melancholic: +1 Joyful
 -b Mood: playful/serious: +1 Playful
 -c Mood: uplifting/heavy: +1 Uplifting
@@ -340,10 +365,12 @@ Pronoun: "i (m)":
 -m Attitude: optimistic/pessimistic: +1 Optimistic
 -n Attitude: open/closed: +1 Open
 -o Beliefs: spiritual/ secular: 0
--p Expectations: expectations of perfection/acceptance: -1 Acceptance
+-p Expectations: perfection/acceptance: -1 Acceptance
 Combination string: a+1 b+1 c+1 d+1 e+1 f-1 g0 h+1 i+1 j+1 k0 l+1 m+1 n+1 o0 p-1
+)ATRSCROO";
 
-Pronoun: "i (m)":
+const char* attrscore_prompt2 = R"ATRSCROO(
+Pronouns: "i (m)":
 Combination string: a+1 b+1 c+1 d+1 e+1 f-1 g0 h+1 i+1 j+1 k0 l+1 m+1 n+1 o0 p-1
 
 ${FIRSTENTRY}:
@@ -352,9 +379,11 @@ Combination string:)ATRSCROO";
 void AttrScoreCtrl::MakePrompt() {
 	Database& db = Database::Single();
 	Grouplist& g = db.groups;
-	String prompt = attrscore_prompt;
+	String prompt = attrscore_prompt1;
 	String entries;
 	Index<SnapAttr> attrs;
+	
+	prompt += attrscore_prompt2;
 	
 	
 	// Try making prompt with errors first
@@ -370,10 +399,7 @@ void AttrScoreCtrl::MakePrompt() {
 		const Grouplist::Group& gg = db.groups.groups[a.group];
 		String key = gg.values[a.item];
 		
-		if (0)
-			entries << "- " << key << "\n";
-		else
-			entries << "- " << gg.description << ": " << key << "\n";
+		entries << "- " << gg.description << ": \"" << key << "\"\n";
 		
 		if (!entry_count)
 			prompt.Replace("${FIRSTENTRY}", gg.description + ": \"" + key + "\"");
@@ -390,7 +416,7 @@ void AttrScoreCtrl::MakePrompt() {
 				int scr = db.attrscores.attr_to_score[i][j];
 				if (scr >= 0)
 					continue;
-				entries << "- " << gg.description << ": " << key << "\n";
+				entries << "- " << gg.description << ": \"" << key << "\"\n";
 				
 				if (!entry_count)
 					prompt.Replace("${FIRSTENTRY}", gg.description + ": \"" + key + "\"");
@@ -435,6 +461,8 @@ void AttrScoreCtrl::ParsePrompt() {
 		
 		String group = part.Left(a);
 		Index<String> keys;
+		DUMP(part);
+		DUMP(a);
 		while (1) {
 			a = part.Find("\"", a);
 			if (a < 0)
@@ -444,12 +472,12 @@ void AttrScoreCtrl::ParsePrompt() {
 			if (b < 0)
 				break;
 			String key = part.Mid(a, b-a);
-			keys.FindAdd(key);
+			keys.FindAdd(ToLower(key));
 			a = b+1;
 		}
 		
 		if (keys.IsEmpty())
-			break;
+			continue;
 		
 		DUMPC(keys);
 		
@@ -461,7 +489,7 @@ void AttrScoreCtrl::ParsePrompt() {
 		String score_str = TrimBoth(part.Mid(a + search.GetCount()));
 		score_str.Replace(",", "");
 		
-		if (keys.GetCount() == 1 && keys[0] == "i (m)")
+		if (parts.GetCount() > 1 && keys.GetCount() == 1 && keys[0] == "i (m)")
 			continue;
 		
 		LOG(group << ": " << keys[0] << ": " << score_str);
@@ -477,7 +505,7 @@ void AttrScoreCtrl::ParsePrompt() {
 				if (gg.description == group) {
 					for(int j = 0; j < gg.values.GetCount(); j++) {
 						String v = gg.values[j];
-						if (v == key) {
+						if (ToLower(v) == key) {
 							found = true;
 						}
 					}
@@ -532,8 +560,8 @@ void AttrScoreCtrl::ParsePrompt() {
 			if (s.IsEmpty()) {fail = true; break;}
 			if (s[0] != chr++) {fail = true; break;}
 			int i = StrInt(s.Mid(1));
-			if (i < -1 || i > +1) {
-				PromptOK(DeQtf(Format(t_("error: expected values between -1 and +1 (got %d)"), i)));
+			if (i < -5 || i > +5) {
+				PromptOK(DeQtf(Format(t_("error: expected values between -5 and +5 (got %d)"), i)));
 				return;
 			}
 			score_ints.Add(i);
@@ -561,3 +589,79 @@ void AttrScoreCtrl::ParsePrompt() {
 	db.Save();
 	Data();
 }
+
+void AttrScoreCtrl::OpenPromptScores() {
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
+	
+	for(int i = 0; i < g.scorings.GetCount(); i++) {
+		const Grouplist::ScoringType& t = g.scorings[i];
+		attrwords.list.Set(i, 0,
+			Capitalize(g.Translate(t.klass)) + ": " +
+			Capitalize(g.Translate(t.axes0)) + "/" +
+			Capitalize(g.Translate(t.axes1))
+		);
+		attrwords.list.Set(i, 1, 0);
+		attrwords.list.SetCtrl(i, 1, new EditIntNotNullSpin);
+	}
+	
+	attrwords.groups.Clear();
+	for(int i = 0; i < g.groups.GetCount(); i++) {
+		attrwords.groups.Add(g.Translate(g.groups[i].description));
+	}
+	attrwords.groups.SetIndex(0);
+	
+	attrwords.Open();
+	attrwords.copy_prompt <<= THISBACK(CopyWordsPrompt);
+	attrwords.paste_prompt <<= THISBACK(PasteWordsPrompt);
+}
+
+void AttrScoreCtrl::CopyWordsPrompt() {
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
+	int group_i = attrwords.groups.GetIndex();
+	Grouplist::Group& gg = g.groups[group_i];
+	
+	String prompt;
+	prompt << gg.description << ":\n";
+	for(int i = 0; i < gg.values.GetCount(); i++)
+		prompt << "- " << gg.values[i] << "\n";
+	prompt << "\n\n";
+	
+	prompt << attrscore_prompt1;
+	
+	prompt.Replace("${ENTRIES}", "");
+	
+	prompt += "\n" << gg.description << ": \"[insert]\":\n";
+	
+	String comb;
+	for(int i = 0; i < g.scorings.GetCount(); i++) {
+		const Grouplist::ScoringType& t = g.scorings[i];
+		prompt += "- ";
+		prompt.Cat('a' + i);
+		prompt += " ";
+		prompt += Capitalize((t.klass)) + ": " +
+			((t.axes0)) + "/" +
+			((t.axes1)) + ": ";
+		int j = attrwords.list.Get(i, 1);
+		if (j > 0)
+			prompt += "+";
+		prompt += IntStr(j) + "\n";
+		
+		comb.Cat(' ');
+		comb.Cat('a' + i);
+		if (j > 0)
+			comb += "+";
+		comb += IntStr(j);
+	}
+	prompt += "Combination string:" << comb << "\n";
+	prompt += "\n";
+	
+	
+	WriteClipboardText(prompt);
+}
+
+void AttrScoreCtrl::PasteWordsPrompt() {
+	ParsePrompt();
+}
+

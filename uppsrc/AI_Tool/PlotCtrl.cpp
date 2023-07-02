@@ -264,7 +264,7 @@ PlotCtrl::PlotCtrl() {
 	Add(choices.BottomPos(0,30).HSizePos());
 	
 	
-	choices.Add(t_("Mood: joyful/melancholic"));
+	/*choices.Add(t_("Mood: joyful/melancholic"));
 	choices.Add(t_("Mood: playful/serious"));
 	choices.Add(t_("Mood: uplifting/heavy"));
 	choices.Add(t_("Mood: lighthearted/somber"));
@@ -280,6 +280,6 @@ PlotCtrl::PlotCtrl() {
 	choices.Add(t_("Attitude: open/closed"));
 	choices.Add(t_("Beliefs: spiritual/secular"));
 	choices.Add(t_("Expectations: perfection/acceptance"));
-	choices.SetIndex(0);
+	choices.SetIndex(0);*/
 	
 }

@@ -159,6 +159,36 @@ fiFI("Pisteytys")
 T_("Load active pattern")
 fiFI("Lataa aktiivinen kaavio")
 
+T_("Add group for entries with the same score")
+fiFI("Lis\303\244\303\244 ryhm\303\244 merkinn\303\266ille, joilla on sama pistem\303\244\303\244r\303\244")
+
+T_("Add entry")
+fiFI("Lis\303\244\303\244 merkint\303\244")
+
+T_("Wizard for getting words with given score")
+fiFI("Ohjattu sanojen hankkiminen tietyll\303\244 pistem\303\244\303\244r\303\244ll\303\244")
+
+T_("Copy AI prompt to clipboard")
+fiFI("Kopioi AI-kehote leikep\303\266yd\303\244lle")
+
+T_("Parse AI prompt from clipboard")
+fiFI("Parsi AI-kehote leikep\303\266yd\303\244lt\303\244")
+
+T_("Group:")
+fiFI("Ryhm\303\244:")
+
+T_("Copy prompt to clipboard")
+fiFI("Kopioi kehote leikep\303\266yd\303\244lle")
+
+T_("Paste prompt from clipboard")
+fiFI("Liit\303\244 kehote leikep\303\266yd\303\244lt\303\244")
+
+
+// Data.cpp
+
+T_("Name")
+fiFI("Nimi")
+
 
 // App.cpp
 
@@ -167,6 +197,9 @@ fiFI("Etusivu")
 
 T_("Attribute score")
 fiFI("Ominaisuuden pisteet")
+
+T_("Production")
+fiFI("Tuotanto")
 
 T_("Analysis")
 fiFI("Analyysi")
@@ -226,70 +259,61 @@ T_("Entry '%s' exists already")
 fiFI("Merkint\303\244 '%s' on jo olemassa")
 
 
+// AttrScoreCtrl.cpp
+
+T_("Scoring")
+fiFI("Pisteytys")
+
+T_("Entry count")
+fiFI("Merkint\303\266jen m\303\244\303\244r\303\244")
+
+T_("Group")
+fiFI("Ryhm\303\244")
+
+T_("Entry")
+fiFI("Merkint\303\244")
+
+T_("Attributes to words wizard")
+fiFI("Sanojen ohjatun attribuutit")
+
+T_("Key")
+fiFI("Avain")
+
+T_("Value")
+fiFI("Arvo")
+
+T_("Add to scoring group")
+fiFI("Lis\303\244\303\244 pisteytysryhm\303\244\303\244n")
+
+T_("Score string of the group")
+fiFI("Ryhm\303\244n pisteet")
+
+T_("Score string")
+fiFI("Piste-teksti")
+
+T_("error: got %d scores (expected %d)")
+fiFI("virhe: sain %d pistett\303\244 (odotettu %d)")
+
+T_("error: expected values between -5 and +5 (got %d)")
+fiFI("virhe: odotetut arvot v\303\244lill\303\244 -5 ja +5 (sain %d)")
+
+T_("Entry name")
+fiFI("Merkinn\303\244n nimi")
+
+T_("Name of the entry")
+fiFI("Merkinn\303\244n nimi")
+
+T_("Entry was not found ('%s')")
+fiFI("Tietoa ei l\303\266ytynyt ('%s')")
+
+
 // PlotCtrl.cpp
-
-T_("absolute value")
-fiFI("absoluuttinen arvo")
-
-T_("accumulated value")
-fiFI("kertynyt arvo")
-
-T_("Mood: joyful/melancholic")
-fiFI("")
-
-T_("Mood: playful/serious")
-fiFI("")
-
-T_("Mood: uplifting/heavy")
-fiFI("")
-
-T_("Mood: lighthearted/somber")
-fiFI("")
-
-T_("Mood: humorous/dramatic")
-fiFI("")
-
-T_("Social: authoritarian/liberatrian")
-fiFI("")
-
-T_("Economic: liberal/conservative")
-fiFI("")
-
-T_("Culture: individualism/collective")
-fiFI("")
-
-T_("Human strength: strong/weak")
-fiFI("")
-
-T_("Motivation: rewarding/punishing")
-fiFI("")
-
-T_("Sexualization: sexual/non-sexual")
-fiFI("")
-
-T_("Attitude: hopeful/despair")
-fiFI("")
-
-T_("Attitude: optimistic/pessimistic")
-fiFI("")
-
-T_("Attitude: open/closed")
-fiFI("")
-
-T_("Beliefs: spiritual/secular")
-fiFI("")
-
-T_("Expectations: perfection/acceptance")
-fiFI("")
 
 
 // ScoreCtrl.cpp
 
 T_("Title")
 fiFI("Otsikko")
-
-T_("Name")
-fiFI("Nimi")
 
 T_("Read-only")
 fiFI("Vain-luku")

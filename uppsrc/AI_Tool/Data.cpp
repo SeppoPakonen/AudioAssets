@@ -946,18 +946,16 @@ void AttrScore::RealizeTemp() {
 	
 	// Loop Grouplist's groups and entries
 	int gc = g.groups.GetCount();
-	int ogc = this->attr_to_score.GetCount(); // begin
 	this->attr_to_score.SetCount(gc);
 	int total = 0, not_found = 0;
-	for(int i = ogc; i < gc; i++) {
+	for(int i = 0; i < gc; i++) {
 		Vector<int>& vv = attr_to_score[i];
 		
 		Grouplist::Group& gg = g.groups[i];
 		int vc = gg.values.GetCount();
-		int ovc = vv.GetCount();
 		vv.SetCount(vc, -1);
 		
-		for(int j = ovc; j < vc; j++) {
+		for(int j = 0; j < vc; j++) {
 			int& v = vv[j];
 			total++;
 			
@@ -975,18 +973,22 @@ void AttrScore::RealizeTemp() {
 						// Match found
 						v = asg_i;
 						found = true;
+						break;
 					}
 				}
 				if (found) break;
 				asg_i++;
 			}
 			
-			not_found++;
+			if (!found) {
+				LOG("AttrScore::RealizeTemp: not found: " << gg.values[j] << " (" << i << ":" << j << ")");
+				not_found++;
+			}
 		}
 	}
 	
-	double ready = 100.0 * not_found / total;
-	LOG("AttrScore::RealizeTemp: total=" << total << ", not_found=" << not_found << " (" << ready << "\%");
+	int ready = 100 * not_found / total;
+	LOG("AttrScore::RealizeTemp: total=" << total << ", not_found=" << not_found << " (" << ready << "\%)");
 }
 
 

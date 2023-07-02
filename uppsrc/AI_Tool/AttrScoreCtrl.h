@@ -8,6 +8,7 @@ class AttrScoreCtrl : public WithAttrScore<Ctrl> {
 	DocEdit scoregroup_data;
 	ColumnList pattern_errors;
 	Splitter entrygroup_split;
+	WithAttrWords<TopWindow> attrwords;
 	
 public:
 	typedef AttrScoreCtrl CLASSNAME;
@@ -28,6 +29,8 @@ public:
 	void CheckErrors();
 	void MakePrompt();
 	void ParsePrompt();
+	void CopyWordsPrompt();
+	void PasteWordsPrompt();
 	
 	ToolApp* app = 0;
 	
