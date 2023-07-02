@@ -50,8 +50,9 @@ void ArtistEditCtrl::Data() {
 	}
 	artists.SetCount(db.artists.GetCount());
 	
-	if (db.artists.GetCount() && !artists.IsCursor())
-		artists.SetCursor(0);
+	int cursor = max(0, db.GetActiveArtistIndex());
+	if (cursor >= 0 && cursor < db.artists.GetCount())
+		artists.SetCursor(cursor);
 	
 	if (artists.IsCursor())
 		DataArtist();
@@ -67,7 +68,7 @@ void ArtistEditCtrl::DataArtist() {
 	
 	Database& db = Database::Single();
 	Artist& o = db.artists[cursor];
-	active_artist = &o;
+	db.active_artist = &o;
 	
 	this->name						.SetData(o.name);
 	this->year_of_birth				.SetData(o.year_of_birth);
@@ -81,10 +82,11 @@ void ArtistEditCtrl::DataArtist() {
 }
 
 void ArtistEditCtrl::SaveArtist() {
-	if (!active_artist)
+	Database& db = Database::Single();
+	if (!db.active_artist)
 		return;
 	
-	Artist& o = *active_artist;
+	Artist& o = *db.active_artist;
 	o.name						= this->name.GetData();
 	o.year_of_birth				= this->year_of_birth.GetData();
 	o.year_of_career_begin		= this->year_of_career_begin.GetData();

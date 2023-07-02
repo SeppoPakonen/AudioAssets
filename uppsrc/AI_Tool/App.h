@@ -13,6 +13,7 @@ public:
 	MainToolCtrl();
 	
 	void Data();
+	void OnIndexChange();
 	void Generate();
 	void CopyToClipboard();
 	
@@ -21,7 +22,6 @@ public:
 };
 
 class ArtistEditCtrl : public WithArtist<Ctrl> {
-	Artist* active_artist = 0;
 	
 public:
 	typedef ArtistEditCtrl CLASSNAME;
@@ -38,7 +38,6 @@ public:
 };
 
 class StoryEditCtrl : public WithStory<Ctrl> {
-	Story* active_story = 0;
 	
 public:
 	typedef StoryEditCtrl CLASSNAME;
@@ -67,7 +66,6 @@ public:
 	void SaveComposition();
 	
 	ToolApp* app = 0;
-	Composition* active_composition = 0;
 	
 };
 
@@ -85,7 +83,6 @@ public:
 	void ParseAnalysis();
 	
 	ToolApp* app = 0;
-	Analysis* active_analysis = 0;
 	
 };
 
@@ -103,6 +100,7 @@ public:
 	AnalysisEditCtrl	analysis_ctrl;
 	ScoreCtrl			score_ctrl;
 	AttrScoreCtrl		attrscore_ctrl;
+	MusicCtrl			music_ctrl;
 	
 public:
 	typedef ToolApp CLASSNAME;

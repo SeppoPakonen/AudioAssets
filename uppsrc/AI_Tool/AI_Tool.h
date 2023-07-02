@@ -21,6 +21,7 @@ using namespace Upp;
 #include "PatternCtrl.h"
 #include "ScoreCtrl.h"
 #include "AttrScoreCtrl.h"
+#include "MusicCtrl.h"
 #include "App.h"
 
 #endif

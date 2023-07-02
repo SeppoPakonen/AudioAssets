@@ -32,12 +32,13 @@ void AttrCtrl::RealizeTemp() {
 }
 
 void AttrCtrl::Load() {
-	Grouplist& g = Database::Single().groups;
-	if (!active_snap)
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
+	if (!db.active_snap)
 		return;
 	
 	for (bool& b : active) b = false;
-	for (const SnapAttr& a : active_snap->attributes) {
+	for (const SnapAttr& a : db.active_snap->attributes) {
 		int id = a.group * g.group_limit + a.item;
 		ASSERT(id >= 0 && id < active.GetCount());
 		if (id >= 0 && id < active.GetCount())
@@ -45,7 +46,7 @@ void AttrCtrl::Load() {
 	}
 	
 	for (bool& b : inherited_active) b = false;
-	PatternSnap* owner = active_snap->owner;
+	PatternSnap* owner = db.active_snap->owner;
 	while (owner) {
 		for (const SnapAttr& a : owner->attributes) {
 			int id = a.group * g.group_limit + a.item;
@@ -58,11 +59,12 @@ void AttrCtrl::Load() {
 }
 
 void AttrCtrl::Store() {
-	Grouplist& g = Database::Single().groups;
-	if (!active_snap)
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
+	if (!db.active_snap)
 		return;
 	
-	active_snap->attributes.Clear();
+	db.active_snap->attributes.Clear();
 	
 	int id = 0;
 	for (bool& b : active) {
@@ -70,7 +72,7 @@ void AttrCtrl::Store() {
 			SnapAttr attr;
 			attr.item = id % g.group_limit;
 			attr.group = id / g.group_limit;
-			active_snap->attributes.Add(attr);
+			db.active_snap->attributes.Add(attr);
 		}
 		id++;
 	}
@@ -286,7 +288,8 @@ void AttrCtrl::MouseLeave() {
 }
 
 void AttrCtrl::LeftDown(Point p, dword keyflags) {
-	Grouplist& g = Database::Single().groups;
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
 	for(RectId& rid : entry_rects) {
 		if (rid.a.Contains(p)) {
 			SnapAttr a;
@@ -296,15 +299,15 @@ void AttrCtrl::LeftDown(Point p, dword keyflags) {
 			int id = a.group * g.group_limit + a.item;
 			if (id >= 0 && id < active.GetCount()) {
 				bool& b = active[id];
-				if (active_snap) {
+				if (db.active_snap) {
 					b = !b;
 					if (!b) {
-						int i = active_snap->attributes.Find(a);
+						int i = db.active_snap->attributes.Find(a);
 						ASSERT(i >= 0);
-						active_snap->attributes.Remove(i);
+						db.active_snap->attributes.Remove(i);
 					}
 					else {
-						active_snap->attributes.Add(a);
+						db.active_snap->attributes.Add(a);
 					}
 					Update();
 				}

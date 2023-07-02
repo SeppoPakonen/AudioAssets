@@ -120,5 +120,21 @@ LAYOUT(Score, 556, 216)
 END_LAYOUT
 
 LAYOUT(AttrScore, 400, 200)
+	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(4, 144))
+	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
+	ITEM(Upp::Button, add_scoregroup, SetLabel(t_("Add group for entries with the same score")).LeftPosZ(4, 228).BottomPosZ(116, 24))
+	ITEM(Upp::Button, add_entry, SetLabel(t_("Add entry")).LeftPosZ(4, 228).BottomPosZ(88, 24))
+	ITEM(Upp::Button, prompt_scores, SetLabel(t_("Wizard for getting words with given score")).LeftPosZ(4, 228).BottomPosZ(60, 24))
+	ITEM(Upp::Button, make_prompt, SetLabel(t_("Copy AI prompt to clipboard")).LeftPosZ(4, 228).BottomPosZ(32, 24))
+	ITEM(Upp::Button, parse_prompt, SetLabel(t_("Parse AI prompt from clipboard")).LeftPosZ(4, 228).BottomPosZ(4, 24))
+END_LAYOUT
+
+LAYOUT(Music, 400, 200)
+END_LAYOUT
+
+LAYOUT(AttrWords, 396, 200)
+	ITEM(Upp::ArrayCtrl, dv___0, HSizePosZ(0, 0).VSizePosZ(0, 32))
+	ITEM(Upp::Button, copy_prompt, SetLabel(t_("Copy prompt to clipboard")).HCenterPosZ(192, -98).BottomPosZ(4, 24))
+	ITEM(Upp::Button, paste_prompt, SetLabel(t_("Paste prompt from clipboard")).HCenterPosZ(192, 98).BottomPosZ(4, 24))
 END_LAYOUT
 

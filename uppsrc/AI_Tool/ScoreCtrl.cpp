@@ -69,10 +69,11 @@ void ScoreCtrl::AddPattern() {
 }
 
 void ScoreCtrl::SavePattern() {
-	if (!active_pattern)
+	Database& db = Database::Single();
+	if (!db.active_patternscore)
 		return;
 	
-	PatternScore& o = *active_pattern;
+	PatternScore& o = *db.active_patternscore;
 	
 	o.structure = structure.GetData();
 }
@@ -111,7 +112,7 @@ void ScoreCtrl::DataScores() {
 	
 	Database& db = Database::Single();
 	PatternScore& o = db.scores[cursor];
-	active_pattern = &o;
+	db.active_patternscore = &o;
 	
 	structure.SetData(o.structure);
 	
@@ -127,9 +128,10 @@ void ScoreCtrl::DataScores() {
 }
 
 void ScoreCtrl::Reload() {
-	if (!active_pattern)
+	Database& db = Database::Single();
+	if (!db.active_patternscore)
 		return;
-	PatternScore& o = *active_pattern;
+	PatternScore& o = *db.active_patternscore;
 	
 	if (o.structure.IsEmpty())
 		return;
@@ -191,14 +193,15 @@ void ScoreCtrl::Reload() {
 }
 
 void ScoreCtrl::DataList() {
+	Database& db = Database::Single();
 	int cursor = part_list.GetCursor();
 	if (cursor < 0)
 		return;
 	
-	if (!active_pattern)
+	if (!db.active_patternscore)
 		return;
 	
-	PatternScore& o = *active_pattern;
+	PatternScore& o = *db.active_patternscore;
 	
 	// Whole song
 	if (cursor == 0) {
@@ -212,7 +215,7 @@ void ScoreCtrl::DataList() {
 			return;
 		
 		PartScore& part = o.unique_parts[part_i];
-		active_part = &part;
+		db.active_partscore = &part;
 		plotter.SetPart(o.unique_parts.GetKey(part_i), part);
 		
 		for(int i = 0; i < part.len; i++) {
@@ -233,12 +236,13 @@ void ScoreCtrl::DataList() {
 }
 
 void ScoreCtrl::ListValueChanged(int pos, int scoring) {
-	if (!active_part)
+	Database& db = Database::Single();
+	if (!db.active_partscore)
 		return;
 	
 	int value = list.Get(pos, 1+scoring);
 	
-	PartScore& part = *active_part;
+	PartScore& part = *db.active_partscore;
 	if (scoring >= part.values.GetCount())
 		part.values.SetCount(scoring+1);
 	

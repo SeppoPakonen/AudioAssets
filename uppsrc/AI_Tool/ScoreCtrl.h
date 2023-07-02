@@ -10,8 +10,6 @@ class ScoreCtrl : public WithScore<Ctrl> {
 	ArrayCtrl preset;
 	
 	
-	PatternScore* active_pattern = 0;
-	PartScore* active_part = 0;
 public:
 	typedef ScoreCtrl CLASSNAME;
 	ScoreCtrl();

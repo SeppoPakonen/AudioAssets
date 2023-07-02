@@ -52,8 +52,9 @@ void CompositionEditCtrl::Data() {
 	}
 	compositions.SetCount(db.compositions.GetCount());
 	
-	if (db.compositions.GetCount() && !compositions.IsCursor())
-		compositions.SetCursor(0);
+	int cursor = max(0, db.GetActiveCompositionIndex());
+	if (cursor >= 0 && cursor < db.compositions.GetCount())
+		compositions.SetCursor(cursor);
 	
 	if (compositions.IsCursor())
 		DataComposition();
@@ -69,7 +70,7 @@ void CompositionEditCtrl::DataComposition() {
 	
 	Database& db = Database::Single();
 	Composition& o = db.compositions[cursor];
-	active_composition = &o;
+	db.active_composition = &o;
 	
 	this->year						.SetData(o.year);
 	this->title						.SetData(o.title);
@@ -85,10 +86,12 @@ void CompositionEditCtrl::DataComposition() {
 }
 
 void CompositionEditCtrl::SaveComposition() {
-	if (!active_composition)
+	Database& db = Database::Single();
+	
+	if (!db.active_composition)
 		return;
 	
-	Composition& o = *active_composition;
+	Composition& o = *db.active_composition;
 	o.year						= this->year.GetData();
 	o.title						= this->title.GetData();
 	o.tempo						= this->tempo.GetData();

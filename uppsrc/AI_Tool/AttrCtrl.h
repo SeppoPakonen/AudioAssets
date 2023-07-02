@@ -38,7 +38,6 @@ public:
 	void Layout() override {invalidate_group_grid = true;}
 	
 	
-	PatternSnap* active_snap = 0;
 	Callback WhenUpdate;
 };
 

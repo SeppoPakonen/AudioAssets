@@ -28,7 +28,9 @@ file
 	PlotCtrl.h,
 	PlotCtrl.cpp,
 	ScoreCtrl.h,
-	ScoreCtrl.cpp;
+	ScoreCtrl.cpp,
+	MusicCtrl.h,
+	MusicCtrl.cpp;
 
 mainconfig
 	"" = "GUI";

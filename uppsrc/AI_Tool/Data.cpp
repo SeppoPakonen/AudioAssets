@@ -28,6 +28,10 @@ String Database::GetScoresDir() const {
 	return dir + DIR_SEPS "share" DIR_SEPS "scores" DIR_SEPS;
 }
 
+String Database::GetAttrScoresDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "attrscores" DIR_SEPS;
+}
+
 void Database::Save() {
 	{
 		String dir = GetArtistsDir();
@@ -100,6 +104,18 @@ void Database::Save() {
 		String dir = GetScoresDir();
 		RealizeDirectory(dir);
 		for (PatternScore& o : scores) {
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(o, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
+	{
+		String dir = GetAttrScoresDir();
+		RealizeDirectory(dir);
+		{
+			AttrScore& o = this->attrscores;
 			String json_path = dir + o.file_title + ".json";
 			String json = StoreAsJson(o, true);
 			FileOut fout(json_path);
@@ -225,6 +241,14 @@ void Database::Load() {
 		}
 		while (ff.Next());
 		Sort(scores, PatternScore());
+	}
+	
+	{
+		RealizeDirectory(dir);
+		attrscores.Clear();
+		String dir = GetAttrScoresDir();
+		String json_path = dir + attrscores.file_title + ".json";
+		LoadFromJsonFile(attrscores, json_path);
 	}
 	
 }
@@ -901,4 +925,100 @@ void PartScore::Realize() {
 	values.SetCount(g.scorings.GetCount());
 	for (auto& v : values)
 		v.SetCount(len, 0);
+}
+
+
+
+
+
+
+
+AttrScore::AttrScore() {
+	file_title = "default";
+	
+}
+
+void AttrScore::RealizeTemp() {
+	// Connect group/items to attribute groups and entries
+	// These classes are kept separate, because they center around different concepts.
+	
+	Grouplist& g = Database::Single().groups;
+	
+	// Loop Grouplist's groups and entries
+	int gc = g.groups.GetCount();
+	int ogc = this->attr_to_score.GetCount(); // begin
+	this->attr_to_score.SetCount(gc);
+	int total = 0, not_found = 0;
+	for(int i = ogc; i < gc; i++) {
+		Vector<int>& vv = attr_to_score[i];
+		
+		Grouplist::Group& gg = g.groups[i];
+		int vc = gg.values.GetCount();
+		int ovc = vv.GetCount();
+		vv.SetCount(vc, -1);
+		
+		for(int j = ovc; j < vc; j++) {
+			int& v = vv[j];
+			total++;
+			
+			if (v >= 0)
+				continue;
+			
+			// Here you have group and entry without connection
+			
+			// Loop groups of this class, and match group/entry (==SnapAttr) value
+			bool found = false;
+			int asg_i = 0;
+			for (const AttrScoreGroup& asg : groups) {
+				for (const SnapAttr& sa : asg.attrs) {
+					if (sa.group == i && sa.item == j) {
+						// Match found
+						v = asg_i;
+						found = true;
+					}
+				}
+				if (found) break;
+				asg_i++;
+			}
+			
+			not_found++;
+		}
+	}
+	
+	double ready = 100.0 * not_found / total;
+	LOG("AttrScore::RealizeTemp: total=" << total << ", not_found=" << not_found << " (" << ready << "\%");
+}
+
+
+
+String AttrScoreGroup::ToString() const {
+	Grouplist& g = Database::Single().groups;
+	
+	String s;
+	if (name.GetCount())
+		s << t_("Name") << ": " << name << "\n";
+	
+	for(int i = 0; i < scores.GetCount(); i++) {
+		int sc = scores[i];
+		if (!sc) continue;
+		
+		if (i >= g.scorings.GetCount()) {
+			s << "error\n";
+			continue;
+		}
+		
+		const Grouplist::ScoringType& t = g.scorings[i];
+		String name =
+			Capitalize(g.Translate(t.klass)) + ": " + (sc > 0 ? "+" : "-") + " (" +
+			Capitalize(g.Translate(sc > 0 ? t.axes0 : t.axes1)) + ")";
+		s << name << "\n";
+	}
+	
+	return s;
+}
+
+
+
+String Capitalize(String s) {
+	return ToUpper(s.Left(1)) + s.Mid(1);
 }

@@ -147,6 +147,21 @@ void Plotter::Paint(Draw& d) {
 	}
 	
 	{
+		double cx = (double)sz.cx / (vert_x-1);
+		double xoff = mode == 0 ? -cx / 2 : 0;
+		for(int i = 0; i < vert_lines.GetCount(); i++) {
+			int x = xoff + cx * vert_lines[i];
+			d.DrawLine(x, 0, x, sz.cy, 1, Black());
+		}
+		for(int i = 1; i < vert_x; i++) {
+			int x = cx * i;
+			int y__ = sz.cy / 10;
+			int y_2 = sz.cy / 2;
+			int y0 = y_2 - y__;
+			int y1 = y_2 + y__;
+			d.DrawLine(x, y0, x, y1, 1, GrayColor(128));
+		}
+		
 		d.DrawText(3,3,part_key,fnt,txt_clr);
 		d.DrawText(3,13, !mode ? t_("absolute value") : t_("accumulated value"), fnt,txt_clr);
 	}
@@ -225,13 +240,6 @@ void Plotter::Paint(Draw& d) {
 		d.DrawPolyline(polyline, 3, clr);
 	}
 	
-	if (vert_lines.GetCount()) {
-		double cx = (double)sz.cx / (vert_x-1);
-		for(int i = 0; i < vert_lines.GetCount(); i++) {
-			int x = cx * vert_lines[i];
-			d.DrawLine(x, 0, x, sz.cy, 1, Black());
-		}
-	}
 }
 
 void Plotter::LeftDown(Point p, dword keyflags) {

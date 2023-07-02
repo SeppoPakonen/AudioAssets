@@ -50,15 +50,15 @@ void PatternCtrl::SwitchView() {
 }
 
 void PatternCtrl::Reload() {
-	if (!active_pattern)
+	Database& db = Database::Single();
+	if (!db.active_pattern)
 		return;
-	Pattern& o = *active_pattern;
+	Pattern& o = *db.active_pattern;
 	
 	if (o.structure.IsEmpty())
 		return;
 	
-	active_snap = 0;
-	attr.active_snap = 0;
+	db.active_snap = 0;
 	
 	o.parts.Clear();
 	o.unique_parts.Clear();
@@ -136,8 +136,9 @@ void PatternCtrl::Data() {
 	}
 	patterns.SetCount(db.patterns.GetCount());
 	
-	if (db.patterns.GetCount() && !patterns.IsCursor())
-		patterns.SetCursor(0);
+	int cursor = max(0, db.GetActivePatternIndex());
+	if (cursor >= 0 && cursor < db.patterns.GetCount())
+		patterns.SetCursor(cursor);
 	
 	if (patterns.IsCursor())
 		DataPattern();
@@ -165,7 +166,7 @@ void PatternCtrl::DataPattern() {
 	
 	Database& db = Database::Single();
 	Pattern& o = db.patterns[cursor];
-	active_pattern = &o;
+	db.active_pattern = &o;
 	
 	structure.SetData(o.structure);
 	
@@ -173,19 +174,21 @@ void PatternCtrl::DataPattern() {
 }
 
 void PatternCtrl::SavePattern() {
-	if (!active_pattern)
+	Database& db = Database::Single();
+	if (!db.active_pattern)
 		return;
 	
-	Pattern& o = *active_pattern;
+	Pattern& o = *db.active_pattern;
 	
 	o.structure = structure.GetData();
 }
 
 void PatternCtrl::DataPatternTree() {
-	if (!active_pattern)
+	Database& db = Database::Single();
+	if (!db.active_pattern)
 		return;
 	
-	Pattern& o = *active_pattern;
+	Pattern& o = *db.active_pattern;
 	
 	tree_snaps.Clear();
 	tree.Clear();
@@ -219,11 +222,12 @@ void PatternCtrl::DataPatternTreeNode(PatternSnap& snap, int parent) {
 }
 
 void PatternCtrl::OnTreeSel() {
+	Database& db = Database::Single();
 	int cursor = tree.GetCursor();
 	int i = tree_snaps.Find(cursor);
 	if (i >= 0) {
 		PatternSnap& snap = *tree_snaps[i];
-		active_snap = &snap;
+		db.active_snap = &snap;
 		FocusList();
 		DataPatternSnap();
 		DataList();
@@ -231,18 +235,20 @@ void PatternCtrl::OnTreeSel() {
 }
 
 void PatternCtrl::OnListSel() {
+	Database& db = Database::Single();
 	int cursor = list.GetCursor();
 	if (cursor >= 0 && cursor < level_snaps.GetCount()) {
 		PatternSnap& snap = *level_snaps[cursor];
-		active_snap = &snap;
+		db.active_snap = &snap;
 		FocusTree();
 		DataPatternSnap();
 	}
 }
 
 void PatternCtrl::FocusTree() {
+	Database& db = Database::Single();
 	for(int i = 0; i < tree_snaps.GetCount(); i++) {
-		if (tree_snaps[i] == active_snap) {
+		if (tree_snaps[i] == db.active_snap) {
 			tree.SetCursor(tree_snaps.GetKey(i));
 			break;
 		}
@@ -250,8 +256,9 @@ void PatternCtrl::FocusTree() {
 }
 
 void PatternCtrl::FocusList() {
+	Database& db = Database::Single();
 	for(int i = 0; i < level_snaps.GetCount(); i++) {
-		if (level_snaps[i] == active_snap) {
+		if (level_snaps[i] == db.active_snap) {
 			list.SetCursor(i);
 			break;
 		}
@@ -259,20 +266,20 @@ void PatternCtrl::FocusList() {
 }
 
 void PatternCtrl::DataPatternSnap() {
-	attr.active_snap = active_snap;
 	attr.Load();
 	attr.Refresh();
 }
 
 void PatternCtrl::DataList() {
-	if (!active_pattern || !active_snap)
+	Database& db = Database::Single();
+	if (!db.active_pattern || !db.active_snap)
 		return;
 	
 	Database& d = Database::Single();
 	Grouplist& g = d.groups;
 	
-	Pattern& o = *active_pattern;
-	PatternSnap& s = *active_snap;
+	Pattern& o = *db.active_pattern;
+	PatternSnap& s = *db.active_snap;
 	int level = s.GetLevel();
 	
 	level_snaps.SetCount(0);

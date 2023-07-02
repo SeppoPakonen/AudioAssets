@@ -302,6 +302,12 @@ struct PatternSnap : DataFile {
 			if (b) b->GetSnapsLevel(level, level_snaps);
 		}
 	}
+	void GetAttributes(Index<SnapAttr>& attrs) const {
+		for (const SnapAttr& a : this->attributes.GetKeys())
+			attrs.FindAdd(a);
+		if (a) a->GetAttributes(attrs);
+		if (b) b->GetAttributes(attrs);
+	}
 };
 
 struct Part {
@@ -360,6 +366,11 @@ struct Pattern : DataFile {
 		for (Part& p : unique_parts.GetValues())
 			p.snap.GetSnapsLevel(level, level_snaps);
 	}
+	void GetAttributes(Index<SnapAttr>& attrs) const {
+		for (const Part& p : unique_parts.GetValues())
+			p.snap.GetAttributes(attrs);
+	}
+	
 };
 
 struct PartScore {
@@ -378,6 +389,77 @@ struct PartScore {
 			Realize();
 	}
 	void Realize();
+};
+
+struct AttrScoreGroup {
+	Vector<SnapAttr> attrs;
+	Vector<int> scores;
+	String name;
+	
+	void Jsonize(JsonIO& json) {
+		json
+			("attrs", attrs)
+			("scores", scores)
+			("name", name)
+			;
+	}
+	String GetName() const {
+		if (!name.IsEmpty())
+			return name;
+		String s;
+		for (const int& i : scores) {
+			switch (i) {
+				#if 0
+				case 0: s.Cat('0'); break;
+				case 1: s.Cat('+'); break;
+				case -1: s.Cat('-'); break;
+				#else
+				case 0: s.Cat('-'); break;
+				case 1: s.Cat('^'); break;
+				case -1: s.Cat('_'); break;
+				#endif
+				default: s << IntStr(i); break;
+			}
+		}
+		return s;
+	}
+	bool Is(const Vector<int>& s) const {
+		if (s.GetCount() != scores.GetCount()) return false;
+		for(int i = 0; i < s.GetCount(); i++)
+			if (s[i] != scores[i])
+				return false;
+		return true;
+	}
+	String ToString() const;
+	
+};
+
+struct AttrScore : DataFile {
+	Array<AttrScoreGroup> groups;
+	
+	// Temp
+	Vector<Vector<int>> attr_to_score;
+	
+	
+	AttrScore();
+	
+	AttrScoreGroup& GetAdd(const Vector<int>& scores) {
+		for (AttrScoreGroup& g : groups)
+			if (g.Is(scores))
+				return g;
+		AttrScoreGroup& g = groups.Add();
+		g.scores <<= scores;
+		return g;
+	}
+	void Clear() {
+		groups.Clear();
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("groups", groups)
+			;
+	}
+	void RealizeTemp();
 };
 
 struct PatternScore : DataFile {
@@ -508,6 +590,17 @@ struct Analysis : DataFile {
 	
 };
 
+template <class T, class PTR>
+int VectorFindPtr(PTR* p, T& arr) {
+	int i = 0;
+	for (auto& r : arr) {
+		if (&r == p)
+			return i;
+		i++;
+	}
+	return -1;
+}
+
 struct Database {
 	String				dir;
 	Array<Story>		stories;
@@ -515,8 +608,26 @@ struct Database {
 	Array<Pattern>		patterns;
 	Array<Composition>	compositions;
 	Array<Analysis>		analyses;
+	AttrScore			attrscores;
 	Array<PatternScore>	scores;
 	Grouplist			groups;
+	
+	Artist*			active_artist = 0;
+	Story*			active_story = 0;
+	PatternSnap*	active_snap = 0;
+	Pattern*		active_pattern = 0;
+	PartScore*		active_partscore = 0;
+	PatternScore*	active_patternscore = 0;
+	Composition*	active_composition = 0;
+	Analysis*		active_analysis = 0;
+	AttrScoreGroup*	active_scoregroup = 0;
+	
+	int GetActiveArtistIndex() const {return VectorFindPtr(active_artist, artists);}
+	int GetActivePatternIndex() const {return VectorFindPtr(active_pattern, patterns);}
+	int GetActiveStoryIndex() const {return VectorFindPtr(active_story, stories);}
+	int GetActiveCompositionIndex() const {return VectorFindPtr(active_composition, compositions);}
+	int GetActiveAnalysisIndex() const {return VectorFindPtr(active_analysis, analyses);}
+	int GetActiveScoreGroupIndex() const {return VectorFindPtr(active_scoregroup, attrscores.groups);}
 	
 	void Save();
 	void Load();
@@ -546,11 +657,13 @@ struct Database {
 	String GetAnalysesDir() const;
 	String GetScoresDir() const;
 	String GetAttributesDir() const;
+	String GetAttrScoresDir() const;
 	
 	static Database& Single() {static Database db; return db;}
 	
 };
 
 String GetSnapGroupString(PatternSnap& snap, int group, Index<String>& skip_list);
+String Capitalize(String s);
 
 #endif

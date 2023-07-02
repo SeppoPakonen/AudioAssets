@@ -38,8 +38,6 @@ public:
 	void SwitchView();
 	
 	ToolApp* app = 0;
-	Pattern* active_pattern = 0;
-	PatternSnap* active_snap = 0;
 	
 };
 
