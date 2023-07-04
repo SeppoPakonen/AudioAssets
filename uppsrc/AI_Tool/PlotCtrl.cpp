@@ -90,6 +90,8 @@ Plotter::Plotter() {
 
 void Plotter::Paint(Draw& d) {
 	Size sz = GetSize();
+	bool absolute_mode = mode == MODE_ABSOLUTE   || mode == MODE_ABSOLUTE_WEIGHTED;
+	bool weighted_mode = mode == MODE_ABSOLUTE_WEIGHTED || mode == MODE_CUMULATIVE_WEIGHTED;
 	
 	d.DrawRect(sz, White());
 	
@@ -109,6 +111,7 @@ void Plotter::Paint(Draw& d) {
 	
 	String part_key;
 	int vert_x = 0;
+	Vector<int> caps;
 	if (whole_song) {
 		if (!pattern)
 			return;
@@ -142,13 +145,55 @@ void Plotter::Paint(Draw& d) {
 		if (!part)
 			return;
 		part->Realize();
-		this->values <<= part->values;
 		part_key = this->part_key;
+		int c = part->values.GetCount();
+		this->values.SetCount(c);
+		for(int i = 0; i < c; i++) {
+			const auto& f = part->values[i];
+			auto& d = this->values[i];
+			int c0 = f.GetCount();
+			d.SetCount(c0);
+			for(int j = 0; j < c0; j++)
+				d[j] = f[j];
+		}
 	}
 	
+	// Weighted value (constant sum of scoring groups)
+	if (weighted_mode) {
+		int pos = values[0].GetCount();
+		for(int i = 0; i < pos; i++) {
+			double sum = 0;
+			for(int j = 0; j < c; j++) {
+				sum += fabs(values[j][i]);
+			}
+			if (sum != 0) {
+				double av = 1.0 / sum;
+				for(int j = 0; j < c; j++)
+					values[j][i] *= av;
+			}
+		}
+	}
+	
+	rids.Clear();
+	double cx = (double)sz.cx / (vert_x-1);
+	double xoff = absolute_mode ? -cx / 2 : 0;
 	{
 		double cx = (double)sz.cx / (vert_x-1);
-		double xoff = mode == 0 ? -cx / 2 : 0;
+		int k = 0;
+		for(int i = 0; i < pattern->parts.GetCount(); i++) {
+			const String& part_key = pattern->parts[i];
+			const PartScore& part = pattern->unique_parts.Get(part_key);
+			for(int j = 0; j < part.len; j++) {
+				int x = xoff + cx * k;
+				RectId& rid = rids.Add();
+				rid.a = RectC(x, 0, cx, sz.cy);
+				rid.b = i;
+				rid.c = j;
+				k++;
+			}
+		}
+	}
+	{
 		for(int i = 0; i < vert_lines.GetCount(); i++) {
 			int x = xoff + cx * vert_lines[i];
 			d.DrawLine(x, 0, x, sz.cy, 1, Black());
@@ -163,11 +208,19 @@ void Plotter::Paint(Draw& d) {
 		}
 		
 		d.DrawText(3,3,part_key,fnt,txt_clr);
-		d.DrawText(3,13, !mode ? t_("absolute value") : t_("accumulated value"), fnt,txt_clr);
+		
+		String t;
+		switch (mode) {
+			case MODE_ABSOLUTE: t = t_("absolute value"); break;
+			case MODE_CUMULATIVE: t = t_("accumulated value"); break;
+			case MODE_ABSOLUTE_WEIGHTED: t = t_("weighted absolute value"); break;
+			case MODE_CUMULATIVE_WEIGHTED: t = t_("weighted accumulated value"); break;
+		}
+		d.DrawText(3,13, t, fnt,txt_clr);
 	}
 	
 	// Accumulated value mode
-	if (mode == 1) {
+	if (!absolute_mode) {
 		for (auto& vv : this->values) {
 			double a = 0;
 			for (auto& v : vv) {
@@ -178,6 +231,7 @@ void Plotter::Paint(Draw& d) {
 	}
 	
 	// Don't draw zero-lines
+	draw_count = 0;
 	for(int i = 0; i < draw_group.GetCount(); i++) {
 		bool& b = draw_group[i];
 		b = false;
@@ -188,10 +242,14 @@ void Plotter::Paint(Draw& d) {
 				break;
 			}
 		}
+		if (b)
+			draw_count++;
 	}
+	draw_count = max(1, draw_count);
+	focused_group = focused_group % draw_count;
 	
-	int limit = 0;
-	for(int i = 0; i < c; i++) {
+	double limit = 0;
+	for(int i = 0, j = 0; i < c; i++) {
 		if (!draw_group[i])
 			continue;
 		
@@ -204,12 +262,21 @@ void Plotter::Paint(Draw& d) {
 		double h = (double)i / c;
 		Color clr = HSVToRGB(h, 1, 0.5);
 		Size sz = GetTextSize(str, fnt);
-		d.DrawRect(RectC(5, y, sz.cx, sz.cy), White());
-		d.DrawText(5, y, str, fnt, clr);
+		Font fnt0 = fnt;
+		Color bg = White;
+		if (focused_group == j) {
+			fnt0.Bold();
+			bg = GrayColor(256-32);
+			focused_group_i = i;
+		}
+		d.DrawRect(RectC(5, y, sz.cx, sz.cy), bg);
+		d.DrawText(5, y, str, fnt0, clr);
 		y-= 11;
 		
 		for (auto& v : values[i])
 			limit = max(limit, abs(v));
+		
+		j++;
 	}
 	if (!limit)
 		limit = 1;
@@ -217,7 +284,7 @@ void Plotter::Paint(Draw& d) {
 	int h_2 = sz.cy / 2;
 	d.DrawLine(0, h_2, sz.cx-1, h_2, 1, Black());
 	
-	for(int i = 0; i < c; i++) {
+	for(int i = 0, j = 0; i < c; i++) {
 		if (!draw_group[i])
 			continue;
 		
@@ -237,21 +304,60 @@ void Plotter::Paint(Draw& d) {
 			pt.y = (1.0 - fy) * sz.cy;
 			x += cx;
 		}
-		d.DrawPolyline(polyline, 3, clr);
+		int lh = (focused_group == j) ? 3 : 1;
+		d.DrawPolyline(polyline, lh, clr);
+		j++;
 	}
 	
 }
 
 void Plotter::LeftDown(Point p, dword keyflags) {
-	mode = (mode + 1) % 2;
+	if (keyflags & K_SHIFT)
+		mode = mode == 0 ? MODE_COUNT-1 : mode - 1;
+	else
+		mode = (mode + 1) % MODE_COUNT;
+	Refresh();
+}
+
+void Plotter::RightDown(Point p, dword keyflags) {
+	if (keyflags & K_SHIFT)
+		focused_group = (focused_group + 1) % draw_count;
+	else
+		focused_group = focused_group == 0 ? draw_count-1 : focused_group-1;
 	Refresh();
 }
 
 void Plotter::MouseWheel(Point p, int zdelta, dword keyflags) {
 	Database& d = Database::Single();
-	focused_type = (focused_type + (zdelta > 0 ? +1 : -1)) % d.groups.scorings.GetCount();
+	if (keyflags & K_SHIFT) {
+		if (zdelta > 0)
+			focused_group = (focused_group + 1) % draw_count;
+		else
+			focused_group = focused_group == 0 ? draw_count-1 : focused_group-1;
+	}
+	else {
+		DUMPC(rids);
+		for (const RectId& rid : rids) {
+			if (rid.a.Contains(p)) {
+				int change = zdelta > 0 ? +1 : -1;
+				const String& part_key = pattern->parts[rid.b];
+				PartScore& part = pattern->unique_parts.Get(part_key);
+				if (focused_group_i < 0 || focused_group_i > part.values.GetCount())
+					return;
+				
+				auto& v = part.values[focused_group_i];
+				if (rid.c < 0 || rid.c >= v.GetCount())
+					return;
+				
+				auto& score = v[rid.c];
+				score += change;
+				break;
+			}
+		}
+	}
 	Refresh();
 }
+
 
 
 

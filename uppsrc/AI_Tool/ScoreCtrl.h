@@ -7,8 +7,12 @@ class ScoreCtrl : public WithScore<Ctrl> {
 	Plotter plotter;
 	ArrayCtrl list;
 	ArrayCtrl part_list;
-	ArrayCtrl preset;
+	ArrayCtrl presets;
 	
+	static const int group_begin = 3;
+	
+	void ListMenu(Bar& bar);
+	void PresetMenu(Bar& bar);
 	
 public:
 	typedef ScoreCtrl CLASSNAME;
@@ -17,13 +21,19 @@ public:
 	void Data();
 	void DataScores();
 	void DataList();
+	void DataPresets();
 	void AddPreset();
 	void AddPattern();
 	void SavePattern();
 	void NewPattern(const String& name);
 	void Reload();
 	void LoadActivePattern();
+	void SavePreset();
+	void UpdatePreset();
+	void ApplyPreset();
+	void RemovePreset();
 	void ListValueChanged(int pos, int scoring);
+	void GetScores(const PatternSnap& snap, Vector<int>& scores);
 	
 	ToolApp* app = 0;
 	

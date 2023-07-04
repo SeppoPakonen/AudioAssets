@@ -323,22 +323,22 @@ void AttrScoreCtrl::CheckErrors() {
 const char* attrscore_prompt1 = R"ATRSCROO(
 
 List of axes:
--a Mood: joyful/melancholic
--b Mood: playful/serious
--c Mood: uplifting/heavy
--d Mood: lighthearted/somber
--e Mood: humorous/dramatic
--f Social: authoritarian/liberatrian
--g Economic: liberal/conservative
--h Culture: individualism/collective
--i Human strength: strong/weak
--j Motivation: rewarding/punishing
--k Sexualization: sexual/non-sexual
--l Attitude: hopeful/despair
--m Attitude: optimistic/pessimistic
--n Attitude: open/closed
--o Beliefs: spiritual/ secular
--p Expectations: perfection/acceptance
+-a Mood: +joyful/-melancholic
+-b Mood: +playful/-serious
+-c Mood: +uplifting/-heavy
+-d Mood: +lighthearted/-somber
+-e Mood: +humorous/-dramatic
+-f Social: +authoritarian/-liberatrian
+-g Economic: +liberal/-conservative
+-h Culture: +individualism/-collective
+-i Human strength: +strong/-weak
+-j Motivation: +rewarding/-punishing
+-k Sexualization: +sexual/-non-sexual
+-l Attitude: +hopeful/-despair
+-m Attitude: +optimistic/-pessimistic
+-n Attitude: +open/-closed
+-o Beliefs: +spiritual/-secular
+-p Expectations: +perfection/-acceptance
 
 Combination string from results:
  - a (Mood: joyful/melancholic) b (Mood: playful/serious) c (Mood: uplifting/heavy) etc.
@@ -461,8 +461,8 @@ void AttrScoreCtrl::ParsePrompt() {
 		
 		String group = part.Left(a);
 		Index<String> keys;
-		DUMP(part);
-		DUMP(a);
+		//DUMP(part);
+		//DUMP(a);
 		while (1) {
 			a = part.Find("\"", a);
 			if (a < 0)
@@ -479,7 +479,7 @@ void AttrScoreCtrl::ParsePrompt() {
 		if (keys.IsEmpty())
 			continue;
 		
-		DUMPC(keys);
+		//DUMPC(keys);
 		
 		String search = "Combination string:";
 		a = part.Find(search);
@@ -492,7 +492,7 @@ void AttrScoreCtrl::ParsePrompt() {
 		if (parts.GetCount() > 1 && keys.GetCount() == 1 && keys[0] == "i (m)")
 			continue;
 		
-		LOG(group << ": " << keys[0] << ": " << score_str);
+		//LOG(group << ": " << keys[0] << ": " << score_str);
 		
 		
 		// Check that groups and entries exists.

@@ -100,7 +100,9 @@ public:
 	AnalysisEditCtrl	analysis_ctrl;
 	ScoreCtrl			score_ctrl;
 	AttrScoreCtrl		attrscore_ctrl;
-	MusicCtrl			music_ctrl;
+	ProductionCtrl		prod_ctrl;
+	ReverseCtrl			rev_ctrl;
+	TimelineCtrl		timeline_ctrl;
 	
 public:
 	typedef ToolApp CLASSNAME;

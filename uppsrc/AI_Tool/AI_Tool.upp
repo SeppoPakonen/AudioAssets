@@ -29,8 +29,13 @@ file
 	PlotCtrl.cpp,
 	ScoreCtrl.h,
 	ScoreCtrl.cpp,
-	MusicCtrl.h,
-	MusicCtrl.cpp;
+	ReverseCtrl.h,
+	ReverseCtrl.cpp,
+	ProductionCtrl.h,
+	ProductionCtrl.cpp,
+	TimelineCtrl.h,
+	TimelineCtrl.cpp,
+	Optimizer.h;
 
 mainconfig
 	"" = "GUI";

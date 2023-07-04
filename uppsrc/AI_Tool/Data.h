@@ -437,6 +437,7 @@ struct AttrScoreGroup {
 
 struct AttrScore : DataFile {
 	Array<AttrScoreGroup> groups;
+	VectorMap<String, Vector<int>> presets;
 	
 	// Temp
 	Vector<Vector<int>> attr_to_score;
@@ -458,6 +459,7 @@ struct AttrScore : DataFile {
 	void Jsonize(JsonIO& json) {
 		json
 			("groups", groups)
+			("presets", presets)
 			;
 	}
 	void RealizeTemp();
@@ -591,6 +593,46 @@ struct Analysis : DataFile {
 	
 };
 
+struct Timeline : DataFile {
+	struct Song {
+		String title, prj_name;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("title", title)
+				("prj_name", prj_name)
+				;
+		}
+	};
+	struct Album {
+		String artist, title;
+		Date date;
+		Array<Song> songs;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("artist", artist)
+				("title", title)
+				("date", date)
+				("songs", songs)
+				;
+		}
+	};
+	
+	Array<Album> albums;
+	
+	
+	
+	void Clear() {
+		albums.Clear();
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("albums", albums)
+			;
+	}
+};
+
 template <class T, class PTR>
 int VectorFindPtr(PTR* p, T& arr) {
 	int i = 0;
@@ -612,6 +654,7 @@ struct Database {
 	AttrScore			attrscores;
 	Array<PatternScore>	scores;
 	Grouplist			groups;
+	Timeline			timeline;
 	
 	Artist*			active_artist = 0;
 	Story*			active_story = 0;
@@ -659,6 +702,7 @@ struct Database {
 	String GetScoresDir() const;
 	String GetAttributesDir() const;
 	String GetAttrScoresDir() const;
+	String GetTimelineDir() const;
 	
 	static Database& Single() {static Database db; return db;}
 	

@@ -61,9 +61,10 @@ void PatternCtrl::Reload() {
 	db.active_snap = 0;
 	
 	o.parts.Clear();
-	o.unique_parts.Clear();
+	//o.unique_parts.Clear();
 	
 	Vector<String> part_str = Split(o.structure, ",");
+	Index<String> part_seen;
 	
 	for (String& p : part_str) {
 		p = TrimBoth(p);
@@ -89,19 +90,26 @@ void PatternCtrl::Reload() {
 			// Check for beat length error
 			i = o.unique_parts.Find(name);
 			if (i >= 0) {
-				if (o.unique_parts[i].len != beats) {
-					PromptOK(DeQtf("error: part length mismatch"));
-					return;
+				Part& part = o.unique_parts[i];
+				if (part.len != beats) {
+					if (part_seen.Find(name) < 0) {
+						part.len = beats;
+					}
+					else {
+						PromptOK(DeQtf("error: part length mismatch"));
+						return;
+					}
 				}
 			}
 			else {
-				Part& part = o.unique_parts.Add(name);
+				Part& part = o.unique_parts.GetAdd(name);
 				part.len = beats;
 			}
 		}
 		
 		// Add part
 		o.parts.Add(name);
+		part_seen.Add(name);
 	}
 	
 	DUMPM(o.unique_parts);

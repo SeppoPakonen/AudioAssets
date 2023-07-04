@@ -268,7 +268,8 @@
 					"implying urgency",
 					"light-hearted",
 					"broody",
-					"bold"
+					"bold",
+					"strong and authoritarian"
 				]
 			}
 		},
@@ -390,7 +391,8 @@
 					"confident",
 					"assured",
 					"motivating",
-					"reflective"
+					"reflective",
+					"low, calm"
 				]
 			}
 		},
@@ -540,7 +542,9 @@
 					"my bed (m)",
 					"my bed (f)",
 					"your bed (m)",
-					"your bed (f)"
+					"your bed (f)",
+					"the city",
+					"the beach"
 				]
 			}
 		},
@@ -571,6 +575,26 @@
 				},
 				"values": [
 					"Champion"
+				]
+			}
+		},
+		{
+			"key": "idea",
+			"value": {
+				"description": "Idea",
+				"color": {
+					"red": 181,
+					"green": 198,
+					"blue": 192
+				},
+				"values": [
+					"edu-tainment",
+					"a free spirited individual who is optimistic, playful, and joyful, yet realistic and accepting of imperfection.",
+					"building strong relationships",
+					"gratitude",
+					"sex, drugs, and rock n roll",
+					"creative and free thinking",
+					"a world of mad, fun-loving equality"
 				]
 			}
 		}
@@ -605,6 +629,10 @@
 						"value": "kielletty romanssi"
 					},
 					{
+						"key": "a free spirited individual who is optimistic, playful, and joyful, yet realistic and accepting of imperfection.",
+						"value": ""
+					},
+					{
 						"key": "a marriage in crisis",
 						"value": "avioliitto kriisiss‰"
 					},
@@ -627,6 +655,10 @@
 					{
 						"key": "a serious illness",
 						"value": "vakava sairaus"
+					},
+					{
+						"key": "a world of mad, fun-loving equality",
+						"value": ""
 					},
 					{
 						"key": "absurd and exaggerated scenarios",
@@ -753,6 +785,10 @@
 						"value": "mieless‰‰n hautova"
 					},
 					{
+						"key": "building strong relationships",
+						"value": ""
+					},
+					{
 						"key": "business",
 						"value": "liiketoiminnallinen"
 					},
@@ -873,6 +909,10 @@
 						"value": "luova"
 					},
 					{
+						"key": "creative and free thinking",
+						"value": ""
+					},
+					{
 						"key": "crooning",
 						"value": "kruunaus"
 					},
@@ -946,11 +986,11 @@
 					},
 					{
 						"key": "do",
-						"value": "tehd‰"
+						"value": "tee"
 					},
 					{
 						"key": "do",
-						"value": "tee"
+						"value": "tehd‰"
 					},
 					{
 						"key": "dramatic",
@@ -971,6 +1011,10 @@
 					{
 						"key": "economic",
 						"value": "ekonominen"
+					},
+					{
+						"key": "edu-tainment",
+						"value": ""
 					},
 					{
 						"key": "educating",
@@ -1165,6 +1209,10 @@
 						"value": "min‰ (m)"
 					},
 					{
+						"key": "idea",
+						"value": ""
+					},
+					{
 						"key": "imperative",
 						"value": "k‰skev‰"
 					},
@@ -1287,6 +1335,10 @@
 					{
 						"key": "love",
 						"value": "rakkaus"
+					},
+					{
+						"key": "low, calm",
+						"value": ""
 					},
 					{
 						"key": "loyalty",
@@ -1613,6 +1665,10 @@
 						"value": "pyll‰hdys"
 					},
 					{
+						"key": "prechorus",
+						"value": ""
+					},
+					{
 						"key": "promote someone's",
 						"value": "promote someone's"
 					},
@@ -1805,6 +1861,10 @@
 						"value": "seksi huumoria"
 					},
 					{
+						"key": "sex, drugs, and rock n roll",
+						"value": ""
+					},
+					{
 						"key": "sexual",
 						"value": "seksuaalinen"
 					},
@@ -1893,6 +1953,10 @@
 						"value": "vahva"
 					},
 					{
+						"key": "strong and authoritarian",
+						"value": ""
+					},
+					{
 						"key": "subversion of expectations",
 						"value": "odotusten kumoaminen"
 					},
@@ -1939,6 +2003,14 @@
 					{
 						"key": "that",
 						"value": "se"
+					},
+					{
+						"key": "the beach",
+						"value": ""
+					},
+					{
+						"key": "the city",
+						"value": ""
 					},
 					{
 						"key": "themes around",

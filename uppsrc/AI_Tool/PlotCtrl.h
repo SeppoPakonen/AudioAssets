@@ -3,17 +3,30 @@
 
 
 class Plotter : public Ctrl {
+	using RectId = Tuple3<Rect,int,int>;
+	
+	enum {
+		MODE_ABSOLUTE,
+		MODE_CUMULATIVE,
+		MODE_ABSOLUTE_WEIGHTED,
+		MODE_CUMULATIVE_WEIGHTED,
+		
+		MODE_COUNT
+	};
+	
 	int mode = 0;
 	bool whole_song = false;
-	int focused_type = 0;
+	int focused_group = 0, focused_group_i = 0;
+	int draw_count = 0;
 	String part_key;
 	PartScore* part = 0;
 	PatternScore* pattern = 0;
 	
-	Vector<Vector<int>> values;
+	Vector<Vector<double>> values;
 	Vector<Point> polyline;
 	Vector<bool> draw_group;
 	Vector<int> vert_lines;
+	Vector<RectId> rids;
 	
 public:
 	Plotter();
@@ -24,7 +37,10 @@ public:
 	
 	
 	void LeftDown(Point p, dword keyflags) override;
+	void RightDown(Point p, dword keyflags) override;
 	void MouseWheel(Point p, int zdelta, dword keyflags) override;
+	
+	
 
 };
 

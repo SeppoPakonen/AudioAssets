@@ -109,12 +109,13 @@ LAYOUT(Pattern, 556, 216)
 END_LAYOUT
 
 LAYOUT(Score, 556, 216)
-	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Score")).LeftPosZ(4, 228).TopPosZ(4, 92))
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Score")).LeftPosZ(4, 228).TopPosZ(4, 116))
 	ITEM(Upp::Label, dv___1, SetLabel(t_("Struct:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))
 	ITEM(Upp::EditString, structure, LeftPosZ(68, 160).TopPosZ(20, 20))
 	ITEM(Upp::Button, reload, SetLabel(t_("Reload Structure")).LeftPosZ(68, 160).TopPosZ(44, 20))
 	ITEM(Upp::Button, load_active_pattern, SetLabel(t_("Load active pattern")).LeftPosZ(68, 160).TopPosZ(68, 20))
-	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(100, 32))
+	ITEM(Upp::Button, new_preset, SetLabel(t_("New preset")).LeftPosZ(68, 160).TopPosZ(92, 20))
+	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(124, 32))
 	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
 	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(4, 24))
 END_LAYOUT
@@ -129,7 +130,7 @@ LAYOUT(AttrScore, 400, 200)
 	ITEM(Upp::Button, parse_prompt, SetLabel(t_("Parse AI prompt from clipboard")).LeftPosZ(4, 228).BottomPosZ(4, 24))
 END_LAYOUT
 
-LAYOUT(Music, 400, 200)
+LAYOUT(Production, 400, 200)
 END_LAYOUT
 
 LAYOUT(AttrWords, 396, 332)
@@ -138,5 +139,37 @@ LAYOUT(AttrWords, 396, 332)
 	ITEM(Upp::DropList, groups, HSizePosZ(92, 4).TopPosZ(4, 24))
 	ITEM(Upp::Button, copy_prompt, SetLabel(t_("Copy prompt to clipboard")).HCenterPosZ(192, -98).BottomPosZ(4, 24))
 	ITEM(Upp::Button, paste_prompt, SetLabel(t_("Paste prompt from clipboard")).HCenterPosZ(192, 98).BottomPosZ(4, 24))
+END_LAYOUT
+
+LAYOUT(Reverse, 400, 200)
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Score")).LeftPosZ(4, 228).TopPosZ(4, 116))
+	ITEM(Upp::Label, dv___1, SetLabel(t_("Struct:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))
+	ITEM(Upp::EditString, structure, LeftPosZ(68, 160).TopPosZ(20, 20))
+	ITEM(Upp::Button, reload, SetLabel(t_("Reload Structure")).LeftPosZ(68, 160).TopPosZ(44, 20))
+	ITEM(Upp::Button, load_active_pattern, SetLabel(t_("Load active pattern")).LeftPosZ(68, 160).TopPosZ(68, 20))
+	ITEM(Upp::Button, new_preset, SetLabel(t_("New preset")).LeftPosZ(68, 160).TopPosZ(92, 20))
+	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(124, 32))
+	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
+	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(4, 24))
+END_LAYOUT
+
+LAYOUT(Timeline, 400, 368)
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Album")).LeftPosZ(4, 228).TopPosZ(4, 120))
+	ITEM(Upp::Label, dv___1, SetLabel(t_("Artist:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))
+	ITEM(Upp::EditString, album_artist, LeftPosZ(68, 160).TopPosZ(20, 20))
+	ITEM(Upp::Label, dv___3, SetLabel(t_("Title:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(44, 20))
+	ITEM(Upp::EditString, album_title, LeftPosZ(68, 160).TopPosZ(44, 20))
+	ITEM(Upp::Label, dv___5, SetLabel(t_("Date:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(68, 20))
+	ITEM(Upp::EditDate, album_date, LeftPosZ(68, 160).TopPosZ(68, 19))
+	ITEM(Upp::LabelBox, dv___7, SetLabel(t_("Song")).LeftPosZ(4, 228).TopPosZ(124, 92))
+	ITEM(Upp::Label, dv___8, SetLabel(t_("Title:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(140, 20))
+	ITEM(Upp::EditString, song_title, LeftPosZ(68, 160).TopPosZ(140, 20))
+	ITEM(Upp::Label, dv___10, SetLabel(t_("Prj. name:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(164, 20))
+	ITEM(Upp::EditString, song_prj_name, LeftPosZ(68, 160).TopPosZ(164, 20))
+	ITEM(Upp::Button, reload, LeftPosZ(540, 160).TopPosZ(88, 20))
+	ITEM(Splitter, leftsplit, LeftPosZ(4, 228).VSizePosZ(220, 0))
+	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
+	ITEM(Upp::Button, add_song, SetLabel(t_("Add song")).LeftPosZ(8, 220).TopPosZ(188, 24))
+	ITEM(Upp::Button, add_album, SetLabel(t_("Add album")).LeftPosZ(8, 220).TopPosZ(92, 24))
 END_LAYOUT
 

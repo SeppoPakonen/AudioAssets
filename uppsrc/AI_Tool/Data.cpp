@@ -32,6 +32,10 @@ String Database::GetAttrScoresDir() const {
 	return dir + DIR_SEPS "share" DIR_SEPS "attrscores" DIR_SEPS;
 }
 
+String Database::GetTimelineDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "timelines" DIR_SEPS;
+}
+
 void Database::Save() {
 	{
 		String dir = GetArtistsDir();
@@ -116,6 +120,18 @@ void Database::Save() {
 		RealizeDirectory(dir);
 		{
 			AttrScore& o = this->attrscores;
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(o, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
+	{
+		String dir = GetTimelineDir();
+		RealizeDirectory(dir);
+		{
+			Timeline& o = this->timeline;
 			String json_path = dir + o.file_title + ".json";
 			String json = StoreAsJson(o, true);
 			FileOut fout(json_path);
@@ -249,6 +265,14 @@ void Database::Load() {
 		String dir = GetAttrScoresDir();
 		String json_path = dir + attrscores.file_title + ".json";
 		LoadFromJsonFile(attrscores, json_path);
+	}
+	
+	{
+		RealizeDirectory(dir);
+		timeline.Clear();
+		String dir = GetTimelineDir();
+		String json_path = dir + timeline.file_title + ".json";
+		LoadFromJsonFile(timeline, json_path);
 	}
 	
 }
@@ -440,8 +464,10 @@ void PatternSnap::Init(int pos, int len) {
 		int len2 = len / 2;
 		int len0 = len2;
 		int len1 = len - len2;
-		a.Create().Init(pos,       len0);
-		b.Create().Init(pos + len0, len1);
+		if (a.IsEmpty()) a.Create();
+		if (b.IsEmpty()) b.Create();
+		a->Init(pos,       len0);
+		b->Init(pos + len0, len1);
 	}
 }
 

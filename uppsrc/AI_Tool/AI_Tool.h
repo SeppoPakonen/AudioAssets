@@ -16,12 +16,15 @@ using namespace Upp;
 #define LAYOUTFILE <AI_Tool/App.lay>
 #include <CtrlCore/lay.h>
 
+#include "Optimizer.h"
 #include "Data.h"
 #include "PlotCtrl.h"
 #include "PatternCtrl.h"
 #include "ScoreCtrl.h"
 #include "AttrScoreCtrl.h"
-#include "MusicCtrl.h"
+#include "ProductionCtrl.h"
+#include "ReverseCtrl.h"
+#include "TimelineCtrl.h"
 #include "App.h"
 
 #endif

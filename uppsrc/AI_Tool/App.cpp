@@ -265,9 +265,11 @@ ToolApp::ToolApp() {
 	tabs.Add(pattern_ctrl.SizePos(),		t_("Pattern"));
 	tabs.Add(attrscore_ctrl.SizePos(),		t_("Attribute score"));
 	tabs.Add(score_ctrl.SizePos(),			t_("Score"));
-	tabs.Add(music_ctrl.SizePos(),			t_("Composition"));
-	tabs.Add(composition_ctrl.SizePos(),	t_("Production"));
+	tabs.Add(rev_ctrl.SizePos(),			t_("Reverse"));
+	tabs.Add(composition_ctrl.SizePos(),	t_("Composition"));
+	tabs.Add(prod_ctrl.SizePos(),			t_("Production"));
 	tabs.Add(analysis_ctrl.SizePos(),		t_("Analysis"));
+	tabs.Add(timeline_ctrl.SizePos(),		t_("Timeline"));
 	
 	main.app				= this;
 	artist_ctrl.app			= this;
@@ -276,8 +278,10 @@ ToolApp::ToolApp() {
 	composition_ctrl.app	= this;
 	analysis_ctrl.app		= this;
 	score_ctrl.app			= this;
+	rev_ctrl.app			= this;
 	attrscore_ctrl.app		= this;
-	music_ctrl.app			= this;
+	prod_ctrl.app			= this;
+	timeline_ctrl.app			= this;
 	
 	tabs.WhenSet << THISBACK(Data);
 	menu.Set(THISBACK(MainMenu));
@@ -304,9 +308,11 @@ void ToolApp::Data() {
 		case 3: pattern_ctrl.Data(); break;
 		case 4: attrscore_ctrl.Data(); break;
 		case 5: score_ctrl.Data(); break;
-		case 6: music_ctrl.Data(); break;
+		case 6: rev_ctrl.Data(); break;
 		case 7: composition_ctrl.Data(); break;
-		case 8: analysis_ctrl.Data(); break;
+		case 8: prod_ctrl.Data(); break;
+		case 9: analysis_ctrl.Data(); break;
+		case 10: timeline_ctrl.Data(); break;
 		default: break;
 	}
 }
