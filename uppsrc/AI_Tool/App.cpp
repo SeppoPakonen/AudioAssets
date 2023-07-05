@@ -263,6 +263,7 @@ ToolApp::ToolApp() {
 	tabs.Add(artist_ctrl.SizePos(),			t_("Artist"));
 	tabs.Add(story_ctrl.SizePos(),			t_("Story"));
 	tabs.Add(pattern_ctrl.SizePos(),		t_("Pattern"));
+	tabs.Add(patternmask_ctrl.SizePos(),	t_("Pattern mask"));
 	tabs.Add(attrscore_ctrl.SizePos(),		t_("Attribute score"));
 	tabs.Add(score_ctrl.SizePos(),			t_("Score"));
 	tabs.Add(rev_ctrl.SizePos(),			t_("Reverse"));
@@ -275,6 +276,7 @@ ToolApp::ToolApp() {
 	artist_ctrl.app			= this;
 	story_ctrl.app			= this;
 	pattern_ctrl.app		= this;
+	//patternmask_ctrl.app	= this;
 	composition_ctrl.app	= this;
 	analysis_ctrl.app		= this;
 	score_ctrl.app			= this;
@@ -306,13 +308,14 @@ void ToolApp::Data() {
 		case 1: artist_ctrl.Data(); break;
 		case 2: story_ctrl.Data(); break;
 		case 3: pattern_ctrl.Data(); break;
-		case 4: attrscore_ctrl.Data(); break;
-		case 5: score_ctrl.Data(); break;
-		case 6: rev_ctrl.Data(); break;
-		case 7: composition_ctrl.Data(); break;
-		case 8: prod_ctrl.Data(); break;
-		case 9: analysis_ctrl.Data(); break;
-		case 10: timeline_ctrl.Data(); break;
+		case 4: patternmask_ctrl.Data(); break;
+		case 5: attrscore_ctrl.Data(); break;
+		case 6: score_ctrl.Data(); break;
+		case 7: rev_ctrl.Data(); break;
+		case 8: composition_ctrl.Data(); break;
+		case 9: prod_ctrl.Data(); break;
+		case 10: analysis_ctrl.Data(); break;
+		case 11: timeline_ctrl.Data(); break;
 		default: break;
 	}
 }

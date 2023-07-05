@@ -33,6 +33,7 @@ public:
 	void OnListSel();
 	void DataPatternSnap();
 	void DataList();
+	void MergeOwner();
 	void FocusTree();
 	void FocusList();
 	void SwitchView();

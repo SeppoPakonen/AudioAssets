@@ -99,11 +99,12 @@ LAYOUT(Analysis, 724, 488)
 END_LAYOUT
 
 LAYOUT(Pattern, 556, 216)
-	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Pattern")).LeftPosZ(4, 228).TopPosZ(4, 64))
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Pattern")).LeftPosZ(4, 228).TopPosZ(4, 88))
 	ITEM(Upp::Label, dv___1, SetLabel(t_("Struct:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))
 	ITEM(Upp::EditString, structure, LeftPosZ(68, 160).TopPosZ(20, 20))
 	ITEM(Upp::Button, reload, SetLabel(t_("Reload Structure")).LeftPosZ(68, 160).TopPosZ(44, 20))
-	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(72, 32))
+	ITEM(Upp::Button, merge_owner, SetLabel(t_("Merge attributes to owner")).LeftPosZ(68, 160).TopPosZ(68, 20))
+	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(96, 32))
 	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
 	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(4, 24))
 END_LAYOUT
@@ -143,11 +144,8 @@ END_LAYOUT
 
 LAYOUT(Reverse, 400, 200)
 	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Score")).LeftPosZ(4, 228).TopPosZ(4, 116))
-	ITEM(Upp::Label, dv___1, SetLabel(t_("Struct:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))
-	ITEM(Upp::EditString, structure, LeftPosZ(68, 160).TopPosZ(20, 20))
-	ITEM(Upp::Button, reload, SetLabel(t_("Reload Structure")).LeftPosZ(68, 160).TopPosZ(44, 20))
-	ITEM(Upp::Button, load_active_pattern, SetLabel(t_("Load active pattern")).LeftPosZ(68, 160).TopPosZ(68, 20))
-	ITEM(Upp::Button, new_preset, SetLabel(t_("New preset")).LeftPosZ(68, 160).TopPosZ(92, 20))
+	ITEM(Upp::Button, load_active_patternscore, SetLabel(t_("Load active pattern score")).LeftPosZ(68, 160).TopPosZ(20, 20))
+	ITEM(Upp::Button, stop, SetLabel(t_("Stop tasks")).LeftPosZ(68, 160).TopPosZ(44, 20))
 	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(124, 32))
 	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
 	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(4, 24))
@@ -171,5 +169,14 @@ LAYOUT(Timeline, 400, 368)
 	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
 	ITEM(Upp::Button, add_song, SetLabel(t_("Add song")).LeftPosZ(8, 220).TopPosZ(188, 24))
 	ITEM(Upp::Button, add_album, SetLabel(t_("Add album")).LeftPosZ(8, 220).TopPosZ(92, 24))
+END_LAYOUT
+
+LAYOUT(PatternMask, 400, 200)
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Pattern mask preset")).LeftPosZ(4, 228).TopPosZ(4, 88))
+	ITEM(Upp::Label, dv___1, SetLabel(t_("Name:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))
+	ITEM(Upp::EditString, name, LeftPosZ(68, 160).TopPosZ(20, 20))
+	ITEM(Splitter, vsplit, LeftPosZ(4, 228).VSizePosZ(96, 32))
+	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
+	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(4, 24))
 END_LAYOUT
 

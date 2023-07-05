@@ -21,6 +21,8 @@ file
 	AnalysisEdit.cpp,
 	PatternCtrl.h,
 	PatternCtrl.cpp,
+	PatternMaskCtrl.h,
+	PatternMaskCtrl.cpp,
 	AttrCtrl.h,
 	AttrCtrl.cpp,
 	AttrScoreCtrl.h,

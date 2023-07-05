@@ -153,11 +153,17 @@ fiFI("Rakenne:")
 T_("Reload Structure")
 fiFI("Uudelleenlataa rakenne")
 
+T_("Merge attributes to owner")
+fiFI("Yhdist\303\244 attribuutit omistajaan")
+
 T_("Score")
 fiFI("Pisteytys")
 
 T_("Load active pattern")
 fiFI("Lataa aktiivinen kaavio")
+
+T_("New preset")
+fiFI("Uusi esiasetus")
 
 T_("Add group for entries with the same score")
 fiFI("Lis\303\244\303\244 ryhm\303\244 merkinn\303\266ille, joilla on sama pistem\303\244\303\244r\303\244")
@@ -183,6 +189,30 @@ fiFI("Kopioi kehote leikep\303\266yd\303\244lle")
 T_("Paste prompt from clipboard")
 fiFI("Liit\303\244 kehote leikep\303\266yd\303\244lt\303\244")
 
+T_("Load active pattern score")
+fiFI("Lataa aktiivisen kuvion pisteet")
+
+T_("Stop tasks")
+fiFI("Lopeta teht\303\244v\303\244t")
+
+T_("Album")
+fiFI("Albumi")
+
+T_("Date:")
+fiFI("P\303\244iv\303\244m\303\244\303\244r\303\244:")
+
+T_("Prj. name:")
+fiFI("Prj. nimi:")
+
+T_("Add song")
+fiFI("Lis\303\244\303\244 kappale")
+
+T_("Add album")
+fiFI("Lis\303\244\303\244 albuumi")
+
+T_("Pattern mask preset")
+fiFI("Kaaviomaskin esiasetus")
+
 
 // Data.cpp
 
@@ -195,14 +225,23 @@ fiFI("Nimi")
 T_("Main")
 fiFI("Etusivu")
 
+T_("Pattern mask")
+fiFI("Kaaviomaski")
+
 T_("Attribute score")
 fiFI("Ominaisuuden pisteet")
+
+T_("Reverse")
+fiFI("K\303\244\303\244nteinen")
 
 T_("Production")
 fiFI("Tuotanto")
 
 T_("Analysis")
 fiFI("Analyysi")
+
+T_("Timeline")
+fiFI("Aikajana")
 
 T_("App")
 fiFI("Ohjelma")
@@ -309,14 +348,23 @@ fiFI("Tietoa ei l\303\266ytynyt ('%s')")
 
 // PlotCtrl.cpp
 
+T_("absolute value")
+fiFI("itseisarvo")
+
+T_("accumulated value")
+fiFI("kertynyt arvo")
+
+T_("weighted absolute value")
+fiFI("painotettu itseisarvo")
+
+T_("weighted accumulated value")
+fiFI("painotettu kertynyt arvo")
+
 
 // ScoreCtrl.cpp
 
 T_("Title")
 fiFI("Otsikko")
-
-T_("Read-only")
-fiFI("Vain-luku")
 
 T_("Preset's name")
 fiFI("Esiasetuksen nimi")
@@ -324,8 +372,68 @@ fiFI("Esiasetuksen nimi")
 T_("Whole song")
 fiFI("Koko kappale")
 
+T_("Do you want to overwrite the file %s?")
+fiFI("Haluatko korvata tiedoston %s?")
+
+T_("error: snap count and length mismatch")
+fiFI("virhe: otosten lukum\303\244\303\244r\303\244 ja pituus eiv\303\244t t\303\244sm\303\244\303\244")
+
+T_("Save as preset")
+fiFI("Tallenna esiasetuksena")
+
+T_("Update focused preset")
+fiFI("P\303\244ivit\303\244 kohdistettu esiasetus")
+
+T_("Apply preset")
+fiFI("K\303\244yt\303\244 esiasetusta")
+
+T_("Remove preset")
+fiFI("Poista esiasetus")
+
+T_("Name of the preset")
+fiFI("Esiasetuksen nimi")
+
+T_("Preset '%s' already exists")
+fiFI("Esiasetus '%s' on jo olemassa")
+
+
+// ReverseCtrl.cpp
+
+T_("Active")
+fiFI("Aktiivinen")
+
+T_("Progress")
+fiFI("Edistyminen")
+
+T_("Attributes")
+fiFI("Attribuutit")
+
+T_("Number")
+fiFI("Numero")
+
+T_("Optimizer score")
+fiFI("Optimoijan pisteet")
+
+T_("Result")
+fiFI("Tulos")
+
+
+// TimelineCtrl.cpp
+
+T_("Year")
+fiFI("Vuosi")
+
+T_("Project name")
+fiFI("Projektin nimi")
+
+T_("Remove")
+fiFI("Poista")
+
 
 // Obsolete
+
+T_("Read-only")
+fiFI("Vain-luku")
 
 T_("Add preset")
 fiFI("Lis\303\244\303\244 esiasetus")

@@ -251,6 +251,7 @@ struct PatternSnap : DataFile {
 	Part* part = 0;
 	
 	One<PatternSnap> a, b;
+	int part_id = -1;
 	int pos = -1, len = 0;
 	Index<SnapAttr> attributes;
 	
@@ -260,8 +261,14 @@ struct PatternSnap : DataFile {
 		b.Clear();
 		attributes.Clear();
 	}
+	void SetId(int i) {
+		part_id = i;
+		if (a) a->SetId(i);
+		if (b) b->SetId(i);
+	}
 	void Jsonize(JsonIO& json) {
 		json
+			("part_id",  part_id)
 			("pos",  pos)
 			("len",  len)
 			("attributes",  attributes)
@@ -276,6 +283,21 @@ struct PatternSnap : DataFile {
 			if (len > 1) {
 				json("a", a.Create());
 				json("b", b.Create());
+			}
+		}
+	}
+	void MergeOwner() {
+		if (a) a->MergeOwner();
+		if (b) b->MergeOwner();
+		if (a && b) {
+			for(int i = 0; i < a->attributes.GetCount(); i++) {
+				const SnapAttr& sa = a->attributes[i];
+				int j = b->attributes.Find(sa);
+				if (j < 0)
+					continue;
+				attributes.FindAdd(sa);
+				a->attributes.Remove(i--);
+				b->attributes.Remove(j);
 			}
 		}
 	}
@@ -339,6 +361,7 @@ struct Pattern : DataFile {
 	Vector<String>			parts;
 	ArrayMap<String, Part>	unique_parts;
 	
+	void ReloadStructure();
 	void Clear() {
 		structure.Clear();
 		parts.Clear();
@@ -358,8 +381,10 @@ struct Pattern : DataFile {
 		return a.file_title < b.file_title;
 	}
 	void FixPtrs() {
-		for(int i = 0; i < unique_parts.GetCount(); i++)
+		for(int i = 0; i < unique_parts.GetCount(); i++) {
 			unique_parts[i].name = unique_parts.GetKey(i);
+			unique_parts[i].snap.SetId(i);
+		}
 		for (Part& p : unique_parts.GetValues())
 			p.FixPtrs();
 	}
@@ -371,7 +396,10 @@ struct Pattern : DataFile {
 		for (const Part& p : unique_parts.GetValues())
 			p.snap.GetAttributes(attrs);
 	}
-	
+	void MergeOwner() {
+		for (Part& p : unique_parts.GetValues())
+			p.snap.MergeOwner();
+	}
 };
 
 struct PartScore {
@@ -710,5 +738,47 @@ struct Database {
 
 String GetSnapGroupString(PatternSnap& snap, int group, Index<String>& skip_list);
 String Capitalize(String s);
+
+
+template <int I, class K=int, class V=double>
+struct FixedTopValueSorter {
+	inline static const int size = I;
+	
+	K key[size];
+	V value[size];
+	int count = 0;
+	
+	
+	FixedTopValueSorter() {Reset();}
+	void Reset() {
+		count = 0;
+		for(int i = 0; i < size; i++) {
+			value[i] = -DBL_MAX;
+			key[i] = -1;
+		}
+	}
+	void Add(const K& key, const V& value) {
+		if (value <= this->value[size-1])
+			return;
+		for(int i = 0; i < size; i++) {
+			if (value > this->value[i]) {
+				for(int j = size-1; j > i; j--) {
+					this->value[j] = this->value[j-1];
+					this->key[j]   = this->key[j-1];
+				}
+				this->value[i] = value;
+				this->key[i] = key;
+				count = min(count+1, size);
+				break;
+			}
+		}
+	}
+	void Serialize(Stream& s) {
+		for(int i = 0; i < size; i++)
+			s % value[i] % key[i];
+	}
+};
+
+
 
 #endif

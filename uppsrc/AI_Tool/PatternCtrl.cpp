@@ -17,8 +17,8 @@ PatternCtrl::PatternCtrl() {
 	
 	tree.WhenSel << THISBACK(OnTreeSel);
 	list.WhenSel << THISBACK(OnListSel);
-	
 	attr.WhenUpdate << THISBACK(DataList);
+	merge_owner <<= THISBACK(MergeOwner);
 	
 	list.Hide();
 	
@@ -58,67 +58,7 @@ void PatternCtrl::Reload() {
 	if (o.structure.IsEmpty())
 		return;
 	
-	db.active_snap = 0;
-	
-	o.parts.Clear();
-	//o.unique_parts.Clear();
-	
-	Vector<String> part_str = Split(o.structure, ",");
-	Index<String> part_seen;
-	
-	for (String& p : part_str) {
-		p = TrimBoth(p);
-		
-		// Split name and beat count
-		int i = p.Find(":");
-		String name;
-		
-		if (i < 0) {
-			i = o.unique_parts.Find(p);
-			if (i >= 0) {
-				name = p; // ok
-			}
-			else {
-				PromptOK(DeQtf("error: no ':' character and beat length"));
-				return;
-			}
-		}
-		else {
-			name = p.Left(i);
-			int beats = StrInt(p.Mid(i+1));
-			
-			// Check for beat length error
-			i = o.unique_parts.Find(name);
-			if (i >= 0) {
-				Part& part = o.unique_parts[i];
-				if (part.len != beats) {
-					if (part_seen.Find(name) < 0) {
-						part.len = beats;
-					}
-					else {
-						PromptOK(DeQtf("error: part length mismatch"));
-						return;
-					}
-				}
-			}
-			else {
-				Part& part = o.unique_parts.GetAdd(name);
-				part.len = beats;
-			}
-		}
-		
-		// Add part
-		o.parts.Add(name);
-		part_seen.Add(name);
-	}
-	
-	DUMPM(o.unique_parts);
-	DUMPC(o.parts);
-	
-	for (Part& part : o.unique_parts) {
-		part.snap.Init(0, part.len);
-		part.FixPtrs();
-	}
+	o.ReloadStructure();
 	
 	DataPatternTree();
 }
@@ -251,6 +191,15 @@ void PatternCtrl::OnListSel() {
 		FocusTree();
 		DataPatternSnap();
 	}
+}
+
+void PatternCtrl::MergeOwner() {
+	Database& db = Database::Single();
+	if (!db.active_pattern || !db.active_snap)
+		return;
+	Pattern& o = *db.active_pattern;
+	o.MergeOwner();
+	Data();
 }
 
 void PatternCtrl::FocusTree() {

@@ -25,6 +25,7 @@ using namespace Upp;
 #include "ProductionCtrl.h"
 #include "ReverseCtrl.h"
 #include "TimelineCtrl.h"
+#include "PatternMaskCtrl.h"
 #include "App.h"
 
 #endif

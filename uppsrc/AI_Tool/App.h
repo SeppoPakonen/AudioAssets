@@ -88,6 +88,9 @@ public:
 
 
 class ToolApp : public TopWindow {
+	
+protected:
+	friend class ReverseCtrl;
 	MenuBar			menu;
 	TabCtrl			tabs;
 	
@@ -103,6 +106,7 @@ public:
 	ProductionCtrl		prod_ctrl;
 	ReverseCtrl			rev_ctrl;
 	TimelineCtrl		timeline_ctrl;
+	PatternMaskCtrl		patternmask_ctrl;
 	
 public:
 	typedef ToolApp CLASSNAME;

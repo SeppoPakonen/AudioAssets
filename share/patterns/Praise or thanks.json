@@ -14,18 +14,24 @@
 			"value": {
 				"len": 6,
 				"snap": {
+					"part_id": 0,
 					"pos": 0,
 					"len": 6,
 					"attributes": [
-
+						{
+							"g": 1,
+							"i": 3
+						}
 					],
 					"a": {
+						"part_id": 0,
 						"pos": 0,
 						"len": 3,
 						"attributes": [
 
 						],
 						"a": {
+							"part_id": 0,
 							"pos": 0,
 							"len": 1,
 							"attributes": [
@@ -36,10 +42,6 @@
 								{
 									"g": 0,
 									"i": 2
-								},
-								{
-									"g": 1,
-									"i": 3
 								},
 								{
 									"g": 2,
@@ -88,12 +90,14 @@
 							]
 						},
 						"b": {
+							"part_id": 0,
 							"pos": 1,
 							"len": 2,
 							"attributes": [
 
 							],
 							"a": {
+								"part_id": 0,
 								"pos": 1,
 								"len": 1,
 								"attributes": [
@@ -104,10 +108,6 @@
 									{
 										"g": 0,
 										"i": 2
-									},
-									{
-										"g": 1,
-										"i": 3
 									},
 									{
 										"g": 3,
@@ -124,16 +124,13 @@
 								]
 							},
 							"b": {
+								"part_id": 0,
 								"pos": 2,
 								"len": 1,
 								"attributes": [
 									{
 										"g": 0,
 										"i": 16
-									},
-									{
-										"g": 1,
-										"i": 3
 									},
 									{
 										"g": 2,
@@ -152,12 +149,14 @@
 						}
 					},
 					"b": {
+						"part_id": 0,
 						"pos": 3,
 						"len": 3,
 						"attributes": [
 
 						],
 						"a": {
+							"part_id": 0,
 							"pos": 3,
 							"len": 1,
 							"attributes": [
@@ -166,29 +165,26 @@
 									"i": 2
 								},
 								{
-									"g": 1,
-									"i": 3
-								},
-								{
 									"g": 2,
 									"i": 4
 								}
 							]
 						},
 						"b": {
+							"part_id": 0,
 							"pos": 4,
 							"len": 2,
 							"attributes": [
-
+								{
+									"g": 0,
+									"i": 17
+								}
 							],
 							"a": {
+								"part_id": 0,
 								"pos": 4,
 								"len": 1,
 								"attributes": [
-									{
-										"g": 0,
-										"i": 17
-									},
 									{
 										"g": 2,
 										"i": 4
@@ -196,28 +192,17 @@
 									{
 										"g": 2,
 										"i": 3
-									},
-									{
-										"g": 1,
-										"i": 3
 									}
 								]
 							},
 							"b": {
+								"part_id": 0,
 								"pos": 5,
 								"len": 1,
 								"attributes": [
 									{
 										"g": 0,
 										"i": 0
-									},
-									{
-										"g": 0,
-										"i": 17
-									},
-									{
-										"g": 1,
-										"i": 3
 									},
 									{
 										"g": 2,
@@ -239,27 +224,28 @@
 			"value": {
 				"len": 2,
 				"snap": {
+					"part_id": 1,
 					"pos": 0,
 					"len": 2,
 					"attributes": [
-
+						{
+							"g": 0,
+							"i": 3
+						},
+						{
+							"g": 0,
+							"i": 2
+						},
+						{
+							"g": 1,
+							"i": 4
+						}
 					],
 					"a": {
+						"part_id": 1,
 						"pos": 0,
 						"len": 1,
 						"attributes": [
-							{
-								"g": 0,
-								"i": 3
-							},
-							{
-								"g": 0,
-								"i": 2
-							},
-							{
-								"g": 1,
-								"i": 4
-							},
 							{
 								"g": 2,
 								"i": 4
@@ -287,24 +273,13 @@
 						]
 					},
 					"b": {
+						"part_id": 1,
 						"pos": 1,
 						"len": 1,
 						"attributes": [
 							{
 								"g": 0,
 								"i": 18
-							},
-							{
-								"g": 0,
-								"i": 2
-							},
-							{
-								"g": 0,
-								"i": 3
-							},
-							{
-								"g": 1,
-								"i": 4
 							},
 							{
 								"g": 2,
@@ -356,18 +331,21 @@
 			"value": {
 				"len": 4,
 				"snap": {
+					"part_id": 2,
 					"pos": 0,
 					"len": 4,
 					"attributes": [
 
 					],
 					"a": {
+						"part_id": 2,
 						"pos": 0,
 						"len": 2,
 						"attributes": [
 
 						],
 						"a": {
+							"part_id": 2,
 							"pos": 0,
 							"len": 1,
 							"attributes": [
@@ -410,6 +388,7 @@
 							]
 						},
 						"b": {
+							"part_id": 2,
 							"pos": 1,
 							"len": 1,
 							"attributes": [
@@ -429,12 +408,14 @@
 						}
 					},
 					"b": {
+						"part_id": 2,
 						"pos": 2,
 						"len": 2,
 						"attributes": [
 
 						],
 						"a": {
+							"part_id": 2,
 							"pos": 2,
 							"len": 1,
 							"attributes": [
@@ -469,6 +450,7 @@
 							]
 						},
 						"b": {
+							"part_id": 2,
 							"pos": 3,
 							"len": 1,
 							"attributes": [
@@ -495,29 +477,31 @@
 			"value": {
 				"len": 6,
 				"snap": {
+					"part_id": 3,
 					"pos": 0,
 					"len": 6,
 					"attributes": [
 
 					],
 					"a": {
+						"part_id": 3,
 						"pos": 0,
 						"len": 3,
 						"attributes": [
-
+							{
+								"g": 0,
+								"i": 0
+							},
+							{
+								"g": 1,
+								"i": 6
+							}
 						],
 						"a": {
+							"part_id": 3,
 							"pos": 0,
 							"len": 1,
 							"attributes": [
-								{
-									"g": 0,
-									"i": 0
-								},
-								{
-									"g": 1,
-									"i": 6
-								},
 								{
 									"g": 2,
 									"i": 19
@@ -533,23 +517,17 @@
 							]
 						},
 						"b": {
+							"part_id": 3,
 							"pos": 1,
 							"len": 2,
 							"attributes": [
 
 							],
 							"a": {
+								"part_id": 3,
 								"pos": 1,
 								"len": 1,
 								"attributes": [
-									{
-										"g": 1,
-										"i": 6
-									},
-									{
-										"g": 0,
-										"i": 0
-									},
 									{
 										"g": 0,
 										"i": 3
@@ -561,17 +539,10 @@
 								]
 							},
 							"b": {
+								"part_id": 3,
 								"pos": 2,
 								"len": 1,
 								"attributes": [
-									{
-										"g": 0,
-										"i": 0
-									},
-									{
-										"g": 1,
-										"i": 6
-									},
 									{
 										"g": 8,
 										"i": 28
@@ -581,12 +552,14 @@
 						}
 					},
 					"b": {
+						"part_id": 3,
 						"pos": 3,
 						"len": 3,
 						"attributes": [
 
 						],
 						"a": {
+							"part_id": 3,
 							"pos": 3,
 							"len": 1,
 							"attributes": [
@@ -613,12 +586,14 @@
 							]
 						},
 						"b": {
+							"part_id": 3,
 							"pos": 4,
 							"len": 2,
 							"attributes": [
 
 							],
 							"a": {
+								"part_id": 3,
 								"pos": 4,
 								"len": 1,
 								"attributes": [
@@ -653,6 +628,7 @@
 								]
 							},
 							"b": {
+								"part_id": 3,
 								"pos": 5,
 								"len": 1,
 								"attributes": [

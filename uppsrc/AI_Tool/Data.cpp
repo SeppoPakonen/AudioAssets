@@ -1050,3 +1050,70 @@ String AttrScoreGroup::ToString() const {
 String Capitalize(String s) {
 	return ToUpper(s.Left(1)) + s.Mid(1);
 }
+
+
+
+void Pattern::ReloadStructure() {
+	Database& db = Database::Single();
+	db.active_snap = 0;
+	
+	this->parts.Clear();
+	//this->unique_parts.Clear();
+	
+	Vector<String> part_str = Split(this->structure, ",");
+	Index<String> part_seen;
+	
+	for (String& p : part_str) {
+		p = TrimBoth(p);
+		
+		// Split name and beat count
+		int i = p.Find(":");
+		String name;
+		
+		if (i < 0) {
+			i = this->unique_parts.Find(p);
+			if (i >= 0) {
+				name = p; // ok
+			}
+			else {
+				PromptOK(DeQtf("error: no ':' character and beat length"));
+				return;
+			}
+		}
+		else {
+			name = p.Left(i);
+			int beats = StrInt(p.Mid(i+1));
+			
+			// Check for beat length error
+			i = this->unique_parts.Find(name);
+			if (i >= 0) {
+				Part& part = this->unique_parts[i];
+				if (part.len != beats) {
+					if (part_seen.Find(name) < 0) {
+						part.len = beats;
+					}
+					else {
+						PromptOK(DeQtf("error: part length mismatch"));
+						return;
+					}
+				}
+			}
+			else {
+				Part& part = this->unique_parts.GetAdd(name);
+				part.len = beats;
+			}
+		}
+		
+		// Add part
+		this->parts.Add(name);
+		part_seen.Add(name);
+	}
+	
+	DUMPM(this->unique_parts);
+	DUMPC(this->parts);
+	
+	for (Part& part : this->unique_parts) {
+		part.snap.Init(0, part.len);
+		part.FixPtrs();
+	}
+}
