@@ -20,6 +20,7 @@
 					"attributes": [
 
 					],
+					"txt": "",
 					"a": {
 						"part_id": 0,
 						"pos": 0,
@@ -27,6 +28,7 @@
 						"attributes": [
 
 						],
+						"txt": "",
 						"a": {
 							"part_id": 0,
 							"pos": 0,
@@ -48,7 +50,8 @@
 									"g": 8,
 									"i": 17
 								}
-							]
+							],
+							"txt": ""
 						},
 						"b": {
 							"part_id": 0,
@@ -57,6 +60,7 @@
 							"attributes": [
 
 							],
+							"txt": "",
 							"a": {
 								"part_id": 0,
 								"pos": 1,
@@ -74,7 +78,8 @@
 										"g": 2,
 										"i": 8
 									}
-								]
+								],
+								"txt": ""
 							},
 							"b": {
 								"part_id": 0,
@@ -82,7 +87,8 @@
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							}
 						}
 					},
@@ -93,6 +99,7 @@
 						"attributes": [
 
 						],
+						"txt": "",
 						"a": {
 							"part_id": 0,
 							"pos": 3,
@@ -111,13 +118,15 @@
 									"i": 4
 								}
 							],
+							"txt": "",
 							"a": {
 								"part_id": 0,
 								"pos": 3,
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							},
 							"b": {
 								"part_id": 0,
@@ -125,7 +134,8 @@
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							}
 						},
 						"b": {
@@ -135,13 +145,15 @@
 							"attributes": [
 
 							],
+							"txt": "",
 							"a": {
 								"part_id": 0,
 								"pos": 5,
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							},
 							"b": {
 								"part_id": 0,
@@ -149,7 +161,8 @@
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							}
 						}
 					}
@@ -167,13 +180,15 @@
 					"attributes": [
 
 					],
+					"txt": "",
 					"a": {
 						"part_id": 1,
 						"pos": 0,
 						"len": 1,
 						"attributes": [
 
-						]
+						],
+						"txt": ""
 					},
 					"b": {
 						"part_id": 1,
@@ -181,7 +196,8 @@
 						"len": 1,
 						"attributes": [
 
-						]
+						],
+						"txt": ""
 					}
 				}
 			}
@@ -197,6 +213,7 @@
 					"attributes": [
 
 					],
+					"txt": "",
 					"a": {
 						"part_id": 2,
 						"pos": 0,
@@ -204,13 +221,15 @@
 						"attributes": [
 
 						],
+						"txt": "",
 						"a": {
 							"part_id": 2,
 							"pos": 0,
 							"len": 1,
 							"attributes": [
 
-							]
+							],
+							"txt": ""
 						},
 						"b": {
 							"part_id": 2,
@@ -218,7 +237,8 @@
 							"len": 1,
 							"attributes": [
 
-							]
+							],
+							"txt": ""
 						}
 					},
 					"b": {
@@ -228,13 +248,15 @@
 						"attributes": [
 
 						],
+						"txt": "",
 						"a": {
 							"part_id": 2,
 							"pos": 2,
 							"len": 1,
 							"attributes": [
 
-							]
+							],
+							"txt": ""
 						},
 						"b": {
 							"part_id": 2,
@@ -242,7 +264,8 @@
 							"len": 1,
 							"attributes": [
 
-							]
+							],
+							"txt": ""
 						}
 					}
 				}
@@ -259,6 +282,7 @@
 					"attributes": [
 
 					],
+					"txt": "",
 					"a": {
 						"part_id": 3,
 						"pos": 0,
@@ -266,13 +290,15 @@
 						"attributes": [
 
 						],
+						"txt": "",
 						"a": {
 							"part_id": 3,
 							"pos": 0,
 							"len": 1,
 							"attributes": [
 
-							]
+							],
+							"txt": ""
 						},
 						"b": {
 							"part_id": 3,
@@ -281,13 +307,15 @@
 							"attributes": [
 
 							],
+							"txt": "",
 							"a": {
 								"part_id": 3,
 								"pos": 1,
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							},
 							"b": {
 								"part_id": 3,
@@ -295,7 +323,8 @@
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							}
 						}
 					},
@@ -306,13 +335,15 @@
 						"attributes": [
 
 						],
+						"txt": "",
 						"a": {
 							"part_id": 3,
 							"pos": 3,
 							"len": 1,
 							"attributes": [
 
-							]
+							],
+							"txt": ""
 						},
 						"b": {
 							"part_id": 3,
@@ -321,13 +352,15 @@
 							"attributes": [
 
 							],
+							"txt": "",
 							"a": {
 								"part_id": 3,
 								"pos": 4,
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							},
 							"b": {
 								"part_id": 3,
@@ -335,7 +368,8 @@
 								"len": 1,
 								"attributes": [
 
-								]
+								],
+								"txt": ""
 							}
 						}
 					}

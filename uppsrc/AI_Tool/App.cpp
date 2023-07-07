@@ -262,6 +262,7 @@ ToolApp::ToolApp() {
 	tabs.Add(main.SizePos(),				t_("Main"));
 	tabs.Add(artist_ctrl.SizePos(),			t_("Artist"));
 	tabs.Add(story_ctrl.SizePos(),			t_("Story"));
+	tabs.Add(patternimport_ctrl.SizePos(),	t_("Pattern import"));
 	tabs.Add(pattern_ctrl.SizePos(),		t_("Pattern"));
 	tabs.Add(patternmask_ctrl.SizePos(),	t_("Pattern mask"));
 	tabs.Add(attrscore_ctrl.SizePos(),		t_("Attribute score"));
@@ -307,15 +308,16 @@ void ToolApp::Data() {
 		case 0: main.Data(); break;
 		case 1: artist_ctrl.Data(); break;
 		case 2: story_ctrl.Data(); break;
-		case 3: pattern_ctrl.Data(); break;
-		case 4: patternmask_ctrl.Data(); break;
-		case 5: attrscore_ctrl.Data(); break;
-		case 6: score_ctrl.Data(); break;
-		case 7: rev_ctrl.Data(); break;
-		case 8: composition_ctrl.Data(); break;
-		case 9: prod_ctrl.Data(); break;
-		case 10: analysis_ctrl.Data(); break;
-		case 11: timeline_ctrl.Data(); break;
+		case 3: patternimport_ctrl.Data(); break;
+		case 4: pattern_ctrl.Data(); break;
+		case 5: patternmask_ctrl.Data(); break;
+		case 6: attrscore_ctrl.Data(); break;
+		case 7: score_ctrl.Data(); break;
+		case 8: rev_ctrl.Data(); break;
+		case 9: composition_ctrl.Data(); break;
+		case 10: prod_ctrl.Data(); break;
+		case 11: analysis_ctrl.Data(); break;
+		case 12: timeline_ctrl.Data(); break;
 		default: break;
 	}
 }
@@ -346,7 +348,7 @@ void ToolApp::MainMenu(Bar& bar) {
 
 void ToolApp::SwitchView() {
 	int tab = tabs.Get();
-	if (tab == 3) {
+	if (tab == 4) {
 		pattern_ctrl.SwitchView();
 	}
 }
@@ -369,7 +371,7 @@ void ToolApp::MoveNextTotal() {
 
 void ToolApp::MoveOwner() {
 	int tab = tabs.Get();
-	if (tab == 3) {
+	if (tab == 4) {
 		int c = pattern_ctrl.tree.IsCursor() ? pattern_ctrl.tree.GetCursor() : 0;
 		if (c) {
 			c = pattern_ctrl.tree.GetParent(c);

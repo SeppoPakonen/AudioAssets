@@ -19,6 +19,8 @@ file
 	StoryEdit.cpp,
 	CompositionEdit.cpp,
 	AnalysisEdit.cpp,
+	PatternImportCtrl.h,
+	PatternImportCtrl.cpp,
 	PatternCtrl.h,
 	PatternCtrl.cpp,
 	PatternMaskCtrl.h,

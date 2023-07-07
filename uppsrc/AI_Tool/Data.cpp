@@ -36,6 +36,10 @@ String Database::GetTimelineDir() const {
 	return dir + DIR_SEPS "share" DIR_SEPS "timelines" DIR_SEPS;
 }
 
+String Database::GetArchivedSongDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "archived_songs" DIR_SEPS;
+}
+
 void Database::Save() {
 	{
 		String dir = GetArtistsDir();
@@ -132,6 +136,17 @@ void Database::Save() {
 		RealizeDirectory(dir);
 		{
 			Timeline& o = this->timeline;
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(o, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
+	{
+		String dir = GetArchivedSongDir();
+		RealizeDirectory(dir);
+		for (ArchivedSong& o : archived_songs) {
 			String json_path = dir + o.file_title + ".json";
 			String json = StoreAsJson(o, true);
 			FileOut fout(json_path);
@@ -273,6 +288,25 @@ void Database::Load() {
 		String dir = GetTimelineDir();
 		String json_path = dir + timeline.file_title + ".json";
 		LoadFromJsonFile(timeline, json_path);
+	}
+	
+	{
+		scores.Clear();
+		String dir = GetArchivedSongDir();
+		String search = dir + "*.json";
+		
+		FindFile ff;
+		if (ff.Search(search)) do {
+			if (ff.IsFile()) {
+				String path = ff.GetPath();
+				ArchivedSong& p = archived_songs.Add();
+				p.file_title = GetFileTitle(path);
+				String json_path = GetArchivedSongDir() + p.file_title + ".json";
+				LoadFromJsonFile(p, json_path);
+			}
+		}
+		while (ff.Next());
+		Sort(archived_songs, ArchivedSong());
 	}
 	
 }
@@ -471,6 +505,46 @@ void PatternSnap::Init(int pos, int len) {
 	}
 }
 
+String PatternSnap::GetStructuredText(bool pretty, int indent) const {
+	const Grouplist& g = Database::Single().groups;
+	String s;
+	if (pretty) s.Cat('\t', indent);
+	s << "line(" << pos << ":" << len << ") {";
+	if (pretty) s << "\n";
+	int i = 0;
+	Index<int> used_groups;
+	for (const SnapAttr& sa : this->attributes.GetKeys()) {
+		used_groups.FindAdd(sa.group);
+	}
+	
+	for (int group : used_groups.GetKeys()) {
+		const Grouplist::Group& gg = g.groups[group];
+		if (pretty) s.Cat('\t', indent+1);
+		s << ToLower(gg.description) << " {";
+		if (pretty) s << "\n";
+		for (const SnapAttr& sa : this->attributes.GetKeys()) {
+			if (sa.group != group)
+				continue;
+			if (pretty) s.Cat('\t', indent+2);
+			s	<< ToLower(gg.values[sa.item])
+				<< ";"
+				;
+			if (pretty) s << "\n";
+			i++;
+		}
+		if (pretty) s.Cat('\t', indent+1);
+		s << "}";
+		if (pretty) s << "\n";
+	}
+	if (a) s << a->GetStructuredText(pretty, indent+1);
+	if (b) s << b->GetStructuredText(pretty, indent+1);
+	if (pretty) s.Cat('\t', indent);
+	s << "}";
+	if (pretty) s << "\n";
+	return s;
+}
+
+
 
 
 
@@ -501,6 +575,25 @@ Grouplist::Grouplist() {
 	
 	#endif
 	
+}
+
+bool Grouplist::FindAttr(String group, String item, SnapAttr& sa) const {
+	group = ToLower(group);
+	item = ToLower(item);
+	int group_i = 0;
+	for (const Group& gg : groups.GetValues()) {
+		if (ToLower(gg.description) == group) {
+			for(int i = 0; i < gg.values.GetCount(); i++) {
+				if (ToLower(gg.values[i]) == item) {
+					sa.group = group_i;
+					sa.item = i;
+					return true;
+				}
+			}
+		}
+		group_i++;
+	}
+	return false;
 }
 
 void Grouplist::AddScoring(String s, Vector<Grouplist::ScoringType>& scorings) {
@@ -1117,3 +1210,4 @@ void Pattern::ReloadStructure() {
 		part.FixPtrs();
 	}
 }
+

@@ -98,6 +98,23 @@ LAYOUT(Analysis, 724, 488)
 	ITEM(Upp::ArrayCtrl, data, HSizePosZ(236, 4).VSizePosZ(4, 4))
 END_LAYOUT
 
+LAYOUT(PatternImport, 556, 260)
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Song")).LeftPosZ(4, 228).TopPosZ(4, 88))
+	ITEM(Upp::Label, dv___1, SetLabel(t_("Artist:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))
+	ITEM(Upp::EditString, artist, LeftPosZ(68, 160).TopPosZ(20, 20))
+	ITEM(Upp::Label, dv___3, SetLabel(t_("Title:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(44, 20))
+	ITEM(Upp::EditString, title, LeftPosZ(68, 160).TopPosZ(44, 20))
+	ITEM(Upp::Label, dv___5, SetLabel(t_("Year:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(68, 20))
+	ITEM(Upp::EditInt, year, LeftPosZ(68, 160).TopPosZ(68, 20))
+	ITEM(Upp::ArrayCtrl, list, LeftPosZ(4, 228).VSizePosZ(96, 116))
+	ITEM(Upp::Button, add, SetLabel(t_("Add")).LeftPosZ(4, 228).BottomPosZ(88, 24))
+	ITEM(Upp::Button, reset, SetLabel(t_("Reset")).LeftPosZ(4, 60).BottomPosZ(60, 24))
+	ITEM(Upp::Button, copy_test, SetLabel(t_("Copy test")).LeftPosZ(68, 60).BottomPosZ(60, 24))
+	ITEM(Upp::Button, copy_prompt, SetLabel(t_("Copy prompt to clipboard")).LeftPosZ(4, 228).BottomPosZ(32, 24))
+	ITEM(Upp::Button, paste_result, SetLabel(t_("Paste result from clipboard")).LeftPosZ(4, 228).BottomPosZ(4, 24))
+	ITEM(Splitter, mainsplit, HSizePosZ(236, 0).VSizePosZ(0, 0))
+END_LAYOUT
+
 LAYOUT(Pattern, 556, 216)
 	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Pattern")).LeftPosZ(4, 228).TopPosZ(4, 88))
 	ITEM(Upp::Label, dv___1, SetLabel(t_("Struct:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(8, 56).TopPosZ(20, 20))

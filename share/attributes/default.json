@@ -574,7 +574,11 @@
 					"blue": 101
 				},
 				"values": [
-					"Champion"
+					"Champion",
+					"wish",
+					"say",
+					"think",
+					"do something"
 				]
 			}
 		},
@@ -594,7 +598,40 @@
 					"gratitude",
 					"sex, drugs, and rock n roll",
 					"creative and free thinking",
-					"a world of mad, fun-loving equality"
+					"a world of mad, fun-loving equality",
+					"A free spirited individual who is optimistic",
+					"playful",
+					"and joyful",
+					"yet realistic and accepting of imperfection."
+				]
+			}
+		},
+		{
+			"key": "setting",
+			"value": {
+				"description": "Setting",
+				"color": {
+					"red": 71,
+					"green": 59,
+					"blue": 114
+				},
+				"values": [
+					"world",
+					"space",
+					"guitar",
+					"music",
+					"city",
+					"road",
+					"home",
+					"club",
+					"bar",
+					"nature",
+					"sea",
+					"river",
+					"hospital",
+					"jail",
+					"theather",
+					"museum"
 				]
 			}
 		}
@@ -627,6 +664,10 @@
 					{
 						"key": "a forbidden romance",
 						"value": "kielletty romanssi"
+					},
+					{
+						"key": "a free spirited individual who is optimistic",
+						"value": ""
 					},
 					{
 						"key": "a free spirited individual who is optimistic, playful, and joyful, yet realistic and accepting of imperfection.",
@@ -709,6 +750,10 @@
 						"value": "riippuvuus"
 					},
 					{
+						"key": "and joyful",
+						"value": ""
+					},
+					{
 						"key": "angry",
 						"value": "vihainen"
 					},
@@ -751,6 +796,10 @@
 					{
 						"key": "baptism of jesus",
 						"value": "jeesuksen kaste"
+					},
+					{
+						"key": "bar",
+						"value": "baari"
 					},
 					{
 						"key": "bar",
@@ -829,8 +878,16 @@
 						"value": "kertosäe2"
 					},
 					{
+						"key": "city",
+						"value": "kaupunki"
+					},
+					{
 						"key": "closed",
 						"value": "suljettu"
+					},
+					{
+						"key": "club",
+						"value": "club"
 					},
 					{
 						"key": "collective",
@@ -986,11 +1043,15 @@
 					},
 					{
 						"key": "do",
-						"value": "tee"
+						"value": "tehdä"
 					},
 					{
 						"key": "do",
-						"value": "tehdä"
+						"value": "tee"
+					},
+					{
+						"key": "do something",
+						"value": "tehdä jotain"
 					},
 					{
 						"key": "dramatic",
@@ -1149,6 +1210,10 @@
 						"value": "kiitollisuus"
 					},
 					{
+						"key": "guitar",
+						"value": "kitara"
+					},
+					{
 						"key": "hammy acting",
 						"value": "ylinäyttely"
 					},
@@ -1165,6 +1230,10 @@
 						"value": "hänen"
 					},
 					{
+						"key": "home",
+						"value": "home"
+					},
+					{
 						"key": "honesty",
 						"value": "rehellisyys"
 					},
@@ -1175,6 +1244,10 @@
 					{
 						"key": "hopeful",
 						"value": "toiveikas"
+					},
+					{
+						"key": "hospital",
+						"value": "sairaala"
 					},
 					{
 						"key": "human strength",
@@ -1291,6 +1364,10 @@
 					{
 						"key": "isolated",
 						"value": "eristäytynyt"
+					},
+					{
+						"key": "jail",
+						"value": "selli"
 					},
 					{
 						"key": "joyful",
@@ -1413,6 +1490,14 @@
 						"value": "valittava"
 					},
 					{
+						"key": "museum",
+						"value": "museo"
+					},
+					{
+						"key": "music",
+						"value": "musiikki"
+					},
+					{
 						"key": "music",
 						"value": "musiikki"
 					},
@@ -1455,6 +1540,10 @@
 					{
 						"key": "nature",
 						"value": "luonto"
+					},
+					{
+						"key": "nature",
+						"value": "nature"
 					},
 					{
 						"key": "navigate in life",
@@ -1777,6 +1866,14 @@
 						"value": "joki"
 					},
 					{
+						"key": "river",
+						"value": "joki"
+					},
+					{
+						"key": "road",
+						"value": "road"
+					},
+					{
 						"key": "road",
 						"value": "tie"
 					},
@@ -1817,6 +1914,14 @@
 						"value": "satiirinen"
 					},
 					{
+						"key": "say",
+						"value": "sanoa"
+					},
+					{
+						"key": "sea",
+						"value": "meri"
+					},
+					{
 						"key": "sea",
 						"value": "meri"
 					},
@@ -1855,6 +1960,10 @@
 					{
 						"key": "serious tone but humorous expectation",
 						"value": "vakava sävy, mutta humoristinen odotus"
+					},
+					{
+						"key": "setting",
+						"value": "miljöö"
 					},
 					{
 						"key": "sex humor",
@@ -1923,6 +2032,10 @@
 					{
 						"key": "sophisticated",
 						"value": "hienostunut"
+					},
+					{
+						"key": "space",
+						"value": "avaruus"
 					},
 					{
 						"key": "spiritual",
@@ -2013,6 +2126,10 @@
 						"value": ""
 					},
 					{
+						"key": "theather",
+						"value": "teatteri"
+					},
+					{
 						"key": "themes around",
 						"value": "teemoja asian ympäriltä"
 					},
@@ -2027,6 +2144,10 @@
 					{
 						"key": "they (m)",
 						"value": "he (m)"
+					},
+					{
+						"key": "think",
+						"value": "ajatella"
 					},
 					{
 						"key": "think about your own",
@@ -2145,6 +2266,14 @@
 						"value": "säe2"
 					},
 					{
+						"key": "verse3",
+						"value": ""
+					},
+					{
+						"key": "verse4",
+						"value": ""
+					},
+					{
 						"key": "virtual",
 						"value": "virtuaalinen"
 					},
@@ -2177,6 +2306,10 @@
 						"value": "vaimo"
 					},
 					{
+						"key": "wish",
+						"value": "toivoa"
+					},
+					{
 						"key": "wistful",
 						"value": "haikea"
 					},
@@ -2199,6 +2332,14 @@
 					{
 						"key": "working against cliche",
 						"value": "työskentelee kliseitä vastaan"
+					},
+					{
+						"key": "world",
+						"value": "maailma"
+					},
+					{
+						"key": "yet realistic and accepting of imperfection.",
+						"value": ""
 					},
 					{
 						"key": "you (f)",

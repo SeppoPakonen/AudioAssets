@@ -1,6 +1,10 @@
 #ifndef _AI_Tool_Data_h_
 #define _AI_Tool_Data_h_
 
+
+struct SnapAttr;
+
+
 struct DataFile {
 	String file_title;
 	
@@ -77,7 +81,7 @@ struct Grouplist : DataFile {
 		return i;
 	}
 	String Translate(const String& s);
-	
+	bool FindAttr(String group, String item, SnapAttr& sa) const;
 	void Clear() {groups.Clear(); translation.Clear();}
 	void Jsonize(JsonIO& json) {
 		json
@@ -254,13 +258,16 @@ struct PatternSnap : DataFile {
 	int part_id = -1;
 	int pos = -1, len = 0;
 	Index<SnapAttr> attributes;
+	String txt;
 	
 	void Init(int pos, int len);
 	void Clear() {
 		a.Clear();
 		b.Clear();
 		attributes.Clear();
+		txt.Clear();
 	}
+	String GetStructuredText(bool pretty, int indent = 0) const;
 	void SetId(int i) {
 		part_id = i;
 		if (a) a->SetId(i);
@@ -272,6 +279,7 @@ struct PatternSnap : DataFile {
 			("pos",  pos)
 			("len",  len)
 			("attributes",  attributes)
+			("txt",  txt)
 		;
 		if (json.IsStoring()) {
 			if (a) json("a", *a);
@@ -399,6 +407,24 @@ struct Pattern : DataFile {
 	void MergeOwner() {
 		for (Part& p : unique_parts.GetValues())
 			p.snap.MergeOwner();
+	}
+	String GetStructuredText(bool pretty, int indent = 0) const {
+		String s;
+		for(const Part& p : unique_parts.GetValues()) {
+			if (pretty) {
+				s.Cat('\t', indent);
+				s	<< "part " << p.name << " {\n";
+				s	<< p.snap.GetStructuredText(pretty, indent+1);
+				s	<< "}\n";
+				s.Cat('\t', indent);
+			}
+			else {
+				s	<< "part " << p.name << "{";
+				s	<< p.snap.GetStructuredText(pretty, indent+1);
+				s	<< "}";
+			}
+		}
+		return s;
 	}
 };
 
@@ -661,6 +687,54 @@ struct Timeline : DataFile {
 	}
 };
 
+struct ArchivedSong : DataFile {
+	struct Attr : Moveable<Attr> {
+		String group, item;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("group", group)
+				("item", item)
+				;
+		}
+	};
+	struct Line : Moveable<Line> {
+		String line;
+		Vector<Attr> attrs;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("line", line)
+				("attrs", attrs)
+				;
+		}
+	};
+	
+	String artist, title, content;
+	Vector<Line> line_attrs;
+	int year = 0;
+	
+	Pattern* tmp_pattern = 0;
+	
+	ArchivedSong() {file_title = "default";}
+	void Jsonize(JsonIO& json) {
+		json
+			("artist", artist)
+			("title", title)
+			("year", year)
+			("content", content)
+			("line_attrs", line_attrs)
+			;
+	}
+	
+	bool operator()(const ArchivedSong& a, const ArchivedSong& b) const {
+		if (a.year != b.year) return a.year < b.year;
+		if (a.artist != b.artist) return a.artist < b.artist;
+		return a.title < b.title;
+	}
+	
+};
+
 template <class T, class PTR>
 int VectorFindPtr(PTR* p, T& arr) {
 	int i = 0;
@@ -683,6 +757,7 @@ struct Database {
 	Array<PatternScore>	scores;
 	Grouplist			groups;
 	Timeline			timeline;
+	Array<ArchivedSong>	archived_songs;
 	
 	Artist*			active_artist = 0;
 	Story*			active_story = 0;
@@ -693,6 +768,7 @@ struct Database {
 	Composition*	active_composition = 0;
 	Analysis*		active_analysis = 0;
 	AttrScoreGroup*	active_scoregroup = 0;
+	ArchivedSong*	active_archivedsong = 0;
 	
 	int GetActiveArtistIndex() const {return VectorFindPtr(active_artist, artists);}
 	int GetActivePatternIndex() const {return VectorFindPtr(active_pattern, patterns);}
@@ -700,6 +776,7 @@ struct Database {
 	int GetActiveCompositionIndex() const {return VectorFindPtr(active_composition, compositions);}
 	int GetActiveAnalysisIndex() const {return VectorFindPtr(active_analysis, analyses);}
 	int GetActiveScoreGroupIndex() const {return VectorFindPtr(active_scoregroup, attrscores.groups);}
+	int GetActiveArchivedSongIndex() const {return VectorFindPtr(active_archivedsong, archived_songs);}
 	
 	void Save();
 	void Load();
@@ -731,6 +808,7 @@ struct Database {
 	String GetAttributesDir() const;
 	String GetAttrScoresDir() const;
 	String GetTimelineDir() const;
+	String GetArchivedSongDir() const;
 	
 	static Database& Single() {static Database db; return db;}
 	

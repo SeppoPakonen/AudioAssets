@@ -98,6 +98,7 @@ public:
 	MainToolCtrl		main;
 	ArtistEditCtrl		artist_ctrl;
 	StoryEditCtrl		story_ctrl;
+	PatternImportCtrl	patternimport_ctrl;
 	PatternCtrl			pattern_ctrl;
 	CompositionEditCtrl	composition_ctrl;
 	AnalysisEditCtrl	analysis_ctrl;
