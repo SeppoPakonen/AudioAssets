@@ -1,0 +1,291 @@
+List of axes:
+Mood: joyful/melancholic
+Mood: playful/serious
+Mood: uplifting/heavy
+Mood: lighthearted/somber
+Mood: humorous/dramatic
+Social: authoritarian/liberatrian
+Economic: liberal/conservative
+Culture: individualism/collective
+Human strength: strong/weak
+Motivation: rewarding/punishing
+Sexualization: sexual/non-sexual
+Attitude: hopeful/despair
+Attitude: optimistic/pessimistic
+Attitude: open/closed
+Beliefs: spiritual/ secular
+Expectations: expectations of perfection/acceptance
+
+Entries:
+- i (m)
+- i (f)
+- you (m)
+- you (f)
+- he
+- she
+- we
+- we (m)
+- we (f)
+- plural you
+- plural you (m)
+- plural you (f)
+- they
+- they (m)
+- they (f)
+- one
+- everyone
+- singular pronoun
+- person
+- that
+- every
+- day
+- night
+- love
+- moment
+- passive
+- my
+- your
+
+
+Scores per entry:
+Scores per entry:
+"i (m)" - "she":
+- Mood: joyful/melancholic: +1 Joyful
+- Mood: playful/serious: +1 Playful
+- Mood: uplifting/heavy: +1 Uplifting
+- Mood: lighthearted/somber: +1 Lighthearted
+- Mood: humorous/dramatic: +1 Humorous
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: +1 Individualism
+- Human strength: strong/weak: +1 Strong
+- Motivation: rewarding/punishing: +1 Rewarding
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: +1 Open
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: -1 Acceptance
+
+"we"-"we (females)":
+- Mood: joyful/melancholic: +1 Joyful
+- Mood: playful/serious: +1 Playful
+- Mood: uplifting/heavy: +1 Uplifting
+- Mood: lighthearted/somber: +1 Lighthearted
+- Mood: humorous/dramatic: +1 Humorous
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: -1 Collective
+- Human strength: strong/weak: +1 Strong
+- Motivation: rewarding/punishing: +1 Rewarding
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: +1 Open
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: -1 Acceptance
+
+"plural you":
+- Mood: joyful/melancholic: +1 Joyful
+- Mood: playful/serious: +1 Playful
+- Mood: uplifting/heavy: +1 Uplifting
+- Mood: lighthearted/somber: +1 Lighthearted
+- Mood: humorous/dramatic: +1 Humorous
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: +1 Individualism
+- Human strength: strong/weak: +1 Strong
+- Motivation: rewarding/punishing: +1 Rewarding
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: +1 Open
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: -1 Acceptance
+
+"they":
+- Mood: joyful/melancholic: 0
+- Mood: playful/serious: 0 
+- Mood: uplifting/heavy: 0 
+- Mood: lighthearted/somber: 0 
+- Mood: humorous/dramatic: 0
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0 
+- Culture: individualism/collective: +1 Collective
+- Human strength: strong/weak: 0 
+- Motivation: rewarding/punishing: 0 
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: 0 
+- Attitude: optimistic/pessimistic:0 
+- Attitude: open/closed: 0 
+- Beliefs: spiritual/ secular: 0 
+- Expectations: expectations of perfection/acceptance: 0
+
+"someone":
+- Mood: joyful/melancholic: +1 Joyful
+- Mood: playful/serious: +1 Playful
+- Mood: uplifting/heavy: +1 Uplifting
+- Mood: lighthearted/somber: +1 Lighthearted
+- Mood: humorous/dramatic: +1 Humorous
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: +1 Individualism
+- Human strength: strong/weak: +1 Strong
+- Motivation: rewarding/punishing: +1 Rewarding
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: +1 Open
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: -1 Acceptance
+
+
+"everyone":
+- Mood: joyful/melancholic: +1 Joyful
+- Mood: playful/serious: 0
+- Mood: uplifting/heavy: 0
+- Mood: lighthearted/somber: 0
+- Mood: humorous/dramatic: 0
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: +1 Collective
+- Human strength: strong/weak: 0
+- Motivation: rewarding/punishing: 0
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: +1 Open
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: 0
+
+
+"person":
+- Mood: joyful/melancholic: 0
+- Mood: playful/serious: 0
+- Mood: uplifting/heavy: 0
+- Mood: lighthearted/somber: 0
+- Mood: humorous/dramatic: 0
+- Social: authoritarian/liberatrian: 0
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: 0
+- Human strength: strong/weak: 0
+- Motivation: rewarding/punishing: 0
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: 0
+- Attitude: optimistic/pessimistic: 0
+- Attitude: open/closed: 0
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: 0
+
+"day":
+- Mood: joyful/melancholic: 0
+- Mood: playful/serious: 0
+- Mood: uplifting/heavy: 0
+- Mood: lighthearted/somber: 0
+- Mood: humorous/dramatic: 0
+- Social: authoritarian/liberatrian: 0
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: 0
+- Human strength: strong/weak: 0
+- Motivation: rewarding/punishing: 0
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: 0
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: 0
+
+
+"night":
+- Mood: joyful/melancholic: 0
+- Mood: playful/serious: 0
+- Mood: uplifting/heavy: 0
+- Mood: lighthearted/somber: 0
+- Mood: humorous/dramatic: 0
+- Social: authoritarian/liberatrian: 0
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: 0
+- Human strength: strong/weak: 0
+- Motivation: rewarding/punishing: 0
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: 0
+- Attitude: optimistic/pessimistic: 0
+- Attitude: open/closed: 0
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: 0
+
+
+"love":
+- Mood: joyful/melancholic: +1 Joyful
+- Mood: playful/serious: +1 Playful
+- Mood: uplifting/heavy: +1 Uplifting
+- Mood: lighthearted/somber: +1 Lighthearted
+- Mood: humorous/dramatic: +1 Humorous
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: +1 Individualism
+- Human strength: strong/weak: +1 Strong
+- Motivation: rewarding/punishing: +1 Rewarding
+- Sexualization: sexual/non-sexual: 0
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: +1 Open
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: +1 Acceptance
+
+"fight", "competition", "conquest", "victory", "aggression", "war", "combat", "brawl":
+"discipline", "obedience", "law", "order", "systems":
+- Mood: joyful/melancholic: +1 Joyful
+- Mood: playful/serious: 0
+- Mood: uplifting/heavy: 0
+- Mood: lighthearted/somber: +1 Lighthearted
+- Mood: humorous/dramatic: 0
+- Social: authoritarian/liberatrian: +1 Authoritarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: +1 Individualism
+- Human strength: strong/weak: +1 Strong
+- Motivation: rewarding/punishing: +1 Rewarding
+- Sexualization: sexual/non-sexual: +1 Sexual
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: 0
+- Beliefs: spiritual/ secular: -1 Secular
+- Expectations: expectations of perfection/acceptance: +1 Perfection
+
+Nouns "despair", "fear", "helplessness", "hopelessness", "defeat":
+- Mood: joyful/melancholic: -1 Melancholic
+- Mood: playful/serious: -1 Serious
+- Mood: uplifting/heavy: 0
+- Mood: lighthearted/somber: -1 Somber
+- Mood: humorous/dramatic: 0
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: -1 Collective
+- Human strength: strong/weak: -1 Weak
+- Motivation: rewarding/punishing: -1 Punishing
+- Sexualization: sexual/non-sexual: +1 Sexual
+- Attitude: hopeful/despair: -1 Despair
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: 0
+- Beliefs: spiritual/ secular: +1 Spiritual
+- Expectations: expectations of perfection/acceptance: -1 Acceptance
+
+
+Nouns "Relationship":
+- Mood: joyful/melancholic: +1 Joyful
+- Mood: playful/serious: +1 Playful
+- Mood: uplifting/heavy: +1 Uplifting
+- Mood: lighthearted/somber: +1 Lighthearted
+- Mood: humorous/dramatic: +1 Humorous
+- Social: authoritarian/liberatrian: -1 Libertarian
+- Economic: liberal/conservative: 0
+- Culture: individualism/collective: +1 Individualism
+- Human strength: strong/weak: +1 Strong
+- Motivation: rewarding/punishing: +1 Rewarding
+- Sexualization: sexual/non-sexual: +1 Sexual
+- Attitude: hopeful/despair: +1 Hopeful
+- Attitude: optimistic/pessimistic: +1 Optimistic
+- Attitude: open/closed: +1 Open
+- Beliefs: spiritual/ secular: 0
+- Expectations: expectations of perfection/acceptance: 0
+

@@ -13,6 +13,7 @@ public:
 	MainToolCtrl();
 	
 	void Data();
+	void OnIndexChange();
 	void Generate();
 	void CopyToClipboard();
 	
@@ -21,7 +22,6 @@ public:
 };
 
 class ArtistEditCtrl : public WithArtist<Ctrl> {
-	Artist* active_artist = 0;
 	
 public:
 	typedef ArtistEditCtrl CLASSNAME;
@@ -38,7 +38,6 @@ public:
 };
 
 class StoryEditCtrl : public WithStory<Ctrl> {
-	Story* active_story = 0;
 	
 public:
 	typedef StoryEditCtrl CLASSNAME;
@@ -67,7 +66,6 @@ public:
 	void SaveComposition();
 	
 	ToolApp* app = 0;
-	Composition* active_composition = 0;
 	
 };
 
@@ -82,14 +80,17 @@ public:
 	void NewAnalysis(const String& name);
 	void AddAnalysis();
 	void SaveAnalysis();
+	void ParseAnalysis();
 	
 	ToolApp* app = 0;
-	Analysis* active_analysis = 0;
 	
 };
 
 
 class ToolApp : public TopWindow {
+	
+protected:
+	friend class ReverseCtrl;
 	MenuBar			menu;
 	TabCtrl			tabs;
 	
@@ -97,10 +98,16 @@ public:
 	MainToolCtrl		main;
 	ArtistEditCtrl		artist_ctrl;
 	StoryEditCtrl		story_ctrl;
+	PatternImportCtrl	patternimport_ctrl;
 	PatternCtrl			pattern_ctrl;
 	CompositionEditCtrl	composition_ctrl;
 	AnalysisEditCtrl	analysis_ctrl;
-	
+	ScoreCtrl			score_ctrl;
+	AttrScoreCtrl		attrscore_ctrl;
+	ProductionCtrl		prod_ctrl;
+	ReverseCtrl			rev_ctrl;
+	TimelineCtrl		timeline_ctrl;
+	PatternMaskCtrl		patternmask_ctrl;
 	
 public:
 	typedef ToolApp CLASSNAME;

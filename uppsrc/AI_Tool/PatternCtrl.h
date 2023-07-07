@@ -15,6 +15,7 @@ protected:
 	Vector<PatternSnap*> level_snaps;
 	AttrCtrl attr;
 	ArrayCtrl list;
+	PlotCtrl plot;
 	
 public:
 	typedef PatternCtrl CLASSNAME;
@@ -32,13 +33,12 @@ public:
 	void OnListSel();
 	void DataPatternSnap();
 	void DataList();
+	void MergeOwner();
 	void FocusTree();
 	void FocusList();
 	void SwitchView();
 	
 	ToolApp* app = 0;
-	Pattern* active_pattern = 0;
-	PatternSnap* active_snap = 0;
 	
 };
 

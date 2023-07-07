@@ -19,10 +19,27 @@ file
 	StoryEdit.cpp,
 	CompositionEdit.cpp,
 	AnalysisEdit.cpp,
+	PatternImportCtrl.h,
+	PatternImportCtrl.cpp,
 	PatternCtrl.h,
 	PatternCtrl.cpp,
+	PatternMaskCtrl.h,
+	PatternMaskCtrl.cpp,
 	AttrCtrl.h,
-	AttrCtrl.cpp;
+	AttrCtrl.cpp,
+	AttrScoreCtrl.h,
+	AttrScoreCtrl.cpp,
+	PlotCtrl.h,
+	PlotCtrl.cpp,
+	ScoreCtrl.h,
+	ScoreCtrl.cpp,
+	ReverseCtrl.h,
+	ReverseCtrl.cpp,
+	ProductionCtrl.h,
+	ProductionCtrl.cpp,
+	TimelineCtrl.h,
+	TimelineCtrl.cpp,
+	Optimizer.h;
 
 mainconfig
 	"" = "GUI";

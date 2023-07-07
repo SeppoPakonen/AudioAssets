@@ -73,8 +73,9 @@ void StoryEditCtrl::Data() {
 	}
 	stories.SetCount(db.stories.GetCount());
 	
-	if (db.stories.GetCount() && !stories.IsCursor())
-		stories.SetCursor(0);
+	int cursor = max(0, db.GetActiveStoryIndex());
+	if (cursor >= 0 && cursor < db.stories.GetCount())
+		stories.SetCursor(cursor);
 	
 	if (stories.IsCursor())
 		DataStory();
@@ -86,8 +87,9 @@ void StoryEditCtrl::DataStory() {
 		return;
 	
 	int cursor = stories.GetCursor();
-	Story& o = Database::Single().stories[cursor];
-	active_story = &o;
+	Database& db = Database::Single();
+	Story& o = db.stories[cursor];
+	db.active_story = &o;
 	
 	this->year							.SetData(o.year);
 	this->title							.SetData(o.title);
@@ -102,10 +104,11 @@ void StoryEditCtrl::DataStory() {
 }
 
 void StoryEditCtrl::SaveStory() {
-	if (!active_story)
+	Database& db = Database::Single();
+	if (!db.active_story)
 		return;
 	
-	Story& o = *active_story;
+	Story& o = *db.active_story;
 	
 	o.year							= this->year.GetData();
 	o.title							= this->title.GetData();

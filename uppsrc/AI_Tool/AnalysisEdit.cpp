@@ -50,7 +50,8 @@ AnalysisEditCtrl::AnalysisEditCtrl() {
 	last = this;
 	CtrlLayout(*this);
 	
-	add <<= THISBACK(AddAnalysis);
+	add   <<= THISBACK(AddAnalysis);
+	parse <<= THISBACK(ParseAnalysis);
 	
 	data.AddColumn("Key");
 	data.AddColumn("Value").Ctrls(EditData);
@@ -87,8 +88,9 @@ void AnalysisEditCtrl::Data() {
 	}
 	analyses.SetCount(db.analyses.GetCount());
 	
-	if (db.analyses.GetCount() && !analyses.IsCursor())
-		analyses.SetCursor(0);
+	int cursor = max(0, db.GetActiveAnalysisIndex());
+	if (cursor >= 0 && cursor < db.analyses.GetCount())
+		analyses.SetCursor(cursor);
 	
 	if (analyses.IsCursor())
 		DataAnalysis();
@@ -113,7 +115,7 @@ void AnalysisEditCtrl::DataAnalysis() {
 	
 	Database& db = Database::Single();
 	Analysis& o = db.analyses[cursor];
-	active_analysis = &o;
+	db.active_analysis = &o;
 	
 	int i = 0;
 	#define ITEM(a,b,c) data.Set(i++, 1, o.c##b);
@@ -122,13 +124,46 @@ void AnalysisEditCtrl::DataAnalysis() {
 }
 
 void AnalysisEditCtrl::SaveAnalysis() {
-	if (!active_analysis)
+	Database& db = Database::Single();
+	if (!db.active_analysis)
 		return;
 	
-	Analysis& o = *active_analysis;
+	Analysis& o = *db.active_analysis;
 	
 	int i = 0;
 	#define ITEM(a,b,c) o.c##b = data.Get(i++, 1);
 	ANALYSIS_KEY_LIST
 	#undef ITEM
+}
+
+void AnalysisEditCtrl::ParseAnalysis() {
+	Database& db = Database::Single();
+	if (!db.active_analysis)
+		return;
+	
+	String txt = ReadClipboardText();
+	
+	txt.Replace("\r", "");
+	Vector<String> lines = Split(txt, "\n");
+	for(int i = 0; i < lines.GetCount(); i++) {
+		String& l = lines[i];
+		l = TrimBoth(l);
+		if (l.IsEmpty()) {
+			lines.Remove(i--);
+		}
+	}
+	
+	if (lines.GetCount() != 60) {
+		PromptOK("Error: expected 60 lines, got " + IntStr(lines.GetCount()));
+		return;
+	}
+	
+	int i = 1, j = 0;
+	#define ITEM(a, b, c) \
+		db.active_analysis->c##b = TrimBoth(lines[i]); \
+		i += 2; j++;
+	ANALYSIS_KEY_LIST
+	#undef ITEM
+	
+	DataAnalysis();
 }

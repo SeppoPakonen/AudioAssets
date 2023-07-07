@@ -1,0 +1,2592 @@
+{
+	"artist": "Red Hot Chili Peppers",
+	"title": "Scar Tissue",
+	"year": 1999,
+	"content": "verse1:\r\nScar tissue that I wish you saw\r\nSarcastic mister know-it-all\r\nClose your eyes and I'll kiss you, 'cause with the birds I'll share (lonely view)\r\n\r\nchorus1:\r\nWith the birds I'll share this lonely viewin'\r\nWith the birds I'll share this lonely viewin'\r\n\r\nverse2:\r\nPush me up against the wall\r\nYoung Kentucky girl in a push-up bra\r\nFallin' all over myself To lick your heart and taste your health 'cause\r\n\r\nchorus2:\r\nWith the birds I'll share this lonely viewin'\r\nWith the birds I'll share this lonely viewin'\r\nWith the birds I'll share this lonely view\r\n\r\nverse3:\r\nBlood loss in a bathroom stall\r\nA southern girl with a scarlet drawl\r\nI wave goodbye to ma and pa 'Cause with the birds I'll share (lonely view)\r\n\r\nchorus1:\r\n\r\nverse4:\r\nSoft spoken with a broken jaw\r\nStep outside but not to brawl and autumn's sweet, we call it fall\r\nI'll make it to the moon if I have to crawl (and)\r\n\r\nchorus2:\r\n\r\nverse1:\r\n\r\nchorus2:",
+	"line_attrs": [
+		{
+			"line": "Scar tissue that I wish you saw",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of sentences",
+					"item": "Observations"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Exaggeration and surreal situations"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Funny"
+				},
+				{
+					"group": "Tones",
+					"item": "Melancholic"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Tragic death"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Casual"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Satirical"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Absurd and exaggerated scenarios"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Irony"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Respect"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Playful ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Social"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Man"
+				},
+				{
+					"group": "Place",
+					"item": "My bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is mentioned"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "A free spirited individual who is optimistic"
+				},
+				{
+					"group": "Idea",
+					"item": "playful"
+				},
+				{
+					"group": "Idea",
+					"item": "and joyful"
+				},
+				{
+					"group": "Idea",
+					"item": "yet realistic and accepting of imperfection."
+				},
+				{
+					"group": "Setting",
+					"item": "World"
+				}
+			]
+		},
+		{
+			"line": "Sarcastic mister know-it-all",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "You (m)"
+				},
+				{
+					"group": "Types of sentences",
+					"item": "Statements"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Subversion of expectations"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Dramatic"
+				},
+				{
+					"group": "Tones",
+					"item": "Pleading"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A marriage in crisis"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Contrasting"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Pun"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Physical comedy"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Playful wordplay"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Honesty"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mutual antagonism ia."
+				},
+				{
+					"group": "Interactions",
+					"item": "Atheistic"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Woman"
+				},
+				{
+					"group": "Place",
+					"item": "My bed (f)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Building strong relationships"
+				},
+				{
+					"group": "Setting",
+					"item": "Space"
+				}
+			]
+		},
+		{
+			"line": "Close your eyes and I'll kiss you, 'cause",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "You (f)"
+				},
+				{
+					"group": "Types of sentences",
+					"item": "Questions"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Absurd concepts"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Seductive"
+				},
+				{
+					"group": "Tones",
+					"item": "Earnest"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A serious illness"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Conversational"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Irony"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Tragedy mocks success"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Ironical statements"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Negligent ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Religious"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Girl"
+				},
+				{
+					"group": "Place",
+					"item": "Your bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is not revealed"
+				},
+				{
+					"group": "Verbs",
+					"item": "Think"
+				},
+				{
+					"group": "Idea",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Setting",
+					"item": "Guitar"
+				}
+			]
+		},
+		{
+			"line": "With the birds I'll share",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (f)"
+				},
+				{
+					"group": "Types of sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Juxtaposition"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Devious"
+				},
+				{
+					"group": "Tones",
+					"item": "Bittersweet"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A family in deep debt"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Deep"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Sarcasm"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Self-deprecation"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Romantic humour"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Kindness"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mechanical/workaround ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Playful"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Boy"
+				},
+				{
+					"group": "Place",
+					"item": "Your bed (f)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is not revealed"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Sex"
+				},
+				{
+					"group": "Idea",
+					"item": "drugs"
+				},
+				{
+					"group": "Idea",
+					"item": "and rock n roll"
+				},
+				{
+					"group": "Setting",
+					"item": "Music"
+				},
+				{
+					"group": "Pronouns",
+					"item": "I (f)"
+				},
+				{
+					"group": "Types of sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Juxtaposition"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Devious"
+				},
+				{
+					"group": "Tones",
+					"item": "Bittersweet"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A family in deep debt"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Deep"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Sarcasm"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Self-deprecation"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Romantic humour"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Kindness"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mechanical/workaround ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Playful"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Boy"
+				},
+				{
+					"group": "Place",
+					"item": "Your bed (f)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is not revealed"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Sex"
+				},
+				{
+					"group": "Idea",
+					"item": "drugs"
+				},
+				{
+					"group": "Idea",
+					"item": "and rock n roll"
+				},
+				{
+					"group": "Setting",
+					"item": "Music"
+				},
+				{
+					"group": "Pronouns",
+					"item": "I (f)"
+				},
+				{
+					"group": "Types of sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Juxtaposition"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Devious"
+				},
+				{
+					"group": "Tones",
+					"item": "Bittersweet"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A family in deep debt"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Deep"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Sarcasm"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Self-deprecation"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Romantic humour"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Kindness"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mechanical/workaround ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Playful"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Boy"
+				},
+				{
+					"group": "Place",
+					"item": "Your bed (f)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is not revealed"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Sex"
+				},
+				{
+					"group": "Idea",
+					"item": "drugs"
+				},
+				{
+					"group": "Idea",
+					"item": "and rock n roll"
+				},
+				{
+					"group": "Setting",
+					"item": "Music"
+				}
+			]
+		},
+		{
+			"line": "this lonely viewin'",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (f)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected combinations"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Mysterious"
+				},
+				{
+					"group": "Tones",
+					"item": "Wistful"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A personal betrayal"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Educating"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Irony"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Playing with expectations"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Playful wordplay"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mutual antagonism ia."
+				},
+				{
+					"group": "Interactions",
+					"item": "Social"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Stranger"
+				},
+				{
+					"group": "Place",
+					"item": "The city"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is mentioned"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Setting",
+					"item": "Road"
+				},
+				{
+					"group": "Pronouns",
+					"item": "I (f)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected combinations"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Mysterious"
+				},
+				{
+					"group": "Tones",
+					"item": "Wistful"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A personal betrayal"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Educating"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Irony"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Playing with expectations"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Playful wordplay"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mutual antagonism ia."
+				},
+				{
+					"group": "Interactions",
+					"item": "Social"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Stranger"
+				},
+				{
+					"group": "Place",
+					"item": "The city"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is mentioned"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Setting",
+					"item": "Road"
+				}
+			]
+		},
+		{
+			"line": "Push me up against the wall",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "You (f)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Imperative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Flips of gender roles"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Passionate"
+				},
+				{
+					"group": "Tones",
+					"item": "Desperate"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Fighting against the odds"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Suggestive"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Pun"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Role reversal"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Ironical statements"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Honesty"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Judgemental ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Sexual"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Woman"
+				},
+				{
+					"group": "Place",
+					"item": "The beach"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Think"
+				},
+				{
+					"group": "Idea",
+					"item": "Creative and free thinking"
+				},
+				{
+					"group": "Setting",
+					"item": "Nature"
+				},
+				{
+					"group": "Pronouns",
+					"item": "You (f)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Imperative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Flips of gender roles"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Passionate"
+				},
+				{
+					"group": "Tones",
+					"item": "Desperate"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Fighting against the odds"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Suggestive"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Pun"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Role reversal"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Ironical statements"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Honesty"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Judgemental ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Sexual"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Woman"
+				},
+				{
+					"group": "Place",
+					"item": "The beach"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Think"
+				},
+				{
+					"group": "Idea",
+					"item": "Creative and free thinking"
+				},
+				{
+					"group": "Setting",
+					"item": "Nature"
+				}
+			]
+		},
+		{
+			"line": "Young Kentucky girl in a push-up bra",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "She"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Statement"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected use of opposites"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Seductive"
+				},
+				{
+					"group": "Tones",
+					"item": "Nostalgic"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Racism and discrimination"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Natural"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Hyperbole"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Absurd dialogue"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Smartassery"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Trustful ia. with angels"
+				},
+				{
+					"group": "Interactions",
+					"item": "Romantic"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Husband"
+				},
+				{
+					"group": "Verbs",
+					"item": "Champion"
+				},
+				{
+					"group": "Idea",
+					"item": "A free spirited individual who is optimistic"
+				},
+				{
+					"group": "Idea",
+					"item": "playful"
+				},
+				{
+					"group": "Idea",
+					"item": "and joyful"
+				},
+				{
+					"group": "Idea",
+					"item": "yet realistic and accepting of imperfection."
+				},
+				{
+					"group": "Setting",
+					"item": "Guitar"
+				},
+				{
+					"group": "Pronouns",
+					"item": "She"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Statement"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected use of opposites"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Seductive"
+				},
+				{
+					"group": "Tones",
+					"item": "Nostalgic"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Racism and discrimination"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Natural"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Hyperbole"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Absurd dialogue"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Smartassery"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Trustful ia. with angels"
+				},
+				{
+					"group": "Interactions",
+					"item": "Romantic"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Husband"
+				},
+				{
+					"group": "Verbs",
+					"item": "Champion"
+				},
+				{
+					"group": "Idea",
+					"item": "A free spirited individual who is optimistic"
+				},
+				{
+					"group": "Idea",
+					"item": "playful"
+				},
+				{
+					"group": "Idea",
+					"item": "and joyful"
+				},
+				{
+					"group": "Idea",
+					"item": "yet realistic and accepting of imperfection."
+				},
+				{
+					"group": "Setting",
+					"item": "Guitar"
+				},
+				{
+					"group": "Pronouns",
+					"item": "She"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Statement"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected use of opposites"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Seductive"
+				},
+				{
+					"group": "Tones",
+					"item": "Nostalgic"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Racism and discrimination"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Natural"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Hyperbole"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Absurd dialogue"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Smartassery"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Trustful ia. with angels"
+				},
+				{
+					"group": "Interactions",
+					"item": "Romantic"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Husband"
+				},
+				{
+					"group": "Verbs",
+					"item": "Champion"
+				},
+				{
+					"group": "Idea",
+					"item": "A free spirited individual who is optimistic"
+				},
+				{
+					"group": "Idea",
+					"item": "playful"
+				},
+				{
+					"group": "Idea",
+					"item": "and joyful"
+				},
+				{
+					"group": "Idea",
+					"item": "yet realistic and accepting of imperfection."
+				},
+				{
+					"group": "Setting",
+					"item": "Guitar"
+				}
+			]
+		},
+		{
+			"line": "Fallin' all over myself",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Statement"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Repetition of unusual themes"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Devious"
+				},
+				{
+					"group": "Tones",
+					"item": "Earnest"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Conflicts between cultures"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Casual"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Satirical"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Playing with expectations"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Exaggeration"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Honesty"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Quasi-moral behavioural ia."
+				},
+				{
+					"group": "Interactions",
+					"item": "Emotional"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Friend"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "Building strong relationships"
+				},
+				{
+					"group": "Setting",
+					"item": "Music"
+				}
+			]
+		},
+		{
+			"line": "Close your eyes and I'll kiss you, 'cause with the birds I'll share (lonely view)",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Exaggeration and surreal situations"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Respect"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Playful ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Social"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Funny"
+				},
+				{
+					"group": "Tones",
+					"item": "Melancholic"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Tragic death"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Casual"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Puns"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Absurd and exaggerated scenarios"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Irony"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Promote someone's"
+				},
+				{
+					"group": "Place",
+					"item": "My bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is mentioned"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "A free spirited individual who is optimistic"
+				},
+				{
+					"group": "Idea",
+					"item": "playful"
+				},
+				{
+					"group": "Idea",
+					"item": "and joyful"
+				},
+				{
+					"group": "Idea",
+					"item": "yet realistic and accepting of imperfection."
+				},
+				{
+					"group": "Setting",
+					"item": "World"
+				},
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Exaggeration and surreal situations"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Respect"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Playful ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Social"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Funny"
+				},
+				{
+					"group": "Tones",
+					"item": "Melancholic"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Tragic death"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Casual"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Puns"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Absurd and exaggerated scenarios"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Irony"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Promote someone's"
+				},
+				{
+					"group": "Place",
+					"item": "My bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is mentioned"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "A free spirited individual who is optimistic"
+				},
+				{
+					"group": "Idea",
+					"item": "playful"
+				},
+				{
+					"group": "Idea",
+					"item": "and joyful"
+				},
+				{
+					"group": "Idea",
+					"item": "yet realistic and accepting of imperfection."
+				},
+				{
+					"group": "Setting",
+					"item": "World"
+				}
+			]
+		},
+		{
+			"line": "With the birds I'll share this lonely viewin'",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected turning of a positive thing into negativity"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Honesty"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mutual antagonism ia."
+				},
+				{
+					"group": "Interactions",
+					"item": "Atheistic"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Dramatic"
+				},
+				{
+					"group": "Tones",
+					"item": "Pleading"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A marriage in crisis"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Contrasting"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Irony"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Physical comedy"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Playful wordplay"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "To bring up your own"
+				},
+				{
+					"group": "Place",
+					"item": "My bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Building strong relationships"
+				},
+				{
+					"group": "Setting",
+					"item": "Space"
+				},
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected turning of a positive thing into negativity"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Honesty"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mutual antagonism ia."
+				},
+				{
+					"group": "Interactions",
+					"item": "Atheistic"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Dramatic"
+				},
+				{
+					"group": "Tones",
+					"item": "Pleading"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A marriage in crisis"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Contrasting"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Irony"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Physical comedy"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Playful wordplay"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "To bring up your own"
+				},
+				{
+					"group": "Place",
+					"item": "My bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Building strong relationships"
+				},
+				{
+					"group": "Setting",
+					"item": "Space"
+				}
+			]
+		},
+		{
+			"line": "Fallin' all over myself To lick your heart and taste your health 'cause",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Imperative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Hope for future without immediate action"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Negligent ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Religious"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Seductive"
+				},
+				{
+					"group": "Tones",
+					"item": "Earnest"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A serious illness"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Conversational"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Sarcasm"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Tragedy mocks success"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Ironical statements"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Emphasize someone's"
+				},
+				{
+					"group": "Place",
+					"item": "Your bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is not revealed"
+				},
+				{
+					"group": "Verbs",
+					"item": "Think"
+				},
+				{
+					"group": "Idea",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Setting",
+					"item": "Guitar"
+				},
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Imperative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Hope for future without immediate action"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Negligent ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Religious"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Seductive"
+				},
+				{
+					"group": "Tones",
+					"item": "Earnest"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A serious illness"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Conversational"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Sarcasm"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Tragedy mocks success"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Ironical statements"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Emphasize someone's"
+				},
+				{
+					"group": "Place",
+					"item": "Your bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is not revealed"
+				},
+				{
+					"group": "Verbs",
+					"item": "Think"
+				},
+				{
+					"group": "Idea",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Setting",
+					"item": "Guitar"
+				}
+			]
+		},
+		{
+			"line": "With the birds I'll share this lonely view",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected turning of a negative thing into a positive"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Kindness"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mechanical/workaround ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Playful"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Devious"
+				},
+				{
+					"group": "Tones",
+					"item": "Bittersweet"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A family in deep debt"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Deep"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Hyperbole"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Self-deprecation"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Romantic humor"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Ask open ended question about"
+				},
+				{
+					"group": "Place",
+					"item": "Your bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Sex"
+				},
+				{
+					"group": "Idea",
+					"item": "drugs"
+				},
+				{
+					"group": "Idea",
+					"item": "and rock n roll"
+				},
+				{
+					"group": "Setting",
+					"item": "Music"
+				},
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected turning of a negative thing into a positive"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Kindness"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mechanical/workaround ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Playful"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Devious"
+				},
+				{
+					"group": "Tones",
+					"item": "Bittersweet"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A family in deep debt"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Deep"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Hyperbole"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Self-deprecation"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Romantic humor"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Ask open ended question about"
+				},
+				{
+					"group": "Place",
+					"item": "Your bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Sex"
+				},
+				{
+					"group": "Idea",
+					"item": "drugs"
+				},
+				{
+					"group": "Idea",
+					"item": "and rock n roll"
+				},
+				{
+					"group": "Setting",
+					"item": "Music"
+				}
+			]
+		},
+		{
+			"line": "I wave goodbye to ma and pa",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Imperative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected use of opposites"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Playful ia. with angel"
+				},
+				{
+					"group": "Interactions",
+					"item": "Social"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Mysterious"
+				},
+				{
+					"group": "Tones",
+					"item": "Enthusiastic"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A difficult decision"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Energetic"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Sarcasm"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Playing with expectations"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Self-deprecating humor"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "To bring up your own"
+				},
+				{
+					"group": "Place",
+					"item": "The beach"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is mentioned"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "Creative and free thinking"
+				},
+				{
+					"group": "Setting",
+					"item": "Sea"
+				},
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Imperative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Flips of gender roles"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Negligent ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Personal"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Mother"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Determined"
+				},
+				{
+					"group": "Tones",
+					"item": "Wistful"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Breaking free from the past"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Natural"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Hyperbole"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Parody"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Self-deprecating humor"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Support someone's"
+				},
+				{
+					"group": "Verbs",
+					"item": "Think"
+				},
+				{
+					"group": "Idea",
+					"item": "A free spirited individual who is optimistic"
+				},
+				{
+					"group": "Idea",
+					"item": "playful"
+				},
+				{
+					"group": "Idea",
+					"item": "and joyful"
+				},
+				{
+					"group": "Idea",
+					"item": "yet realistic and accepting of imperfection."
+				},
+				{
+					"group": "Setting",
+					"item": "Guitar"
+				}
+			]
+		},
+		{
+			"line": "I'll make it to the moon if I have to crawl",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Interrogative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected comparison between two"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Devotional ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Requesting for confirmation"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Strong and authoritarian"
+				},
+				{
+					"group": "Tones",
+					"item": "Somber"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "An addiction"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Detail focus"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "One-liners"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Silliness"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Irony"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "To give encouragement of strength"
+				},
+				{
+					"group": "Place",
+					"item": "Nature"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is not revealed"
+				},
+				{
+					"group": "Verbs",
+					"item": "Think"
+				},
+				{
+					"group": "Idea",
+					"item": "A world of mad"
+				},
+				{
+					"group": "Idea",
+					"item": "fun-loving equality"
+				},
+				{
+					"group": "Setting",
+					"item": "Forest"
+				}
+			]
+		},
+		{
+			"line": "Blood loss in a bathroom stall",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "He"
+				},
+				{
+					"group": "Types of sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected combinations"
+				},
+				{
+					"group": "Moral interactions",
+					"item": "Respect"
+				},
+				{
+					"group": "Religiously moral",
+					"item": "Conversational ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Social"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Stranger"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Aggressive"
+				},
+				{
+					"group": "Tones",
+					"item": "Desperate"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A serious illness"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Casual"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Irony"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Working against cliche"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Ironical statements"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "To bring up your own"
+				},
+				{
+					"group": "Place",
+					"item": "The city"
+				},
+				{
+					"group": "Place's visibility",
+					"item": "Is mentioned"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "Creative and free thinking"
+				},
+				{
+					"group": "Setting",
+					"item": "Sea"
+				}
+			]
+		},
+		{
+			"line": "A southern girl with a scarlet drawl",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "She"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected comparison between two"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Honesty"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Devotional ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Romantic"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Woman"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Passionate"
+				},
+				{
+					"group": "Tones",
+					"item": "Bittersweet"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A forbidden romance"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Detail focus"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Sarcasm"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Miscommunication and puns"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Romantic humor"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "To give encouragement of strength"
+				},
+				{
+					"group": "Place",
+					"item": "The beach"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Setting",
+					"item": "Nature"
+				}
+			]
+		},
+		{
+			"line": "I wave goodbye to ma and pa 'Cause with the birds I'll share (lonely view)",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Declarative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected combination"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Trust"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Playful ia. with personified deities"
+				},
+				{
+					"group": "Interactions",
+					"item": "Emotional"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Woman"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Wistful"
+				},
+				{
+					"group": "Tones",
+					"item": "Somber"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Facing mortality"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Mellow"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Wordplay"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Working against cliche"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Ironical statements"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Ask open ended question about"
+				},
+				{
+					"group": "Place",
+					"item": "The city"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is mentioned"
+				},
+				{
+					"group": "Verbs",
+					"item": "Wish"
+				},
+				{
+					"group": "Idea",
+					"item": "A free spirited individual who is optimistic"
+				},
+				{
+					"group": "Idea",
+					"item": "playful"
+				},
+				{
+					"group": "Idea",
+					"item": "and joyful"
+				},
+				{
+					"group": "Idea",
+					"item": "yet realistic and accepting of imperfection."
+				},
+				{
+					"group": "Setting",
+					"item": "Nature"
+				}
+			]
+		},
+		{
+			"line": "Soft spoken with a broken jaw",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Statement"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected symbolism"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Integrity"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Mutual antagonism ia."
+				},
+				{
+					"group": "Interactions",
+					"item": "Social"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Man"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Gentle"
+				},
+				{
+					"group": "Tones",
+					"item": "Pleading"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A marriage in crisis"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Casual"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Pun"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Miscommunication and puns"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Playful wordplay"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Give feedback on"
+				},
+				{
+					"group": "Place",
+					"item": "My bed (m)"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is said between the lines"
+				},
+				{
+					"group": "Verbs",
+					"item": "Say"
+				},
+				{
+					"group": "Idea",
+					"item": "Gratitude"
+				},
+				{
+					"group": "Setting",
+					"item": "Guitar"
+				}
+			]
+		},
+		{
+			"line": "Step outside but not to brawl and autumn's sweet, we call it fall",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "We (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Affirmative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Flips of gender roles"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Honesty"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Transcendental ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Intellectual"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Friends"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Powerful"
+				},
+				{
+					"group": "Tones",
+					"item": "Earnest"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "Political unrest"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Confident"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Irony"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Parody"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Sarcastic"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "Think about your own"
+				},
+				{
+					"group": "Place",
+					"item": "The beach"
+				},
+				{
+					"group": "Place's Visibility",
+					"item": "Is not revealed"
+				},
+				{
+					"group": "Verbs",
+					"item": "Think"
+				},
+				{
+					"group": "Idea",
+					"item": "Sex"
+				},
+				{
+					"group": "Idea",
+					"item": "drugs"
+				},
+				{
+					"group": "Idea",
+					"item": "and rock n roll"
+				},
+				{
+					"group": "Setting",
+					"item": "Music"
+				}
+			]
+		},
+		{
+			"line": "I'll make it to the moon if I have to crawl (and)",
+			"attrs": [
+				{
+					"group": "Pronouns",
+					"item": "I (m)"
+				},
+				{
+					"group": "Types of Sentences",
+					"item": "Imperative"
+				},
+				{
+					"group": "Contrast and Unexpected Elements",
+					"item": "Unexpected turning of a negative thing into a positive"
+				},
+				{
+					"group": "Moral Interactions",
+					"item": "Responsibility"
+				},
+				{
+					"group": "Religiously Moral",
+					"item": "Devotional ia. with god"
+				},
+				{
+					"group": "Interactions",
+					"item": "Creative"
+				},
+				{
+					"group": "Interactions with",
+					"item": "Stranger"
+				},
+				{
+					"group": "Acting Styles",
+					"item": "Determined"
+				},
+				{
+					"group": "Tones",
+					"item": "Bittersweet"
+				},
+				{
+					"group": "Dramatic Scenarios",
+					"item": "A redemption story"
+				},
+				{
+					"group": "Voiceover Tones",
+					"item": "Assured"
+				},
+				{
+					"group": "Comedic Sentences",
+					"item": "Hyperbole"
+				},
+				{
+					"group": "Comedic Scenarios",
+					"item": "Role reversal"
+				},
+				{
+					"group": "Humorous Expressions",
+					"item": "Mockery humor"
+				},
+				{
+					"group": "Moral Interactions Mode",
+					"item": "To bring up your own"
+				},
+				{
+					"group": "Verbs",
+					"item": "Do something"
+				},
+				{
+					"group": "Idea",
+					"item": "Creative and free thinking"
+				},
+				{
+					"group": "Setting",
+					"item": "City"
+				}
+			]
+		}
+	]
+}

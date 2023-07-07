@@ -262,36 +262,36 @@ ToolApp::ToolApp() {
 	tabs.Add(main.SizePos(),				t_("Main"));
 	tabs.Add(artist_ctrl.SizePos(),			t_("Artist"));
 	tabs.Add(story_ctrl.SizePos(),			t_("Story"));
+	tabs.Add(patternimport_ctrl.SizePos(),	t_("Pattern import"));
 	tabs.Add(pattern_ctrl.SizePos(),		t_("Pattern"));
+	tabs.Add(patternmask_ctrl.SizePos(),	t_("Pattern mask"));
+	tabs.Add(attrscore_ctrl.SizePos(),		t_("Attribute score"));
+	tabs.Add(score_ctrl.SizePos(),			t_("Score"));
+	tabs.Add(rev_ctrl.SizePos(),			t_("Reverse"));
 	tabs.Add(composition_ctrl.SizePos(),	t_("Composition"));
+	tabs.Add(prod_ctrl.SizePos(),			t_("Production"));
 	tabs.Add(analysis_ctrl.SizePos(),		t_("Analysis"));
+	tabs.Add(timeline_ctrl.SizePos(),		t_("Timeline"));
 	
 	main.app				= this;
 	artist_ctrl.app			= this;
 	story_ctrl.app			= this;
 	pattern_ctrl.app		= this;
+	//patternmask_ctrl.app	= this;
 	composition_ctrl.app	= this;
-	analysis_ctrl.app	= this;
+	analysis_ctrl.app		= this;
+	score_ctrl.app			= this;
+	rev_ctrl.app			= this;
+	attrscore_ctrl.app		= this;
+	prod_ctrl.app			= this;
+	timeline_ctrl.app			= this;
 	
 	tabs.WhenSet << THISBACK(Data);
 	menu.Set(THISBACK(MainMenu));
 	
-	Database& db = Database::Single();
-	
-	#ifdef flagWIN32
-	db.dir = "C:\\git\\AudioAssets";
-	#else
-	db.dir = GetHomeDirFile("AudioAssets");
-	#endif
-	
-	if (!DirectoryExists(db.dir)) {
-		PromptOK(DeQtf("Default path not found.\nSelect AudioAssets directory."));
-		db.dir = SelectDirectory();
-	}
-	
-	db.Load();
 	
 	PostCallback(THISBACK(Data));
+	
 }
 
 ToolApp::~ToolApp() {
@@ -308,9 +308,16 @@ void ToolApp::Data() {
 		case 0: main.Data(); break;
 		case 1: artist_ctrl.Data(); break;
 		case 2: story_ctrl.Data(); break;
-		case 3: pattern_ctrl.Data(); break;
-		case 4: composition_ctrl.Data(); break;
-		case 5: analysis_ctrl.Data(); break;
+		case 3: patternimport_ctrl.Data(); break;
+		case 4: pattern_ctrl.Data(); break;
+		case 5: patternmask_ctrl.Data(); break;
+		case 6: attrscore_ctrl.Data(); break;
+		case 7: score_ctrl.Data(); break;
+		case 8: rev_ctrl.Data(); break;
+		case 9: composition_ctrl.Data(); break;
+		case 10: prod_ctrl.Data(); break;
+		case 11: analysis_ctrl.Data(); break;
+		case 12: timeline_ctrl.Data(); break;
 		default: break;
 	}
 }
@@ -341,7 +348,7 @@ void ToolApp::MainMenu(Bar& bar) {
 
 void ToolApp::SwitchView() {
 	int tab = tabs.Get();
-	if (tab == 3) {
+	if (tab == 4) {
 		pattern_ctrl.SwitchView();
 	}
 }
@@ -364,7 +371,7 @@ void ToolApp::MoveNextTotal() {
 
 void ToolApp::MoveOwner() {
 	int tab = tabs.Get();
-	if (tab == 3) {
+	if (tab == 4) {
 		int c = pattern_ctrl.tree.IsCursor() ? pattern_ctrl.tree.GetCursor() : 0;
 		if (c) {
 			c = pattern_ctrl.tree.GetParent(c);

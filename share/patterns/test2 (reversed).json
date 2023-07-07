@@ -1,0 +1,343 @@
+{
+	"structure": "verse1:7,prechorus:2,chorus1:4,verse2:6,prechorus,chorus1",
+	"parts": [
+		"verse1",
+		"prechorus",
+		"chorus1",
+		"verse2",
+		"prechorus",
+		"chorus1"
+	],
+	"unique_parts": [
+		{
+			"key": "verse1",
+			"value": {
+				"len": 7,
+				"snap": {
+					"part_id": 0,
+					"pos": 0,
+					"len": 7,
+					"attributes": [
+
+					],
+					"txt": "",
+					"a": {
+						"part_id": 0,
+						"pos": 0,
+						"len": 3,
+						"attributes": [
+
+						],
+						"txt": "",
+						"a": {
+							"part_id": 0,
+							"pos": 0,
+							"len": 1,
+							"attributes": [
+
+							],
+							"txt": ""
+						},
+						"b": {
+							"part_id": 0,
+							"pos": 1,
+							"len": 2,
+							"attributes": [
+
+							],
+							"txt": "",
+							"a": {
+								"part_id": 0,
+								"pos": 1,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							},
+							"b": {
+								"part_id": 0,
+								"pos": 2,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							}
+						}
+					},
+					"b": {
+						"part_id": 0,
+						"pos": 3,
+						"len": 4,
+						"attributes": [
+
+						],
+						"txt": "",
+						"a": {
+							"part_id": 0,
+							"pos": 3,
+							"len": 2,
+							"attributes": [
+
+							],
+							"txt": "",
+							"a": {
+								"part_id": 0,
+								"pos": 3,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							},
+							"b": {
+								"part_id": 0,
+								"pos": 4,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							}
+						},
+						"b": {
+							"part_id": 0,
+							"pos": 5,
+							"len": 2,
+							"attributes": [
+
+							],
+							"txt": "",
+							"a": {
+								"part_id": 0,
+								"pos": 5,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							},
+							"b": {
+								"part_id": 0,
+								"pos": 6,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"key": "prechorus",
+			"value": {
+				"len": 2,
+				"snap": {
+					"part_id": 1,
+					"pos": 0,
+					"len": 2,
+					"attributes": [
+
+					],
+					"txt": "",
+					"a": {
+						"part_id": 1,
+						"pos": 0,
+						"len": 1,
+						"attributes": [
+
+						],
+						"txt": ""
+					},
+					"b": {
+						"part_id": 1,
+						"pos": 1,
+						"len": 1,
+						"attributes": [
+
+						],
+						"txt": ""
+					}
+				}
+			}
+		},
+		{
+			"key": "chorus1",
+			"value": {
+				"len": 4,
+				"snap": {
+					"part_id": 2,
+					"pos": 0,
+					"len": 4,
+					"attributes": [
+
+					],
+					"txt": "",
+					"a": {
+						"part_id": 2,
+						"pos": 0,
+						"len": 2,
+						"attributes": [
+
+						],
+						"txt": "",
+						"a": {
+							"part_id": 2,
+							"pos": 0,
+							"len": 1,
+							"attributes": [
+
+							],
+							"txt": ""
+						},
+						"b": {
+							"part_id": 2,
+							"pos": 1,
+							"len": 1,
+							"attributes": [
+
+							],
+							"txt": ""
+						}
+					},
+					"b": {
+						"part_id": 2,
+						"pos": 2,
+						"len": 2,
+						"attributes": [
+
+						],
+						"txt": "",
+						"a": {
+							"part_id": 2,
+							"pos": 2,
+							"len": 1,
+							"attributes": [
+
+							],
+							"txt": ""
+						},
+						"b": {
+							"part_id": 2,
+							"pos": 3,
+							"len": 1,
+							"attributes": [
+
+							],
+							"txt": ""
+						}
+					}
+				}
+			}
+		},
+		{
+			"key": "verse2",
+			"value": {
+				"len": 6,
+				"snap": {
+					"part_id": 3,
+					"pos": 0,
+					"len": 6,
+					"attributes": [
+
+					],
+					"txt": "",
+					"a": {
+						"part_id": 3,
+						"pos": 0,
+						"len": 3,
+						"attributes": [
+
+						],
+						"txt": "",
+						"a": {
+							"part_id": 3,
+							"pos": 0,
+							"len": 1,
+							"attributes": [
+
+							],
+							"txt": ""
+						},
+						"b": {
+							"part_id": 3,
+							"pos": 1,
+							"len": 2,
+							"attributes": [
+
+							],
+							"txt": "",
+							"a": {
+								"part_id": 3,
+								"pos": 1,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							},
+							"b": {
+								"part_id": 3,
+								"pos": 2,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							}
+						}
+					},
+					"b": {
+						"part_id": 3,
+						"pos": 3,
+						"len": 3,
+						"attributes": [
+
+						],
+						"txt": "",
+						"a": {
+							"part_id": 3,
+							"pos": 3,
+							"len": 1,
+							"attributes": [
+
+							],
+							"txt": ""
+						},
+						"b": {
+							"part_id": 3,
+							"pos": 4,
+							"len": 2,
+							"attributes": [
+
+							],
+							"txt": "",
+							"a": {
+								"part_id": 3,
+								"pos": 4,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							},
+							"b": {
+								"part_id": 3,
+								"pos": 5,
+								"len": 1,
+								"attributes": [
+
+								],
+								"txt": ""
+							}
+						}
+					}
+				}
+			}
+		}
+	]
+}

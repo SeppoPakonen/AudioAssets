@@ -1,61 +1,105 @@
 #ifndef _AI_Tool_Data_h_
 #define _AI_Tool_Data_h_
 
-struct Grouplist {
-	Vector<String> pronouns;
-	Vector<String> elements;
-	Vector<String> interactions;
-	Vector<String> with;
-	Vector<String> moral_interactions;
-	Vector<String> acting_styles;
-	Vector<String> tones;
-	Vector<String> voiceover_tones;
-	Vector<String> comedic_scenarios;
-	Vector<String> dramatic_scenarios;
-	Vector<String> types_of_sentences;
-	Vector<String> comedic_sentences;
-	Vector<String> humorous_expressions;
-	Color pronouns_clr;
-	Color elements_clr;
-	Color interactions_clr;
-	Color with_clr;
-	Color moral_interactions_clr;
-	Color acting_styles_clr;
-	Color tones_clr;
-	Color voiceover_tones_clr;
-	Color comedic_scenarios_clr;
-	Color dramatic_scenarios_clr;
-	Color types_of_sentences_clr;
-	Color comedic_sentences_clr;
-	Color humorous_expressions_clr;
-	
-	enum {
-		PRONOUNS,
-		TYPES_OF_SENT,
-		ELEMENTS,
-		MORAL_IA,
-		INTERACTIONS,
-		WITH,
-		ACTING_STYLES,
-		TONES,
-		DRAMATIC_SCEN,
-		VOICEOVER_TONES,
-		COMEDIC_SENT,
-		COMEDIC_SCEN,
-		HUMOROUS_EXPR,
-		
-		group_count
-	};
-	
-	
-	static const int group_limit = 30;
-	
-	
-	Grouplist();
-};
+
+struct SnapAttr;
+
 
 struct DataFile {
 	String file_title;
+	
+};
+
+struct Grouplist : DataFile {
+	struct Translation : Moveable<Translation> {
+		VectorMap<String, String> data;
+		
+		Translation& Add(String key, String value) {data.GetAdd(key) = value; return *this;}
+		void Jsonize(JsonIO& json) {
+			if (json.IsStoring())
+				SortByKey(data, StdLess<String>());
+			json
+				("data", data)
+				;
+			if (json.IsLoading()) {
+				VectorMap<String, String> tmp;
+				for(int i = 0; i < data.GetCount(); i++)
+					tmp.Add(ToLower(data.GetKey(i)), ToLower(data[i]));
+				Swap(tmp, data);
+			}
+		}
+	};
+	
+	struct Group : Moveable<Group> {
+		Vector<String> values;
+		Color clr;
+		String description;
+		
+		Group& SetDescription(String s) {description = s; return *this;}
+		Group& SetColor(Color c) {clr = c; return *this;}
+		Group& SetColor(int r, int g, int b) {clr = Color(r,g,b); return *this;}
+		Group& operator<<(String s) {values.Add(s); return *this;}
+		void Jsonize(JsonIO& json) {
+			json
+				("description", description)
+				("color", clr)
+				("values", values)
+				;
+		}
+		bool HasValue(String v) const {
+			for (const String& s : values)
+				if (s == v)
+					return true;
+			return false;
+		}
+	};
+	struct ScoringType : Moveable<ScoringType> {
+		String klass;
+		String axes0, axes1;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("class", klass)
+				("axes0", axes0)
+				("axes1", axes1)
+				;
+		}
+	};
+	
+	VectorMap<String, Group> groups;
+	VectorMap<String, Translation> translation;
+	Vector<ScoringType> scorings;
+	
+	
+	Grouplist();
+	
+	int GetCount() const {return groups.GetCount();}
+	int GetItemCount() const {
+		int i = 0;
+		for (const Group& g : groups.GetValues())
+			i += g.values.GetCount();
+		return i;
+	}
+	String Translate(const String& s);
+	bool FindAttr(String group, String item, SnapAttr& sa) const;
+	void Clear() {groups.Clear(); translation.Clear();}
+	void Jsonize(JsonIO& json) {
+		json
+			("groups", groups)
+			("translation", translation)
+			("scorings", scorings)
+			;
+		if (json.IsLoading()) {
+			//DumbFix();
+			String lng = GetCurrentLanguageString().Left(5);
+			trans_i = translation.Find(lng);
+		}
+	}
+	void DumbFix();
+	void AddScoring(String s, Vector<Grouplist::ScoringType>& scorings);
+	
+	static const int group_limit = 1024;
+	static int trans_i;
 	
 };
 
@@ -200,6 +244,7 @@ struct SnapAttr : Moveable<SnapAttr> {
 			("i", item)
 			;
 	}
+	String ToString() const {return IntStr(group) + ":" + IntStr(item);}
 	hash_t GetHashValue() const {CombineHash c; c.Put(group); c.Put(item); return c;}
 };
 
@@ -210,20 +255,31 @@ struct PatternSnap : DataFile {
 	Part* part = 0;
 	
 	One<PatternSnap> a, b;
+	int part_id = -1;
 	int pos = -1, len = 0;
 	Index<SnapAttr> attributes;
+	String txt;
 	
 	void Init(int pos, int len);
 	void Clear() {
 		a.Clear();
 		b.Clear();
 		attributes.Clear();
+		txt.Clear();
+	}
+	String GetStructuredText(bool pretty, int indent = 0) const;
+	void SetId(int i) {
+		part_id = i;
+		if (a) a->SetId(i);
+		if (b) b->SetId(i);
 	}
 	void Jsonize(JsonIO& json) {
 		json
+			("part_id",  part_id)
 			("pos",  pos)
 			("len",  len)
 			("attributes",  attributes)
+			("txt",  txt)
 		;
 		if (json.IsStoring()) {
 			if (a) json("a", *a);
@@ -235,6 +291,21 @@ struct PatternSnap : DataFile {
 			if (len > 1) {
 				json("a", a.Create());
 				json("b", b.Create());
+			}
+		}
+	}
+	void MergeOwner() {
+		if (a) a->MergeOwner();
+		if (b) b->MergeOwner();
+		if (a && b) {
+			for(int i = 0; i < a->attributes.GetCount(); i++) {
+				const SnapAttr& sa = a->attributes[i];
+				int j = b->attributes.Find(sa);
+				if (j < 0)
+					continue;
+				attributes.FindAdd(sa);
+				a->attributes.Remove(i--);
+				b->attributes.Remove(j);
 			}
 		}
 	}
@@ -261,6 +332,12 @@ struct PatternSnap : DataFile {
 			if (a) a->GetSnapsLevel(level, level_snaps);
 			if (b) b->GetSnapsLevel(level, level_snaps);
 		}
+	}
+	void GetAttributes(Index<SnapAttr>& attrs) const {
+		for (const SnapAttr& a : this->attributes.GetKeys())
+			attrs.FindAdd(a);
+		if (a) a->GetAttributes(attrs);
+		if (b) b->GetAttributes(attrs);
 	}
 };
 
@@ -292,6 +369,7 @@ struct Pattern : DataFile {
 	Vector<String>			parts;
 	ArrayMap<String, Part>	unique_parts;
 	
+	void ReloadStructure();
 	void Clear() {
 		structure.Clear();
 		parts.Clear();
@@ -311,14 +389,155 @@ struct Pattern : DataFile {
 		return a.file_title < b.file_title;
 	}
 	void FixPtrs() {
-		for(int i = 0; i < unique_parts.GetCount(); i++)
+		for(int i = 0; i < unique_parts.GetCount(); i++) {
 			unique_parts[i].name = unique_parts.GetKey(i);
+			unique_parts[i].snap.SetId(i);
+		}
 		for (Part& p : unique_parts.GetValues())
 			p.FixPtrs();
 	}
 	void GetSnapsLevel(int level, Vector<PatternSnap*>& level_snaps) {
 		for (Part& p : unique_parts.GetValues())
 			p.snap.GetSnapsLevel(level, level_snaps);
+	}
+	void GetAttributes(Index<SnapAttr>& attrs) const {
+		for (const Part& p : unique_parts.GetValues())
+			p.snap.GetAttributes(attrs);
+	}
+	void MergeOwner() {
+		for (Part& p : unique_parts.GetValues())
+			p.snap.MergeOwner();
+	}
+	String GetStructuredText(bool pretty, int indent = 0) const {
+		String s;
+		for(const Part& p : unique_parts.GetValues()) {
+			if (pretty) {
+				s.Cat('\t', indent);
+				s	<< "part " << p.name << " {\n";
+				s	<< p.snap.GetStructuredText(pretty, indent+1);
+				s	<< "}\n";
+				s.Cat('\t', indent);
+			}
+			else {
+				s	<< "part " << p.name << "{";
+				s	<< p.snap.GetStructuredText(pretty, indent+1);
+				s	<< "}";
+			}
+		}
+		return s;
+	}
+};
+
+struct PartScore {
+	int len = 0;
+	Vector<Vector<int>> values;
+	
+	void Clear() {
+		len = 0;
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("len", len)
+			("values", values)
+			;
+		if (json.IsLoading())
+			Realize();
+	}
+	void Realize();
+};
+
+struct AttrScoreGroup {
+	Vector<SnapAttr> attrs;
+	Vector<int> scores;
+	String name;
+	
+	void Jsonize(JsonIO& json) {
+		json
+			("attrs", attrs)
+			("scores", scores)
+			("name", name)
+			;
+	}
+	String GetName() const {
+		if (!name.IsEmpty())
+			return name;
+		String s;
+		for (const int& i : scores) {
+			switch (i) {
+				#if 0
+				case 0: s.Cat('0'); break;
+				case 1: s.Cat('+'); break;
+				case -1: s.Cat('-'); break;
+				#else
+				case 0: s.Cat('-'); break;
+				case 1: s.Cat('^'); break;
+				case -1: s.Cat('_'); break;
+				#endif
+				default: s << IntStr(i); break;
+			}
+		}
+		return s;
+	}
+	bool Is(const Vector<int>& s) const {
+		if (s.GetCount() != scores.GetCount()) return false;
+		for(int i = 0; i < s.GetCount(); i++)
+			if (s[i] != scores[i])
+				return false;
+		return true;
+	}
+	String ToString() const;
+	
+};
+
+struct AttrScore : DataFile {
+	Array<AttrScoreGroup> groups;
+	VectorMap<String, Vector<int>> presets;
+	
+	// Temp
+	Vector<Vector<int>> attr_to_score;
+	
+	
+	AttrScore();
+	
+	AttrScoreGroup& GetAdd(const Vector<int>& scores) {
+		for (AttrScoreGroup& g : groups)
+			if (g.Is(scores))
+				return g;
+		AttrScoreGroup& g = groups.Add();
+		g.scores <<= scores;
+		return g;
+	}
+	void Clear() {
+		groups.Clear();
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("groups", groups)
+			("presets", presets)
+			;
+	}
+	void RealizeTemp();
+};
+
+struct PatternScore : DataFile {
+	String						structure;
+	Vector<String>				parts;
+	ArrayMap<String, PartScore>	unique_parts;
+	
+	void Clear() {
+		structure.Clear();
+		parts.Clear();
+		unique_parts.Clear();
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("structure", structure)
+			("parts", parts)
+			("unique_parts", unique_parts)
+			;
+	}
+	bool operator()(const PatternScore& a, const PatternScore& b) const {
+		return a.file_title < b.file_title;
 	}
 };
 
@@ -428,6 +647,105 @@ struct Analysis : DataFile {
 	
 };
 
+struct Timeline : DataFile {
+	struct Song {
+		String title, prj_name;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("title", title)
+				("prj_name", prj_name)
+				;
+		}
+	};
+	struct Album {
+		String artist, title;
+		Date date;
+		Array<Song> songs;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("artist", artist)
+				("title", title)
+				("date", date)
+				("songs", songs)
+				;
+		}
+	};
+	
+	Array<Album> albums;
+	
+	
+	
+	void Clear() {
+		albums.Clear();
+	}
+	void Jsonize(JsonIO& json) {
+		json
+			("albums", albums)
+			;
+	}
+};
+
+struct ArchivedSong : DataFile {
+	struct Attr : Moveable<Attr> {
+		String group, item;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("group", group)
+				("item", item)
+				;
+		}
+	};
+	struct Line : Moveable<Line> {
+		String line;
+		Vector<Attr> attrs;
+		
+		void Jsonize(JsonIO& json) {
+			json
+				("line", line)
+				("attrs", attrs)
+				;
+		}
+	};
+	
+	String artist, title, content;
+	Vector<Line> line_attrs;
+	int year = 0;
+	
+	Pattern* tmp_pattern = 0;
+	
+	ArchivedSong() {file_title = "default";}
+	void Jsonize(JsonIO& json) {
+		json
+			("artist", artist)
+			("title", title)
+			("year", year)
+			("content", content)
+			("line_attrs", line_attrs)
+			;
+	}
+	
+	bool operator()(const ArchivedSong& a, const ArchivedSong& b) const {
+		if (a.year != b.year) return a.year < b.year;
+		if (a.artist != b.artist) return a.artist < b.artist;
+		return a.title < b.title;
+	}
+	
+};
+
+template <class T, class PTR>
+int VectorFindPtr(PTR* p, T& arr) {
+	int i = 0;
+	for (auto& r : arr) {
+		if (&r == p)
+			return i;
+		i++;
+	}
+	return -1;
+}
+
 struct Database {
 	String				dir;
 	Array<Story>		stories;
@@ -435,7 +753,30 @@ struct Database {
 	Array<Pattern>		patterns;
 	Array<Composition>	compositions;
 	Array<Analysis>		analyses;
+	AttrScore			attrscores;
+	Array<PatternScore>	scores;
 	Grouplist			groups;
+	Timeline			timeline;
+	Array<ArchivedSong>	archived_songs;
+	
+	Artist*			active_artist = 0;
+	Story*			active_story = 0;
+	PatternSnap*	active_snap = 0;
+	Pattern*		active_pattern = 0;
+	PartScore*		active_partscore = 0;
+	PatternScore*	active_patternscore = 0;
+	Composition*	active_composition = 0;
+	Analysis*		active_analysis = 0;
+	AttrScoreGroup*	active_scoregroup = 0;
+	ArchivedSong*	active_archivedsong = 0;
+	
+	int GetActiveArtistIndex() const {return VectorFindPtr(active_artist, artists);}
+	int GetActivePatternIndex() const {return VectorFindPtr(active_pattern, patterns);}
+	int GetActiveStoryIndex() const {return VectorFindPtr(active_story, stories);}
+	int GetActiveCompositionIndex() const {return VectorFindPtr(active_composition, compositions);}
+	int GetActiveAnalysisIndex() const {return VectorFindPtr(active_analysis, analyses);}
+	int GetActiveScoreGroupIndex() const {return VectorFindPtr(active_scoregroup, attrscores.groups);}
+	int GetActiveArchivedSongIndex() const {return VectorFindPtr(active_archivedsong, archived_songs);}
 	
 	void Save();
 	void Load();
@@ -444,27 +785,78 @@ struct Database {
 	void Load(Pattern& p);
 	void Load(Composition& c);
 	void Load(Analysis& c);
+	void Load(PatternScore& c);
 	void Create(Story& s);
 	void Create(Artist& a);
 	void Create(Pattern& p);
 	void Create(Composition& c);
 	void Create(Analysis& c);
+	void Create(PatternScore& c);
 	Story& CreateStory(String name);
 	Artist& CreateArtist(String name);
 	Pattern& CreatePattern(String name);
 	Composition& CreateComposition(String name);
 	Analysis& CreateAnalysis(String name);
+	PatternScore& CreateScore(String name);
 	
 	String GetArtistsDir() const;
 	String GetStoriesDir() const;
 	String GetPatternsDir() const;
 	String GetCompositionsDir() const;
 	String GetAnalysesDir() const;
+	String GetScoresDir() const;
+	String GetAttributesDir() const;
+	String GetAttrScoresDir() const;
+	String GetTimelineDir() const;
+	String GetArchivedSongDir() const;
 	
 	static Database& Single() {static Database db; return db;}
 	
 };
 
 String GetSnapGroupString(PatternSnap& snap, int group, Index<String>& skip_list);
+String Capitalize(String s);
+
+
+template <int I, class K=int, class V=double>
+struct FixedTopValueSorter {
+	inline static const int size = I;
+	
+	K key[size];
+	V value[size];
+	int count = 0;
+	
+	
+	FixedTopValueSorter() {Reset();}
+	void Reset() {
+		count = 0;
+		for(int i = 0; i < size; i++) {
+			value[i] = -DBL_MAX;
+			key[i] = -1;
+		}
+	}
+	void Add(const K& key, const V& value) {
+		if (value <= this->value[size-1])
+			return;
+		for(int i = 0; i < size; i++) {
+			if (value > this->value[i]) {
+				for(int j = size-1; j > i; j--) {
+					this->value[j] = this->value[j-1];
+					this->key[j]   = this->key[j-1];
+				}
+				this->value[i] = value;
+				this->key[i] = key;
+				count = min(count+1, size);
+				break;
+			}
+		}
+	}
+	void Serialize(Stream& s) {
+		for(int i = 0; i < size; i++)
+			s % value[i] % key[i];
+	}
+};
+
+
 
 #endif

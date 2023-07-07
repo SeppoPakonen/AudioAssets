@@ -22,21 +22,23 @@ AttrCtrl::AttrCtrl() {
 	pressed.b = -1;
 	pressed.c = -1;
 	
+	RealizeTemp();
+}
+
+void AttrCtrl::RealizeTemp() {
 	Grouplist& g = Database::Single().groups;
-	active.SetCount(g.group_count * g.group_limit, false);
-	inherited_active.SetCount(g.group_count * g.group_limit, false);
-	
-	//for (bool& b : active) b = Randomf() < 0.15;
-	
+	active.SetCount(g.GetCount() * g.group_limit, false);
+	inherited_active.SetCount(g.GetCount() * g.group_limit, false);
 }
 
 void AttrCtrl::Load() {
-	Grouplist& g = Database::Single().groups;
-	if (!active_snap)
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
+	if (!db.active_snap)
 		return;
 	
 	for (bool& b : active) b = false;
-	for (const SnapAttr& a : active_snap->attributes) {
+	for (const SnapAttr& a : db.active_snap->attributes) {
 		int id = a.group * g.group_limit + a.item;
 		ASSERT(id >= 0 && id < active.GetCount());
 		if (id >= 0 && id < active.GetCount())
@@ -44,7 +46,7 @@ void AttrCtrl::Load() {
 	}
 	
 	for (bool& b : inherited_active) b = false;
-	PatternSnap* owner = active_snap->owner;
+	PatternSnap* owner = db.active_snap->owner;
 	while (owner) {
 		for (const SnapAttr& a : owner->attributes) {
 			int id = a.group * g.group_limit + a.item;
@@ -57,11 +59,12 @@ void AttrCtrl::Load() {
 }
 
 void AttrCtrl::Store() {
-	Grouplist& g = Database::Single().groups;
-	if (!active_snap)
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
+	if (!db.active_snap)
 		return;
 	
-	active_snap->attributes.Clear();
+	db.active_snap->attributes.Clear();
 	
 	int id = 0;
 	for (bool& b : active) {
@@ -69,7 +72,7 @@ void AttrCtrl::Store() {
 			SnapAttr attr;
 			attr.item = id % g.group_limit;
 			attr.group = id / g.group_limit;
-			active_snap->attributes.Add(attr);
+			db.active_snap->attributes.Add(attr);
 		}
 		id++;
 	}
@@ -77,108 +80,130 @@ void AttrCtrl::Store() {
 
 void AttrCtrl::Paint(Draw& d) {
 	Grouplist& g = Database::Single().groups;
-	Color bg = Color(203, 203, 203);
+	Color bg = GrayColor(32);
 	Size sz = GetSize();
 	
 	d.DrawRect(sz, bg);
 	
+	int tgt_lineh = 18;
+	Font fnt = SansSerif(15);
 	
-	/*
+	int item_count = g.GetItemCount();
+	if (!item_count)
+		return;
+	int item_total_h = item_count * tgt_lineh;
+	double colsf = (double)item_total_h / (double)sz.cy;
+	int cols = ceil(colsf) + 2;
+	if (0) {
+		DUMP(item_count);
+		DUMP(item_total_h);
+		DUMP(sz.cy);
+		DUMP(colsf);
+		DUMP(cols);
+		LOG("");
+	}
 	
-	12 Contrast and Unexpected Elements
-	15 Interactions
-	24 (Interactions) with
-	24 Moral interactions
-	9  Acting Styles
-	16 Tones
-	19 Voiceover Tones
-	17 Types of comedic scenarios
-	19 Types of dramatic scenarios
-	3  Types of sentences
-	25 Comedic sentences
-	23 Humorous expression
-	*/
+	// Make grid of groups
+	if (group_grid.IsEmpty() || invalidate_group_grid) {
+		invalidate_group_grid = false;
+		
+		group_grid.SetCount(cols);
+		for (auto& v : group_grid) v.SetCount(0);
+		
+		VectorMap<int,int> group_sizes;
+		for(int i = 0; i < g.groups.GetCount(); i++)
+			group_sizes.Add(i, g.groups[i].values.GetCount());
+		SortByValue(group_sizes, StdLess<int>());
+		
+		int col = 0;
+		bool add = true;
+		for(int i = 0; i < group_sizes.GetCount(); i++) {
+			int group = group_sizes.GetKey(i);
+			group_grid[col].Add(group);
+			if (add) {
+				col++;
+				if (col >= cols) {
+					col = cols-1;
+					add = false;
+				}
+			}
+			else {
+				col--;
+				if (col < 0) {
+					col = 0;
+					add = true;
+				}
+			}
+		}
+	}
 	
-	int tab;
-	int div = 6;
-	int cy, cx = sz.cx / div;
-	float h;
+	group_title_rects.SetCount(0);
+	entry_rects.SetCount(0);
 	
-	int font_h = 0.75 * (float)sz.cy / (g.acting_styles.GetCount() + g.tones.GetCount() + g.dramatic_scenarios.GetCount());
-	Font fnt = SansSerif(font_h);
-	
-	rects.SetCount(0);
-	
-	cy = 0;
-	h = (float)sz.cy / 40; //(1 + pronouns.GetCount());
-	tab = 0;
-	PaintKeys(d, t_("Pronouns"), g.pronouns, g.pronouns_clr, tab * cx, cx, cy, h, fnt, g.PRONOUNS);
-	
-	cy = 0;
-	h = (float)sz.cy / (3 + g.types_of_sentences.GetCount() + g.elements.GetCount() + g.moral_interactions.GetCount());
-	tab = 1;
-	PaintKeys(d, t_("Types of sentences"), g.types_of_sentences, g.types_of_sentences_clr, tab * cx, cx, cy, h, fnt, g.TYPES_OF_SENT);
-	PaintKeys(d, t_("Contrast and Unexpected Elements"), g.elements, g.elements_clr, tab * cx, cx, cy, h, fnt, g.ELEMENTS);
-	PaintKeys(d, t_("Moral interactions"), g.moral_interactions, g.moral_interactions_clr, tab * cx, cx, cy, h, fnt, g.MORAL_IA);
-	
-	cy = 0;
-	tab = 2;
-	h = (float)sz.cy / (2 + g.interactions.GetCount() + g.with.GetCount());
-	PaintKeys(d, t_("Interactions"), g.interactions, g.interactions_clr, tab * cx, cx, cy, h, fnt, g.INTERACTIONS);
-	PaintKeys(d, t_("(Interactions) with"), g.with, g.with_clr, tab * cx, cx , cy, h, fnt, g.WITH);
-	
-	cy = 0;
-	tab = 3;
-	h = (float)sz.cy / (3 + g.acting_styles.GetCount() + g.tones.GetCount() + g.dramatic_scenarios.GetCount());
-	PaintKeys(d, t_("Acting Styles"), g.acting_styles, g.acting_styles_clr, tab * cx, cx, cy, h, fnt, g.ACTING_STYLES);
-	PaintKeys(d, t_("Tones"), g.tones, g.tones_clr, tab * cx, cx, cy, h, fnt, g.TONES);
-	PaintKeys(d, t_("Types of dramatic scenarios"), g.dramatic_scenarios, g.dramatic_scenarios_clr, tab * cx, cx, cy, h, fnt, g.DRAMATIC_SCEN);
-	
-	cy = 0;
-	tab = 4;
-	h = (float)sz.cy / (2 + g.voiceover_tones.GetCount() + g.comedic_sentences.GetCount());
-	PaintKeys(d, t_("Voiceover Tones"), g.voiceover_tones, g.voiceover_tones_clr, tab * cx, cx, cy, h, fnt, g.VOICEOVER_TONES);
-	PaintKeys(d, t_("Comedic sentences"), g.comedic_sentences, g.comedic_sentences_clr, tab * cx, cx, cy, h, fnt, g.COMEDIC_SENT);
-	
-	cy = 0;
-	tab = 5;
-	h = (float)sz.cy / (2 + g.comedic_scenarios.GetCount() + g.humorous_expressions.GetCount());
-	PaintKeys(d, t_("Comedic scenarios"), g.comedic_scenarios, g.comedic_scenarios_clr, tab * cx, cx, cy, h, fnt, g.COMEDIC_SCEN);
-	PaintKeys(d, t_("Humorous expressions"), g.humorous_expressions, g.humorous_expressions_clr, tab * cx, cx, cy, h, fnt, g.HUMOROUS_EXPR);
+	int div = group_grid.GetCount();
+	double cx = (double)sz.cx / div;
+	for(int col = 0; col < group_grid.GetCount(); col++) {
+		int x = col * cx;
+		int y = 0;
+		const Vector<int>& col_groups = group_grid[col];
+		int items = col_groups.GetCount();
+		for (int group : col_groups)
+			items += g.groups[group].values.GetCount();
+		if (!items)
+			continue;
+		int lineh = min<int>(tgt_lineh * 1.33, sz.cy / items);
+		for(int j = 0; j < col_groups.GetCount(); j++) {
+			int group_i = col_groups[j];
+			PaintKeys(d, group_i, x, cx, y, lineh, fnt);
+		}
+	}
 	
 	
 }
 
-void AttrCtrl::PaintKeys(Draw& d, String title, const Vector<String>& keys, Color clr, int x, int cx, int& cy, float h, Font fnt, int group) {
+void AttrCtrl::PaintKeys(Draw& d, int group, int x, int cx, int& y, float lineh, Font fnt) {
 	Grouplist& g = Database::Single().groups;
+	Grouplist::Group& gg = g.groups[group];
 	int x0 = x;
-	int y0 = cy;
+	int y0 = y;
 	int x1 = x + cx;
-	int ht = keys.GetCount() * h;
-	int y1 = cy + ht;
+	int key_count = gg.values.GetCount() + 1;
+	int ht = key_count * lineh;
+	int y1 = y + ht;
 	const int off = 1;
+	Color clr = gg.clr;
 	
+	// realize snapshots
+	int snap_size = g.groups.GetCount() * g.group_limit;
+	active.SetCount(snap_size, false);
+	inherited_active.SetCount(snap_size, false);
 	
-	
-	for(int i = 0; i <= keys.GetCount(); i++) {
-		int y2 = y0 + i * h;
-		String txt;
-		Rect r = RectC(x0,y2,cx,h+1);
+	for(int i = 0; i < key_count; i++) {
+		int y1 = y0 + i * lineh;
+		
+		Rect r = RectC(x0, y1, cx, lineh);
 		d.Clip(r);
+		
 		Color bg_clr, stripe_clr;
 		bool stripes = false;
+		String txt;
 		Font txt_fnt = fnt;
 		int xoff = 4;
 		if (!i) {
 			bg_clr = Black(); //clr;
-			txt = title;
+			txt = g.Translate(gg.description);
 			txt_fnt.Bold();
 			Size sz = GetTextSize(txt, txt_fnt);
 			xoff = (cx - sz.cx) / 2;
+			
+			RectId& rid = group_title_rects.Add();
+			rid.a = r;
+			rid.b = group;
+			rid.c = -1;
 		}
 		else {
 			int j = i-1;
-			const String& key = keys[j];
+			txt = g.Translate(gg.values[j]);
 			int id = group * g.group_limit + j;
 			bool active = this->active[id];
 			bool inherited_active = this->inherited_active[id];
@@ -197,9 +222,8 @@ void AttrCtrl::PaintKeys(Draw& d, String title, const Vector<String>& keys, Colo
 			}
 			else
 				bg_clr = Blend(clr, GrayColor(64), 0.97*255);
-			txt = key;
 			
-			RectId& rid = rects.Add();
+			RectId& rid = entry_rects.Add();
 			rid.a = r;
 			rid.b = group;
 			rid.c = j;
@@ -209,13 +233,16 @@ void AttrCtrl::PaintKeys(Draw& d, String title, const Vector<String>& keys, Colo
 		if (stripes) {
 			int sw = 2;
 			for (int x = x0; x <= x1; x += sw * 2) {
-				Rect r = RectC(x, y2, sw, h+1);
+				Rect r = RectC(x, y1, sw, lineh+1);
 				d.DrawRect(r, stripe_clr);
 			}
 		}
 		
-		d.DrawText(xoff+ x0 + off + 1, y2 + off + 1, txt, txt_fnt, Black());
-		d.DrawText(xoff+ x0 + off, y2 + off, txt, txt_fnt, White());
+		// Capitalize first letter
+		txt = ToUpper(txt.Left(1)) + txt.Mid(1);
+		
+		d.DrawText(xoff+ x0 + off + 1, y1 + off + 1, txt, txt_fnt, Black());
+		d.DrawText(xoff+ x0 + off, y1 + off, txt, txt_fnt, White());
 		d.End();
 	}
 	
@@ -223,17 +250,17 @@ void AttrCtrl::PaintKeys(Draw& d, String title, const Vector<String>& keys, Colo
 	Color line_clr = GrayColor();
 	d.DrawLine(x0, y0, x0, y1, 1, line_clr);
 	d.DrawLine(x1, y0, x1, y1, 1, line_clr);
-	for(int i = 0; i <= keys.GetCount() + 1; i++) {
-		int y2 = y0 + i * h;
+	for(int i = 0; i <= key_count; i++) {
+		int y2 = y0 + i * lineh;
 		d.DrawLine(x0, y2, x1, y2, 1, line_clr);
 	}
 	
-	cy += (1 + keys.GetCount()) * h;
+	y += key_count * lineh;
 }
 
 void AttrCtrl::MouseMove(Point p, dword keyflags) {
 	bool found = false;
-	for(RectId& rid : rects) {
+	for(RectId& rid : entry_rects) {
 		if (rid.a.Contains(p)) {
 			bool r = sel.b != rid.b || sel.c != rid.c;
 			sel = rid;
@@ -261,8 +288,9 @@ void AttrCtrl::MouseLeave() {
 }
 
 void AttrCtrl::LeftDown(Point p, dword keyflags) {
-	Grouplist& g = Database::Single().groups;
-	for(RectId& rid : rects) {
+	Database& db = Database::Single();
+	Grouplist& g = db.groups;
+	for(RectId& rid : entry_rects) {
 		if (rid.a.Contains(p)) {
 			SnapAttr a;
 			a.group = rid.b;
@@ -271,15 +299,15 @@ void AttrCtrl::LeftDown(Point p, dword keyflags) {
 			int id = a.group * g.group_limit + a.item;
 			if (id >= 0 && id < active.GetCount()) {
 				bool& b = active[id];
-				if (active_snap) {
+				if (db.active_snap) {
 					b = !b;
 					if (!b) {
-						int i = active_snap->attributes.Find(a);
+						int i = db.active_snap->attributes.Find(a);
 						ASSERT(i >= 0);
-						active_snap->attributes.Remove(i);
+						db.active_snap->attributes.Remove(i);
 					}
 					else {
-						active_snap->attributes.Add(a);
+						db.active_snap->attributes.Add(a);
 					}
 					Update();
 				}
@@ -295,7 +323,126 @@ void AttrCtrl::LeftUp(Point, dword keyflags) {
 	Update();
 }
 
+void AttrCtrl::RightDown(Point p, dword keyflags) {
+	MenuBar::Execute(THISBACK1(ContextMenu, p));
+}
+
 void AttrCtrl::Update() {
+	Refresh();
+	WhenUpdate();
+}
+
+void AttrCtrl::ContextMenu(Bar& bar, Point pt) {
+	bar.Add(t_("Add group"), THISBACK(AddGroup));
+	
+	for (RectId& rid : group_title_rects) {
+		if (rid.a.Contains(pt)) {
+			Grouplist& g = Database::Single().groups;
+			String group = g.Translate(g.groups[rid.b].description);
+			bar.Add(Format(t_("Add entry to group '%s'"), group), THISBACK1(AddEntry, rid.b));
+		}
+	}
+}
+
+void AttrCtrl::AddGroup() {
+	Grouplist& g = Database::Single().groups;
+	
+	// Name
+	String name;
+	bool b = EditTextNotNull(
+		name,
+		"Add group",
+		"Group's codename",
+		0
+	);
+	if (!b) return;
+	name = ToLower(name);
+	
+	// Description
+	String desc;
+	b = EditTextNotNull(
+		desc,
+		"Explain group",
+		"Group's description",
+		0
+	);
+	if (!b) return;
+	
+	// Translation
+	String trans;
+	if (g.trans_i >= 0) {
+		b = EditTextNotNull(
+			trans,
+			t_("Translation of the group"),
+			t_("Group's translation"),
+			0
+		);
+		if (!b) return;
+	}
+	
+	int i = g.groups.Find(name);
+	if (i >= 0) {
+		PromptOK(DeQtf(Format(t_("Group '%s' exists already"), name)));
+		return;
+	}
+	Grouplist::Group& gg = g.groups.Add(name);
+	gg.clr = Color(Random(256), Random(256), Random(256));
+	gg.description = desc;
+	
+	if (g.trans_i >= 0 && trans.GetCount()) {
+		Grouplist::Translation& t = g.translation[g.trans_i];
+		t.data.Add(desc, trans);
+	}
+	
+	invalidate_group_grid = true;
+	Refresh();
+	WhenUpdate();
+}
+
+void AttrCtrl::AddEntry(int group) {
+	Grouplist& g = Database::Single().groups;
+	if (group < 0 || group >= g.groups.GetCount())
+		return;
+	
+	Grouplist::Group& gg = g.groups[group];
+	
+	// Description
+	String desc;
+	bool b = EditTextNotNull(
+		desc,
+		"Explain entry",
+		"Entry's description",
+		0
+	);
+	if (!b) return;
+	
+	desc = ToLower(desc);
+	
+	// Translation
+	String trans;
+	if (g.trans_i >= 0) {
+		b = EditTextNotNull(
+			trans,
+			t_("Translation of the entry"),
+			t_("Entry's translation"),
+			0
+		);
+		if (!b) return;
+	}
+	
+	if (gg.HasValue(desc)) {
+		PromptOK(DeQtf(Format(t_("Entry '%s' exists already"), desc)));
+		return;
+	}
+	
+	gg.values.Add(desc);
+	
+	if (g.trans_i >= 0 && trans.GetCount()) {
+		Grouplist::Translation& t = g.translation[g.trans_i];
+		t.data.Add(desc, trans);
+	}
+	
+	invalidate_group_grid = true;
 	Refresh();
 	WhenUpdate();
 }

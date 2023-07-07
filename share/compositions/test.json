@@ -1,12 +1,12 @@
 {
-	"year": 1,
-	"title": "2",
-	"tempo": 3,
-	"beat": "4",
-	"melody": "5",
-	"chord_progression": "6",
-	"key_and_mode": "7",
-	"texture": "8",
-	"structure": "9",
-	"genre_style": "1"
+	"year": 0,
+	"title": "",
+	"tempo": 0,
+	"beat": "",
+	"melody": "",
+	"chord_progression": "",
+	"key_and_mode": "",
+	"texture": "",
+	"structure": "",
+	"genre_style": ""
 }

@@ -20,6 +20,26 @@ String Database::GetAnalysesDir() const {
 	return dir + DIR_SEPS "share" DIR_SEPS "analyses" DIR_SEPS;
 }
 
+String Database::GetAttributesDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "attributes" DIR_SEPS;
+}
+
+String Database::GetScoresDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "scores" DIR_SEPS;
+}
+
+String Database::GetAttrScoresDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "attrscores" DIR_SEPS;
+}
+
+String Database::GetTimelineDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "timelines" DIR_SEPS;
+}
+
+String Database::GetArchivedSongDir() const {
+	return dir + DIR_SEPS "share" DIR_SEPS "archived_songs" DIR_SEPS;
+}
+
 void Database::Save() {
 	{
 		String dir = GetArtistsDir();
@@ -76,6 +96,64 @@ void Database::Save() {
 			fout.Close();
 		}
 	}
+	{
+		String dir = GetAttributesDir();
+		RealizeDirectory(dir);
+		{
+			Grouplist& o = groups;
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(groups, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
+	{
+		String dir = GetScoresDir();
+		RealizeDirectory(dir);
+		for (PatternScore& o : scores) {
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(o, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
+	{
+		String dir = GetAttrScoresDir();
+		RealizeDirectory(dir);
+		{
+			AttrScore& o = this->attrscores;
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(o, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
+	{
+		String dir = GetTimelineDir();
+		RealizeDirectory(dir);
+		{
+			Timeline& o = this->timeline;
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(o, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
+	{
+		String dir = GetArchivedSongDir();
+		RealizeDirectory(dir);
+		for (ArchivedSong& o : archived_songs) {
+			String json_path = dir + o.file_title + ".json";
+			String json = StoreAsJson(o, true);
+			FileOut fout(json_path);
+			fout << json;
+			fout.Close();
+		}
+	}
 }
 
 void Database::Load() {
@@ -109,7 +187,6 @@ void Database::Load() {
 				Story& s = stories.Add();
 				s.file_title = GetFileTitle(path);
 				Load(s);
-				DUMP(s.year);
 			}
 		}
 		while (ff.Next());
@@ -169,6 +246,69 @@ void Database::Load() {
 		while (ff.Next());
 		Sort(analyses, Analysis());
 	}
+	
+	{
+		RealizeDirectory(dir);
+		groups.Clear();
+		String dir = GetAttributesDir();
+		String json_path = dir + groups.file_title + ".json";
+		ASSERT(FileExists(json_path));
+		LoadFromJsonFile(groups, json_path);
+	}
+	
+	{
+		scores.Clear();
+		String dir = GetScoresDir();
+		String search = dir + "*.json";
+		
+		FindFile ff;
+		if (ff.Search(search)) do {
+			if (ff.IsFile()) {
+				String path = ff.GetPath();
+				PatternScore& p = scores.Add();
+				p.file_title = GetFileTitle(path);
+				Load(p);
+			}
+		}
+		while (ff.Next());
+		Sort(scores, PatternScore());
+	}
+	
+	{
+		RealizeDirectory(dir);
+		attrscores.Clear();
+		String dir = GetAttrScoresDir();
+		String json_path = dir + attrscores.file_title + ".json";
+		LoadFromJsonFile(attrscores, json_path);
+	}
+	
+	{
+		RealizeDirectory(dir);
+		timeline.Clear();
+		String dir = GetTimelineDir();
+		String json_path = dir + timeline.file_title + ".json";
+		LoadFromJsonFile(timeline, json_path);
+	}
+	
+	{
+		scores.Clear();
+		String dir = GetArchivedSongDir();
+		String search = dir + "*.json";
+		
+		FindFile ff;
+		if (ff.Search(search)) do {
+			if (ff.IsFile()) {
+				String path = ff.GetPath();
+				ArchivedSong& p = archived_songs.Add();
+				p.file_title = GetFileTitle(path);
+				String json_path = GetArchivedSongDir() + p.file_title + ".json";
+				LoadFromJsonFile(p, json_path);
+			}
+		}
+		while (ff.Next());
+		Sort(archived_songs, ArchivedSong());
+	}
+	
 }
 
 void Database::Load(Artist& a) {
@@ -194,6 +334,11 @@ void Database::Load(Composition& c) {
 void Database::Load(Analysis& a) {
 	String json_path = GetAnalysesDir() + a.file_title + ".json";
 	LoadFromJsonFile(a, json_path);
+}
+
+void Database::Load(PatternScore& p) {
+	String json_path = GetScoresDir() + p.file_title + ".json";
+	LoadFromJsonFile(p, json_path);
 }
 
 void Database::Create(Story& s) {
@@ -263,6 +408,19 @@ void Database::Create(Analysis& a) {
 	fout.Close();
 }
 
+void Database::Create(PatternScore& p) {
+	ASSERT(!p.file_title.IsEmpty());
+	String dir = GetScoresDir();
+	
+	RealizeDirectory(dir);
+	
+	String path = dir + p.file_title + ".json";
+	
+	FileOut fout(path);
+	fout << "\n";
+	fout.Close();
+}
+
 Story& Database::CreateStory(String name) {
 	for (Story& s : stories)
 		if (s.file_title == name)
@@ -318,6 +476,17 @@ Analysis& Database::CreateAnalysis(String name) {
 	return a;
 }
 
+PatternScore& Database::CreateScore(String name) {
+	for (PatternScore& p : scores)
+		if (p.file_title == name)
+			return p;
+	
+	PatternScore& p = scores.Add();
+	p.file_title = name;
+	Create(p);
+	return p;
+}
+
 
 
 
@@ -329,277 +498,716 @@ void PatternSnap::Init(int pos, int len) {
 		int len2 = len / 2;
 		int len0 = len2;
 		int len1 = len - len2;
-		a.Create().Init(pos,       len0);
-		b.Create().Init(pos + len0, len1);
+		if (a.IsEmpty()) a.Create();
+		if (b.IsEmpty()) b.Create();
+		a->Init(pos,       len0);
+		b->Init(pos + len0, len1);
 	}
 }
 
+String PatternSnap::GetStructuredText(bool pretty, int indent) const {
+	const Grouplist& g = Database::Single().groups;
+	String s;
+	if (pretty) s.Cat('\t', indent);
+	s << "line(" << pos << ":" << len << ") {";
+	if (pretty) s << "\n";
+	int i = 0;
+	Index<int> used_groups;
+	for (const SnapAttr& sa : this->attributes.GetKeys()) {
+		used_groups.FindAdd(sa.group);
+	}
+	
+	for (int group : used_groups.GetKeys()) {
+		const Grouplist::Group& gg = g.groups[group];
+		if (pretty) s.Cat('\t', indent+1);
+		s << ToLower(gg.description) << " {";
+		if (pretty) s << "\n";
+		for (const SnapAttr& sa : this->attributes.GetKeys()) {
+			if (sa.group != group)
+				continue;
+			if (pretty) s.Cat('\t', indent+2);
+			s	<< ToLower(gg.values[sa.item])
+				<< ";"
+				;
+			if (pretty) s << "\n";
+			i++;
+		}
+		if (pretty) s.Cat('\t', indent+1);
+		s << "}";
+		if (pretty) s << "\n";
+	}
+	if (a) s << a->GetStructuredText(pretty, indent+1);
+	if (b) s << b->GetStructuredText(pretty, indent+1);
+	if (pretty) s.Cat('\t', indent);
+	s << "}";
+	if (pretty) s << "\n";
+	return s;
+}
 
 
 
+
+
+
+int Grouplist::trans_i = -1;
 
 Grouplist::Grouplist() {
-	pronouns_clr = Color(255, 0, 212);
-	pronouns
-		<< t_("I (m)")
-		<< t_("I (f)")
-		<< t_("you (m)")
-		<< t_("you (f)")
-		<< t_("he")
-		<< t_("she")
-		<< t_("we")
-		<< t_("we (m)")
-		<< t_("we (f)")
-		<< t_("plural you")
-		<< t_("plural you (m)")
-		<< t_("plural you (f)")
-		<< t_("they")
-		<< t_("they (m)")
-		<< t_("they (f)")
-		;
+	file_title = "default";
 	
-	elements_clr = Color(255, 212, 0);
-	elements
-		<< t_("Exaggeration and Surreal Situations")
-		<< t_("Subversion of Expectations")
-		<< t_("Absurd Concepts")
-		<< t_("Juxtaposition")
-		<< t_("Unexpected Combinations")
-		<< t_("Repetition of Unusual Themes")
-		<< t_("Props and Characters that are Unusual")
-		<< t_("Utilization of Unconventional Format")
-		<< t_("Incongruous Settings and Environments")
-		<< t_("Flips of Gender Roles")
-		<< t_("Flips of Social Constructs")
-		<< t_("Incongruous Pairings of Opposites")
-		<< t_("Usage of Unexpected Symbolism");
+	#if 0
 	
-	moral_interactions_clr = Color(226, 42, 0);
-	moral_interactions
-		<< t_("Playful ia. with God")
-		<< t_("Mutual Antagonism ia.")
-		<< t_("Negligent ia. with God")
-		<< t_("Mechanical/Workaround ia. with God")
-		<< t_("Transcendental ia. with God ")
-		<< t_("Devotional ia. with God")
-		<< t_("Conversational ia. with God")
-		<< t_("Parental ia. with God")
-		<< t_("Playful ia. with Personified Deities ")
-		<< t_("Quasi-Moral Behavioural ia. ")
-		<< t_("Judgmental ia. with God ")
-		<< t_("Confrontational ia. with God ")
-		<< t_("Sympathetic ia. with God ")
-		<< t_("Reverential ia. with God")
-		<< t_("Playful ia. with Angels")
-		<< t_("Oblivious ia. with Angels")
-		<< t_("Trustful ia. with Angels ")
-		<< t_("Supernatural ia. with Angels ")
-		<< t_("Playful ia. with Spirits ")
-		<< t_("Playful ia. with the Dead ")
-		<< t_("Playful ia. with Nature")
-		<< t_("Conflict ia. with Animals ")
-		<< t_("Mutual Respect ia. with Animals ")
-		<< t_("Spiritual ia. with Animals");
+	AddScoring(("Mood: joyful/melancholic"), scorings);
+	AddScoring(("Mood: playful/serious"), scorings);
+	AddScoring(("Mood: uplifting/heavy"), scorings);
+	AddScoring(("Mood: lighthearted/somber"), scorings);
+	AddScoring(("Mood: humorous/dramatic"), scorings);
+	AddScoring(("Social: authoritarian/liberatrian"), scorings);
+	AddScoring(("Economic: liberal/conservative"), scorings);
+	AddScoring(("Culture: individualism/collective"), scorings);
+	AddScoring(("Human strength: strong/weak"), scorings);
+	AddScoring(("Motivation: rewarding/punishing"), scorings);
+	AddScoring(("Sexualization: sexual/non-sexual"), scorings);
+	AddScoring(("Attitude: hopeful/despair"), scorings);
+	AddScoring(("Attitude: optimistic/pessimistic"), scorings);
+	AddScoring(("Attitude: open/closed"), scorings);
+	AddScoring(("Beliefs: spiritual/secular"), scorings);
+	AddScoring(("Expectations: perfection/acceptance"), scorings);
 	
-	interactions_clr = Color(28, 85, 255);
-	interactions
-		<< t_("Social")
-		<< t_("Atheistic")
-		<< t_("Religious")
-		<< t_("Playful")
-		<< t_("Sexual")
-		<< t_("Romantic")
-		<< t_("Business")
-		<< t_("Social")
-		<< t_("Political")
-		<< t_("Cultural")
-		<< t_("Emotional")
-		<< t_("Intellectual")
-		<< t_("Creative")
-		<< t_("Virtual")
-		<< t_("Digital");
-	
-	with_clr = Color(85, 127, 0);
-	with
-		<< t_("man")
-		<< t_("woman")
-		<< t_("girl")
-		<< t_("boy")
-		<< t_("animal")
-		<< t_("husband")
-		<< t_("wife")
-		<< t_("friend")
-		<< t_("friends")
-		<< t_("stranger")
-		<< t_("nature")
-		<< t_("technology")
-		<< t_("music")
-		<< t_("art")
-		<< t_("sea")
-		<< t_("forest")
-		<< t_("river")
-		<< t_("road")
-		<< t_("path in forest")
-		<< t_("car")
-		<< t_("train")
-		<< t_("night club")
-		<< t_("bar")
-		<< t_("restaurant")
-		<< t_("beach");
-	
-	acting_styles_clr = Color(198, 42, 200);
-	acting_styles
-		<< t_("funny")
-		<< t_("dramatic")
-		<< t_("seductive")
-		<< t_("devious")
-		<< t_("mysterious")
-		<< t_("passionate")
-		<< t_("mischievous")
-		<< t_("powerful")
-		<< t_("wistful");
-	
-	tones_clr = Color(28, 42, 150);
-	tones
-		<< t_("Melancholic")
-		<< t_("Pleading")
-		<< t_("Earnest")
-		<< t_("Bittersweet")
-		<< t_("Desperate")
-		<< t_("Nostalgic")
-		<< t_("Wistful")
-		<< t_("Reflection")
-		<< t_("Somber")
-		<< t_("Crooning")
-		<< t_("Comforting")
-		<< t_("Hopeful")
-		<< t_("Dreamy")
-		<< t_("Pensive")
-		<< t_("Restrained")
-		<< t_("Warbling");
-	
-	voiceover_tones_clr = Color(28, 255, 200);
-	voiceover_tones
-		<< t_("casual")
-		<< t_("contrasting")
-		<< t_("conversational")
-		<< t_("deep")
-		<< t_("detail focus")
-		<< t_("educational")
-		<< t_("energetic")
-		<< t_("excited")
-		<< t_("enthusiastic")
-		<< t_("gentle")
-		<< t_("laid-back")
-		<< t_("mellow")
-		<< t_("natural")
-		<< t_("nostalgic")
-		<< t_("optimistic")
-		<< t_("sarcastic")
-		<< t_("sophisticated")
-		<< t_("suggestive")
-		<< t_("witty");
-	
-	comedic_scenarios_clr = Color(141, 42, 150);
-	comedic_scenarios
-		<< t_("Absurd and Exaggerated Scenarios")
-		<< t_("Physical Comedy")
-		<< t_("Tragedy Mocks Success")
-		<< t_("Self-Deprecation")
-		<< t_("Deadpan Humor")
-		<< t_("Satire")
-		<< t_("Working Against Cliche")
-		<< t_("Repetitive Actions and Situations")
-		<< t_("Role Reversal")
-		<< t_("Slapstick")
-		<< t_("Miscommunication and Puns")
-		<< t_("Parody")
-		<< t_("Quirky Characters")
-		<< t_("Social Commentary")
-		<< t_("Absurd Dialogue")
-		<< t_("Playing With Expectations")
-		<< t_("Silliness");
-	
-	dramatic_scenarios_clr = Color(56, 42, 200);
-	dramatic_scenarios
-		<< t_("tragic death")
-		<< t_("a marriage in crisis")
-		<< t_("a serious illness")
-		<< t_("a family in deep debt")
-		<< t_("a crime")
-		<< t_("a personal betrayal")
-		<< t_("a difficult decision")
-		<< t_("an addiction")
-		<< t_("a forbidden romance")
-		<< t_("a risk")
-		<< t_("a moral dilemma")
-		<< t_("conflicts between cultures")
-		<< t_("political unrest")
-		<< t_("a character's inner struggle")
-		<< t_("a redemption story")
-		<< t_("racism and discrimination")
-		<< t_("embracing fate")
-		<< t_("facing mortality")
-		<< t_("fighting against the odds");
-	
-	types_of_sentences_clr = Color(0, 150, 246);
-	types_of_sentences
-		<< t_("observations")
-		<< t_("statements")
-		<< t_("questions");
-	
-	comedic_sentences_clr = Color(255, 170, 0);
-	comedic_sentences
-		<< t_("Satirical")
-		<< t_("Pun")
-		<< t_("Irony")
-		<< t_("Sarcasm")
-		<< t_("Hyperbole")
-		<< t_("Slapstick")
-		<< t_("Absurdist")
-		<< t_("Situational")
-		<< t_("Wordplay")
-		<< t_("Self-Deprecating")
-		<< t_("Parodical")
-		<< t_("Caricature")
-		<< t_("Puns")
-		<< t_("Comic Hyperbole")
-		<< t_("Absurdity")
-		<< t_("Mockery")
-		<< t_("Self-Mockery")
-		<< t_("Play-on-Words")
-		<< t_("Situational Irony")
-		<< t_("Topical")
-		<< t_("Improvisation")
-		<< t_("Sight Gags")
-		<< t_("Fish-Out-of-Water")
-		<< t_("Hammy Acting")
-		<< t_("Musical Comedy");
-	
-	humorous_expressions_clr = Color(255, 42, 200);
-	humorous_expressions
-		<< t_("Irony")
-		<< t_("Playful Wordplay")
-		<< t_("Ironical statements")
-		<< t_("Romantic Humor")
-		<< t_("Sexual Humor")
-		<< t_("Self-Deprecating Humor")
-		<< t_("Dark Humor")
-		<< t_("Casual and Conversational Tone")
-		<< t_("Mockery Humor")
-		<< t_("Self-Mockery Humor")
-		<< t_("Sarcasm")
-		<< t_("Slapstick")
-		<< t_("Facetiousness")
-		<< t_("Gallows Humor")
-		<< t_("Sex Humor")
-		<< t_("Surreal Humor")
-		<< t_("Absurdist Humor")
-		<< t_("One-liners")
-		<< t_("Smartassery")
-		<< t_("Improvisation")
-		<< t_("Exaggeration")
-		<< t_("Mustache Twirling")
-		<< t_("Pratfalls");
+	#endif
 	
 }
+
+bool Grouplist::FindAttr(String group, String item, SnapAttr& sa) const {
+	group = ToLower(group);
+	item = ToLower(item);
+	int group_i = 0;
+	for (const Group& gg : groups.GetValues()) {
+		if (ToLower(gg.description) == group) {
+			for(int i = 0; i < gg.values.GetCount(); i++) {
+				if (ToLower(gg.values[i]) == item) {
+					sa.group = group_i;
+					sa.item = i;
+					return true;
+				}
+			}
+		}
+		group_i++;
+	}
+	return false;
+}
+
+void Grouplist::AddScoring(String s, Vector<Grouplist::ScoringType>& scorings) {
+	int a = s.Find(":");
+	
+	Grouplist::ScoringType& t = scorings.Add();
+	t.klass = s.Left(a);
+	s =  s.Mid(a+2);
+	a = s.Find("/");
+	t.axes0 = s.Left(a);
+	t.axes1 = s.Mid(a+1);
+	
+	Translate(t.klass);
+	Translate(t.axes0);
+	Translate(t.axes1);
+}
+
+void Grouplist::DumbFix() {
+	groups.Clear();
+	
+	groups.Add("pronouns")
+		.SetDescription("Pronouns")
+		.SetColor(255, 0, 212)
+		<< ToLower("I (m)")
+		<< ToLower("I (f)")
+		<< ToLower("you (m)")
+		<< ToLower("you (f)")
+		<< ToLower("he")
+		<< ToLower("she")
+		<< ToLower("we")
+		<< ToLower("we (m)")
+		<< ToLower("we (f)")
+		<< ToLower("plural you")
+		<< ToLower("plural you (m)")
+		<< ToLower("plural you (f)")
+		<< ToLower("they")
+		<< ToLower("they (m)")
+		<< ToLower("they (f)")
+		<< ToLower("one")
+		<< ToLower("everyone")
+		<< ToLower("singular pronoun")
+		<< ToLower("person")
+		<< ToLower("that")
+		<< ToLower("every")
+		<< ToLower("day")
+		<< ToLower("night")
+		<< ToLower("love")
+		<< ToLower("moment")
+		<< ToLower("passive")
+		<< ToLower("my")
+		<< ToLower("your")
+		;
+	
+	groups.Add("elements")
+		.SetDescription("Contrast and Unexpected Elements")
+		.SetColor(255, 212, 0)
+		<< ToLower("Exaggeration and Surreal Situations")
+		<< ToLower("Subversion of Expectations")
+		<< ToLower("Absurd Concepts")
+		<< ToLower("Juxtaposition")
+		<< ToLower("Unexpected Combinations")
+		<< ToLower("Repetition of Unusual Themes")
+		<< ToLower("Props and Characters that are Unusual")
+		<< ToLower("Utilization of Unconventional Format")
+		<< ToLower("Incongruous Settings and Environments")
+		<< ToLower("Flips of Gender Roles")
+		<< ToLower("Flips of Social Constructs")
+		<< ToLower("Incongruous Pairings of Opposites")
+		<< ToLower("Usage of Unexpected Symbolism")
+		<< ToLower("Hope for future without immediate action")
+		<< ToLower("Unexpected turning of a positive thing into negativity")
+		<< ToLower("Unexpected turning of a negative thing into a positive")
+		<< ToLower("Using an abstract concept")
+		<< ToLower("Unexpected comparison between two")
+		<< ToLower("Serious tone but humorous expectation")
+		<< ToLower("Unexpected emotional reaction to treatment received from others")
+		<< ToLower("Unexpected use of opposites")
+		;
+	
+	groups.Add("moral_interactions")
+		.SetDescription("Moral interactions")
+		.SetColor(246, 22, 0)
+		<< ToLower("Respect")
+		<< ToLower("Honesty")
+		<< ToLower("Integrity")
+		<< ToLower("Kindness")
+		<< ToLower("Compassion")
+		<< ToLower("Gratitude")
+		<< ToLower("Forgiveness")
+		<< ToLower("Trust")
+		<< ToLower("Responsibility")
+		<< ToLower("Patience")
+		<< ToLower("Humility")
+		<< ToLower("Loyalty")
+		<< ToLower("Fairness")
+		<< ToLower("right to privacy")
+		<< ToLower("strength")
+		<< ToLower("resilience")
+		<< ToLower("spiritual meaningfulness")
+		<< ToLower("judgement")
+		<< ToLower("altruism")
+		<< ToLower("navigation in life")
+		;
+	
+	groups.Add("moral_interaction_modes")
+		.SetDescription("Moral interactions mode")
+		.SetColor(22, 22, 246)
+		<< ToLower("promote someone's")
+		<< ToLower("to bring up your own")
+		<< ToLower("emphasize someone's")
+		<< ToLower("ask open ended question about")
+		<< ToLower("support someone's")
+		<< ToLower("challenges assumptions about")
+		<< ToLower("give feedback on")
+		<< ToLower("to give encouragement of strength")
+		<< ToLower("to invite a discussion about")
+		<< ToLower("think about your own")
+		<< ToLower("understand someone else's")
+		<< ToLower("questioning")
+		<< ToLower("themes around")
+		<< ToLower("Suggests a sense of obligation to have")
+		<< ToLower("Do ")
+		;
+	
+	groups.Add("religious_moral_interactions")
+		.SetDescription("Religiously moral")
+		.SetColor(226, 42, 0)
+		<< ToLower("Playful ia. with God")
+		<< ToLower("Mutual Antagonism ia.")
+		<< ToLower("Negligent ia. with God")
+		<< ToLower("Mechanical/Workaround ia. with God")
+		<< ToLower("Transcendental ia. with God ")
+		<< ToLower("Devotional ia. with God")
+		<< ToLower("Conversational ia. with God")
+		<< ToLower("Parental ia. with God")
+		<< ToLower("Playful ia. with Personified Deities ")
+		<< ToLower("Quasi-Moral Behavioural ia. ")
+		<< ToLower("Judgmental ia. with God ")
+		<< ToLower("Confrontational ia. with God ")
+		<< ToLower("Sympathetic ia. with God ")
+		<< ToLower("Reverential ia. with God")
+		<< ToLower("Playful ia. with Angels")
+		<< ToLower("Oblivious ia. with Angels")
+		<< ToLower("Trustful ia. with Angels ")
+		<< ToLower("Supernatural ia. with Angels ")
+		<< ToLower("Playful ia. with Spirits ")
+		<< ToLower("Playful ia. with the Dead ")
+		<< ToLower("Playful ia. with Nature")
+		<< ToLower("Conflict ia. with Animals ")
+		<< ToLower("Mutual Respect ia. with Animals ")
+		<< ToLower("Spiritual ia. with Animals")
+		<< ToLower("Baptism of Jesus")
+		;
+	
+	groups.Add("interactions")
+		.SetDescription("Interactions")
+		.SetColor(28, 85, 255)
+		<< ToLower("Social")
+		<< ToLower("Atheistic")
+		<< ToLower("Religious")
+		<< ToLower("Playful")
+		<< ToLower("Sexual")
+		<< ToLower("Romantic")
+		<< ToLower("Business")
+		<< ToLower("Social")
+		<< ToLower("Political")
+		<< ToLower("Cultural")
+		<< ToLower("Emotional")
+		<< ToLower("Intellectual")
+		<< ToLower("Creative")
+		<< ToLower("Virtual")
+		<< ToLower("Digital")
+		<< ToLower("Serious")
+		<< ToLower("Requesting for confirmation")
+		<< ToLower("Suggesting actions and not just thoughts")
+		<< ToLower("Dialogue between people")
+		<< ToLower("Personal")
+		<< ToLower("Making a decision")
+		<< ToLower("Taking a risk")
+		;
+	
+	groups.Add("with")
+		.SetDescription("(Interactions) with")
+		.SetColor(85, 127, 0)
+		<< ToLower("man")
+		<< ToLower("woman")
+		<< ToLower("girl")
+		<< ToLower("boy")
+		<< ToLower("animal")
+		<< ToLower("husband")
+		<< ToLower("wife")
+		<< ToLower("friend")
+		<< ToLower("friends")
+		<< ToLower("stranger")
+		<< ToLower("nature")
+		<< ToLower("technology")
+		<< ToLower("music")
+		<< ToLower("art")
+		<< ToLower("sea")
+		<< ToLower("forest")
+		<< ToLower("river")
+		<< ToLower("road")
+		<< ToLower("path in forest")
+		<< ToLower("car")
+		<< ToLower("train")
+		<< ToLower("night club")
+		<< ToLower("bar")
+		<< ToLower("restaurant")
+		<< ToLower("beach")
+		<< ToLower("mother")
+		<< ToLower("father")
+		;
+	
+	groups.Add("acting_styles")
+		.SetDescription("Acting Styles")
+		.SetColor(198, 42, 200)
+		<< ToLower("funny")
+		<< ToLower("dramatic")
+		<< ToLower("seductive")
+		<< ToLower("devious")
+		<< ToLower("mysterious")
+		<< ToLower("passionate")
+		<< ToLower("mischievous")
+		<< ToLower("powerful")
+		<< ToLower("wistful")
+		<< ToLower("determined")
+		<< ToLower("aggressive")
+		<< ToLower("implying urgency")
+		<< ToLower("light-hearted")
+		<< ToLower("broody")
+		<< ToLower("bold")
+		;
+	
+	groups.Add("tones")
+		.SetDescription("Tones")
+		.SetColor(28, 42, 150)
+		<< ToLower("Melancholic")
+		<< ToLower("Pleading")
+		<< ToLower("Earnest")
+		<< ToLower("Bittersweet")
+		<< ToLower("Desperate")
+		<< ToLower("Nostalgic")
+		<< ToLower("Wistful")
+		<< ToLower("Reflection")
+		<< ToLower("Somber")
+		<< ToLower("Crooning")
+		<< ToLower("Comforting")
+		<< ToLower("Hopeful")
+		<< ToLower("Dreamy")
+		<< ToLower("Pensive")
+		<< ToLower("Restrained")
+		<< ToLower("Warbling")
+		<< ToLower("Direct")
+		<< ToLower("Assertive")
+		<< ToLower("Isolated")
+		<< ToLower("Mournful")
+		<< ToLower("Commanding")
+		<< ToLower("Insistent")
+		<< ToLower("Uplifting")
+		<< ToLower("Inspirational")
+		<< ToLower("Inquisitive")
+		<< ToLower("Angry")
+		<< ToLower("Pity")
+		<< ToLower("Confused")
+		<< ToLower("Unknowing")
+		<< ToLower("Sarcastic")
+		<< ToLower("Sad")
+		<< ToLower("Disappointed")
+		<< ToLower("Challenging")
+		<< ToLower("Encouraging")
+		<< ToLower("Neutral")
+		<< ToLower("Poignant")
+		;
+	
+	groups.Add("voiceover_tones")
+		.SetDescription("Voiceover Tones")
+		.SetColor(28, 255, 200)
+		<< ToLower("casual")
+		<< ToLower("contrasting")
+		<< ToLower("conversational")
+		<< ToLower("deep")
+		<< ToLower("detail focus")
+		<< ToLower("educating")
+		<< ToLower("energetic")
+		<< ToLower("excited")
+		<< ToLower("enthusiastic")
+		<< ToLower("gentle")
+		<< ToLower("laid-back")
+		<< ToLower("mellow")
+		<< ToLower("natural")
+		<< ToLower("nostalgic")
+		<< ToLower("optimistic")
+		<< ToLower("sarcastic")
+		<< ToLower("sophisticated")
+		<< ToLower("suggestive")
+		<< ToLower("witty")
+		<< ToLower("confident")
+		<< ToLower("assured")
+		<< ToLower("motivating")
+		<< ToLower("reflective")
+		;
+	
+	groups.Add("comedic_scenarios")
+		.SetDescription("Comedic scenarios")
+		.SetColor(141, 42, 150)
+		<< ToLower("Absurd and Exaggerated Scenarios")
+		<< ToLower("Physical Comedy")
+		<< ToLower("Tragedy Mocks Success")
+		<< ToLower("Self-Deprecation")
+		<< ToLower("Deadpan Humor")
+		<< ToLower("Satire")
+		<< ToLower("Working Against Cliche")
+		<< ToLower("Repetitive Actions and Situations")
+		<< ToLower("Role Reversal")
+		<< ToLower("Slapstick")
+		<< ToLower("Miscommunication and Puns")
+		<< ToLower("Parody")
+		<< ToLower("Quirky Characters")
+		<< ToLower("Social Commentary")
+		<< ToLower("Absurd Dialogue")
+		<< ToLower("Playing With Expectations")
+		<< ToLower("Silliness")
+		;
+	
+	groups.Add("dramatic_scenarios")
+		.SetDescription("Dramatic scenarios")
+		.SetColor(56, 42, 200)
+		<< ToLower("tragic death")
+		<< ToLower("a marriage in crisis")
+		<< ToLower("a serious illness")
+		<< ToLower("a family in deep debt")
+		<< ToLower("a crime")
+		<< ToLower("a personal betrayal")
+		<< ToLower("a difficult decision")
+		<< ToLower("an addiction")
+		<< ToLower("a forbidden romance")
+		<< ToLower("a risk")
+		<< ToLower("a moral dilemma")
+		<< ToLower("conflicts between cultures")
+		<< ToLower("political unrest")
+		<< ToLower("a character's inner struggle")
+		<< ToLower("a redemption story")
+		<< ToLower("racism and discrimination")
+		<< ToLower("embracing fate")
+		<< ToLower("facing mortality")
+		<< ToLower("fighting against the odds")
+		<< ToLower("Conflict with someone")
+		<< ToLower("Bring up a moral issue")
+		<< ToLower("Existential crisis")
+		<< ToLower("Perilious choices leads to a better outcome")
+		;
+	
+	groups.Add("types_of_sentences")
+		.SetDescription("Types of sentences")
+		.SetColor(0, 150, 246)
+		<< ToLower("observations")
+		<< ToLower("statements")
+		<< ToLower("questions")
+		<< ToLower("declarative")
+		<< ToLower("imperative")
+		<< ToLower("interrogative")
+		<< ToLower("affirmative")
+		;
+	
+	groups.Add("comedic_sentences")
+		.SetDescription("Comedic sentences")
+		.SetColor(255, 170, 0)
+		<< ToLower("Satirical")
+		<< ToLower("Pun")
+		<< ToLower("Irony")
+		<< ToLower("Sarcasm")
+		<< ToLower("Hyperbole")
+		<< ToLower("Slapstick")
+		<< ToLower("Absurdist")
+		<< ToLower("Situational")
+		<< ToLower("Wordplay")
+		<< ToLower("Self-Deprecating")
+		<< ToLower("Parodical")
+		<< ToLower("Caricature")
+		<< ToLower("Puns")
+		<< ToLower("Comic Hyperbole")
+		<< ToLower("Absurdity")
+		<< ToLower("Mockery")
+		<< ToLower("Self-Mockery")
+		<< ToLower("Play-on-Words")
+		<< ToLower("Situational Irony")
+		<< ToLower("Topical")
+		<< ToLower("Improvisation")
+		<< ToLower("Sight Gags")
+		<< ToLower("Fish-Out-of-Water")
+		<< ToLower("Hammy Acting")
+		<< ToLower("Musical Comedy")
+		<< ToLower("Suggests lightheartedness")
+		;
+	
+	groups.Add("humorous_expressions")
+		.SetDescription("Humorous expressions")
+		.SetColor(255, 42, 200)
+		<< ToLower("Irony")
+		<< ToLower("Playful Wordplay")
+		<< ToLower("Ironical statements")
+		<< ToLower("Romantic Humor")
+		<< ToLower("Sexual Humor")
+		<< ToLower("Self-Deprecating Humor")
+		<< ToLower("Dark Humor")
+		<< ToLower("Casual and Conversational Tone")
+		<< ToLower("Mockery Humor")
+		<< ToLower("Self-Mockery Humor")
+		<< ToLower("Sarcasm")
+		<< ToLower("Slapstick")
+		<< ToLower("Facetiousness")
+		<< ToLower("Gallows Humor")
+		<< ToLower("Sex Humor")
+		<< ToLower("Surreal Humor")
+		<< ToLower("Absurdist Humor")
+		<< ToLower("One-liners")
+		<< ToLower("Smartassery")
+		<< ToLower("Improvisation")
+		<< ToLower("Exaggeration")
+		<< ToLower("Mustache Twirling")
+		<< ToLower("Pratfalls");
+
+}
+
+String Grouplist::Translate(const String& s) {
+	if (trans_i < 0)
+		return s;
+	Translation& t = this->translation[trans_i];
+	int i = t.data.Find(s);
+	String o;
+	if (i >= 0)
+		o = t.data[i];
+	if (i < 0 || o.IsEmpty()) {
+		i = t.data.Find(ToLower(s));
+		if (i >= 0)
+			o = t.data[i];
+		else
+			t.data.Add(ToLower(s));
+	}
+	return o.IsEmpty() ? s : o;
+}
+
+
+
+
+void PartScore::Realize() {
+	Grouplist& g = Database::Single().groups;
+	values.SetCount(g.scorings.GetCount());
+	for (auto& v : values)
+		v.SetCount(len, 0);
+}
+
+
+
+
+
+
+
+AttrScore::AttrScore() {
+	file_title = "default";
+	
+}
+
+void AttrScore::RealizeTemp() {
+	// Connect group/items to attribute groups and entries
+	// These classes are kept separate, because they center around different concepts.
+	
+	Grouplist& g = Database::Single().groups;
+	
+	// Loop Grouplist's groups and entries
+	int gc = g.groups.GetCount();
+	this->attr_to_score.SetCount(gc);
+	int total = 0, not_found = 0;
+	for(int i = 0; i < gc; i++) {
+		Vector<int>& vv = attr_to_score[i];
+		
+		Grouplist::Group& gg = g.groups[i];
+		int vc = gg.values.GetCount();
+		vv.SetCount(vc, -1);
+		
+		for(int j = 0; j < vc; j++) {
+			int& v = vv[j];
+			total++;
+			
+			if (v >= 0)
+				continue;
+			
+			// Here you have group and entry without connection
+			
+			// Loop groups of this class, and match group/entry (==SnapAttr) value
+			bool found = false;
+			int asg_i = 0;
+			for (const AttrScoreGroup& asg : groups) {
+				for (const SnapAttr& sa : asg.attrs) {
+					if (sa.group == i && sa.item == j) {
+						// Match found
+						v = asg_i;
+						found = true;
+						break;
+					}
+				}
+				if (found) break;
+				asg_i++;
+			}
+			
+			if (!found) {
+				LOG("AttrScore::RealizeTemp: not found: " << gg.values[j] << " (" << i << ":" << j << ")");
+				not_found++;
+			}
+		}
+	}
+	
+	int ready = 100 * not_found / total;
+	LOG("AttrScore::RealizeTemp: total=" << total << ", not_found=" << not_found << " (" << ready << "\%)");
+}
+
+
+
+String AttrScoreGroup::ToString() const {
+	Grouplist& g = Database::Single().groups;
+	
+	String s;
+	if (name.GetCount())
+		s << t_("Name") << ": " << name << "\n";
+	
+	for(int i = 0; i < scores.GetCount(); i++) {
+		int sc = scores[i];
+		if (!sc) continue;
+		
+		if (i >= g.scorings.GetCount()) {
+			s << "error\n";
+			continue;
+		}
+		
+		const Grouplist::ScoringType& t = g.scorings[i];
+		String name =
+			Capitalize(g.Translate(t.klass)) + ": " + (sc > 0 ? "+" : "-") + " (" +
+			Capitalize(g.Translate(sc > 0 ? t.axes0 : t.axes1)) + ")";
+		s << name << "\n";
+	}
+	
+	return s;
+}
+
+
+
+String Capitalize(String s) {
+	return ToUpper(s.Left(1)) + s.Mid(1);
+}
+
+
+
+void Pattern::ReloadStructure() {
+	Database& db = Database::Single();
+	db.active_snap = 0;
+	
+	this->parts.Clear();
+	//this->unique_parts.Clear();
+	
+	Vector<String> part_str = Split(this->structure, ",");
+	Index<String> part_seen;
+	
+	for (String& p : part_str) {
+		p = TrimBoth(p);
+		
+		// Split name and beat count
+		int i = p.Find(":");
+		String name;
+		
+		if (i < 0) {
+			i = this->unique_parts.Find(p);
+			if (i >= 0) {
+				name = p; // ok
+			}
+			else {
+				PromptOK(DeQtf("error: no ':' character and beat length"));
+				return;
+			}
+		}
+		else {
+			name = p.Left(i);
+			int beats = StrInt(p.Mid(i+1));
+			
+			// Check for beat length error
+			i = this->unique_parts.Find(name);
+			if (i >= 0) {
+				Part& part = this->unique_parts[i];
+				if (part.len != beats) {
+					if (part_seen.Find(name) < 0) {
+						part.len = beats;
+					}
+					else {
+						PromptOK(DeQtf("error: part length mismatch"));
+						return;
+					}
+				}
+			}
+			else {
+				Part& part = this->unique_parts.GetAdd(name);
+				part.len = beats;
+			}
+		}
+		
+		// Add part
+		this->parts.Add(name);
+		part_seen.Add(name);
+	}
+	
+	DUMPM(this->unique_parts);
+	DUMPC(this->parts);
+	
+	for (Part& part : this->unique_parts) {
+		part.snap.Init(0, part.len);
+		part.FixPtrs();
+	}
+}
+
