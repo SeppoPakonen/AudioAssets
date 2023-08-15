@@ -47,9 +47,9 @@ visualisointi:
 ei rimmaavat sanat:
 	kertosäe:
 		puhuessa kadotan sut
-		puhuun yksin jään ku sä harmistuit
-		ei mieleen tuu et sä mietit vaan
-		asioita niin niinku kaikki muutkin tajuaa
+		kävelet pois kun sä harmistut
+		en saa mun sanomaani vastausta
+		kun on mun tarinani taas niin kaukana kaikesta
 	säe 1:
 		telkkari on päällä, niinku joka arki-ilta
 		uutiset ja politiikkaa, ja kaukaiset kriisit tulee lähelle
@@ -60,6 +60,23 @@ ei rimmaavat sanat:
 		sä et haluu kuulla, ja sun tarvii ymmärtää mitä sanon
 		mut sä sanot, että en tiedä mitä puhun, ja sohvalle nukkumaan mut ajat
 	säe 2:
+		sateiset on tiet, läpimärkä on mies
+		oon haukun kohde, sen koiratkin ties
+		on omat jutut, ei tuu vastaan kasvot tutut
+		oon oikeas, ja maailma muuttui hullummaks
+		lööpit kutsuu kioskille sisään, mut rima on korkeel
+		hinta ei oo oikee, kun olisin muka sokee
+		oon mielummin märkä kuin paikassa vääräs
+		murahdan otsikoilla ja pidän kiinni mun päästä
+	säe 3:
+		ovi sulkeutuu mun takana,
+		hiljaa niin ei mun tarvi sua tänään enää tavata
+		ja oon rauhallinen, kun oon melkeen hypotermias
+		sohva kutsuu ehkä huomenna meen kauemmas
+		sit vaimo tulee katsoon, mies takas taas on
+		sitä vois unohtaa taas kaiken ja löytää tutun turvaraon
+		pyydät mut vierees nukkumaan, pyydät kaiken unohtaan
+		ja mä käännän kylkee, kun sä saat mut hulluks tulemaan
 		
 		
 		
