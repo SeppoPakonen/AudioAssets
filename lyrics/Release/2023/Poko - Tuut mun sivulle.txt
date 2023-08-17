@@ -1,0 +1,136 @@
+Verse 1:
+Hei some seuraaja, paina tykkäysnappia
+On instaprinsessa vain sydäntunnetta
+Ei luurankoja kaapissa, ei lisää trolleja
+Hän postaa uudelleen, siten numerot suurenee
+
+Kertosäe:
+Tuut mun sivulle
+sä kaikkii kosketat
+Tuut mun sivulle
+ja saat uuden seuraajan.
+
+Verse 2:
+Provokatiivinen kuva, viimeisin hänen
+ja vaarallinenkin, stuntista selvisi
+Kuin ahne alkaja, on hän klikbeittii vastaava
+Myös mustanpuhuva, mun etusivulla
+
+Bridge:
+Sä pyysit hakukoneen vastausta pulmaan, ja tekoälyjenkin.
+Niin, sun uudes kuvas pose paras on silleen, et tykkää kaikki miehet.
+     
+
+
+
+
+
+
+Verse 1:
+Good friend pressing a like button,
+Social media princess, her heartful wonder-feeling,
+No skeletons in her closet, no more trolls
+She’s posting and she’s gaining the attention for once
+
+Chorus:
+Let’s viralize this, must spread, start liking me
+
+Verse 2:
+Posting pictures of provocative,
+Videos of dangerous stunts,
+Like a greedy beginner, fitting in certain look today
+You’re seeing the clickbait in your smartphone
+I’m self-harming my body in your front page
+
+Bridge:
+I’m asking, from two sources,
+Artificial intelligence
+The search engine, which everyone uses,
+Yeah, take a picture of myself for likes of all woman
+
+
+
+
+
+verse 1:
+good (friend) {
+	pressing {
+		button ( like )
+	}
+}
+social media ( princess ) {
+	cheering up {
+		heartful ( wonder feeling )
+	}
+}
+no (skeletons) {
+	in {
+		closet
+	}
+}
+no ( more trolls )
+me {
+	posting {
+		gaining ( attention ) {
+			for ( once )	
+		}
+	}
+}
+
+chorus:
+me {
+	viralize {
+		this ( must spread )
+		start ( liking me )
+	}
+}
+
+verse 2:
+me {
+	posting {
+		pictures {
+			of ( provocative )
+		}
+		videos {
+			of ( dangerous stunts )
+		}
+	}
+	like ( a greedy beginner ) {
+		fitting ( certain look ) {
+			today
+		}
+	}
+}
+you {
+	seeing {
+		clickbait {
+			in ( smartphone ) 
+		}
+	}
+}
+me {
+	self-harming {
+		my ( body )
+	}
+	in ( your front page )
+}
+
+bridge:
+me {
+	asking {
+		from ( two sources ) {
+			artifical intelligence
+			the search engine ( which everyone uses )
+		}
+	}
+}
+me {
+	( yeah ) {
+		taking (picture) {
+			of myself
+			for ( likes ) {
+				of ( all woman )
+			}
+		}
+	}
+}
