@@ -1,4 +1,6 @@
-Title: Rakkauden Aika
+Nimi: Rakkauden Aika
+Esittäjä: Poko
+Tekijät: säv/san/sov Seppo Pakonen
 
 Säe 1:
 .Kuuntele .mua nyt, _ ja oo .hiljaa
