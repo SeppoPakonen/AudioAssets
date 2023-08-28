@@ -1,3 +1,43 @@
+Kertosäe:
+Puhuessa kadotan sut
+Kävelet pois kun sä harmistut
+En saa mun sanomaani vastausta
+Kun on mun tarinani taas niin kaukana kaikesta
+
+Säe 1:
+Tässä elämässä haluut kuulla muutakin
+kuin yksinpuhelua valituksin katkerin
+Kun meet pois, ymmärrät et on se totta
+Oon aina tuntenut et oon vain ihmisroska
+Harhaan johdettu nuori, tietoonsa luotti
+Toive-elämä löytyi, mutta elämä muuta tuotti
+Oon elämän varjojen ympäröimänä,
+Väsynyt taisteluun ja pimeyttä täynnä
+
+Säe 2:
+Tulevaisuus ei tarjoo mulle lohtua
+Oon yksinäinen hahmo, tuskasta ontuva
+Poltan sillat salaa yksin sisälläni
+Hiljaisuus syvällä kasvaa ylpeydestäni
+Unelmat katos eikä jäljel ole toivoa
+Kohtaan sen et elän kodissa kylmän kolkossa
+Saanko koskaan tuntee elämän iloja?
+Tuska ja kipu viiltää kuin veitsi iholla.
+
+C:
+Oon niin yksin, ilman pako-ovee
+Haluun irtautua siitä mitä keho potee
+Yö lähestyy ja silti mä huomaan et
+Vastaus työntää pois mut sen luotaan
+
+
+
+
+
+
+
+
+
 visualisointi:
 	kertosäe:
 		mies puhuu aiheuttaen naisen poistumisen
@@ -240,3 +280,73 @@ We thought we had something extraordinary
 Conversation flowed as lovely like poetry
 But pages torn and longing can kill desires anytime
 No buttery words, the bridges we burned still burnt the rice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Singer is 33 years old (born in 1989) caucasia male.
+The song is slow rock ballad.
+
+Lyrics:
+
+Chorus:
+when I talk I make you disappear
+you walk away when you get upset
+I don't get an answer to what I said
+when my story is again so far from everything
+
+Verse 1:
+In this life there must be something more
+than hours filled with suffering and pain
+When I'm gone you'll realize its true
+The disappointment that I always felt
+
+Verse 2:
+Misguided youth who thought he knew
+The life he'd find, but it never came true
+I am surrounded by the shadows of life
+And I'm so weary of this fight
+
+Bridge:
+I'm so alone with nowhere to turn
+I wanna break away from what I yearn
+The night draws closer and still I find
+The answer escapes me in time
+
+Verse 3:
+The future holds no solace for me
+A lonely figure, such agony
+The bridges that I burn deep inside
+The silence grows deep with my pride
+
+Verse 4: 
+Dreams cut short, no more hope left to hold
+It's time to face the fact that I'm so cold
+Will I ever know the joys of life
+The hurt and pain, it all cuts like a knife
+
+Outro:
+When I talk I make you disappear
+You walk away when you get upset
+I don't get an answer to what I said
+When my story is again so far from everything
+
+
