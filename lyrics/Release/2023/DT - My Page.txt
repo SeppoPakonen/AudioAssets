@@ -1,0 +1,52 @@
+rate 0-5: lyrical fumbling, confusion, unnecessary words, looseness, pronoun incorrectness, unnecessary adjectives
+
+lyrics:
+Verse 1:
+Her online followers will share and hit the like button
+She is a social queen, a likeable machine
+No secrets can be kept, not everything stays perfect
+She'll post her pic again, will efforts be in vain?
+
+Chorus:
+She comes to my page
+She captivates my soul
+She comes to my page
+and she gets me to follow.
+
+Verse 2:
+Provocative statements, creating misconnect
+Her little diversion, kills all the assertion
+As reels that go viral, clickbaiting is vital
+A constant need for more, the internet's a bore
+
+Bridge:
+She has been copying content, taking the shortcut
+the algorithm won't care
+Yeah, she has been posing for us, getting her clothes off
+because the payer is the man
+
+
+
+Lines with lyrical fumbling: 
+-Her online followers will share and hit the like button  ("like button" is redundant here)
+-She is a social queen, a likeable machine  ("likeable machine" is redundant here)
+-Provocative statements, creating misconnect ("creating misconnect" is not very clear in this context, or could be seen as redundant with the pronoun)
+-Her little diversion, kills all the assertion ("kills all the assertion" could be seen as redundant as well)
+-As reels that go viral, clickbaiting is vital ("clickbaiting is vital" is redundant with the previous line)
+-She has been copying content, taking the shortcut ("taking the shortcut" could be seen as redundant as well) 
+
+Lines with confusion: 
+None
+
+Lines with unnecessary words: 
+-She is a social queen, a likeable machine ("likeable" is unnecessary here since it brings no further semantic information) 
+-She'll post her pic again, will efforts be in vain? ("efforts" is unnecessary here since it brings no further semantic information)
+
+Lines with looseness: 
+None
+
+Lines with pronoun incorrectness:
+None 
+
+Lines with unnecessary adjectives: 
+-She is a social queen, a likeable machine ("likeable" is unnecessary here since it brings no further semantic information)
