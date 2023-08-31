@@ -1,0 +1,47 @@
+rate 0-5: lyrical fumbling, confusion, unnecessary words, looseness, pronoun incorrectness, unnecessary adjectives, overuse of verbs, repetition, overdramatic, awkwardness, syntax errors, odd phrasing, poor transitions, long-windedness, abrupt endings, redundancy, choppiness, lack of coherence, thing cliche, unclear, misused words, unnatural
+
+lyrics:
+Verse 1:
+Her online follower will share and press the like button
+She is a social queen, a likeable machine
+No skeletons in her closet, no more trolls chaotic
+She'll post her pic again, will numbers increase then?
+
+Chorus:
+You come to my page
+You captivate my soul
+You come to my page
+and you get me to follow.
+
+Verse 2:
+Provocative she is, also, often quite average
+and sometimes dangerous, might survive all the stunts
+Like in the beginning, she will always be clickbaiting
+She can be gloomy too, my parasocial boo
+
+Bridge:
+Your content has been copied from a search engine, and from the GPT too.
+Yeah, your pose in photos is the best of its kind to really please us all men
+
+
+
+
+### STYLE 1
+
+Lines with lyrical fumbling (and improvements):
+- "
+
+
+
+### STYLE 2
+Line 1 of Verse 1,
+"Her online follower will share and press the like button":
+- lyrical fumbling: 1 ("follower will share and press", improvement: "follower will share and hit")
+- confusion: 0
+- unnecessary words: 1 ("will share and press")
+- looseness: 0
+- pronoun incorrectness: 0
+- unnecessary adjectives: 0
+
+
+
