@@ -1,0 +1,45 @@
+Original screenplay "A":
+Intro:
+0:00 B2: An automobile hood against the desert from the side. 
+0:05 B1: A hand grabs the top corner of the convertible's front. 
+0:07 B1: The shot transitions from the hood of the car to the driver's side, showing a long-haired guitarist in the driver's seat and a singer in the passenger's.
+
+
+Structurally deconstructed screenplay "A":
+intro {
+	b2 (0:00) {
+		an automobile hood {
+			against ( desert )
+			from ( side)
+		}
+		never ( imagined ) {
+			this ( end )
+		}
+	}
+	b1 {
+		time ( 0:05 ) {
+			a hand ( grabs ) {
+				front glass ( of convertible )
+			}
+		}
+		time ( 0:07 ) {
+			transition
+			car ( hood )
+			guitarist ( long-haired) {
+				in the driver' seat
+			}
+			singer {
+				passenger
+			}
+		}
+	}
+}
+
+Original screenplay "B":
+Verse 1:
+0:11 A1: The singer turns towards the camera and starts singing.
+0:15 B1: The bassist ties his shoe laces in the back seat of an open car with his feet facing towards the sky.
+0:16 B1: The drummer looks forward from the back seat of the open car, forehead creased in concentration.
+0:19 B2: A desert landscape and a man's tattooed arm.
+
+Structurally deconstructed screenplay "B":
