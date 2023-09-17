@@ -1,0 +1,89 @@
+Original lyrics "Text A":
+I didn't want to fight, I don't want to break up
+
+
+Structurally deconstructed lyrics "Text A":
+me {
+	not wanting {
+		to fight
+		to break up
+	}
+}
+
+
+Structurally deconstructed lyrics "Text B":
+verse 1 {
+	invocation {
+		Hello ( good fairy ) 
+		waving ( magic wand )
+		or ( witch princess )
+		treating ( green wonder potion )
+	}
+	no {
+		rabbit ( in the hat )
+		salt
+	}
+	wishing { 
+		my ( wish ) {
+			come ( true ) {
+				once
+			}
+		}
+	}
+}
+chorus {
+	chanting {
+		Abracadabra
+		this ( must work )
+		Abracadabra
+		start ( loving me )
+	}
+}
+verse 2 { 
+	eating {
+		bat claws
+		lizard soup
+	}
+	reciting ( spells ) {
+		tonight
+	}
+	seeing {
+		light ( in the crystal ball )
+	}
+	torturing {
+		my ( body ) {
+			in ( vain dreams )
+		}
+	}
+}
+bridge {
+	looking {
+		through ( Scout's Handbook )
+		information ( book ) {
+			for ( young people )
+		}
+	}
+	kissing {
+		last ( frog ) {
+			for ( look ) {
+				of ( one woman )
+			}
+		}
+	}
+}
+
+
+
+rate 0-5: lyrical fumbling, confusion, unnecessary words, looseness, pronoun incorrectness, unnecessary adjectives, overuse of verbs, repetition, overdramatic, awkwardness, syntax errors, odd phrasing, poor transitions, long-windedness, abrupt endings, redundancy, choppiness, lack of coherence, thing cliche, unclear, misused words, unnatural
+
+Lines with lyrical fumbling (and improvements) in "Text B":
+- "waving ( magic wand ) or ( witch princess )" --> "waving ( magical wand ) or ( royal princess )"
+- "treating ( green wonder potion )" --> "brewing ( glowing mystic potion )"
+- "this ( must work )" --> "this ( surely will work )"
+- "start ( loving me )" --> "give ( me your love )"
+- "eating { bat claws, lizard soup }" --> "sipping { prism elixir, dragon's breath }"
+- "reciting ( spells ) tonight" --> "casting ( incantations ) tonight"
+- "light ( in the crystal ball )" --> "answers ( in the crystal ball )"
+- "torturing my ( body ) in ( vain dreams )" --> "tormenting my ( spirit ) for ( fruitless desires )"
+- "looking through ( Scout's Handbook ) information ( book ) for ( young people )" --> "scouring through ( Wise One's encyclopedia ) for ( knowledge ) of ( the young )"
+- "last ( frog ) for ( look ) of ( one woman )" --> "last ( princes ) for ( glimpse ) of ( the other

@@ -1,0 +1,400 @@
+Nimi: Rakkauden Aika
+Esittäjä: Poko
+Tekijät: säv/san/sov Seppo Pakonen
+
+Säe 1:
+.Kuuntele .mua nyt, _ ja oo .hiljaa
+.olin vääräs _ ja .oli turha .kiista
+.oon masen.tunu kun oon .saman katon .alla
+.pliis paran.na se ja myös .häivy pois sa.malla
+_ .Sanoisin tän .rakastava_sti, mutta
+.sä et kuunte.le, ku muutuit _ nii hanka.laksi
+_ Mene.tin luotta.muksen suhun .kulta
+_ rakas, _ sä veit .värit pois .multa
+.Juorusit .pahaa, pilkkasit mua mun .kuullen
+.otit meidän .rahat ja myit .pois mun omai.suuden
+_Nuku .rauhassa _ ja pysy .lepäämäs
+.tekis mieli .tehdä .levostasi .pysyvä
+_ mutta .silti mä .haluun sua hy.väillä
+.nukkuu lusi.kassa niinku .ekana yönä .yhessä
+_Per.kele mitä .roskaa .>>elämä sun kaa
+.onkaan mut .seksi makeut.taa sen nii en .huomaa
+
+Kertosäe:
+_Vaimo hei, rak.kaudesta meidän koti .tehtiin
+_Vaimo hei, ei .lämpö pysy yllä ilman .liekkii
+_Vaimo hei, me .tehtiin .tän eteen .kaikki
+_Mee, hei hei, silti .susta pysyn .eros ikui.sesti
+
+Säe 2:
+.Mies hei, .tule tänne, .sua vähän .rankasen
+.otan kiinni .palleistas .kynsillä .puristaen
+_Mä tiiän .et sä särit .meidät tarkoi.tuksella
+.särit mun .sydämen ja .mut sen .mukana
+_Miks sä .muutuit? .Mihin katos .rakkaus?
+.Leveilet .vaikka palkkas .on kela.korvaus.
+.Sori kyl sä .riitit, ja .toivoin sun .palaavan
+.mut sä pysyit .pois ja löysin .toisen pitkään .halaamaan
+_olin .viekas ja _ sä et .huomannut
+.et sun kave.risi oli .kauan mua .kuolannut
+.palkitsin .itseni _ aurinko.lomalla ja
+.maksoin yhteis.tililtä ku .ryyppäsit vain .sohvalla
+_Sä oot .ainut syy.pää ja se jo .ymmärrä
+.olin sun .vaimo ja .olit musta .ylpeä
+.kuitenkin .olit kusi.pää, petit .menemään, ja
+.en enää .ala sie.tään sua .enempää
+
+Säe 3:
+.Meidän riita .johtaa aina _ riitoihin .pahempiin
+.mä oon perheen .puolesta mut .sä taas lähit .bileisiin
+_ ai mä oon .leija, _ei osu .herjas ku
+.sähän olit .meistä se .joka muihin .vertas
+_ An.teeks, _ mä .tein kyllä .virheitä
+.mut mä silti .tunsin samoin .kun sä aloit .ilkeillä
+_ Hei, mun .muna on ol.lut vain lähi.ruokaa ku
+.sun tako.jakelu on .koko suomen .luokkaa
+_ Pahin .virhe oli .ylläpitää .toivoa,
+.on off .toistoa, .on nyt off ja .pornoa
+.Saatampa .hukuttaa .suruni .kaljaan
+_ ja ottaa .hetkeksi .unohdusta .akkaan
+_ Tahoit .pois ja sit .tahoit sänkyyn .takasin
+.yhteen suuntaan .ovi käy _ mun uusin .avaimin
+.Yksin kylmää .on, harmaa .jälki on e.ron, varmaan
+.yksinään mä .silti saan .olon hel.pon
+
+
+
+
+
+
+Title: Time of Love
+
+Verse 1 (by husband):
+My wife was feeling my vibe, my mistakes
+being supplemented by me feeling depressed
+of me and her being together without future plans
+asking nicely for her to be out of the house with cash
+we were losing love and sex
+Me and my wife talking secrets and lies about me and my wife behind me to my face
+spending my money, using my cars
+My wife asked me to leave the house, close my mouth at the same time while kissing me with the same feeling as our first night
+I'm trying to keep control of my life, looking at our old photos together
+
+
+Chorus:
+Hey wife, we made a home out of our love
+Hey wife, warmth won't last without a flame
+Hey wife, even though we did everything for this
+Bye wife, now, I'd rather stay away forever.
+
+
+Verse 2 (by wife):
+I always knew that you destroyed our marriage on purpose, 
+you ruined my future and my health at the same time. 
+I don't know why you changed, started being distant and cold, 
+you became unreasonable, arrogant, and gained so much weight.
+
+I am sorry that I am nasty, 
+I was hiding that I still wanted your love back, 
+when you were travelling for work I invited your friends over to fuck, and I hugged you when you came back, 
+you were't jealous so I took your money for a reward. 
+
+I can't take it anymore when I'm seeing you just being lazy and drinking beer on the couch, 
+I guess it's all my fault because I started loving you in the beginning, 
+you used to love me, I was what you wanted, but you cheated me all over the city anyway, 
+I'm crying out for you to come back.
+
+
+Verse 3 (by husband):
+I guess this argument escalates quickly to other arguments
+I'm a family man but my wife is having hot girl summer forever
+That's fat my wife daring to provoke and I'm not looking like I lived 100 years already
+It's nasty when I'm not getting empathy
+My feelings are still the same but my wife stopped appreciating it
+I'm distributing my dick on exceptions only and my wife advertise her number like a call girl
+I was wrong to love my wife her heart was warm actually cold to me like a ice cube
+Maybe I will stay bitter and see my wife as a whore,
+stay grumpy drinking beer and smoking because the breakup will be difficult
+My wife cried first but now she wants to make love again
+The bed is cold without my wife, weekend is boring without her
+But still I'm feeling like my future will be just fine without her.
+
+
+
+Verse 1:
+my wife {
+	feeling {
+		my ( vibe )
+		my ( mistakes ) {
+			being {
+				supplemented {
+					by ( me feeling depressed )
+				}
+			}
+		}
+	}
+	of ( me and my wife ) {
+		being together {
+			without ( future plans )
+		}
+	}
+	asking ( nicely ) {
+		for ( my wife to be out of my house ) {
+			with ( cash )
+		}
+	}
+	us ( me and my wife ) {
+		losing ( love and sex )
+	}
+}
+me and my wife {
+	of ( me and my wife ) {
+		talking ( secrets and lies about me and my wife ) {
+			behind ( me )
+			to ( my face )
+		}
+		spending ( my money )
+		using ( my cars )
+	}
+	asking {
+		my wife {
+			leaving ( my house )
+			closing ( mouth ) {
+				at ( same time )
+			}
+			kissing ( me ) {
+				with ( same feeling ) {
+					as ( our first night )
+				}
+			}
+		}
+		me {
+			trying {
+				to ( keep control of my life )
+			}
+			looking {
+				at ( our old photos together )
+			}
+		}
+	}
+}
+
+chorus:
+me {
+    speaking {
+        to ( my wife ) {
+            hey wife
+        }
+    }
+    making {
+        home ( out of our love )
+    }
+}
+message {
+	warmth ( not lasting ) {
+	    without flame
+	}
+}
+me and my wife {
+    even though ( we did everything for this )
+}
+conclusion {
+    me {
+        staying away ( from you ) {
+			forever
+		}
+    }
+}
+
+
+verse 2:
+me {
+	always ( knowing ) {
+		that ( my husband ) {
+			destroyed ( our marriage ) {
+				on ( purpose )
+			}
+		}
+	}
+	my husband {
+		ruined {
+			my ( future )
+			my health ( at the same time )
+		}
+	}
+	not knowing {
+		why {
+			my husband ( changed ) {
+				started being distant and cold
+			}
+		}
+	}
+	my husband {
+		being {
+			unreasonable ( arrogant )
+			bad shape ( fat )
+		}
+	}
+	me {
+		uh ( sorry ) {
+			that I'm ( nasty )
+		}
+		hiding {
+			wanting {
+				my husband's love ( back )
+			}
+			I still loved ( my husband )
+		}
+		when ( my husband ) {
+			was ( travelling because of his job ) {
+				invited ( his friends over ) {
+					and fucked them
+				}
+				hugging ( my husband ) {
+					when he came back
+				}
+			}
+		}
+		my husband ( wasn't jealous ) {
+			so I took his money {
+				for reward
+			}
+		}
+	}
+	me {
+		can't take it anymore {
+			when ( seeing ) {
+				my husband {
+					only being lazy
+					drinking beer ( in the couch )
+				}
+			}
+		}
+		guessing {
+			it ( all my fault ) {
+				because I started loving him ( in the beginning )
+			}
+		}
+		my husband {
+			loved ( me ) {
+				I was what he wanted
+			}
+			cheated ( me ) {
+				all ( over the city ) {
+					anyway
+				}
+			}
+		}
+		crying ( out for my husband ) {
+			to come back
+		}
+	}
+}
+
+
+verse 3:
+me {
+	guessing {
+		this ( argument ) {
+			escalates quickly ( to other arguments )
+		}
+	}
+	I'm family man {
+		but my wife ( is having ){
+			hot girl summer ( forever )
+		}
+	}
+}
+me {
+	fat {
+		my wife {
+			daring {
+				to ( provoke )
+			}
+		}
+		me {
+			not looking {
+				like ( lived 100 years already )
+			}
+		}
+	}
+	nasty {
+		when {
+			not getting ( empathy )
+		}
+	}
+	feelings {
+		are still ( same )
+		my wife {
+			stopped ( appreciating it )
+		}
+	}
+}
+me {
+	distributing {
+		mine ( dick ) {
+			on exceptions ( special )
+		}
+		my wife {
+			advertise {
+				her number ( like a call girl )
+			}
+		}
+	}
+	I was wrong ( to ) {
+		love ( my wife )
+	}
+	heart {
+		warm ( actually cold ) {
+			to ( my wife ) {
+				like ( a ice cube )
+			}
+		}
+	}
+}
+me {
+	maybe {
+		will stay ( bitter ) {
+			and see my wife ( as a whore )
+		}
+	}
+	stay grumpy {
+		drinking beer and smoking
+		because {
+			breakup ( will be difficult )
+		}
+	}
+	my wife {
+		cried {
+			first
+			now {
+				my wife wants {
+					to make love again
+				}
+			}
+		}
+	}
+}
+me {
+	bed {
+		being ( cold ) {
+			without ( my wife )
+		}
+	}
+	weekends {
+		being ( boring ) {
+			without ( my wife )
+		}
+	}
+	still {
+		feeling {
+			like {
+				my future will be {
+					just ( fine ) {
+						without ( my wife )
+					}
+				}
+			}
+		}
+	}
+}

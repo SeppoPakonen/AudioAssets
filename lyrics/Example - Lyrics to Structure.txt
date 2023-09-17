@@ -1,0 +1,32 @@
+Original lyrics:
+I didn't want to fight, I don't want to break up
+I never imagined this would end.
+I didn't mean to break you, make us like this
+but no matter how much I love, one of us hurts the other again.
+
+
+Structurally deconstructed lyrics:
+me {
+	not wanting {
+		to fight
+		to break up
+	}
+	never ( imagined ) {
+		this ( end )
+	}
+	not meaning {
+		to break ( my romantic partner )
+		to make ( me and my romantic partner ) {
+			like ( this )
+		}
+	}
+}
+me and my romantic partner {
+	loving {
+		one ( of me and my romantic partner ) {
+			hurting ( other ) {
+				again
+			}
+		}
+	}
+}

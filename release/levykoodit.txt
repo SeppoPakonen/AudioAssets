@@ -1,0 +1,22 @@
+
+				#### ARTISTI ####
+				
+#LEVYKOODI			#ALBUMI
+						#KAPPALE			#ISRC
+
+
+
+				#### Vaikeat Ajat ####
+				
+VAIKEATAJAT001		-
+						Mun Sivu			QZTAS2356692
+VAIKEATAJAT002		PMS07
+						Sydämen Asialla		QZTAW2361512
+						Rakkauden Aika		QZTAW2361513
+
+
+
+				#### Difficult Times ####
+				
+DIFFTIMES001		-
+						My Page				QZTAW2362363
