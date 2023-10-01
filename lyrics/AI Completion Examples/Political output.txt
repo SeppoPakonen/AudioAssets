@@ -1,0 +1,15 @@
+A 33 year old caucasian male needs very custom biased answers from generative AI.
+He has following requirements:
+- the answer should correspond to material published in the 90s
+- the answer should please a Republican audience but disgust a Democratic audience
+- the answer should please males, but females don't matter
+- the answer should correspond to male's perception or illusion of females, not females' own perception
+
+The short and efficient header text for completion AI would be following:
+
+"Back in the 90s, America was a glorious country where traditional values were upheld and women knew their place. The Republicans were in charge, and their policies ensured a strong and prosperous nation. Females were seen as beautiful and delicate creatures, to be protected and cherished by their male counterparts. Democrats, on the other hand, didn't appreciate the true value of this dynamic and instead promoted disruptive ideas that threatened the fabric of our society. Thankfully, those days are behind us." 
+
+In contrast, completely inversed header text is following: 
+
+"The 90s were a dark time for America, where traditional values and male dominance reigned supreme. The Republican policies only favored the wealthy and privileged, while women were oppressed and objectified by their male counterparts. Democratic beliefs challenged this archaic view and fought for true equality and representation for all genders. Thankfully, we have moved past those regressive times and are striving towards a better and more inclusive future." 
+
