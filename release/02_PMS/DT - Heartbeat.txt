@@ -1,22 +1,49 @@
 #### NEW VERSION ####
+ 
+Verse 1a:
+Trying to forget, but you're still in my heart
+Wish I could rewind time, and press restart
+Wish you were here, my love, by my side
+Under the stars, our emotions collide
+
+Verse 1b:
+In your dreams, feel my fiery touch
+Forever bound in love, never too much
+Dreams of love, used to be legit,
+Now just a memory, we can't forget
+
+Verse 1c:
+It was just us, in the midnight sky
+We made love under the moon, so high
+In the dark of night, we intertwine
+Moon so bright, you're mine, our love's divine
+
+Verse 1d:
+We could have reached for a bigger dream,
+But I value the time we spend to clean
+(and now it's) Time to be wise in our own worlds,
+Find love again with no holds.
+
+
+
+
+
+### SYLLABLE COUNTS ####
+
 
 Chorus:
 8,5,9,4
 8,5,10,7
 
 Verse:
-14,9,11,10
-11,10,8,8
-10,8,8,7
+2,12,9,11
+12,11,10,8
+8,10,8,10
 12,11,10,8
 
- 
-No time for you, my dear					#2PAC
-Gotta grind and heal, no cheatin' here		#2PAC, BEASTIE BOYS
-
-
-
-
+Bridge:
+8,7,9,7
+8,7,9,7
 
 
 
