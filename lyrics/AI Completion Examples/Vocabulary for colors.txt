@@ -1,0 +1,211 @@
+Ethereal dialogue:
+- 1. Band members: "Man, it's been a while since we've felt truly alive on stage.
+- 2. City dwellers: "Look at all these people, living their lives. Why can't we find the same inspiration?
+- 3. Fans: "Your music has helped me through so much, thank you.
+- 4. Naysayers: "You'll never make it, you're just a dreamer.
+- 5. Passersby: (Whispers) "Is that the lead singer of that band?
+- 6. The group of motorcyclists: "Come on, man, let's hit the road and leave all this behind.
+- 7. The musician's inner voice: "Is this all there is? I need something more.
+- 8. The mysterious female motorcyclist: "Hop on, let's take a ride and see where it leads us.
+- 9. The protagonist: (to the mysterious female) "You make me feel alive again.
+
+
+Unsettling dialogue:
+- 1. Band members - "I don't know if we can make it big with this sound.
+- 2. City dwellers - "I don't want any more struggling artists flooding this city.
+- 3. Fans - "Your new album just doesn't have the same magic as the old ones.
+- 4. Naysayers - "You'll never make it as a musician, might as well give up now.
+- 5. Passersby - "Who even is that guy? I've never heard of him.
+- 6. The group of motorcyclists - "You think you can handle a ride with us?
+- 7. The musician's inner voice - "You're never going to find your muse, you might as well quit.
+- 8. The mysterious female motorcyclist - "You look lost. Want to find some adventure with me?
+- 9. The protagonist - "I don't know if this is the right path for me anymore.
+
+
+List of rappers, which use heavily internal rhyme schemes:
+- Eminem
+- Kendrick Lamar
+- MF DOOM
+- Big L
+- Aesop Rock
+- Busta Rhymes
+- Earl Sweatshirt
+- Tech N9ne
+- Logic
+- Kool G Rap 
+- Royce da 5'9
+- Rakim
+- Black Thought
+- Canibus
+- Blackalicious
+- Danny Brown
+- Big Pun
+- GZA/Genius
+- R.A. the Rugged Man
+- Jean Grae
+
+
+Imagine colored single narrator for 1-8 lines and 8 values per line. It summarises ethereal and unsettling dialogue. It also rhymes with internal rhyme scheme. No natural language is wanted:
+1.RGB(153,153,255),RGB(255,255,153),RGB(255,204,255),RGB(204,204,204),RGB(102,153,255),RGB(255,102,153),RGB(204,153,255),RGB(153,204,204)
+2.RGB(255,51,51),RGB(255,126,64),RGB(255,255,0),RGB(153,255,204),RGB(153,0,0),RGB(255,255,102),RGB(204,0,204),RGB(102,153,255)
+3.RGB(204,0,204),RGB(255,255,0),RGB(51,51,255),RGB(153,255,204),RGB(204,255,255),RGB(255,0,0),RGB(204,0,204),RGB(255,255,255)
+4.RGB(51,153,255),RGB(255,255,153),RGB(204,204,204),RGB(255,153,153),RGB(255,255,0),RGB(153,255,153),RGB(255,0,102),RGB(255,255,153)
+5.RGB(153,255,204),RGB(255,255,0),RGB(153,0,102),RGB(255,204,0),RGB(51,255,255),RGB(255,255,0),RGB(0,255,204),RGB(255,153,51)
+6.RGB(255,102,102),RGB(153,204,153),RGB(255,255,0),RGB(255,153,102),RGB(153,255,255),RGB(255,255,153),RGB(204,153,153),RGB(255,255,204)
+7.RGB(255,255,153),RGB(255,204,255),RGB(153,255,255),RGB(255,102,153),RGB(153,255,153),RGB(255,255,102),RGB(255,255,0),RGB(204,153,204)
+8.RGB(153,153,153),RGB(255,0,0),RGB(255,255,0),RGB(255,204,204),RGB(0,51,102),RGB(255,255,153),RGB(255,153,204),RGB(255,255,255)
+
+
+Vocabulary for content of the dialogue. It's for what actors could say. Includes basic words. With the metaphorical color RGB integer (r,g,b) code at the end:
+1. Passion - to live fully (255,0,0)
+2. Inspiration - igniting flames (255,153,51)
+3. Admiration - for the person behind the music (255,255,0)
+4. Doubt - trying to extinguish the fire (51,51,255)
+5. Joy - hearing the familiar sound (0,255,0)
+6. Curiosity - about the unknown rider (0,255,255)
+7. Despair - feeling lost (204,0,204)
+8. Revival - a chance at real connection (255,255,255)
+9. Fear - of taking a leap (255,153,0)
+10. Uncertainty - about the future (0,51,102)
+11. Rebellion - against expectations (204,0,0)
+12. Yearning - for something more (0,153,153)
+13. Growth - chasing unknown paths (102,255,102)
+14. Tragedy - leaving behind the familiar (0,0,0)
+15. Freedom - on the open road (0,255,204)
+16. Restlessness - seeking adventure (204,255,0)
+17. Isolation - feeling like an outcast (153,153,153)
+18. Illusion - of fame and success (255,255,153)
+19. Empowerment - finding one's true self (255,255,204)
+20. Nostalgia - for simpler times (153,204,255)
+21. Passion - rekindled by a stranger (255,153,153)
+22. Self-discovery - through unexpected encounters (204,255,204)
+23. Resilience - in the face of skepticism (0,102,153)
+24. Transformation - taking the leap and embracing change (255,102,102)
+25. Identity - defined by the journey (255,153,204)
+26. Purpose - found on the open road (0,255,153)
+27. Rebellion - against the mundane (255,255,51)
+28. Exploration - of the self and the world (153,153,255)
+29. Hope - for a brighter future (255,255,255)
+30. Liberation - from societal expectations (102,153,255)
+31. Reflection - on past choices (255,204,102)
+32. Creativity - sparked by new experiences (204,153,0)
+33. Empathy - for different perspectives (102,255,102)
+34. Independence - in the face of doubt (153,204,153)
+35. Camaraderie - among fellow wanderers (102,255,255)
+36. Escape - from the pressures of everyday life (255,102,255)
+37. Authenticity - in the pursuit of passion (255,153,51)
+38. Redemption - through the power of music (204,204,255)
+39. Gratitude - for unexpected opportunities (255,204,255)
+40. Unity - through shared experiences (153,204,153)
+41. Transformation - of fears into courage (0,102,102)
+42. Whimsy - in the freedom of the open road (153,255,255)
+43. Persistence - in the face of adversity (255,153,51)
+44. Vulnerability - sharing one's true self (255,153,204)
+45. Reflection - on life's journey (255,255,204)
+46. Inspiration - from unlikely sources (255,204,102)
+47. Determination - in the pursuit of dreams (255,204,153)
+48. Authenticity - in self-expression (255,255,153)
+49. Liberation - from societal constraints (204,102,255)
+50. Resilience - in the face of hardship (255,153,102)
+51. Adventure - on the open road (51,153,255)
+52. Confidence - found through courage (204,153,255)
+53. Empowerment - to break free (153,102,255)
+54. Growth - through stepping out of comfort zones (255,204,204)
+55. Individuality - celebrated on the road (255,102,153)
+56. Compassion - for fellow wanderers (204,255,255)
+57. Risk - in the pursuit of passion (255,153,255)
+58. Daring - to defy expectations (255,153,0)
+59. Legacy - through the power of music (204,255,153)
+60. Gratitude - for the journey (255,204,204).
+61. Adventure - on the open road (153,255,255)
+62. Endurance - in the face of challenges (204,102,255)
+63. Wonder - at the possibilities ahead (204,153,255)
+64. Openness - to new experiences (204,153,51)
+65. Evolution - of self through the road less traveled (153,204,255)
+66. Harmony - with the world and oneself (153,204,255)
+67. Determination - to keep going despite setbacks (204,204,255)
+68. Vision - seeing potential and chasing it (255,255,153)
+69. Fortitude - in the pursuit of dreams (153,255,255)
+70. Empowerment - through breaking free (153,153,204)
+71. Inspiration - from unlikely sources (255,204,51)
+72. Growth - through stepping off the beaten path (153,204,102)
+73. Freedom - on the open road (255,153,51)
+74. Facilitation - of chance and opportunity (153,153,204)
+75. Transformation - of fears into courage (204,204,255)
+76. Unconventionality - in the pursuit of passion (255,204,102)
+77. Reflection - on life's journey (204,153,255)
+78. Fortitude - through facing fears (255,204,204)
+79. Gratitude - for the journey (204,153,255)
+80. Freedom - through self-expression (204,153,102)
+81. Liberation - from societal expectations (255,204,153)
+82. Exploration - of the self and the world (153,204,255)
+83. Authenticity - in the pursuit of passion (255,204,51)
+84. Persistence - in the face of challenges (204,204,102)
+85. Creativity - fueled by new experiences (153,204,153)
+86. Unity - among fellow wanderers (153,153,255)
+87. Transformation - of fears into confidence (204,204,255)
+88. Wonder - at the possibilities that lay ahead (255,255,204)
+89. Independence - in the face of conformity (204,153,102)
+90. Passion - reignited by the open road (204,204,204)
+91. Resilience - in the face of adversity (204,204,102)
+92. Whimsy - in the freedom of the open road (153,255,204)
+93. Risk - in the pursuit of dreams (204,153,204)
+94. Individuality - celebrated on the open road (204,204,102)
+95. Harmony - with the world and oneself (255,153,102)
+96. Adventure - found in the unknown (204,204,153)
+97. Empowerment - through breaking free (204,204,204)
+98. Resilience - in the face of unknown challenges (255,204,204)
+99. Openness - to new experiences (255,204,255)
+100. Evolution - of self on the path less traveled (255,204,153).
+101. Determination - to keep moving forward (204,153,255).
+102. Endurance - in the face of obstacles (204,153,204).
+103. Growth - through embracing the unknown (255,204,255).
+104. Gratitude - for the journey (255,204,102).
+105. Empowerment - to break free (153,153,255).
+106. Wonder - at the endless possibilities ahead (153,204,102).
+107. Vision - seeing potential and chasing it (255,153,102).
+108. Absolution - in the pursuit of passion (153,153,255).
+109. Fulfillment - from following one's passion (255,204,102).
+110. Ambition - driving forward towards success (204,204,255).
+111. Strength - in the face of doubt (204,204,204).
+112. Liberation - from societal expectations (255,204,153).
+112. Exploration - of the self and the world (153,204,255).
+113. Courage - to take a leap into the unknown (255,204,255).
+114. Harmony - with the world and oneself (204,204,204).
+115. Empathy - for different perspectives (204,204,255).
+116. Reflection - on life's journey (255,204,153).
+117. Fortitude - in the face of challenges (255,204,51).
+118. Liberty - in the pursuit of dreams (204,153,255).
+119. Freedom - through self-expression (204,204,102).
+120. Liberation - from societal constraints (255,204,204).
+121. Openness - to taking chances (255,204,204).
+122. Authenticity - in the pursuit of passion (255,204,153).
+123. Courage - to chase dreams and break free (255,153,102).
+124. Yearning - for something more (255,204,255).
+125. Empowerment - through embracing individuality (255,204,255).
+126. Fulfillment - in the pursuit of passion (255,204,51).
+127. Tenacity - in the face of adversity (204,204,153).
+128. Opulence - in taking the road less traveled (204,204,51).
+129. Unity - among fellow wanderers (204,204,204).
+130. Risque - in the pursuit of passion (255,204,102).
+131. Harmony - with the world and oneself (153,204,255).
+132. Regeneration - in the face of struggles (255,204,51).
+133. Authenticity - in self-expression (204,204,102).
+134. Introspection - on life's journey (153,153,204).
+135. Reverie - on the open road (255,204,51).
+136. Liberation - from societal constraints (255,204,255).
+137. Reflection - on past choices (204,153,51).
+138. Authenticity - in the pursuit of passion (255,204,51).
+139. Fortitude - through facing fears (255,204,153).
+140. Gratitude - for the journey (255,204,102).
+141. Inspiration - from unlikely sources (204,204,51).
+142. Freedom - from societal expectations (255,153,255).
+143. Liberty - in the pursuit of dreams (255,204,255).
+144. Evolution - of self through the unknown (204,204,255).
+145. Revelation - on life's journey (255,204,255).
+146. Resilience - in the face of unknown challenges (204,204,153).
+147. Impact - of chasing one's passion (255,204,153).
+148. Authenticity - in self-expression (255,204,153).
+149. Whimsical - in the freedom of the open road (255,204,255).
+150. Voyage - on the road less traveled (204,204,204).
+151. Fortitude - in the face of adversity (255,204,153).

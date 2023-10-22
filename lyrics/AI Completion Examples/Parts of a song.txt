@@ -1,0 +1,43 @@
+Names of the parts of a song:
+- V1: verse 1
+- I: intro
+- PC1: prechorus 1
+- C1: chorus 1
+- B: bridge
+- O: outro
+- IN: instrumental
+
+Structured string of parts of a generic song is "I, V1, PC 1, C1, V2, PC2, C1, C2, IN, B, C1, C2, O".
+
+Only required parts are:
+- V1
+- V2
+- C1
+- at least 8 parts in total
+
+Avoid parts:
+- I
+
+List of structured strings of good song structures (using abbreviations):
+- "V1, C1, V2, C1, PC1, C2, B, C1, C2, IN, O"
+- "I, V1, PC1, C1, V2, PC2, C1, C2, B, C2, O"
+- "V1, PC1, C1, V2, PC2, C1, C2, B, C2, C3, O"
+- "V1, C1, V2, C1, IN, B, C1, C2, V3, C2, O"
+- "I, V1, C1, V2, PC1, C2, B, C1, C2, V3, C2, IN, C3, O"
+
+
+Attributes of the song structure "V1, PC 1, C1, V2, PC2, C1, C2, IN, B, C1, C2, O":
+- get straight to the point
+- has room for chorus development
+- has room for medium size story arc
+- has variation between two chorus
+
+Attributes of the song structure "I, V1, C1, V2, PC1, C2, B, C1, C2, V3, C2, IN, C3, O":
+- has a strong intro that catches the listener's attention
+- includes a bridge which adds variety to the song
+- allows for multiple verse-chorus-bridge repetitions, making it suitable for a longer song
+- has a distinct build up to the final chorus in the outro
+
+
+
+Novel name for the song structure "V1, PC 1, C1, V2, PC2, C1, C2, IN, B, C1, C2, O": "The Build-Up Beat"

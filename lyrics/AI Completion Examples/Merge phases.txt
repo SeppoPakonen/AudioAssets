@@ -1,0 +1,58 @@
+Split story of "verse 1" to 8 internal phases:
+1. Introduction of the male protagonist and the atmosphere of societal norms and expectations.
+2. The protagonist's inner turmoil and longing for something different.
+3. Encounter with the female protagonist and the immediate pull towards her.
+4. Shared attraction and chemistry between the two characters.
+5. Breaking away from societal expectations and facing opposition and doubt.
+6. Determination to pursue true love, represented by the rebellious spirit in the music.
+7. Celebration of their physical activities as a symbol of their love that defies societal norms.
+8. Constant battle against time and norms, but choosing to live in the present and make the most of their time together. 
+
+Split story of "prechorus 1" to 8 internal phases:
+1. As the pre-chorus begins, the music intensifies and the vocals become more urgent, reflecting the characters' emotions bubbling to the surface.
+2. The lyrics describe the exhilaration and adrenaline rush the characters feel as they engage in physical activities together, emphasizing the passion and excitement in their relationship.
+3. The main character's vulnerability begins to show as they realize the depth of their emotions for their partner, adding a layer of emotional depth to the previously lighthearted tone.
+4. This vulnerability is a stark contrast to the societal expectations and pressures placed upon the character, causing doubt and criticism from those around them.
+5. Despite the opposition, the main character remains determined and driven to break away from societal norms and find true love, showcasing their rebellious spirit.
+6. The drums in the background symbolize this determination, with a powerful and steady beat that reflects the character's unwavering resolve.
+7. Meanwhile, the guitar adds a rebellious edge, representing the character's defiance against societal expectations.
+8. The pre-chorus ultimately serves as a buildup to the explosive energy of the chorus, showcasing the conflicting emotions and determination of the main character.
+
+
+Split story of "chorus 1" to 8 internal phases:
+1. The music becomes faster and more intense, reflecting the intensity of the physical activities the characters engage in together.
+2. We see glimpses of the protagonist's intense love for his partner, portrayed as a fierce warrior fighting for their love.
+3. The chorus repeats, emphasizing their defiant love and how they are willing to go against societal norms to be together.
+4. As they engage in physical activities together, their love is showcased as highly physical and passionate.
+5. The chorus evokes a feeling of joy and freedom as the couple breaks away from societal expectations to follow their hearts.
+6. The final chorus symbolizes their victory over societal norms, as they choose to forge their own path and embrace their love.
+7. Riding into the sunset on his motorcycle, the couple is portrayed as rebellious and passionate lovers, unafraid to defy expectations.
+8. In the final chorus, the protagonist's desire for a deeper connection and meaning in his life is highlighted, and he fights to hold onto this feeling forever with his partner by his side. 
+
+
+
+Merge "verse 1", "prechorus 1", "chorus 1" to 24 phases, which represents about first 30% of the song:
+1. The male protagonist is introduced, living a life dictated by societal expectations.
+2. He longs for something more, something different.
+3. Then, he meets the female protagonist and feels an immediate pull towards her.
+4. There is a shared attraction and chemistry between them.
+5. Despite societal expectations, they defy the rules and choose to follow their hearts.
+6. In their determination to pursue true love, the rebellious spirit in the music is evident.
+7. The couple engages in physical activities together, defying societal norms and celebrating their love.
+8. As their love grows stronger, so does their defiance against societal expectations.
+9. The pre-chorus begins, intensifying the music and reflecting the characters' bubbling emotions.
+10. There's a sense of exhilaration and adrenaline while engaging in physical activities together.
+11. The main character's vulnerability begins to show as they realize the depth of their feelings for their partner.
+12. This vulnerability is in stark contrast to society's expectations and brings criticism and doubt.
+13. Despite this, the couple remains determined, driven to break away from societal norms.
+14. The drums symbolize this determination with their powerful and steady beat.
+15. The guitar adds a rebellious edge, representing the characters' defiance against societal expectations.
+16. The chorus begins, with faster and more intense music reflecting the physical activities.
+17. As the main character fights for their love, they are portrayed as a fierce warrior.
+18. The chorus repeats, highlighting their defiant love and willingness to go against societal norms.
+19. The physical aspect of their love is showcased, passionate and intense.
+20. The chorus evokes joy and freedom as the couple breaks away from societal expectations.
+21. Their victory over societal norms is symbolized as they choose to forge their own path and embrace their love.
+22. Riding into the sunset on his motorcycle, the couple is portrayed as rebellious and passionate lovers.
+23. In the final chorus, the main character's desire for a deeper connection and meaning is evident.
+24. He fights to hold onto this feeling forever with his partner by his side.

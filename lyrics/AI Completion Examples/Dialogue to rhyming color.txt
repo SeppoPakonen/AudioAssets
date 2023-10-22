@@ -1,0 +1,60 @@
+Example of colored single narrator for 1-4 lines and 8 values per line. Every line contains multiple colors in (red,green,blue) values:
+1. RGB(255,0,0),RGB(255,255,0),RGB(0,0,255),RGB(128,56,95),RGB(32,254,199),RGB(45,128,0),RGB(255,128,0),RGB(0,196,128)
+2. RGB(134,54,213),RGB(42,0,155),RGB(200,4,192),RGB(156,56,93),RGB(0,0,54),RGB(0,128,45),RGB(0,255,124),RGB(128,128,255)
+3. RGB(56,242,45),RGB(1,45,200),RGB(56,100,59),RGB(255,45,0),RGB(10,255,65),RGB(255,128,96),RGB(10,20,30),RGB(56,150,200)
+4. RGB(101,202,255),RGB(0,100,0),RGB(105,56,199),RGB(128,128,128),RGB(128,0,128),RGB(128,56,100),RGB(255,255,255),RGB(255,128,128)
+
+Positive dialogue:
+1. City dweller: "Wow, check out that guy on the motorcycle. Looks like he's having the time of his life.
+2. Group of motorcyclists: "Hey, join us on our ride. We can show you a whole new level of freedom.
+3. Moon and stars: "Look at these two, riding through the night with such passion and energy.
+4. Other motorcyclists: "Nice ride you've got there. Mind if we join you for a bit?
+5. Other travelers: "Wish we were on a motorcycle, feeling the wind in our hair instead of stuck in this traffic.
+6. The lover: "This is amazing, riding together under the stars. I feel so alive with you by my side.
+7. The man: "Our bodies moving to the rhythm of the motorcycle, it's like we're one with the road.
+8. The vocalist: "This is freedom, this is living in the moment.
+9. Woman on the back of a motorcycle: "Our eyes met and I just knew, we were meant to cross paths on this ride.
+
+Negative dialogue:
+1. City dwellers - "Watch where you're going, man!
+2. Group of motorcyclists - "Hey, mind if we join you on this ride?
+3. Moon and stars - "You think you're free, but you're just a pawn in the universe's game.
+4. Other motorcyclists - "Love riding at night, it's when the shadows come alive.
+5. Other travelers - "You folks come here often? Never seen you around before.
+6. The lover - "I feel so alive when I'm riding with you.
+7. The man - "Our souls are intertwined, can't you feel it?
+8. The vocalist - "I'll leave this town behind and never look back.
+9. Woman on the back of a motorcycle - "You're a dangerous one, aren't you?
+
+
+List of rappers, which use heavily internal rhyme schemes:
+- Eminem
+- Kendrick Lamar
+- MF DOOM
+- Big L
+- Aesop Rock
+- Busta Rhymes
+- Earl Sweatshirt
+- Tech N9ne
+- Logic
+- Kool G Rap 
+- Royce da 5'9
+- Rakim
+- Black Thought
+- Canibus
+- Blackalicious
+- Danny Brown
+- Big Pun
+- GZA/Genius
+- R.A. the Rugged Man
+- Jean Grae
+
+Imagine colored single narrator for 1-8 lines and 8 values per line. It summarised positive and negative dialogue. It also rhymes with internal rhyme scheme. No natural language is wanted:
+1. RGB(255,0,255),RGB(0,255,255),RGB(255,255,0),RGB(128,56,150),RGB(32,254,199),RGB(45,128,0),RGB(255,128,0),RGB(0,196,128)
+2. RGB(134,54,213),RGB(42,0,155),RGB(200,4,192),RGB(156,56,93),RGB(0,0,54),RGB(0,128,45),RGB(0,255,124),RGB(128,128,255)
+3. RGB(56,242,45),RGB(1,45,200),RGB(56,100,59),RGB(255,45,0),RGB(10,255,65),RGB(255,128,96),RGB(10,20,30),RGB(56,150,200)
+4. RGB(101,202,255),RGB(0,100,0),RGB(105,56,199),RGB(128,128,128),RGB(128,0,128),RGB(128,56,100),RGB(255,255,255),RGB(255,128,128)
+5. RGB(192,0,255),RGB(255,128,0),RGB(128,128,255),RGB(0,255,128),RGB(255,0,0),RGB(255,255,255),RGB(0,128,128),RGB(128,0,0)
+6. RGB(255,196,106),RGB(0,255,102),RGB(153,153,255),RGB(255,192,203),RGB(102,255,51),RGB(255,128,128),RGB(255,255,0),RGB(204,255,204)
+7. RGB(51,204,102),RGB(255,153,153),RGB(255,51,153),RGB(255,255,255),RGB(0,255,255),RGB(153,102,255),RGB(0,204,255),RGB(255,0,255)
+8. RGB(255,153,51),RGB(204,204,255),RGB(255,0,204),RGB(255,255,51),RGB(204,255,255),RGB(204,255,204),RGB(255,255,204),RGB(255,255,255)

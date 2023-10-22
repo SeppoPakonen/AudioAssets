@@ -31,7 +31,7 @@ No more than 1 line!
 That is also only 1 stanza!
 No 2 or 4 lines of rhymes is requsted!
 
-Continue lyrics "A" with the last line 'And the male we ain't got to kill to be kings' with 1 line and 5 syllables in style of artists:
+Continue internally rhyming lyrics "A" with the last line 'And the male we ain't got to kill to be kings' with 1 line and 5 syllables in style of artists:
 - Rakim: Wise to rise again
 - Eminem: Time to reign again
 - Ice Cube: The power remains within

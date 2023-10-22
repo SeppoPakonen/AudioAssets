@@ -1,0 +1,42 @@
+Listener types:
+- man
+- woman
+
+Feelings of listener types in the beginning. Represented in RGB color values:
+- man: RGB(13,123,255)
+- woman: RGB(255,0,128)
+
+8 lines of 8 color values. Values represents poetic parts of rhyming text lines. The colors reflects induced feelings:
+1. RGB(255,0,255),RGB(0,255,255),RGB(255,255,0),RGB(128,56,150),RGB(32,254,199),RGB(45,128,0),RGB(255,128,0),RGB(0,196,128)
+2. RGB(134,54,213),RGB(42,0,155),RGB(200,4,192),RGB(156,56,93),RGB(0,0,54),RGB(0,128,45),RGB(0,255,124),RGB(128,128,255)
+3. RGB(56,242,45),RGB(1,45,200),RGB(56,100,59),RGB(255,45,0),RGB(10,255,65),RGB(255,128,96),RGB(10,20,30),RGB(56,150,200)
+4. RGB(101,202,255),RGB(0,100,0),RGB(105,56,199),RGB(128,128,128),RGB(128,0,128),RGB(128,56,100),RGB(255,255,255),RGB(255,128,128)
+5. RGB(192,0,255),RGB(255,128,0),RGB(128,128,255),RGB(0,255,128),RGB(255,0,0),RGB(255,255,255),RGB(0,128,128),RGB(128,0,0)
+6. RGB(255,196,106),RGB(0,255,102),RGB(153,153,255),RGB(255,192,203),RGB(102,255,51),RGB(255,128,128),RGB(255,255,0),RGB(204,255,204)
+7. RGB(51,204,102),RGB(255,153,153),RGB(255,51,153),RGB(255,255,255),RGB(0,255,255),RGB(153,102,255),RGB(0,204,255),RGB(255,0,255)
+8. RGB(255,153,51),RGB(204,204,255),RGB(255,0,204),RGB(255,255,51),RGB(204,255,255),RGB(204,255,204),RGB(255,255,204),RGB(255,255,255)
+
+Summarize feeling for listener types for the end of every line. The feeling can be anything between from the most negative to the most positive. The feeling of listener is represented in RGB color value only:
+Line 1. a) Man: RGB(255,128,0)
+Line 1. b) Woman: RGB(0,196,128)
+
+Line 2. a) Man: RGB(0,0,54)
+Line 2. b) Woman: RGB(0,128,45)
+
+Line 3. a) Man: RGB(255,45,0)
+Line 3. b) Woman: RGB(56,150,200)
+
+Line 4. a) Man: RGB(128,128,128)
+Line 4. b) Woman: RGB(255,255,255)
+
+Line 5. a) Man: RGB(255,0,0)
+Line 5. b) Woman: RGB(0,128,128)
+
+Line 6. a) Man: RGB(255,128,128)
+Line 6. b) Woman: RGB(204,255,204)
+
+Line 7. a) Man: RGB(255,255,255)
+Line 7. b) Woman: RGB(153,102,255)
+
+Line 8. a) Man: RGB(255,255,255)
+Line 8. b) Woman: RGB(204,255,204)
