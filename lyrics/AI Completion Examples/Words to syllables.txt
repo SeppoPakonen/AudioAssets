@@ -1,0 +1,9 @@
+Wordlist:
+1. hello
+2. world
+3. journey
+
+Split wordlist to syllables:
+1. hello: hel-lo
+2. world: world
+3. journey: jour-ney
