@@ -1,0 +1,20 @@
+Finnish lyrics:
+Mä en tullu tänäänkää jumittaa takanurkkaan, mut tytöille tarjol vaa kovaa stagaa ja purkkaa
+Ei turhan tarkkaa mistä sängystä herää, mä en diskriminoi, vaa reguloin joka sävystä perää
+Silti kannan vastuuni, ja jos ei oo vaimo matskuu nii, mä laitan kaks kumii
+Kaiken näköstä puluu on vastaan tullu, ja se on hullun puhet ettei järvi muka kulu
+Mitä useempi soutaja, sitä lujempaa mennää. Plus et kukaa ei sukella enää järveen jos on levää
+Jos settis loistaa pimeessä ku pyllistät. En haluu syyllistää, mut ois parempi käydä syynissä
+Me ollaan poikien kaa etitty kissoi koirien kaa, ja välil tuntuu ettei toivoakaan
+Se on kyl nyt varmaa, et en koskekaan suhun jos oot ku Suomen kesä: Kylmä, lyhyt ja harmaa
+
+List of all rhyme pairs/triplets/quads/etc. in lyrics. With score from 1-10 for quality:
+- takanurkkaan - purkkaa: 8 (assonance)
+- herää - perää: 6 (near rhyme)
+- vaimo matskuu - kaks kumii: 8 (assonance)
+- puluu - kulu: 7 (near rhyme)
+- soutaja - mennää: 5 (near rhyme)
+- levää - syynissä: 4 (near rhyme)
+- syynissä - toivoakaan: 6 (near rhyme)
+- kissoi koirien kaa - toivoakaan: 7 (assonance)
+- varmaa - harmaa: 7 (consonance)
