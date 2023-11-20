@@ -1,0 +1,71 @@
+List of words:
+- I
+- we
+- innocent
+- structure
+- everyone
+- of
+- us
+- loves
+- her
+- they
+- need
+- to
+- be
+- silenced
+- you
+- need
+- help
+- and
+- we
+- can
+- contribute
+
+Words with their metaphorical RGB color:
+- I: RGB(255, 153, 0)
+- we: RGB(153, 255, 153)
+- innocent: RGB(255, 255, 153)
+- structure: RGB(153, 204, 255) 
+- everyone: RGB(255, 204, 255)
+- of: RGB(51, 51, 51)
+- us: RGB(204, 204, 255)
+- loves: RGB(255, 0, 153)
+- her: RGB(255, 204, 0)
+- they: RGB(0, 153, 255)
+- need: RGB(255, 0, 0)
+- to: RGB(255, 204, 153)
+- be: RGB(0, 0, 0)
+- silenced: RGB(204, 0, 102)
+- you: RGB(255, 0, 255)
+- help: RGB(51, 255, 51)
+- and: RGB(255, 255, 255)
+- we: RGB(153, 255, 153)
+- can: RGB(153, 153, 255)
+- contribute: RGB(102, 255, 255) 
+
+List of sentences:
+- I am
+- everyone of us loves her
+- they need to be silenced
+- you need help and we can contribute
+
+List of sentences with their metaphorical RGB color:
+- "everyone of us loves her": RGB(153, 255, 153)
+- "they need to be silenced": RGB(153, 0, 0)
+- "you need help and we can contribute": RGB(255, 153, 204)
+
+Sentence "A" is "everyone of us loves her" and uses following words:
+- a: everyone: RGB(255, 204, 255), pronoun
+- b: of: RGB(51, 51, 51), adverb
+- c: us: RGB(204, 204, 255), pronoun
+- d: loves: RGB(255, 0, 153), verb
+- e: her: RGB(255, 204, 0), pronoun
+
+Mathematical function of metaphorical color of the sentence weights nouns, verbs, adjectives, pronouns, etc. in complicated way:
+- nouns: (1.5 x RGB value of the first letter) + (1.75 x RGB value of the second letter) + (1.25 x RGB value of the third letter)
+- verbs: (1.75 x RGB value of the first letter) + (0.75 x RGB value of the second letter) + (1.5 x RGB value of the third letter)
+- adjectives: (0.5 x RGB value of the first letter) + (0.75 x RGB value of the second letter) + (1.25 x RGB value of the third letter)
+- pronouns: (1 x RGB value of the first letter) + (1.25 x RGB value of the second letter) + (0.5 x RGB value of the third letter)
+- adverbs: (1 x RGB value of the first letter) + (0.5 x RGB value of the second letter) + (0.75 x RGB value of the third letter)
+
+This is just a hypothetical function and can differ depending on the interpretation of metaphorical colors. It can also be more complex or simpler, depending on the intended level of specificity.

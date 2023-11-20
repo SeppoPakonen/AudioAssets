@@ -1,0 +1,31 @@
+Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+Phrases:
+- "You can't see it"
+- "Got a shock from my feet"
+- "Praying for the skies to clear"
+- "but I swear it's there"
+- "hitting right up in the brain"
+- "Went to buy a range"
+- "I'll find my own path to faith"
+
+Template phrases,with the 1-6 most changeable words replaced with the word class,and with original wordsets an 5 example wordsets:
+- "You can't {verb} it"[see][understand][ignore][hide][deny]
+- "Got a {noun} from my {noun}"[shock,feet][present,hands][smack,face][shock,feet][kiss,lips][jolt,body]
+- "{verb} for the {noun} to {verb}"[praying,skies,clear][hoping,miracle,appear][wishing,clouds,dissipate][waiting,sky,open][begging,storm,pass]
+- "{conjunction} I {verb} it's {pronoun/noun}"[but,swear,there] [yet,think,real][however,believe,enough][though,say,true][although,promise,real][despite,feel,false]
+- "hitting {adverb} {preposition} in the {noun}"[right,up,brain][directly,into,mind][hard,against,skull][deep,within,soul][precisely,over,memory]
+- "Went to {verb} a {noun}"[buy,range][purchase,car][shop,shirt][trade,coins][fetch,hammer]
+- "I'll {verb} my own {noun} to {noun}"[find,path,faith][create,way,holiness][discover,road,truth][forge,direction,spirituality][pave,journey,devotion]

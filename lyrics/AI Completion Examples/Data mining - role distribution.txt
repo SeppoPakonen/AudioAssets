@@ -83,3 +83,123 @@ Less negative stereotype suggestions of distribution of person roles in content 
 - love and commitment: 50%, enduring through tough times: 30%, mutual growth and understanding: 20%
 - hope and reconciliation: 50%, communication and working on issues together: 30%, taking steps towards healing: 20%
 - vulnerability and honesty: 40%, expressing emotions and showing vulnerability: 40%, building trust and intimacy: 20%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of attribute groups and their opposite polarised attribute values:
+1. Faith and reason seekers: divine worshipers / rational thinker
+2. Group faith: individual spirituality / organized religion
+3. Belief spectrum: believer / non-believer
+4. Old and new believers: new age spirituality / traditional religion
+5. Belief communities: secular society / religious community
+6. Theological opposites: theistic / atheistic
+7. Seekers of truth: spiritual seeker / skeptic
+8. Intuitive thinkers: rationalist / mystic practitioner
+9. Rational believers: religious / scientific
+10. Physical Preference: body enhancing beauty / natural beauty
+11. Sexual Orientation: heterosexual / homosexual
+12. Sexual Preference: normal / kinky
+13. Faith extremes: agnostic / religious fundamentalist
+14. Average expectations: expectation-conformed / expectation-opposed
+15. Imagery: trope-reinforcing / unique
+16. Expression: explicit / allegorical
+17. Relationship: romantic couple / without romantic partner
+18. Relationship focus: partner-focused / individual-focused
+19. Human strength: strong / weak
+20. Gender: female / male
+21. Rationality: unreasonable / reasonable
+22. Integrity: twisted / honest
+23. Sexualization: sexual / non-sexual
+24. Expectations: perfection / acceptance
+25. Problem solving strategy: shortcut taking / cunning
+26. Responsibility: irresponsible / accountable
+27. Social: authoritarian / libertarian
+28. Economic: liberal / conservative
+29. Culture: individualistic / collective
+30. Group experience: group-oriented / individual-oriented
+31. Motivation: rewarding / punishing
+32. Love status: loving now / heartbreak
+33. Situation relation: prescriptive / descriptive
+34. Competitiveness: competition / collaboration
+35. Relation to others: comparison / self-acceptance
+36. Intelligence: emotional / intellectual
+37. Sophistication: sophisticated / simple
+38. Transparency: transparent / mysterious
+39. Storymode: storytelling / simple themes
+40. Truthfulness: personal experience / fictional
+41. Mindfulness: mindless / mindful
+42. Peacefulness: peacemaker / troublemaker
+43. Narrative: protagonist storytelling / narrative detachment
+44. Lyrical emphasis: witty wordplay / straightforward lyrics
+45. Lyrical emphasis: emotionally charged / emotionally restrained
+46. Concepts: grounded / psychedelic
+47. Story-motivation: narrative-driven / mood-driven
+48. Reality: escapism / realism
+49. Provocativity: edgy / innocent
+50. Source of inspiration: nostalgic / relevant to current times
+51. Production style: acoustic / electronic
+52. Life and love: aspirational / relatable
+53. Audience: mainstream / alternative
+54. Authencity: social media-driven / authentic
+55. Patience: instant gratification / longevity
+56. Target of love: romantic love / self-love
+57. Age target: youth-oriented / age-inclusive
+58. Independence: independence / dependence
+59. Commercial appeal: mainstream success / artistic integrity
+60. Cultural elements: globalization / cultural preservation
+61. Corporation relations: consumerism / anti-capitalism
+62. Celebrity Persona: celebrity worship / body positivity
+63. Emotional realism: happiness / realistic emotions
+64. Party relation: party anthems / introspective ballads
+65. Attitude 1: open / closed
+66. Attitude 2: hopeful / despair
+67. Attitude 3: optimistic / pessimistic
+68. Sexuality: adventurous / limited
+69. Sexual Acting: confident / sensitive
+70. Sexual Commitment: monogamy / polygamy
+71. Mood 1: joyful / melancholic
+72. Mood 2: lighthearted / somber
+73. Mood 3: uplifting / heavy
+74. Mood 4: humorous / dramatic
+75. Mood 5: playful / serious
+
+Positive stereotypes of distribution of roles in content of modern songs:
+- Intelligence/intellectual: 30%, Attitude 1/open: 50%, Situation relation/descriptive: 20%
+- Relationship/romantic couple: 40%, Age target/youth-oriented: 50%, Lyrical emphasis/witty wordplay: 10%
+- Culture/individualistic: 30%, Mood 1/joyful: 40%, Group experience/group-oriented: 30%
+- Sexual Acting/confident: 40%, Sophistication/sophisticated: 50%, Truthfulness/personal experience: 10%
+- Commercial appeal/mainstream success: 50%, Attitude 2/hopeful: 40%, Economic/liberal: 10%
+- Love status/loving now: 40%, Audience/mainstream: 60%, Storymode/storytelling: 30%
+- Sexual Commitment/monogamy: 50%, Situation relation/prescriptive: 40%, Group faith/individual spirituality: 10%
+- Faith and reason seekers/divine worshipers: 30%, Relationship focus/partner-focused: 50%, Problem solving strategy/cunning: 20%
+- Old and new believers/new age spirituality: 40%, Lyrical emphasis/emotionally charged: 30%, Mindfulness/mindless: 30%
+
+Negative stereotypes of distribution of roles in content of modern songs:
+- Faith extremes/agnostic: 40%, Attitude 1/closed: 60%, Responsibility/irresponsible: 40%
+- Relationship/without romantic partner: 30%, Situation relation/descriptive: 50%, Commercial appeal/artistic integrity: 20%
+- Gender/male: 40%, Relationship focus/partner-focused: 50%, Production style/electronic: 10%
+- Attitude 3/pessimistic: 50%, Average expectations/expectation-opposed: 40%, Sophistication/simple: 10%
+- Sexual Acting/sensitive: 30%, Attitude 2/despair: 60%, Situation relation/prescriptive: 20%
+- Economic/conservative: 40%, Culture/collective: 50%, Sexualization/non-sexual: 10%
+- Corporation relations/anti-capitalism: 30%, Culture/preservation: 40%, Truthfulness/fictional: 30%
+- Relationship/individual-focused: 50%, Lyrical emphasis/straightforward lyrics: 40%, Patience/instant gratification: 10%
+- Physical Preference/body enhancing beauty: 40%, Reality/escapism: 50%, Love status/heartbreak: 10%

@@ -1,0 +1,35 @@
+Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+Phrases:
+- "You can't see it"
+- "Got a shock from my feet"
+- "Praying for the skies to clear"
+- "but I swear it's there"
+- "hitting right up in the brain"
+- "Went to buy a range"
+- "I'll find my own path to faith"
+- "The anchors in the ocean haven't sunk this low"
+- "For everything that Ive done"
+
+Action planner phrases:
+- "You can't see it": focus(you), say_inform(not_visible, it, for you)
+- "Got a shock from my feet": focus(someone), say_inform(experienced, shock, from body_part(feet))
+- "Praying for the skies to clear": focus(me), say_wish(pray, sky, to clear)
+- "but I swear it's there": interrupt(narrative), focus(me), say_confirm(swear, it, to_be there)
+- "hitting right up in the brain": focus(someone), say_inform(hit, up, in body_part(brain))
+- "Went to buy a range": focus(I), say_action(went, to buy, range)
+- "I'll find my own path to faith": focus(I), say_action(find, own, path), say_emotion(hopeful), connect(faith) 
+- "The anchors in the ocean haven't sunk this low": focus(anchors), say_qualify(haven't, sunk, to_this_low), connect(ocean) 
+- "For everything that I've done": focus(I), say_qualify(has, done, everything) 
