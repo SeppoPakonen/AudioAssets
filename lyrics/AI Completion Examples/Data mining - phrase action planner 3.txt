@@ -1,0 +1,56 @@
+Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+Action states:
+- saying
+- tone
+- msg
+- attention_attribute
+- attention_person
+- attention_person_implied
+- attention_action
+- attention_event
+- bias
+- etc.
+
+Phrases, with example arguments for making the action plan:
+- "You can't {arg0} it", see
+- "Go {arg0} on her little {arg1}", karate, body
+- "Miss your {arg0}", kisses
+- "You used to {arg0} to every, every {arg1}", twerk, song
+- "Hold up my {arg0}", arm
+- "Park like {arg0}", a boss
+- sexualization: sexual: "Bleeding after {arg0}", [you,him,her,them,us]
+- problem solving strategy: shortcut taking: "Fucked up for {arg0}", [days,weeks,months,years,eternity]
+- motivation: rewarding: "I'll never {verb} up, I'll never {verb} in", [give,let,throw,hand,put],[give,stop,let,quit,throw]
+- motivation: rewarding: "I {verb0} it, Ain't never gon {verb1} it, I'm {verb2} ng", [pop,smash,throw,crush,fire],[stop,quit,give up]
+
+Action planner phrases, without example arguments:
+- "You can't {arg0} it": attention_person(you), bias(negative, can't), tone(neutral), msg(information), attention_attribute({arg0}, it, for you)
+- "Go {arg0} on her little {arg1}": attention_person(you), action_attribute({arg0}), bias(positive, go), tone(exclamatory), msg(command), attention_attribute({arg1}, body, for her)
+- "Miss your {arg0}": attention_action(miss), attention_person_implied(I), attention_person(you), bias(negative, miss), tone(emotional), msg(statement), attention_attribute({arg0}, of her)
+- "You used to {arg0} to every, every {arg1}": attention_person(you), bias(positive, used to), tone(nostalgic), msg(statement), attention_attribute(action_arg({arg0}, to), of every, {arg1})
+- "Hold up my {arg0}": attention_action(hold), attention_person(you), bias(positive, hold up), tone(emotional), msg(sincere), attention_attribute({arg0}, for me)
+- "Park like {arg0}": attention_action(park), attention_person(you), bias(positive, park like), tone(nonchalant), msg(advice), attention_attribute({arg0})
+- "Bleeding after {arg0}": attention_action(bleed), attention_attribute({arg0}), bias(positive, bleed after), tone(sexual), msg(statement)
+- "Fucked up for {arg0}": attention_action(fuck up), attention_person(you), bias(negative, fucked up), tone(emotional), msg(statement), attention_attribute(time_length, for {arg0})
+- "I'll never {verb} up, I'll never {verb} in": attention_person(I), attention_attribute(action_arg(single, {verb}), up), attention_attribute(action_arg(single, {verb}), in), bias(positive, will never {verb}), tone(urgent), msg(promise)
+- "I {verb-0} it, Ain't never gon {verb-1} it, I'm {verb-2} ng":
+  attention_person(I),
+  attention_attribute(action_arg(single, {verb-0}), it),
+  attention_attribute(action_arg(single, {verb-1})),
+  action_attribute({verb-2}),
+  bias(positive, have to {verb-0} and never {verb-1}),
+  tone(confident),
+  msg(statement)

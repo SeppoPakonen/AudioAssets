@@ -1,0 +1,59 @@
+Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+Action states:
+- attention_target
+- saying
+- tone
+- msg
+- attention_attribute
+
+Phrases:
+- "You can't see it"
+- "Got a shock from my feet"
+- "I'll find my own path to faith"
+- "The anchors in the ocean haven't sunk this low"
+- "Im smoking dope in empty cans I got from corner stores"
+
+Action planner phrases:
+- "You can't see it": take_attention(you), bias(negative, can't), tone(neutral), msg(information), attention_attribute(not_visible, it, for you)
+- "Got a shock from my feet": take_attention(event, got), implied_attention(I), msg(physical sensation), tone(surprise), attention_attribute(sensitive area, feet), event(surprising shock)
+- "I'll find my own path to faith": take_attention(I), msg(planning), tone(positive), attention_attribute(goal, path), event(looking for faith)
+- "The anchors in the ocean haven't sunk this low": take_attention(anchors), msg(negation), tone(negative), attention_attribute(object, anchors), event(not sinking low), induce_thinking(metaphor)
+- "Im smoking dope in empty cans I got from corner stores": take_attention(I), msg(recreational), tone(neutral), attention_attribute(object, dope), event(smoking), orgin(corner store)
+
+Lyrics:
+Im just staring at my empty cans that sprawl across my floor
+Im smoking dope in empty cans I got from corner stores
+Theres broken glass from broken pieces lying in my sink
+Ill wash them down with water getting harder ending blinks
+Ill hang with this old feeling, treat it like another friend
+Well sit and watch some YouTube videos, were staying in
+Well feed a doggo playing looking good with new veneer
+Then end the night in covers whisper nothings in my ear
+Dont say its personal
+Cause Im fine I can do anything
+I dont need you
+I dont need you
+
+Action planner phrases of lyrics:
+- "Im just staring at my empty cans that sprawl across my floor": take_attention(I), msg(observational), tone(neutral), attention_attribute(object, empty cans), event(staring), induce_thinking(disorderly living)
+- "Im smoking dope in empty cans I got from corner stores": take_attention(I), msg(recreational), tone(neutral), attention_attribute(object, dope), event(smoking), orgin(corner store)
+- "Theres broken glass from broken pieces lying in my sink": take_attention(place), msg(visual), tone(neutral), attention_attribute(object, broken glass), event(lying in sink), induce_thinking(home) 
+- "Ill wash them down with water getting harder ending blinks": take_attention(I), msg(routine task), tone(slightly annoyed), attention_attribute(object, broken pieces), event(washing), orgin(living in disorder), induce_thinking(anxiety)
+- "Ill hang with this old feeling, treat it like another friend": take_attention(I), msg(personal), tone(comforting), attention_attribute(object, old feeling), event(bringing back), induce_thinking(emotions)
+- "Well sit and watch some YouTube videos, were staying in": take_attention(we), msg(activity), tone(relaxed), event(watching YouTube), orgin(disorderly living)
+- "Well feed a doggo playing looking good with new veneer": take_attention(we), msg(positive behavior), tone(pleased), attention_attribute(object, doggo), event(playing), induce_thinking(caring for another)
+- "Then end the night in covers whisper nothings in my ear": take_attention(I), msg(relationship moment), tone(intimate), event(whispering sweet nothings), orgin(disorderly living)
+

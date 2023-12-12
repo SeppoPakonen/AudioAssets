@@ -1,0 +1,36 @@
+Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+Action planner heuristic score factors:
+- S0: High like count from the music audience. Low count means that the idea behind the phrase was bad.
+- S1: High comment count from the music audience. Low count means that there was no emotion in the phrase.
+- S2: High listen count from the music audience. Low count means that there was bad so called hook in the phrase.
+- S3: High share count from the music audience. Low count means that the phrase was not relatable.
+- S4: High bookmark count from the music audience. Low count means that the phrase had no value.
+
+Phrases, with example arguments for making the action plan:
+- sexualization: sexual: "Bleeding after {pronoun}", [you,him,her,them,us]
+- problem solving strategy: shortcut taking: "Fucked up for {noun}", [days,weeks,months,years,eternity]
+- motivation: rewarding: "I'll never {verb} up, I'll never {verb} in", [give,let,throw,hand,put],[give,stop,let,quit,throw]
+- motivation: rewarding: "I {verb} it, Ain't never gon {verb} it, I'm ng", [pop,smash,throw,crush,fire],[stop,quit,give up]
+- physical preference: natural beauty: "Hold up my {noun}", [arm,head,hand,heart,phone]
+- sexual orientation: heterosexual: "Falling in {noun} with you", [love,step,line,joy,awe]
+
+Phrase scores and score factors. Value is between 0-10:
+- "Bleeding after {pronoun}": S0: 9, S1: 8, S2: 8, S3: 6, S4: 7
+- "Fucked up for {noun}": S0: 7, S1: 7, S2: 8, S3: 6, S4: 7
+- "I'll never {verb} up, I'll never {verb} in": S0: 9, S1: 8, S2: 9, S3: 8, S4: 9
+- "I {verb} it, Ain't never gon {verb} it, I'm ng": S0: 9, S1: 9, S2: 8, S3: 7, S4: 8
+- "Hold up my {noun}": S0: 9, S1: 8, S2: 7, S3: 9, S4: 8
+- "Falling in {noun} with you": S0: 10, S1: 9, S2: 10, S3: 8, S4: 9

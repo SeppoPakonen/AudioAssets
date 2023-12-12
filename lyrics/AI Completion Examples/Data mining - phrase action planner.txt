@@ -22,6 +22,7 @@ Phrases:
 - "I'll find my own path to faith"
 - "The anchors in the ocean haven't sunk this low"
 - "For everything that Ive done"
+- "games on fire"
 
 Action planner phrases:
 - "You can't see it": focus(you), say_inform(not_visible, it, for you)
@@ -33,3 +34,4 @@ Action planner phrases:
 - "I'll find my own path to faith": focus(I), say_action(find, own, path), say_emotion(hopeful), connect(faith) 
 - "The anchors in the ocean haven't sunk this low": focus(anchors), say_qualify(haven't, sunk, to_this_low), connect(ocean) 
 - "For everything that I've done": focus(I), say_qualify(has, done, everything) 
+- "games on fire": focus(games), say_state(on_fire)

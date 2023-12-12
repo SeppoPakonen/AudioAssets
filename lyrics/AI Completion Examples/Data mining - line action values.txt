@@ -1,0 +1,223 @@
+List "A": Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+
+List "B": Action planner action states for narrator person:
+- saying
+- tone
+- msg
+- bias
+- emotion
+- level-of-certainty
+- gesturing
+- pointing
+- describing-surroundings
+- interrupting
+- emphasizing
+- summarizing
+- referencing
+- introducing
+- concluding
+- predicting
+- transitioning
+- questioning
+- reflecting
+- persuading
+- comparing
+- linking
+- agreeing
+- disagreeing
+- apologizing
+- commanding
+- comforting
+- complimenting
+- complaining
+- congratulating
+- correcting
+- denying
+- explaining
+- greeting
+- inviting
+- promising
+-suggesting
+- thanking
+- warning
+- attention-attribute
+- attention-person
+- attention-person-implied
+- attention-action
+- attention-event
+- attention-recipient
+- attention-recipient-implied
+- attention-relationship
+- attention-purpose
+- attention-place
+- attention-time
+- attention-topic
+- attention-audience
+- attention-occasion
+- attention-conversation 
+- attention-activity
+- attention-emotional_state
+- attention-physical_state
+- attention-mental_state
+- attention-relationship_status
+- attention-goals
+- attention-fears
+- attention-preferences
+- attention-beliefs
+- attention-values
+- attention-traits
+- attention-education
+- attention-work
+- attention-hobbies
+- attention-interests
+- attention-achievement
+- attention-experiences
+- attention-likes
+- attention-dislikes
+- attention-tests
+- attention-evaluation_criteria
+- attention-qualifications
+- attention-requirements
+- attention-qualifications_acquired
+- attention-qualifications_needed
+- attention-suggestions
+- attention-feedback
+- attention-likes_dislikes_comments
+- attention-expectations
+- attention-motivations
+- attention-priorities
+- attention-challenges
+- attention-opportunities
+- attention-problems
+- attention-decisions
+- attention-recommendations
+- attention-trial_discussion
+- attention-agreement
+- attention-disagreement
+- attention-agreement-explanation
+- attention-disagreement-explanation
+- attention-reasoning
+- attention-possibility
+- attention-probability
+- attention-improbable
+- attention-necessity
+- attention-priority
+- attention-order
+- attention-procedure
+- attention-target
+- attention-advocacy
+- attention-advocacy-reasoning
+- attention-evidences
+- attention-negations
+- attention-conclusions
+- attention-persuasion
+- attention-epiphany
+- attention-choosing
+- attention-concepts
+- attention-situations
+- attention-actionplan
+- attention-outcome
+- attention-plan-communication
+- attention-plan-task
+- attention-awakening
+- attention-thinking
+- attention-believing
+- attention-knowing
+- attention-learning
+- attention-realization
+- attention-incidences
+- attention-causations
+- attention-effects
+- attention-solutions
+- attention-progress
+- attention-failure
+- attention-change
+- attention-impact
+- attention-feeling
+- attention-challenge
+- attention-aspiration
+- attention-doubt
+- attention-relationship_goals
+- attention-career_goals
+- attention-emotional_goals
+- attention-physical_goals
+- attention-mental_goals
+- attention-achievements
+- attention-experiences_difficulties
+- attention-explaining
+- attention-analogy
+- attention-fact
+- attention-evidence
+- attention-opinion
+- attention-assumption
+- attention-consequence
+- attention-belief
+- attention-value
+- attention-confirmation
+- attention-excuse
+- attention-exception
+- attention-exciting_feature
+- attention-changemaker
+- attention-mentor
+- attention-friend
+- attention-criticalopinion
+- attention-conflict
+- attention-perspective
+- attention-prediction
+- attention-regret
+- attention-usefulness
+- attention-solidarity
+- attention-compliance
+- attention-lack
+- attention-attention
+- attention-criticism
+- attention-support
+- attention-collaboration
+- attention-anticipation
+- attention-example
+
+
+Action planner heuristic score factors:
+- S0: High like count from the music audience. Low count means that the idea behind the phrase was bad.
+- S1: High comment count from the music audience. Low count means that there was no emotion in the phrase.
+- S2: High listen count from the music audience. Low count means that there was bad so called hook in the phrase.
+- S3: High share count from the music audience. Low count means that the phrase was not relatable.
+- S4: High bookmark count from the music audience. Low count means that the phrase had no value.
+
+
+Actions per a line of lyrics. With the most matching actions of list "B":
+1. attention-time(night) + attention-emotional_state(desire) + attention-action(howling) + attention-activity(driving) + tone(urgent) + msg(trying to reach someone) + bias(romantic + emotion(uncertainty) + level-of-certainty(trying/desire) + gesturing(pointing) + describing-surroundings(anywhere in the dark) + attention-place(outside)
+2. attention-action(looking) + attention-physical state(tired) + emotion(frustration) + attention-emotional_state(desperation) + attention-time(late at night)
+3. attention-action(not falling asleep) + tone(urgent) + emotion(worry) + level-of-certainty(imploring) + gesturing(grabbing) + attention-person(person being talked to)
+4. attention-person(I) + attention-activity(driving for a long time) + attention-physical_state(tired) + attention-action(planning to continue driving) + gesturing(pointing to car) + level-of-certainty(needs to push through) + bias(commitment) + emotion(determination)
+5. attention-person(You) + attention-mental_state(my mind) + attention-physical_state(drunk/high) + bias(acknowledgement) + attention-person-implied(I) + emotion(appreciation) + attention-relationship(person being talked to) + level-of-certainty(sure) + gesturing(reaching out)
+6. attention-person(You) + attention-physical_state(tired/desired) + attention-mental_state(emotional turmoil) + attention-physical state(hurt) + gesturing(clasping hands) + bias(savior) + emotion(hope) + attention-relationship(person being talked to) + level-of-certainty(certain)
+7. attention-time(current night) + tone(determined) + attention-action(reaching out) + gesturing(grabbing) + attention-person(I) + emotion(hope) + level-of-certainty(confident) + bias(romantic) + attention-place(current location) + attention-goal(reaching out)
+8. tone(excited) + attention-action(planning to have fun) + attention-emotional_state(excitement) + attention-physical_state(having energy) + bias(determination) + emotion(anticipation) + level-of-certainty(excited) + gesturing(pointing) + attention-audience(person being talked to) + attention-occasion(current moment) + attention-emotional_goal(having a good time)
+9. attention-action(understanding) + attention-emotional_state(relief) + level-of-certainty(confident) + bias(readiness) + gesturing(thumbs up) + attention-task(completing conversation) + attention-mode(typing/speaking) + attention-plan(continuing with plan) + emotion(confidence) + attention-feedback(understanding)
+10. attention-person(I) + attention-emotional_state(apology) + attention-action(apologizing) + emotion(regret) + bias(accountability) + level-of-certainty(apologetic) + gesturing(hands clasped) + attention-mental_state(mind games being referenced) + attention-apology(reason for apology)
+
+
+Change of actions between 2 lines. Score of stopping actions in the first line and value of starting actions in the second line. Scores and score factors. Value is between 0-10:
+- Stop line 1 & start line 2: S0: 0, S1: 0, S2: 7, S3: 3, S4: 0
+- Stop line 2 & start line 3: S0: 2, S1: 0, S2: 2, S3: 1, S4: 0
+- Stop line 3 & start line 4: S0: 1, S1: 5, S2: 3, S3: 2, S4: 8
+- Stop line 4 & start line 5: S0: 0, S1: 0, S2: 0, S3: 4, S4: 2
+- Stop line 5 & start line 6: S0: 3, S1: 0, S2: 7, S3: 2, S4: 0
+- Stop line 6 & start line 7: S0: 2, S1: 7, S2: 4, S3: 5, S4: 5
+- Stop line 7 & start line 8: S0: 1, S1: 0, S2: 3, S3: 1, S4: 1
+- Stop line 8 & start line 9: S0: 0, S1: 0, S2: 1, S3: 2, S4: 6
+- Stop line 9 & start line 10: S0: 1, S1: 4, S2: 3, S3: 4, S4: 9

@@ -1,0 +1,82 @@
+Metaphorical Color Operating System starting...
+Loading context state
+Continuing
+Users logged in: sblo
+Tasks (root): 0
+Tasks (sblo): (pid=1, shell)
+Round robin: updating tasks
+LOG (pid=1, shell): print: "C:\"
+LOG (pid=1, shell): input: "dir\r\n"
+LOG (pid=1, shell): print: "dir\r\nC:\program files\n  
+                           C:\Users\n"
+LOG (pid=1, shell): input: "cd 'program files'\r\n"
+LOG (pid=1, shell): print: "cd 'program files' \r\n"
+LOG (pid=1, shell): input: "dir\r\n"
+LOG (pid=1, shell): print: "dir \r\n Programs:\n java,\n 
+                           Microsoft Office, \nAdobe Photoshop, \n
+                           Notepad++, \n
+Battlefield 1, \n
+League of Legends"
+Tasks (sblo): (pid=1, shell)(pid=2,mail_daemon)
+LOG (pid=2, mail_daemon): print: "You have 2 new emails \n
+                     1) From: boss@company.com\n
+                         Subject: Project Update\n
+                         Message: Good work on the project! Keep it up!\n
+                     2) From: friend@gmail.com\n
+                         Subject: Weekend Plans\n
+                         Message: Hey, are we still on for our hiking trip this weekend?\n"
+Tasks (sblo): (pid=1, shell)(pid=3, video_player)
+LOG (pid=3, video_player): print: "C:\Users\sblo\videos>" 
+LOG (pid=3, video_player): input: "play 'cat videos'\r\n"
+LOG (pid=3, video_player): print: "Playing 'cat videos'\n"
+Tasks (sblo): (pid=1, shell)(pid=4, music_player)
+LOG (pid=4, music_player): print: "C:\Users\sblo\music>"
+LOG (pid=4, music_player): input: "play 'summer playlist'\r\n"
+LOG (pid=4, music_player): print: "Playing 'summer playlist'\n"
+Tasks (sblo): (pid=1, shell)(pid=5, game_launcher)
+LOG (pid=5, game_launcher): print: "C:\Users\sblo\games>"
+LOG (pid=5, game_launcher): input: "launch league of legends\r\n"
+LOG (pid=5, game_launcher): print: "Launching League of Legends..."
+LOG (pid=5, game_launcher): input: "exit\r\n"
+Tasks (sblo): (pid=1, shell)(pid=6, calculator)
+LOG (pid=6, calculator): print: "Welcome to the Metaphorical Calculator! Please enter your equation: \n"
+LOG (pid=6, calculator): input: "10 + 5 - 2 * 3\r\n"
+LOG (pid=6, calculator): print: "The result is 13"
+Tasks (sblo): (pid=1, shell)(pid=7, task_scheduler)
+LOG (pid=7, task_scheduler): print: "Your scheduled tasks for today: \n
+                                   1) 9:00am - Meeting with team 
+                                   2) 12:00pm - Lunch with client 
+                                   3) 2:00pm - Presentation rehearsal"
+LOG (pid=1, shell): input: "date\r\n"
+LOG (pid=1, shell): print: "Current date and time: 11/24/2023, 8:30am"
+LOG (pid=1, shell): input: "start 'presentation rehearsal' at '2:00pm'\r\n"
+LOG (pid=1, shell): print: "Task 'presentation rehearsal' has been successfully scheduled for 2:00pm"
+Tasks (sblo): (pid=1, shell)(pid=8, countdown_timer)
+LOG (pid=8, countdown_timer): print: "Set a countdown timer for 30 minutes\r\n"
+LOG (pid=8, countdown_timer): input: "30\r\n"
+LOG (pid=8, countdown_timer): print: "Timer set for 30 minutes. Press any key to start"
+Tasks (sblo): (pid=1, shell)(pid=9, weather_forecaster)
+LOG (pid=9, weather_forecaster): print: "Please enter your location: \n"
+LOG (pid=9, weather_forecaster): input: "Oulu, Finland" 
+LOG (pid=9, weather_forecaster): print: "Today's weather in Oulu, Finland: \n
+                                            Temperature: -8 °C
+                                            Wind: 5 m/s
+                                            Chance of rain: 0%" 
+LOG (pid=1, shell): input: "ai give me info about my meeting with team at 9:00am\r\n" 
+LOG (pid=1, shell): print: "Meeting with team at 9:00am: \n
+                                            Location: Conference room \n 
+                                            Agenda: Project status update \n 
+                                            Attire: Business casual" 
+LOG (pid=1, shell): input: "ai give me info about my lunch with client at 12:00am\r\n" 
+LOG (pid=1, shell): print: "Lunch with client at 12:00pm: \n 
+                                            Location: French restaurant \n
+                                            Menu: Pre-set three course meal with vegetarian options \n
+                                            Attire: Business formal" 
+Tasks (sblo): (pid=1, shell)(pid=2,mail_daemon)(pid=3, video_player)(pid=4, music_player)(pid=5, game_launcher)(pid=6, calculator)(pid=8, countdown_timer)(pid=9, weather_forecaster) 
+LOG (pid=1, shell): input: "ai give me info about the gender of my client, who I have lunch with at 12:00am\r\n" 
+LOG (pid=1, shell): print: "According to our records, your client's gender is male."
+LOG (pid=1, shell): input: "ai my lunch client doesn't respond\r\n" 
+LOG (pid=1, shell): print: "I'm sorry to hear that. Would you like me to send a follow-up email to remind your client about the lunch meeting?"
+LOG (pid=1, shell): input: "ai yes\r\n" 
+LOG (pid=1, shell): print: "Email sent to client reminding them about lunch meeting. Thank you for using Metaphorical Color Operating System. Have a productive day!" 
+Tasks (sblo): (pid=1, shell)(pid=2,mail_daemon)(pid=3, video_player)(pid=4, music_player)(pid=5, game_launcher)(pid=6, calculator)(pid=8, countdown_timer)(pid=9, weather_forecaster)(pid=7, task_scheduler)

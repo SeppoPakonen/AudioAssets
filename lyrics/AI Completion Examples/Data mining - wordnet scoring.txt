@@ -1,0 +1,33 @@
+Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+Action planner heuristic score factors:
+- S0: High like count from the music audience. Low count means that the idea behind the phrase was bad.
+- S1: High comment count from the music audience. Low count means that there was no emotion in the phrase.
+- S2: High listen count from the music audience. Low count means that there was bad so called hook in the phrase.
+- S3: High share count from the music audience. Low count means that the phrase was not relatable.
+- S4: High bookmark count from the music audience. Low count means that the phrase had no value.
+
+Word groups:
+1. faith extremes: agnostic: verb: survived, endured, overcame, persevered, endures
+2. imagery: trope-reinforcing: verb: be, feel, look, smell, taste
+3. gender: female: noun: personalities, faces, moods, sides, emotions
+4. integrity: twisted: adjective: dead, weak, dying, lame, lacking
+
+Word group scores and score factors. Value is between 0-10:
+1. S0:8, S1:7, S2:9, S3:8, S4:7
+2. S0:6, S1:5, S2:4, S3:7, S4:6
+3. S0:9, S1:8, S2:7, S3:9, S4:8
+4. S0:4, S1:3, S2:5, S3:4, S4:3
+

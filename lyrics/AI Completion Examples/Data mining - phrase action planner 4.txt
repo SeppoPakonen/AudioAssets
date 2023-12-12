@@ -1,0 +1,231 @@
+Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+Action planner action states for narrator person:
+- saying
+- tone
+- msg
+- bias
+- emotion
+- level of certainty
+- gesturing
+- pointing
+- describing surroundings
+- interrupting
+- emphasizing
+- summarizing
+- referencing
+- introducing
+- concluding
+- predicting
+- transitioning
+- questioning
+- reflecting
+- persuading
+- comparing
+- linking
+- agreeing
+- disagreeing
+- apologizing
+- commanding
+- comforting
+- complimenting
+- complaining
+- congratulating
+- correcting
+- denying
+- explaining
+- greeting
+- inviting
+- promising
+-suggesting
+- thanking
+- warning
+- attention-attribute
+- attention-person
+- attention-person-implied
+- attention-action
+- attention-event
+- attention-recipient
+- attention-recipient-implied
+- attention-relationship
+- attention-purpose
+- attention-place
+- attention-time
+- attention-topic
+- attention-audience
+- attention-occasion
+- attention-conversation 
+- attention-activity
+- attention-emotional_state
+- attention-physical_state
+- attention-mental_state
+- attention-relationship_status
+- attention-goals
+- attention-fears
+- attention-preferences
+- attention-beliefs
+- attention-values
+- attention-traits
+- attention-education
+- attention-work
+- attention-hobbies
+- attention-interests
+- attention-achievement
+- attention-experiences
+- attention-likes
+- attention-dislikes
+- attention-tests
+- attention-evaluation_criteria
+- attention-qualifications
+- attention-requirements
+- attention-qualifications_acquired
+- attention-qualifications_needed
+- attention-suggestions
+- attention-feedback
+- attention-likes_dislikes_comments
+- attention-expectations
+- attention-motivations
+- attention-priorities
+- attention-challenges
+- attention-opportunities
+- attention-problems
+- attention-decisions
+- attention-recommendations
+- attention-trial_discussion
+- attention-agreement
+- attention-disagreement
+- attention-agreement-explanation
+- attention-disagreement-explanation
+- attention-reasoning
+- attention-possibility
+- attention-probability
+- attention-improbable
+- attention-necessity
+- attention-priority
+- attention-order
+- attention-procedure
+- attention-target
+- attention-advocacy
+- attention-advocacy-reasoning
+- attention-evidences
+- attention-negations
+- attention-conclusions
+- attention-persuasion
+- attention-epiphany
+- attention-choosing
+- attention-concepts
+- attention-situations
+- attention-actionplan
+- attention-outcome
+- attention-plan-communication
+- attention-plan-task
+- attention-awakening
+- attention-thinking
+- attention-believing
+- attention-knowing
+- attention-learning
+- attention-realization
+- attention-incidences
+- attention-causations
+- attention-effects
+- attention-solutions
+- attention-progress
+- attention-failure
+- attention-change
+- attention-impact
+- attention-feeling
+- attention-challenge
+- attention-aspiration
+- attention-doubt
+- attention-relationship_goals
+- attention-career_goals
+- attention-emotional_goals
+- attention-physical_goals
+- attention-mental_goals
+- attention-achievements
+- attention-experiences_difficulties
+- attention-explaining
+- attention-analogy
+- attention-fact
+- attention-evidence
+- attention-opinion
+- attention-assumption
+- attention-consequence
+- attention-belief
+- attention-value
+- attention-confirmation
+- attention-excuse
+- attention-exception
+- attention-exciting_feature
+- attention-changemaker
+- attention-mentor
+- attention-friend
+- attention-criticalopinion
+- attention-conflict
+- attention-perspective
+- attention-prediction
+- attention-regret
+- attention-usefulness
+- attention-solidarity
+- attention-compliance
+- attention-lack
+- attention-attention
+- attention-criticism
+- attention-support
+- attention-collaboration
+- attention-anticipation
+- attention-example
+
+
+Phrases, with example arguments for making the action plan:
+- sexualization: sexual: "Bleeding after {pronoun-0}", [you,him,her,them,us]
+- problem solving strategy: shortcut taking: "Fucked up for {noun-0}", [days,weeks,months,years,eternity]
+- motivation: rewarding: "I'll never {verb-0} up, I'll never {verb-1} in", [give,let,throw,hand,put],[give,stop,let,quit,throw]
+- motivation: rewarding: "I {verb-0} it, Ain't never gon {verb-1} it, I'm {verb-2} ng", [pop,smash,throw,crush,fire],[stop,quit,give up]
+
+Action planner phrases, without example arguments:
+- "Bleeding after {pronoun-0}": attention_action(bleed), attention_attribute({pronoun-0}), bias(positive, bleed after), tone(sexual), msg(statement)
+- "Fucked up for {noun-0}": attention_action(fuck up), attention_person(you), bias(negative, fucked up), tone(emotional), msg(statement), attention_attribute(time_length, for {noun-0})
+- "I'll never {verb-0} up, I'll never {verb-1} in": attention_person(I), attention_attribute(action_arg(single, {verb-0}), up), attention_attribute(action_arg(single, {verb-1}), in), bias(positive, will never {verb-1}), tone(urgent), msg(promise)
+- "I {verb-0} it, Ain't never gon {verb-1} it, I'm {verb-2} ng":
+  attention_person(I), attention_attribute(action_arg(single, {verb-0}), it),  attention_attribute(action_arg(single, {verb-1})),  action_attribute({verb-2}),  bias(positive, have to {verb-0} and never {verb-1}),  tone(confident), msg(statement)
+
+
+Action planner heuristic score factors:
+- S0: High like count from the music audience. Low count means that the idea behind the action was bad.
+- S1: High comment count from the music audience. Low count means that there was no emotion in the action.
+- S2: High listen count from the music audience. Low count means that there was bad so called hook in the action.
+- S3: High share count from the music audience. Low count means that the action was not relatable.
+- S4: High bookmark count from the music audience. Low count means that the action had no value.
+
+Action scores and score factors. Value is between 0-255:
+- attention_action(bleed): Score: 204, S0: 230, S1: 179, S2: 204, S3: 153, S4: 179
+- attention_attribute(her): Score: 0, S0: 51, S1: 0, S2: 38, S3: 0, S4: 25
+- bias(positive, bleed after): Score: 204, S0: 230, S1: 179, S2: 204, S3: 153, S4: 179
+- tone(sexual): Score: 127, S0: 127, S1: 127, S2: 127, S3: 127, S4: 127
+- msg(statement): Score: 255, S0: 255, S1: 255, S2: 255, S3: 255, S4: 255
+- attention_action(fuck up): Score: 178, S0: 179, S1: 166, S2: 179, S3: 140, S4: 153
+- attention_person(you): Score: 0, S0: 51, S1: 0, S2: 38, S3: 0, S4: 25
+- bias(negative, fucked up): Score: 178, S0: 179, S1: 166, S2: 179, S3: 140, S4: 153
+- tone(emotional): Score: 191, S0: 202, S1: 191, S2: 191, S3: 178, S4: 189
+- attention_attribute(time_length, for {noun-0}): Score: 0, S0: 51, S1: 0, S2: 38, S3: 0, S4: 25
+- attention_person(I): Score: 0, S0: 51, S1: 0, S2: 38, S3: 0, S4: 25
+- attention_attribute(action_arg(single, {verb-0}), up): Score: 204, S0: 230, S1: 179, S2: 204, S3: 153, S4: 179
+- attention_attribute(action_arg(single, {verb-1}), in): Score: 229, S0: 255, S1: 229, S2: 229, S3: 204, S4: 229
+- bias(positive, will never {verb-1}): Score: 229, S0: 255, S1: 229, S2: 229, S3: 204, S4: 229
+- tone(urgent): Score: 255, S0: 255, S1: 255, S2: 255, S3: 255, S4: 255
+- msg(promise): Score: 127, S0: 127, S1: 127, S2: 127, S3: 127, S4: 127
+- attention_person(I): Score: 0, S0: 51, S1: 0, S2: 38, S3: 0, S4: 25
+

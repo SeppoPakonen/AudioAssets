@@ -1,0 +1,216 @@
+List "A": Word classes:
+- verb
+- noun
+- pronoun
+- pronoun/noun
+- preposition
+- adjective
+- modal verb
+- adverb
+- interjection
+- conjunction
+- contraction
+- etc.
+
+
+List "B": Action planner action states for narrator person:
+- saying
+- tone
+- msg
+- bias
+- emotion
+- level-of-certainty
+- gesturing
+- pointing
+- describing-surroundings
+- interrupting
+- emphasizing
+- summarizing
+- referencing
+- introducing
+- concluding
+- predicting
+- transitioning
+- questioning
+- reflecting
+- persuading
+- comparing
+- linking
+- agreeing
+- disagreeing
+- apologizing
+- commanding
+- comforting
+- complimenting
+- complaining
+- congratulating
+- correcting
+- denying
+- explaining
+- greeting
+- inviting
+- promising
+-suggesting
+- thanking
+- warning
+- attention-attribute
+- attention-person
+- attention-person-implied
+- attention-action
+- attention-event
+- attention-recipient
+- attention-recipient-implied
+- attention-relationship
+- attention-purpose
+- attention-place
+- attention-time
+- attention-topic
+- attention-audience
+- attention-occasion
+- attention-conversation 
+- attention-activity
+- attention-emotional_state
+- attention-physical_state
+- attention-mental_state
+- attention-relationship_status
+- attention-goals
+- attention-fears
+- attention-preferences
+- attention-beliefs
+- attention-values
+- attention-traits
+- attention-education
+- attention-work
+- attention-hobbies
+- attention-interests
+- attention-achievement
+- attention-experiences
+- attention-likes
+- attention-dislikes
+- attention-tests
+- attention-evaluation_criteria
+- attention-qualifications
+- attention-requirements
+- attention-qualifications_acquired
+- attention-qualifications_needed
+- attention-suggestions
+- attention-feedback
+- attention-likes_dislikes_comments
+- attention-expectations
+- attention-motivations
+- attention-priorities
+- attention-challenges
+- attention-opportunities
+- attention-problems
+- attention-decisions
+- attention-recommendations
+- attention-trial_discussion
+- attention-agreement
+- attention-disagreement
+- attention-agreement-explanation
+- attention-disagreement-explanation
+- attention-reasoning
+- attention-possibility
+- attention-probability
+- attention-improbable
+- attention-necessity
+- attention-priority
+- attention-order
+- attention-procedure
+- attention-target
+- attention-advocacy
+- attention-advocacy-reasoning
+- attention-evidences
+- attention-negations
+- attention-conclusions
+- attention-persuasion
+- attention-epiphany
+- attention-choosing
+- attention-concepts
+- attention-situations
+- attention-actionplan
+- attention-outcome
+- attention-plan-communication
+- attention-plan-task
+- attention-awakening
+- attention-thinking
+- attention-believing
+- attention-knowing
+- attention-learning
+- attention-realization
+- attention-incidences
+- attention-causations
+- attention-effects
+- attention-solutions
+- attention-progress
+- attention-failure
+- attention-change
+- attention-impact
+- attention-feeling
+- attention-challenge
+- attention-aspiration
+- attention-doubt
+- attention-relationship_goals
+- attention-career_goals
+- attention-emotional_goals
+- attention-physical_goals
+- attention-mental_goals
+- attention-achievements
+- attention-experiences_difficulties
+- attention-explaining
+- attention-analogy
+- attention-fact
+- attention-evidence
+- attention-opinion
+- attention-assumption
+- attention-consequence
+- attention-belief
+- attention-value
+- attention-confirmation
+- attention-excuse
+- attention-exception
+- attention-exciting_feature
+- attention-changemaker
+- attention-mentor
+- attention-friend
+- attention-criticalopinion
+- attention-conflict
+- attention-perspective
+- attention-prediction
+- attention-regret
+- attention-usefulness
+- attention-solidarity
+- attention-compliance
+- attention-lack
+- attention-attention
+- attention-criticism
+- attention-support
+- attention-collaboration
+- attention-anticipation
+- attention-example
+- etc.
+
+
+Lyrics:
+2 AM, howlin outside
+Lookin, but I cannot find
+Dont you fall asleep this time
+I been on a long way drive
+Only you can stand my mind
+Only you can fix inside
+So if I make it out tonight
+Lets make it a badass time
+Okay, I got it, copy
+
+
+Actions per a line of lyrics. With the most matching actions of list "B":
+- "2 AM, howlin outside": attention-time(night) + attention-emotional_state(desire) + attention-action(howling) + attention-activity(driving) + tone(urgent) + msg(trying to reach someone) + bias(romantic + emotion(uncertainty) + level-of-certainty(trying/desire) + gesturing(pointing) + describing-surroundings(anywhere in the dark) + attention-place(outside)
+- "Lookin, but I cannot find": attention-action(looking) + attention-physical state(tired) + emotion(frustration) + attention-emotional_state(desperation) + attention-time(late at night)
+- "Dont you fall asleep this time": attention-action(not falling asleep) + tone(urgent) + emotion(worry) + level-of-certainty(imploring) + gesturing(grabbing) + attention-person(person being talked to)
+- "I been on a long way drive": attention-person(I) + attention-activity(driving for a long time) + attention-physical_state(tired) + attention-action(planning to continue driving) + gesturing(pointing to car) + level-of-certainty(needs to push through) + bias(commitment) + emotion(determination)
+- "Only you can stand my mind": attention-person(You) + attention-mental_state(my mind) + attention-physical_state(drunk/high) + bias(acknowledgement) + attention-person-implied(I) + emotion(appreciation) + attention-relationship(person being talked to) + level-of-certainty(sure) + gesturing(reaching out)
+- "Only you can fix inside": attention-person(You) + attention-physical_state(tired/desired) + attention-mental_state(emotional turmoil) + attention-physical state(hurt) + gesturing(clasping hands) + bias(savior) + emotion(hope) + attention-relationship(person being talked to) + level-of-certainty(certain)
+- "So if I make it out tonight": attention-time(current night) + tone(determined) + attention-action(reaching out) + gesturing(grabbing) + attention-person(I) + emotion(hope) + level-of-certainty(confident) + bias(romantic) + attention-place(current location) + attention-goal(reaching out)
+- "Lets make it a badass time": tone(excited) + attention-action(planning to have fun) + attention-emotional_state(excitement) + attention-physical_state(having energy) + bias(determination) + emotion(anticipation) + level-of-certainty(excited) + gesturing(pointing) + attention-audience(person being talked to) + attention-occasion(current moment) + attention-emotional_goal(having a good time)
+- "Okay, I got it, copy": attention-action(understanding) + attention-emotional_state(relief) + level-of-certainty(confident) + bias(readiness) + gesturing(thumbs up) + attention-task(completing conversation) + attention-mode(typing/speaking) + attention-plan(continuing with plan) + emotion(confidence) + attention-feedback(understanding)
+- "Hey, I'm sorry sorry for mental games": attention-person(I) + attention-emotional_state(apology) + attention-action(apologizing) + emotion(regret) + bias(accountability) + level-of-certainty(apologetic) + gesturing(hands clasped) + attention-mental_state(mind games being referenced) + attention-apology(reason for apology)
