@@ -112,7 +112,7 @@ Allyship is a lifetime's worth of work and growth, and requires resilience after
 
 ##### ACCOUNTABILITY
 
-For yourself and to others. Intent is irrelevant, your impact is what matters. Embsex what's right.
+For yourself and to others. Intent is irrelevant, your impact is what matters. Embrace what's right.
 
 
 
