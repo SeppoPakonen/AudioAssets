@@ -13,3 +13,85 @@ Types of profiles of the role of the singer of a song in relation to the lyrics:
 - singer is using abstract or poetic language to convey feelings or ideas
 - singer is highlighting the beauty or poeticism of the lyrics through their performance.
 
+
+Primary human (main focus of the song):
+- 15-18 years old male
+- 18-25 years old male
+- 25-35 years old male
+- 35-45 years old male
+- 45+ years old male
+- 15-18 years old female
+- 18-25 years old female
+- 25-35 years old female
+- 35-45 years old female
+- 45+ years old female
+- Non-binary person
+- Children/Youth
+- Elderly individuals
+- People from poor background
+- People from middle class background
+- People from rich background
+- People going to the gym
+- People going to the dance club
+- People going to bars
+- People dreaming about better life
+- Outgoing people
+- Introverted people
+- People without a relationship
+- People in a relationship
+- Married people
+- People falling in love
+- People overcoming challenges
+- People dealing with loss
+- Nature loving people
+- Travelling people
+- People seeking justice or social change
+- People exploring their identity or sexuality
+- Individuals with mental health struggles
+- Individuals with physical disabilities
+- People in positions of power or leadership
+- Depressed or anxious individuals
+- Those experiencing a spiritual or religious awakening
+- Individuals from a snowy-winter culture
+- Individuals from a snowless-winter culture
+- Artists or musicians
+- Essential workers or healthcare professionals
+
+Secondary human (focus of the primary person of a song):
+- Romantic partner or love interest
+- Family members (parents, siblings, children)
+- Friends
+- Cultural or ethnic community
+- Religious or spiritual community
+- Fellow activists or social justice advocates
+- Musical collaborators or bandmates
+- Higher power or divine figure
+- Beloved pet or animal companion
+- Society or societal expectations
+- Government or political figures
+- Nature or the environment
+- Nostalgic memories or past self
+- Oppressed or marginalized groups
+- Inner demons or mental health struggles
+- External obstacles or challenges
+- Social media or technology
+- Dreams or ambitions
+- Material possessions or wealth
+- Personal flaws or mistakes
+- Other significant person or group in the singer's life
+- Audience/listeners of the song
+- Personal goals or aspirations 
+- Past relationships or significant others
+- Romantic rival or competition
+- Past or present enemies/adversaries
+- Dreams/goals/aspirations
+- An unknown or imaginary person
+- Celebrities or public figures
+- Influence or legacy of a role model or idol
+- Past or present self/inner self
+- Memories or past experiences
+- Social pressure or expectations
+- Society as a whole
+- The injustices in the world
+- Personal growth or transformation.
+
