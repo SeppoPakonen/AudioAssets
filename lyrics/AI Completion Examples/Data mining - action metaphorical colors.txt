@@ -1,0 +1,26 @@
+Lyrics:
+2 AM, howlin outside
+Lookin, but I cannot find
+
+
+Actions per a line of lyrics. With the most matching actions of list "B":
+- "2 AM, howlin outside": attention-time(night) + attention-emotional_state(desire) + attention-action(howling) + attention-activity(driving) + tone(urgent) + msg(trying to reach someone) + bias(romantic + emotion(uncertainty) + level-of-certainty(trying/desire) + gesturing(pointing) + describing-surroundings(anywhere in the dark) + attention-place(outside)
+- "Lookin, but I cannot find": attention-action(looking) + attention-physical state(tired) + emotion(frustration) + attention-emotional_state(desperation) + attention-time(late at night)
+
+
+Phrases with the metaphorical color RGB integer (r,g,b) code at the end of the line:
+"sassy": RGB(255,140,0)
+"golden opportunities": RGB(255,215,0)
+"blue ocean, green trees, live in harmony", RGB(0,128,0)
+"2 AM, howlin outside", RGB(0,0,128)
+"Lookin, but I cannot find", RGB(128,128,128)
+
+Actions of the list "C":
+"attention-event(unpleasant smell)"
+"transition(activities/roles)"
+"status(fame/popularity)"
+
+Metaphorical RGB value of actions in the list "C":
+"attention-event(unpleasant smell)" RGB(128,0,0)
+"transition(activities/roles)" RGB(128,128,128)
+"status(fame/popularity)" RGB(255,215,0)

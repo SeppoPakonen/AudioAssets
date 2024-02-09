@@ -1,0 +1,227 @@
+List "A" sentences:
+- With the birds , Ill share this lonely view
+- Soft-spoken with a broken jaw
+
+Parts of sentences classified:
+- "With the birds": prepositional phrase
+- "Ill share this lonely view": independent clause
+- "Soft-spoken": adjective phrase
+- "With a broken jaw": prepositional phrase
+
+Classes of sentences:
+- prepositional phrase + independent clause
+- adjective phrase + prepositional phrase
+
+Categorizations of sentence structures:
+- "prepositional phrase + independent clause": prepositional clause
+- "adjective phrase + prepositional phrase": modifier clause
+
+List "A" sentences:
+- Autumns sweet, we call it fall
+- Ill make it to the moon if I have to crawl and
+- With the birds, Ill share this lonely view
+- Made another hit cause I got bored now 
+
+Parts of sentences classified:
+ - "Autumns sweet": noun phrase
+ - "we call it fall": independent clause
+ - "Ill make it to the moon": independent clause
+ - "if I have to crawl": dependent clause
+ - "With the birds": prepositional phrase
+ - "Ill share this lonely view": independent clause
+ - "Made another hit": independent clause
+ - "cause I got bored": dependent clause
+
+Classes of Sentences:
+- noun phrase + independent clause
+- independent clause + dependent clause
+- prepositional phrase + independent clause
+- independent clause + dependent clause
+
+Categorizations of sentence structures:
+- "noun phrase + independent clause": declarative sentence
+- "independent clause + dependent clause": conditional sentence
+- "prepositional phrase + independent clause": descriptive sentence
+- "independent clause + dependent clause": causal sentence
+
+
+
+Classified phrases:
+- {pronoun}{verb}{auxiliary verb}{adverb}{preposition}{noun}{punctuation mark}{pronoun}{verb}{verb}{verb}{verb}{adverb}
+
+Parts of classified phrases classified:
+- "{pronoun}{verb}{auxiliary verb}": verb phrase
+- "{adverb}{preposition}{noun}": prepositional phrase
+- "{punctuation mark}{pronoun}{verb}{verb}{verb}{verb}{adverb}": subordinate clause
+
+Classes of phrases:
+- verb phrase + prepositional phrase
+- subordinate clause
+
+Categorizations of phrase structures:
+- "verb phrase + prepositional phrase": verb phrase with modifier
+- "subordinate clause": dependent clause
+
+
+
+List of sentence structures:
+- declarative sentence
+- conditional sentence
+- descriptive sentence
+- causal sentence
+- subject-verb-object sentence
+- subject-verb-adjective sentence
+- subject-verb-predicate sentence
+- adverbial sentence
+- compound sentence
+- complex sentence
+- simple sentence
+- compound-complex sentence
+- exclamatory sentence
+- interrogative sentence
+- imperative sentence
+- parallel sentence 
+- climax sentence
+- rhetorical question sentence
+- antithesis sentence 
+- repetition sentence 
+- aposiopesis sentence 
+- flashback sentence
+- foreshadowing sentence 
+- juxtaposition sentence 
+- alliteration sentence 
+- simile sentence 
+- metaphor sentence 
+- personification sentence 
+- hyperbole sentence 
+- litotes sentence 
+- irony sentence 
+- onomatopoeia sentence
+- oxymoron sentence
+- zeugma sentence
+- ellipsis sentence
+- chiasmus sentence
+- anaphora sentence
+- polysyndeton sentence
+- asyndeton sentence
+- anadiplosis sentence
+- epistrophe sentence
+- metonymy sentence
+- synecdoche sentence
+- epanalepsis sentence
+- antanaclasis sentence
+- syllepsis sentence
+- anastrophe sentence
+- polysyndeton sentence
+- anadiplosis sentence
+- period sentence
+- loose sentence
+- periodic sentence
+- cumulative sentence
+- unbalanced sentence
+- balanced sentence
+- split sentence
+- parenthetical sentence
+- regular sentence
+- irregular sentence
+- declarative-sentence
+- rhetorical sentence
+- compound-complex sentence
+- antithetic sentence
+- sentential sentence
+- subordinate sentence
+- attributive sentence
+- predicative sentence
+
+List of classes of sentences:
+- independent clause
+- dependent clause 
+- coordinating clause 
+- modifying clause 
+- non-coordinating clause
+- subordinating clause 
+- narrator clause
+- subject pronoun clause
+- object pronoun clause 
+- relative clause 
+- attributive adjective clause 
+- predicative adjective clause
+- narrative verb clause 
+- coordinating conjunction clause 
+- deciding conjunction clause
+- comparative conjunction clause
+- conditional conjunction clause
+- descriptive conjunction clause
+- correlatives conjunction clause
+- time conjunction clause
+- reason conjunction clause
+- place conjunction clause
+- manner conjunction clause
+- intrinsic conjunction clause
+- extensive conjunction clause
+- excessive conjunction clause
+- restriction conjunction clause
+- time-adverbial clause
+- manner-adverbial clause
+- place-adverbial clause 
+- reason-adverbial clause
+- object-adverbial clause
+- predicate-adverbial clause
+- sequential-adverbial clause
+- causal-adverbial clause 
+- concessive-adverbial clause 
+- contrast-adverbial clause 
+- purpose-adverbial clause
+- result-adverbial clause
+- condition-adverbial clause 
+- supplementary-adverbial clause
+- relativizing clause
+- comparative relative clause
+- subject relative clause
+- object relative clause
+- determinative relative clause
+- presupposed relative clause
+- subject-relative clause
+- objective-relative clause
+- descriptive-relative clause
+- relative pronoun clause
+- adjectival relative clause
+- adjective noun clause
+- dependent infinitive clause
+- independent infinitive clause
+- verb tense clause
+- past tense clause
+- present tense clause
+- future tense clause
+- perfect tense clause
+- progressive tense clause
+- intelligibly verb clause
+- interrogative clause
+- adverbial interrogative clause
+- indicative verb clause 
+- imperatively verb clause
+- minimally verb clause
+- neatly verb clause
+- emphatic verb clause
+- non existence verb clause
+- directional verb clause
+- determinate verb clause
+- descriptive verb clause 
+- tricuspid verb clause
+- interrogative verb clause
+- directive verb clause
+- unconvincing verb clause
+- parenthetical verb clause
+- elementary clause
+- secondary clause
+- complex primary clause
+- subordinate primary clause
+- principal primary clause 
+- secondary primary clause 
+- independent interrogatory clause
+- interrogative-adverb clause 
+- preterite clause 
+- declarative-apostrophized clause 
+- explanatory clause 
+- nonrestrictive(replicative) clause
+- restrictive (restricting or defining) clause

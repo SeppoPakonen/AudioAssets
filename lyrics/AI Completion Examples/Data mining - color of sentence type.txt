@@ -1,0 +1,35 @@
+Clauses of a line, types of clauses and category of sentence structure:
+1. "With the birds" + "Ill share this lonely view" == prepositional-phrase + independent-clause == prepositional-clause
+2. "Hey" + "you little piss baby" == interjection + noun-phrase == exclamatory-sentence
+3. "You think youre so fucking cool" + "Huh" == independent-clause + interjection == interrogative-sentence
+
+
+List of sentence types:
+- independent-clause + interjection == interrogative-sentence
+- independent-clause + prepositional-phrase == declarative-sentence
+- interjection + noun-phrase == exclamatory-sentence
+- independent-clause + relative-clause == descriptive-sentence
+- independent-clause + dependent-clause == complex-sentence
+- independent-clause + dependent-clause == complex-sentence
+- dependent-clause == imperative-sentence 
+- participial-phrase + prepositional-phrase == noun-phrase
+- independent-clause + comparative-phrase + interjection == exclamatory-sentence 
+- participial-phrase + prepositional-phrase == verbal-phrase 
+- independent-clause + comparative-phrase + interjection == exclamatory-sentence
+- participle-phrase + prepositional-phrases == noun-phrase 
+- independent-clause + adverbial-phrase == declarative-sentence
+
+
+Sentence types with their corresponding metaphorical RGB color value:
+- independent-clause + interjection == interrogative-sentence: RGB(255,254,1)
+- independent-clause + prepositional-phrase == declarative-sentence: RGB(0,183,255)
+- interjection + noun-phrase == exclamatory-sentence: RGB(255,0,72)
+- independent-clause + relative-clause == descriptive-sentence: RGB(135,206,250)
+- independent-clause + dependent-clause == complex-sentence: RGB(0,255,0)
+- dependent-clause == imperative-sentence: RGB(255,140,0)
+- participial-phrase + prepositional-phrase == noun-phrase: RGB(255,105,180) 
+- independent-clause + comparative-phrase + interjection == exclamatory-sentence: RGB(238,130,238)
+- participial-phrase + prepositional-phrase == verbal-phrase: RGB(210,105,30)
+- independent-clause + comparative-phrase + interjection == exclamatory-sentence: RGB(245,222,179) 
+- participle-phrase + prepositional-phrases == noun-phrase: RGB(255,215,0)
+- independent-clause + adverbial-phrase == declarative-sentence: RGB(255,218,185)

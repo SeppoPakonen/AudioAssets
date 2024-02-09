@@ -1,0 +1,92 @@
+Nana-code is a programming language for rhyming natural language.
+The language consists of 9 syllables, which can be connected with '-' character or without.
+Syllables have different vowel and consonant rhyming importance.
+Syllables:
+1. du - importance: consonant 0, vowel 0 (description: rhyming does not matter at all)
+2. di - importance: consonant 0, vowel 1
+3. da - importance: consonant 0, vowel 2 (description: vowel rhyming has maximum importance)
+4. tu - importance: consonant 1, vowel 0
+5. ti - importance: consonant 1, vowel 1
+6. ta - importance: consonant 1, vowel 2
+7. nu - importance: consonant 2, vowel 0 (description: consonant rhyming has maximum importance)
+8. ni - importance: consonant 2, vowel 1
+9. na - importance: consonant 2, vowel 2 (description: both consonant and vowel rhyming has maximum importance)
+
+
+Lower than level 3 means a range of possible English syllables.
+Extending syllable with one same vowel means a long phonetic pronounciation.
+Extended syllables: duu, dii, daa, tuu, tii, taa, nuu, nii, naa
+Vowels are usually more meaningful than consonants, so most used nana-syllables are "du, di, da, daa, duu, dii, daa, ti, ta, taa"
+
+Nana-syllables are matched to the phonetic version of the English word, e.g. "wonderful" -> "wʌndərˌfəl" -> "da- da"
+
+
+Example 1:
+Original English sentence: "wish me life, down the line"
+Phonetic ronounciation: "wɪʃ mi laif, daʊn ðə laɪn"
+Nana-code: "du du naa, duu du na"
+
+Example 2:
+Original English sentence: "you are the sea, we get freaky"
+Phonetic ronounciation: "ju ɑː ðə siː, wi gɛt friːki"
+Nana-code: "du nii na daa, na di nuu- da"
+
+Example 3:
+Original English sentence: "I want you back, and you don't like that"
+Phonetic ronounciation: "ai wɑːnt ju bæk, ænd ju doʊnt laɪk ðæt"
+Nana-code: "tu dii di da, du nu ni nu da"
+
+Example 4:
+Original English sentence: "all of us hot, that's all you got"
+Phonetic ronounciation: "ɔl ʌv ʌs hɑt, ðəts ɔl ju gɑt"
+Nana-code: "du da na da, da du nu na"
+
+Example 5:
+Original English sentence: "wondeful life, all the time"
+Phonetic ronounciation: "wʌndərˌfəl laif, ɔl ðə taɪm"
+Nana-code: "duu du da, duu du da"
+
+Example 6:
+Original English sentence: "rock it fucking, don't stop knocking"
+Phonetic ronounciation: "rɒk it ˈfʌkɪŋ, doʊnt stɒp ˈnɑkɪŋ"
+Nana-code: "da nu daa- na, duu du nu- da"
+
+Example 7:
+Original English sentence: "we could stay, but we can't play"
+Phonetic ronounciation: "wi kʊd steɪ, bət wi kænt pleɪ"
+Nana-code: "da du na, du da ni na"
+
+Example 8:
+Original English sentence: "sing a song, can't go wrong"
+Phonetic ronounciation: "sɪŋ ə sɒŋ, kænt ɡoʊ rɒŋ"
+Nana-code: "ni du na, duu nu na"
+
+Example 9:
+Original English sentence: "love conquers all, can't go on"
+Phonetic ronounciation: "lʌv ˈkɒŋkərz ɔl, kænt ɡoʊ ɒn"
+Nana-code: "di daa- na nu, nu nu na" 
+
+Example 10:
+Original English sentence: "sold out show, we can't go"
+Phonetic pronunciation: "soʊld aʊt ʃoʊ, wi kænt ɡoʊ"
+Nana-code: "na du nu, du da nu"
+
+
+
+Exercise 1:
+Original line doesn't match the nana-code. Modify the original line to match the nana-code. Consider end-rhyming.
+1. Original line: "you could be good for me"
+2. Original nana-code: "nu na ta- da nu"
+3. Modified nana-code: "du di di di di di di na"
+4. Nana-code difference between original and modified: 1 more syllables
+5. Original phonetic pronounciation: "ju kʊd bi ɡʊd fɔːr mi"
+6. Modified line: "you could be really good for me"
+
+Exercise 2:
+Original line doesn't match the nana-code. Modify the original line to match the nana-code. Consider end-rhyming.
+1. Original line: "life without love"
+2. Original nana-code: "du du-na da"
+3. Modified nana-code: "du di-di di- daa" 
+4. Nana-code difference between original and modified: 1 more syllables 
+5. Original phonetic pronounciation: "laif wɪðaʊt lʌv"
+6. Modified line: "life without your love"

@@ -1,0 +1,99 @@
+List of word classes:
+- Nouns
+- Verbs
+- Adjectives
+- Adverbs
+- Pronouns
+- Prepositions
+- Conjunctions
+- Determiners
+- Interjections
+- Articles
+- Modal verbs
+- Gerunds
+- Infinitives
+- Participles
+- Definite article
+- Indefinite article
+- Proper nouns
+- Collective nouns
+- Concrete nouns
+- Abstract nouns
+- Irregular verbs
+- Regular verbs
+- Transitive verbs
+- Intransitive verbs
+- Auxiliary verbs
+- Reflexive verbs
+- Imperative verbs
+- First person pronouns
+- Second person pronouns
+- Third person pronouns
+- Possessive pronouns
+- Demonstrative pronouns
+- Relative pronouns
+- Intensive pronouns
+- Indefinite pronouns
+- Personal pronouns
+- Subject pronouns
+- Objective pronouns
+- Possessive determiners
+- Possessive adjectives
+- Comparative adjectives
+- Superlative adjectives
+- Proper adjectives
+- Positive adjectives
+- Negative adjectives
+- etc.
+
+List "A" words:
+"you're"
+"so"
+"fucking"
+"cool"
+"?"
+"Huh"
+"tough"
+"talk"
+"a"
+"lotta"
+"big"
+"game"
+"for"
+"I'd"
+"ghost"
+"With"
+"the"
+"boys"
+"coming"
+"what's"
+"deal"
+"I've"
+"been"
+
+Word classes for the list "A" (lowercase):
+"you're" - pronoun + verb
+"so" - adverb
+"fucking" - adjective 
+"cool" - adjective 
+"?" - interjection 
+"Huh" - interjection
+"tough" - adjective
+"talk" - verb 
+"a" - determiner
+"lotta" - adjective 
+"big" - adjective
+"game" - noun 
+"for" - preposition
+"you'd" - pronoun + modal verb
+"would" - modal verb
+"I'd" - pronoun + modal verb 
+"ghost" - verb 
+"With" - preposition
+"the" - article 
+"boys" - noun 
+"coming" - verb
+"what's" - interjection 
+"deal" - noun 
+"I've" - pronoun + auxiliary verb
+"been" - auxiliary verb

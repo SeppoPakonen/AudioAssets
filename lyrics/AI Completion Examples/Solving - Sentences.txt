@@ -1,0 +1,27 @@
+List "A" words:
+- monarchy
+- royalty
+- tantrum
+- extent
+- intensity
+
+List "B" of template sentences:
+- Before you {verb}
+- Tryna find my {noun}
+- Tell me whats the deal
+- Ive been tryin to go to bed
+- Ive been up for days
+
+List of sentences using words from the list "A" and templates from the list "B". The templates can be modified slightly. Words surrounded with {} must be replaced. Length of sentence is 5 words in total:
+- Before you rule your monarchy.
+- Tryna find my royal feelings.
+- Before you throw a tantrum.
+- Tryna find my extent of happiness.
+- Before you show any intensity.
+- Tryna find my inner peace.
+- Before you claim the throne.
+- Tryna find my crown religion of bankersels.
+- Tell me what's the extent.
+- Before you display any intensity.
+- Tryna find my balance in life.
+ 

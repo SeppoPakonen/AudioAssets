@@ -1,0 +1,106 @@
+Lyrics:
+2 AM, howlin outside
+Lookin, but I cannot find
+
+
+Actions per a line of lyrics. With the most matching actions:
+- "2 AM, howlin outside": attention-time(night) + attention-emotional_state(desire) + attention-action(howling) + attention-activity(driving) + tone(urgent) + msg(trying to reach someone) + bias(romantic + emotion(uncertainty) + level-of-certainty(trying/desire) + gesturing(pointing) + describing-surroundings(anywhere in the dark) + attention-place(outside)
+- "Lookin, but I cannot find": attention-action(looking) + attention-physical state(tired) + emotion(frustration) + attention-emotional_state(desperation) + attention-time(late at night)
+
+
+Attribute list "A" (key, group, primary value, opposite value):
+- FAITH_AND_REASON_SEEKER, "faith and reason seekers", "divine worshipers", "rational thinker"
+- GROUP_FAITH, "group faith", "individual spirituality", "organized religion"
+- BELIF_SPECTRUM, "belief spectrum", "believer", "non-believer"
+- OLD_AND_NEW_BELIEVER, "old and new believers", "new age spirituality", "traditional religion"
+- BELIF_COMMUNITY, "belief communities", "secular society", "religious community"
+- THEOLOGICAL_OPPOSITE, "theological opposites", "theistic", "atheistic"
+- SEEKER_OF_TRUTH, "seekers of truth", "spiritual seeker", "skeptic"
+- INTUITIVE_THINKER, "intuitive thinkers", "rationalist", "mystic practitioner"
+- RATIONAL_BELIEF, "rational believers", "religious", "scientific"
+- PHYSICAL_PREFERENCE, "physical preference", "body enhancing beauty", "natural beauty"
+- SEXUAL_ORIENTATION, "sexual orientation", "heterosexual", "homosexual"
+- SEXUAL_PREFERENCE, "sexual preference", "normal", "kinky"
+- FAITH_EXTREME, "faith extremes", "agnostic", "religious fundamentalist"
+- AVERAGE_EXPECTATIONS, "average expectations", "expectation-conformed", "expectation-opposed"
+- IMAGERY, "imagery", "trope-reinforcing", "unique"
+- EXPRESSION, "expression", "explicit", "allegorical"
+- RELATIONSHIP, "relationship", "romantic couple", "without romantic partner" 
+- RELATIONSHIP_FOCUS, "relationship focus", "partner-focused", "individual-focused"
+- HUMAN_STRENGTH, "human strength", "strong", "weak"
+- GENDER, "gender", "female", "male"
+- RATIONALITY, "rationality", "unreasonable", "reasonable"
+- INTEGRITY, "integrity", "twisted", "honest"
+- SEXUALIZATION, "sexualization", "sexual", "non-sexual"
+- EXPECTATIONS, "expectations", "perfection", "acceptance"
+- PROBLEM_SOLVING, "problem solving strategy", "shortcut taking", "cunning"
+- RESPONSIBILITY, "responsibility", "irresponsible", "accountable"
+- SOCIAL, "social", "authoritarian", "libertarian"
+- ECONOMIC, "economic", "liberal", "conservative"
+- CULTURE, "culture", "individualistic", "collective"
+- GROUP_EXPERIENCE, "group experience", "group-oriented", "individual-oriented"
+- MOTIVATION, "motivation", "rewarding", "punishing"
+- LOVE_STATUS, "love status", "loving now", "heartbreak"
+- SITUATION_RELATION, "situation relation", "prescriptive", "descriptive"
+- COMPETITIVENESS, "competitiveness", "competition", "collaboration"
+- OTHER_RELATION, "relation to others", "comparison", "self-acceptance"
+- INTELLIGENCE, "intelligence", "emotional", "intellectual"
+- SOPHISTICATION, "sophistication", "sophisticated", "simple"
+- TRANSPARENCY, "transparency", "transparent", "mysterious"
+- STORYMODE, "storymode", "storytelling", "simple themes"
+- TRUTHFULNESS, "truthfulness", "personal experience", "fictional"
+- MINDFULNESS, "mindfulness", "mindless", "mindful"
+- PEACEFULNESS, "peacefulness", "peacemaker", "troublemaker"
+- NARRATIVE, "narrative", "protagonist storytelling", "narrative detachment"
+- LYRICAL_EMPHASIS, "lyrical emphasis", "witty wordplay", "straightforward lyrics"
+- EMOTIONALITY, "lyrical emphasis", "emotionally charged", "emotionally restrained"
+- CONCEPTS, "concepts", "grounded", "psychedelic"
+- STORY_MOTIVATION, "story-motivation",  "narrative-driven", "mood-driven"
+- REALITY, "reality", "escapism", "realism"
+- PROVOCATIVITY, "provocativity", "edgy", "innocent"
+- INSPIRATION_SOURCE, "source of inspiration", "nostalgic", "relevant to current times"
+- PRODUCTION_STYLE, "production style", "acoustic", "electronic"
+- LIFE_AND_LOVE, "life and love", "aspirational", "relatable"
+- AUDIENCE, "audience", "mainstream", "alternative"
+- AUTHENCITY, "authencity", "social media-driven", "authentic"
+- PATIENCE, "patience", "instant gratification", "longevity"
+- LOVE_TARGET, "target of love", "romantic love", "self-love"
+- AGE_TARGET, "age target", "youth-oriented", "age-inclusive"
+- INDEPENDENCE, "independence", "independence", "dependence"
+- COMMERCIAL_APPEAL, "commercial appeal", "mainstream success", "artistic integrity"
+- CULTURAL_ELEMENTS, "cultural elements", "globalization", "cultural preservation"
+- CORPORATION_RELATIONS, "corporation relations", "consumerism", "anti-capitalism"
+- CELEBRITY_PERSONA, "celebrity Persona", "celebrity worship", "body positivity"
+- EMOTIONAL_REALISM, "emotional realism",  "happiness", "realistic emotions"
+- PARTY_RELATION, "party relation", "party anthems", "introspective ballads"
+- ATTITUDE_ATTITUDE_OPEN_CLOSED, "attitude 1", "open", "closed"
+- ATTITUDE_HOPEFUL_DESPAIR, "attitude 2", "hopeful", "despair"
+- ATTITUDE_OPTIMISTIC_PESSIMISTIC, "attitude 3", "optimistic", "pessimistic"
+- SEXUALITY, "sexuality", "adventurous", "limited"
+- SEXUAL_ACTING, "sexual acting", "confident", "sensitive"
+- SEXUAL_COMMITMENT, "sexual commitment", "monogamy", "polygamy"
+- MOOD_JOYFUL_MELANCHOLIC, "mood 1", "joyful", "melancholic"
+- MOOD_LIGHTHEARTED_SOMBER, "mood 2", "lighthearted", "somber"
+- MOOD_UPLIFTING_HEAVY, "mood 3", "uplifting", "heavy"
+- MOOD_HUMOROUS_DRAMATIC, "mood 4", "humorous", "dramatic"
+- MOOD_PLAYFUL_SERIOUS, "mood 5", "playful", "serious"
+
+
+Primary attribute groups and values of sentences from attribute list "A":
+- "I won't blindly follow the crowd": group faith / individual spirituality
+- "feeling blue and green with envy": sexual preference / kinky
+- "2 AM, howlin outside": faith and reason seekers / divine worshipers
+- "Lookin, but I cannot find": truthfulness / personal experience
+
+
+Actions of the list "C":
+"attention-event(unpleasant smell)"
+"transition(activities/roles)"
+"status(fame/popularity)"
+"attention-statements(description of self)"
+
+Primary attribute groups and values of sentences from attribute list "A" for actions of the list "C":
+"attention-event(unpleasant smell)" sexualization / non-sexual
+"transition(activities/roles)" integrity / twisted
+"status(fame/popularity)" celebrity persona / anti-capitalism
+"attention-statements(description of self)" mindlessness / mindful

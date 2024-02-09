@@ -12,6 +12,29 @@ Types of profiles of the role of the singer of a song in relation to the lyrics:
 - singer is having a dialogue with the audience
 - singer is using abstract or poetic language to convey feelings or ideas
 - singer is highlighting the beauty or poeticism of the lyrics through their performance.
+- singer is asking questions and exploring different perspectives on the topic of the lyrics.
+- singer is using irony or satire to convey a message or make a statement.
+- singer is evoking nostalgia or longing through the lyrics.
+- singer is using personal experiences to give depth and authenticity to the lyrics. 
+- singer is using humor or wit to engage with the lyrics.
+- singer is challenging the listener's perspective or beliefs with the lyrics.
+- singer is using vocal techniques or styles to add layers of meaning to the lyrics.
+- singer is creating a sense of intimacy or connection through their performance of the lyrics.
+- singer is breaking societal expectations and norms through their interpretation of the lyrics.
+- singer is offering a unique perspective on a commonly addressed topic in the lyrics.
+- singer is creating a soundtrack or anthem for a specific group or community.
+- singer is using repetition or emphasis to emphasize the importance of the lyrics.
+- singer is using double entendres or wordplay to add depth and complexity to the lyrics. 
+- singer is reflecting on personal growth or transformation through the lyrics
+- singer is embodying a specific emotion or feeling portrayed in the lyrics
+- singer is representing a marginalized or underrepresented group through the lyrics
+- singer is using imagery or metaphors to convey a deeper meaning behind the lyrics
+- singer is expressing vulnerability or raw emotion through the lyrics
+- singer is narrating a specific event or experience through the lyrics
+- singer is using the lyrics to convey a sense of empowerment or strength
+- singer is engaging in introspection and self-reflection through the lyrics
+- singer is confronting personal demons or struggles in the lyrics. 
+- singer is using the lyrics to express social or cultural commentary.
 
 
 Primary human (main focus of the song):
@@ -55,8 +78,32 @@ Primary human (main focus of the song):
 - Individuals from a snowy-winter culture
 - Individuals from a snowless-winter culture
 - Artists or musicians
-- Essential workers or healthcare professionals
+- Workers in food industry
+- Workers in sex industry
+- Workers in car industry
+- Workers in house construction industry
+- Workers in transportation industry
+- Workers in healthcare industry
+- Workers in IT industry
+- Politicians
+- Democratic Politicians
+- Republican Politicians
+- Police officers
+- Teachers or educators
+- Students (college, high school, etc.)
+- Athletes
+- Homeowners
+- Single parents
+- Divorced or separated individuals
+- Retired individuals
+- Blue-collar workers
+- White-collar workers
+- Bystanders witnessing an act of injustice or violence
+- Survivors of trauma or abuse
+- People living in a war-torn or conflict-ridden area
+- People living in poverty
 
+ 
 Secondary human (focus of the primary person of a song):
 - Romantic partner or love interest
 - Family members (parents, siblings, children)
