@@ -4,6 +4,50 @@ Sov. Seppo Pakonen
 
 Pyhimys vai paholainen
 
+
+Säkeistö 1:
+C#m . . B E . . .
+C#m . . B E . . .
+C#m
+
+Kertosäe:
+A . B . C#m . . .
+A . C#m . Bsus4 . B .
+A . B . C#m . . .
+A . C#m . Bsus4 . B .
+
+Säkeistö 2:
+C#m . . B E . . .
+C#m . . B E . . .
+C#m . . B E . . .
+C#m . . B E . . .
+C#m
+
+Kertosäe:
+A . B . C#m . . .
+A . C#m . Bsus4 . B .
+A . B . C#m . . .
+A . C#m . Bsus4 . B .
+
+Bridge:
+A B C#m . A B C#m G#m
+A . C#m . Bsus4 . B G#m
+A B C#m . A B C#m G#m
+A . C#m . Bsus4 . B G#m
+C#m
+
+Kertosäe:
+A . B . C#m . . .
+A . C#m . Bsus4 . B .
+A . B . C#m . . .
+A . C#m . Bsus4 . B .
+
+Outro:
+A . B . C#m . . .
+A . C#m . B . . .
+C#m
+
+
 Hiukset mustalla värjäsin
 ja minuuteni rippeitä keräsin
 Silmät tummiksi maalasin

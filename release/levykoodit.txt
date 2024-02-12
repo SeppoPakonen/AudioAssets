@@ -1,3 +1,9 @@
+#### Gramex numerot
+Seppo Pakonen	1096738
+Laura Timonen	05310500
+Kaisu Leinonen	1107239
+Antti Honkasalo	1052230
+
 
 				#### ARTISTI ####
 				
@@ -37,3 +43,7 @@ KAISU003
 				#### Lara Ciara ####
 LARA001
 						Honeymoon						QZWFM2389567
+LARA002
+						Pyhimys vai paholainen			QZFYY2403801
+						Honeymoon						QZFYY2403802
+						Roadtrip						QZFYY2403803
