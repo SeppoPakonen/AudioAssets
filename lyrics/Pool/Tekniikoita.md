@@ -33,6 +33,39 @@ Tekniikoita, jotka käyttävät listoja rytmin, kuvion tai keskeisen teeman tai 
 Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellistä käyttöä
 
 
+## Rap-lyriikka tekniikoita
+
+#### K. Shokkiarvon käyttö
+Tekniikat, joiden tarkoituksena on järkyttää ja herättää kuuntelijoiden voimakas reaktio käyttämällä selkeää kieltä, kiistanalaisia aiheita tai graafisia kuvauksia.
+
+#### L. Braggadocion käyttö
+Tekniikoita, joihin kuuluu saavutusten, aseman tai kykyjensä kerskuminen ja liioitteleminen hallitsevan aseman saavuttamiseksi ja itseluottamuksen vahvistamiseksi.
+
+#### M. Huumorin käyttö
+Tekniikoita, joissa käytetään sarkasmia, ironiaa tai älykästä sanaleikkiä lisätäkseen lauluun komedian elementtiä.
+
+#### N. Liioittamisen käyttö
+Tekniikat, jotka liioittelevat tai hyperbolisoivat tiettyjä todellisuuden puolia korostaakseen jotakin asiaa tai tehdäkseen vaikutelman.
+
+#### O. Satiirin käyttö
+Tekniikat, joissa käytetään pilkkaa, parodiaa tai sarkasmia yhteiskunnallisten kysymysten tai normien kritisoimiseen ja pilkamiseen.
+
+#### P. Sanaleikin ja sanamanipuloinnin käyttö
+Tekniikoita, joissa leikitään sanoilla, äänillä ja merkityksillä älykkäiden ja tarttuvien sanoitusten luomiseksi.
+
+#### Q. Näytteenoton ja uudelleenmiksauksen käyttö
+Tekniikoita, joihin sisältyy näytteitä tai elementtejä muista kappaleista tai genreistä ainutlaatuisen ja innovatiivisen äänen luomiseksi.
+
+#### R. Tarinankerronta
+Tekniikoita, jotka käyttävät kerrontarakennetta tarinan kertomiseen tai viestin välittämiseen laulussa.
+
+#### S. Puhelun ja vastauksen käyttö
+Tekniikoita, joihin liittyy edestakaisin vuorovaikutus räppärin ja kuuntelijoiden välillä, mikä luo yhtenäisyyden ja osallistumisen tunteen.
+
+#### T. Sosiaalisen kommentin käyttö
+Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja poliittisia kysymyksiä, joilla pyritään lisäämään tietoisuutta ja edistämään muutosta.
+
+
 ## Ohjeet
 
 ### A. Kuvailevan kielen käyttö
@@ -41,19 +74,21 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
     "Lapin kesäyö on taikaa / Keskellä metsää hiljaisuus vallitsee"
 	"Roses are red, violets are blue / My heart is full of love for you"
 
-2. Kirjoita ensimmäisellä rivillä viidestä aistista - näkö, ääni, haju, maku, kosketus - ja käytä kuvailevaa kieltä
+2. Kirjoita ensimmäiselle riville viidestä aistista - näkö, ääni, haju, maku, kosketus - ja käytä kuvailevaa kieltä
 
 	"Auringonvalo häikäisee silmiä / Ympärillä kuuluu linnunlaulua, / Tuoksuu vastaleikatulta ruoholta, / Suussa sulaa jäätelön makeus, / Käsi kokeilee viilentävää vettä."
+	
     "I see the sun setting over the ocean's endless horizon / The sound of crashing waves echoes in my ears, salt spray on my lips"
 
-3. Kirjoita ensimmäiselle riville metafora tai vertailu, ja toiselle riville selitä tai laajenna sitä
+3. Kirjoita ensimmäiselle riville metafora tai vertailu, ja toiselle rivillä selitä tai laajenna sitä
 
-	"Rakkaus on kuin ruusu sateella / Sen terät hiipuvat, mutta juuriin juurtuu."
+	"Rakkaus on kuin ruusu sateella / Sen terät hiipuvat, mutta juuret juurtuu."
+	
     "Life is a winding road, full of twists and turns / Each step brings a new adventure, a lesson learned"
 
 4. Käytä ensimmäisellä rivillä onomatopoeiaa tai sanoja, jotka jäljittelevät luonnollisia ääniä, ja toisella rivillä käytä eloisia kuvia kuvaamaan ääntä
 
-	"Tasainen ropina talon katolla / Kuin pisaroita lasista päälle."
+	"Tasainen ropina talon katolla / Kuin saavista kaatamalla"
 
     "The rain pitter-patters on the rooftop, a gentle lullaby / A symphony of drops, dancing and splashing in harmony"
 
@@ -63,7 +98,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
     "The taste of her words is bitter on my tongue / Like poison slowly seeping into my heart."
 
-6. Kirjoita ensimmäiselle riville vertaus tai vertailu käyttämällä "like" tai "as" ja toisella rivillä tarkenna vertailua kuvailevalla kielellä
+6. Kirjoita ensimmäiselle riville vertaus tai vertailu käyttämällä "kuin" tai "lailla" ja toisella rivillä tarkenna vertailua kuvailevalla kielellä
 
 	"Äiti on kuin aurinko lapsilleen / Lämmin ja loistava, antaa elämää ja valoa."
 
@@ -71,13 +106,13 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 7. Käytä ensimmäisellä rivillä personifikaatiota tai inhimillisten ominaisuuksien antamista ei-inhimillisille esineille, ja toisella rivillä kuvaile kohde ihmismäisellä tavalla
 
-	"Kuutamo kasvot järven pinnalla / Heijastuvat tähtien tuikkeessa, / Ne hymyilevät pehmeästi ja kertovat tarinoita öisestä maailmasta."
+	"Kuutamon kasvot järven pinnalla / Heijastuvat tähtien tuikkeessa, / Ne hymyilevät pehmeästi ja kertovat tarinoita öisestä maailmasta."
 
     "The wind whispers secrets through the trees / Their leaves rustle and sway, eager to listen and share"
 
-8. Kirjoita ensimmäiselle riville haiku, japanilaisen runouden muoto, joka käyttää tyypillisesti kolmea riviä ja vuodenaikojen tai luontoaiheista kuvaa, ja toiselle riville kuvaile kuvasta yksityiskohtainen kuvaus.
+8. Kirjoita ensimmäiselle riville haiku, japanilaisen runouden muoto, joka käyttää tyypillisesti kolmea riviä ja vuodenaikojen tai luontoaiheista kuvaa, ja toiselle riville kuvaile näkymästä yksityiskohtainen kuvaus.
 
-	"Kukkia niityllä / Vaaleanpunaisia pilkkunoita / Kasteen helmissä."
+	"Kukkia niityllä / Vaaleanpunaisia pilkkuja / Kasteen helmillä."
 
     "Golden sunflower, turned to face the light / Petals stretch and yawn, greeting the morning with delight"
 
@@ -89,32 +124,32 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 10. Käytä ensimmäisellä rivillä hyperbolia eli liioiteltua kieltä ja toisella rivillä kuvaavaa kieltä korostaaksesi liioittelua ja lisätäksesi kuvaan syvyyttä.
 
-	"Puiden latvat kurottavat pilviin / Ikään kuin ne haluaisivat koskettaa maata taivasta."
+	"Puiden latvat kurottavat pilviin / Ikään kuin ne haluaisivat koskettaa taivasta."
 
     "A sea of stars blankets the endless sky / A dazzling array of glittering jewels, a sight to behold"
 
 11. Kirjoita ensimmäiselle riville konkreettinen runo, jossa runon fyysinen muoto heijastelee merkitystä tai teemaa, ja toisella rivillä kuvaile runon visuaalisia puolia kuvailevalla kielellä.
 
-	"Puu kasvaa korkealle taivaisiin / Lehtiä kasvaa kuin käsi oksilla, / Juuret kaivautuvat syvälle maan uumeniin."
+	"Puu kasvaa korkealle taivaisiin / Lehtiä kasvaa kuin hiuksia päähän, / Juuret kaivautuvat jalkoina syvälle maan uumeniin."
 
     "I stand tall and strong, rooted in the earth / My branches reach towards the sun, a symphony of growth and rebirth."
 
 ### B. Lainausten käyttö
 1. Käytä ensimmäisellä rivillä lainausta kuuluisalta johtajalta tai historiallisesta henkilöstä ja kirjoita toiselle riville oma pohdiskelusi tai vastauksesi lainaukseen
 
-	"Elämä on kuin hiekka tiimalasissa / Mutta meitä on monia, jotka pystyvät toisiamme auttamaan. - Simo Häyhä"
+	"Elämä on kuin hiekka tiimalasissa / Mutta meitä on monia, jotka pystyvät toisiamme tukemaan."
 
     "Be the change you want to see in the world - Mahatma Gandhi / A powerful reminder to take action and make a difference in the world around us"
 
-2. Käytä ensimmäisellä rivillä lainausta kappaleesta ja toisella rivillä tutkia sanoituksen herättämiä tunteita ja ajatuksia
+2. Käytä ensimmäisellä rivillä lainausta kappaleesta ja toisella rivillä tutki sanoituksen herättämiä tunteita ja ajatuksia
 
-	"Kukaan ei ole saari / Mutta välillä tuntuu, että on yksin merellä."
+	"Kukaan ei ole saari / Mutta välillä tuntuu, kuin olisi yksin merellä."
 
     "Imagine all the people living life in peace - John Lennon / A beautiful dream, but one we must actively work towards to make a reality"
 
 3. Käytä ensimmäisellä rivillä lainausta runosta ja sisällytä toisella rivillä kuvia tai teemoja alkuperäisestä runosta omaan kirjoitukseesi
 
-	"Käy talvi, hyytyvät järvet ja niin / Myös ihmisten sydämet. - Eino Leino / Sydän on kylmä ja kaipaa lämpöä, / Toiseen sen ilmaisee vain heikolla hälyillä."
+	"Käy talvi, jäätyvät järvet / ja niin myös ihmisten sydämet. / Sydän on kylmä ja kaipaa lämpöä, / Toiseen sen ilmaisee vain heikolla äänellä."
 
     "Do not go gentle into that good night - Dylan Thomas / As the sun sets on the horizon, I refuse to let my light fade without a fight"
 
@@ -126,7 +161,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 5. Käytä ensimmäisellä rivillä lainausta kuuluisasta puheesta ja toisella rivillä kuvaavaa kieltä maalataksesi visuaalisen puhujan ja hänen viestinsä
 
-	"Olemme kansakunta, joka ei pelkää haasteita / Hän seisoo pää pystyssä ja katsoo yli kaiken, / Hänen sanansa silmiinpistävänä kuin hänen olemuksensa, - Michelle Obama"
+	"Olemme kansakunta, joka ei pelkää haasteita / Hän seisoo pää pystyssä ja katsoo yli kaiken, / Hänen sanansa silmiinpistävänä kuin hänen olemuksensa"
 
     "I have a dream that one day this nation will rise up and live out the true meaning of its creed - Dr. Martin Luther King Jr. / A powerful voice, standing tall and unwavering, inspiring hope and change with every word"
 
@@ -138,7 +173,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 7. Käytä ensimmäisellä rivillä lainausta uskonnollisesta tai hengellisestä tekstistä ja toisella rivillä tutki sen vaikutusta tai merkitystä elämässäsi
 
-	"Tee toisille niin kuin haluaisit heidän tekevän sinulle / Sanat, jotka kannustavat empatiaan ja myötätuntoon, ovat voimakkaita omassa elämässäni."
+	"Tee muille niinkuin haluaisit heidän tekevän sinulle / Sanat, jotka kannustavat empatiaan ja myötätuntoon, ovat voimakkaita omassa elämässäni."
 
     "In the end, only kindness matters - Jewel / A reminder to put love and compassion above all else, for it is what truly matters in the end"
 
@@ -186,7 +221,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
     "Forever this love will last, forever my heart is yours / A bond that cannot be broken, a love that knows no bounds"
 
-5. Käytä ensimmäisellä rivillä chiasmusa tai sanajärjestyksen käännettä ja toisella rivillä kuvia tai kuvailevaa kieltä korostaaksesi kontrastia tai merkityksen muutosta.
+5. Käytä ensimmäisellä rivillä chiasmusaa tai sanajärjestyksen käännettä ja toisella rivillä kuvia tai kuvailevaa kieltä korostaaksesi kontrastia tai merkityksen muutosta.
 
 	"Täynnä elämää olin, / Elämästä täysi olin."
 
@@ -194,13 +229,13 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 6. Käytä ensimmäisellä rivillä anadiploosia tai yhden lauseen viimeisen sanan toistoa seuraavan lauseen alussa ja toisella rivillä kuvailevaa kieltä luodaksesi virtauksen ja yhteyden ilmaisujen välille
 
-	"Olen vahva, / Vahva seistessäni yksin, / Yksin pelkojeni keskellä, / Keskeläni vain pimeys."
+	"Olen vahva, / Vahva seistessäni yksin, / Yksin pelkojeni keskellä, / Keskelläni vain pimeys."
 
     "Hope knows no boundaries, boundaries create fear / Fear that keeps us trapped, trapped in our own minds"
 
 7. Käytä ensimmäisellä rivillä polysyndetonia tai konjunktioiden toistoa ja toisella rivillä kuvailevaa kieltä luodaksesi tunteen kasautumisesta tai ylimäärästä.
 
-	"Ja itkin ja nauroin ja huusin / Ja tunsin ja ajattelin ja uneksin"
+	"Itkin ja nauroin ja huusin / Ja tunsin ja ajattelin ja uneksin"
 
     "I ran and ran and ran, my feet pounding on the pavement / My heart racing, my breath catching, an unstoppable force"
 
@@ -212,7 +247,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 9. Käytä ensimmäisellä rivillä toistoa luettelon muodossa ja toisella rivillä kuvaavaa kieltä maalataksesi elävä kuva tai tutkiaksesi luettelon keskeistä teemaa.
 
-	"Sade rummuttaa, salamoi, laulaa, / Ja minä tunnen sen jokaisella ihollani, / Väristen, kahlittuna, vapautuneena, / Kuin tulvan vallassa, vailla valtaa."
+	"Sade rummuttaa, salamoi, laulaa, / Ja minä tunnen sen kaikkialla ihollani, / Väristen, kahlittuna, vapautuneena, / Kuin tulvan vallassa, vailla valtaa."
 
     "Days stretch into weeks, weeks blur into months / Time moves forward, a never-ending cycle, a constant march"
 
@@ -231,11 +266,11 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 2. Käytä ensimmäisellä rivillä kahta vastakkaista sanaa tai ideaa, ja toisella rivillä käytä kuvailevaa kieltä niiden välisen kuilun kuromiseksi umpeen.
 
-	"Valo ja pimeys, / Kaksi puolta samassa maailmassa, / Toisiaan täydentäen, / Toisiaan tasapainottaen."
+	"Valo ja pimeys, / Kaksi puolta samasta maailmasta, / Toisiaan täydentäen, / Toisiaan tasapainottaen."
 
     "Love and hate, two sides of the same coin / Emotions run high, passion and fury intertwined in a never-ending battle"
 
-3. Kirjoita ensimmäisellä rivillä kahdesta vastakkaisesta tunteesta tai näkökulmasta, ja toisella rivillä käytä kuvailevaa kieltä luodaksesi jännityksen tai tasapainon tunteen niiden välille.
+3. Kirjoita ensimmäiselle riville kahdesta vastakkaisesta tunteesta tai näkökulmasta, ja toisella rivillä käytä kuvailevaa kieltä luodaksesi jännityksen tai tasapainon tunteen niiden välille.
 
 	"Rakkaus ja viha, / Kaksi tunnetta, jotka voivat olla toisiaan vastaan / Tai toisiaan kohti."
 
@@ -247,7 +282,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
     "A bustling city street and a peaceful meadow, two worlds so different yet both filled with life / The constant movement and noise, the serene stillness and delicate beauty, each offering their own unique experience" 
 
-5. Kirjoita ensimmäisellä rivillä kahdesta eri ajanjaksosta tai kulttuurista ja toisella rivillä vertaa ja vertaa ihmisten kokemuksia tai näkökulmia kustakin ajasta tai kulttuurista.
+5. Kirjoita ensimmäiselle riville kahdesta eri ajanjaksosta tai kulttuurista ja toisella rivillä selitä ja vertaa ihmisten kokemuksia tai näkökulmia kustakin ajasta tai kulttuurista.
 
 	"Nykyisyys ja menneisyys, / Kaksi aikaa, / Kaksi tapaa elää ja kokea elämä."
 
@@ -277,13 +312,13 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 ### E. Henkilökohtaisen reflektoinnin käyttö
 1. Kirjoita ensimmäiselle riville tunnettu lause ja toiselle riville oma siihen liittyvä negatiivinen lause.
 
-    ```Muistatko sen kesäyön / kun hyttyset syö / eikä karkuun pääse```
+    "Muistatko sen kesäyön / kun hyttyset syö / eikä karkuun pääse"
     
     "A picture is worth a thousand words / But your words leave me speechless with their cruelty"
     
 2. Ensimmäisellä rivillä pohditaan mennyttä muistoa tai kokemusta ja toisella rivillä käytä aistinvaraisia yksityiskohtia kuvaamaan kohtausta ja muiston herättämiä tunteita
 
-	"Mökki järvellä kesäiltaisin / Hyttysten soitto korvissani, / Tuli lämmittää vanhaa puusaunaa, / Katson ihastuksella auringonlaskua järven pinnassa."
+	"Mökki järvellä kesäiltaisin / Hyttysten soitto korvissani, / Tuli lämmittää vanhaa puusaunaa, / Katson ihastuksella auringonlaskua järven pinnalla."
 
 	"I remember the rustling of leaves, the warmth of the sun on my skin / A carefree summer day, laughter and joy filling the air"
 
@@ -305,7 +340,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 	"Kindness is contagious, spreading like wildfire from one person to another / A smile, a kind word, a small act of love can ignite a chain reaction of goodness"
 
-6. Kirjoita ensimmäisellä rivillä muovaavasta kokemuksesta elämässäsi, ja toisella rivillä käytä kuvailevaa kieltä kertoaksesi vaikutuksen ja merkityksen, joka sillä oli sinuun.
+6. Kirjoita ensimmäiselle riville muovaavasta kokemuksesta elämässäsi, ja toisella rivillä käytä kuvailevaa kieltä kertoaksesi vaikutuksen ja merkityksen, joka sillä oli sinuun.
 
 	"Lapsuudenmuistot vuoren laella / Näkymät yläilmoista, / Ne kasvattivat rohkeutta ja vapauttivat mielen, / Opettivat minua näkemään maailman uudessa valossa."
 
@@ -345,7 +380,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 3. Käytä ensimmäisellä rivillä vertauskuvana myyttiä tai legendaa ja toisella rivillä kuvaavaa kieltä vertaamaan metafora nykypäivään
 
-	"Ikaros lentää lähelle aurinkoa / Sydän täynnä kunnianhimoa, / Mutta vahamuttojen sulaminen hajoittaa siivet, / Kunnes putoan takaisin maanpinnalle."
+	"Ikaros lentää lähelle aurinkoa / Sydän täynnä kunnianhimoa, / Mutta vahasulkien sulaminen hajoittaa siivet, / Kunnes putoan takaisin maanpinnalle."
 
 	"Pandora's box, a metaphor for temptation / In a world of instant gratification, opening doors to dangerous desires"
 
@@ -363,7 +398,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 6. Kirjoita ensimmäiselle riville metaforinen kysymys ja toiselle riville kuvaavaa kieltä antaaksesi vastaus tai pohdiskelu kysymykseen metaforien ja symboliikan avulla.
 
-	"Oletko perhonen suljetussa purkissa / Vapauden kaipuullisen ollen, / Vai linnunsulka joka vapaana tuulessa leijailee / Onnellisen ja kevyen olon täytön?"
+	"Oletko perhonen suljetussa purkissa / Vapautta kaipaavana, / Vai linnunsulka joka vapaana tuulessa leijailee / Onnellista ja kevyttä oloa täynnä?"
 
 	"What is the value of a single raindrop in a storm? / A small piece of the puzzle, creating a beautiful and vital whole"
 
@@ -399,7 +434,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 	"What does it mean to be brave? / The pounding heart, the trembling hands, the choice to stand and face your fears?"
 
-4. Kirjoita ensimmäiselle riville joukko kysymyksiä ja toiselle riville käytä kuvailevaa kieltä antaaksesi vastauksia tai pohdintoja kysymyksiin luodaksesi virtauksen ja kehityksen tunteen runoon.
+4. Kirjoita ensimmäiselle riville joukko kysymyksiä ja toisella rivillä käytä kuvailevaa kieltä antaaksesi vastauksia tai pohdintoja kysymyksiin luodaksesi virtauksen ja kehityksen tunteen runoon.
 
 	"Missä olin ennen syntymääni? / Missä olen menossa kuolemani jälkeen? / Missä olen nyt? / Ehkä olen kaiken ja ei-minkään välissä, / Hengitän elämää ja unohdan olemassaolon."
 
@@ -439,37 +474,37 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 ### H. Viittauksen käyttö
 1. Käytä ensimmäisellä rivillä viittausta kuuluisaan kirjalliseen tai historialliseen henkilöön tai tapahtumaan ja toisella rivillä kuvailevaa kieltä tutkiaksesi viittauksen merkitystä ja merkitystä runon yhteydessä.
 
-	"Kuin Faust itse, / Hänen himonsa viehättää, / Mutta samalla tuhoaa kaikki ympäriltä."
+	"Kuin Faust itse, / Hänen himonsa viehättää, / Mutta samalla tuhoaa kaiken ympäriltä."
 
 	"With each step, I feel like I am Atlas, carrying the weight of the world on my shoulders / The constant struggle to find balance and hold everything together, just like the Greek titan who carries the sky"
 
 2. Tee ensimmäisellä rivillä viittaus ikoniseen taideteokseen, ja toisella rivillä käytä kuvailevaa kieltä taideteoksen taiteellisten elementtien ja symboliikojen tarkentamiseksi
 
-	"Kuin Mona Lisa hymy, / Hänen kasvojensa kauneus kätkee jotakin salaperäistä, / Samalla paljastaen auringolla kylpevän maiseman."
+	"Kuin Mona Lisan hymy, / Hänen kasvojensa kauneus kätkee jotakin salaperäistä, / Samalla paljastaen auringolla kylpevän maiseman."
 
 	"My heart is a melting clock, a Salvador Dali masterpiece / The surrealism of love, bending and dripping with the passage of time"
 
 3. Ensimmäisellä rivillä viitataan tunnettuun lauluun tai elokuvaan ja toisella rivillä käytä kuvailevaa kieltä yhdistämään viittaus runon teemaan tai viestiin
 
-	"Kuin Titanicin loppukohtaus, / Löytää ilo aina tien pimeimmän lopulta, / Vaikka kaikki vaikuttaa toivottomalta."
+	"Kuin Titanicin loppukohtaus, / Löytää ilo aina pimeimmänkin kolkan, / Vaikka kaikki vaikuttaisi toivottomalta."
 
 	"My love is a battlefield, like in that famous Pat Benatar song / The constant push and pull, the struggle for power and control"
 
 4. Käytä ensimmäisellä rivillä viittausta suosittuun sanontaan tai lauseeseen ja toisella rivillä kuvailevaa kieltä tutkiaksesi sananlaskun tai kielen merkitystä ja merkityksiä runon yhteydessä.
 
-	"Kuin päästä jää taivaalle, / Nauttia kaiken kauneudesta, / Mutta samalla toteuttaa elämän tarkoitus."
+	"Kun mieli lentää korkealla / nauttien kaiken kauneudesta, / niin samalla toteutuu elämän tarkoitus."
 
 	"They say the grass is always greener on the other side / But what they don't tell you, is that the grass needs water and care to stay green, no matter where it grows."
 
 5. Ensimmäisellä rivillä viitataan henkilökohtaiseen muistoon tai kokemukseen, ja toisella rivillä käytä kuvailevaa kieltä liittääksesi viittauksen nykyhetkeen ja pohtiaksesi sen merkitystä.
 
-	"Entisen koiramme haju nousee ylös, / Säräyttää sydämen, / Samalla muistuttaen haikeudesta ja kaipuusta."
+	"Entisen koiramme haju tulee esiin, / iskee sydämeen, / ja samalla muistuttaa haikeudesta ja kaipuusta."
 
 	"Like a bird with a broken wing, I try to take flight but keep falling back to the ground / But each time I fall, I learn to pick myself up again, and one day, I will soar higher than ever before."
 
 6. Käytä ensimmäisellä rivillä viittausta myytiin tai legendaan ja toisella rivillä kuvaavaa kieltä vertaillaksesi ja vastataksesi viittauksen teemoja ja symboleja runon teemoihin ja symboleihin.
 
-	"Kuin Odysseuksen seikkailut, / Hänen matkansa täynnä monia vaaroja, / Mutta samalla opettaen elämän varjoista ja valoista."
+	"Kuin Odysseuksen seikkailut, / on hänen matkansa täynnä monia vaaroja, / Mutta samalla se opettaa elämän varjoista ja valoista."
 
 	"My heart is a modern-day Icarus, flying too close to the sun / The fear of falling and the thrill of soaring, constantly at war within me"
 
@@ -487,7 +522,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 9. Sisällytä ensimmäisellä rivillä viittaus kulttuuriperinteeseen tai kansansatuihin, ja toisella rivillä käytä kuvailevaa kieltä kertoaksesi uudelleen tai tulkitaksesi tarinaa uudessa valossa suhteessa runon teemaan tai sanomaan.
 
-	"Kuin Kalevalan kantele, / Hänen äänensä raikaa tarinansa, / Puhdistaa ja jatkaa tuhatvuotista perinnettä." 
+	"Kuin Kalevalan kantele, / Hänen äänensä raikaa tarinaa, / Puhdistaa ja jatkaa tuhatvuotista perinnettä." 
 
 	"Like Rapunzel, locked in a tower, I wait for someone to come and rescue me / But I am learning that I have the power to save myself, with my own two hands and my own inner strength."
 
@@ -495,7 +530,7 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 ### I. Listojen käyttö
 1. Luo ensimmäiselle riville luettelo kuvaavista sanoista tai lauseista ja käytä toisella rivillä näitä sanoja kirjoittaaksesi yksityiskohtaisempi ja mieleenpainuva kuvaus kohtauksesta, tunteesta tai käsitteestä.
 
-	"Hämärä, sumuinen metsä; / Hiljainen, jännittynyt odotus, / Puun latvaan kieri purppuraloinen lehti."
+	"Hämärä, sumuinen metsä; / Hiljainen, jännittynyt odotus, / Puun latvaan kieri purppurainen lehti."
 
 	"Soft, gentle, peaceful, quiet / The breeze dances through the trees, rustling leaves and carrying whispers of nature's secrets"
 
@@ -507,13 +542,13 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 3. Käytä ensimmäisellä rivillä verbiluetteloa ja toisella rivillä näitä verbejä luodaksesi liikkeen tai toiminnan tunteen runoon
 
-	"Sydän jyskyttää rinnassa; / Juoksen, lentää, huidon, / Ja viimein kaadun, hengästyneenä ja voitokkaana."
+	"Sydän jyskyttää rinnassa; / Juoksen, lennän, huidon, / Ja viimein kaadun, hengästyneenä ja voitokkaana."
 
 	"Run, leap, soar / With each step, I leave behind my fears and doubts, flying towards new horizons and endless possibilities"
 
 4. Tee ensimmäiselle riville luettelo muistoista ja toisella rivillä käytä näitä muistoja tutkiaksesi runon keskeistä teemaa tai tunnetta
 
-	"Ruohikkoa, joka kasteessa siilään tuntuu kovalta; / Hiekkarannalla käsi kädessä, tuntien olevansa turvassa, / Ajatuksissa välkkyvä Merenneito-peli, ja nauru, joka ei lopu."
+	"Ruohikkoa, joka kasteessa tuntuu kovalta; / Hiekkarannalla käsi kädessä, tuntien olevansa turvassa, / Ajatuksissa välkkyvä Merenneito-peli, ja nauru, joka ei lopu."
 
 	"Summer campfires, late night talks, childhood laughter / Memories that warm the heart, reminding me of the beauty and simplicity of life"
 
@@ -535,13 +570,13 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 	"Light and dark, joy and sorrow, beginnings and endings / The tapestry of life, woven with threads of both light and dark, creating a beautiful and intricate masterpiece"
 
-8. Tee ensimmäisellä rivillä luettelo luonnollisista elementeistä ja käytä toisella rivillä näitä elementtejä kuvaamaan kohtausta tai tunnetta tavalla, joka tuntuu enemmän liittyvältä luontoon.
+8. Tee ensimmäisellä rivillä luettelo luonnollisista elementeistä ja käytä toisella rivillä näitä elementtejä kuvaamaan kohtausta tai tunnetta tavalla, joka tuntuu enemmän liittyvän luontoon.
 
 	"Aurinko paistaa pilvettömältä taivaalta; / Meren aallot loiskuvat rannalle; / Kevät tuoksuu; / Tuntuu kuin elämä olisi täynnä mahdollisuuksia."
 
 	"Wind, water, fire, earth / The elements of nature, powerful and untamed, a reflection of our own wild and untamed souls"
 
-9. Luo ensimmäiselle riville luettelo abstrakteista käsitteistä ja käytä näitä käsitteitä toiselle riville tutkiaksesi erilaisia näkökulmia ja tulkintoja runon pääideasta.
+9. Luo ensimmäiselle riville luettelo abstrakteista käsitteistä ja käytä näitä käsitteitä toisella rivillä tutkiaksesi erilaisia näkökulmia ja tulkintoja runon pääideasta.
 
 	"Onnellisuus, vapaus, rakkaus, sopusointu; / Miten yksi sana voi merkitä niin monta erilaista asiaa? / Ja miten ne kaikki voivat olla yhtä tärkeitä, / Vaikka ne tuntuvat niin erilaisilta ja jopa ristiriitaisilta?"
 
@@ -549,56 +584,56 @@ Tekniikoita, jotka sisältävät sanaleikkiä, sanaleikkejä ja muuta kielellist
 
 
 ### J. Sanaleikin käyttö
-1. Käytä ensimmäisellä rivillä sanaleikkiä tai sanaleikkiä ja toisella rivillä kuvaavaa kieltä lisätäksesi sanapeliin syvyyttä ja merkitystä.
+1. Käytä ensimmäisellä rivillä sanaleikkiä tai huumoria ja toisella rivillä kuvaavaa kieltä lisätäksesi sanapeliin syvyyttä ja merkitystä.
 
-	"Vesiputous kuiskaa hiljaa / Ja täyttää metsän kaikuillaan."
+	"Seuraan punaista lankaa / joka purkautui ehjästä ajatustesi kankaasta."
 
 	"A stitch in time saves nine / But without thread, the fabric unravels, leaving the future up to chance"
 
-2. Anna ensimmäisellä rivillä sana tai lause kuulostaa samalta ja toisella rivillä käytä sanaleikkiä tutkiaksesi saman kuulosisten sanojen eri merkityksiä ja vivahteita.
+2. Käytä ensimmäisellä rivillä saman kuuloista sanaa kahdessa eri merkityksessä, ja toisella rivillä käytä sanaleikkiä tutkiaksesi saman kuuloisten sanojen eri merkityksiä ja vivahteita.
 
-	"Mielessä siintää tulevaisuus / Mutta samaan aikaan pelottaa."
+	"Muuraan suomuuraimen hajuinen suo mun sieraimissani / mutta joku muu raasu ei hillan hillaa saa kuitenkaan."
 
 	"I scream, you scream, we all scream for ice cream / But what's the scoop? Our cravings come in endless flavors, from rocky road to mint chocolate chip"
 
 3. Käytä ensimmäisellä rivillä kaksoispäätä tai lausetta, jolla on kaksi eri merkitystä, ja toisella rivillä käytä kuvailevaa kieltä korostaaksesi kaksoismerkityksiä ja lisäämällä kerroksia runon viestiin
 
-	"Sana voi tappaa / Mutta myös vaikeneminen."
+	"Ii oli ensimmäinen kirjain sanassa / mutta hän ei sanonutkaan enempää, koska osoitteena olikin Ii"
 
 	"She wakes up at the crack of dawn, eager to start her day / But is she just a prisoner of her own routines, confined by the cracks in her foundation?"
 
-4. Luo ensimmäiselle riville lause, jossa on homonyymi tai sana, jolla on useita merkityksiä, ja toiselle riville käytä sanaleikkiä kunnioittaaksesi runon homonyymin eri merkityksiä.
+4. Luo ensimmäiselle riville lause, jossa on homonyymi tai sana, jolla on useita merkityksiä, ja toisella rivillä käytä sanaleikkiä kunnioittaaksesi runon homonyymin eri merkityksiä.
 
-	"Rentouttaa / Vai rentoutettavaa?"
+	"Korkealla edessä siintää vuori, / mutta takkini vuori lämmittää sen huipullakin"
 
 	"He was a bear of a man, big and strong, yet gentle as a cub / But could she bear the weight of his love, or would it crush her in the end?"
 
 5. Käytä ensimmäisellä rivillä riimiä ja toisella rivillä lisää odottamaton käänne riimiin haastaaksesi odotukset ja lisätäksesi runoon yllätystä
 
-	"Kevätpäivä hennon tuulen vireessä / Muistuttaa syksyn kauneutta."
+	"Pipo päässä, säässä kuin säässä / vaikka helteellä haluaisi lippiksen"
 
 	"I gaze upon the golden sun / A reminder of light and hope, even when life feels undone"
 
 6. Keksi ensimmäiselle riville uusi sana ja toisella rivillä luo sana uusi kuva tai käsite runoon.
 
-	"Pilvitanssi / Pilvien, auringon ja tuulen seurassa."
+	"Pahvilaatikkorumpu soi / ja posti tuo lisää soittimia kokoajan"
 
 	"She was a dreamweaver, creating realities from threads of imagination / Each thought a thread, weaving a tapestry of infinite possibilities"
 
 7. Ensimmäisellä rivillä leiki sanojen sijoittelulla tai järjestyksellä, ja toisella rivillä käytä kuvailevaa kieltä välittämään haluttu rytmi tai merkitys epätavanomaiselle sanajärjestelylle
 
-	"Ilman lupaa / Sydän puhuu vasemmassa kohdassa."
+	"Iski muhun pikkusen sähköisku / vaikka mä vältän sähköiskut yleensä"
 
 	"Out of chaos comes creation / In perfect chaos, life finds its foundation"
 
-8. Käytä ensimmäisellä rivillä sanaa taaksepäin ja toisella rivillä kuvailevaa kieltä tutkiaksesi käänteisen sanan uutta merkitystä ja merkityksiä runon kontekstissa.
+8. Käytä ensimmäisellä rivillä sanaa käänteisellä painotuksella toiseen riviin nähden. Kuvaile toisella rivillä kieltä tutkiaksesi käänteisen sanan uutta merkitystä ja merkityksiä runon kontekstissa.
 
-	"Hetkessä / Takaperin elämä kulkee, / Mutta silti tuntuu niin oikein."
+	"Teen töitä ja mietin aamusta asti vain iltaa / enkä illalla sängyssä enää muista mikä minulla oli mielessä"
 
 	"In life, we must move beyond the darkness to find the light / But sometimes, we must face the light to heal from the shadows of our past"
 
 9. Yhdistä ensimmäisellä rivillä kaksi tuttua sanaa uuden lauseen tai kuvan luomiseksi, ja toisella rivillä käytä kuvaavaa kieltä, jotta voit purkaa sanayhdistelmän taustalla olevat erilaiset merkitykset ja ideat.
 
-	"Lännenkello / Matkailija villin lännen keskellä, / Tai hirmuinen myrsky metsän siimeksessä?"
+	"Aamunkoitto vihdoin / odotin koittavaa aamua kuin kuuta nousevaa"
 
 	"The stars and stripes forever fly / Symbols of freedom and unity, reaching far beyond the sky"
