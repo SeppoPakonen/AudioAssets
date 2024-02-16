@@ -776,55 +776,55 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 2. Käytä ensimmäisellä rivillä nokkelaa ja koomista lyöntilinjaa lopettaaksesi säkeen tai kertosäkeen, ja toisella rivillä sanaleikkejä lisätäksesi riviin uutta huumoria.
 
-	"Sanon pois kaikilta syyn, miks pelkään lintuja / Onko mulla sata aivoa, koska olen räppi-raisoni?"
+	"Ne sanoo, et oon vain yhden hitin ihme, mut todistan ne vääräks, / koska mulla on paljon lisää tulossa, odota vain, paras on edessä."
 
 	"I may seem like a joker, but my words are no joke, / I'll make you laugh and nod along with every word I spoke."
 
 3. Käytä ensimmäisellä rivillä satiiria tai ironiaa yhteiskunnallisen normin pilkkaamiseen, ja toisella rivillä sarkasmia pilkataksesi ja kritisoidaksesi asiaa.
 
-	"Tiedät tunkeutumatta edes asunnolle / Onks isä ruvennu harrastaa sarkasmia?"
+	"Me kaikki haluamme sopia joukkoon, olla osa coolia kerhoa, / mutta oikeesti ainoa todella siisti asia on olla outo ja snobi"
 
 	"I'll make fun of your obsession with fame and wealth, / then I'll have you thinking twice about your priorities and mental health."
 
 4. Käytä ensimmäisellä rivillä humoristista anekdoottia tai henkilökohtaista kokemusta lisätäksesi kappaleeseen koskettava ja hauska elementti, ja toisella rivillä huumoria laajentaaksesi tarinaa tai viestiä.
 
-	"Mullon perfekteet viikset, mut en voi kesyttää karvojaa / Tein taikinan rebset et leväjä menny kahvoihin."
+	"Olin ennen kömpelö kun puhuin ihastukseni kanssa, / mä nauran sille nyt, mutta silloin oli kiire saada sekstailla"
 
 	"I'll tell you a story about a crazy night out with my crew, / you won't believe the things we did, but I swear they're all true."
 
 5. Käytä ensimmäisellä rivillä sanapeliä tai sanaleikkiä lisätäksesi komedian käännettä vakavaan aiheeseen, ja toisella rivillä jatka sanoilla leikkiä lisätäksesi sanoituksiin huumoria ja nokkeluutta.
 
-	"Jengi on pihla jäästä talvisin / Mullon täytynyt ilmens törkeetö mennäpitämä Man-suora, ku ohjasin henksä oli tavallista."
+	"Ne sanoo, et anteeksianto on kuin katkera pilleri, / mutta ne ei kerro, että se antaa sulle siivet ja saa olon huonoksi."
 
 	"They say money can't buy happiness, but I have my doubts, / because every time I'm broke, I just feel like I'm 'out of counts'."
 
 6. Käytä ensimmäisessä rivissä itseään halventavaa huumoria pilkataksesi itseäsi tai pilataksesi itseäsi, ja toisella rivillä sarkasmia tai ironiaa lisätäksesi näppärän ja humoristisen käänteen.
 
-	"Ei usko, mut oon juuri tehny räpin sa / Löin kissaa pere suoraan persiis ku pyysin anteeks."
+	"Tiedän, että oon kuuma sotku, eikä mikään mene niinku haluan, / mut hei, ainakin oon yhdenmukainen, ja sitä voi juhlia."
 
 	"I'll make fun of my own flaws and insecurities, / laugh along with you while you point out my impurities."
 
 7. Käytä ensimmäisellä rivillä liioittelua tai hyperbolia lisätäksesi sanoituksiin koomisen vaikutelman, ja toisella rivillä käytä sanaleikkejä tai älykkäitä riimejä lisätäksesi huumoria entisestään.
 
-	"Mä teen dediksen melonis enkä sillä mittaa munkaa / Sut hautaan takasin kaivamisen jälkeen, va peerataa."
+	"Olen niin rahaton, että mul ei oo varaa ees haaveilla, mieleni on budjetoitu, / mut kun suljen silmät yöllä, tuntuu silti kuin olisin yksityisessä lentokoneessa ja sä et voi muuttaa sitä."
 
 	"I may be broke as a joke, but I'm still living my best life, / my crew's got love and we've got each other, that's worth more than a knife."
 
 8. Käytä ensimmäisessä rivissä humoristista metaforaa tai analogiaa vertaillaksesi vakavaa aihetta johonkin odottamattomaan tai absurdiin, ja toisella rivillä jatka vertailun laajentamista komedian vaikutuksen saavuttamiseksi.
 
-	"Täs huoneessa on kuin mökissä / Tää paikallislehti paikalliset me muusikot kasattiin pöytäki kasaan tiinaä tai piltilt alkaa säätää liftein?"
+	"Rakkautes oli myrkkyä johon mä vaivuin, / nyt oon yksin, mut se on tervetullutta, joten kiitos sun myrkyst."
 
 	"They say love is like a battlefield, well I say it's more like a pie, / sometimes it's sweet and easy, sometimes it gets messy and you just want to fly."
 
 9. Käytä ensimmäisellä rivillä sanaleikkejä tai sanaleikkejä saadaksesi tarttuvan ja humoristisen koukun, ja toisella rivillä ironiaa tai sarkasmia lisätäksesi riviin syvyyttä ja nokkeluutta.
 
-	"Morjesta mutsi olen siellä fiiliksillä kuten maratoona sem-maratoona valklaufunterlaemit."
+	"Ne sanoo, et nauru on paras lääke, mut se ei voi parantaa särkyvää sydäntä, / hyvä, että mulla on varasuunnitelma, joka on jäätelö ja hyvä surubiisi, ja sitä tarvitaan taas."
 
 	"My bars may be sweet, but they still pack a punch, / I'll have you nodding along with my lyrics like you're eating your favorite brunch."
 
 10. Käytä ensimmäisessä rivissä humoristista sanaleikkiä tai sanaleikkejä lisätäksesi säkeeseen tai kuoroon komedian elementti, ja toisella rivillä käytä liioittelua tai satiiria lisätäksesi huumoria entisestään.
 
-	"Olen kuin lapsi leikkiaikana / Kaikki näyttää ruusunpunaista, mutta tietty sitä muuttaessani paroni Lolan koht kiinni Juoksu. and the Guidolin juoksu kin."
+	"Mul ei ehkä oo miljardia dollaria, mut saan silti rahan satamaan, / räppini ei ehkä pääse radioon, mutta ne pääsee sydämeesi, ja se on kaikki mitä tarvitsen."
 
 	"My lyrics are like a puzzle, you gotta piece them together, / but trust me, it's worth it when you figure out the clever."
 
@@ -832,61 +832,61 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 ### N. Liioittelun käyttö
 1. Kirjoita ensimmäiselle riville liian kerskaileva lausunto kyvyistäsi, varallisuudestasi tai asemastasi, ja toisella rivillä liioittele lausuntoa entisestään luodaksesi suurenmoisuuden tunteen.
 
-	"Oon hyvä kaikessa mitä teen, ei oo ketään parempaa onks kukaan muka? / Varmaan parhaimmat voimat mulle annettu, yksinkertainen fakta on tässä saan olla se paras koska haluun olla se paras niin."
+	"Mä oon smooth, kuin silkki perhosen siivessä, / mun sanat ylittää ajan ja saa enkelit laulaan kuorossa"
 
 	"I'm the king of the world, I own it all, / my wealth and power will never fail or fall!"
 
 2. Ensimmäisellä rivillä käytä hyperbolista kieltä kuvaamaan elämän arkipäivää, ja toisella rivillä jatka käsitteen liioittelua absurdeille tasoille.
 
-	"Latu käskee mua tappamaan toisen ihmisen / Vaadin kaikilta energiaa, niillekin jotka ei sitä tahdo porsiiksi he liukenee."
+	"Mä lennän kuuhun paperilentokoneella, vain sinä katsot ja odotat, / mä matkustan avaruuden ja ajan halki, mun kohtalo on avain."
 
 	"I'll conquer the world with my pencil and paper, / my rhymes and flow will be my ultimate savior."
 
 3. Ensimmäisellä rivillä käytä sanaleikkiä liioittelemaan ja vääristämään lauseen merkitystä, ja toisella rivillä käytä kuvaavaa kieltä työntämään liioittelua äärimmilleen.
 
-	"Se ulkoavaruuden valokuva on mun puhelin / Katso kännykästäin kun se liikkuu taivaalta siinä on tähdet kirkkaammin kuin selfie."
+	"Mä oon aurinko sun taivaalla, eikä mun valo koskaan haalistu, / mun sanat ohjaa ja lämmittää sua, eikä ne koskaan tyrmistytä."
 
 	"I'll turn up the heat and set the world on fire, / my words will spread like a contagious desire."
 
 4. Ensimmäisellä rivillä käytä törkeitä ja epätodellisia väitteitä vallasta tai vaikutuksesta, ja toisella rivillä käytä vielä liioiteltua kielenkäyttöä dominoivan aseman ja itseluottamuksen vahvistamiseksi.
 
-	"Maailma on mun hallinnassa, kaikki on mun käsivarsien alla / Ketään ei pääsy pyyhkimään mua saa, oon itsekkäänii niin ominenäisyytenä ihanuudessa että."
+	"Hallitsen aikaa ja tilaa, eikä voimani tunne rajoja, / sanani muokkaavat maailmaa, saaden kaikki kumartamaan ja alistumaan."
 
 	"I control the skies and the ground, I'm unstoppable, / my power and influence will make you bend and crawl."
 
 5. Käytä ensimmäisellä rivillä äärimmäistä kieltä kuvaamaan yksinkertaista toimintaa, ja toisella rivillä jatka toiminnan intensiteetin ja vaikutuksen liioittelua.
 
-	"Mun päivä ei ala ennen kuin esiinnyn urkuun, tuon lupauksen varmaan on tavannut ainakin / No oon ottanut että rikkaan kaasuttamiseni eikä saatu aikaisintaankin jo valmiiksi tehdyt."
+	"Rikon äänivallin yhdellä doupilla säkeellä, / mun flow kulkee ilmassa nopeempaa kuin concorde, missä jarrut?"
 
 	"I'll move mountains with just a flick of my wrist, / my strength and determination will never be missed."
 
 6. Käytä ensimmäisellä rivillä hyperbolisia väitteitä elämäntavoistasi, tavoistasi tai uskomuksistasi ja toisella rivillä vielä liioiteltua kielenkäyttöä korostaaksesi asiaa.
 
-	"Jumala ei voi estää kutsumusta, kaikki supisee jota Jumala luoilee tähänkin voidaan keksiä / Ei valkoinenkaan väri oikein näin yltii kuolevaisia mutta kehiä kuin ihmisä loimimaamia ulkona jo mutsi on nähny vaihkeilleita, se käskee heiluttaa huolia siltäkin, tää jee mutsi ja tää mustana liiankin tummaksi."
+	"Uin valtameren yli ja juoksen auringon läpi, ei oo haastetta liian isoa, / voimani on vertaansa vailla, ja se saa sun leuan putoomaan."
 
 	"I eat diamonds for breakfast and laugh at your struggles, / my life is a circus, and you're just a bunch of muggles."
 
 7. Käytä ensimmäisellä rivillä ylimielistä ja liioiteltua kieltä kuvaamaan saavutuksiasi tai kykyjäsi, ja toisella rivillä liioittele väitettä vielä enemmän vahvistaaksesi ylivoimaisuutta.
 
-	"Elämä on kavereiden ja seuran saatavarasta ollet elämännä mahtava juttu, näinkin elämän upeus liian syntymätaivalta kuin haluua / Olin ryhmässä, joka voitti mihin mukaan tulisiin vaikka haluttaisiin ja kas se onnistuikin."
+	"Mä oon itse täydellisyys, haalistumaton virheettömyys, / mun lahjoja ihailee kaikki, ilman harmaan eri sävyjä"
 
 	"I'm the greatest of all time, there's no disputing, / I'll drop so many rhymes, your head will start computing."
 
 8. Käytä ensimmäisellä rivillä metaforaa kuvaamaan näennäisesti tavallista esinettä, ja toisella rivillä vie metafora äärimmäisille tasoille lisätäksesi ylellisyyden ja ylimääräisen tunteen.
 
-	"Mun sydän on minun lompakkoni se syö kyynel mua kun näytän pelissä todelliselle sen mitä en tulis kenties koskaan olemassa olevan manööliksessä / Mutku vien lamun tarjo joku  että oot sä silmissä liha-juuso tyhjäks mäntä eikä ku taikaa sydän o."
+	"Mun flow on niinku metsäpalo, jonka on pakko antaa palaa, / mun sanat on polttoainetta, jonka mun maine polttaa."
 
 	"My flow is like a waterfall, it never runs dry, / my rhymes will flow forever, they'll never say goodbye."
 
 9. Käytä ensimmäisessä rivissä sarkastista tai ironista kieltä pilkataksesi yhteiskunnallisia odotuksia tai normeja, ja toisella rivillä liioiteltua kieltä paljastaaksesi odotusten absurdiuden.
 
-	"Ei kellään oo mitään väli vaikka yhyy yksi suo rannasta, mukana loista kiteisellä helmiäisvalolla / Mutku uskomatonta paljon jokainen vastaa mitä ikinä tekevät ja se uskomaton ettei sitä voi ääneen apua keksi."
+	"Mä pidän housui niin alhaal, et ne raahaa pitkin maata, / mun tyyli on niin naurettava, että pyörität päätä koko kierroksen."
 
 	"I'll conform to society and be just like you, / I'll follow your rules and blend in like glue."
 
 10. Käytä ensimmäisellä rivillä paisutettuja ja liioiteltuja kuvauksia fyysisestä ulkonäöstä tai ominaisuuksista, ja toisella rivillä käytä vielä suurempaa kieltä lisätäksesi huumoria ja pilkkaa.
 
-	"Mä en oo voinut miten tahntoni lojuuhun en aloin olla en kuvan kunnossa mutta laiskana lihava yksinhimoinen länsirannikon ritari, ilman ainuttakaan kesarin piiraa Oeh-jan! / Mä en oo valmis näihin liikkumaan sielt sisään seitä kostutun ja hullu lelyt!".
+	"Mun lihakset on niin isoi, et saan Hulkin näyttään ruipelolta, / mun voimat on vertaansa vailla, saan painonostajat laulaan."
 
 	"I'll make people swoon with just one look, / my beauty and charm are off the hook!"
 
@@ -894,61 +894,61 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 ### O. Satiirin käyttö
 1. Kirjoita ensimmäiselle riville leikkisä ja tarttuva koukku, joka korostaa satiirisesti yhteiskunnallista asiaa, ja toiselle riville käytä fiksua sanaleikkiä korostaaksesi entisestään asian ironiaa ja absurdia.
 
-	"Kuka mukamas haluaa lopettaa överiksi menemisen, eikä kenelläkään ole krapula / Mutta kun herää seuraavana aamuna, kaikki puheet ovat pelkkää huuhaa."
+	"Krapulas kaikki aikoo lopettaa perseiden vetämisen / mut seuraavana perjantaina, kaikki puheet oli pelkkää huuhaata"
 
 	"I'm living in a world of hashtags and filters, / where likes and followers determine my worth on Twitter."
 
 2. Käytä ensimmäisessä rivissä huumoria ja ironiaa julkkiksen tai julkisuuden henkilöön pilkkaamiseen, ja toisella rivillä jatka heidän toimintojensa tai käytöksensä liioittelua ja nauramista.
 
-	"Kaipaat apua Elon Musk Tyhmien Ostojen Tilillä /Koska viisaan ostolista näyttää aina kasvavan tyhmyyksien mukana."
+	"Näin julkkiksen viisauden sanat ja menestysvinkit, / kävi ilmi, että se kaikki oli feikkii, kuten heidän hiukset ja tissit."
 
 	"I saw a famous rapper's music video on TV, / he had more religion of bankerselry on than a king from Dubai."
 
 3. Käytä ensimmäisellä rivillä sarkastista ja liioiteltua vertailua kulttuuritrendin tai yhteiskunnallisen normin kritisoimiseksi, ja toisella rivillä sanaleikkiä kritisoidaksesi ja pilkataksesi asiaa.
 
-	"Kärsivällisyys tappaa raskaamiin vaivoihin, ja moni hukkuu omaan tekstitykseen tänään / Tulee mieleen influenssarit, jotka eivät osaa piirtää omaa elämäänsä."
+	"Me ollaan kaikki puhelimen orjia, selataan loputtomia syötteitä, / niinku kaikki olis unohtanut kuinka elää, niinku oltais ohjelmoitui robotteja."
 
 	"People say they're woke, but they're just sleepwalking, / following trends and buzzwords, they're all copycats talking."
 
 4. Käytä ensimmäisellä rivillä parodiaa tai jäljitelmää suositun kappaleen tai artistin satiirisoimiseksi, ja toisella rivillä lisää alkuperäisen kappaleen elementtejä luodaksesi nokkela ja humoristinen käänne.
 
-	"Tuleeko ne bändit, joiden esikuva on Brysselin disco ei ole mennyt ilman sinua tänään / Mutta kun ei ole kuin ikuista hölmöilyä ja teeskentelyä, niin kuka seuraava kääpiö seuraavaan muumitaloon?"
+	"Rustasin ennen rakkauslaului, haaveilin sielunkumppanist, / mutta nyt tyydyn koiraan, koska suhteet on liian vaikeit aloittaa."
 
 	"I'm gonna write a love song, just like every other artist, / but instead of a prince charming, I'll fall for a box of chocolates."
 
 5. Käytä ensimmäisessä rivissä ironiaa ja sarkasmia pilkkaamaan poliittista johtajaa tai hallitusta, ja toisella rivillä käytä sanaleikkejä ja metaforia kritisoidaksesi ja satiirisoidaksesi edelleen heidän toimintaansa ja politiikkaansa.
 
-	"Toinen tosipäivä, ja se on aina täynnä isännöitsijänaapurustoa / Päätä pahoin, päästä pullosta ja pyhimyksestä kekäleen polttajalle, joka on sama hyvin heikko?"
+	"Ne lupaa jatkuvasti muutosta, mutta mitään ei tapahdu, / se on vain saippuaoopperaa, feikki-draamaa, täyteainetta."
 
 	"I voted for a change, but everything stayed the same, / politicians playing games, forgetting who they're meant to serve and name."
 
-6. Ensimmäisellä rivillä käytä leikkisää ja sarkastista kieltä pilkataksesi kaupallista tuotetta tai mainosta, ja toisella rivillä liioittele ja pilka paljastaaksesi kulutuskulttuurin pinnallisuutta ja manipulointia.
+6. Ensimmäisellä rivillä käytä leikkisää ja sarkastista kieltä pilkataksesi kaupallista tuotetta tai mainosta, ja toisella rivillä liioittele ja pilkkaa paljastaaksesi kulutuskulttuurin pinnallisuutta ja manipulointia.
 
-	"Iltaisin juotava kahvi pitää sinut hereillä 9 minuuttia ja 37 sekuntia pitempään kuin tavallinen kahvi / Ja sitten seuraavana aamuna herätäksemme ja ostamme toisen espresso-koneen, koska emme ole vieläkään virkeitä."
+	"Täl uudel ihovoiteel oot kymmenen vuotta nuorempi, / mutta joudut silti photoshoppaan kuvasi."
 
 	"I'm drinking a soda, but it's basically diabetes in a can, / but the commercials make it seem like I'll be the coolest in the land."
 
 7. Ensimmäisellä rivillä käytä satiiria ja huumoria arvostellaksesi yhteiskunnallista stereotypiaa tai ennakkoluuloja, ja toisella rivillä käytä henkilökohtaisia kokemuksia tai havaintoja lisätäksesi kritiikkiin syvyyttä ja aitoutta.
 
-	"En halua nauhana kuolleen raumanpurkain äärellä tietää mitään siitä, mitä sanotte miehistä / Ympärilläni ovat vain huonommat miehet, ja silti he ovat kyllin hyviä etsimään naisia."
+	"Oon heteromies, joten luulet että vihaan feministei ja oon myrkyllisesti maskuliininen, / mutta oikeesti haluun vain tasa-arvoa ja rauhaa."
 
 	"I'm the token black guy in every group photo, / I'm smiling but inside I'm screaming, 'oh hell no.'"
 
 8. Käytä ensimmäisellä rivillä sosiaalisia kommentteja ja satiiria kommentoidaksesi ajankohtaista tapahtumaa tai asiaa, ja toisella rivillä käytä elävää ja liioiteltua kieltä korostaaksesi viestiä ja kritiikkiä.
 
-	"Meillä on vain yksi työ, ja se on olla iloinen / Hidastunut hidastuu, aika kuluu ja toiselle aikakaudeksi Irlantiin ja Lee Ewnin telttaan, jossa ei koskaan muutu mitään mitatuiksi tilapäistöille.."
+	"Me tuetaan Israelii, unohetaan Palestiina, kaksois-standardii muistil valikoival, / median valhe ja ennakkoluulot on kaikki mitä tiedät."
 
 	"The news says we're in a pandemic, but I see massive crowds, / it's like we're ignoring science in favor of being loud."
 
 9. Käytä ensimmäisellä rivillä sanaleikkejä luodaksesi älykäs ja ironinen metafora yhteiskunnalliseen kysymykseen, ja toisella rivillä käytä symboliikkaa ja mielikuvia lisätäksesi satiiriin syvyyttä ja monimutkaisuutta.
 
-	"Sadevesisysteemi tässä on ilmaista, ei ole helppoja rikastuakseen / Jengi sanoo ettei ole vapaata lounasta, eikä kukaan halua maksaa laitteiden ja välineiden kulunkien mukaan."
+	"Haluut nousta yritysportaita, mut se tuntuu häviävältä peliltä, / yksi väärä liike ja olet taas ykköspisteessä."
 
 	"Life is like a game, but the rules keep changing, / and we're all players, but only the rich keep conquering."
 
 10. Käytä ensimmäisessä rivissä ironiaa ja sarkasmia pilkataksesi yhteiskunnallista odotusta tai standardia, ja toisella rivillä esimerkkejä ja tosielämän tilanteita paljastaaksesi odotuksen puutteet ja absurdiuden.
 
-	"Koetaa tehdä yksi mukava asia ennen kiitämisen vihittäväksi ja silloin elämä on vain kaikki hyvä / Mutta sinun (normaalin) helpotuksesi eduskunnassa. ja väittää luontoa, kun kaikki kiitokset ja maineen muutokset vaihtuvat 6 kuukaudessa."
+	"Meidän pitäis olla aina positiivisii, vaik oon vain ihminen, / yhteiskunnan odotukset on tavoite liian epäinhimillinen."
 
 	"Society says I need to be thin to be beautiful, / but I see billionaires with potbelleys walking around so powerful."
 
@@ -956,7 +956,7 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 ### P. Sanaleikin ja sanamanipuloinnin käyttö
 1. Kirjoita ensimmäiselle riville näppärä sanapeli tai leikkiä sanoilla, ja toisella rivillä kehitä sanapeliä kuvailevalla kielellä luodaksesi mieleenpainuva lause.
 
-	"Häpeänkynttilät häikäisevät, kun pehmoilusta puhutaan / Mutta tosiasiassa se on vain ökyhyvä, sanan pistos."
+	"Mä oon sun ainoa, et koskaan tarvitse toista, / mun sanani ovat taivaasi, jossa kukaan ei voi kärsiä."
 
 	"I'll take you to the top, no need for stairs, / I'll elevate your mind, ain't no one who compares."
 
