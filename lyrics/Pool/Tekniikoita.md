@@ -646,7 +646,7 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 ### K. Shokkiarvon käyttö
 1. Käytä ensimmäisellä rivillä selkeää kieltä kuvaamaan kiistanalaista aihetta tai toimintaa ja toisella rivillä eloisia kuvia järkyttääksesi yleisöä entisestään.
 
-	"Heitetään porvarit alas talojen katoilta / Verta valuu seinillä, elämää ei enää löydy jäljiltä."
+	"Painu vittuun, rikon sääntös ja rajoitukses / ratsastan piril, subul ja diilaan huumeet"
 
 	"I snort lines of cocaine like it's my daily vitamin, / then I light a match and burn down the whole city I'm living in."
 
@@ -670,13 +670,13 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 5. Käytä ensimmäisellä rivillä sanaleikkiä yhteiskunnallisen ongelman pilkkaamiseksi tai naurunalaistamiseksi, ja toisella rivillä laajenna sanaleikkiä paljastaaksesi asian järjettömyyden tai tekopyhyyden.
 
-	"Hymyt naamalla, vaikka sisällä kalvaa epätoivo / Naamaa ei osteta kaupasta, vaikka rahalla kaiken saa."
+	"Hymy naamalla, vaikka sisällä kalvaa epätoivo / Naamaa ei osteta kaupasta, vaikka rahalla kaiken saa."
 
 	"Your so-called 'perfect' society is just a mirage, / I'll break through the illusion and reveal your self-righteous sabotage."
 
 6. Käytä ensimmäisellä rivillä kiroilua tai loukkaavaa kieltä järkyttääksesi ja loukataksesi yleisöä, ja toisella rivillä sanamanipulaatiota järkyttääksesi ja häiritäksesi kuuntelijoita entisestään.
 
-	"Te vitun idiootit ette tajua mistään mitään / otan telkkaris ja paiskaan sen sun päähän."
+	"Te vitun idiootit ette tajua mistään mitään / otan telkkaris ja paiskaan sen sun päähäs."
 
 	"F*** censorship, I'll say whatever I want, / I'll twist and turn your words into a haunting taunt."
 
@@ -684,25 +684,25 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 	"Meillä kaikilla pysähtyy sydän joskus / mutta kenen sydämen sä voit lävistää puukolla, kun kyse on elämästä ja kuolemasta."
 
-	"I'll slice and dice my enemies like they're a piece of meat, / blood and guts will decorate the streets as I dance to the beat."
+	"I'll rip out your heart, leave it beating on the floor, / your lifeless body a reminder of my cold, ruthless lore"
 
 8. Käytä ensimmäisessä rivissä tabuaiheita tai kiistanalaisia aiheita haastaaksesi yhteiskunnan normeja ja uskomuksia, ja toisella rivillä jatka yleisön järkyttämistä työntämällä rajoja entisestään.
 
 	"Kommarien yhden lapsen politiikka on nyt satenkaarilippu / Jussi on tyrmäs, mut mamun pedofiliasta ei rangaistu."
 
-	"I'll break down the walls of your narrow-minded mentality, / and expose the hidden truths and brutal realities."
+	"I'll abort my baby, 'cause I'm the one in charge, / pro-choice but no judgment, it's my body, at large"
 
 9. Käytä ensimmäisellä rivillä kaksinkertaisia päätelmiä tai lauseita, joita voidaan tulkita monin eri tavoin lisätäksesi sanoituksiin hienovaraista shokkiarvoa, ja toisella rivillä paljastaa lauseen todellinen merkitys järkyttääksesi ja yllättääksesi yleisön.
 
 	"Vitut poliittisesta korrektiudesta, mä puhun totta ilman pelkoa, / Väännän ja käännän käsitykses, jätän sut haukkomaan ilmaa"
 
-	"I'm a master of the double entendre, I'll make you think twice, / then I'll hit you with the punchline and leave you in shock and surprise."
+	"I'll take you to the edge, and push you over the line, / beware, my love is a dangerous and thrilling kind"
 
 10. Ensimmäisellä rivillä käytä satiiria käsitelläksesi herkkää ja kiistanalaista asiaa, ja toisella rivillä huumoria ja sarkasmia lisätäksesi järkkyä ja kritiikkiä.
 
-	"Mun sanat voit tuntua makeilta ja hunajaisilta, / Mutta varo lisämaustetta mikä jättää sut kerjäämään lisää"
+	"Sanotaan, että kauneus on katsojan silmissä, mut se ei oo niin, / yhteiskunnan normit ratkaisee, mä en kelpaa muille siis"
 
-	"I'll make fun of your prejudice and narrow-minded views, / then I'll have you laughing at yourselves and the illusions you choose."
+	"They say money can't buy happiness, but it can buy a lot, / and that's all that matters, right? Morals and ethics are for the have-nots"
 
 
 ### L. Braggadocion käyttö
@@ -726,7 +726,7 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 4. Käytä ensimmäisellä rivillä liioiteltuja väitteitä puhujan saavutuksista ja meriiteistä, ja toisella rivillä sanaleikkejä ja kuvaannollista kieltä korottaaksesi puhujan asemaa entisestään.
 
-	"Oon ylittäny rajani, saavutin sen mistä muut vain haaveilee, / riimini on kuin ase, terävämpi kuin miekka"
+	"Oon ylittäny rajani, oon mistä muut vain haaveilee, / riimit terävii kuin miekka, mä oon kuin ase"
 
 	"I am the king of this game, my throne will never be taken, / my rhymes are like gold, precious and never to be broken."
 
@@ -738,7 +738,7 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 6. Käytä ensimmäisellä rivillä toistoa korostaaksesi puhujan menestystä ja asemaa, ja toisella rivillä käytä eloisia kuvia ja kuvailevaa kieltä maalataksesi kuvan puhujan lumoavasta elämäntyylistä.
 
-	"Elän unelmaani, menestys on toinen nimeni, / samppanjaa ja kaviaaria, ilman häpeää elän elämääni"
+	"Elän unelmaani, menestys on toinen nimeni, / samppanjaa ja kaviaaria, elän ilman häpeää elämääni"
 
 	"I'm living the dream, success is my middle name, / champagne and caviar, living life with no shame."
 
@@ -762,7 +762,7 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 10. Käytä ensimmäisellä rivillä rohkeita ja ylimielisiä lausuntoja vahvistamaan puhujan dominanssi ja ylivoima, ja toisella rivillä sanaleikkejä ja näppärää riimitystä lisäämään sanoituksiin sujuvaa ja rytmistä virtausta.
 
-	"Astu haastamaan mut, yritä kilpailla, / riimini kuin linnoitus, ei murene tappion alla"
+	"Astu haastamaan mut, yritä kilpailla, / riimini on kuin linnoitus, eikä murene tappion alla"
 
 	"I reign supreme, no one can hold me down, / I'll turn words into weapons, ready to strike and leave you in awe."
 
@@ -770,63 +770,63 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 ### M. Huumorin käyttö
 1. Kirjoita ensimmäiselle riville fiksu ja tarttuva riimi, jossa huumori yhdistyy vakavaan viestiin tai sosiaaliseen kommentointiin.
 
-	"Ei oo enää hauska derpailla, kun piina on totta / Aikainen lintu saa vain verta nenäänsä."
+	"Ei oo enää hauska derppailla, kun piina on totta / Aikainen lintu saa vain verta nenäänsä."
 
-	"I might be comical, but my lyrics pack a punch, / I'll have you laughing and thinking with a flick of my pen and a crunch."
+	"I'm spittin' bars like a prison cell / but instead of locked up, I'm sending knowledge" 
 
 2. Käytä ensimmäisellä rivillä nokkelaa ja koomista lyöntilinjaa lopettaaksesi säkeen tai kertosäkeen, ja toisella rivillä sanaleikkejä lisätäksesi riviin uutta huumoria.
 
 	"Ne sanoo, et oon vain yhden hitin ihme, mut todistan ne vääräks, / koska mulla on paljon lisää tulossa, odota vain, paras on edessä."
 
-	"I may seem like a joker, but my words are no joke, / I'll make you laugh and nod along with every word I spoke."
+	"I'm like a crazy scientist, mixing rhymes in my lab / and when I'm done, my tracks will make you mad"
 
 3. Käytä ensimmäisellä rivillä satiiria tai ironiaa yhteiskunnallisen normin pilkkaamiseen, ja toisella rivillä sarkasmia pilkataksesi ja kritisoidaksesi asiaa.
 
 	"Me kaikki haluamme sopia joukkoon, olla osa coolia kerhoa, / mutta oikeesti ainoa todella siisti asia on olla outo ja snobi"
 
-	"I'll make fun of your obsession with fame and wealth, / then I'll have you thinking twice about your priorities and mental health."
+	"We're all just sheep, following the herd / but I'm the black sheep, speaking my mind and never deterred"
 
 4. Käytä ensimmäisellä rivillä humoristista anekdoottia tai henkilökohtaista kokemusta lisätäksesi kappaleeseen koskettava ja hauska elementti, ja toisella rivillä huumoria laajentaaksesi tarinaa tai viestiä.
 
 	"Olin ennen kömpelö kun puhuin ihastukseni kanssa, / mä nauran sille nyt, mutta silloin oli kiire saada sekstailla"
 
-	"I'll tell you a story about a crazy night out with my crew, / you won't believe the things we did, but I swear they're all true."
+	"My date canceled last minute, said she was feeling sick / but then I saw her Instagram, out with friends, being quick"
 
 5. Käytä ensimmäisellä rivillä sanapeliä tai sanaleikkiä lisätäksesi komedian käännettä vakavaan aiheeseen, ja toisella rivillä jatka sanoilla leikkiä lisätäksesi sanoituksiin huumoria ja nokkeluutta.
 
 	"Ne sanoo, et anteeksianto on kuin katkera pilleri, / mutta ne ei kerro, että se antaa sulle siivet ja saa olon huonoksi."
 
-	"They say money can't buy happiness, but I have my doubts, / because every time I'm broke, I just feel like I'm 'out of counts'."
+	"I've been chasing my dreams, they just keep running away / Maybe they just need a break, a vacation or holiday"
 
 6. Käytä ensimmäisessä rivissä itseään halventavaa huumoria pilkataksesi itseäsi tai pilataksesi itseäsi, ja toisella rivillä sarkasmia tai ironiaa lisätäksesi näppärän ja humoristisen käänteen.
 
 	"Tiedän, että oon kuuma sotku, eikä mikään mene niinku haluan, / mut hei, ainakin oon yhdenmukainen, ja sitä voi juhlia."
 
-	"I'll make fun of my own flaws and insecurities, / laugh along with you while you point out my impurities."
+	"I've been single for too long, starting to forget what love feels / But it's cool, I have all this extra cash, to buy me meals"
 
 7. Käytä ensimmäisellä rivillä liioittelua tai hyperbolia lisätäksesi sanoituksiin koomisen vaikutelman, ja toisella rivillä käytä sanaleikkejä tai älykkäitä riimejä lisätäksesi huumoria entisestään.
 
 	"Olen niin rahaton, että mul ei oo varaa ees haaveilla, mieleni on budjetoitu, / mut kun suljen silmät yöllä, tuntuu silti kuin olisin yksityisessä lentokoneessa ja sä et voi muuttaa sitä."
 
-	"I may be broke as a joke, but I'm still living my best life, / my crew's got love and we've got each other, that's worth more than a knife."
+	"I'm more stylish than a runway model, dressed to impress / but I can't even walk in heels, without looking like a hot mess"
 
 8. Käytä ensimmäisessä rivissä humoristista metaforaa tai analogiaa vertaillaksesi vakavaa aihetta johonkin odottamattomaan tai absurdiin, ja toisella rivillä jatka vertailun laajentamista komedian vaikutuksen saavuttamiseksi.
 
 	"Rakkautes oli myrkkyä johon mä vaivuin, / nyt oon yksin, mut se on tervetullutta, joten kiitos sun myrkyst."
 
-	"They say love is like a battlefield, well I say it's more like a pie, / sometimes it's sweet and easy, sometimes it gets messy and you just want to fly."
+	"I'm like a bear in hibernation, sleeping through life's woes / until you try to take my food, then my claws will show"
 
 9. Käytä ensimmäisellä rivillä sanaleikkejä tai sanaleikkejä saadaksesi tarttuvan ja humoristisen koukun, ja toisella rivillä ironiaa tai sarkasmia lisätäksesi riviin syvyyttä ja nokkeluutta.
 
 	"Ne sanoo, et nauru on paras lääke, mut se ei voi parantaa särkyvää sydäntä, / hyvä, että mulla on varasuunnitelma, joka on jäätelö ja hyvä surubiisi, ja sitä tarvitaan taas."
 
-	"My bars may be sweet, but they still pack a punch, / I'll have you nodding along with my lyrics like you're eating your favorite brunch."
+	 "I'm a master of disguise, can blend in with any crowd / Except when I try to dance, then I stick out like a cloud"
 
-10. Käytä ensimmäisessä rivissä humoristista sanaleikkiä tai sanaleikkejä lisätäksesi säkeeseen tai kuoroon komedian elementti, ja toisella rivillä käytä liioittelua tai satiiria lisätäksesi huumoria entisestään.
+10. Käytä ensimmäisessä rivissä humoristista sanaleikkiä tai sanaleikkejä lisätäksesi säkeeseen tai kertsiin komedian elementti, ja toisella rivillä käytä liioittelua tai satiiria lisätäksesi huumoria entisestään.
 
 	"Mul ei ehkä oo miljardia dollaria, mut saan silti rahan satamaan, / räppini ei ehkä pääse radioon, mutta ne pääsee sydämeesi, ja se on kaikki mitä tarvitsen."
 
-	"My lyrics are like a puzzle, you gotta piece them together, / but trust me, it's worth it when you figure out the clever."
+	"I'm a grape that got crushed, now I'm making some whine / But if I add some cheese, then everything will be fine"
 
 
 ### N. Liioittelun käyttö
@@ -902,7 +902,7 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 	"Näin julkkiksen viisauden sanat ja menestysvinkit, / kävi ilmi, että se kaikki oli feikkii, kuten heidän hiukset ja tissit."
 
-	"I saw a famous rapper's music video on TV, / he had more religion of bankerselry on than a king from Dubai."
+	"I saw a famous rapper's music video on TV, / he had more jewelry on than a king from Dubai."
 
 3. Käytä ensimmäisellä rivillä sarkastista ja liioiteltua vertailua kulttuuritrendin tai yhteiskunnallisen normin kritisoimiseksi, ja toisella rivillä sanaleikkiä kritisoidaksesi ja pilkataksesi asiaa.
 
@@ -962,179 +962,179 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 2. Käytä ensimmäisellä rivillä alliteraatiota tai samankaltaisten äänien toistoa saadaksesi tarttuvia ja mieleenpainuvia sanoituksia, ja toisella rivillä jatka alliteroinnin käyttöä lisätäksesi sanoituksiin humoristisen tai näppärän käänteen.
 
-	"Mä en pelkää petoja, paholaisten pelättävien olen voimakas / Mutta ihmisten kokonaisvaltaisia toimia kammottavia, niitä en voi estää."
+	"Virtaa kuin hana, riimini loputon virta, / säkeet kuin kyykäärme, myrkkyhampailla iskevä"
 
 	"I spit rhymes like a machine gun, my flow is fire, / I'll have you dancing and singing, ain't no one who's higher."
 
 3. Käytä ensimmäisellä rivillä homofoneja tai sanoja, jotka kuulostavat samalta, mutta joilla on eri merkitys, luodaksesi sanaleikkiä, ja toisella rivillä käytä kuvailevaa kieltä lisätäksesi sanaleikkiin syvyyttä ja merkitystä.
 
-	"Vitosen arvoiset biitit, mutta ajatukseni kirjoitin päälle jotta sarkasmi pysyisi yhteiskunnan arvostuksena / Tansittu keskellä helvettiä, unohditko, kuka sut kaltoin kohteli?"
+	"Mä nousen kuin taikina, riimini rullaan kierrepullaan, / säkeet kohottaa kuin leivonta, on kuumii kuin uuni"
 
 	"I'll make you think and wonder, ain't no room for delusion, / my verses are as dense as the illusion of allusion."
 
 4. Käytä ensimmäisellä rivillä metaforaa tai vertailua, ja toisella rivillä käytä sanamanipulaatiota kääntääksesi metaforan päälaelleen ja luodaksesi sanoituksiin yllättävän käänteen.
 
-	"Häpeä syö monin tavoin sisältäpäin / Mutta jotta sä testiksi henkesi loistaisi ulospäin, sen on se tuupattava takaisin ihmisen sisälle."
+	"Oon neula heinäsuovas, jonka löydät jalkapohjastas, / riimini kuin magneetit houkuttelee niiden puhtaudella"
 
 	"I'm a lyrical genius, my rhymes are my sword, / I'll slice through all obstacles, ain't no one who can board."
 
 5. Käytä ensimmäisellä rivillä sanaleikkejä luodaksesi kielenkierre, ja toisella rivillä käytä kuvailevaa kieltä selittääksesi tai laajentaaksesi kielenkierrettä.
 
-	"Eräät eväät riöstetään kerta, toistorupeama, kutsuu kurkun / Tuomitsetko mitättömät, toiseen katkerat ja puhutko kauan onnettomia lihaa napostellen?"
+	"Rahalla saat mun reilut riimit, / säälillä sylkyä, ja ilmaiseksi ilmaa"
 
 	"I'll twist and turn your mind like a pretzel in a knot, / then I'll unravel the truth, ain't no one who's got what I've got."
 
 6. Kirjoita ensimmäiselle riville räppi, jota voidaan lukea eteen- ja taaksepäin, ja toiselle riville kuvailevaa kieltä luodaksesi saumattoman ja näppärän virtauksen molempiin suuntiin.
 
-	"Häpeä häpeä nimeltään hyleilee animalla kruunauksen kurjana / Mä oon pelastava ja en joudu arvosteluun kaikki tehden."
+	"Räjähtävä flow, riimit iskee kuin kranaatti, / lyö kuin aalto, törmää vastustaviin barrikadeihin"
 
 	"No matter how you read it, my flow is always tight, / I'll amaze you with my skills, ain't no one who can fight."
 
 7. Käytä ensimmäisellä rivillä antonyymejä tai vastakkaisia sanoja luodaksesi älykkään sanaleikin, ja toisella rivillä käytä kuvailevaa kieltä tutkiaksesi sanojen eri merkityksiä ja vivahteita.
 
-	"Ihmisillä on vaikeuksia löytää vapautta hyödyllisistä, vapaista virtauksista / Mutta se on mitä me teemme, mahdollisuus tehdä muutos tulevaisuudessa."
+	"Oon UG kuningas, yön hallitsija, / mikrofonini kuin majakka, loistaa lyyrisellä voimalla"
 
 	"I'll shine like a diamond on a dark and stormy night, / I'll break through the darkness, ain't no one who can ignite."
 
 8. Käytä ensimmäisellä rivillä riimejä ja sanaleikkejä luodaksesi humoristinen sanaleikki, ja toisella rivillä käytä kuvailevaa kieltä lisätäksesi sanaleikkiin syvyyttä ja merkitystä.
 
-	"Toisten mielestä olen vain kuten jokainen muukin, mutta keskellä Chezvossa, satojen ostajien edessä / Mä arvostin itseäin päivin toisin, siitä syystä seison niidenkin elävänä."
+	"Syljen tulta, riimei kuumempii kuin aurinko, / niinku magneetti, vetää sisään kaiken hauskuuden"
 
 	"I'll be a player in this game, but I ain't talking sports, / my rhymes are my weapons, ain't no one who distorts."
 
 9. Käytä ensimmäisellä rivillä sanankäsittelyä uuden ja ainutlaatuisen sanan luomiseksi ja toisella rivillä kuvailevaa kieltä selittämään sanan merkitys ja merkitys laulun kontekstissa.
 
-	"Mä olen siis Viakäytös, aikon viakäytöksen huonettiin, paikkaan hengittää / Siihen se on kaikki unge tavoite musta, lokaan itseensä ja runtata, mä voin."
+	"Pudotan säkeen, biitin, ja sanan niinku viirus, / levii mielessäs, ruiskuttaa lyyristä selkeyttä"
 
 	"I'll cook you up a feast, ain't no ordinary meal, / my recipe is one-of-a-kind, ain't no one who can deal."
 
 10. Kirjoita ensimmäiselle riville rap, joka sisältää kuuluisan lainauksen tai sanonnan, ja toiselle riville käytä kuvailevaa kieltä, jotta voit laajentaa lainauksen merkitystä ja miten se liittyy kappaleen viestiin.
 
-	"Mä valmistan itseänpäivääni erinomaisella osoitteella, käsi kasassa / Mä vedän kuvan sellaiset, että katsto minua horrisen."
+	"Kuten sanotaan, kynä on miekkaa mahtavampi, / sanani kuin ase, muuttaa sydämet ja mielet"
 
 	"As Ghandi once said, 'an eye for an eye', / but instead I'll use my words, ain't no one who can deny."
 
 ### Q. Näytteenoton ja uudelleenmiksauksen käyttö
 1. Kirjoita ensimmäiselle riville jae käyttämällä sanoituksia tunnetusta kappaleesta, ja toiselle riville sekoita sanoitukset luodaksesi uuden merkityksen tai viittauksen.
 
-	"Kello kaksi yöllä kuulin nenäni kautta, polisit on viemässä minuve / Siksi pistin uuden levyn mukkaan, toivon teidän kaikkien menevän hengiltä."
+	"Näen tulen silmissäsi, kulta älä peräänny, / olen vain rap-jumala, tunnen itseni kuninkaaksi, jolla on kruunu"
 
-	"I borrowed a line from an old-school classic, / then I flipped it upside down and made it my tactic."
+	"I'll be rolling in the deep, got nothing left to lose, / my rhymes are killer, every line a deadly ruse"
 
 2. Ensimmäisellä rivillä näyte suosittu kappale tai äänipala, ja toisella rivillä käytä sitä toistuvana refrainina koko kappaleen ajan.
 
-	"Kuinka monta kertaa saat selville tämän / Vain kerran, jos pidät suusi kiinni kuin lippu."
+	"Olen tukenasi ylä- ja alamäessä, / vaikka tapahtuisi mitä, olen aina valmis lähtemään"
 
-	"I took a snippet from a catchy tune, / now it's the hook that'll make you want to groove."
+	"I'll be there for you, through the highs and the lows, / no matter what, I'll always be ready to go"
 
 3. Liitä ensimmäisellä rivillä kuuluisa elokuvan lainaus tai vuoropuhelu räppiin, ja toisella rivillä yhdistä se kappaleen yleiseen viestiin tai tarinaan.
 
-	"Elämä on kuin laatikko suklaakonvehteja" / "Mutta voin kertoa sinulle, mitä saat, kun otat sen sisältökohtauksen kuvaukseen."
+	"Teen sinulle tarjouksen, josta et voi kieltäytyä, liity tähän kyytiin, / riimini vievät sinut paikkoihin, anna henkesi lentää"
 
-	"I quoted a line from a cult favorite flick, / now it adds depth and meaning to my lyrical mix."
+	"I'll make you an offer you can't refuse, join me on this ride, / my rhymes will take you places, let your spirit fly"
 
 4. Käytä ensimmäisessä rivissä remiksiä tunnistettavasta rytmistä tai instrumentaalista toisesta kappaleesta, ja toisella rivillä räppäile sen yli älykkäillä ja vaikuttavilla sanoilla.
 
-	"En ole uskovainen, mutta rukoilen, sanokaa vain, että olet tosiasiallinen / Ja älä unohda, kuntosi ahraa sinusta, lisää aina uusia kuuloja ja ostaa äänesi."
+	"Heräsin uudessa Bugatissa, elän kuin pomo, / rap-taitoni priimaa, maksan ikuisesti velkaa takaisin"
 
-	"I took a beat from a hit pop single, / now I'm spitting fire over it, making it a rap crescendo."
+	"I got 99 problems, but my rhymes ain't one, / busting through obstacles, never stopping till I've won"
 
 5. Ensimmäisellä rivillä lainaa elementtejä eri genreistä, kuten rockista tai EDM:stä, ja yhdistä ne rapiin luodaksesi ainutlaatuisen ja dynaamisen äänen.
 
-	"Lisää koko elintaistelua vaikka kuolema veisi pakolliset / Vai että kuolema ja tuho? Lue koodityönaikataulu sänke."
+	"Oon kuin rocktähti, villi ja vapaa, / kukaan ei estä mua, oon se mitä peli tarvitsee"
 
-	"I mixed a little rock with some electronic vibes, / now my rap track takes you on a musical ride."
+	"I'll be living la vida loca, turn the beat up loud, / my flow like a volcano, erupting through every crowd"
 
 6. Ensimmäisellä rivillä näyttele ääniä jokapäiväisistä esineistä, kuten auton moottorista tai vauvan itkusta, ja luo niiden avulla rytmi tai rytmi räppiin.
 
-	"Saa pohjaan kiinni o sanopa alapuoleltä nyt / Kun miehen riini pitää olla lempeä, ja ulivallat vähän väliä."
+	"Kuule biitti, se on kuin moottori pyöris, kuin kone valmis nousuun, / riimini kuin polttoaine, antaa voiman ylittää esteet ja läpäistä muurit"
 
-	"I used a baby's cry as my rap beat, / now it's a sound that you just can't defeat."
+	"I'll use the sounds of the city, the hustle and bustle, / to create a beat, that'll make your heart rustle"
 
 7. Remiksoi ensimmäisellä rivillä suosittu rap-kappale, ja toisella rivillä käytä sitä rap-taistelun tai -kilpailun pohjana kappaleen sisällä.
 
-	"Pyyhkäise vain nettiin että saat paksi mukhan / Et voi sitten unohtaa että olen taiteilija, soitetaan vaan sinulle huipullista festivaalita että otan tän hölmön kioskibaarin pois."
+	"Tää oli hyvä päivä, kunnes astuit mun tielle, / nyt taistelemme, niinku all-star bättle"
 
-	"I took a famous rap track and remixed it my way, / now it's the instrumental for a lyrical throwdown play-by-play."
+	"I fly high like a butterfly, sting like a bee, / ain't no competition, when it comes to me"
 
 8. Käytä ensimmäisellä rivillä näytteitä historiallisista puheista tai haastatteluista, ja toisella rivillä sisällytä ne rapiin lisätäksesi poliittisen tai sosiaalisen kommentin kappaleeseen.
 
-	"Häme oli todella kohtalaisen innostusta työnten takia daa / Saiko, sitä minä e o dortti sinun kehostasi vai vasaroi hampaikilla helkkarissa tanduum."
+	"Herra Gorbatšov, purkakaa tää muuri, / mun räppi-leka murtaa kaiken mikä seisoo pystyssä"
 
-	"I sampled Martin Luther King's 'I Have a Dream' speech, / now I'm shedding light on issues that are often hard to reach."
+	"I have a dream, that one day we'll stand as one, / my rap like a marching anthem, never to be undone"
 
 9. Ensimmäisellä rivillä näyte kuuluisaa kitara- tai rumpusooloa, ja toisella rivillä rapauta sen yli virtauksella ja taidolla luodaksesi eri musiikkityylien yhdistelmän.
 
-	"Siitä ajasta me voimme keskustella niin että se oli haltioitunutta kudotsua jäätä / osa meistä unelmoi siitä kuin häipyväinen lohikäärme, siinä tietysti in numero kolme kunnes lumoudut."
+	"ta ta taa, ta ta ta-taa (smoke on the water) / riimit mun on tulta"
 
-	"I used a guitar solo from a classic rock jam, / now it's the backdrop for a rap flow that nobody can slam."
+	 "Ta ta tsi, ta ta tsi (we will rock you) / with my rap like a queen, ruling supreme, no one can defy or undo me"
 
 10. Käytä ensimmäisellä rivillä tunnettua iskulausetta tai iskulausetta, ja toisella rivillä remix se sopimaan kappaleen teemaan tai viestiin.
 
-	"Enkä todella ymmärrä, mikä aasias mukha verkossa on ollut / Vai että netti mysteerinä, totta on mä mystisesti verrattuna kuuluisa muotialan tähän aikaan."
+	"Just do it, sanoo Nike, mutta minä teen sen omal tavalla, / räppini kuin vallankumous, muuttaa pelii joka aamuna"
 
-	"I took a popular catchphrase and switched the meaning around, / now it's the chorus for a rap song that'll make you bounce."
+	"I'm lovin' it, says McDonald's, but I'll make my own feast, / my flow like a buffet, never following the same old beast"
 
 ### R. Tarinankerronta
 1. Kirjoita ensimmäiselle riville koukku tai tarttuva lause, joka toistetaan koko kappaleen ajan ja joka määrittää kappaleen tarinan tai teeman.
 
-	"Kerron tarinan, jota kukaan ei vielä tiennyt / Siitä, miten maailma lopulta minuun suhtautui."
+	"Olipa kerran särkyneiden unelmien kaupunki, / jossa rakkaus oli ylellisyyttä ja toivo oli vain juoni."
 
-	"I'll tell a tale that no one had heard before / About how the world ultimately turned on me."
+	"In a land far away, where magic still reigns, / A hero will rise, to break all the chains."
 
 2. Käytä ensimmäisessä rivissä kuvailevaa kieltä kertoaksesi tarinan paikasta ja hahmoista, ja toisella rivillä käytä dialogia tai toimintaa viedäksesi juonen eteenpäin.
 
-	"Synkeässä metsässä leijailee mystisiä ääniä / Ainoa inhimillinen ääni on pelokkaan pupsin kirkaisu."
+	"New Yorkin vilkkailla kaduilla, / nuori tyttö nimeltä Lily, haaveilee jostain kauniista."
 
-	"In a dark forest, mysterious voices flow / The only human sound is a fearful pup's cry."
+	"In the wild west, where gunslingers roamed free, / A lone cowboy rode bravely, searching for his destiny."
 
 3. Käytä ensimmäisellä rivillä aistinvaraisia yksityiskohtia luodaksesi eloisan ja mukaansatempaavan ympäristön tarinalle, ja toisella rivillä lisää konflikteja tai jännitteitä juonen syvyyden lisäämiseksi.
 
-	"Huuruinen yö, kuin mustaksi maalattu / Palavan kirkon nurkat näyttävät seireenin sylissä."
+	"Viidakon syvyyksissä, missä ilma oli paksua ja kosteaa, / Kova taistelu riehui pedon ja saaliin välillä, perimmäinen kamppailu."
 
-	"Hazy night, like it's painted black / The corners of the burning church appear in the siren's arms."
+	"In the heart of the city, where the neon lights blazed, / A group of rebels fought, against the system that crazed."
 
 4. Käytä ensimmäisellä rivillä takaumatekniikoita tarinan taustatietojen tai kontekstin antamiseen, ja toisella rivillä käytä kuvailevaa kieltä kuvaamaan takauma elävästi.
 
-	"Muistatko, kun aloitimme tämän matkan? / Se oli kuin aurinko paistoi maahan ja taivaaseen."
+	"Kun viimeinen lumi suli ja kevät alkoi näkyä, / muistot tulvivat takaisin, rakkaudesta, joka kerran hehkui."
 
-	"Do you remember when we started this journey? / It was like the sun was shining on earth and in the sky."
+	"In the depths of despair, as tears silently fell, / She remembered the days of joy, when all was well."
 
 5. Käytä ensimmäisellä rivillä dialogia tai monologia saadaksesi äänen tarinan hahmoille, ja toisella rivillä käytä kuvailevaa kieltä välittääksesi heidän tunteitaan ja motiivejaan.
 
-	"Mä teen sen, oli viimeinen lause jota miten kuulin huutavan / Tämä olisi Suomen tarina, vetäkää syvään henkeä."
+	"Hän seisoi sateessa, huppu tiukasti ylös vedettynä, / 'Kuinka me tänne jouduimme?", hän kuiskasi säikähtäneenä."
 
-	"I'll do it, was the last sentence I heard shouted / This would be Finland's story, take a deep breath."
+	"In the dimly lit room, the two lovers sat, / As they shared their secrets, fears and all of that."
 
 6. Käytä ensimmäisellä rivillä ennakointia vihjataksesi tuleviin tapahtumiin tai juonenkäänteisiin tarinassa, ja toisella rivillä jatka jännityksen ja ennakoinnin rakentamista.
 
-	"Keskipäivästä keskiyöhön, se murtaa tuntien tahtiin / Kun lyöt ilman syytä, kun on tuntia takana."
+	"Taivas vaihtui pahaenteiseen väriin, kun maa alkoi täristä, / tuskin he tiesivät, katastrofi oli heräämässä."
 
-	"From midday to midnight, it breaks to the rhythm of hours / When you hit for no reason, when there's an hour behind."
+	"The shadows loomed large, as the night grew dark and cold, / Little did they know, danger lurked, waiting to unfold."
 
 7. Käytä ensimmäisellä rivillä kerrontarakennetta, joka hyppää eri näkökulmien tai aikajanojen välillä lisätäksesi tarinaan monimutkaisuutta ja syvyyttä, ja toisella rivillä kuvaavaa kieltä yhdistääksesi kaikki elementit yhteen.
 
-	"Kaksi rinnakkaista tarinaa, jotka lopulta kohtaavat toisensa / Erilaiset perspektiivit, mutta sama loppupiste."
+	"Menneisyys ja nykyisyys törmäsivät, kun he seisoivat kasvotusten, / Muistot ja tunteet nousivat uudelleen esiin jättäen ilmeen hämmentyneen."
 
-	"Two parallel stories, that ultimately collide / Different perspectives, but the same endpoint."
+	"In her mind's eye, she saw the future, with its twists and turns, / But for now, she focused on the present, her heart still yearns."
 
 8. Käytä ensimmäisellä rivillä kuvailevaa kieltä luodaksesi vahvan tunnelman ja tunnelman tarinalle, ja toisella rivillä käytä aistillisia yksityiskohtia parantaaksesi yleistä tarinankerrontakokemusta.
 
-	"Harmajan majakka, sen valo on kuin lohdullinen hymy / Illan kylmyys ja hiljaisuus, kuin olisi kuolemaan aikeissa."
+	"Metsä oli vihreä meri, jossa kirjava auringonvalo suodattui puiden läpi, / Kahisevien ehtien ääni jalkojen alla oli kehtolaulu heidän vaeltaville jaloilleen."
 
-	"The lighthouse of Harmaja, its light like a comforting smile / The evening cold and quiet, like you're about to die."
+	"The snow-covered mountains stretched before her, a wilderness untouched, / The crisp air filled her lungs and the quiet solitude erased all the cluttered thoughts."
 
 9. Käytä ensimmäisessä rivissä metaforia ja symboliikkaa välittääksesi syvempiä merkityksiä ja teemoja tarinassa, ja toisella rivillä käytä kuvailevaa kieltä selittääksesi ja laajentaaksesi näitä symboleja.
 
-	"Ote, joka yhdistää meidät maailman romujen alle / Symbolinen unelma, koska meidät on kadotettu tiettyjen mielikuvien taakse."
+	"Auringon laskiessa taivas muuttui punaiseksi, kuin varoitus tulevasta, / Hän piti toivosta, kuin lanka, ja oli valmis kohtaamaan kaiken, mitä yö pelkää."
 
-	"The grip that binds us beneath the world's rubble / The symbolic dream, because we're lost behind certain images."
+	- "She wore a mask of steel, never letting anyone see her cry, / But behind closed doors, she was a broken bird, with no strength to even fly."
 
 10. Käytä ensimmäisessä rivissä kierrettyä loppua tai yllättävää juonenkäännettä yleisön järkyttämiseksi ja sitouttamiseksi, ja toisella rivillä kuvailevaa kieltä paljastamaan käänteen koko vaikutus ja merkitys.
 
-	"Ensimmäinen lehti lentää kädestä, kun tuuli pääsee sisään / Ja päästään jotain irti, itsensävuoksi vapaudutaan." 
+	"Hän luuli, että hänellä oli kaikki, kunnes sanat "tää on ohi" kuuluivat, / Ja sillä hetkellä hänen maailmansa mureni. Julma, julma on peli."
 
-	"The first leaf slips from your hand when the wind gets in / And we let something go, we're freeing ourselves for self."
+	"He thought he was the hero, protecting his love from harm, / But in the end, his own actions caused her the most alarm."
 
 
 #### S. Puhelun ja vastauksen käyttö
@@ -1142,120 +1142,120 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 
 	"Haluatko olla vapaa ja hallita omaa elämääsi / Heittäydy unelmiesi vietäväksi ja nauti täysin siemauksin."
 
-	"Are you ready to rise up and take control? / So let your voice be heard, don't be afraid to let it show."
+	"Are you ready to hear the truth and let it set you free? / Then raise your voices high and join in the symphony"
 
 2. Käytä ensimmäisellä rivillä toistuvaa lausetta tai kuoroa, johon yleisö voi helposti liittyä ja johon vastata, ja toisella rivillä kuvailevaa kieltä korostaaksesi ja sitouttaaksesi kuuntelijoita.
 
-	"Meidän on aika astua ulos tästä kahleista / Aika ottaa oppia menneistä ja nousta lempeänä vapauteen."
+	"Meidän on aika astua ulos näistä kahleista / Aika ottaa oppia menneistä ja nousta lempeään vapauteen."
 
-	"I'll say 'hands up' and you say 'let's go', / we'll dance and move to the beat, let the music flow."
+	"Everybody hands up, let's rock this house / Can you feel the energy, it's too hot to douse"
 
 3. Ensimmäisellä rivillä puhu suoraan yleisölle ja neuvo heitä vastaamaan tiettyihin vihjeisiin tai kehotuksiin koko kappaleen aikana, ja toisella rivillä käytä kuvailevaa kieltä luodaksesi odotuksen ja osallistumisen tunteen.
 
-	"Seiso yhdessä ja kuuntele ääntä sydämessäsi / Anna musiikin ravita ja voimala sinua, kun astut kaikkinensa vapaaseen maailmaan."
+	"Nosta kädet ylös, ja laske ne / Liiku nyt, ja anna rytmi viedä"
 
 	"When I say 'jump', you say 'how high?', / we'll keep the energy up, reach for the sky."
 
 4. Käytä ensimmäisellä rivillä tarttuvaa ja toistuvaa melodiaa, jonka yleisö voi helposti poimia ja johon vastata, ja toisella rivillä fiksua sanaleikkiä tai humoristisia sanoituksia puhelun ja vastauksen vuorovaikutuksen ylläpitämiseksi.
 
-	"Oletko valmis”, kysyy kohtalo televisiossa / Sankareitamme jahtaavat pedot samalla bongaillen varoitusmerkkejä."
+	"Kädet ilmaan niinku et välittäis / Juhlitaan tänään, unohda huoles"
 
-	"Sing along with me, it's easy to do, / I'll throw in a twist and surprise you too."
+	"Hands in the air like you just don't care / We'll keep this party going, forget all your care"
 
 5. Käytä ensimmäisellä rivillä lausetta, joka vaatii yleisöltä erityistä reaktiota tai vastausta, ja toisella rivillä tarkenna odotuksia ja tehosta vastauksen energiaa.
 
-	"Ravista ruumista ja selvittäkää henkinen olemus / Tähtää korkealle ja lentäkää poikki urien kuin vapaat linnut."
+	"Kun sanon hyppää, sanot kuinka korkeelle / Pidetään rytmi, anna energia keholles"
 
 	"When I shout 'left', you turn to the right, / the energy's building, it's gonna be a wild night."
 
 6. Käytä ensimmäisellä rivillä kutsu- ja vastausrakennetta säkeen sisällä siten, että räppäri esittää rivin ja yleisö vastaa määrätyllä lauseella tai sanalla, ja toisella rivillä jatka edestakaisin kuvion luomiseksi. yhtenäisyyden ja osallistumisen tunnetta.
 
-	"Kuuluuko teidän äänet, maailman kaiku / Lähetä positiivista energiaa lähelle, aseta maailma täten kiehnäksi."
+	 "Kuka on paras MC, sä tiedät / se on mä, se on mä, mä haluun kuulla sen sun äänellä"
 
 	"I'll say 'what's up?', you say 'not much', / we'll keep this going, it'll be such a rush."
 
 7. Yhdistä ensimmäisellä rivillä kutsu- ja vastauselementit kappaleen rytmiin ja räppärien lauluun vuorovaikutuksessa taustaraidan kanssa, ja toisella rivillä käytä kuvailevaa kieltä puhelun ja vastauksen dynaamisuuden ja energian parantamiseksi. .
 
-	"Antaako sun pitkä naiset huomiota / Naiset, jotka eivät pääse minuun katsomassa omaalistunnon piston."
+	"Biitti menee boom boom, basso menee pow wow / kaikki liittyy mukaan, anna kuuluu lujaa"
 
 	"I'll rap a line and the beat'll reply, / you'll join in and take it up a level, give it a try."
 
 8. Käytä ensimmäisellä rivillä laulua tai mantraa muistuttavaa lausetta, johon yleisö voi liittyä ja toistaa, ja toisella rivillä sanaleikkejä tai älykkäitä sanoituksia pitääksesi puhelun ja vastauksen kiinnostavana ja viihdyttävänä.
 
-	"Ajattele positiivista, pue yllesi pukeutumistyylejä / Karkota kaikki negatiiviset ajatukset, anna positiivisuuden vahvistaa sinua."
+	"Kädet ylös, kädet ylös, fiilis ylös / anna sen nousta korkeuksiin"
 
 	"We'll sing 'hey ho, let's go' like the Ramones, / keep up with the beat and make it your own."
 
 9. Käytä ensimmäisellä rivillä kysymystä tai lausuntoa, joka pyytää yleisöltä vastauksen, ja toisella rivillä kuvailevaa kieltä lisätäksesi tunteita ja intensiivisyyttä vastaukseen.
 
-	"Olenko minä ainoa, jolla on vaivana? / Kuinka voit puhua sydämen kulkuellesi, anna oikeisiin muotoihin paljastuminen sydämeni janoista."
+	"Tunnetko sykkeen, tunnetko sähkön / Anna kehos liikkuu, niin energia kasvaa"
 
 	"Do you feel the rhythm pulsing through your veins? / Let it take control of you, break free from the chains."
 
 10. Käytä ensimmäisellä rivillä kutsu- ja vastausrakennetta koko kappaleen ajan niin, että räppärin säkeet ja kertosäkeet vuorottelevat keskenään, ja toisella rivillä käytä kuvailevaa kieltä, jotta kappaleen kahden osan väliset erot vastakkain ja korostuvat.
 
-	"On aika nähdä valoa pimeyden keskellä / Kirkas ja loistava, aurinkoinen ja paahtava, vahva ja rohkea. Tästä kaikki alkaa."
+	"Mitä kuuluu? Ei paljon. Come on, kerro lisää / Sul on tarina ja henkes voi kohota"
 
-	"I'll tell my story and you'll sing along, / we'll bounce ideas and let the music be our guide all night long."
+	"Hey you! Who me? Yeah you, don't you know / I'm the king of the mic, here to steal the show"
 
 
 #### T. Sosiaalisen kommentin käyttö
 1. Kirjoita ensimmäisellä rivillä ajankohtaisesta yhteiskunnallisesta tai poliittisesta asiasta, ja toisella rivillä selitä asian vaikutukset ja seuraukset.
 
-	"Kun maailmaa katsoo, tulee paha mieli / Lapsia pommitetaan ja vallan saa vain se, jolla pistooli."
+	"Emme voi sivuuttaa nälkää ja köyhyyttä, / perheiden tuska, yksi sama noidankehä."
 
-	"Police brutality and racism still run rampant in this country, / innocent lives lost, families shattered, and systemic injustice remains un-tackled."
+	"The wealth gap grows wider, the rich getting more, / while the rest of us struggle, the system's a flaw."
 
 2. Käytä ensimmäisellä rivillä sanaleikkejä korostaaksesi yhteiskunnallista ongelmaa tai epäoikeudenmukaisuutta, ja toisella rivillä käytä eloisia kuvauksia ja metaforia ilmaisemaan ongelman vakavuus.
 
-	"Kiusattu heikko painaa päätänsä kainalossaan / Silti vahvat sanovat vain, että koita selviytyä komerossa."
+	"Kiusattu heikko pitää päätänsä kainalossaan / Silti vahvat sanoo, et koita selviytyy komerossa."
 
-	"Our democracy has turned into a mockery, / the rich get richer while the poor struggle just to make ends meet."
+	"The system is rigged, a rigged monopoly, / the winners cash in, while the rest feel powerless and lonely."
 
 3. Ensimmäisellä rivillä käytä ironiaa yhteiskunnallisen ongelman tai normin kommentoimiseen ja toisella rivillä esimerkkejä ja todisteita ironian tueksi.
 
-	"Huhut jatkuvat pitkään, vaikka emme ole kuulleet mitään / Kaikki tietävät, mikä on totta, mutta kukaan ei halua puhua."
+	"Huhut jatkuu pitkään, vaikka ei oo kuultu mitään / Kaikki tietää, mikä on totta, mut kukaan ei haluu puhuu siitä."
 
-	"Land of the free, home of the brave, / still struggling with racism and injustice, how's that for a land of the enslaved?"
+	"Money can buy happiness, so they say, / tell that to the homeless, struggling every day."
 
 4. Ensimmäisellä rivillä kuvaile kohtaus tai skenaario, joka kuvastaa suurempaa yhteiskunnallista ongelmaa, ja toisella rivillä kommentoi ja analysoi kohtausta.
 
-	"Ihmiset hukuimme tunteihin, jotka kirjoitimme muille / Sekä oikea, että kuvitteellinen elämämme ovat vain rivilauseja kirjoissa."
+	"Naisen kävelee yksin myöhään illalla, / on pelokas ja jännittynyt, ei pitäis joutuu elään sillai."
 
-	"She walks home alone, keys between her fingers, / always on the lookout, never feeling safe, this is what it's like to be a woman in this world."
+	"In the concrete jungle, a sea of faces, / lost in their screens, no connection, no traces."
 
 5. Käytä ensimmäisellä rivillä symboliikkaa kuvaamaan sosiaalista asiaa tai ongelmaa, ja toisella rivillä tarkenna symboliikka paljastaaksesi ongelman taustalla olevat syyt ja vaikutukset.
 
-	"Sotkemme huoneiden nurkat ja pedot saattavat sydämemme raunioiksi / Koska maailma on syntymässä uusiksi ja me kulutamme kaiken."
+	"Juureton puu heiluu tuulessa, / edustaa nuoruutta, yhteiskunnan armoilla."
 
-	"The cracks in the pavement represent the cracks in our society, / broken by poverty, racism, and inequality, still struggling to find equality."
+	The cracks in the pavement, like scars on a face, / represent the broken souls, lost in this place."
 
 6. Ensimmäisellä rivillä käytä satiiria arvostellaksesi tiettyä ryhmää tai käyttäytymistä ja toisella rivillä liioittelua tai sarkasmia korostaaksesi käyttäytymisen kielteisiä vaikutuksia.
 
-	"Kuinka monta naista pitää haastaa oikeuteen, kun tulevat viisi vuotta rikoksia suorituksia varten / Ja siltikin näitä lasketaan vain parin muuhun lukemaan."
+	"Voi kauneusstandardeja, kuinka niit ihaillaan, / ne jättää meidät ain nii onnellisiks ja huolettomiks."
 
-	"Y'all say it's just a pill, don't worry 'bout the side effects, / now we got a whole nation hooked on opioids, what you gonna do to fix the mess?"
+	"The media, delivering truth and facts, / always staying unbiased, never distorting the facts."
 
 7. Ensimmäisellä rivillä käytä vertailua tai analogiaa kommentoidaksesi yhteiskunnallista asiaa, ja toisella rivillä selitä asian ja vertailun yhtäläisyydet ja erot.
 
-	"Kun näet ryöppyävän hanan ja pyyhin rippeet lattialta / Tajuat, että oma kansasi on vain yksi tärkeä ja pieni osa maapalloa."
+	"Korttitalo, horjuva ja hauras, / kuten poliittinen järjestelmä, valmis epäonnistumaan."
 
-	"White-collar criminals get a slap on the wrist, poor folks get locked up, / how is this justice system blind to the fact that the scales are tipped and corrupt?"
+	"Society's a puzzle, with pieces misplaced, / we can't put it together, so we'll just leave it to fate."
 
 8. Käytä ensimmäisellä rivillä tarttuvaa refreeniä tai kertosätöä sosiaalisen viestin tai toimintakehotuksen välittämiseksi, ja toisella rivillä kuvailevaa kieltä ja esimerkkejä viestin tueksi.
 
-	"Emme tarvitse enää riita ja vihaa / Kaikkien pitäisi saada olla vapaasti juurtuneita."
+	"Puhu, älä ole hiljaa, älä pelkää, / meidän äänen voima ei saa koskaan pois mennä."
 
-	"Black lives matter, can't you see that we're still far from equality? / We've been fighting for justice for centuries, still got a long way to go to reach equity."
+	"Love is love, it's as simple as that, / let's break down the barriers, and knock down the hate."
 
 9. Käytä ensimmäisellä rivillä ironisia lausuntoja tai havaintoja paljastaaksesi yhteiskunnalliset ongelmat tai epäoikeudenmukaisuudet, ja toisella rivillä kommentoi ja analysoi ironiaa.
 
-	"Rahaa pitää alusta alkaen suositella / Vain asiakkaiden palvelukseen, jota on enemmän, ja usein, on voittajia."
+	"Vapaiden maa, rohkeiden koti, / kerro sorretuille se, ne ei pääse pakoon."
 
-	"We preach for world peace and tolerance, but there's still war and hatred all around, / when will we learn that our actions speak louder than words, and our hypocrisy needs to be owned?"
+	"A democracy, power to the people, by the people, / yet some voices go unheard, their rights just ignored."
 
 10. Käytä ensimmäisellä rivillä henkilökohtaisia kokemuksia tai anekdootteja valaisemaan laajempaa sosiaalista ongelmaa, ja toisella rivillä käytä kuvailevaa kieltä yhdistääksesi henkilökohtaisen kokemuksen käsiteltävään asiaan.
 
-	"Minulla oli paljon paha mieli, kun en napsauta miehiä ilmaiseksi / Mutta edelleen en voi koskaan antaa heidän määrittää, kuka olen."
+	"Lapsena mut opetettiin vihaamaan, / mut nyt aikuisena näen kuin sil ihminen pilataan"
 
-	"I see the same streets I grew up on, but now they're overrun with guns and crime, / why aren't we doing more to help these kids before they fall behind?"
+	"I grew up in poverty, struggling to get by, / but others have it worse, I can't help but cry."
