@@ -1,0 +1,678 @@
+List of typecasts:
+Heartbroken/lovesick
+Rebel/anti-establishment
+Political activist
+Social justice advocate
+Party/club
+Hopeful/dreamer
+Confident/empowered
+Vulnerable/raw
+Romantic/love-driven
+Failure/loser
+Spiritual/faithful
+Passionate/determined
+Reflective/self-reflective
+Witty/sarcastic
+Melancholic/sad
+Humble/down-to-earth
+Charismatic/charming
+Resilient/overcoming adversity
+Carefree/joyful
+Dark/mysterious
+Comical/humorous
+Controversial/provocative
+Nostalgic/sentimental
+Wise/philosophical
+Angry/outspoken
+Calm/peaceful.
+Confident/self-assured
+Self-destructive/self-sabotaging
+Hopeful/optimistic
+Fearful/anxious
+Eccentric/quirky
+Sensitive/emotional
+Bitter/resentful
+Unique/nonconformist
+Free-spirited/nonconformist
+Sultry/seductive
+Inspirational/motivational
+Authentic/real
+Mysterious/enigmatic
+Carefree/bohemian
+Street-smart/tough
+Romantic/idealistic
+Nurturing/motherly
+Dark/tormented
+Remorseful/regretful
+Bold/brave
+Outcast/rebel
+Lost/disconnected
+Tough/badass
+Sincere/genuine
+Honest/vulnerable
+Innocent/naive
+Bold/risk-taking
+
+
+List of artists:
+Red Hot Chili Peppers
+Beastie Boys
+The Jimi Hendrix Experience
+Grandmaster Flash and the Furious Five
+Bob Marley
+Bob Dylan
+The Beatles
+The Doors
+Nirvana
+Tupac Shakur
+Marvin Gaye
+N.W.A
+Run-DMC
+Led Zeppelin
+Jefferson Airplane
+Madonna
+Buffalo Springfield
+Elton John
+R.E.M.
+AC/DC
+ZZ Top
+Aerosmith
+David Bowie
+The Yardbirds
+Johnny Cash 
+The Grateful Dead
+The Who
+The Byrds
+Simon & Garfunkel
+Roy Orbison
+The Beach Boys
+Ray Charles
+James Brown
+Limp Bizkit
+Public Enemy
+Eminem
+Elvis Presley
+ABBA
+Green Day
+Jay-Z
+Rage Against the Machine
+Metallica
+Pink Floyd
+Stevie Wonder
+Bon Jovi
+Guns N' Roses
+The Supremes
+Drake
+
+
+Give artists per typecasts.
+
+
+Artists for typecast 'Heartbroken/lovesick':
+- Adele
+- Taylor Swift
+- Sam Smith
+- Ed Sheeran
+- Patsy Cline
+- Amy Winehouse
+- Coldplay
+- Sinead O'Connor
+
+Artists for typecast 'Rebel/anti-establishment':
+- The Sex Pistols
+- Public Enemy
+- Sex Pistols
+- Dead Kennedys
+- Black Flag
+- The Clash
+- Rage Against the Machine
+- Nirvana
+- Green Day
+
+Artists for typecast 'Political activist':
+- Bob Marley
+- Rage Against the Machine
+- Bob Dylan
+- Public Enemy
+- Joan Baez
+- John Lennon
+- Neil Young
+- Dixie Chicks
+- Fela Kuti
+
+Artists for typecast 'Social justice advocate':
+- Bob Marley
+- Public Enemy
+- Beyonce
+- Marvin Gaye
+- Lauryn Hill
+- Nina Simone
+- Billie Holiday
+- Sam Cooke
+- Tracy Chapman
+
+Artists for typecast 'Party/club':
+- The Black Eyed Peas
+- LMFAO
+- Calvin Harris
+- Rihanna
+- Bruno Mars
+- Pitbull
+- Jason Derulo
+- Flo Rida
+- DNCE
+
+Artists for typecast 'Hopeful/dreamer':
+- John Lennon
+- Bob Marley
+- Michael Jackson
+- Katy Perry
+- Coldplay
+- U2
+- Imagine Dragons
+- Miley Cyrus
+- Beyonce
+
+Artists for typecast 'Confident/empowered':
+- Beyonce
+- Whitney Houston
+- Destiny's Child
+- Lady Gaga
+- Queen Latifah
+- Demi Lovato
+- Lizzo
+- Cardi B
+- Janelle Monae
+
+Artists for typecast 'Vulnerable/raw':
+- Billie Eilish
+- Fiona Apple
+- Alanis Morissette
+- Elliott Smith
+- Adele
+- Brandi Carlile
+- Lana Del Rey
+- Sufjan Stevens
+- Lorde
+
+Artists for typecast 'Romantic/love-driven':
+- Adele
+- Ed Sheeran
+- Taylor Swift
+- John Legend
+- Bruno Mars
+- Sam Smith
+- The Weeknd
+- Mariah Carey
+- Hozier
+
+Artists for typecast 'Failure/loser':
+- Beck
+- The Smiths
+- Morrissey
+- The Replacements
+- Green Day (early years)
+- Kanye West (808s and Heartbreak)
+- Bon Iver
+- The National
+- The Cure
+
+Artists for typecast 'Spiritual/faithful':
+- Bob Marley
+- George Harrison
+- Madonna
+- Sufjan Stevens
+- Cat Stevens
+- Leonard Cohen
+- Mavis Staples
+- Enya
+- Dave Matthews Band
+
+Artists for typecast 'Passionate/determined':
+- Beyonce
+- Eminem
+- Lady Gaga
+- Kanye West
+- Pink
+- Bruce Springsteen
+- Shakira
+- Katy Perry
+- Aerosmith
+
+Artists for typecast 'Reflective/self-reflective':
+- Lana Del Rey
+- Bon Iver
+- Fleet Foxes
+- Sufjan Stevens
+- Elliott Smith
+- Nick Drake
+- Phoebe Bridgers
+- Radiohead
+- Joni Mitchell
+
+Artists for typecast 'Witty/sarcastic':
+- Weird Al Yankovic
+- Flight of the Conchords
+- Tenacious D
+- The Lonely Island
+- Bo Burnham
+- Stephen Lynch
+- Tim Minchin
+- Randy Newman
+- "Weird Al" Yankovic
+
+Artists for typecast 'Melancholic/sad':
+- Billie Eilish
+- Lana Del Rey
+- Elliot Smith
+- Bon Iver
+- The Smiths
+- Sufjan Stevens
+- Adele
+- Sam Smith
+- Hozier
+
+Artists for typecast 'Humble/down-to-earth':
+- Johnny Cash
+- Bob Dylan
+- Mumford & Sons
+- The Lumineers
+- Jason Isbell
+- The Avett Brothers
+- Fleet Foxes
+- Ray LaMontagne
+- Iron & Wine
+
+Artists for typecast 'Charismatic/charming':
+- Frank Sinatra
+- Freddie Mercury
+- Prince
+- Michael Jackson
+- Elvis Presley
+- Bruno Mars
+- Justin Timberlake
+- Beyonce
+- Ariana Grande
+
+Artists for typecast 'Resilient/overcoming adversity':
+- Demi Lovato
+- Eminem
+- Lizzo
+- Pink
+- Kelly Clarkson
+- Christina Aguilera
+- Mariah Carey
+- Janelle Monae
+
+Artists for typecast 'Carefree/joyful':
+- Pharrell Williams
+- Bruno Mars
+- Taylor Swift (1989 album)
+- Walk the Moon
+- Carly Rae Jepsen
+- Fitz and the Tantrums
+- ABBA
+- B-52s
+- Prince
+
+Artists for typecast 'Dark/mysterious':
+- The Weeknd
+- Lana Del Rey
+- Nick Cave & the Bad Seeds
+- Mazzy Star
+- David Bowie
+- Portishead
+- Depeche Mode
+- Nine Inch Nails
+- Radiohead (early years)
+
+Artists for typecast 'Comical/humorous':
+- "Weird Al" Yankovic
+- Flight of the Conchords
+- The Lonely Island
+- Bo Burnham
+- Tenacious D
+- Stephen Lynch
+- Tim Minchin
+- Randy Newman
+- Adam Sandler
+
+Artists for typecast 'Controversial/provocative':
+- Marilyn Manson
+- Eminem
+- Madonna
+- Nine Inch Nails
+- Rage Against the Machine
+- Dead Kennedys
+- Public Enemy
+- Lizzo
+- Cardi B
+
+Artists for typecast 'Nostalgic/sentimental':
+- Fleetwood Mac
+- The Beach Boys
+- Bruce Springsteen
+- Queen
+- Billy Joel
+- Joni Mitchell
+- Elton John
+- ABBA
+- Whitney Houston
+
+Artists for typecast 'Wise/philosophical':
+- Bob Dylan
+- Leonard Cohen
+- Joni Mitchell
+- Neil Young
+- James Taylor
+- Cat Stevens
+- Simon & Garfunkel
+- Van Morrison
+- Pink Floyd
+
+Artists for typecast 'Angry/outspoken':
+- Rage Against the Machine
+- Public Enemy
+- N.W.A
+- Dead Kennedys
+- Black Flag
+- The Clash
+- Bikini Kill
+- Eminem
+- Bob Dylan (protest songs)
+
+Artists for typecast 'Calm/peaceful':
+- Jack Johnson
+- Norah Jones
+- Bon Iver
+- Iron & Wine
+- Nick Drake
+- Elliott Smith
+- Tallest Man on Earth
+- José González
+- John Mayer
+
+Artists for typecast 'Self-destructive/self-sabotaging':
+- Amy Winehouse
+- Kurt Cobain
+- Jimi Hendrix
+- Johnny Cash
+- Janis Joplin
+- Jeff Buckley
+- Gram Parsons
+- Elliott Smith
+- Sid Vicious
+
+Artists for typecast 'Hopeful/optimistic':
+- Coldplay
+- The Beatles
+- Bob Marley
+- Bruce Springsteen
+- U2
+- Taylor Swift (1989 album)
+- The Lumineers
+- Imagine Dragons
+- Miley Cyrus
+
+Artists for typecast 'Fearful/anxious':
+- Lana Del Rey
+- Linkin Park (early years)
+- Sia
+- Hole
+- Fiona Apple
+- Radiohead (early years)
+- Arcade Fire
+- Marilyn Manson
+
+Artists for typecast 'Eccentric/quirky':
+- Björk
+- David Bowie
+- Regina Spektor
+- Florence + The Machine
+- Talking Heads
+- St. Vincent
+- Kate Bush
+- Tom Waits
+- Alt-J
+
+Artists for typecast 'Sensitive/emotional':
+- Bon Iver
+- Adele
+- Radiohead
+- The National
+- Iron & Wine
+- Fleet Foxes
+- Nick Drake
+- Coldplay
+- Lana Del Rey
+
+Artists for typecast 'Bitter/resentful':
+- Alanis Morissette
+- Fleetwood Mac (Rumours album)
+- Taylor Swift (Speak Now album)
+- Kanye West (My Beautiful Dark Twisted Fantasy)
+- Lorde
+- Fiona Apple
+- Kelly Clarkson
+- Adele
+- Billie Eilish
+
+Artists for typecast 'Unique/nonconformist':
+- David Bowie
+- Madonna
+- Prince
+- Lady Gaga
+- Björk
+- Prince
+- Kate Bush
+- Peter Gabriel
+- Queen
+
+Artists for typecast 'Free-spirited/nonconformist':
+- Bob Dylan
+- Janis Joplin
+- Joni Mitchell
+- Jimi Hendrix
+- The Doors
+- The Rolling Stones
+- Pink Floyd (early years)
+- Patti Smith
+- Fleetwood Mac (early years)
+
+Artists for typecast 'Sultry/seductive':
+- Lana Del Rey
+- The Weeknd
+- Marvin Gaye
+- Beyonce
+- Prince
+- Sade
+- Tove Lo
+- Hozier
+- The xx
+
+Artists for typecast 'Inspirational/motivational':
+- Michael Jackson
+- Beyonce
+- Eminem
+- Queen
+- Madonna
+- Coldplay
+- U2
+- Kendrick Lamar
+- Imagine Dragons
+
+Artists for typecast 'Authentic/real':
+- Johnny Cash
+- Bob Dylan
+- Bruce Springsteen
+- Joni Mitchell
+- Neil Young
+- Leonard Cohen
+- Cat Stevens
+- Sufjan Stevens
+- Tracy Chapman
+
+Artists for typecast 'Mysterious/enigmatic':
+- David Bowie
+- Prince
+- Lana Del Rey
+- Radiohead
+- Leonard Cohen
+- Fleetwood Mac
+- Nick Cave & the Bad Seeds
+- Kate Bush
+- Björk
+
+Artists for typecast 'Carefree/bohemian':
+- Fleetwood Mac (Rumours album)
+- Led Zeppelin
+- Janis Joplin
+- Crosby, Stills, & Nash
+- The Doors
+- The Grateful Dead
+- Jefferson Airplane
+- Bob Dylan (1960s era)
+- Donovan
+
+Artists for typecast 'Street-smart/tough':
+- Eminem
+- Tupac Shakur
+- The Notorious B.I.G.
+- Queen Latifah
+- N.W.A
+- Public Enemy
+- Jay-Z
+- Run-DMC
+- LL Cool J
+
+Artists for typecast 'Romantic/idealistic':
+- John Mayer
+- Ed Sheeran
+- Taylor Swift
+- Bruno Mars
+- Mariah Carey
+- Michael Bublé
+- Jason Mraz
+- Shawn Mendes
+- Stevie Wonder
+
+Artists for typecast 'Nurturing/motherly':
+- Beyonce
+- Aretha Franklin
+- Dolly Parton
+- Taylor Swift
+- Mariah Carey
+- Alicia Keys
+- Adele
+- Sade
+- Barbra Streisand
+
+Artists for typecast 'Dark/tormented':
+- Kurt Cobain (Nirvana)
+- Amy Winehouse
+- Chester Bennington (Linkin Park)
+- Billie Eilish
+- Marilyn Manson
+- Nine Inch Nails
+- Joy Division
+- David Bowie (Berlin era)
+- The Cure
+
+Artists for typecast 'Remorseful/regretful':
+- Adele
+- Sam Smith
+- Beyonce
+- Bon Iver
+- Lana Del Rey
+- Billie Eilish
+- Ed Sheeran
+- Elliott Smith
+- Chris Cornell (Soundgarden, Audioslave)
+
+Artists for typecast 'Bold/brave':
+- Lady Gaga
+- Freddie Mercury (Queen)
+- Beyonce
+- Eminem
+- Janis Joplin
+- Madonna
+- Kendrick Lamar
+- Pink
+- Frank Sinatra
+
+Artists for typecast 'Outcast/rebel':
+- The Clash
+- Nirvana
+- Rage Against the Machine
+- The Sex Pistols
+- Green Day
+- Gary Clark Jr.
+- Greta Van Fleet
+- Joan Jett
+- Bikini Kill
+
+Artists for typecast 'Lost/disconnected':
+- Radiohead
+- Lana Del Rey
+- The Weeknd
+- Nirvana
+- The Smiths
+- Pink Floyd (Dark Side of the Moon era)
+- David Bowie (Berlin era)
+- Morrissey
+- The Doors
+
+Artists for typecast 'Tough/badass':
+- AC/DC
+- Guns N' Roses
+- Metallica
+- Black Sabbath
+- Mötley Crüe
+- Joan Jett
+- Led Zeppelin
+- The Rolling Stones
+- Limp Bizkit
+
+Artists for typecast 'Sincere/genuine':
+- Bruce Springsteen
+- Bob Marley
+- Fleetwood Mac (Rumours album)
+- Tracy Chapman
+- Cat Stevens
+- Simon & Garfunkel
+- Ray Charles
+- Sam Cooke
+- Bill Withers
+
+Artists for typecast 'Honest/vulnerable':
+- Taylor Swift
+- Adele
+- Ed Sheeran
+- Billie Eilish
+- Lorde
+- Hozier
+- Lana Del Rey
+- James Bay
+- Shawn Mendes
+
+Artists for typecast 'Innocent/naive':
+- Taylor Swift
+- Ed Sheeran
+- Billie Eilish
+- Shawn Mendes
+- Dodie Clark
+- The Beach Boys
+- Stevie Wonder
+- The Supremes
+- ABBA
+
+Artists for typecast 'Bold/risk-taking':
+- David Bowie
+- Madonna
+- Prince
+- Lady Gaga
+- Beyonce
+- Pink Floyd (early years)
+- Patti Smith
+- The Rolling Stones
+- Queen

@@ -1,4 +1,4 @@
-# Tekniikoita
+# Lyriikka-tekniikoita
 
 ## Yleisesti
 
@@ -72,6 +72,7 @@ Tekniikoita, jotka käsittelevät ja kommentoivat ajankohtaisia sosiaalisia ja p
 1. Kirjoita ensimmäiselle riville tunnettu lause ja toiselle riville oma lause
 
     "Lapin kesäyö on taikaa / Keskellä metsää hiljaisuus vallitsee"
+	
 	"Roses are red, violets are blue / My heart is full of love for you"
 
 2. Kirjoita ensimmäiselle riville viidestä aistista - näkö, ääni, haju, maku, kosketus - ja käytä kuvailevaa kieltä
