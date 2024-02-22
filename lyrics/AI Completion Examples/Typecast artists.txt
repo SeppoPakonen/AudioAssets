@@ -676,3 +676,1747 @@ Artists for typecast 'Bold/risk-taking':
 - Patti Smith
 - The Rolling Stones
 - Queen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of rap artists:
+Eminem
+Kendrick Lamar
+MF DOOM
+Big L
+Aesop Rock
+Busta Rhymes
+Earl Sweatshirt
+Tech N9ne
+Logic
+Kool G Rap 
+Royce da 5'9
+Rakim
+Black Thought
+Canibus
+Blackalicious
+Danny Brown
+Big Pun
+GZA/Genius
+R.A. the Rugged Man
+Jean Grae
+Grandmaster Flash and the Furious Five
+Tupac Shakur
+N.W.A
+Run-DMC
+Public Enemy
+Eminem
+Jay-Z
+Drake
+Kendrick Lamar
+Missy Elliott
+Lauryn Hill
+Notorious B.I.G
+Kanye West
+Outkast
+Lil Wayne
+Cardi B
+Snoop Dogg
+Nicki Minaj
+Nas
+KRS-One
+Puff Daddy
+Queen Latifah
+MC Hammer
+Ice-T
+LL Cool J
+Tribe Called Quest
+Dr. Dre
+Wu-Tang Clan
+Beastie Boys
+Salt-N-Pepa
+Fugees
+50 Cent
+André 3000
+Chance the Rapper
+Eve
+Big Pun
+Migos
+Lil Kim
+Dead Prez
+Ludacris
+Busta Rhymes
+Slick Rick
+Lil Baby
+A$AP Rocky
+Gang Starr
+Gucci Mane
+Aaliyah
+Lil Uzi Vert
+DMX
+Rakim
+Wyclef Jean
+J. Cole
+Cypress Hill
+The Notorious B.I.G.
+Ice Cube
+Queen Latifah
+
+
+
+Give artists per typecasts.
+
+
+Rap artists for typecast 'Heartbroken/lovesick':
+- Drake
+- XXXTENTACION
+- The Weeknd
+- Frank Ocean
+- Kid Cudi
+
+Rap artists for typecast 'Rebel/anti-establishment':
+- N.W.A
+- Public Enemy
+- Rage Against The Machine
+- Dead Prez
+- Immortal Technique
+
+Rap artists for typecast 'Political activist':
+- Killer Mike
+- Common
+- Talib Kweli
+- KRS-One
+- Lupe Fiasco
+
+Rap artists for typecast 'Social justice advocate':
+- Kendrick Lamar
+- J. Cole
+- Chance the Rapper
+- Noname
+- Vic Mensa
+
+Rap artists for typecast 'Party/club':
+- Cardi B
+- Migos
+- A$AP Rocky
+- Lil Jon
+- Flo Rida
+
+Rap artists for typecast 'Hopeful/dreamer':
+- Logic
+- Kanye West
+- Mac Miller
+- Wiz Khalifa
+- Saba
+
+Rap artists for typecast 'Confident/empowered':
+- Nicki Minaj
+- Lil Kim
+- Missy Elliott
+- Queen Latifah
+- Remy Ma
+
+Rap artists for typecast 'Vulnerable/raw':
+- Eminem
+- Tyler, The Creator
+- Kid Cudi
+- Danny Brown
+- Earl Sweatshirt
+
+Rap artists for typecast 'Romantic/love-driven':
+- Common
+- J. Cole
+- Chance the Rapper
+- Bryson Tiller
+- Khalid
+
+Rap artists for typecast 'Failure/loser':
+- 50 Cent
+- Jay Rock
+- Lil Peep
+- NF
+- Future
+
+Rap artists for typecast 'Spiritual/faithful':
+- Kanye West
+- Chance the Rapper
+- Isaiah Rashad
+- Mick Jenkins
+- Anderson .Paak
+
+Rap artists for typecast 'Passionate/determined':
+- Eminem
+- Kendrick Lamar
+- T.I.
+- Meek Mill
+- Joey Bada$$
+
+Rap artists for typecast 'Reflective/self-reflective':
+- J. Cole
+- Ab-Soul
+- Joey Bada$$
+- Logic
+- Chance the Rapper
+
+Rap artists for typecast 'Witty/sarcastic':
+- Eminem
+- Danny Brown
+- Childish Gambino
+- Action Bronson
+- Lil Dicky
+
+Rap artists for typecast 'Melancholic/sad':
+- XXXTENTACION
+- Mac Miller
+- Post Malone
+- Juice WRLD
+- G-Eazy
+
+Rap artists for typecast 'Humble/down-to-earth':
+- Nas
+- J. Cole
+- YG
+- Nipsey Hussle
+- Chance the Rapper
+
+Rap artists for typecast 'Charismatic/charming':
+- Snoop Dogg
+- Lil Wayne
+- Kanye West
+- Drake
+- A$AP Rocky
+
+Rap artists for typecast 'Resilient/overcoming adversity':
+- 50 Cent
+- Tupac Shakur
+- DMX
+- Eminem
+- The Notorious B.I.G.
+
+Rap artists for typecast 'Carefree/joyful':
+- Chance the Rapper
+- Lil Yachty
+- Lil Uzi Vert
+- MadeinTYO
+- A-Trak
+
+Rap artists for typecast 'Dark/mysterious':
+- MF DOOM
+- Earl Sweatshirt
+- Tyler, The Creator
+- Denzel Curry
+- Flatbush Zombies
+
+Rap artists for typecast 'Comical/humorous':
+- Lil Dicky
+- Action Bronson
+- Childish Gambino
+- Riff Raff
+- Andy Mineo
+
+Rap artists for typecast 'Controversial/provocative':
+- Eminem
+- Tyler, The Creator
+- XXXTENTACION
+- 6ix9ine
+- N.W.A
+
+Rap artists for typecast 'Nostalgic/sentimental':
+- Kanye West
+- J. Cole
+- Joey Bada$$
+- Mac Miller
+- Logic
+
+Rap artists for typecast 'Wise/philosophical':
+- Kendrick Lamar
+- J. Cole
+- Lupe Fiasco
+- Nas
+- Jay-Z
+
+Rap artists for typecast 'Angry/outspoken':
+- Immortal Technique
+- Rage Against The Machine
+- DMX
+- Cardi B
+- Ice Cube
+
+Rap artists for typecast 'Calm/peaceful':
+- Joey Bada$$
+- Vince Staples
+- Mick Jenkins
+- SZA
+- Noname
+
+Rap artists for typecast 'Confident/self-assured':
+- Cardi B
+- Megan Thee Stallion
+- Nicki Minaj
+- DaBaby
+- Future
+
+Rap artists for typecast 'Self-destructive/self-sabotaging':
+- Mac Miller
+- Juice WRLD
+- Kid Cudi
+- Eminem
+- DMX
+
+Rap artists for typecast 'Hopeful/optimistic':
+- Logic
+- Chance the Rapper
+- Mac Miller
+- Wiz Khalifa
+- Outkast
+
+Rap artists for typecast 'Fearful/anxious':
+- XXXTENTACION
+- Kendrick Lamar
+- Earl Sweatshirt
+- NF
+- Kid Cudi
+
+Rap artists for typecast 'Eccentric/quirky':
+- Lil Uzi Vert
+- Young Thug
+- Lil Yachty
+- Tyler, The Creator
+- Playboi Carti
+
+Rap artists for typecast 'Sensitive/emotional':
+- Eminem
+- Kanye West
+- Kid Cudi
+- Mac Miller
+- Lil Peep
+
+Rap artists for typecast 'Bitter/resentful':
+- Eminem
+- 50 Cent
+- Joe Budden
+- Dr. Dre
+- Tupac Shakur
+
+Rap artists for typecast 'Unique/nonconformist':
+- A$AP Rocky
+- Tyler, The Creator
+- André 3000
+- Kanye West
+- Lil Wayne
+
+Rap artists for typecast 'Free-spirited/nonconformist':
+- Chance the Rapper
+- A$AP Rocky
+- Kid Cudi
+- Travis Scott
+- Smino
+
+Rap artists for typecast 'Sultry/seductive':
+- Cardi B
+- Megan Thee Stallion
+- Nicki Minaj
+- Ty Dolla $ign
+- SZA
+
+Rap artists for typecast 'Inspirational/motivational':
+- Eminem
+- Kanye West
+- J. Cole
+- Kendrick Lamar
+- Logic
+
+Rap artists for typecast 'Authentic/real':
+- Tupac Shakur
+- DMX
+- Eminem
+- The Notorious B.I.G.
+- Nas
+
+Rap artists for typecast 'Mysterious/enigmatic':
+- MF DOOM
+- Earl Sweatshirt
+- Tyler, The Creator
+- Kendrick Lamar
+- Denzel Curry
+
+Rap artists for typecast 'Carefree/bohemian':
+- Chance the Rapper
+- Kid Cudi
+- Tyler, The Creator
+- Isaiah Rashad
+- A$AP Rocky
+
+Rap artists for typecast 'Street-smart/tough':
+- Tupac Shakur
+- DMX
+- The Notorious B.I.G.
+- Eminem
+- Nas
+
+Rap artists for typecast 'Romantic/idealistic':
+- Common
+- J. Cole
+- Chance the Rapper
+- Bryson Tiller
+- Khalid
+
+Rap artists for typecast 'Nurturing/motherly':
+- Cardi B
+- Nicki Minaj
+- Missy Elliott
+- Queen Latifah
+- Lauryn Hill
+
+Rap artists for typecast 'Dark/tormented':
+- Tyler, The Creator
+- Earl Sweatshirt
+- MF DOOM
+- XXXTENTACION
+- Lil Peep
+
+Rap artists for typecast 'Remorseful/regretful':
+- Kendrick Lamar
+- Kid Cudi
+- Logic
+- Mac Miller
+- Jhené Aiko
+
+Rap artists for typecast 'Bold/brave':
+- Eminem
+- Kendrick Lamar
+- J. Cole
+- Kanye West
+- Jay-Z
+
+Rap artists for typecast 'Outcast/rebel':
+- Tyler, The Creator
+- MF DOOM
+- Kid Cudi
+- YG
+- XXXTENTACION
+
+Rap artists for typecast 'Lost/disconnected':
+- Kanye West
+- Kid Cudi
+- Earl Sweatshirt
+- Mac Miller
+- Travis Scott
+
+Rap artists for typecast 'Tough/badass':
+- Cardi B
+- Megan Thee Stallion
+- DaBaby
+- 50 Cent
+- DMX
+
+Rap artists for typecast 'Sincere/genuine':
+- J. Cole
+- Logic
+- Kendrick Lamar
+- Chance the Rapper
+- Mac Miller
+
+Rap artists for typecast 'Honest/vulnerable':
+- Eminem
+- Kanye West
+- J. Cole
+- Kid Cudi
+- Anderson .Paak
+
+Rap artists for typecast 'Innocent/naive':
+- Chance the Rapper
+- Lil Yachty
+- Ski Mask the Slump God
+- Lil Baby
+- Sheck Wes
+
+Rap artists for typecast 'Bold/risk-taking':
+- Kanye West
+- Kid Cudi
+- The Notorious B.I.G.
+- Eminem
+- Travis Scott
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting female rap artists for typecast 'Heartbroken/lovesick':
+- Missy Elliott
+- Lauryn Hill
+- Queen Latifah
+- Aaliyah
+- Lil Kim
+- Eve
+
+Best fitting female rap artists for typecast 'Rebel/anti-establishment':
+- Cardi B
+- Nicki Minaj
+- Lauryn Hill
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Political activist':
+- Lauryn Hill
+- Queen Latifah
+- Eve
+- Dead Prez
+- Angel Haze
+
+Best fitting female rap artists for typecast 'Social justice advocate':
+- Lauryn Hill
+- Queen Latifah
+- Angel Haze
+- Rapsody
+- Noname
+- Jean Grae
+
+Best fitting female rap artists for typecast 'Party/club':
+- Missy Elliott
+- Cardi B
+- Nicki Minaj
+- Lil Kim
+- Salt-N-Pepa
+- Eve
+- Megan Thee Stallion
+- Da Brat
+
+Best fitting female rap artists for typecast 'Hopeful/dreamer':
+- Lauryn Hill
+- Nicki Minaj
+- J. Cole
+- Rapsody
+- Lizzo
+
+Best fitting female rap artists for typecast 'Confident/empowered':
+- Missy Elliott
+- Cardi B
+- Nicki Minaj
+- Queen Latifah
+- Lizzo
+- Eve
+- City Girls
+
+Best fitting female rap artists for typecast 'Vulnerable/raw':
+- Lauryn Hill
+- Noname
+- Missy Elliott
+- Nicki Minaj
+- Angel Haze
+
+Best fitting female rap artists for typecast 'Romantic/love-driven':
+- Cardi B
+- Nicki Minaj
+- Lauryn Hill
+- Lil Kim
+- Queen Latifah
+- Aaliyah
+
+Best fitting female rap artists for typecast 'Failure/loser':
+- Missy Elliott
+- Cardi B
+- Nicki Minaj
+- Lauryn Hill
+- Lil Kim
+
+Best fitting female rap artists for typecast 'Spiritual/faithful':
+- Lauryn Hill
+- Queen Latifah
+- Rapsody
+- Noname
+- Aaliyah
+- Lizzo
+
+Best fitting female rap artists for typecast 'Passionate/determined':
+- Lauryn Hill
+- Noname
+- Angel Haze
+- Rapsody
+- Nicki Minaj
+
+Best fitting female rap artists for typecast 'Reflective/self-reflective':
+- Lauryn Hill
+- Noname
+- Nicki Minaj
+- Rapsody
+- Angel Haze
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Witty/sarcastic':
+- Missy Elliott
+- Cardi B
+- Nicki Minaj
+- Lil Kim
+- City Girls
+
+Best fitting female rap artists for typecast 'Melancholic/sad':
+- Lauryn Hill
+- Noname
+- Nicki Minaj
+- Aaliyah
+- Lizzo
+
+Best fitting female rap artists for typecast 'Humble/down-to-earth':
+- Lauryn Hill
+- Noname
+- Rapsody
+- Aaliyah
+- Megan Thee Stallion
+
+Best fitting female rap artists for typecast 'Charismatic/charming':
+- Missy Elliott
+- Cardi B
+- Nicki Minaj
+- Lil Kim
+- Lauryn Hill
+- Rapsody
+- Aaliyah
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Resilient/overcoming adversity':
+- Lauryn Hill
+- Rapsody
+- Megan Thee Stallion
+- Nicki Minaj
+- Lizzo
+
+Best fitting female rap artists for typecast 'Carefree/joyful':
+- Missy Elliott
+- Cardi B
+- Nicki Minaj
+- Eve
+- Megan Thee Stallion
+- Da Brat
+
+Best fitting female rap artists for typecast 'Dark/mysterious':
+- Nicki Minaj
+- Lil Kim
+- Rapsody
+- Angel Haze
+- Aaliyah
+
+Best fitting female rap artists for typecast 'Comical/humorous':
+- Missy Elliott
+- Eve
+- Da Brat
+- City Girls
+
+Best fitting female rap artists for typecast 'Controversial/provocative':
+- Cardi B
+- Nicki Minaj
+- Lil Kim
+- Da Brat
+- Megan Thee Stallion
+
+Best fitting female rap artists for typecast 'Nostalgic/sentimental':
+- Lauryn Hill
+- Queen Latifah
+- Noname
+- Aaliyah
+- Lil Kim
+
+Best fitting female rap artists for typecast 'Wise/philosophical':
+- Lauryn Hill
+- Noname
+- Queen Latifah
+- Rapsody
+- Angel Haze
+
+Best fitting female rap artists for typecast 'Angry/outspoken':
+- Cardi B
+- Missy Elliott
+- Da Brat
+- Megan Thee Stallion
+- Nicki Minaj
+
+Best fitting female rap artists for typecast 'Calm/peaceful':
+- Lauryn Hill
+- Noname
+- Angel Haze
+- Rapsody
+- Aaliyah
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Confident/self-assured':
+- Nicki Minaj
+- Missy Elliott
+- Busta Rhymes
+- Cardi B
+- Eve
+- Megan Thee Stallion
+- Lil Kim
+
+Best fitting female rap artists for typecast 'Self-destructive/self-sabotaging':
+- Lauryn Hill
+- Rapsody
+- Noname
+- Megan Thee Stallion
+- Lil Kim
+- Lizzo
+
+Best fitting female rap artists for typecast 'Hopeful/optimistic':
+- J. Cole
+- Rapsody
+- Lauryn Hill
+- Megan Thee Stallion
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Fearful/anxious':
+- Missy Elliott
+- Nicki Minaj
+- Lil Kim
+- Cardi B
+- Megan Thee Stallion
+
+Best fitting female rap artists for typecast 'Eccentric/quirky':
+- Missy Elliott
+- Lauryn Hill
+- Angel Haze
+- Busta Rhymes
+- Rapsody
+
+Best fitting female rap artists for typecast 'Sensitive/emotional':
+- Lauryn Hill
+- Noname
+- Nicki Minaj
+- Aaliyah
+- Megan Thee Stallion
+
+Best fitting female rap artists for typecast 'Bitter/resentful':
+- Noname
+- Missy Elliott
+- Cardi B
+- Lil Kim
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Unique/nonconformist':
+- Noname
+- Lauryn Hill
+- Angel Haze
+- Nicki Minaj
+- Lil Kim
+
+Best fitting female rap artists for typecast 'Free-spirited/nonconformist':
+- Lauryn Hill
+- Noname
+- Angel Haze
+- Missy Elliott
+- Nicki Minaj
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Sultry/seductive':
+- Lil Kim
+- Nicki Minaj
+- Cardi B
+- Eve
+- Aaliyah
+
+Best fitting female rap artists for typecast 'Inspirational/motivational':
+- Rapsody
+- Lauryn Hill
+- Nicki Minaj
+- Missy Elliott
+- Megan Thee Stallion
+
+Best fitting female rap artists for typecast 'Authentic/real':
+- Lauryn Hill
+- Rapsody
+- Angel Haze
+- Noname
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Mysterious/enigmatic':
+- Lauryn Hill
+- Noname
+- Angel Haze
+- Rapsody
+- Aaliyah
+
+Best fitting female rap artists for typecast 'Carefree/bohemian':
+- Lauryn Hill
+- Noname
+- Angel Haze
+- Queen Latifah
+- Janelle Monáe
+
+Best fitting female rap artists for typecast 'Street-smart/tough':
+- Missy Elliott
+- Nicki Minaj
+- Lil Kim
+- Eve
+- Rapsody
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Romantic/idealistic':
+- Lauryn Hill
+- Aaliyah
+- Meg Thee Stallion
+- Nicki Minaj
+- Lil Kim
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Nurturing/motherly':
+- Missy Elliott
+- Erykah Badu
+- Queen Latifah
+- Lauryn Hill
+- Rapsody
+- MC Lyte
+
+Best fitting female rap artists for typecast 'Dark/tormented':
+- Nicki Minaj
+- Lauryn Hill
+- Noname
+- Megan Thee Stallion
+- Angel Haze
+
+Best fitting female rap artists for typecast 'Remorseful/regretful':
+- Lauryn Hill
+- Aaliyah
+- Noname
+- Nicki Minaj
+- Megan Thee Stallion
+
+Best fitting female rap artists for typecast 'Bold/brave':
+- Missy Elliott
+- Cardi B
+- Nicki Minaj
+- Lil Kim
+- Queen Latifah
+- Angel Haze
+- Azealia Banks
+
+Best fitting female rap artists for typecast 'Outcast/rebel':
+- Missy Elliott
+- Nicki Minaj
+- Lil Kim
+- Queen Latifah
+- Angel Haze
+- Azealia Banks
+
+Best fitting female rap artists for typecast 'Lost/disconnected':
+- Lauryn Hill
+- Noname
+- Megan Thee Stallion
+- Erykah Badu
+- Aaliyah
+
+Best fitting female rap artists for typecast 'Tough/badass':
+- Cardi B
+- Missy Elliott
+- Nicki Minaj
+- Lil Kim
+- Megan Thee Stallion
+- Rapsody
+- Da Brat
+
+Best fitting female rap artists for typecast 'Sincere/genuine':
+- Lauryn Hill
+- Rapsody
+- Noname
+- Angel Haze
+- Queen Latifah
+
+Best fitting female rap artists for typecast 'Honest/vulnerable':
+- Noname
+- Lauryn Hill
+- Rapsody
+- Aaliyah
+- Megan Thee Stallion
+
+Best fitting female rap artists for typecast 'Innocent/naive':
+- Missy Elliott
+- Aaliyah
+- Janelle Monáe
+- Noname
+
+Best fitting female rap artists for typecast 'Bold/risk-taking':
+- Missy Elliott
+- Cardi B
+- Nicki Minaj
+- Busta Rhymes
+- Angel Haze
+- Rapsody
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting male rap artists for typecast 'Heartbroken/lovesick':
+- Eminem
+- Tupac Shakur
+- Drake
+- Kanye West
+- Jay-Z
+
+
+Best fitting male rap artists for typecast 'Rebel/anti-establishment':
+- Kendrick Lamar
+- N.W.A
+- Public Enemy
+- Aesop Rock
+- Ice-T
+
+
+Best fitting male rap artists for typecast 'Political activist':
+- Kendrick Lamar
+- Killer Mike
+- Tupac Shakur
+- Run-DMC
+- Dead Prez
+
+
+Best fitting male rap artists for typecast 'Social justice advocate':
+- Common
+- Talib Kweli
+- J. Cole
+- Nas
+- Lauryn Hill
+
+
+Best fitting male rap artists for typecast 'Party/club':
+- Lil Uzi Vert
+- Lil Wayne
+- 50 Cent
+- Kanye West
+- Drake
+
+
+Best fitting male rap artists for typecast 'Hopeful/dreamer':
+- Chance the Rapper
+- J. Cole
+- Logic
+- Tupac Shakur
+- Kendrick Lamar
+
+
+Best fitting male rap artists for typecast 'Confident/empowered':
+- Jay-Z
+- LL Cool J
+- Kanye West
+- Notorious B.I.G.
+- Drake
+
+
+Best fitting male rap artists for typecast 'Vulnerable/raw':
+- Eminem
+- Tupac Shakur
+- Nas
+- DMX
+- Ice Cube
+
+
+Best fitting male rap artists for typecast 'Romantic/love-driven':
+- Drake
+- Chance the Rapper
+- Lil Wayne
+- Khalid
+- Post Malone
+
+
+Best fitting male rap artists for typecast 'Failure/loser':
+- Eminem
+- Tupac Shakur
+- DMX
+- Ice Cube
+- J. Cole
+
+
+Best fitting male rap artists for typecast 'Spiritual/faithful':
+- Chance the Rapper
+- Kendrick Lamar
+- J. Cole
+- Blackalicious
+- Lauryn Hill
+
+
+Best fitting male rap artists for typecast 'Passionate/determined':
+- Eminem
+- Tupac Shakur
+- Notorious B.I.G
+- Jay-Z
+- Ice Cube
+
+
+Best fitting male rap artists for typecast 'Reflective/self-reflective':
+- J. Cole
+- Kanye West
+- Drake
+- Chance the Rapper
+- Talib Kweli
+
+
+Best fitting male rap artists for typecast 'Witty/sarcastic':
+- MF DOOM
+- Aesop Rock
+- Eminem
+- Busta Rhymes
+- Kool G Rap
+
+
+Best fitting male rap artists for typecast 'Melancholic/sad':
+- XXXTentacion
+- Mac Miller
+- Lil Peep
+- Post Malone
+- J. Cole
+
+
+Best fitting male rap artists for typecast 'Humble/down-to-earth':
+- KRS-One
+- Aesop Rock
+- J. Cole
+- Talib Kweli
+- Kendrick Lamar
+
+
+Best fitting male rap artists for typecast 'Charismatic/charming':
+- Jay-Z
+- Snoop Dogg
+- Notorious B.I.G.
+- Andre 3000
+- Busta Rhymes
+
+
+Best fitting male rap artists for typecast 'Resilient/overcoming adversity':
+- DMX
+- 2Pac
+- J. Cole
+- Eminem
+- Kendrick Lamar
+
+
+Best fitting male rap artists for typecast 'Carefree/joyful':
+- Chance the Rapper
+- Lil Uzi Vert
+- Post Malone
+- Young Thug
+- Lil Yachty
+
+
+Best fitting male rap artists for typecast 'Dark/mysterious':
+- MF DOOM
+- Aesop Rock
+- Earl Sweatshirt
+- Danny Brown
+- GZA/Genius
+
+
+Best fitting male rap artists for typecast 'Comical/humorous':
+- Busta Rhymes
+- Snoop Dogg
+- Missy Elliott
+- Ludacris
+- Dr. Dre
+
+
+Best fitting male rap artists for typecast 'Controversial/provocative':
+- Eminem
+- Tyler, the Creator
+- Kanye West
+- Tupac Shakur
+- Notorious B.I.G.
+
+
+Best fitting male rap artists for typecast 'Nostalgic/sentimental':
+- Nas
+- J. Cole
+- Kanye West
+- Common
+- A Tribe Called Quest
+
+
+Best fitting male rap artists for typecast 'Wise/philosophical':
+- Kanye West
+- Mos Def
+- Talib Kweli
+- Common
+- Kendrick Lamar
+
+
+Best fitting male rap artists for typecast 'Angry/outspoken':
+- Eminem
+- DMX
+- Ice Cube
+- Tupac Shakur
+- Public Enemy
+
+
+Best fitting male rap artists for typecast 'Calm/peaceful':
+- J. Cole
+- Chance the Rapper
+- Childish Gambino
+- Drake
+- Lil Wayne
+
+
+Best fitting male rap artists for typecast 'Confident/self-assured':
+- Jay-Z
+- DMX
+- Nas
+- Notorious B.I.G.
+- Kendrick Lamar
+
+
+Best fitting male rap artists for typecast 'Self-destructive/self-sabotaging':
+- DMX
+- Eminem
+- Lil Peep
+- XXXTentacion
+- XXXTentacion
+
+
+Best fitting male rap artists for typecast 'Hopeful/optimistic':
+- J. Cole
+- Chance the Rapper
+- Logic
+- Common
+- Kendrick Lamar
+
+
+Best fitting male rap artists for typecast 'Fearful/anxious':
+- XXXTentacion
+- Eminem
+- Mac Miller
+- J. Cole
+- Earl Sweatshirt
+
+
+Best fitting male rap artists for typecast 'Eccentric/quirky':
+- Tyler, the Creator
+- Aesop Rock
+- MF DOOM
+- Danny Brown
+- Chance the Rapper
+
+
+Best fitting male rap artists for typecast 'Sensitive/emotional':
+- Drake
+- J. Cole
+- Kanye West
+- Kid Cudi
+- Eminem
+
+
+Best fitting male rap artists for typecast 'Bitter/resentful':
+- Kanye West
+- Nas
+- Drake
+- Eminem
+- Tupac Shakur
+
+
+Best fitting male rap artists for typecast 'Unique/nonconformist':
+- Tyler, the Creator
+- Jay-Z
+- Chance the Rapper
+- Kendrick Lamar
+- Aesop Rock
+
+
+Best fitting male rap artists for typecast 'Free-spirited/nonconformist':
+- Kanye West
+- Outkast
+- Kid Cudi
+- Common
+- J. Cole
+
+
+Best fitting male rap artists for typecast 'Sultry/seductive':
+- Drake
+- Kanye West
+- Lil Wayne
+- Nas
+- Chance the Rapper
+
+
+Best fitting male rap artists for typecast 'Inspirational/motivational':
+- J. Cole
+- Kanye West
+- Kendrick Lamar
+- Common
+- Nas
+
+
+Best fitting male rap artists for typecast 'Authentic/real':
+- Tupac Shakur
+- Kendrick Lamar
+- Nas
+- J. Cole
+- Kanye West
+
+
+Best fitting male rap artists for typecast 'Mysterious/enigmatic':
+- MF DOOM
+- Earl Sweatshirt
+- Aesop Rock
+- GZA/Genius
+- Danny Brown
+
+
+Best fitting male rap artists for typecast 'Carefree/bohemian':
+- Chance the Rapper
+- Kanye West
+- Kid Cudi
+- Kid Cudi
+- A Tribe Called Quest
+
+
+Best fitting male rap artists for typecast 'Street-smart/tough':
+- Notorious B.I.G.
+- Jay-Z
+- Nas
+- DMX
+- 50 Cent
+
+
+Best fitting male rap artists for typecast 'Romantic/idealistic':
+- J. Cole
+- Chance the Rapper
+- Kendrick Lamar
+- Logic
+- Drake
+
+
+Best fitting male rap artists for typecast 'Nurturing/motherly':
+- Common
+- J. Cole
+- Kanye West
+- Logic
+- Childish Gambino
+
+
+Best fitting male rap artists for typecast 'Dark/tormented':
+- DMX
+- 2Pac
+- Earl Sweatshirt
+- Nas
+- XXXTentacion
+
+
+Best fitting male rap artists for typecast 'Remorseful/regretful':
+- Jay-Z
+- Nas
+- J. Cole
+- Eminem
+- Kanye West
+
+
+Best fitting male rap artists for typecast 'Bold/brave':
+- Ice-T
+- Jay-Z
+- DMX
+- Kanye West
+- Notorious B.I.G.
+
+
+Best fitting male rap artists for typecast 'Outcast/rebel':
+- Tyler, the Creator
+- Aesop Rock
+- MF DOOM
+- Kendrick Lamar
+- Outkast
+
+
+Best fitting male rap artists for typecast 'Lost/disconnected':
+- Kanye West
+- Kid Cudi
+- Eminem
+- J. Cole
+- Logic
+
+
+Best fitting male rap artists for typecast 'Tough/badass':
+- DMX
+- Notorious B.I.G
+- 50 Cent
+- Ice-T
+- Jay-Z.
+
+
+Best fitting male rap artists for typecast 'Sincere/genuine':
+- J. Cole
+- Kendrick Lamar
+- Logic
+- Chance the Rapper
+- Tupac Shakur
+
+
+Best fitting male rap artists for typecast 'Honest/vulnerable':
+- Kanye West
+- DMX
+- Nas
+- Jay-Z
+- J. Cole
+
+
+Best fitting male rap artists for typecast 'Innocent/naive':
+- Kid Cudi
+- Chance the Rapper
+- Logic
+- J. Cole
+- Kanye West
+
+
+Best fitting male rap artists for typecast 'Bold/risk-taking':
+- Kendrick Lamar
+- Kanye West
+- 50 Cent
+- Notorious B.I.G.
+- Snoop Dogg.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting female singing artists for typecast 'Heartbroken/lovesick':
+- Adele
+- Sam Smith
+- Beyoncé
+- Selena Gomez
+- Halsey
+
+Best fitting female singing artists for typecast 'Rebel/anti-establishment':
+- Billie Eilish
+- Demi Lovato
+- Miley Cyrus
+- Alanis Morissette
+- Gwen Stefani
+
+Best fitting female singing artists for typecast 'Political activist':
+- Joan Baez
+- Nina Simone
+- Ani DiFranco
+- Melissa Etheridge
+- Patti Smith
+
+Best fitting female singing artists for typecast 'Social justice advocate':
+- Alicia Keys
+- Janelle Monáe
+- Lauryn Hill
+- India.Arie
+- Tracy Chapman
+
+Best fitting female singing artists for typecast 'Party/club':
+- Rihanna
+- Cardi B
+- Jennifer Lopez
+- Shakira
+- Nicki Minaj
+
+Best fitting female singing artists for typecast 'Hopeful/dreamer':
+- Taylor Swift
+- Demi Lovato
+- Katy Perry
+- Selena Gomez
+- Alessia Cara
+
+Best fitting female singing artists for typecast 'Confident/empowered':
+- Beyoncé
+- Ariana Grande
+- Christina Aguilera
+- Lizzo
+- Meghan Trainor
+
+Best fitting female singing artists for typecast 'Vulnerable/raw':
+- Adele
+- Lana Del Rey
+- Birdy
+- Lorde
+- Florence + The Machine
+
+Best fitting female singing artists for typecast 'Romantic/love-driven':
+- Taylor Swift
+- Selena Gomez
+- Ariana Grande
+- Halsey
+- Camila Cabello
+
+Best fitting female singing artists for typecast 'Failure/loser':
+- Lorde
+- Demi Lovato
+- Selena Gomez
+- Sia
+- Amy Winehouse
+
+Best fitting female singing artists for typecast 'Spiritual/faithful':
+- Stevie Nicks
+- Florence Welch
+- Norah Jones
+- Tori Amos
+- Sarah McLachlan
+
+Best fitting female singing artists for typecast 'Passionate/determined':
+- P!nk
+- Kelly Clarkson
+- Beyoncé
+- Alicia Keys
+- Lady Gaga
+
+Best fitting female singing artists for typecast 'Reflective/self-reflective':
+- Lana Del Rey
+- Adele
+- Halsey
+- Billie Eilish
+- Sara Bareilles
+
+Best fitting female singing artists for typecast 'Witty/sarcastic':
+- Alanis Morissette
+- Lily Allen
+- Pink
+- Avril Lavigne
+- Fergie
+
+Best fitting female singing artists for typecast 'Melancholic/sad':
+- Lana Del Rey
+- Adele
+- Billie Eilish
+- Halsey
+- Lorde
+
+Best fitting female singing artists for typecast 'Humble/down-to-earth':
+- Norah Jones
+- Colbie Caillat
+- Ingrid Michaelson
+- Sara Bareilles
+- religion of bankersel
+
+Best fitting female singing artists for typecast 'Charismatic/charming':
+- Selena Gomez
+- Ariana Grande
+- Jennifer Lopez
+- Shakira
+- Beyoncé
+
+Best fitting female singing artists for typecast 'Resilient/overcoming adversity':
+- Demi Lovato
+- Katy Perry
+- Alicia Keys
+- Beyoncé
+- Christina Aguilera
+
+Best fitting female singing artists for typecast 'Carefree/joyful':
+- Beyoncé
+- Taylor Swift
+- Selena Gomez
+- Alicia Keys
+- Sia
+
+Best fitting female singing artists for typecast 'Dark/mysterious':
+- Lana Del Rey
+- Billie Eilish
+- Florence Welch
+- Lorde
+- Halsey
+
+Best fitting female singing artists for typecast 'Comical/humorous':
+- Amy Schumer
+- Taylor Swift
+- Nicki Minaj
+- Katy Perry
+- Dua Lipa
+
+Best fitting female singing artists for typecast 'Controversial/provocative':
+- Madonna
+- Lady Gaga
+- Miley Cyrus
+- Nicki Minaj
+- Rihanna
+
+Best fitting female singing artists for typecast 'Nostalgic/sentimental':
+- Lana Del Rey
+- Sara Bareilles
+- Adele
+- Norah Jones
+- Norah jones
+
+Best fitting female singing artists for typecast 'Wise/philosophical':
+- Joni Mitchell
+- Stevie Nicks
+- Alanis Morissette
+- religion of bankersel
+- Patti Smith
+
+Best fitting female singing artists for typecast 'Angry/outspoken':
+- P!nk
+- Lorde
+- Beyoncé
+- Ariana Grande
+- Avril Lavigne
+
+Best fitting female singing artists for typecast 'Calm/peaceful':
+- Norah Jones
+- Sara Bareilles
+- Colbie Caillat
+- Alicia Keys
+- Birdy
+
+Best fitting female singing artists for typecast 'Self-destructive/self-sabotaging':
+- Amy Winehouse
+- Lana Del Rey
+- Sia
+- Demi Lovato
+- Halsey
+
+Best fitting female singing artists for typecast 'Hopeful/optimistic':
+- Taylor Swift
+- Ariana Grande
+- Selena Gomez
+- Kelly Clarkson
+- Mariah Carey
+
+Best fitting female singing artists for typecast 'Fearful/anxious':
+- Halsey
+- Lana Del Rey
+- Alessia Cara
+- Sia
+- Adele
+
+Best fitting female singing artists for typecast 'Eccentric/quirky':
+- Björk
+- Lady Gaga
+- Florence Welch
+- Sia
+- Grimes
+
+Best fitting female singing artists for typecast 'Sensitive/emotional':
+- Adele
+- Beyoncé
+- Selena Gomez
+- Halsey
+- Norah Jones
+
+Best fitting female singing artists for typecast 'Bitter/resentful':
+- Alanis Morissette
+- Lorde
+- Billie Eilish
+- Avril Lavigne
+- Lana Del Rey
+
+Best fitting female singing artists for typecast 'Unique/nonconformist':
+- Lady Gaga
+- Alanis Morissette
+- P!nk
+- Björk
+- Halsey
+
+Best fitting female singing artists for typecast 'Free-spirited/nonconformist':
+- Miley Cyrus
+- Jimi Hendrix
+- Janis Joplin
+- Pink Floyd
+- Led Zeppelin
+
+Best fitting female singing artists for typecast 'Sultry/seductive':
+- Lana Del Rey
+- Beyoncé
+- Rihanna
+- Madonna
+- Selena Gomez
+
+Best fitting female singing artists for typecast 'Inspirational/motivational':
+- Demi Lovato
+- Alicia Keys
+- Christina Aguilera
+- Beyoncé
+- Lady Gaga
+
+Best fitting female singing artists for typecast 'Authentic/real':
+- Adele
+- Pink
+- Beyoncé
+- Alanis Morissette
+- Ariana Grande
+
+Best fitting female singing artists for typecast 'Mysterious/enigmatic':
+- Lana Del Rey
+- Lorde
+- Billie Eilish
+- Sia
+- Florence Welch
+
+Best fitting female singing artists for typecast 'Carefree/bohemian':
+- Florence Welch
+- Lana Del Rey
+- Norah Jones
+- Sia
+- Stevie Nicks
+
+Best fitting female singing artists for typecast 'Street-smart/tough':
+- Cardi B
+- Beyoncé
+- Nicki Minaj
+- Rihanna
+- Missy Elliott
+
+Best fitting female singing artists for typecast 'Romantic/idealistic':
+- Taylor Swift
+- Ariana Grande
+- Beyoncé
+- Selena Gomez
+- Lana Del Rey
+
+Best fitting female singing artists for typecast 'Nurturing/motherly':
+- Dolly Parton
+- Shania Twain
+- Adele
+- Norah Jones
+- Christina Aguilera
+
+Best fitting female singing artists for typecast 'Dark/tormented':
+- Lana Del Rey
+- Billie Eilish
+- Lorde
+- Halsey
+- Adele
+
+Best fitting female singing artists for typecast 'Remorseful/regretful':
+- Adele
+- Beyoncé
+- Pink
+- Alanis Morissette
+- Lana Del Rey
+
+Best fitting female singing artists for typecast 'Bold/brave':
+- P!nk
+- Katy Perry
+- Beyoncé
+- Demi Lovato
+- Lady Gaga
+
+Best fitting female singing artists for typecast 'Outcast/rebel':
+- Billie Eilish
+- Demi Lovato
+- Miley Cyrus
+- Alanis Morissette
+- Beyoncé
+
+Best fitting female singing artists for typecast 'Lost/disconnected':
+- Lana Del Rey
+- Adele
+- Florence + The Machine
+- Halsey
+- Lorde
+
+Best fitting female singing artists for typecast 'Tough/badass':
+- Beyoncé
+- Rihanna
+- P!nk
+- Madonna
+- Cardi B
+
+Best fitting female singing artists for typecast 'Sincere/genuine':
+- Adele
+- Kelly Clarkson
+- Sara Bareilles
+- Norah Jones
+- Christina Aguilera
+
+Best fitting female singing artists for typecast 'Honest/vulnerable':
+- Adele
+- Halsey
+- Lana Del Rey
+- Lorde
+- Sia
+
+Best fitting female singing artists for typecast 'Innocent/naive':
+- Selena Gomez
+- Taylor Swift
+- Ariana Grande
+- Katy Perry
+- Demi Lovato
+
+Best fitting female singing artists for typecast 'Bold/risk-taking':
+- Lady Gaga
+- Pink
+- Madonna
+- Beyoncé
+- Miley Cyrus

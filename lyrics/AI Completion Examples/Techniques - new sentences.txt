@@ -26,13 +26,44 @@ New rhymes using List A Phrases in their exact form and 'Use of wordplay and wor
 - 'We just wanna be better versions of ourselves / Erased from his woman, we'll make it by ourselves' 
 
 Good combinations of List A Phrases:
-- 1. 4
-- 2. 5
-- 3. 6
-- 2. 4 
-- 1. 3
+- 1, 4
+- 2, 5
+- 3, 6
+- 2, 4 
+- 1, 3
 
 Use least amount of new words to combine phrases in their exact form to new sentences, using style of Eminem:
 - 1,4: 'where are my panties', 'murder all these monsters': "where are my panties, I'ma go and murder all these monsters"
 - 2,5: 'I already know', 'we just wanna be': "I already know, we just wanna be what we wanna see"
 - 3,6: 'we never asked', 'erased from his woman': "we never asked, now I'm erased from his woman" 
+
+
+
+
+
+
+
+
+
+
+
+Good combinations of List A Phrases, for artist like Eminem:
+- 1, 4
+- 3, 5
+- 2, 6
+- 5, 4
+- 1, 2
+- 3, 6
+
+ 2, 5
+- 3, 6
+- 2, 4 
+- 1, 3
+
+Use least amount of new words to combine phrases in their exact form to new sentences, using style of Eminem, and 'Use of wordplay and word manipulation' technique:
+- 1,4: 'where are my panties', 'murder all these monsters': "This girl got me feeling hella scarce, / That's why I gotta kill all these underwear monsters in her drawers."
+- 3,5: 'we never asked', 'we just wanna be': "We never asked to be living this way, / We just wanna be free, escape the fray."
+- 2,6: 'I already know', 'erased from his woman': "I already know, my sins can't be undone, / And now I'm just a name erased from his woman."
+- 5,4: 'we just wanna be', 'murder all these monsters': "We just wanna be happy and free, / But I'll still murder all these inner demons inside of me."
+- 1,2: 'where are my panties', 'I already know': "Where are my panties, you've got me exposed, / But I already know, I'll never let go."
+- 3,6: 'we never asked', 'erased from his woman': "We never asked for this pain and strife, / Now I'm just an afterthought, erased from his woman".
