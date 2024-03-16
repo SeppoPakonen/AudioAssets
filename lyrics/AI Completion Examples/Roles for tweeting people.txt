@@ -1,0 +1,136 @@
+List of typecasts for music artists:
+Heartbroken/lovesick
+Rebel/anti-establishment
+Political activist
+Social justice advocate
+Party/club
+Hopeful/dreamer
+Confident/empowered
+Vulnerable/raw
+Romantic/love-driven
+Failure/loser
+Spiritual/faithful
+Passionate/determined
+Reflective/self-reflective
+Witty/sarcastic
+Melancholic/sad
+Humble/down-to-earth
+Charismatic/charming
+Resilient/overcoming adversity
+Carefree/joyful
+Dark/mysterious
+Comical/humorous
+Controversial/provocative
+Nostalgic/sentimental
+Wise/philosophical
+Angry/outspoken
+Calm/peaceful.
+Confident/self-assured
+Self-destructive/self-sabotaging
+Hopeful/optimistic
+Fearful/anxious
+Eccentric/quirky
+Sensitive/emotional
+Bitter/resentful
+Unique/nonconformist
+Free-spirited/nonconformist
+Sultry/seductive
+Inspirational/motivational
+Authentic/real
+Mysterious/enigmatic
+Carefree/bohemian
+Street-smart/tough
+Romantic/idealistic
+Nurturing/motherly
+Dark/tormented
+Remorseful/regretful
+Bold/brave
+Outcast/rebel
+Lost/disconnected
+Tough/badass
+Sincere/genuine
+Honest/vulnerable
+Innocent/naive
+Bold/risk-taking
+
+
+
+Persons, who tweet, are not necessarily artists, nor they do have typecasts (for analysis purposes).
+They have a "role" which is their identity, as they make the message (tweet).
+The "role" is a bit like typecast, as it is the commonly understood identity or temporal social position of the talker.
+
+
+List of "roles" for persons who tweet:
+- Influencer
+- Activist
+- Expert
+- Comedian
+- Politician
+- Social media personality
+- Marketer
+- Journalist
+- Writer/author
+- Celebrity/entertainer
+- Blogger
+- Entrepreneur
+- Educator
+- Student
+- Parent
+- Athlete
+- Music fan
+- Foodie
+- Traveler
+- Developer/programmer
+- Artist/creative
+- Scientist/researcher
+- Environmentalist
+- Animal lover/activist
+- Fashionista
+- Homemaker
+- Philanthropist
+- Socialite
+- Food/drink critic
+- Gamer
+- Fitness enthusiast
+- Health/wellness guru
+- Spiritual leader
+- Parenting advice
+- Career coach/advisor
+- Travel blogger
+- Book lover/reader
+- DIY enthusiast
+- Pet lover/owner
+- Movie/TV critic
+- Beauty/fashion blogger
+- Tech geek
+- Nature lover
+- Political commentator
+- Relationship expert
+- Human rights activist
+- Social justice warrior
+- Music reviewer
+- Interior design enthusiast
+- Self-help guru
+- Life coach
+- Mental health advocate
+- Promoter/event organizer
+- Financial advisor
+- Food blogger
+- Sports enthusiast
+- Fashion designer
+- Makeup artist
+- Gardening enthusiast
+- Geek/nerd
+- History buff
+- Business owner
+- Legal expert
+- Parenting blogger
+- Senior citizen/retiree
+- Marriage counselor
+- Wine connoisseur
+- Youth advocate
+- Success coach
+- Career woman/man
+- Fitness coach
+- Political blogger
+- Blogger/influencer relations

@@ -46,61 +46,61 @@ so you really wanna know, don't you even try,
 
 
 
-Otsikko: Viimeinen mahdollisuus
+Viimeinen mahdollisuus
 
-Verse 1:
-mä en hidasta, en ehdi
-pusken sun luo, kuin sonni
-ei oo jumalaa, kun me  heilutaan
-näissä piireissä sanoista jo juovutaan
+<Säkeistö 1>
+Mä en hidasta, en ehdi
+Pusken sun luo, kuin sonni
+Ei oo jumalaa, kun me heilutaan
+Näissä piireissä sanoista jo juovutaan
 Muut yrittää matkia, vaikkei tarvi mukautua
-uusi luku avataan, rikotaan normeja.
+Uusi luku avataan, rikotaan normeja.
 Vaimo rakastaa mun tyyliä
-muut tuli kateellisiks, nyt ne piileskelevät
+Muut tuli kateellisiks, nyt ne piileskelevät
 
-Kertosäe 1:
+<Kertosäe 1>
 Ne sanoi sen jo viimeks
-kasiysistä kauan jo on
-mut täällä oon, viel uhoon
+Kasiysistä kauan jo on
+Mut täällä oon, viel uhoon
 ja perintö mun kuulukoon
 
-Verse 2:
-Vie mut toiseen, ulottuvuuteen
-ajattele puolestani, mennään nuoruuteen			<<<<<<<<<<<
-annoin rahan rakkaat erottaa
-nyt kuljen sun laulun tietä katkerampaa
+<Säkeistö 2>
+Vie mut toiseen ulottuvuuteen
+Ajattele puolestani, mennään nuoruuteen
+Annoin rahan rakkaat erottaa
+Nyt kuljen sun laulun tietä katkerampaa
 Liikuta kehoas, nautitaan elämästä,
-ku ei kiireet vie, oon maata kiertämässä
-päivät tulee vielä loppumaan
-oonko enää ajoissa?
+Ku ei kiireet vie, oon maata kiertämässä
+Päivät tulee vielä loppumaan
+Oonko enää ajoissa?
 
-Kertosäe 2:
+<Kertosäe 2>
 Maistellaan
 kasiysii, hyvää vuosikertaa
 mut tehdään uus
-hyvältä tuntuu
+Hyvältä tuntuu
 Maistellaan
 kasiysii, hyvää vuosikertaa
 mut tehdään uus
 
-Verse 3:
+<Säkeistö 3>
 Pois on tonnit menneet, meil ei oo rahaa,
-me ollaan vain kahden maailmaa vastaan
-tuntuu siltä että meitä ei ymmärretä
-mut meil toisemme on, eikä rakkaus häviä    <<<<<<<<<<<<<<<
+Me ollaan vain kahden maailmaa vastaan
+Tuntuu siltä että meitä ei ymmärretä
+mut meil toisemme on, eikä rakkaus häviä
 Sul on katse, joka mut hypnotisoi
-oonko vihainen, ku muutkin huomioit?
+Oonko vihainen, ku muutkin huomioit?
 Miks sä kysyt multa miks?
-sä haluut tietää mut en sanois
+Sä haluut tietää mut en sanois
 
-Kertosäe 1:
+<Kertosäe 1>
 Ne sanoi sen viimeks jo
 kasiysistä kauan on
 mut täällä oon, viel uhoon
 ja perintö mun kuulukoon
-
-Kertosäe 2:
 Tuntuu hyvältä
+
+<Kertosäe 2  x2>
 Maistellaan
 kasiysii, hyvää vuosikertaa
 mut tehdään uus
@@ -110,9 +110,9 @@ kasiysii, hyvää vuosikertaa
 mut tehdään uus
 hyvältä tuntuu
 
-Outro:
+<Outro>
 hyvältä tuntuu
 hyvältä tuntuu
 hyvältä tuntuu-uu
-hyvältä tuntuu-uu
+hyvältä tuntuu
 
