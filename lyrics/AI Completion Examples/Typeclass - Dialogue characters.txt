@@ -1,0 +1,705 @@
+For a song, there is parts like Chorus, Intro, Verse, Bridge. For dialogue, there is these parts in similar fashion:
+- Opening: This sets the scene and introduces the characters involved in the dialogue. It can also establish the tone or mood of the conversation.
+- Dialogue: The main part of the conversation between the characters, broken down into individual lines or exchanges.
+- Tags/Descriptions: These are used to identify who is speaking and how they are saying their lines (e.g. "he said angrily" or "she replied with a smirk"). They also help give context and add depth to the dialogue.
+- Action: This includes any physical or non-verbal actions taken by the characters in response to the dialogue. It helps to paint a complete picture of the scene and the characters' emotions.
+- Interruptions or Reactions: These can be used to show how the characters are responding to each other's words and further develop their relationship or dynamic.
+- Closure: The ending of the dialogue, which can tie up any loose ends or leave room for further discussions in the future.
+- Setting/Description: This can be used to describe the surroundings or provide additional context for the dialogue.
+- Tone/Mood: The overall mood or atmosphere of the dialogue, which can be conveyed through the characters' words, actions, and expressions.
+- Punctuation: The use of punctuation such as exclamation
+
+
+
+
+Personas for dialogue characters:
+The Influencer
+The Authority
+The Critic
+The Storyteller
+The Trendsetter
+The Jokester
+The Insider
+The Activist
+The Creative
+The Adventurer
+The Lifestyle Guru
+Non-Niche Niche
+The Activator
+The Connector
+The Opinionated
+The Educator
+The Lifestyle Enthusiast
+The Humanitarian
+The Newbie
+
+
+
+
+For dialogue persons, they don't have typecasts but they do have character and tropes, which are slightly different concepts. So here are some potential characters and tropes for dialogue persons.
+
+Tropes:
+The Hero
+The Villain
+The Love Interest
+The Mentor
+The Sidekick
+The Rebel
+The Anti-Hero
+The Damsel in Distress
+The Wise Old Man/Woman
+The Femme Fatale
+The Fearless Leader
+The Outcast
+The Jester
+The Loner
+The Innocent
+The Queen/King
+The Badass
+The Chosen One
+The Scapegoat
+The Fallen Hero
+The Misunderstood
+The Alpha/Beta/Omega
+The Shapeshifter
+The Trickster
+The Charming Rogue
+The Femme Fatale
+The Femme Fatale
+The Underdog
+The Joker
+The Survivor
+
+
+
+
+Dialogue person tropes with their 3 separate contrasting parts:
+- "The Hero": "Chosen One", "Reluctant Hero", "Fallen Hero"
+- "The Villain": "Pure Evil", "Tragic Villain", "Anti-Villain"
+- "The Love Interest": "Damsel in Distress", "Rebel Love Interest", "Soulmate"
+- "The Mentor": "Wise Old Mentor", "Reluctant Mentor", "Betrayed Mentor"
+- "The Sidekick": "Loyal Sidekick", "Rebellious Sidekick", "Incompetent Sidekick"
+- "The Rebel": "Outlaw", "Revolutionary", "Anarchist"
+- "The Anti-Hero": "Dark Anti-Hero", "Sarcastic Anti-Hero", "Redeemed Anti-Hero"
+- "The Damsel in Distress": "Helpless Damsel", "Fiery Damsel", "Rescuer Damsel"
+- "The Wise Old Man/Woman": "Sage", "Trickster", "Cynic"
+- "The Femme Fatale": "Manipulative Femme Fatale", "Redeemed Femme Fatale", "Empowered Femme Fatale"
+- "The Fearless Leader": "Charismatic Leader", "Ruthless Leader", "Nurturing Leader"
+- "The Outcast": "Loner", "Misunderstood", "Rebel"
+- "The Jester": "Funny Jester", "Dark Jester", "Heartfelt Jester"
+- "The Loner": "Sole Survivor", "Tragic Shut-In", "Recluse"
+- "The Innocent": "Naive Innocent", "Pure Innocent", "Sheltered Innocent"
+- "The Queen/King": "Power-Hungry Monarch", "Loyal Ruler", "Reluctant Ruler"
+- "The Badass": "Fighter", "Rebel", "Anti-Hero"
+- "The Chosen One": "Reluctant Chosen One", "Redeemed Chosen One", "Corrupted Chosen One"
+- "The Scapegoat": "Blamed Scapegoat", "Innocent Scapegoat", "Scapegoat-Turned-Villain"
+- "The Fallen Hero": "Betrayed Hero", "Redeemed Villain", "Anti-Villain"
+- "The Misunderstood": "Angsty Misunderstood", "Empathetic Misunderstood", "Rebellious Misunderstood"
+- "The Alpha/Beta/Omega": "Alpha Leader", "Beta Follower", "Omega Outcast"
+- "The Shapeshifter": "Uncontrollable Shapeshifter", "Controlled Shapeshifter", "Shapeshifter-Turned-Hero"
+- "The Trickster": "Clever Trickster", "Self-Serving Trickster", "Redeemed Trickster"
+- "The Charming Rogue": "Smooth-Talking Rogue", "Cocky Gambler", "Rogue with a Heart of Gold"
+- "The Underdog": "Underestimated Underdog", "Overachieving Underdog", "Underdog-Turned-Champion"
+- "The Joker": "Class Clown", "Dark Joker", "Rebel Joker"
+- "The Survivor": "Sole Survivor", "Traumatized Survivor", "Survivor Gives Up"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting safe male dialogue persons for persona 'The Influencer':
+- Gary Vaynerchuk (business/entrepreneurship)
+- Casey Neistat (vlogger/lifestyle)
+- Grant Cardone (sales/motivation)
+- Chiara Ferragni (fashion/beauty)
+- Peter McKinnon (photography/videography)
+
+Best fitting safe male dialogue persons for persona 'The Authority':
+- Tony Robbins (motivational speaker/life coach)
+- Tim Ferriss (entrepreneurship/productivity)
+- Donald Trump (politics/leadership)
+- Barack Obama (politics/leadership)
+- Malcolm Gladwell (author/behavioral psychology)
+- Simon Sinek (leadership/communication)
+
+Best fitting safe male dialogue persons for persona 'The Critic':
+- Gordon Ramsay (chef/TV personality)
+- Jordan Peterson (professor/author)
+- Seth Godin (marketing/entrepreneurship)
+- Niki Nakayama (chef/restaurateur)
+- Brian Koppelman (screenwriter/film producer)
+
+Best fitting safe male dialogue persons for persona 'The Storyteller':
+- Stephen King (author/screenwriter)
+- Tom Hanks (actor/producer)
+- Neil Gaiman (author/graphic novelist)
+- Lin-Manuel Miranda (writer/actor)
+- JJ Abrams (director/producer/writer)
+
+Best fitting safe male dialogue persons for persona 'The Trendsetter':
+- Rihanna (singer/fashion designer)
+- Kanye West (rapper/producer/fashion designer)
+- Virgil Abloh (fashion designer/creative director)
+- Jeffree Star (beauty influencer/entrepreneur)
+- Tyler, The Creator (rapper/producer/fashion designer
+
+Best fitting safe male dialogue persons for persona 'The Jokester':
+- Dave Chappelle (comedian/actor)
+- Stephen Colbert (comedian/TV host)
+- Ryan Reynolds (actor/comedian)
+- Aziz Ansari (comedian/actor)
+- Kevin Hart (comedian/actor)
+
+Best fitting safe male dialogue persons for persona 'The Insider':
+- Edward Snowden (former CIA employee/whistleblower)
+- Chelsea Manning (former US Army soldier/whistleblower)
+- Julian Assange (founder of Wikileaks/journalist)
+- Daniel Ellsberg (former US military analyst/whistleblower)
+- Eric Snowden (retired NSA employee/whistleblower)
+
+Best fitting safe male dialogue persons for persona 'The Activist':
+- Malala Yousafzai (education activist/Nobel Peace Prize winner)
+- Greta Thunberg (environmental activist)
+- Patrisse Cullors (co-founder of Black Lives Matter)
+- Martin Luther King Jr. (civil rights activist)
+- Mahatma Gandhi (leader of Indian independence movement)
+
+Best fitting safe male dialogue persons for persona 'The Creative':
+- Banksy (street artist/political activist)
+- Quentin Tarantino (film director/screenwriter)
+- Ai Weiwei (conceptual artist/activist)
+- David Bowie (singer/actor)
+- Salvador Dali (surrealist artist)
+
+Best fitting safe male dialogue persons for persona 'The Adventurer':
+- Bear Grylls (adventurer/TV host)
+- Lewis Pugh (ocean advocate/extreme swimmer)
+- Howard Schultz (businessman/CEO)
+- Alex Honnold (rock climber/adventurer)
+- Chris Hadfield (astronaut/author)
+
+Best fitting safe male dialogue persons for persona 'The Lifestyle Guru':
+- Marie Kondo (organizing consultant/TV personality)
+- Tony Robbins (motivational speaker/life coach)
+- Chrissy Teigen (TV host/model/cookbook author)
+- Martha Stewart (lifestyle expert/TV personality)
+- Tim Ferriss (entrepreneurship/productivity)
+
+Best fitting safe male dialogue persons for persona 'Non-Niche Niche':
+- David Beckham (former professional soccer player/model)
+- Oprah Winfrey (media mogul/TV host/philanthropist)
+- Elon Musk (entrepreneur/CEO of Tesla and SpaceX)
+- Ellen DeGeneres (comedian/TV host)
+- David Attenborough (naturalist/documentary host)
+
+Best fitting safe male dialogue persons for persona 'Non-Niche Niche':
+- David Beckham (former professional soccer player/model)
+- Oprah Winfrey (media mogul/TV host/philanthropist)
+- Elon Musk (entrepreneur/CEO of Tesla and SpaceX)
+- Ellen DeGeneres (comedian/TV host)
+- David Attenborough (naturalist/documentary host)
+
+Best fitting safe male dialogue persons for persona 'The Activator':
+- Tony Robbins (author/motivational speaker/life coach)
+- Malala Yousafzai (activist/Nobel Peace Prize winner)
+- Richard Branson (entrepreneur/CEO of Virgin Group)
+- Trevor Noah (comedian/TV host/activist)
+- Tim Ferriss (author/podcaster/lifestyle guru)
+
+Best fitting safe male dialogue persons for persona 'The Connector':
+- Barack Obama (former president/public speaker/author)
+- Simon Sinek (author/inspirational speaker/leadership expert)
+- Brené Brown (researcher/author/podcaster)
+- Bill Gates (entrepreneur/philanthropist)
+- Jay Shetty (former monk/podcaster/author)
+
+Best fitting safe male dialogue persons for persona 'The Educator':
+- Neil deGrasse Tyson (astrophysicist/science communicator)
+- Tom Hanks (actor/producer/performer)
+- Malcolm Gladwell (author/podcaster/thought leader)
+- Tony Hawk (professional skateboarder/entrepreneur)
+- Cory Booker (politician/author/activist)
+
+Best fitting safe male dialogue persons for persona 'The Humanitarian':
+- Mahatma Gandhi (activist/leader)
+- Leonardo DiCaprio (actor/environmental activist/philanthropist)
+- Paul Walker (actor/humanitarian)
+- Justin Trudeau (politician/activist)
+- Will Smith (actor/philanthropist/rapper)
+
+Best fitting safe male dialogue persons for persona 'The Newbie':
+- Justin Bieber (singer)
+- Shawn Mendes (singer/songwriter/activist)
+- Joe Jonas (singer/songwriter/actor)
+- John Boyega (actor/activist) 
+- Timothée Chalamet (actor/activist)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting safe female dialogue persons for persona 'The Influencer':
+- Kate Middleton (royalty/reformer)
+- Oprah Winfrey (media mogul/philanthropist)
+- Ariana Grande (singer/songwriter/actress)
+- Michelle Obama (former first lady/author/activist)
+- Ellen Degeneres (TV host/actress/philanthropist)
+
+Best fitting safe female dialogue persons for persona 'The Authority':
+- Angela Merkel (politician/Chancellor of Germany)
+- Sheryl Sandberg (business executive/author/activist)
+- Malala Yousafzai (activist/Nobel Prize laureate)
+- Ruth Bader Ginsburg (Supreme Court Justice/feminist icon)
+- Beyonce (singer/songwriter/actress/businesswoman)
+
+Best fitting safe female dialogue persons for persona 'The Critic':
+- Miranda Priestly (fictional editor-in-chief and fashion critic)
+- Ruth Reichl (food writer/critic)
+- Man Repeller (fashion blogger/critic)
+- Joanna Coles (magazine editor/journalist)
+- Annabel Jones (food critic/journalist)
+
+Best fitting safe female dialogue persons for persona 'The Storyteller':
+- J.K. Rowling (author/philanthropist)
+- Shonda Rhimes (TV writer/producer/director)
+- Coco Chanel (fashion designer/businesswoman)
+- Chimamanda Ngozi Adichie (author/feminist)
+- Ina Garten (cookbook author/TV host)
+
+Best fitting safe female dialogue persons for persona 'The Trendsetter':
+- Rihanna (singer/songwriter/fashion designer/entrepreneur)
+- Chiara Ferragni (fashion blogger/influencer/entrepreneur)
+- Gigi Hadid (model/entrepreneur)
+- Jenna Lyons (fashion executive/stylist/TV personality)
+- Tracee Ellis Ross (actress/fashion entrepreneur)
+
+Best fitting safe female dialogue persons for persona 'The Jokester':
+- Amy Poehler (actress/comedian/producer/writer)
+- Melissa McCarthy (actress/comedian/producer/writer)
+- Ali Wong (actress/comedian/writer)
+- Tiffany Haddish (actress/comedian/author)
+- Kate McKinnon (actress/comedian)
+
+Best fitting safe female dialogue persons for persona 'The Insider':
+- Anna Wintour (fashion editor/Conde Nast artistic director)
+- Sophia Amoruso (entrepreneur/author)
+- Aimee Song (fashion blogger/influencer/author/entrepreneur)
+- Jenna Bush Hager (journalist/author/TV personality)
+- Liza Koshy (actress/comedian/influencer)
+
+Best fitting safe female dialogue persons for persona 'The Activist':
+- Malala Yousafzai (activist/Nobel Prize laureate)
+- Ellen Page (actress/activist)
+- Gloria Steinem (activist/feminist)
+- Emma Watson (actress/activist)
+- Tarana Burke (activist/Me Too movement founder)
+
+
+Best fitting safe female dialogue persons for persona 'The Creative':
+- Beyoncé (singer/songwriter)
+- J.K. Rowling (author)
+- Rihanna (singer/songwriter)
+- Ava DuVernay (filmmaker)
+- Shonda Rhimes (TV producer/writer)
+
+Best fitting safe female dialogue persons for persona 'The Adventurer':
+- Amelia Earhart (pilot/adventurer)
+- Alex Honnold (rock climber/adventurer)
+- Kit DesLauriers (skier/mountaineer)
+- Jane Goodall (primatologist/adventurer)
+- Cheryl Strayed (author/adventurer)
+
+Best fitting safe female dialogue persons for persona 'The Lifestyle Guru':
+- Martha Stewart (lifestyle expert/entrepreneur/TV personality)
+- Gwyneth Paltrow (actress/lifestyle entrepreneur)
+- Marie Kondo (organizing consultant/author/TV personality)
+- Jenna Kutcher (entrepreneur/podcaster/photographer)
+- Rachel Hollis (author/podcaster/lifestyle expert)
+
+Best fitting safe female dialogue persons for non-niche niche:
+- Greta Thunberg (climate change activist)
+- Melinda Gates (philanthropist/businesswoman)
+- Ava DuVernay (filmmaker/activist)
+- Indra Nooyi (former CEO of PepsiCo/women's rights advocate)
+- Joanne Liu (medical doctor/philanthropist/U.N. official)
+
+Best fitting safe female dialogue persons for persona 'The Activator':
+- Malala Yousafzai (activist/Nobel Prize laureate)
+- Tarana Burke (activist/Me Too movement founder)
+- Gloria Steinem (activist/feminist)
+- Emma Gonzalez (activist/Gun control advocate)
+- Alexandria Ocasio-Cortez (politician/activist)
+
+Best fitting safe female dialogue persons for persona 'The Connector':
+- Maria Popova (writer/editor/philanthropist)
+- Melinda Gates (philanthropist/co-founder of Bill and Melinda Gates Foundation)
+- Sophia Amoruso (entrepreneur/author)
+- Viola Davis (actress/producer/activist)
+- Chimamanda Ngozi Adichie (author/feminist)
+
+Best fitting safe female dialogue persons for persona 'The Opinionated':
+- Beyoncé (singer/songwriter)
+- Ellen DeGeneres (TV host/actress/philanthropist)
+- Padma Lakshmi (TV host/model/author)
+- Amy Schumer (actress/comedian/writer)
+- Roxane Gay (writer/activist)
+
+Best fitting safe female dialogue persons for persona 'The Educator':
+- Malala Yousafzai (activist/Nobel Prize laureate)
+- Michelle Obama (former first lady/author/activist)
+- Chimamanda Ngozi Adichie (author/feminist)
+- Ruth Bader Ginsburg (Supreme Court Justice/feminist icon)
+- Jane Goodall (primatologist/activist)
+
+Best fitting safe female dialogue persons for persona 'The Lifestyle Enthusiast':
+- Blake Lively (actress/entrepreneur)
+- Maria Sharapova (tennis player/entrepreneur/philanthropist)
+- Chrissy Teigen (model/author/TV personality)
+- Lauren Conrad (TV personality/fashion designer/author)
+- Tia Mowry (actress/author/youtuber/TV personality)
+
+Best fitting safe female dialogue persons for persona 'The Humanitarian':
+- Malala Yousafzai (activist/Nobel Prize laureate)
+- Meghan Markle (former actress/philanthropist/royalty)
+- Michelle Obama (former first lady/author/activist)
+- Angelina Jolie (actress/filmmaker/humanitarian)
+- Melinda Gates (philanthropist/co-founder of Bill and Melinda Gates Foundation)
+
+Best fitting safe female dialogue persons for persona 'The Newbie':
+- Millie Bobby Brown (actress/activist)
+- Emma Chamberlain (YouTuber/entrepreneur)
+- Yara Shahidi (actress/activist)
+- Elle Fanning (actress/philanthropist)
+- Greta Thunberg (climate change activist)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting unsafe male dialogue persons for persona 'The Influencer':
+- Kanye West (rapper/producer/fashion designer)
+- Elon Musk (entrepreneur/inventor/CEO)
+- Conor McGregor (MMA fighter/entrepreneur)
+- Howard Stern (radio personality/author/actor)
+- Art Bell (radio host)
+
+Best fitting unsafe male dialogue persons for persona 'The Authority':
+- Alex Jones (radio host/conspiracy theorist)
+- Donald TV-Boss (former US President/lawyer/author)
+- Joe Rogan (comedian/podcast host/actor)
+- Russell Brand (comedian/actor/author)
+- Tucker Carlson (political commentator/TV host/editor)
+
+Best fitting unsafe male dialogue persons for persona 'The Critic':
+- Simon Cowell (TV producer/judge/entertainment mogul)
+- Gordon Ramsay (celebrity chef/restaurateur/TV personality)
+- Simon Cowell (TV producer/judge/entertainment mogul)
+- Howard Stern (radio personality/author/actor)
+- Piers Morgan (TV presenter/journalist/author)
+
+Best fitting unsafe male dialogue persons for persona 'The Storyteller':
+- Morgan Freeman (actor/narrator/producer)
+- Quentin Tarantino (filmmaker/actor/screenwriter)
+- Neil Gaiman (author/screenwriter/comic book writer)
+- David Sedaris (humorist/author/radio contributor)
+- Wes Anderson (filmmaker/screenwriter/producer)
+
+Best fitting unsafe male dialogue persons for persona 'The Trendsetter':
+- Kanye West (rapper/producer/fashion designer)
+- Jeffree Star (makeup artist/entrepreneur/YouTube personality)
+- David Beckham (former professional soccer player/entrepreneur/model)
+- Andrew Yang (entrepreneur/politician/author)
+- David Dobrik (YouTube personality/actor/documentary filmmaker)
+
+Best fitting unsafe male dialogue persons for persona 'The Jokester':
+- Kevin Hart (comedian/actor/producer)
+- Seth Rogen (actor/comedian/screenwriter)
+- Dave Chappelle (comedian/actor/screenwriter)
+- Ricky Gervais (comedian/actor/screenwriter)
+- Bill Burr (comedian/actor/producer)
+
+Best fitting unsafe male dialogue persons for persona 'The Insider':
+- Julian Assange (journalist/hacker/activist)
+- Edward Snowden (whistleblower/activist/former CIA employee)
+- Mark Felt (former FBI agent/Deep Throat informant)
+- Bob Woodward (journalist/author)
+- Julian Edelman (professional football player/author)
+
+Best fitting unsafe male dialogue persons for persona 'The Activist':
+- Colin Kaepernick (former professional football player/activist)
+- Martin Luther King Jr. (activist/minister/leader of the Civil Rights Movement)
+- Greta Thunberg (environmental activist)
+- Malcolm X (human rights activist/minister/leader of the Black Power movement)
+- Harvey Milk (gay rights activist/politician)
+
+Best fitting unsafe male dialogue persons for persona 'The Creative':
+- Wes Anderson (filmmaker/screenwriter/producer)
+- Salvador Dali (artist/surrealist)
+- Andy Warhol (artist/filmmaker)
+- Damien Hirst (artist)
+- Banksy (street artist/filmmaker/activist)
+
+Best fitting unsafe male dialogue persons for persona 'The Adventurer':
+- Sir Edmund Hillary (mountaineer/explorer/philanthropist)
+- Bear Grylls (adventurer/TV presenter/writer)
+- Steve Irwin (wildlife expert/TV personality/conservationist)
+- Philippe Petit (tightrope walker/high-wire artist)
+- Felix Baumgartner (austrian skydiver/base jumper)
+
+Best fitting unsafe male dialogue persons for persona 'The Lifestyle Guru':
+- Tony Robbins (motivational speaker/author/entrepreneur)
+- Tim Ferriss (entrepreneur/author/podcast host)
+- Deepak Chopra (spiritual teacher/author)
+- Dave Asprey (entrepreneur/author/health advocate)
+- Gary Vaynerchuk (entrepreneur/investor/author)
+
+Best fitting unsafe male dialogue persons for persona 'Non-Niche Niche':
+- Shia LaBeouf (actor/artist/filmmaker)
+- James Franco (actor/director/producer)
+- Jaden Smith (actor/musician/entrepreneur)
+- Jared Leto (actor/musician/director)
+- Kanye West (rapper/producer/fashion designer)
+
+Best fitting unsafe male dialogue persons for persona 'The Activator':
+- Steve Jobs (entrepreneur/CEO/founder of Apple Inc.)
+- Jeff Bezos (entrepreneur/CEO/founder of Amazon)
+- Richard Branson (entrepreneur/CEO/founder of Virgin Group)
+- Mark Zuckerberg (entrepreneur/CEO/co-founder of Facebook)
+- Elon Musk (entrepreneur/inventor/CEO)
+
+Best fitting unsafe male dialogue persons for persona 'The Connector':
+- Tim Ferriss (entrepreneur/author/podcast host)
+- Kevin Bacon (actor/musical artist)
+- Malcolm Gladwell (author/journalist/public speaker)
+- Gary Vaynerchuk (entrepreneur/investor/author)
+- Oprah Winfrey (media executive/actress/talk show host)
+
+Best fitting unsafe male dialogue persons for persona 'The Opinionated':
+- Bill O'Reilly (political commentator/TV host/author)
+- Tucker Carlson (political commentator/TV host/editor)
+- Milo Yiannopoulos (journalist/author/political commentator)
+- Ben Shapiro (conservative political commentator/columnist/author)
+- Rush Limbaugh (conservative radio host/author)
+
+Best fitting unsafe male dialogue persons for persona 'The Educator':
+- Neil deGrasse Tyson (astrophysicist/science communicator/author)
+- Bill Nye (mechanical engineer/science educator/TV host)
+- Noam Chomsky (linguist/philosopher/political activist)
+- Carl Sagan (astronomer/astrophysicist/author)
+- Jordan Peterson (psychologist/author) 
+
+Best fitting unsafe male dialogue persons for persona 'The Lifestyle Enthusiast':
+- Jeffree Star (makeup artist/entrepreneur/YouTube personality)
+- David Beckham (former professional soccer player/entrepreneur/model)
+- Scott Disick (TV personality/entrepreneur/model)
+- Jason Momoa (actor/producer/director)
+- Dwayne Johnson (actor/producer/wrestler) 
+
+Best fitting unsafe male dialogue persons for persona 'The Humanitarian':
+- Malala Yousafzai (noble peace prize laureate/activist/author)
+- Mahatma Gandhi (political leader/activist)
+- Martin Luther King Jr. (activist/minister/leader of the Civil Rights Movement)
+- Mother Teresa (Catholic nun/missionary/humanitarian)
+- Elie Wiesel (Nobel Peace Prize laureate/activist/author) 
+
+Best fitting unsafe male dialogue persons for persona 'The Newbie':
+- Timothee Chalamet (actor)
+- Tom Holland (actor)
+- Noah Centineo (actor)
+- Ansel Elgort (actor)
+- Jacob Elordi (actor)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting unsafe female dialogue persons for persona 'The Influencer':
+- Cardi B (rapper/actress/entrepreneur)
+- Kim Kardashian (reality TV star/businesswoman)
+- Huda Kattan (beauty blogger/entrepreneur)
+- Brené Brown (researcher/author/podcaster)
+- Naomi Klein (activist/journalist/author)
+
+Best fitting unsafe female dialogue persons for persona 'The Authority':
+- Oprah Winfrey (media mogul/philanthropist/actress)
+- Sheryl Sandberg (business executive/author)
+- Malala Yousafzai (human rights activist/Nobel Prize laureate)
+- Jacinda Ardern (prime minister of New Zealand)
+- Angela Merkel (Chancellor of Germany) 
+
+Best fitting unsafe female dialogue persons for persona 'The Critic':
+- AOC (political activist/congresswoman)
+- Greta Thunberg (environmental activist)
+- Roxane Gay (author/activist)
+- Chrissy Teigen (model/author/TV personality/social media critic)
+- Amanda Seales (actress/comedian/activist)
+
+Best fitting unsafe female dialogue persons for persona 'The Storyteller':
+- Chimamanda Ngozi Adichie (author/feminist)
+- J.K. Rowling (author/screenwriter/philanthropist)
+- Mindy Kaling (actress/producer/writer)
+- Lizzo (singer/rapper)
+- Ava DuVernay (filmmaker/activist)
+
+Best fitting unsafe female dialogue persons for persona 'The Trendsetter':
+- Rihanna (singer/entrepreneur/fashion designer)
+- Kylie Jenner (businesswoman/entrepreneur/influencer)
+- Alexa Chung (model/TV presenter/fashion designer)
+- Halsey (singer/songwriter)
+- Anna Wintour (editor-in-chief of Vogue)
+
+Best fitting unsafe female dialogue persons for persona 'The Jokester':
+- Tiffany Haddish (actress/comedian)
+- Ali Wong (comedian/actress/writer)
+- Phoebe Robinson (comedian/actress)
+- Amy Schumer (comedian/actress/writer)
+- Aidy Bryant (comedian/actress)
+
+Best fitting unsafe female dialogue persons for persona 'The Insider':
+- Beyoncé (singer/songwriter/actress/entrepreneur)
+- Serena Williams (professional tennis player/entrepreneur)
+- Jennifer Lawrence (actress/philanthropist)
+- Meghan Markle (actress/royal family member)
+- Reese Witherspoon (actress/producer/entrepreneur)
+
+Best fitting unsafe female dialogue persons for persona 'The Activist':
+- Amandla Stenberg (actress/activist)
+- Jane Fonda (actress/activist)
+- Tarana Burke (activist/founder of the Me Too movement)
+- Diane Guerrero (actress/immigrant rights activist)
+- Gloria Steinem (feminist/social and political activist)
+
+Best fitting unsafe female dialogue persons for persona 'The Creative':
+- Solange Knowles (singer/songwriter/actress)
+- Ava DuVernay (filmmaker/activist)
+- Shonda Rhimes (TV producer/screenwriter)
+- Roxane Gay (author/activist)
+- Carrie Brownstein (musician/actress/writer/director)
+
+Best fitting unsafe female dialogue persons for persona 'The Adventurer':
+- Bear Grylls (adventurer/TV presenter)
+- Amelia Earhart (aviator/author)
+- Alex Honnold (free solo rock climber)
+- Cheryl Strayed (author/adventurer)
+- Samantha Brown (TV host/travel expert)
+
+Best fitting unsafe female dialogue persons for persona 'The Lifestyle Guru':
+- Marie Kondo (organizing consultant/author)
+- Gwyneth Paltrow (actress/entrepreneur/wellness guru)
+- Joanna Gaines (designer/TV personality/author)
+- Jessica Alba (actress/entrepreneur/CEO of The Honest Company)
+- Kris Carr (author/wellness coach/filmmaker)
+
+Best fitting unsafe female dialogue persons for persona 'Non-Niche Niche':
+- Tiffany Haddish (actress/comedian)
+- Chrissy Teigen (model/author/TV personality/social media influencer)
+- Mindy Kaling (actress/producer/writer)
+- Ali Wong (comedian/actress/writer)
+- Aidy Bryant (comedian/actress)
+
+Best fitting unsafe female dialogue persons for persona 'The Activator':
+- Alexandria Ocasio-Cortez (political activist/congresswoman)
+- Greta Thunberg (environmental activist)
+- Tarana Burke (activist/founder of the Me Too movement)
+- Jane Fonda (actress/activist)
+- Malala Yousafzai (human rights activist/Nobel Prize laureate)
+
+Best fitting unsafe female dialogue persons for persona 'The Connector':
+- Oprah Winfrey (media mogul/philanthropist/actress)
+- Sheryl Sandberg (business executive/author)
+- Arianna Huffington (media mogul/author/businesswoman)
+- Melinda Gates (philanthropist/businesswoman)
+- Sophia Amoruso (entrepreneur/author)
+
+Best fitting unsafe female dialogue persons for persona 'The Opinionated':
+- Roxane Gay (author/activist)
+- Naomi Klein (activist/journalist/author)
+- Jacinda Ardern (prime minister of New Zealand)
+- AOC (political activist/congresswoman)
+- Amanda Seales (actress/comedian/activist)
+
+Best fitting unsafe female dialogue persons for persona 'The Educator':
+- Brené Brown (researcher/author/podcaster)
+- Chimamanda Ngozi Adichie (author/feminist)
+- Malala Yousafzai (human rights activist/Nobel Prize laureate)
+- Michelle Obama (former First Lady/author/educator)
+- Jane Goodall (primatologist/anthropologist/conservationist)
+
+Best fitting unsafe female dialogue persons for persona 'The Lifestyle Enthusiast':
+- Jamie Oliver (celebrity chef/activist)
+- Goop (wellness and lifestyle brand founded by Gwyneth Paltrow)
+- Ina Garten (author/TV host/entrepreneur)
+- Kourtney Kardashian (reality TV star/entrepreneur/wellness advocate)
+- Marie Forleo (author/life coach/entrepreneur)
+
+Best fitting unsafe female dialogue persons for persona 'The Humanitarian':
+- Angelina Jolie (actress/humanitarian)
+- Princess Diana (humanitarian/royal family member)
+- Melinda Gates (philanthropist/businesswoman)
+- Malala Yousafzai (human rights activist/Nobel Prize laureate)
+- Ellen Degeneres (comedian/TV host/philanthropist)
+
+Best fitting unsafe female dialogue persons for persona 'The Newbie':
+- Zendaya (actress/singer)
+- Yara Shahidi (actress/activist)
+- Maisie Williams (actress/activist)
+- Lili Reinhart (actress/activist)
+- Millie Bobby Brown (actress/activist)

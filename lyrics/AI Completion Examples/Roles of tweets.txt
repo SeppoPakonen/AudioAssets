@@ -1,0 +1,2364 @@
+List of roles for persons who tweets:
+Influencer
+Activist
+Expert
+Comedian
+Politician
+Social media personality
+Marketer
+Journalist
+Writer/author
+Celebrity/entertainer
+Blogger
+Entrepreneur
+Educator
+Student
+Parent
+Athlete
+Music fan
+Foodie
+Traveler
+Developer/programmer
+Entity/creative
+Scientist/researcher
+Environmentalist
+Animal lover/activist
+Fashionista
+Homemaker
+Philanthropist
+Socialite
+Food/drink critic
+Gamer
+Fitness enthusiast
+Health/wellness guru
+Spiritual leader
+Parenting advice
+Career coach/advisor
+Travel blogger
+Book lover/reader
+DIY enthusiast
+Pet lover/owner
+Movie/TV critic
+Beauty/fashion blogger
+Tech geek
+Nature lover
+Political commentator
+Relationship expert
+Human rights activist
+Social justice warrior
+Music reviewer
+Interior design enthusiast
+Self-help guru
+Life coach
+Mental health advocate
+Promoter/event organizer
+Financial advisor
+Food blogger
+Sports enthusiast
+Fashion designer
+Makeup artist
+Gardening enthusiast
+Geek/nerd
+History buff
+Business owner
+Legal expert
+Parenting blogger
+Senior citizen/retiree
+Marriage counselor
+Wine connoisseur
+Youth advocate
+Success coach
+Career woman/man
+Fitness coach
+Political blogger
+Blogger/influencer relations
+Adult entertainer
+Adult content creator
+Adult industry critic
+Adult content reviewer
+
+
+List of examples of popular safe persons who tweets:
+Barack Obama
+Katy Perry
+Justin Bieber
+Rihanna
+Cristiano Ronaldo
+Taylor Swift
+Justin Timberlake
+Selena Gomez
+Ellen DeGeneres
+Lady Gaga
+Ariana Grande
+Kanye West
+Kylie Jenner
+Kim Kardashian-West
+Dwayne "The Rock" Johnson
+Oprah Winfrey
+etc.
+
+List of examples of popular unsafe persons who tweets:
+Alex Jones
+Donald Trump
+Tucker Carlson
+Joe Rogan
+Elon Musk
+Kanye West
+Piers Morgan
+Azealia Banks
+Lindsay Lohan
+Roseanne Barr
+Amanda Bynes
+Ann Coulter
+James Woods
+Milo Yiannopoulos
+Kathy Griffin
+Chelsea Handler
+Wendy Williams
+etc.
+
+
+
+
+
+
+
+
+Best fitting safe tweeting male person for role 'Influencer':
+- Barack Obama
+- Dwayne "The Rock" Johnson
+- Justin Timberlake
+- Will Smith
+- Neil Patrick Harris
+
+Best fitting safe tweeting male person for role 'Activist':
+- Malala Yousafzai
+- Colin Kaepernick
+- Leonardo DiCaprio
+- Emma Watson
+- George Takei
+
+Best fitting safe tweeting male person for role 'Expert':
+- Dr. Fauci
+- Bill Gates
+- Neil deGrasse Tyson
+- Anderson Cooper
+- Trevor Noah
+
+Best fitting safe tweeting male person for role 'Comedian':
+- John Mulaney
+- Hasan Minhaj
+- Steve Carell
+- Andy Samberg
+- Jerry Seinfeld
+
+Best fitting safe tweeting male person for role 'Politician':
+- Joe Biden
+- Bernie Sanders
+- Justin Trudeau
+- Jacinda Ardern
+- Emmanuel Macron
+
+Best fitting safe tweeting male person for role 'Social media personality':
+- Ryan Seacrest
+- Felix Kjellberg (PewDiePie)
+- MrBeast
+- David Dobrik
+- Jeffree Star
+
+Best fitting safe tweeting male person for role 'Marketer':
+- Gary Vaynerchuk
+- Seth Godin
+- Tim Ferriss
+- Neil Patel
+- Grant Cardone
+
+Best fitting safe tweeting male person for role 'Journalist':
+- Anderson Cooper
+- Lester Holt
+- Christiane Amanpour
+- Robin Roberts
+- Jake Tapper
+
+Best fitting safe tweeting male person for role 'Writer/author':
+- Stephen King
+- J.K. Rowling
+- John Green
+- James Patterson
+- Malcolm Gladwell
+
+Best fitting safe tweeting male person for role 'Celebrity/entertainer':
+- Tom Hanks
+- Chris Pratt
+- Lin-Manuel Miranda
+- Leonardo DiCaprio
+- Drake
+
+Best fitting safe tweeting male person for role 'Blogger':
+- Seth Godin
+- Tim Ferriss
+- Neil Patel
+- Rand Fishkin
+- James Clear
+
+Best fitting safe tweeting male person for role 'Entrepreneur':
+- Elon Musk
+- Richard Branson
+- Mark Cuban
+- Daymond John
+- Peter Thiel
+
+Best fitting safe tweeting male person for role 'Educator':
+- Bill Nye
+- Neil deGrasse Tyson
+- Ken Robinson
+- Salman Khan
+- Sir David Attenborough
+
+Best fitting safe tweeting male person for role 'Student':
+- Greta Thunberg
+- Malala Yousafzai
+- Shawn Mendes
+- Zendaya
+- Millie Bobby Brown
+
+Best fitting safe tweeting male person for role 'Parent':
+- Barack Obama
+- Neil Patrick Harris
+- John Legend
+- Ashton Kutcher
+- Dwayne "The Rock" Johnson
+
+Best fitting safe tweeting male person for role 'Athlete':
+- LeBron James
+- Tom Brady
+- Cristiano Ronaldo
+- Lionel Messi
+- Serena Williams
+
+Best fitting safe tweeting male person for role 'Music fan':
+- Ed Sheeran
+- Harry Styles
+- Billie Eilish
+- Bruno Mars
+- Lizzo
+
+Best fitting safe tweeting male person for role 'Foodie':
+- Anthony Bourdain
+- Jamie Oliver
+- Rachael Ray
+- Gordon Ramsey
+- Samantha Lee
+
+Best fitting safe tweeting male person for role 'Traveler':
+- Anthony Bourdain
+- Rick Steves
+- Bear Grylls
+- Anthony Melchiorri
+- Andrew Zimmern
+
+Best fitting safe tweeting male person for role 'Developer/programmer':
+- Linus Torvalds
+- Mark Zuckerberg
+- Elon Musk
+- Tim Cook
+- Jack Dorsey
+
+Best fitting safe tweeting male person for role 'Entity/creative':
+- Walt Disney
+- J.K. Rowling
+- Stan Lee
+- George Lucas
+- Steven Spielberg
+
+Best fitting safe tweeting male person for role 'Scientist/researcher':
+- Neil deGrasse Tyson
+- Bill Nye
+- Stephen Hawking
+- Jane Goodall
+- Edward O. Wilson
+
+Best fitting safe tweeting male person for role 'Environmentalist':
+- Leonardo DiCaprio
+- Jane Goodall
+- Jeff Corwin
+- Ed Begley Jr.
+- David Attenborough
+
+Best fitting safe tweeting male person for role 'Animal lover/activist':
+- Ellen DeGeneres
+- Dwayne "The Rock" Johnson
+- Jessica Chastain
+- Ian Somerhalder
+- Mandy Moore
+
+Best fitting safe tweeting male person for role 'Fashionista':
+- Tim Gunn
+- Tan France
+- Ralph Lauren
+- Tom Ford
+- Alexander Wang
+
+Best fitting safe tweeting male person for role 'Homemaker':
+- Drew Barrymore
+- Joanna Gaines
+- Martha Stewart
+- Nate Berkus
+- Chef Jamie Oliver
+
+Best fitting safe tweeting male person for role 'Philanthropist':
+- Bill Gates
+- Warren Buffett
+- Melinda Gates
+- Elon Musk
+- Mark Zuckerberg
+
+Best fitting safe tweeting male person for role 'Socialite':
+- Paris Hilton
+- Kendall Jenner
+- Nicky Hilton
+- Ivanka Trump
+- Olivia Palermo
+
+Best fitting safe tweeting male person for role 'Food/drink critic':
+- Anthony Bourdain
+- Gordan Ramsey
+- Ruth Reichl
+- Guy Fieri
+- Andrew Zimmern
+
+Best fitting safe tweeting male person for role 'Gamer':
+- PewDiePie
+- Markiplier
+- DanTDM
+- Ninja
+- Shroud
+
+Best fitting safe tweeting male person for role 'Fitness enthusiast':
+- David Beckham
+- Usain Bolt
+- Jillian Michaels
+- Michael Phelps
+- Cristiano Ronaldo
+
+Best fitting safe tweeting male person for role 'Health/wellness guru':
+- Deepak Chopra
+- Dr. Oz
+- Mehmet Oz
+- Andrew Weil
+- Jillian Michaels
+
+Best fitting safe tweeting male person for role 'Spiritual leader':
+- Dalai Lama
+- Pope Francis
+- Joel Osteen
+- Thich Nhat Hanh
+- Deepak Chopra
+
+Best fitting safe tweeting male person for role 'Parenting advice':
+- Barack Obama
+- Ashton Kutcher
+- Chip Gaines
+- Kevin Jonas
+- Dwayne "The Rock" Johnson
+
+Best fitting safe tweeting male person for role 'Career coach/advisor':
+- Tony Robbins
+- Tim Ferriss
+- Marie Forleo
+- Gary Vaynerchuk
+- Mel Robbins
+
+Best fitting safe tweeting male person for role 'Travel blogger':
+- Chris Burkard
+- Matt Kepnes (Nomadic Matt)
+- Brooke Saward (World of Wanderlust)
+- Lauren Bullen (Gypsea Lust)
+- Kiersten Rich (The Blonde Abroad)
+
+Best fitting safe tweeting male person for role 'Book lover/reader':
+- Neil Gaiman
+- Stephen King
+- John Green
+- James Patterson
+- J.K. Rowling
+
+Best fitting safe tweeting male person for role 'DIY enthusiast':
+- Bob Vila
+- Ty Pennington
+- Chip Gaines
+- Tom Silva
+- Adam Savage
+
+Best fitting safe tweeting male person for role 'Pet lover/owner':
+- Ellen DeGeneres
+- Drew Barrymore
+- Mandy Moore
+- Chris Evans
+- Patrick Stewart
+
+Best fitting safe tweeting male person for role 'Movie/TV critic':
+- Roger Ebert
+- Leonard Maltin
+- Peter Travers
+- Gene Siskel
+- Richard Roeper
+
+Best fitting safe tweeting male person for role 'Beauty/fashion blogger':
+- Michelle Phan
+- Zoella
+- Huda Kattan
+- Rumi Neely
+- Tanya Burr
+
+Best fitting safe tweeting male person for role 'Tech geek':
+- Elon Musk
+- Bill Gates
+- Mark Zuckerberg
+- Jack Ma
+- Larry Page
+
+Best fitting safe tweeting male person for role 'Nature lover':
+- David Attenborough
+- Jane Goodall
+- Jacques Cousteau
+- Sir David Attenborough
+- Bear Grylls
+
+Best fitting safe tweeting male person for role 'Political commentator':
+- Anderson Cooper
+- Rachel Maddow
+- Don Lemon
+- Sean Hannity
+- Tucker Carlson
+
+Best fitting safe tweeting male person for role 'Relationship expert':
+- Esther Perel
+- John Gottman
+- Brene Brown
+- Gary Chapman
+- Sue Johnson
+
+Best fitting safe tweeting male person for role 'Human rights activist':
+- Malala Yousafzai
+- Colin Kaepernick
+- Martin Luther King Jr.
+- Greta Thunberg
+- Mahatma Gandhi
+
+Best fitting safe tweeting male person for role 'Social justice warrior':
+- Colin Kaepernick
+- Malala Yousafzai
+- Jesse Williams
+- Emma Gonzalez
+- Megan Rapinoe
+
+Best fitting safe tweeting male person for role 'Music reviewer':
+- Anthony Fantano
+- Rolling Stone magazine
+- Pitchfork
+- NME
+- Complex magazine
+
+Best fitting safe tweeting male person for role 'Interior design enthusiast':
+- Nate Berkus
+- Jonathan Adler
+- Bobby Berk
+- Kelly Wearstler
+- Emily Henderson
+
+Best fitting safe tweeting male person for role 'Self-help guru':
+- Tony Robbins
+- Brené Brown
+- Marie Forleo
+- Mel Robbins
+- Robin Sharma
+
+Best fitting safe tweeting male person for role 'Life coach':
+- Tony Robbins
+- Mel Robbins
+- Marie Forleo
+- Gabby Bernstein
+- Deepak Chopra
+
+Best fitting safe tweeting male person for role 'Mental health advocate':
+- Prince Harry
+- Lady Gaga
+- Glenn Close
+- Demi Lovato
+- Stephen Fry
+
+Best fitting safe tweeting male person for role 'Promoter/event organizer':
+- Ryan Seacrest
+- Guy Oseary
+- Simon Cowell
+- Mark Burnett
+- Live Nation
+
+Best fitting safe tweeting male person for role 'Financial advisor':
+- Warren Buffett
+- Dave Ramsey
+- Suze Orman
+- Robert Kiyosaki
+- Tony Robbins
+
+Best fitting safe tweeting male person for role 'Food blogger':
+- Ina Garten
+- Chrissy Teigen
+- Ree Drummond
+- Joy Wilson (Joy the Baker)
+- Melissa Clark
+
+Best fitting safe tweeting male person for role 'Sports enthusiast':
+- Steph Curry
+- Michael Phelps
+- Serena Williams
+- Usain Bolt
+- Tom Brady
+
+Best fitting safe tweeting male person for role 'Fashion designer':
+- Tom Ford
+- Alexander Wang
+- Marc Jacobs
+- Christian Siriano
+- Michael Kors
+
+Best fitting safe tweeting male person for role 'Makeup artist':
+- Bobbi Brown
+- Pat McGrath
+- Charlotte Tilbury
+- Mario Dedivanovic
+- Lisa Eldridge
+
+Best fitting safe tweeting male person for role 'Gardening enthusiast':
+- Monty Don
+- Chris Beardshaw
+- Joe Lamp'l
+- Diarmuid Gavin
+- Carol Klein
+
+Best fitting safe tweeting male person for role 'Geek/nerd':
+- Neil deGrasse Tyson
+- Mark Zuckerberg
+- Elon Musk
+- Bill Nye
+- Linus Thorvalds
+
+Best fitting safe tweeting male person for role 'History buff':
+- Ken Burns
+- Dan Carlin
+- David McCullough
+- Hampton Sides
+- Simon Sebag Montefiore
+
+Best fitting safe tweeting male person for role 'Business owner':
+- Mark Cuban
+- Tara Reed
+- Lori Cheek
+- Gary Vaynerchuk
+- Renae Christine
+
+Best fitting safe tweeting male person for role 'Legal expert':
+- Dan Abrams
+- Alan Dershowitz
+- Gloria Allred
+- Jose Baez
+- Kim Kardashian-West (as a legal advocate)
+
+Best fitting safe tweeting male person for role 'Parenting blogger':
+- Ashton Kutcher
+- Chip Gaines
+- Kevin Jonas
+- Dwayne "The Rock" Johnson
+- Neil Patrick Harris
+
+Best fitting safe tweeting male person for role 'Senior citizen/retiree':
+- Betty White
+- Jane Fonda
+- Morgan Freeman
+- Ian McKellen
+- Angela Lansbury
+
+Best fitting safe tweeting male person for role 'Marriage counselor':
+- John Gottman
+- Esther Perel
+- Brene Brown
+- Gary Chapman
+- Sue Johnson
+
+Best fitting safe tweeting male person for role 'Wine connoisseur':
+- Gary Vaynerchuk
+- Jancis Robinson
+- James Suckling
+- Tim Atkin
+- Karen MacNeil
+
+Best fitting safe tweeting male person for role 'Youth advocate':
+- Malala Yousafzai
+- Greta Thunberg
+- David Hogg
+- Emma Gonzalez
+- Ruth Bader Ginsburg
+
+Best fitting safe tweeting male person for role 'Success coach':
+- Tony Robbins
+- Tim Ferriss
+- Marie Forleo
+- Deepak Chopra
+- Darren Hardy
+
+Best fitting safe tweeting male person for role 'Career woman/man':
+- Sheryl Sandberg
+- Warren Buffett
+- Elon Musk
+- Tim Cook
+- Jack Ma
+
+Best fitting safe tweeting male person for role 'Fitness coach':
+- Jillian Michaels
+- Tony Horton
+- Shaun T
+- Tracy Anderson
+- Kayla Itsines
+
+Best fitting safe tweeting male person for role 'Political blogger':
+- Michelle Obama
+- Joe Scarborough
+- Meghan McCain
+- Ana Navarro
+- Van Jones
+
+Best fitting safe tweeting male person for role 'Blogger/influencer relations':
+- Joe Pulizzi
+- Lee Odden
+- Kristi Hines
+- Larry Kim
+- Neal Schaffer
+
+Best fitting safe tweeting male person for role 'Adult entertainer':
+- Ron Jeremy
+- Sasha Grey
+- Tera Patrick
+- Jenna Jameson
+- Jesse Jane
+
+Best fitting safe tweeting male person for role 'Adult content creator':
+- Belle Delphine
+- OnlyFans
+- AbbyPoblador
+- Sara Jean Underwood
+- Casey Calvert
+
+Best fitting safe tweeting male person for role 'Adult industry critic':
+- Erin Gloria Ryan
+- EJ Dickson
+- Lux Alptraum
+- Amanda Marcotte
+- Dan Savage
+
+Best fitting safe tweeting male person for role 'Adult content reviewer':
+- Sunny Leone
+- Riley Reid
+- Blair Williams
+- April Flores
+- Kayden Kross
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting safe tweeting female person for role 'Influencer':
+- Ellen DeGeneres
+- Taylor Swift
+- Beyoncé
+- Jennifer Aniston
+- Oprah Winfrey
+
+Best fitting safe tweeting female person for role 'Activist':
+- Malala Yousafzai
+- Emma Watson
+- Greta Thunberg
+- Meghan Markle
+- Ellen Page
+
+Best fitting safe tweeting female person for role 'Expert':
+- Brené Brown
+- Dr. Jane Goodall
+- Melinda Gates
+- Michelle Obama
+- Dr. Jill Biden
+
+Best fitting safe tweeting female person for role 'Comedian':
+- Amy Poehler
+- Mindy Kaling
+- Tina Fey
+- Kristen Wiig
+- Ali Wong
+
+Best fitting safe tweeting female person for role 'Politician':
+- Kamala Harris
+- Alexandria Ocasio-Cortez
+- Nancy Pelosi
+- Jacinda Ardern
+- Angela Merkel
+
+Best fitting safe tweeting female person for role 'Social Media Personality':
+- Jenna Marbles
+- Lilly Singh
+- Zoella
+- Liza Koshy
+- Lele Pons
+
+Best fitting safe tweeting female person for role 'Marketer':
+- Sheryl Sandberg
+- Joanne Bradford
+- Carla Hendra
+- Mari Smith
+- Randi Zuckerberg
+
+Best fitting safe tweeting female person for role 'Journalist':
+- Christiane Amanpour
+- Rachel Maddow
+- Gwen Ifill
+- Soledad O'Brien
+- Christiane Amanpour
+
+Best fitting safe tweeting female person for role 'Writer/Author':
+- J.K. Rowling
+- Margaret Atwood
+- Chimamanda Ngozi Adichie
+- Roxane Gay
+- Elizabeth Gilbert
+
+Best fitting safe tweeting female person for role 'Celebrity/Entertainer':
+- Jennifer Lawrence
+- Lucy Hale
+- Mindy Kaling
+- Jennifer Lopez
+- Kerry Washington
+
+Best fitting safe tweeting female person for role 'Blogger':
+- Chiara Ferragni (The Blonde Salad)
+- Aimee Song (Song of Style)
+- Julia Engel (Gal Meets Glam)
+- Camila Coelho
+- Sazan Hendrix
+
+Best fitting safe tweeting female person for role 'Entrepreneur':
+- Sara Blakely (Spanx)
+- Sophia Amoruso (Girlboss)
+- Whitney Wolfe Herd (Bumble)
+- Katrina Lake (Stitch Fix)
+- Jessica Alba (The Honest Company)
+
+Best fitting safe tweeting female person for role 'Educator':
+- Melinda Gates
+- Angela Duckworth
+- Esther Wojcicki
+- Oprah Winfrey
+- Michelle Obama
+
+Best fitting safe tweeting female person for role 'Student':
+- Greta Thunberg
+- Malala Yousafzai
+- Emma González
+- Malala Fund
+- Team Rubicon
+
+Best fitting safe tweeting female person for role 'Parent':
+- Kristen Bell
+- Chrissy Teigen
+- Hilaria Baldwin
+- Gabrielle Union
+- Jessica Alba
+
+Best fitting safe tweeting female person for role 'Athlete':
+- Serena Williams
+- Simone Biles
+- Lindsey Vonn
+- Alex Morgan
+- Megan Rapinoe
+
+Best fitting safe tweeting female person for role 'Music fan':
+- Adele
+- Beyoncé
+- Rihanna
+- Ariana Grande
+- Billie Eilish
+
+Best fitting safe tweeting female person for role 'Foodie':
+- Padma Lakshmi
+- Chrissy Teigen
+- Ina Garten
+- Rachel Ray
+- Chrissy Tiegen
+
+Best fitting safe tweeting female person for role 'Traveler':
+- Rosa Park (Rosa's Musings)
+- Liz Carlson (Young Adventuress)
+- Kristin Luna (Camels & Chocolate)
+- Kiersten Rich (The Blonde Abroad)
+- Julia Dimon (Travel Junkie Julia)
+
+Best fitting safe tweeting female person for role 'Developer/Programmer':
+- Reshma Saujani (Girls Who Code)
+- Laura Kassovic (MbientLab)
+- Stephanie Hurlburt (Binomial)
+- Komal Singh (Square)
+- Tracy Chou (US Digital Service)
+
+Best fitting safe tweeting female person for role 'Entity/Creative':
+- Tavi Gevinson (Rookie Magazine)
+- Jenna Wortham (The New York Times)
+- Roxane Gay (Writer)
+- Mindy Kaling (Actress/Writer/Producer)
+- Olivia Wilde (Actress/Director/Producer)
+
+Best fitting safe tweeting female person for role 'Scientist/Researcher':
+- Jane Goodall
+- Temple Grandin
+- Jennifer Doudna
+- Mayim Bialik (PhD in Neuroscience)
+- Jill Bolte Taylor (Neuroscientist)
+
+Best fitting safe tweeting female person for role 'Environmentalist':
+- Jane Goodall
+- Greta Thunberg
+- Sylvia Earle
+- Isatou Ceesay (Plastic Recycling Advocate)
+- Tessa Tennant (Sustainable Investment Pioneer)
+
+Best fitting safe tweeting female person for role 'Animal Lover/Activist':
+- Jane Goodall
+- Temple Grandin
+- Ellie Goulding (UN Environment Global Goodwill Ambassador)
+- Rachael Ray (Animal Welfare Advocate)
+- Maisie Williams (Animal Rights Activist)
+
+Best fitting safe tweeting female person for role 'Fashionista':
+- Chiara Ferragni
+- Blake Lively
+- Anna Wintour (Editor-in-Chief of Vogue)
+- Rachel Zoe (Fashion Designer/Stylist/TV Personality)
+- Diane von Furstenberg (Fashion Designer/Philanthropist)
+
+Best fitting safe tweeting female person for role 'Homemaker':
+- Joanna Gaines
+- Martha Stewart
+- Ina Garten
+- Ree Drummond (The Pioneer Woman)
+- Nigella Lawson
+
+Best fitting safe tweeting female person for role 'Philanthropist':
+- Melinda Gates
+- Oprah Winfrey
+- Priscilla Chan (Chan Zuckerberg Initiative)
+- Laurene Powell Jobs (Emerson Collective)
+- Sheryl Sandberg (Lean In Foundation)
+
+Best fitting safe tweeting female person for role 'Socialite':
+- Amal Clooney
+- Meghan Markle
+- Paris Hilton
+- Huda Kattan
+- Anouska Paris
+
+Best fitting safe tweeting female person for role 'Food/Drink Critic':
+- Padma Lakshmi
+- Ina Garten
+- Giada De Laurentiis
+- Chrissy Teigen
+- Rachael Ray
+
+Best fitting safe tweeting female person for role 'Gamer':
+- Rachel Quirico
+- Ashley Jenkins
+- Mari Takahashi
+- Andrea Rene
+- Trisha Hershberger
+
+Best fitting safe tweeting female person for role 'Fitness Enthusiast':
+- Kayla Itsines
+- Karena Dawn and Katrina Scott (Tone It Up)
+- Massy Arias (Manko Fit)
+- Jen Widerstrom
+- Linn Jacobsson (Linnea Enmark)
+
+Best fitting safe tweeting female person for role 'Health/Wellness Guru':
+- Dr. Oz
+- Dr. Deepa Verma
+- Dr. Cathy Kapica
+- Dr. Lisa A. Price
+- Dr. Shiza Shahid
+
+Best fitting safe tweeting female person for role 'Spiritual Leader':
+- Oprah Winfrey
+- Marianne Williamson
+- Deepak Chopra
+- Gabrielle Bernstein
+- Eckhart Tolle
+
+Best fitting safe tweeting female person for role 'Parenting Advice':
+- Joanna Gaines
+- Jessica Alba
+- Mayim Bialik
+- Ellen DeGeneres
+- Busy Philipps
+
+Best fitting safe tweeting female person for role 'Career Coach/Advisor':
+- Oprah Winfrey
+- Melinda Gates
+- Sheryl Sandberg
+- Marie Forleo
+- Brené Brown
+
+Best fitting safe tweeting female person for role 'Travel Blogger':
+- Liz Carlson (Young Adventuress)
+- Kristin Addis (Be My Travel Muse)
+- Julia Engel (Gal Meets Glam)
+- Kate McCulley (Adventure Kate)
+- Polkadot Passport (Nicole Warne)
+
+Best fitting safe tweeting female person for role 'Book Lover/Reader':
+- Emma Watson
+- Reese Witherspoon
+- Oprah Winfrey
+- Jenna Bush Hager
+- Jessica Alba
+
+Best fitting safe tweeting female person for role 'DIY Enthusiast':
+- Martha Stewart
+- Homey Oh My (Amy Kim)
+- Jennifer Perkins
+- Studio DIY (Kelly Mindell)
+- A Beautiful Mess (Jess and Emma)
+
+Best fitting safe tweeting female person for role 'Pet Lover/Owner':
+- Ellen DeGeneres
+- Amanda Seyfried
+- Ricky Gervais
+- Ian Somerhalder
+- Marnie The Dog
+
+Best fitting safe tweeting female person for role 'Movie/TV Critic':
+- Rotten Tomatoes
+- MovieBob (Bob Chipman)
+- Renegade Cut (Leon Thomas)
+- Nostalgia Critic (Doug Walker)
+- Anya Volz
+
+Best fitting safe tweeting female person for role 'Beauty/Fashion Blogger':
+- Huda Kattan
+- Michelle Phan
+- Zoella
+- Camila Coelho
+- Jackie Aina
+
+Best fitting safe tweeting female person for role 'Tech Geek':
+- Kara Swisher
+- Anil Dash
+- Marques Brownlee (MKBHD)
+- Justine Ezarik (iJustine)
+- Emily Lakdawalla (The Planetary Society)
+
+Best fitting safe tweeting female person for role 'Nature Lover':
+- Jane Goodall
+- Anna McNuff (British Adventurer)
+- Alexia Zuberer (The Wayward Walrus)
+- Lauren Bath (Digital Marketing Consultant)
+- Anna McNuff (Champions Mentality)
+
+Best fitting safe tweeting female person for role 'Political Commentator':
+- Joy Reid
+- Ana Navarro
+- Rachel Maddow
+- Amy Goodman
+- Maggie Haberman
+
+Best fitting safe tweeting female person for role 'Relationship Expert':
+- Esther Perel
+- Dr. Jenn Mann
+- Dr. Laura Berman
+- Marie Forleo
+- Sarah Jones
+
+Best fitting safe tweeting female person for role 'Human Rights Activist':
+- Malala Yousafzai
+- Emma Gonzalez
+- Tarana Burke (founder of #MeToo movement)
+- Amnesty International
+- Laverne Cox
+
+Best fitting safe tweeting female person for role 'Social Justice Warrior':
+- Patrisse Cullors (Black Lives Matter)
+- DeRay Mckesson (Civil Rights Activist)
+- Linda Sarsour (Women's Rights Activist)
+- Cecile Richards (Planned Parenthood)
+- Opal Tometi (Black Lives Matter)
+
+Best fitting safe tweeting female person for role 'Music Reviewer':
+- Jon Pareles (The New York Times)
+- Jeremy Larson (Pitchfork)
+- Jenny Eliscu (Rolling Stone)
+- Dave Bry (The Guardian)
+- Lindsay Zoladz (Vulture)
+
+Best fitting safe tweeting female person for role 'Interior Design Enthusiast':
+- Joanna Gaines
+- Amber Lewis
+- Shea McGee
+- Kate Marker
+- Erin Hiemstra (Apartment 34)
+
+Best fitting safe tweeting female person for role 'Self-Help Guru':
+- Brené Brown
+- Marie Forleo
+- Rachel Hollis
+- Gabby Bernstein
+- Mel Robbins
+
+Best fitting safe tweeting female person for role 'Life Coach':
+- Marie Forleo
+- Tony Robbins
+- Gabby Bernstein
+- Mel Robbins
+- Brendon Burchard
+
+Best fitting safe tweeting female person for role 'Mental Health Advocate':
+- Glennon Doyle
+- Simone Biles
+- Jen Gotch (founder of Ban.do)
+- Michelle Williams
+- Demi Lovato
+
+Best fitting safe tweeting female person for role 'Promoter/Event Organizer':
+- Oprah Winfrey
+- Michelle Obama
+- Marie Forleo
+- Melinda Gates
+- Arianna Huffington
+
+Best fitting safe tweeting female person for role 'Financial Advisor':
+- Suze Orman
+- Elizabeth Warren
+- Mellody Hobson
+- Rachel Cruze
+- Farnoosh Torabi
+
+Best fitting safe tweeting female person for role 'Food Blogger':
+- Joy Bauer
+- Alison Roman
+- Tieghan Gerard (Half Baked Harvest)
+- Angela Davis (The Kitchenista Diaries)
+- Joy McCarthy (Joyous Health)
+
+Best fitting safe tweeting female person for role 'Sports Enthusiast':
+- Katie Sowers
+- Julie Ertz
+- Lindsey Vonn
+- Sue Bird
+- Alex Morgan
+
+Best fitting safe tweeting female person for role 'Fashion Designer':
+- Tory Burch
+- Stella McCartney
+- Diane Von Furstenberg
+- Donna Karan
+- Carolina Herrera
+
+Best fitting safe tweeting female person for role 'Makeup Artist':
+- Bobbi Brown
+- Pat McGrath
+- Lisa Eldridge
+- Charlotte Tilbury
+- Jaclyn Hill
+
+Best fitting safe tweeting female person for role 'Gardening Enthusiast':
+- Monty Don
+- Martha Stewart
+- Melinda Myers
+- Nikki Jardin
+- Maureen Gilmer
+
+Best fitting safe tweeting female person for role 'Geek/Nerd':
+- Felicia Day
+- Mindy Kaling
+- Aisha Tyler
+- Ashley Eckstein
+- Gwendoline Christie
+
+Best fitting safe tweeting female person for role 'History Buff':
+- Melinda Gates
+- Emma Gonzalez
+- Brené Brown
+- Michelle Obama
+- Jane Goodall
+
+Best fitting safe tweeting female person for role 'Business Owner':
+- Sara Blakely (Spanx)
+- Sophia Amoruso (Girlboss)
+- Katrina Lake (Stitch Fix)
+- Jenn Hyman (Rent The Runway)
+- Jessica Alba (The Honest Company)
+
+Best fitting safe tweeting female person for role 'Legal Expert':
+- Ruth Bader Ginsburg
+- Sonia Sotomayor
+- Jeanine Pirro
+- Ari Melber
+- Laura Coates
+
+Best fitting safe tweeting female person for role 'Parenting Blogger':
+- Anna White (Maestro Classics)
+- Ellen Seidman (Love That Max)
+- Gabrielle Blair (Design Mom)
+- Kelly Wickham Hurst (Mocha Momma)
+- Sarah Bessey (An Inch of Gray)
+
+Best fitting safe tweeting female person for role 'Senior Citizen/Retiree':
+- Rita Moreno
+- Judi Dench
+- Maggie Smith
+- Betty White
+- Jane Fonda
+
+Best fitting safe tweeting female person for role 'Marriage Counselor':
+- Esther Perel
+- Dr. Sue Johnson
+- Rachel Sussman
+- Les Parrot
+- Gary Chapman
+
+Best fitting safe tweeting female person for role 'Wine Connoisseur':
+- Jancis Robinson
+- Jamie Goode
+- Alice Feiring
+- Elizabeth Schneider
+- Emma Rice
+
+Best fitting safe tweeting female person for role 'Youth advocate':
+- Malala Yousafzai
+- Greta Thunberg
+- Mari Copeny
+- Jazz Jennings
+- Yara Shahidi
+
+Best fitting safe tweeting female person for role 'Success coach':
+- Mel Robbins
+- Marie Forleo
+- Tony Robbins
+- Gabrielle Bernstein
+- Brené Brown
+
+Best fitting safe tweeting female person for role 'Career woman':
+- Indra Nooyi
+- Sheryl Sandberg
+- Arianna Huffington
+- Mary Barra
+- Oprah Winfrey
+
+Best fitting safe tweeting female person for role 'Fitness coach':
+- Jillian Michaels
+- Kayla Itsines
+- Tracy Anderson
+- Simone De La Rue
+- Koya Webb
+
+Best fitting safe tweeting female person for role 'Political blogger':
+- Rachel Maddow
+- Ana Navarro
+- Symone Sanders
+- Sarah Cooper
+- Melissa Harris-Perry
+
+Best fitting safe tweeting female person for role 'Blogger/influencer relations':
+- Aimee Song
+- Chiara Ferragni
+- Amber Fillerup
+- Negin Mirsalehi
+- Danielle Bernstein
+
+Best fitting safe tweeting female person for role 'Adult entertainer':
+- Jenna Jameson
+- Stormy Daniels
+- Janice Griffith
+- Asa Akira
+- Briana Banks
+
+Best fitting safe tweeting female person for role 'Adult content creator':
+- Asa Akira
+- Angela White
+- Lena Paul
+- Kendra Sunderland
+- Casey Calvert
+
+Best fitting safe tweeting female person for role 'Adult industry critic':
+- Nina Hartley
+- Stormy Daniels
+- Kendra Holliday
+- Jaclyn Friedman
+- Jenna Jameson
+
+Best fitting safe tweeting female person for role 'Adult content reviewer':
+- Aria Taylor
+- Lily LaBeau
+- Riley Reid
+- Asa Akira
+- Stoya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting unsafe tweeting male person for role 'Influencer':
+- Logan Paul
+- Jake Paul
+- Jeffree Star
+- PewDiePie
+- Shane Dawson
+
+Best fitting unsafe tweeting male person for role 'Activist':
+- Alex Jones
+- Milo Yiannopoulos
+- Tommy Robinson
+- Richard Spencer
+- Gavin McInnes
+
+Best fitting unsafe tweeting male person for role 'Expert':
+- Jordan Peterson
+- Sam Harris
+- Mike Cernovich
+- Ben Shapiro
+- Stefan Molyneux
+
+Best fitting unsafe tweeting male person for role 'Comedian':
+- Louis C.K.
+- Bill Maher
+- Ricky Gervais
+- Jim Jefferies
+- Russell Brand
+
+Best fitting unsafe tweeting male person for role 'Politician':
+- Donald Trump
+- Nigel Farage
+- Boris Johnson
+- Matteo Salvini
+- Jair Bolsonaro 
+
+Best fitting unsafe tweeting male person for role 'Social media personality':
+- Logan Paul
+- Jake Paul
+- James Charles
+- Tana Mongeau
+- Lele Pons
+
+Best fitting unsafe tweeting male person for role 'Marketer':
+- Tai Lopez
+- Tim Sykes
+- Grant Cardone
+- Dan Bilzerian
+- Anthony Morrison
+
+Best fitting unsafe tweeting male person for role 'Journalist':
+- Tomi Lahren
+- Charlie Kirk
+- Milo Yiannopoulos
+- Alex Jones
+- Paul Joseph Watson
+
+Best fitting unsafe tweeting male person for role 'Writer/author':
+- Jordan Peterson
+- Ben Shapiro
+- Milo Yiannopoulos
+- David Horowitz
+- Alex Jones
+
+Best fitting unsafe tweeting male person for role 'Celebrity/entertainer':
+- Kanye West
+- Chris Brown
+- Johnny Depp
+- Mel Gibson
+- Alec Baldwin
+
+Best fitting unsafe tweeting male person for role 'Blogger':
+- Milo Yiannopoulos
+- Mike Cernovich
+- Dave Rubin
+- Paul Joseph Watson
+- James Allsup
+
+Best fitting unsafe tweeting male person for role 'Entrepreneur':
+- Gary Vaynerchuk
+- Tai Lopez
+- Tim Ferriss
+- Grant Cardone
+- Daymond John
+
+Best fitting unsafe tweeting male person for role 'Educator':
+- Jordan Peterson
+- Ben Shapiro
+- Dave Rubin
+- Tomi Lahren
+- Milo Yiannopoulos
+
+Best fitting unsafe tweeting male person for role 'Student':
+- Milo Yiannopoulos
+- Richard Spencer
+- Jack Posobiec
+- Laura Loomer
+- Ben Shapiro
+
+Best fitting unsafe tweeting male person for role 'Parent':
+- Jordan Peterson
+- Ben Shapiro
+- Milo Yiannopoulos
+- Mike Cernovich
+- Alex Jones
+
+Best fitting unsafe tweeting male person for role 'Athlete':
+- Colin Kaepernick
+- Kyrie Irving
+- Dennis Rodman
+- Marshawn Lynch
+- Greg Hardy
+
+Best fitting unsafe tweeting male person for role 'Music fan':
+- Kanye West
+- Chris Brown
+- Tyga
+- Migos
+- Kodak Black
+
+Best fitting unsafe tweeting male person for role 'Foodie':
+- Gordon Ramsay
+- Guy Fieri
+- Anthony Bourdain
+- Bobby Flay
+- Wolfgang Puck
+
+Best fitting unsafe tweeting male person for role 'Traveler':
+- Anthony Bourdain
+- Rick Steves
+- Bear Grylls
+- Johnny Depp
+- Jack Osbourne
+
+Best fitting unsafe tweeting male person for role 'Developer/programmer':
+- Mark Zuckerberg
+- Elon Musk
+- Jack Dorsey
+- Bill Gates
+- Jeff Bezos
+
+Best fitting unsafe tweeting male person for role 'Entity/creative':
+- Kanye West
+- Donald Glover
+- Banksy
+- Tyler The Creator
+- Amanda Palmer
+
+Best fitting unsafe tweeting male person for role 'Scientist/researcher':
+- Richard Dawkins
+- Sam Harris
+- Neil deGrasse Tyson
+- Stephen Hawking
+- Bill Nye
+
+Best fitting unsafe tweeting male person for role 'Environmentalist':
+- Donald Trump
+- Rush Limbaugh
+- Alex Jones
+- Mike Pence
+- Ted Cruz
+
+Best fitting unsafe tweeting male person for role 'Animal lover/activist':
+- Ricky Gervais
+- Steve Irwin
+- PETA
+- Robert Irwin
+- Jim Carrey
+
+Best fitting unsafe tweeting male person for role 'Fashionista':
+- Kanye West
+- Jared Leto
+- Pharrell Williams
+- Billy Porter
+- Harry Styles
+
+Best fitting unsafe tweeting male person for role 'Homemaker':
+- Jordan Peterson
+- Dave Ramsey
+- Ron Paul
+- Alex Jones
+- Ben Shapiro
+
+Best fitting unsafe tweeting male person for role 'Philanthropist':
+- George Soros
+- Bill Gates
+- Warren Buffett
+- Mark Zuckerberg
+- Carlos Slim
+
+Best fitting unsafe tweeting male person for role 'Socialite':
+- Paris Hilton
+- Kim Kardashian-West
+- Khloe Kardashian
+- Kylie Jenner
+- Kendall Jenner
+
+Best fitting unsafe tweeting male person for role 'Food/drink critic':
+- Anthony Bourdain
+- Gordon Ramsay
+- Guy Fieri
+- Bobby Flay
+- Andrew Zimmern
+
+Best fitting unsafe tweeting male person for role 'Gamer':
+- PewDiePie
+- Ninja
+- Markiplier
+- Jacksepticeye
+- FaZe Rug
+
+Best fitting unsafe tweeting male person for role 'Fitness enthusiast':
+- Greg Doucette
+- Bradley Martyn
+- Christian Guzman
+- CT Fletcher
+- Joe Rogan
+
+Best fitting unsafe tweeting male person for role 'Health/wellness guru':
+- Dr. Oz
+- Deepak Chopra
+- Gwyneth Paltrow
+- Jillian Michaels
+- Kourtney Kardashian
+
+Best fitting unsafe tweeting male person for role 'Spiritual leader':
+- Joel Osteen
+- Pat Robertson
+- Jim Bakker
+- Benny Hinn
+- Deepak Chop
+
+Best fitting unsafe tweeting male person for role 'Parenting advice':
+- Jordan Peterson
+- Ben Shapiro
+- Milo Yiannopoulos
+- Mike Cernovich
+- Alex Jones
+
+Best fitting unsafe tweeting male person for role 'Career coach/advisor':
+- Gary Vaynerchuk
+- Dan Lok
+- Tony Robbins
+- Grant Cardone
+- Tim Ferriss
+
+Best fitting unsafe tweeting male person for role 'Travel blogger':
+- Mike Posner
+- Sam Kolder
+- Daniel Kordan
+- Mark Wiens
+- Yellow Brick Cinema
+
+Best fitting unsafe tweeting male person for role 'Book lover/reader':
+- Jordan Peterson
+- Ben Shapiro
+- Dave Rubin
+- Milo Yiannopoulos
+- Stephen King
+
+Best fitting unsafe tweeting male person for role 'DIY enthusiast':
+- Adam Savage
+- Bob Vila
+- Ty Pennington
+- Mike Holmes
+- Tim Taylor (from "Home Improvement")
+
+Best fitting unsafe tweeting male person for role 'Pet lover/owner':
+- Joe Exotic
+- Tia Torres
+- Caesar Milan
+- Jackson Galaxy
+- Steve Irwin
+
+Best fitting unsafe tweeting male person for role 'Movie/TV critic':
+- Charlie Sheen
+- Alec Baldwin
+- Kevin Spacey
+- James Franco
+- Johnny Depp
+
+Best fitting unsafe tweeting male person for role 'Beauty/fashion blogger':
+- Jeffree Star
+- James Charles
+- Tati Westbrook
+- Huda Kattan
+- Manny MUA
+
+Best fitting unsafe tweeting male person for role 'Tech geek':
+- Mark Zuckerberg
+- Elon Musk
+- Bill Gates
+- Jeff Bezos
+- Steve Jobs
+
+Best fitting unsafe tweeting male person for role 'Nature lover':
+- Bear Grylls
+- Steve Irwin
+- David Attenborough
+- David Bellamy
+- Jeff Corwin
+
+Best fitting unsafe tweeting male person for role 'Political commentator':
+- Ben Shapiro
+- Milo Yiannopoulos
+- Steven Crowder
+- Glenn Beck
+- Rush Limbaugh
+
+Best fitting unsafe tweeting male person for role 'Relationship expert':
+- Jordan Peterson
+- Ben Shapiro
+- Milo Yiannopoulos
+- Mike Cernovich
+- Alex Jones
+
+Best fitting unsafe tweeting male person for role 'Human rights activist':
+- George Soros
+- Noam Chomsky
+- Salman Rushdie
+- Chelsea Manning
+- Malala Yousafzai
+
+Best fitting unsafe tweeting male person for role 'Social justice warrior':
+- Shaun King
+- Linda Sarsour
+- Keith Ellison
+- Al Sharpton
+- Maxine Waters
+
+Best fitting unsafe tweeting male person for role 'Music reviewer':
+- Anthony Fantano
+- Todd in the Shadows
+- Needle Drop
+- TheReportOfTheWeek
+- theneedledrop
+
+Best fitting unsafe tweeting male person for role 'Interior design enthusiast':
+- Bobby Berk
+- Nate Berkus
+- Chip and Joanna Gaines
+- Ryan Korban
+- Jeremiah Brent
+
+Best fitting unsafe tweeting male person for role 'Self-help guru':
+- Tony Robbins
+- Deepak Chopra
+- Joel Osteen
+- Eckhart Tolle
+- Louise Hay
+
+Best fitting unsafe tweeting male person for role 'Life coach':
+- Jordan Peterson
+- Oprah Winfrey
+- Marie Forleo
+- Mel Robbins
+- Tony Robbins
+
+Best fitting unsafe tweeting male person for role 'Mental health advocate':
+- Pete Davidson
+- Demi Lovato
+- Lady Gaga
+- Michael Phelps
+- Dwayne "The Rock" Johnson
+
+Best fitting unsafe tweeting male person for role 'Promoter/event organizer':
+- Billy McFarland (Fyre Festival)
+- Ja Rule (Fyre Festival)
+- Jordan Belfort (The Wolf of Wall Street)
+- Harvey Weinstein
+- Donald Trump (Miss Universe pageant)
+
+Best fitting unsafe tweeting male person for role 'Financial advisor':
+- Grant Cardone
+- Dave Ramsey
+- Robert Kiyosaki
+- Suze Orman
+- Jim Cramer
+
+Best fitting unsafe tweeting male person for role 'Food blogger':
+- Adam Richman
+- Andrew Zimmern
+- Anthony Bourdain
+- Samin Nosrat
+- Jamie Oliver
+
+Best fitting unsafe tweeting male person for role 'Sports enthusiast':
+- Stephen A. Smith
+- Skip Bayless
+- Colin Cowherd
+- Clay Travis
+- Shannon Sharpe
+
+Best fitting unsafe tweeting male person for role 'Fashion designer':
+- Marc Jacobs
+- Michael Kors
+- Karl Lagerfeld
+- Tom Ford
+- Marc Ecko
+
+Best fitting unsafe tweeting male person for role 'Makeup artist':
+- Jeffree Star
+- James Charles
+- Manny MUA
+- NikkieTutorials
+- Tati Westbrook
+
+Best fitting unsafe tweeting male person for role 'Gardening enthusiast':
+- Monty Don
+- Alan Titchmarsh
+- Chris Packham
+- Joe Swift
+- Carol Klein
+
+Best fitting unsafe tweeting male person for role 'Geek/nerd':
+- Elon Musk
+- Neil DeGrasse Tyson
+- Bill Gates
+- Mark Zuckerberg
+- Richard Dawkins
+
+Best fitting unsafe tweeting male person for role 'History buff':
+- Dan Carlin
+- Ken Burns
+- David McCullough
+- Ron Chernow
+- Shelby Foote
+
+Best fitting unsafe tweeting male person for role 'Business owner':
+- Mark Cuban
+- Richard Branson
+- Elon Musk
+- Jeff Bezos
+- Bill Gates
+
+Best fitting unsafe tweeting male person for role 'Legal expert':
+- Alan Dershowitz
+- Joseph diGenova
+- Rudy Giuliani
+- Ken Starr
+- Jay Sekulow
+
+Best fitting unsafe tweeting male person for role 'Parenting blogger':
+- Jordan Peterson
+- Ben Shapiro
+- Milo Yiannopoulos
+- Mike Cernovich
+- Alex Jones
+
+Best fitting unsafe tweeting male person for role 'Senior citizen/retiree':
+- George Soros
+- Warren Buffett
+- Richard Branson
+- Larry King
+- Rupert Murdoch
+
+Best fitting unsafe tweeting male person for role 'Marriage counselor':
+- Dr. Phil McGraw
+- Dr. Laura Schlessinger
+- Dr. Ruth Westheimer
+- Dr. John Gottman
+- Steve Harvey
+
+Best fitting unsafe tweeting male person for role 'Wine connoisseur':
+- Gary Vaynerchuk
+- Anthony Bourdain
+- Tim Ferriss
+- Master Sommelier
+- Jancis Robinson
+
+Best fitting unsafe tweeting male person for role 'Youth advocate':
+- David Hogg
+- Greta Thunberg
+- Parkland students
+- Malala Yousafzai
+- Emma Gonzalez
+
+Best fitting unsafe tweeting male person for role 'Success coach':
+- Dan Lok
+- Tony Robbins
+- Gary Vaynerchuk
+- Grant Cardone
+- Brendon Burchard
+
+Best fitting unsafe tweeting male person for role 'Career woman/man':
+- Ivanka Trump
+- Sheryl Sandberg
+- Rachel Hollis
+- Melinda Gates
+- Indra Nooyi
+
+Best fitting unsafe tweeting male person for role 'Fitness coach':
+- Greg Doucette
+- Bradley Martyn
+- Amanda Bucci
+- CT Fletcher
+- Chris Jones
+
+Best fitting unsafe tweeting male person for role 'Political blogger':
+- Milo Yiannopoulos
+- Tucker Carlson
+- Piers Morgan
+- Ben Shapiro
+- Steve Bannon
+
+Best fitting unsafe tweeting male person for role 'Blogger/influencer relations':
+- Jeffree Star
+- James Charles
+- Tana Mongeau
+- Logan Paul
+- Jake Paul
+
+Best fitting unsafe tweeting male person for role 'Adult entertainer':
+- Stormy Daniels
+- Ron Jeremy
+- Jenna Jameson
+- Lisa Ann
+- Sasha Grey
+
+Best fitting unsafe tweeting male person for role 'Adult content creator':
+- James Deen
+- Stoya
+- Asa Akira
+- Riley Reid
+- Johnny Sins
+
+Best fitting unsafe tweeting male person for role 'Adult industry critic':
+- Gail Dines
+- Shelley Lubben
+- Pamela Stenzel
+- Donny Pauling
+- Nicholas Kristof
+
+Best fitting unsafe tweeting male person for role 'Adult content reviewer':
+- Keemstar
+- iDubbbz
+- h3h3 Productions
+- Ethan Klein
+- Michael McCrudden
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best fitting unsafe tweeting female person for role 'Influencer':
+- Kylie Jenner
+- Kim Kardashian-West
+- Amanda Bynes
+- Azealia Banks
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Activist':
+- Azealia Banks
+- Roseanne Barr
+- Chelsea Handler
+- Kathy Griffin
+- Wendy Williams
+
+Best fitting unsafe tweeting female person for role 'Expert':
+- Ann Coulter
+- Chelsea Handler
+- Wendy Williams
+- Azealia Banks
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Comedian':
+- Kathy Griffin
+- Chelsea Handler
+- Roseanne Barr
+- Wendy Williams
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Politician':
+- Ann Coulter
+- Roseanne Barr
+- Amanda Bynes
+- Kim Kardashian-West
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Social media personality':
+- Kylie Jenner
+- Kim Kardashian-West
+- Amanda Bynes
+- Lindsay Lohan
+- Wendy Williams
+
+Best fitting unsafe tweeting female person for role 'Marketer':
+- Kim Kardashian-West
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Kathy Griffin
+
+Best fitting unsafe tweeting female person for role 'Journalist':
+- Ann Coulter
+- Roseanne Barr
+- Chelsea Handler
+- Wendy Williams
+- Kathy Griffin
+
+Best fitting unsafe tweeting female person for role 'Writer/author':
+- Chelsea Handler
+- Amanda Bynes
+- Azealia Banks
+- Lindsay Lohan
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Celebrity/entertainer':
+- Kim Kardashian-West
+- Amanda Bynes
+- Lindsay Lohan
+- Roseanne Barr
+- Kylie Jenner
+
+Best fitting unsafe tweeting female person for role 'Blogger':
+- Amanda Bynes
+- Roseanne Barr
+- Azealia Banks
+- Lindsay Lohan
+- Kathy Griffin
+
+Best fitting unsafe tweeting female person for role 'Entrepreneur':
+- Kylie Jenner
+- Kim Kardashian-West
+- Amanda Bynes
+- Lindsay Lohan
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Educator':
+- Roseanne Barr
+- Chelsea Handler
+- Amanda Bynes
+- Azealia Banks
+- Ann Coulter
+
+Best fitting unsafe tweeting female person for role 'Student':
+- Amanda Bynes
+- Lindsay Lohan
+- Azealia Banks
+- Roseanne Barr
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Parent':
+- Kim Kardashian-West
+- Amanda Bynes
+- Lindsay Lohan
+- Roseanne Barr
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Athlete':
+- Kim Kardashian-West
+- Lindsay Lohan
+- Amanda Bynes
+- Roseanne Barr
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Music fan':
+- Azealia Banks
+- Kim Kardashian-West
+- Lindsay Lohan
+- Amanda Bynes
+- Wendy Williams
+
+Best fitting unsafe tweeting female person for role 'Foodie':
+- Amanda Bynes
+- Kylie Jenner
+- Lindsay Lohan
+- Roseanne Barr
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Traveler':
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Roseanne Barr
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Developer/programmer':
+- Chelsea Handler
+- Amanda Bynes
+- Azealia Banks
+- Roseanne Barr
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Entity/creative':
+- Amanda Bynes
+- Lindsay Lohan
+- Azealia Banks
+- Roseanne Barr
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Scientist/researcher':
+- Ann Coulter
+- Roseanne Barr
+- Chelsea Handler
+- Wendy Williams
+- Amanda Bynes
+
+Best fitting unsafe tweeting female person for role 'Environmentalist':
+- Roseanne Barr
+- Chelsea Handler
+- Amanda Bynes
+- Azealia Banks
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Animal lover/activist':
+- Amanda Bynes
+- Chelsea Handler
+- Azealia Banks
+- Roseanne Barr
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Fashionista':
+- Kylie Jenner
+- Kim Kardashian-West
+- Lindsay Lohan
+- Amanda Bynes
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Homemaker':
+- Roseanne Barr
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Philanthropist':
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Roseanne Barr
+- Kathy Griffin
+
+Best fitting unsafe tweeting female person for role 'Socialite':
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Roseanne Barr
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Food/drink critic':
+- Amanda Bynes
+- Azealia Banks
+- Kim Kardashian-West
+- Lindsay Lohan
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Gamer':
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Wendy Williams
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Fitness enthusiast':
+- Amanda Bynes
+- Azealia Banks
+- Lindsay Lohan
+- Kim Kardashian-West
+- Rosie O'Donnell
+
+Best fitting unsafe tweeting female person for role 'Health/wellness guru':
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Spiritual leader':
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Parenting advice':
+- Amanda Bynes
+- Chelsea Handler
+- Azealia Banks
+- Lindsay Lohan
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Career coach/advisor':
+- Azealia Banks
+- Amanda Bynes
+- Kim Kardashian-West
+- Chelsea Handler
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Travel blogger':
+- Amanda Bynes
+- Lindsay Lohan
+- Roseanne Barr
+- Kim Kardashian-West
+- Azealia Banks
+
+Best fitting unsafe tweeting female person for role 'Book lover/reader':
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'DIY enthusiast':
+- Amanda Bynes
+- Chelsea Handler
+- Kim Kardashian-West
+- Azealia Banks
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Pet lover/owner':
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Azealia Banks
+- Chelsea Handler
+
+Best fitting unsafe tweeting female person for role 'Movie/TV critic':
+- Roseanne Barr
+- Chelsea Handler
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Beauty/fashion blogger':
+- Kylie Jenner
+- Kim Kardashian-West
+- Roseanne Barr
+- Azealia Banks
+- Amanda Bynes
+
+Best fitting unsafe tweeting female person for role 'Tech geek':
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Chelsea Handler
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Nature lover':
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Chelsea Handler
+
+Best fitting unsafe tweeting female person for role 'Political commentator':
+- Ann Coulter
+- Roseanne Barr
+- Chelsea Handler
+- Azealia Banks
+- Amanda Bynes
+
+Best fitting unsafe tweeting female person for role 'Relationship expert':
+- Azealia Banks
+- Amanda Bynes
+- Kim Kardashian-West
+- Roseanne Barr
+- Chelsea Handler
+
+Best fitting unsafe tweeting female person for role 'Human rights activist':
+- Roseanne Barr
+- Azealia Banks
+- Amanda Bynes
+- Chelsea Handler
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Social justice warrior':
+- Azealia Banks
+- Amanda Bynes
+- Roseanne Barr
+- Chelsea Handler
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Music reviewer':
+- Amanda Bynes
+- Azealia Banks
+- Roseanne Barr
+- Lindsay Lohan
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Interior design enthusiast':
+- Amanda Bynes
+- Roseanne Barr
+- Kim Kardashian-West
+- Azealia Banks
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Self-help guru':
+- Azealia Banks
+- Chelsea Handler
+- Amanda Bynes
+- Kim Kardashian-West
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Life coach':
+- Azealia Banks
+- Amanda Bynes
+- Roseanne Barr
+- Chelsea Handler
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Mental health advocate':
+- Azealia Banks
+- Amanda Bynes
+- Roseanne Barr
+- Chelsea Handler
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Promoter/event organizer':
+- Roseanne Barr
+- Azealia Banks
+- Amanda Bynes
+- Chelsea Handler
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Financial advisor':
+- Azealia Banks
+- Roseanne Barr
+- Chelsea Handler
+- Amanda Bynes
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Food blogger':
+- Amanda Bynes
+- Lindsay Lohan
+- Kim Kardashian-West
+- Azealia Banks
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Sports enthusiast':
+- Kim Kardashian-West
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Fashion designer':
+- Kim Kardashian-West
+- Kylie Jenner
+- Amanda Bynes
+- Lindsay Lohan
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Makeup artist':
+- Kylie Jenner
+- Kim Kardashian-West
+- Amanda Bynes
+- Lindsay Lohan
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Gardening enthusiast':
+- Lindsay Lohan
+- Kim Kardashian-West
+- Azealia Banks
+- Amanda Bynes
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Geek/nerd':
+- Azealia Banks
+- Amanda Bynes
+- Chelsea Handler
+- Kim Kardashian-West
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'History buff':
+- Roseanne Barr
+- Amanda Bynes
+- Chelsea Handler
+- Azealia Banks
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Business owner':
+- Kim Kardashian-West
+- Amanda Bynes
+- Azealia Banks
+- Lindsay Lohan
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Legal expert':
+- Azealia Banks
+- Amanda Bynes
+- Roseanne Barr
+- Chelsea Handler
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Parenting blogger':
+- Kim Kardashian-West
+- Amanda Bynes
+- Lindsay Lohan
+- Azealia Banks
+- Roseanne Barr
+
+Best fitting unsafe tweeting female person for role 'Senior citizen/retiree':
+- Azealia Banks
+- Chelsea Handler
+- Amanda Bynes
+- Roseanne Barr
+- Ann Coulter
+
+Best fitting unsafe tweeting female person for role 'Marriage counselor':
+- Amanda Bynes
+- Azealia Banks
+- Lindsay Lohan
+- Kim Kardashian-West
+- Chelsea Handler
+
+Best fitting unsafe tweeting female person for role 'Wine connoisseur':
+- Amanda Bynes
+- Lindsay Lohan
+- Azealia Banks
+- Roseanne Barr
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Youth advocate':
+- Azealia Banks
+- Chelsea Handler
+- Kim Kardashian-West
+- Amanda Bynes
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Success coach':
+- Azealia Banks
+- Amanda Bynes
+- Chelsea Handler
+- Kim Kardashian-West
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Career woman/man':
+- Azealia Banks
+- Amanda Bynes
+- Roseanne Barr
+- Kim Kardashian-West
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Fitness coach':
+- Azealia Banks
+- Amanda Bynes
+- Roseanne Barr
+- Chelsea Handler
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Political blogger':
+- Azealia Banks
+- Amanda Bynes
+- Lindsay Lohan
+- Chelsea Handler
+- Kim Kardashian-West
+
+Best fitting unsafe tweeting female person for role 'Blogger/influencer relations':
+- Azealia Banks
+- Amanda Bynes
+- Roseanne Barr
+- Kim Kardashian-West
+- Lindsay Lohan
+
+Best fitting unsafe tweeting female person for role 'Adult entertainer':
+- Azealia Banks
+- Jonathan Cheban
+- Kim Kardashian-West
+- Lindsay Lohan
+- Amanda Bynes
+
+Best fitting unsafe tweeting female person for role 'Adult content creator':
+- Kim Kardashian-West
+- Amanda Bynes
+- Azealia Banks
+- Lindsay Lohan
+- Joe Rogan
+
+Best fitting unsafe tweeting female person for role 'Adult industry critic':
+- Azealia Banks
+- Lindsay Lohan
+- Amanda Bynes
+- Kim Kardashian-West
+- Chelsea Handler
+
+Best fitting unsafe tweeting female person for role 'Adult content reviewer':
+- Amanda Bynes
+- Azealia Banks
+- Roseanne Barr
+- Kim Kardashian-West
+- Chelsea Handler
