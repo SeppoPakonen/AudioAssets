@@ -1,12 +1,12 @@
 
 [Chorus 1]
 En tahtonut taistella sua vastaan
-en kuvitellut karkaavan tätä tarinaa
+en kuvitellut karkaavan meidän tarinaa
 En tahtonut sua särkee
 mut toinen toistaan vihaa uudelleen
 
 
-[Verse 1]
+[Verse 1, (rapping)]
 Sori tyttö, en haluu enää pelata sun peliä.
 Tuntuu et otat jotain pois kun mä annan enemmän.
 Kaipaan vapautta menneisyyden kahleista,
@@ -14,52 +14,57 @@ yöretkii etsimmäs kaupungilla naisia.
 Tunsin kuin luotit muhun, mut mä vain satutin
 Jo alussa tiesin et vanhan sulla korvasin
 Mut päivät tuntui mustemmilta sun kanssa,
-ne toiveet ja haavet haihtui ilmaan
+mun toiveet ja haavet haihtui ilmaan
 Hetkes kulunut on aika, rakkaus kuihtuu
 Kylmä suudelma petolliseks muuttuu
 Äänet sammuu, kaikki katoaa,
 taivas synkkenee, maailma hajoaa.
 Ehkä takerruttiin katkeriin sanoihin,
-Silti irti pääsy käy hankalammaksi
+Silti eroon pääsen entistä vaikeemmin,
 Ehkä pitäis luovuttaa, mut toivon et viel tavataan,
-mikä jäi kesken, se muualta haetaan
+se mikä jäi kesken muualta haetaan
 
 [Chorus 1]
 En tahtonut taistella sua vastaan
-en kuvitellut karkaavan tätä tarinaa
+en kuvitellut karkaavan meidän tarinaa
 En tahtonut sua särkee
 mut toinen toistaan vihaa uudelleen
 
-[Verse 2]
+[Verse 2, (rapping)]
 Mun tulevaisuus on kuin tyhjä paperi,
-pimeä kohtalo, jonka arvo vain aleni.
+pimeä kohtalo, jonka arvo aleni.
 Sen jälkeen ku aloin virheeni laskemaan,
-katsoin tuskaisena ku näin menestyksen karkaavan
-Tein kaikkeni etten tuntisi mitään,
-mut lämpimäks saa muistu ku pääsin sun sisään.
-Mikä ratkaisuks kaikkeen tähän on, en tiedä,
+katsoin tuskaisena menestyksen karkaavan
+Tein kaikkeni etten tuntis mitään,
+mut lämpimäks saa muisto ku pääsin sun sisään.
+Mikä ratkaisuks kaikkeen tähän, en tiedä,
 etin vastausta kysymyksiin, ei löydy vielä.
 Oon tottunut pettymään, en muuta odota
-En usko enää rakkauteen, ja pysyn kotona.
+En usko rakkauteen, ja pysyn kotona.
 Kerron suoraan nyt enkä huomenna,
-koska jatkan liikaa tätä mun itsepetosta
+koska jatkan muuten mun itsepetosta
 Ei kaipuu kasva mustamaalauksen keskellä,
 On synkkä tie mut vanhaan seuraan mee en pellenä.
-En anna periksi, vaikka kaikki on vastaan.
+En anna periksi, vaik muut on vastaan.
 Jos tän täytyy loppuu, niin palaa en ainaskaan.
 
 [Chorus 1]
 En tahtonut taistella sua vastaan
-en kuvitellut karkaavan tätä tarinaa
+en kuvitellut karkaavan meidän tarinaa
+En tahtonut sua särkee
+mut toinen toistaan vihaa uudelleen
+
+En tahtonut taistella sua vastaan
+en kuvitellut karkaavan meidän tarinaa
 En tahtonut sua särkee
 mut toinen toistaan vihaa uudelleen
 
 [Bridge 1]
 Välil sanoit etten ansaitse sua,
-tuotettiin me vain hedelmiä huonoja,
+tuotetaan me hedelmiä huonoja,
 mut vaik vierellä kulkee pettäjä,
 ei löydy ylpeys kun voi huomiota kerjätä.
-Sä vannoit rakkautta, jota tunne varmaan et.
+Sä vannoit rakkautta, jota tunne et.
 Voit toistaa tyhjii sanoja, tunteet ei valehtele.
 
 [Chorus 1]
@@ -68,10 +73,20 @@ en kuvitellut karkaavan tätä tarinaa
 En tahtonut sua särkee
 mut toinen toistaan vihaa uudelleen
 
-[Chorus 1]
 En tahtonut taistella sua vastaan
-en kuvitellut karkaavan tätä tarinaa
+en kuvitellut karkaavan meidän tarinaa
 En tahtonut sua särkee
 mut toinen toistaan vihaa uudelleen
 
+[Pre-Chorus]
+Sä vannoit rakkautta, jota tunne et.
+Voit toistaa tyhjii sanoja, tunteet ei valehtele.
+
+[Chorus 1]
+En tahtonut taistella sua vastaan
+en kuvitellut karkaavan meidän tarinaa
+En tahtonut sua särkee
+mut toinen toistaan vihaa uudelleen
+
+[End]
 
