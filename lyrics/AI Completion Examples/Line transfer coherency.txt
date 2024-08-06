@@ -1,0 +1,38 @@
+Person talks. His text is coherent and has narrative without semantic and contextual errors.
+
+Line 1: "I am a guy who likes cars and bitches"
+
+Absolute context for Line 1:
+- speaker: a male individual
+- topic: cars and women
+- feeling/emotion: possibly boastful or exaggerated language to convey confidence or bravado
+- tone: casual or informal
+- setting: could be at a party or amongst friends
+- attitude: could be seen as misogynistic or objectifying towards women
+
+Line 2: "Cars give me a rush of adrenaline, and bitches give me a rush of dopamine"
+
+Absolute context for Line 2:
+- continuation of the previous line, reiterating the speaker's interest in cars and women
+- feeling/emotion: excitement and pleasure from his interests
+- physiological response: "adrenaline" and "dopamine" are neurotransmitters associated with feelings of excitement and pleasure
+- tone: possibly still boastful or exaggerated, but also could hint at a deeper passion for his interests
+- setting: potentially still at a party or amongst friends, where this type of language may be common
+- attitude: could be seen as objectifying and dehumanizing women, as well as glamorizing potentially risky behavior associated with adrenaline rushes.
+
+Line 3: "Apples are interesting"
+
+Absolute context for Line 3:
+- shift in topic away from cars and women, potentially causing confusion for the listener
+- tone: casual or nonchalant
+- setting: could still be at the same party or amongst friends, but the speaker may be trying to steer the conversation in a different direction
+- attitude: suggests that the speaker has a more objective and less passionate interest in apples compared to his previous interests in cars and women. 
+
+
+Scoring transfer from line 1 to line 2 (value is 0-10):
+- score for coherency of the story: 7
+- score for semantic and contextual accuracy: 8 
+
+Scoring transfer from line 2 to line 3 (value is 0-10):
+- score for coherency of the story: 5
+- score for semantic and contextual accuracy: 7
