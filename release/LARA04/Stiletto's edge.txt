@@ -1,8 +1,7 @@
 Name: Stiletto's edge
+Author: Seppo Pakonen
 Date: 16.9.2024
-Styles:
-Electro Pop, Rap, 128bpm, anthemic chorus, driving bass lines, female vocals
-R&B, EDM, 90bpm, female alto vocal range, long vocal notes
+Style: Driving bass lines, R&B, EDM, danceable, 90bpm, female alto vocal range, long vocal notes, happy
 
 [Verse 1]
 Money, fame, and power, that's what they all chase
