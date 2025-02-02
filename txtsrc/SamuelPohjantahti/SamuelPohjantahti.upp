@@ -4,6 +4,7 @@ uses
 	SongwriterStandup;
 
 file
+	DevNotes.txt,
 	SamuelPohjantahti.ecs;
 
 mainconfig

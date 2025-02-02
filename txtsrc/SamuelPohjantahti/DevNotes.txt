@@ -1,0 +1,22 @@
+- space: S00E00 (jakso)
+	- ent: song (nykyinen S00E00)
+	- space: video
+		- space: 1_sävellys
+			- space: source-video
+				- ent: video-clip[1..n]
+					- comp: storyline[scene]
+			- space: export-video
+				- space: esim. voiceover-klippi
+					- ent: source-video-zone[1..n] -> nämä tulee videoeditoriin klippeinä lähdevideosta... ja nämä helpotuksen vuoksi exportataan ffmpeg:llä tilapäisesti
+					- ent: voiceover-audio
+				- space: esim. acted-clip
+					- ent: source-video-zone
+					- ent: script[scene] -> klipit tarvii editoida seuraamaan skriptiä  ... (linkitetty hierarkiassa ylös ja alas)
+					- ent: b-roll order -> nämä videot tehdään tarpeen tullen
+			- ent: export -> punainen lanka koko osan skriptille
+				- comp: storyline[part]
+				- comp: script[part] (linkitetty hierarkiassa ylös ja alas)
+				- comp: screenplay
+		- ent: export
+			- comp: storyline[full-video]
+			- comp: script[full-video]
