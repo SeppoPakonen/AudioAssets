@@ -1,7 +1,7 @@
 {
 	"id": 1,
 	"hash": "-1793033956050569595",
-	"highest_seen_serial": 25348,
+	"highest_seen_serial": 33693,
 	"seen_types": [
 
 	],
@@ -23,7 +23,7 @@
 		"is_ref": false,
 		"is_definition": false,
 		"is_disabled": false,
-		"(int64&)serial": 25312,
+		"(int64&)serial": 33611,
 		"has_ext": false,
 		"sub": [
 			{
@@ -44,7 +44,7 @@
 				"is_ref": false,
 				"is_definition": false,
 				"is_disabled": false,
-				"(int64&)serial": 25322,
+				"(int64&)serial": 33621,
 				"has_ext": false,
 				"sub": [
 					{
@@ -65,7 +65,7 @@
 						"is_ref": false,
 						"is_definition": false,
 						"is_disabled": false,
-						"(int64&)serial": 25320,
+						"(int64&)serial": 33619,
 						"has_ext": true,
 						"ext": {
 							"data": [
@@ -285,7 +285,7 @@
 						"is_ref": false,
 						"is_definition": false,
 						"is_disabled": false,
-						"(int64&)serial": 25348,
+						"(int64&)serial": 33689,
 						"has_ext": false,
 						"sub": [
 							{
@@ -306,7 +306,7 @@
 								"is_ref": false,
 								"is_definition": false,
 								"is_disabled": false,
-								"(int64&)serial": 25334,
+								"(int64&)serial": 33633,
 								"has_ext": true,
 								"ext": {
 									"data": [
@@ -1553,7 +1553,7 @@
 								"is_ref": false,
 								"is_definition": false,
 								"is_disabled": false,
-								"(int64&)serial": 25346,
+								"(int64&)serial": 33685,
 								"has_ext": false,
 								"sub": [
 									{
@@ -1574,7 +1574,7 @@
 										"is_ref": false,
 										"is_definition": false,
 										"is_disabled": false,
-										"(int64&)serial": 25340,
+										"(int64&)serial": 33639,
 										"has_ext": false,
 										"sub": [
 											{
@@ -1595,7 +1595,7 @@
 												"is_ref": false,
 												"is_definition": false,
 												"is_disabled": false,
-												"(int64&)serial": 25342,
+												"(int64&)serial": 33653,
 												"has_ext": true,
 												"ext": {
 													"data": [
@@ -1757,6 +1757,156 @@
 														"sub": [
 
 														]
+													},
+													{
+														"kind": 3309,
+														"id": "",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 26689,
+														"has_ext": true,
+														"ext": null,
+														"sub": [
+
+														]
+													},
+													{
+														"kind": 3310,
+														"id": "",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 27194,
+														"has_ext": true,
+														"ext": null,
+														"sub": [
+
+														]
+													},
+													{
+														"kind": 3311,
+														"id": "",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 27196,
+														"has_ext": true,
+														"ext": null,
+														"sub": [
+
+														]
+													},
+													{
+														"kind": 3109,
+														"id": "",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 28254,
+														"has_ext": true,
+														"ext": null,
+														"sub": [
+
+														]
+													},
+													{
+														"kind": 3110,
+														"id": "",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 28314,
+														"has_ext": true,
+														"ext": null,
+														"sub": [
+
+														]
+													},
+													{
+														"kind": 3111,
+														"id": "",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 28316,
+														"has_ext": true,
+														"ext": null,
+														"sub": [
+
+														]
 													}
 												]
 											}
@@ -1780,10 +1930,423 @@
 										"is_ref": false,
 										"is_definition": false,
 										"is_disabled": false,
-										"(int64&)serial": 23124,
+										"(int64&)serial": 33669,
 										"has_ext": false,
 										"sub": [
+											{
+												"kind": 1006,
+												"id": "dialog 1",
+												"type": "",
+												"(int64&)type_hash": 0,
+												"begin": {
+													"x": null,
+													"y": null
+												},
+												"end": {
+													"x": null,
+													"y": null
+												},
+												"(int64&)filepos_hash": 0,
+												"file": 1,
+												"is_ref": false,
+												"is_definition": false,
+												"is_disabled": false,
+												"(int64&)serial": 33665,
+												"has_ext": false,
+												"sub": [
+													{
+														"kind": 2001,
+														"id": "video-clip-1",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 33661,
+														"has_ext": true,
+														"ext": {
+															"data": [
+																{
+																	"key": "description",
+																	"value": null
+																},
+																{
+																	"key": "gender",
+																	"value": null
+																},
+																{
+																	"key": "ctx",
+																	"value": null
+																}
+															]
+														},
+														"sub": [
+															{
+																"kind": 3310,
+																"id": "",
+																"type": "",
+																"(int64&)type_hash": 0,
+																"begin": {
+																	"x": null,
+																	"y": null
+																},
+																"end": {
+																	"x": null,
+																	"y": null
+																},
+																"(int64&)filepos_hash": 0,
+																"file": 1,
+																"is_ref": false,
+																"is_definition": false,
+																"is_disabled": false,
+																"(int64&)serial": 32327,
+																"has_ext": true,
+																"ext": null,
+																"sub": [
 
+																]
+															}
+														]
+													},
+													{
+														"kind": 1006,
+														"id": "B-roll",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 32031,
+														"has_ext": false,
+														"sub": [
+
+														]
+													},
+													{
+														"kind": 2001,
+														"id": "export",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 33667,
+														"has_ext": true,
+														"ext": {
+															"data": [
+																{
+																	"key": "description",
+																	"value": null
+																},
+																{
+																	"key": "gender",
+																	"value": null
+																},
+																{
+																	"key": "ctx",
+																	"value": null
+																}
+															]
+														},
+														"sub": [
+															{
+																"kind": 3114,
+																"id": "",
+																"type": "",
+																"(int64&)type_hash": 0,
+																"begin": {
+																	"x": null,
+																	"y": null
+																},
+																"end": {
+																	"x": null,
+																	"y": null
+																},
+																"(int64&)filepos_hash": 0,
+																"file": 1,
+																"is_ref": false,
+																"is_definition": false,
+																"is_disabled": false,
+																"(int64&)serial": 32321,
+																"has_ext": true,
+																"ext": null,
+																"sub": [
+
+																]
+															}
+														]
+													}
+												]
+											},
+											{
+												"kind": 1006,
+												"id": "voiceover 1",
+												"type": "",
+												"(int64&)type_hash": 0,
+												"begin": {
+													"x": null,
+													"y": null
+												},
+												"end": {
+													"x": null,
+													"y": null
+												},
+												"(int64&)filepos_hash": 0,
+												"file": 1,
+												"is_ref": false,
+												"is_definition": false,
+												"is_disabled": false,
+												"(int64&)serial": 33681,
+												"has_ext": false,
+												"sub": [
+													{
+														"kind": 2001,
+														"id": "video-clip-1",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 33673,
+														"has_ext": true,
+														"ext": {
+															"data": [
+																{
+																	"key": "description",
+																	"value": null
+																},
+																{
+																	"key": "gender",
+																	"value": null
+																},
+																{
+																	"key": "ctx",
+																	"value": null
+																}
+															]
+														},
+														"sub": [
+															{
+																"kind": 3310,
+																"id": "",
+																"type": "",
+																"(int64&)type_hash": 0,
+																"begin": {
+																	"x": null,
+																	"y": null
+																},
+																"end": {
+																	"x": null,
+																	"y": null
+																},
+																"(int64&)filepos_hash": 0,
+																"file": 1,
+																"is_ref": false,
+																"is_definition": false,
+																"is_disabled": false,
+																"(int64&)serial": 32329,
+																"has_ext": true,
+																"ext": null,
+																"sub": [
+
+																]
+															}
+														]
+													},
+													{
+														"kind": 2001,
+														"id": "speech",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 33677,
+														"has_ext": true,
+														"ext": {
+															"data": [
+																{
+																	"key": "description",
+																	"value": null
+																},
+																{
+																	"key": "gender",
+																	"value": null
+																},
+																{
+																	"key": "ctx",
+																	"value": null
+																}
+															]
+														},
+														"sub": [
+															{
+																"kind": 3115,
+																"id": "",
+																"type": "",
+																"(int64&)type_hash": 0,
+																"begin": {
+																	"x": null,
+																	"y": null
+																},
+																"end": {
+																	"x": null,
+																	"y": null
+																},
+																"(int64&)filepos_hash": 0,
+																"file": 1,
+																"is_ref": false,
+																"is_definition": false,
+																"is_disabled": false,
+																"(int64&)serial": 32673,
+																"has_ext": true,
+																"ext": null,
+																"sub": [
+
+																]
+															}
+														]
+													},
+													{
+														"kind": 1006,
+														"id": "B-roll",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 32033,
+														"has_ext": false,
+														"sub": [
+
+														]
+													},
+													{
+														"kind": 2001,
+														"id": "export",
+														"type": "",
+														"(int64&)type_hash": 0,
+														"begin": {
+															"x": null,
+															"y": null
+														},
+														"end": {
+															"x": null,
+															"y": null
+														},
+														"(int64&)filepos_hash": 0,
+														"file": 1,
+														"is_ref": false,
+														"is_definition": false,
+														"is_disabled": false,
+														"(int64&)serial": 33683,
+														"has_ext": true,
+														"ext": {
+															"data": [
+																{
+																	"key": "description",
+																	"value": null
+																},
+																{
+																	"key": "gender",
+																	"value": null
+																},
+																{
+																	"key": "ctx",
+																	"value": null
+																}
+															]
+														},
+														"sub": [
+															{
+																"kind": 3114,
+																"id": "",
+																"type": "",
+																"(int64&)type_hash": 0,
+																"begin": {
+																	"x": null,
+																	"y": null
+																},
+																"end": {
+																	"x": null,
+																	"y": null
+																},
+																"(int64&)filepos_hash": 0,
+																"file": 1,
+																"is_ref": false,
+																"is_definition": false,
+																"is_disabled": false,
+																"(int64&)serial": 32325,
+																"has_ext": true,
+																"ext": null,
+																"sub": [
+
+																]
+															}
+														]
+													}
+												]
+											}
 										]
 									},
 									{
@@ -1804,7 +2367,7 @@
 										"is_ref": false,
 										"is_definition": false,
 										"is_disabled": false,
-										"(int64&)serial": 23503,
+										"(int64&)serial": 33687,
 										"has_ext": true,
 										"ext": {
 											"data": [
@@ -1823,7 +2386,31 @@
 											]
 										},
 										"sub": [
+											{
+												"kind": 3114,
+												"id": "",
+												"type": "",
+												"(int64&)type_hash": 0,
+												"begin": {
+													"x": null,
+													"y": null
+												},
+												"end": {
+													"x": null,
+													"y": null
+												},
+												"(int64&)filepos_hash": 0,
+												"file": 1,
+												"is_ref": false,
+												"is_definition": false,
+												"is_disabled": false,
+												"(int64&)serial": 31218,
+												"has_ext": true,
+												"ext": null,
+												"sub": [
 
+												]
+											}
 										]
 									}
 								]
@@ -1846,7 +2433,7 @@
 								"is_ref": false,
 								"is_definition": false,
 								"is_disabled": false,
-								"(int64&)serial": 23616,
+								"(int64&)serial": 33693,
 								"has_ext": true,
 								"ext": {
 									"data": [
@@ -1865,7 +2452,56 @@
 									]
 								},
 								"sub": [
+									{
+										"kind": 3112,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 30163,
+										"has_ext": true,
+										"ext": null,
+										"sub": [
 
+										]
+									},
+									{
+										"kind": 3113,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 30546,
+										"has_ext": true,
+										"ext": null,
+										"sub": [
+
+										]
+									}
 								]
 							}
 						]

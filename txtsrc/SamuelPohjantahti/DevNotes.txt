@@ -4,6 +4,11 @@
 		- space: 1_sävellys
 			- space: source-video
 				- ent: video-clip[1..n]
+					- comp: video-source-file
+					- comp: video-range
+					- comp: video-range-raudio
+					- comp: audio-transcript
+					- comp: transcript-proofread
 					- comp: storyline[scene]
 			- space: export-video
 				- space: esim. voiceover-klippi
