@@ -1,0 +1,1187 @@
+{
+	"id": 1,
+	"hash": "-1793033956050569595",
+	"highest_seen_serial": 38344,
+	"seen_types": [
+
+	],
+	"root": {
+		"kind": 22,
+		"id": "",
+		"type": "",
+		"(int64&)type_hash": 0,
+		"begin": {
+			"x": null,
+			"y": null
+		},
+		"end": {
+			"x": null,
+			"y": null
+		},
+		"(int64&)filepos_hash": 0,
+		"file": 1,
+		"is_ref": false,
+		"is_definition": false,
+		"is_disabled": false,
+		"(int64&)serial": 38322,
+		"has_ext": false,
+		"sub": [
+			{
+				"kind": 1006,
+				"id": "Taxi",
+				"type": "",
+				"(int64&)type_hash": 0,
+				"begin": {
+					"x": null,
+					"y": null
+				},
+				"end": {
+					"x": null,
+					"y": null
+				},
+				"(int64&)filepos_hash": 0,
+				"file": 1,
+				"is_ref": false,
+				"is_definition": false,
+				"is_disabled": false,
+				"(int64&)serial": 38332,
+				"has_ext": false,
+				"sub": [
+					{
+						"kind": 2001,
+						"id": "Mirja Pakonen",
+						"type": "",
+						"(int64&)type_hash": 0,
+						"begin": {
+							"x": null,
+							"y": null
+						},
+						"end": {
+							"x": null,
+							"y": null
+						},
+						"(int64&)filepos_hash": 0,
+						"file": 1,
+						"is_ref": false,
+						"is_definition": false,
+						"is_disabled": false,
+						"(int64&)serial": 38330,
+						"has_ext": true,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": {
+										"type": "String",
+										"value": "Female"
+									}
+								},
+								{
+									"key": "ctx",
+									"value": {
+										"type": "String",
+										"value": "Song1"
+									}
+								}
+							]
+						},
+						"sub": [
+							{
+								"kind": 3101,
+								"id": "",
+								"type": "",
+								"(int64&)type_hash": 0,
+								"begin": {
+									"x": null,
+									"y": null
+								},
+								"end": {
+									"x": null,
+									"y": null
+								},
+								"(int64&)filepos_hash": 0,
+								"file": 1,
+								"is_ref": false,
+								"is_definition": false,
+								"is_disabled": false,
+								"(int64&)serial": 5961,
+								"has_ext": true,
+								"ext": {
+									"name": "Mirja Pakonen",
+									"born": "1988-03-20",
+									"description": "Mirja Pakonen is a pop/edm/electronic artist from Northern Finland, Oulu. She enjous hiking, downhill skiing, socializing, playing in front of people, entertaining people.\r\nShe is usually happy, but has the dark side too.\r\n",
+									"environment": "Oulu, Finland. Dark winters and summers without sun setting down (close to the artic circle).\r\nShe lives in a busy settlement in the city which is the local melting pot of cultures.\r\n",
+									"roles": [
+
+									]
+								},
+								"sub": [
+
+								]
+							},
+							{
+								"kind": 3107,
+								"id": "",
+								"type": "",
+								"(int64&)type_hash": 0,
+								"begin": {
+									"x": null,
+									"y": null
+								},
+								"end": {
+									"x": null,
+									"y": null
+								},
+								"(int64&)filepos_hash": 0,
+								"file": 1,
+								"is_ref": false,
+								"is_definition": false,
+								"is_disabled": false,
+								"(int64&)serial": 5977,
+								"has_ext": true,
+								"ext": {
+									"data": [
+										{
+											"key": "native_name",
+											"value": {
+												"type": "WString",
+												"value": "Mirja Pakonen"
+											}
+										},
+										{
+											"key": "english_name",
+											"value": null
+										},
+										{
+											"key": "year_of_birth",
+											"value": {
+												"type": "int",
+												"value": 1988
+											}
+										},
+										{
+											"key": "year_of_career_begin",
+											"value": {
+												"type": "int",
+												"value": 2025
+											}
+										},
+										{
+											"key": "biography",
+											"value": {
+												"type": "WString",
+												"value": "Samuel has been singing for over 20 years. She started singing in a choir at the age of 11. She is a good and skillful violinist.\r\n"
+											}
+										},
+										{
+											"key": "text_style",
+											"value": {
+												"type": "WString",
+												"value": "Street smart"
+											}
+										},
+										{
+											"key": "vibe_of_text",
+											"value": {
+												"type": "WString",
+												"value": "Mellow, rock, smooth"
+											}
+										},
+										{
+											"key": "natural_tools",
+											"value": {
+												"type": "WString",
+												"value": "Violin"
+											}
+										},
+										{
+											"key": "electronic_tools",
+											"value": {
+												"type": "WString",
+												"value": "Phone"
+											}
+										},
+										{
+											"key": "speaker_visually",
+											"value": {
+												"type": "WString",
+												"value": "Long hair, smooth, young, mid-length, dark clothes."
+											}
+										},
+										{
+											"key": "visual_gender",
+											"value": {
+												"type": "String",
+												"value": "Female"
+											}
+										},
+										{
+											"key": "language",
+											"value": {
+												"type": "int",
+												"value": 2
+											}
+										}
+									]
+								},
+								"sub": [
+
+								]
+							},
+							{
+								"kind": 3100,
+								"id": "",
+								"type": "",
+								"(int64&)type_hash": 0,
+								"begin": {
+									"x": null,
+									"y": null
+								},
+								"end": {
+									"x": null,
+									"y": null
+								},
+								"(int64&)filepos_hash": 0,
+								"file": 1,
+								"is_ref": false,
+								"is_definition": false,
+								"is_disabled": false,
+								"(int64&)serial": 6165,
+								"has_ext": true,
+								"ext": {
+									"name": "Mirja Pakonen",
+									"created": "2025-02-05",
+									"description": "Mirja Pakonen is 36 year old female, with artistic background and strong family support for music making.",
+									"preferences": "Mirja likes her boyfriend and good fun. Her lifestyles are usually healthy, but few times in a year she will have fun big time with alcohol and cigarettes.",
+									"languages": [
+										1
+									]
+								},
+								"sub": [
+
+								]
+							}
+						]
+					},
+					{
+						"kind": 1006,
+						"id": "TaxiS01E01",
+						"type": "",
+						"(int64&)type_hash": 0,
+						"begin": {
+							"x": null,
+							"y": null
+						},
+						"end": {
+							"x": null,
+							"y": null
+						},
+						"(int64&)filepos_hash": 0,
+						"file": 1,
+						"is_ref": false,
+						"is_definition": false,
+						"is_disabled": false,
+						"(int64&)serial": 38334,
+						"has_ext": false,
+						"sub": [
+							{
+								"kind": 2001,
+								"id": "Entity",
+								"type": "",
+								"(int64&)type_hash": 0,
+								"begin": {
+									"x": null,
+									"y": null
+								},
+								"end": {
+									"x": null,
+									"y": null
+								},
+								"(int64&)filepos_hash": 0,
+								"file": 1,
+								"is_ref": false,
+								"is_definition": false,
+								"is_disabled": false,
+								"(int64&)serial": 38344,
+								"has_ext": true,
+								"ext": {
+									"data": [
+										{
+											"key": "description",
+											"value": null
+										},
+										{
+											"key": "gender",
+											"value": {
+												"type": "String",
+												"value": "Female"
+											}
+										},
+										{
+											"key": "ctx",
+											"value": {
+												"type": "String",
+												"value": "Song1"
+											}
+										}
+									]
+								},
+								"sub": [
+									{
+										"kind": 3200,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 33884,
+										"has_ext": true,
+										"ext": {
+											"title": "Electro-pop",
+											"date": "2025-02-04",
+											"data": [
+
+											],
+											"ideas": [
+
+											],
+											"year_of_content": 2022,
+											"lyric_summaries": [
+
+											],
+											"song_analysis": [
+
+											],
+											"analysis": [
+
+											],
+											"cover_suggestions": [
+
+											]
+										},
+										"sub": [
+
+										]
+									},
+									{
+										"kind": 3507,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 33886,
+										"has_ext": true,
+										"ext": null,
+										"sub": [
+
+										]
+									},
+									{
+										"kind": 3103,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 33888,
+										"has_ext": true,
+										"ext": {
+											"simple_attrs": [
+
+											],
+											"clr_list": [
+
+											],
+											"actions_enabled": [
+
+											],
+											"phrase_parts[0]": [
+
+											],
+											"phrase_parts[1]": [
+
+											],
+											"phrase_parts[2]": [
+
+											]
+										},
+										"sub": [
+
+										]
+									},
+									{
+										"kind": 3508,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 33890,
+										"has_ext": true,
+										"ext": {
+											"parts": [
+												{
+													"voice_type": 0,
+													"text_type": 0,
+													"text_num": 0,
+													"text_lines": 4,
+													"text_lines_per_sub": 4,
+													"person": "",
+													"el": {
+														"e": "All",
+														"at": {
+															"grp": "All",
+															"val": "All"
+														},
+														"clr": -1,
+														"a": {
+															"act": "All",
+															"arg": "All"
+														},
+														"t": -1,
+														"c": -1,
+														"s": 0
+													},
+													"sub": [
+														{
+															"lines": [
+																{
+																	"text": "you get to hang with me",
+																	"user_text": "Hang with me, my dear",
+																	"ex": "You get to spend time with me\n- You get to be in my company\n- I'm allowing you to be around me\n- I'm giving you the opportunity to hang out with me",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": "without romantic partner"
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+																		"Hang with me, my dear",
+																		"You can be around me, no catch",
+																		"You get to chill with me",
+																		"Spend time with me, no strings attached",
+																		"I'm lettin' you be in my circle",
+																		"Come hang out with me, you know the deal",
+																		"You'll get to kick it with me",
+																		"I'll allow you to be in my zone",
+																		"You get to ride with me, my friend",
+																		"Be in my company, no doubt"
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 38,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 2,
+																	"connector": 0,
+																	"line_begin": ""
+																},
+																{
+																	"text": "if you need it then i got it for sale",
+																	"user_text": "I'll sell you what you need to hear",
+																	"ex": "If you ever find yourself in need, know that I have what you're looking for and I'm willing to provide it for you, for a price.",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": "consumerism"
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+																		"I'll sell you what you need to hear",
+																		"Just buy my words with a match",
+																		"But lyrics come at a fee",
+																		"But my words still have a price to match",
+																		"But lyrics don't come free, they gotta be purple",
+																		"My lyrics are the only thing that's real",
+																		"But my words ain't free, gotta pay the fee",
+																		"But lyrics come at a price, gotta pay the loan",
+																		"Just know my words come with a dividend",
+																		"But my lyrics come at a cost, no way out"
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 38,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 2,
+																	"connector": 0,
+																	"line_begin": ""
+																},
+																{
+																	"text": "he receive it",
+																	"user_text": "I understand you, better than the rest",
+																	"ex": "He takes whatever drugs or services you are offering and accepts them without hesitation. It's something he's used to, this transactional nature of your relationship. He knows what he wants and you always have it available for him, without question. And he receives it, eagerly and without any shame. He knows that you understand his needs, and he trusts you to fulfill them. It's a strange dynamic, one that not many people understand, but it works for the both of you. And in this moment, as you stand together in this shady motel, it's just another transaction for him. But for you, it's a connection that goes beyond words.",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": "organized religion"
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+																		"I see right through ya, and you tryna hide",
+																		"Ya know I know ya, but you still surprise",
+																		"You receive it eagerly, without any shame",
+																		"We be wildin' out, every Friday night",
+																		"I understand you, better than the rest",
+																		"Our transactional love, is misunderstood"
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 38,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 2,
+																	"connector": 2,
+																	"line_begin": ""
+																},
+																{
+																	"text": "ya know i know ya",
+																	"user_text": "And you know that, 'cause you put it to the test.",
+																	"ex": "And I just want you to understand, deep down inside, that I know you better than anyone else. I know all your secrets, your desires, your fears. And I get it, I see you for who you truly are. And you know what? I love you for it. I love every single part of you, even the parts you try to hide. Because to me, there's something special about your flaws, your vulnerabilities. So yeah, you may not always open up to me, but hey, I still know ya.",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": "reasonable"
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+																		"But I still love you, flaws and pride.",
+																		"Broken and beautiful, in my eyes.",
+																		"But you don't really see, our connection's game.",
+																		"But when it's just us, it feels so right.",
+																		"And you know that, 'cause you put it to the test.",
+																		"But we both know it feels, oh so good."
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 38,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 2,
+																	"connector": 1,
+																	"line_begin": ""
+																}
+															],
+															"el": {
+																"e": "exposition",
+																"at": {
+																	"grp": "",
+																	"val": ""
+																},
+																"clr": -1,
+																"a": {
+																	"act": "",
+																	"arg": ""
+																},
+																"t": -1,
+																"c": -1,
+																"s": 0
+															},
+															"story": "I can't believe it, I'm standing here with you. After all the shit we've been through, all the wild nights and crazy highs, we're still together. And goddamn, I love it.\nBut you know me, always searching for something new, something different. And that's how I ended up hanging with you, without a romantic partner in sight. You were a breath of fresh air, a wild thing in this consumerism-driven world we live in.\nBut now, things have changed. We're more than just friends, more than just two people who enjoy a good fuck. And all I really want is you, every single part of you. Not just your body, but your soul, your mind, your dirty thoughts.\nSo yeah, I'm moving in closer, not giving a singular fuck about anyone or anything else. Because when I'm with you, everything else fades away. All I see is you, all I feel is you.\nAnd yeah, maybe it's reckless, maybe it's wild, but damn it feels good. Like we're both running away from the norms of this society, into our own little world where it's just you and me.\nBut little did I know, getting involved with you also meant getting involved in some dangerous shit. But right now, I don't care. Because baby, you were worth it. And I know you got me, just like I got you.\nBut before we get into all that, let's just enjoy this moment. Together, in this shady motel, dressed like wild things and not giving a fuck. Just like the lyrics say, \"I was wild, and that's when I met you yeah.\" And damn, am I glad I did."
+														}
+													],
+													"phrase_parts": [
+
+													],
+													"story": "I swear, I never expected our friendship to turn into this. Standing here with you, dressed like wild things in this shady motel, I can't help but feel a rush of desire. All I want is you, not just your body, but every part of you. And I know you feel the same way too.\nBut things have changed, we're more than just friends now. We're like two rebels, running away from the norms of this society into our own little world. And damn, it feels so good. We're like two wild things, not giving a fuck about anyone or anything else.\nBut it hasn't always been easy, we've been through some crazy shit together. And now we might be getting involved in some dangerous stuff. But I don't care, as long as I have you by my side.\nSo let's just enjoy this moment, in all our wild and reckless glory. Because we're both wild and free, and we met each other in the most unexpected way. But we're here now, and I'm not letting go. You can bet your sweet ass on that."
+												},
+												{
+													"voice_type": 0,
+													"text_type": 2,
+													"text_num": 0,
+													"text_lines": 4,
+													"text_lines_per_sub": 4,
+													"person": "",
+													"el": {
+														"e": "climax",
+														"at": {
+															"grp": "emotional realism",
+															"val": "All"
+														},
+														"clr": -1,
+														"a": {
+															"act": "All",
+															"arg": "All"
+														},
+														"t": -1,
+														"c": -1,
+														"s": 0
+													},
+													"sub": [
+														{
+															"lines": [
+																{
+																	"text": "and now were more than friends",
+																	"user_text": "",
+																	"ex": "And now, after all this time, we've crossed the line from friendship into something more. We've taken that leap of faith, risking our comfortable and familiar dynamic for something deeper and more passionate. But it's worth it. It's worth it to be more than just friends, because being with you feels like coming home.",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+																		"U don't even know it, but u're all I really want now",
+																		"Came in like a friend, now I'm drowning in your love",
+																		"We were just friends, now all I want is your heart",
+																		"Who knew we'd end up here, love's surprise got us caught",
+																		"Every time I look at you, I see more than just friends",
+																		"My heart's blurred, can't tell where friendship ends and love starts"
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 38,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 2,
+																	"connector": 1,
+																	"line_begin": ""
+																},
+																{
+																	"text": "now all i really want is you",
+																	"user_text": "",
+																	"ex": "Now that we have crossed the line from friendship to something more, my heart is consumed with one thought - you. Every moment, every breath, every beat of my heart is filled with the longing to be with you. My world is incomplete without you in it, and I can't bear the thought of you not being by my side. All I want is to be with you, to hold you close and never let go. My heart aches for your presence, and I can't deny this undeniable truth - you are all I really want.",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																},
+																{
+																	"text": "into my world",
+																	"user_text": "",
+																	"ex": "",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "reality",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																},
+																{
+																	"text": "baby please come back",
+																	"user_text": "",
+																	"ex": "",
+																	"el": {
+																		"e": "tension",
+																		"at": {
+																			"grp": "All",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																}
+															],
+															"el": {
+																"e": "climax",
+																"at": {
+																	"grp": "",
+																	"val": ""
+																},
+																"clr": -1,
+																"a": {
+																	"act": "",
+																	"arg": ""
+																},
+																"t": -1,
+																"c": -1,
+																"s": 0
+															},
+															"story": "As we stood there in that dingy motel room, the heat between us was undeniable. We had always been close, but something had shifted between us. The air was charged with tension, and our eyes spoke volumes without a single word being said.\nAnd then, in that moment, as if the universe was conspiring in our favor, our lips met in a fiery kiss. It was like the climax of all the subtle moments and hidden desires we had shared.\nI couldn't hold back any longer, all I wanted was you. Your body against mine, your breath on my skin, your hands tangled in my hair.\nAnd as we fell onto the bed, our clothes being discarded and our bodies becoming one, I couldn't help but think how crazy it all was. How we went from friends to this, and how it all felt so damn good.\nWe were two wild things, lost in our own little world, not giving a fuck about anyone or anything else. And in that moment, it was all that mattered.\nBut as the night went on, and our bodies intertwined and explored each other, I couldn't help but think about the dangers we were getting ourselves into. The illegal activities we were involved in and the risky behavior we were engaging in.\nBut then I looked into your eyes, and I knew I would follow you anywhere. Because we were wild and free, and nothing or no one could stop us.\nIn that moment, we were untamed and unbridled, and I never wanted it to end.\nBut as we caught our breath and laid there in each other's arms, I couldn't help but wonder what would happen next. Would this be a one-time thing? Or would we continue on this wild journey together?\nAll I knew was that I didn't want to let you go. And as I felt your hand trailing down my body, I knew you felt the same way too."
+														}
+													],
+													"phrase_parts": [
+
+													],
+													"story": "As I lay there next to you, our bodies tangled and our clothes scattered, I couldn't help but think how wild things had become. From friends to lovers, from tame to untamed. But damn, it felt good.\nAnd I knew you felt it too, as your hands explored every inch of my skin and our passion only grew stronger. We weren't just two wild things anymore, we were wild and reckless and oh so free.\nBut as the night went on, my mind couldn't help but wander to the dangers we faced. The illegal activities we were caught up in and the risky behavior we engaged in.\nBut then I looked into your eyes and I knew, I would follow you anywhere. Because you were my partner in crime, my fellow rebel, and nothing could stop us. Not society's expectations, not the law, not anyone.\nWe were unstoppable, wild and free, and I never wanted it to end. I wanted to continue running with you, always breaking the rules and living on the edge.\nBut for now, I was content to lay here with you, indulging in our wild desires and forgetting about everything else.\nBecause when I was with you, nothing else mattered. And as our bodies moved together in perfect sync, I knew I had found my wild thing in you. And I never wanted to let go."
+												},
+												{
+													"voice_type": 0,
+													"text_type": 0,
+													"text_num": 1,
+													"text_lines": 4,
+													"text_lines_per_sub": 4,
+													"person": "",
+													"el": {
+														"e": "plot twist",
+														"at": {
+															"grp": "All",
+															"val": "All"
+														},
+														"clr": -1,
+														"a": {
+															"act": "All",
+															"arg": "All"
+														},
+														"t": -1,
+														"c": -1,
+														"s": 0
+													},
+													"sub": [
+														{
+															"lines": [
+																{
+																	"text": "i was wild",
+																	"user_text": "",
+																	"ex": "I was living life on the edge, defying society's expectations and embracing my wild side. I didn't care about rules or consequences, as long as I felt free and alive. But then I met you, and everything changed. Suddenly, I was willing to let my guard down and get close to someone. And that's when I realized how wild and reckless I could be with you by my side. The more we explored each other, the more I let go of my inhibitions and just enjoyed the moment. And in that moment, nothing else mattered.",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "expression",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																},
+																{
+																	"text": "and that's when i met you yeah",
+																	"user_text": "",
+																	"ex": "",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																},
+																{
+																	"text": "if i move in closer",
+																	"user_text": "",
+																	"ex": "",
+																	"el": {
+																		"e": "obstacle",
+																		"at": {
+																			"grp": "",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																},
+																{
+																	"text": "and not giving a singular fuck",
+																	"user_text": "",
+																	"ex": "",
+																	"el": {
+																		"e": "surprise",
+																		"at": {
+																			"grp": "",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																}
+															],
+															"el": {
+																"e": "obstacle",
+																"at": {
+																	"grp": "",
+																	"val": ""
+																},
+																"clr": -1,
+																"a": {
+																	"act": "",
+																	"arg": ""
+																},
+																"t": -1,
+																"c": -1,
+																"s": 0
+															},
+															"story": "I looked at you lying next to me, your hair tousled and your skin glistening with sweat. We had just explored each other's bodies, our wild desires consuming us. And damn, it had been good.\nBut now, as the night wore on and the adrenaline faded, I couldn't help but feel a sense of unease. We were in deep shit. Illegal shit. And it was only a matter of time before it caught up with us.\n\"You okay?\" you asked, sensing my concern.\nI shook my head. \"No, I'm not okay. We're involved in some dangerous stuff here. And I don't know if I can handle it.\"\nYou rolled over to face me, your serious expression matching mine. \"But we've come this far. We can't back out now.\"\nI knew you were right. We were in too deep. And I couldn't deny the rush I got from being with you, doing all these reckless things. But the consequences...they were starting to weigh on me.\nJust then, a loud knock on the door interrupted our thoughts. We froze, our eyes locked in fear.\n\"Shit, it's the cops,\" I whispered.\nBut you were already out of bed, grabbing your clothes and throwing them on. \"We have to go. Now.\"\nI followed suit, hastily getting dressed as the knocking grew more persistent. As we scrambled to leave, I couldn't help but wonder if this was it. The end of our wild and reckless adventure.\nBut then I remembered your words from earlier, about not backing down. And I knew I would follow you anywhere.\nAs we snuck out of the motel room and ran to your car, I couldn't help but feel a thrill of excitement. This was our life now. Running from the law, doing whatever the hell we wanted. And I wouldn't have it any other way.\nBut as we drove off into the night, I couldn't shake off the lingering tension. We were in danger, there was no denying that. But you were by my side, and that was all that mattered.\nWe were two wild things, always ready for whatever life threw our way. And as long as we were together, I knew we could handle anything."
+														}
+													],
+													"phrase_parts": [
+
+													],
+													"story": "I couldn't believe we were in this situation. Me and you, both wild and reckless, now facing the consequences of our actions.\nAs we drove away from the motel, my heart was racing and my mind was filled with fear and excitement. But there was no going back now.\nWe had always been two wild things, defying society's expectations and living life on our own terms. And damn, it had been freeing. But now, the dangers were catching up to us.\nBut I didn't care, as long as I had you by my side. Because you were my wild thing, my partner in crime. And I would follow you anywhere.\nAs our bodies lay intertwined in the backseat of the car, I couldn't help but feel a sense of urgency. We needed to escape, to run away from the law and all our troubles.\nYou whispered dirty words in my ear, igniting a fire within me. And just like that, we were back to being wild and reckless. Losing ourselves in the heat and passion.\nBut as the night wore on, I couldn't help but think about the upcoming lyrics. You knew how it felt, the thrill of living on the edge. And you had me, always by your side.\nWe were unstoppable, wild and free. And I wouldn't want it any other way."
+												},
+												{
+													"voice_type": 0,
+													"text_type": 3,
+													"text_num": -1,
+													"text_lines": 2,
+													"text_lines_per_sub": 2,
+													"person": "",
+													"el": {
+														"e": "resolution",
+														"at": {
+															"grp": "All",
+															"val": "All"
+														},
+														"clr": -1,
+														"a": {
+															"act": "All",
+															"arg": "All"
+														},
+														"t": -1,
+														"c": -1,
+														"s": 0
+													},
+													"sub": [
+														{
+															"lines": [
+																{
+																	"text": "now you know how it feels",
+																	"user_text": "",
+																	"ex": "",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": "confident"
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																},
+																{
+																	"text": "you know that i got you",
+																	"user_text": "",
+																	"ex": "",
+																	"el": {
+																		"e": "",
+																		"at": {
+																			"grp": "",
+																			"val": ""
+																		},
+																		"clr": -1,
+																		"a": {
+																			"act": "",
+																			"arg": ""
+																		},
+																		"t": -1,
+																		"c": -1,
+																		"s": 0
+																	},
+																	"suggs": [
+
+																	],
+																	"pp_i": -1,
+																	"end_pp_i": -1,
+																	"style_type": 0,
+																	"style_entity": 0,
+																	"safety": 0,
+																	"line_len": 0,
+																	"connector": 0,
+																	"line_begin": ""
+																}
+															],
+															"el": {
+																"e": "happy ending",
+																"at": {
+																	"grp": "",
+																	"val": ""
+																},
+																"clr": -1,
+																"a": {
+																	"act": "",
+																	"arg": ""
+																},
+																"t": -1,
+																"c": -1,
+																"s": 0
+															},
+															"story": "Now I'm not one to boast, but I'd say I'm pretty confident. And standing here with you, knowing that you're mine, only adds to that feeling.\nAs we drive towards our next adventure, I can't help but notice the way your hand rests on my thigh. It's possessive and possessiveness looks damn good on you.\nBut as we continue singing along to the radio, I know that you're more than just my possession. You're my partner, my equal, my ride or die.\nAnd when we finally reach our destination, we waste no time in tearing each other's clothes off. We're like animals, hungry and primal.\nBut you know how to bring out my soft side too, whispering sweet nothings in my ear as we move together in perfect harmony.\nAnd as we both reach our climax, I know that this is our happy ending. No matter what the future holds, we'll always have each other, our wild and reckless love.\nSo let's raise our glasses to being confident and carefree, to being unstoppable and wild and free. Because we're two wild things in love, and nothing can ever change that."
+														}
+													],
+													"phrase_parts": [
+
+													],
+													"story": "I never thought I'd find my happy ending, but here I am, with you by my side. We're like two wild things, breaking all the rules and loving every minute of it. And damn, you know how to get me going.\nAs we pull into a secluded spot, we both know what's about to go down. But it's not just about the physical pleasure, it's about the connection we have. The way we move together in perfect sync, like two withered pieces of the puzzle, fitting together perfectly.\nAnd when we're finished, our bodies glistening with sweat and our breaths heavy, I know that this is our happy ending. With you, I feel free and untamed, like nothing else in the world matters.\nSo let's keep running, my wild thing, towards our next adventure, our next reckless move. Because as long as we have each other, nothing can stop us. And I wouldn't want it any other way."
+												}
+											]
+										},
+										"sub": [
+
+										]
+									},
+									{
+										"kind": 3104,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 33892,
+										"has_ext": true,
+										"ext": {
+											"name": "",
+											"content_vision": "",
+											"copyright": "",
+											"description": "",
+											"lang": "",
+											"text": "",
+											"suggestions": [
+
+											],
+											"is_unsafe": false,
+											"is_story": false,
+											"is_self_centered": false
+										},
+										"sub": [
+
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
