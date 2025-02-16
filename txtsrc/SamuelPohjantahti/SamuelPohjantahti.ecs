@@ -1,7 +1,7 @@
 {
 	"id": 1,
 	"hash": "-1793033956050569595",
-	"highest_seen_serial": 33693,
+	"highest_seen_serial": 180181,
 	"seen_types": [
 
 	],
@@ -23,7 +23,7 @@
 		"is_ref": false,
 		"is_definition": false,
 		"is_disabled": false,
-		"(int64&)serial": 33611,
+		"(int64&)serial": 180101,
 		"has_ext": false,
 		"sub": [
 			{
@@ -44,7 +44,7 @@
 				"is_ref": false,
 				"is_definition": false,
 				"is_disabled": false,
-				"(int64&)serial": 33621,
+				"(int64&)serial": 180111,
 				"has_ext": false,
 				"sub": [
 					{
@@ -65,7 +65,7 @@
 						"is_ref": false,
 						"is_definition": false,
 						"is_disabled": false,
-						"(int64&)serial": 33619,
+						"(int64&)serial": 180109,
 						"has_ext": true,
 						"ext": {
 							"data": [
@@ -285,7 +285,7 @@
 						"is_ref": false,
 						"is_definition": false,
 						"is_disabled": false,
-						"(int64&)serial": 33689,
+						"(int64&)serial": 180173,
 						"has_ext": false,
 						"sub": [
 							{
@@ -306,7 +306,7 @@
 								"is_ref": false,
 								"is_definition": false,
 								"is_disabled": false,
-								"(int64&)serial": 33633,
+								"(int64&)serial": 180123,
 								"has_ext": true,
 								"ext": {
 									"data": [
@@ -502,12 +502,12 @@
 																		"e": "",
 																		"at": {
 																			"grp": "",
-																			"val": "authentic"
+																			"val": ""
 																		},
 																		"clr": -1,
 																		"a": {
-																			"act": "",
-																			"arg": ""
+																			"act": "bias",
+																			"arg": "expressing belief in control/power"
 																		},
 																		"t": -1,
 																		"c": -1,
@@ -1553,7 +1553,7 @@
 								"is_ref": false,
 								"is_definition": false,
 								"is_disabled": false,
-								"(int64&)serial": 33685,
+								"(int64&)serial": 180169,
 								"has_ext": false,
 								"sub": [
 									{
@@ -1574,7 +1574,7 @@
 										"is_ref": false,
 										"is_definition": false,
 										"is_disabled": false,
-										"(int64&)serial": 33639,
+										"(int64&)serial": 180129,
 										"has_ext": false,
 										"sub": [
 											{
@@ -1595,7 +1595,7 @@
 												"is_ref": false,
 												"is_definition": false,
 												"is_disabled": false,
-												"(int64&)serial": 33653,
+												"(int64&)serial": 180137,
 												"has_ext": true,
 												"ext": {
 													"data": [
@@ -1614,150 +1614,6 @@
 													]
 												},
 												"sub": [
-													{
-														"kind": 3209,
-														"id": "",
-														"type": "",
-														"(int64&)type_hash": 0,
-														"begin": {
-															"x": null,
-															"y": null
-														},
-														"end": {
-															"x": null,
-															"y": null
-														},
-														"(int64&)filepos_hash": 0,
-														"file": 1,
-														"is_ref": false,
-														"is_definition": false,
-														"is_disabled": false,
-														"(int64&)serial": 23696,
-														"has_ext": true,
-														"ext": {
-															"value": {
-																"type": "ValueMap",
-																"value": [
-																	{
-																		"key": {
-																			"type": "String",
-																			"value": ".kind"
-																		},
-																		"value": {
-																			"type": "int",
-																			"value": 4001
-																		}
-																	},
-																	{
-																		"key": {
-																			"type": "String",
-																			"value": "test 1"
-																		},
-																		"value": {
-																			"type": "ValueMap",
-																			"value": [
-																				{
-																					"key": {
-																						"type": "String",
-																						"value": ".kind"
-																					},
-																					"value": {
-																						"type": "int",
-																						"value": 4002
-																					}
-																				}
-																			]
-																		}
-																	},
-																	{
-																		"key": {
-																			"type": "String",
-																			"value": "test 2"
-																		},
-																		"value": {
-																			"type": "ValueMap",
-																			"value": [
-																				{
-																					"key": {
-																						"type": "String",
-																						"value": ".kind"
-																					},
-																					"value": {
-																						"type": "int",
-																						"value": 4002
-																					}
-																				}
-																			]
-																		}
-																	},
-																	{
-																		"key": {
-																			"type": "String",
-																			"value": "test 3"
-																		},
-																		"value": {
-																			"type": "ValueMap",
-																			"value": [
-																				{
-																					"key": {
-																						"type": "String",
-																						"value": ".kind"
-																					},
-																					"value": {
-																						"type": "int",
-																						"value": 4002
-																					}
-																				}
-																			]
-																		}
-																	},
-																	{
-																		"key": {
-																			"type": "String",
-																			"value": "transcription"
-																		},
-																		"value": {
-																			"type": "WString",
-																			"value": " No  niin,  yhdoinkin  tämä  toimii. \nNo speech\n Eli  siis  tuota  noin. \nNo speech\n Joo,  elikäs. \nNo speech\n Tässäksä  keskittyy  näihin  sanoituksiinkin,  mutta  ei  millään. \nNo speech\n Periaatteessa  minulla  pitäisi  noimakin  näkyä  tälleen  vähintään. \nNo speech\n Näin. \nNo speech\n Ja  ja. \nNo speech\n Tuota  tuota. \nNo speech\n Mitä  tähän  sitten  sanoisi. \nNo speech\n Elikäs. \nNo speech\n En  minä  pysty  keskittyä,  tämä  on  liian  vaativaa. \nNo speech\n Eli  siis  tuon  videoon  kanssa. \nNo speech\n Eli  tämä  on  nyt  tämä  tämmöinen  vaativa  osuus. \nNo speech\n Eli  periaatteessa. \nNo speech\n Tämä  ei  ole  todellakaan  kiveen  hakattu,  mutta  helvetin  hidas  tähän  tehdään  muutoksia. \n Silloin  semmoista. \n Silloin  semmoista. \nNo speech\n Viskosia. \nNo speech\n Kuuta. \nNo speech\n Ei  ole  kiveestä  hakattu,  mutta  on  helvetin  hitaasti  liukuvasta  räästä. \n Niin  näistä  vaan  luvaraikä. \nNo speech\n Eli  tuota. \nNo speech\n Silleen. \nNo speech\n Ööö. \nNo speech\n Tuota  tuota. \nNo speech\n Okei. \n Siis. \n Siis. \n Okei. \n Joku  voisi  väittää,  että  mulla  ei  ole  sielua  tässä  mukana  nyt. \nNo speech\n Mut  siis  mun  mielestä  sillon  kun  mä. \nNo speech\n Mun  mielestä  sillon  kun  mä  niinku  saan  paljon  valittua  tässä  asioita  omaan  mieleen  mukaan. \nNo speech\n Niin  siitä  tulee  just  se  mun  näkönen  tuote. \n Ja  se. \nNo speech\n Siihen  ei  tarvita  mitään  henkien  kanavoimista  sanoituksiksi. \nNo speech\n Ja  tuota. \nNo speech\n Siihen  sanottakoon  niin,  että  tuota. \nNo speech\n Vielä  sekin,  että  ei  mulla  ole  mitään  sitä  vastaan. \nNo speech\n Mutta  nämä  nykyartistit,  jotka  väittää  tekevät  jotakin  henkevää. \nNo speech\n Niin  ne  yleensä  vaan  niinku  kopioi  mahdollisimman  halvalla  niinku  muita  ihmisiä  silleen. \nNo speech\n Et  se  kopiointi  on. \nNo speech\n Ne  ei  oikeestaan  kunnollais  yritä,  että  ne  vaan  kopioi. \nNo speech\n Niin. \nNo speech\n Sanotaanko  näin,  että  just  sitä  mä  en  arvosta. \nNo speech\n Eli  niiden  mielestä,  että  se  kuuluu. \nNo speech\n Mun  kuuluis  mennä  leikkimään  niiden  kanssa. \nNo speech\n Ja  käyttäen  sitä  törkeätä  kopiointimenetelmää. \nNo speech\n Joka  on  mun  mielestä  epäoikeudenmukaisia. \nNo speech\n Ja  niinku. \nNo speech\n Tai  miten  se  nyt  sanotaankaan. \nNo speech\n Ei  se  ehkä  oikeusasia,  vaan  se  on  niinku  epäaidoin. \n Mun  mielestä  epäaidoita  on  niinku  se. \nNo speech\n Halpa  kopioiminen. \nNo speech\n Ja  että  lisää  vaan  vähän. \nNo speech\n Just  se,  että  otetaan  rock 'n  roll. \nNo speech\n Sointukaa  vai  tehdään  biisejä. \nNo speech\n Ja  silleen. \nNo speech\n Jotenkin  mielestä  se  on  just  se  juttu. \n Että  kopioidaan  vai. \nNo speech\n Selkeesti  ne  on  aika  tyhmiä. \nNo speech\n Ne  ei  oikeesti  yritä  edes  analysoida  isommassa  mittakaavassa  mitään. \nNo speech\n Että  sit  se  on  just  silleen,  että. \nNo speech\n Että  joo. \nNo speech\n Jo  en  tule  niiden  kanssa  toimeen. \nNo speech\n En  yritä  tulla  toimeen. \n Ja  tuota. \nNo speech\n Me  tehdään  joko  ihan  niinku  oikeita  oikeita  kanaavoimista. \nNo speech\n Tai  sitten  me  tehdään  tälleen. \nNo speech\n Oikeita  oikeita  mielipiteen  valitsemista  pikku  tarkasti. \n Että  ne  semmoset  fake. \nNo speech\n Ne  surkean  huonot  kopioit. \nNo speech\n Niinku  voi  painua  helvettiin. \nNo speech\n Että  tuota  niitä  on  nähty  liikaa. \nNo speech\n Nyt  sitten  ei  tarvi  edetä  semmosilla  vauvan  askelilla. \nNo speech\n Kopioimalla  mahdollisimman  paljon  muilta. \nNo speech\n Voi  olla  vähän  niinku  yksillisyyttä  ja  ainutlaatuisuuttakin  tässä  meiningissä. \nNo speech\n Kai  noitakin  kollektiivisteet,  jotka  puolustaa  sitä. \nNo speech\n Sen  sortin. \nNo speech\n Heikkolaatuista  menoa. \nNo speech\n Eli  tuota. \nNo speech\n Tää  ei  oo. \nNo speech\n Tää  ei  oo  nyt  niinku  edes  deterministinen  kohta. \nNo speech\n Eli  siis. \nNo speech\n Tää  on  vaikee. \nNo speech\n Nää  näkyy  olevan  järjestyksessä,  mutta  näitä  ei  oikeesti  käytetä  missään  tietyssä  järjestyksessä. \nNo speech\n Tää  on  aika  lailla  randomia  nyt  mennä  tästä. \nNo speech\n Ei  oo. \n Ongelma  on  tässä,  että  jos  tuo  ei  näytä  hyvältä. \nNo speech\n Meillä  on  surprising  trends  and  events  consequences  when  I'm  wake. \nNo speech\n Sitten  meillä  on  niinku. \nNo speech\n Mitä. \n Mä  en  tässä  niinku. \nNo speech\n En  mä  varsinaisesti  oo  tekoäly  ees  käyttänyt  tähän  mennessä  tässä  yhtään. \nNo speech\n Et  tuota. \nNo speech\n Niin. \nNo speech\n En  inkä  olekaan. \nNo speech\n Tää  on  niinku  ihan  vaan  niinku. \n\nNo speech\n Siis  tähän. \nNo speech\n Tähän  pisteisemmin  se  ei  oo  käytetty  tekoäly. \nNo speech\n Tää  on  mun  valittamista  tämä. \nNo speech\n Ja  tuota. \nNo speech\n Toki  tuo  kirjasto. \nNo speech\n Tuo  database. \nNo speech\n Miten  se  nyt  ajattelee. \nNo speech\n Mut  se  on  semmoista  niinku  dataa  minkä  vois  itekin  tehdä  helpolla. \nNo speech\n Mut  se  on  vaan  helvetin  työelästä. \nNo speech\n Et  se  tekoäly  ei  niinku  mitään  syvällistä  voi. \n Et  se  on  vaan  niinku. \nNo speech\n Se  on  vähän  niinku. \nNo speech\n Se  ei  oo  niinku. \nNo speech\n Large  language  model  juttuja  ennen. \nNo speech\n Siis  se  on  niitä. \nNo speech\n Se  on  paljon  helpompa  juttu. \n Et  se  on  vaan  niinku  classifier. \nNo speech\n Kun  meidän  pitää  luokitella  asioita. \nNo speech\n Et  se. \nNo speech\n Ei  se  oo  se  sama  tekoäly  mistä  nyt  puhutaan  tekoälynä. \n Et  se  on  vaan  niitä. \nNo speech\n Niitä  aiempia  neuroverkkojuttuja. \nNo speech\n Että  klassifioidaan  riiminpätkiä. \nNo speech\n Eli  mun  siis  vaan  tietokanta  mikä  on  klassifioitu. \n Se  on  siis  luokiteltu. \nNo speech\n Siinä  ei  oo. \nNo speech\n Tänä  miten  nykyään  puhutaan  tekoälystä. \nNo speech\n Niin  siinä  mielessä  ei  se  oo  tekoälyn  käyttö. \nNo speech\n Se  on  vaan  niinku  luokiteltu  tietokantaa. \nNo speech\n Ja  järjestetty  tietokantaa. \nNo speech\n Nykyään  vaikea. \nNo speech\n Mikä  on  niinku  totteja. \n Mikä  on  valehetta. \nNo speech\n Niinku  sanojen. \nNo speech\n Niinku  pinnallisessa  merkityksessä. \nNo speech\n\nNo speech\n Oon  ite  ollut  tekoälyn  mukana. \nNo speech\n Tässä  tekoälyhommissa. \nNo speech\n Kaikki  on  ollut  tekoälyä. \n Mut  sit  nyt  jos  puhuu  ihmisille. \nNo speech\n Niin. \n Se  ei  oo  kaas  se  samaa  tekoälyä. \n Vaan  niillä  on  se  poliittinen  tekoäly. \nNo speech\n Käytössä  puheessa. \nNo speech\n Eikä  niinkään  se  tekninen. \nNo speech\n Niinku  menneet  tosi  hankalaksi. \nNo speech\n Niinku  vaan  niinku  valita. \nNo speech\n Et  nähtävästi  se  nyt. \nNo speech\n Jos  puhutaan  ihan  viimisimmäistä  huipputekoälyistä. \nNo speech\n Mikä  on  niitä. \nNo speech\n OpenAIN,  GBT4,  OMNI. \nNo speech\n Missä  on  kuva,  ääni,  video. \nNo speech\n Kaikki  samassa. \nNo speech\n Se  on  niinku  large  language  model  sun  muuta. \nNo speech\n Niinni. \nNo speech\n Tää  mun  juttu  tää  tietokantahommali. \nNo speech\n Tää  on  kymmenen  vuotta  sitten  onnistunut. \nNo speech\n Siis  vaan  niinku. \nNo speech\n Siis  se. \nNo speech\n Puumuodet  lause. \nNo speech\n Siis. \nNo speech\n Joo. \nNo speech\n Siis  periaatteessa  niin  kauan  kauan  on  ollut  hakukoneita. \nNo speech\n Niin  se  on  onnistunut. \nNo speech\n Eli  siis. \nNo speech\n Mitä  kauan  meillä  Google  on  ollut  nyt. \nNo speech\n Et  siis. \nNo speech\n Nää  on  niinku. \nNo speech\n Periaatteessa  niinku  hakukoneet. \n Tampakaa  maa  tämän  mun  tietokannan  rakennus. \nNo speech\n Eli  siis. \nNo speech\n Ei  oo. \nNo speech\n Ei  puhuta  nyt  tekoälystä. \nNo speech\n Ellei  hakukoneen  käyttökin  ollut  koko  ajan  tekoälyn  käyttöä. \nNo speech\n Eli  silleen. \nNo speech\n Ja  mä  tein. \nNo speech\n Mä  niinku  tavallaan  backbortta  sen  tekoälyä  käyttäen  sen. \nNo speech\n Hakukoneversioon. \nNo speech\n Koska  se  oli  vaan  niinku. \nNo speech\n Halvempaa  ja  helpompaa  mulle  tehdä  sen  tätä  kautta. \nNo speech\n Se  olis  ollut  huomattavasti  työlämpää  tehdä  sillä. \nNo speech\n Vanhalla  enterprise  meiningillä  se  samaa. \nNo speech\n Koska. \n Niinku  mä  en  puolustautu  itselleen  jo  valmiiksi  näissä. \n Ja  se. \nNo speech\n Nää  puolustautumista  on  niinku  ihan  vedeen  pitäviä. \n Mutta  kun  no  on  niin  tyhmiä  no  ihmiset. \n Niinku  sä  sanot  sanaa. \nNo speech\n Niillä  on  ennakkokäsitys. \n Ja  se  on  se  super  negatiivinen. \nNo speech\n Ja  en  tiedä  mihin  ne  menneet  sillä  politiikalla. \nNo speech\n Mutta  siinä  ei  nyt  tällä  hetkellä  niinku  ei  päätä  eikä  häntä. \nNo speech\n Eli  siis  tuota. \nNo speech\n Joo. \nNo speech\n Ei  olla  käytetty  tekoälyä. \nNo speech\n Vielä  ollaan  käytetty  vasta  hakukonetta  kun  ollaan  tullut  tähän. \nNo speech\n Eli. \nNo speech\n Tuota. \nNo speech\n Tuota. \nNo speech\n Tuota. \nNo speech\n Tuota. \nNo speech\n Niinku. \nNo speech\n Party  club. \nNo speech\n Niin  mitä  mä  haluan  tehdä  tässä  biisissä. \nNo speech\n Missä  mä  haluan. \n Se  on  melankoinen  sad,  smith,  Lana  Del  Rey,  Stard  Entity,  Joy  Division  kuulostaa  hauskalta. \nNo speech\n Mä  teen  unsafeä. \nNo speech\n Line,  Lens,  Short. \n Lens,  Short. \nNo speech\n And  then,  tässä  nyt  mä  kävin  nämä  läpi. \nNo speech\n Mä  myös  voin,  sugi  ensisijaisuus  from  experts,  mä  voin  myös  silleen,  tämän  tekstin  perusteella  voi  arvioida  nämä. \nNo speech\n Ja  sitten  taas  tehdä  uuden  lintamä,  ja  se  on  sellainen  loop,  mitä  voi  tehdä  tosi  pitkään. \nNo speech\n Eli,  eli,  eli. \nNo speech\n Elikäs. \nNo speech\n Joko  mä  tämän  otti  nyt? \nNo speech\n Niin,  mä  otin  Limppitski  tinkö  tässä  tuli. \nNo speech\n Melanko  oliks  sad,  missä  vaihtoeh  tämä  vaihtui? \nNo speech\n Lana  Del  Reystä. \nNo speech\n Tai  jostakin. \nNo speech\n Enesti  iä. \nNo speech\n Se  luki  äsken  jotakin  ihan  muuta. \nNo speech\n Mä  voin  videota  kyl  kattoo  sen,  mut  siis  niinku. \nNo speech\n Okei,  Limppitskit,  okei. \nNo speech\n Mä  oon  vähän  enemmän  tupaksa  kurfiilikselä  tässä  nyt. \nNo speech\n Mitä  se  näyttäis? \nNo speech\n Mä  oon  vähässä. \nNo speech\n Mä  oon  vähässä. \nNo speech\n Mä  oon  vähässä,  mä  oon  vähässä. \nNo speech\n Mä  oon  vähässä. \nNo speech\n Mähässä. \nNo speech\n And  yet  as  I  lay  there  in  bed  surrounded. \nNo speech\n Kertoo  isommasta  yhteiskunnasta  tuo,  että  tavallaan  isomman  yhteiskunnan  pitäisi  resonanttahan  mind -nubbing  substances,  mutta  ne  ei  ole  tietoisia  omasta  toiminnasta,  niin  kannattaako  siihen  alkaa  edes? \nNo speech\n And  yet  as  I  lay  here  in  bed  surrounded. \n Ypätellään  oma  mind  raised  by  with  thoughts  of  danger. \nNo speech\n I  feel  invincible.  No  ei.  Ei  ole  yhtään  tässä.  Tämä  on  vain  reflektiviteisessa. \nNo speech\n Tämä  oli  se  yhti  mikä  vaikutti  tähän  mikä  tässä  tulee. \nNo speech\n Mennäänkin  pop  Dylan  maailmassa  kuitenkin. \nNo speech\n Mennäänkin. \nNo speech\n Jotenkin  menee. \n Jotenkin  menee. \n Mennäänkin.  Mennäänkin.  Mennäänkin. \n Jotenkin  menee  edelleen  tykkään  pop  Dylan. \nNo speech\n Tyylistä. \n Mennäänkin. \n\n Se  jotenkin  toimii. \nNo speech\n Kyy  maailmassa  hyvin  tasapainona. \nNo speech\n Mennäänkin. \nNo speech\n Mennäänkin. \n Mennäänkin. \nNo speech\n\nNo speech\n Mennäänkin. \n reflektiivillä  selkeästi  eteenpäin. \nNo speech\n Eli. \nNo speech\n Tota. \nNo speech\n Mä  tallennan. \nNo speech\n Paljon  mulla  F12. \nNo speech\n Tää  on  vähän. \nNo speech\n Hack. \nNo speech\n Mä  en  oo  tehny. \nNo speech\n Parempaa  mekanismia  vielä. \nNo speech\n Mutta. \nNo speech\n Joo. \nNo speech\n Onkö  meillä. \n Tää. \nNo speech\n Me  halutaan  ehkä  kuitenkin  käyttää  just  tätä  ekaa  sanaakin. \nNo speech\n When. \nNo speech\n Sit. \nNo speech\n Sit. \nNo speech\n Nyt  me  voidaan  pyytää  nää. \nNo speech\n Vaihtoehdot  tää. \nNo speech\n Nyt  me  ollaan  käytetty  ensimmäisen  kerran  tekoälyä  tässä. \nNo speech\n When  I  wake. \nNo speech\n You  can  see  me  now. \nNo speech\n Tää  vielä  niinku. \n Sais  olla  vieläkin  lyhyempi. \nNo speech\n Että. \nNo speech\n Tota. \nNo speech\n Mä  teen  tää  ehkä  vähän  huonosti  nyt. \nNo speech\n Nyt  on. \nNo speech\n Ei  oikein  tunnistaa. \nNo speech\n Tää  ei. \nNo speech\n Noudata  näitä  mun  ohjeita  kovin  hyvin  tällä  hetkellä. \n\nNo speech\n Sitten. \n Sitten. \nNo speech\n\n Toisaalta  jos  tää  ei  niinku. \nNo speech\n Mäkö  tekoälyä  nyt  melkeinpä  väärin  niinku  teknisesti  ottaenkin. \nNo speech\n Silloin  kun  tää  ei  enää  pysy  ohjeissa  niin  se  on. \nNo speech\n Jossakin  muualla. \nNo speech\n Jos  se  ei  tee  oikeesti  shorttia  niin  sitten  tää. \nNo speech\n Tässä  jotakin  mitä  se  ei  nyt. \n Suloata. \nNo speech\n When  I  wake  up. \nNo speech\n You  go  know  what  she  lost. \nNo speech\n When  I  wake  up. \nNo speech\n Tää  nyt  selkeesti  antaa  niinku. \n Tää  nyt  selkeesti  antaa  niinku. \nNo speech\n Tää  nyt  selkeesti  antaa  niinku. \n Melkein  niinku  jotakin. \nNo speech\n Viisiä  eikä  niinku  riimivaihtoehtoja. \nNo speech\n Et  tuota. \nNo speech\n Niin  tässä  oli  itessä  myös  tää  että  niinku. \nNo speech\n Et  se  tarvii  vielä  tietää. \nNo speech\n Sanoit  avoja. \nNo speech\n Eiku  niinkään  tehä  mä  tekoälyä  tässä  avoja  expandedissa. \nNo speech\n Joo. \nNo speech\n Okei  mennään  täällä  jokseenkin  eteenpäin. \nNo speech\n I  wake  and  see. \nNo speech\n Wake  up. \nNo speech\n Can  shake. \nNo speech\n This  dangerous  life  I  am  in. \nNo speech\n Shhh. \nNo speech\n I  wake  up  and  see. \nNo speech\n A  dangerous  life. \nNo speech\n Tää  nyt  täällä  mä  sitten  vaikka  mennään  tuolla. \n\nNo speech\n Eli  siis  tää  on. \nNo speech\n Mitähän  tää  tehtiinkään. \nNo speech\n Oha  nyt  mä  pilasin  toi. \nNo speech\n Mä  en  muista  mikä. \nNo speech\n Mitä  napiit  tekiin. \nNo speech\n Fuck. \nNo speech\n Mitä  meni  pilalla. \nNo speech\n Täällä. \n Ei  oo  control  setoa  tässä. \nNo speech\n Täs. \n Lillesi, \nNo speech\n\n Ii  pyniatä .retch \n gentlemenkin.  Taas. \nNo speech\n\nNo speech\n Täällä. \nNo speech\n Täällä. \nNo speech\n außerin.  Täällä. \nNo speech\n Manit. \n S  points  Гос  categories. \nNo speech\n\n\n\nNo speech\n Täällä  hetkikoneen. \nNo speech\n Mikä  on  hankalaa  pärkiltä,  että  tämä  Expanded  edes  oikein,  että  viritetään  tällä. \nNo speech\n When  I  wake  my  mic  can't  help  but  one  day. \nNo speech\n Tää  tylttas.  Kaiken  lisäksi. \nNo speech\n 3D -bug -moodi  kuitenkin. \nNo speech\n Oivoi,  että  tämä  jäi  muteeksi. \nNo speech\n Tää  ei  ole  lukkoa  jo  mie  nyt. \nNo speech\n Mutta  miksi? \nNo speech\n Mutta  miksi? \nNo speech\n Täällä. \nNo speech\n Täällä. \nNo speech\n Täällä. \n Täällä. \nNo speech\n Käytä  tässä  nyt  ongelma. \nNo speech\n Täällä. \n I  put  this  empty  policy. \n\nNo speech\n Jos  täällä  puuttuu  jotakin. \nNo speech\n Pitäis. \nNo speech\n Pitäisikö  täällä  olla  jotakin. \nNo speech\n En  ero. \n Pitäisikö. \nNo speech\n Käytettiinkö  täällä  missä? \nNo speech\n Täällä. \nNo speech\n Täällä. \nNo speech\n En  tiedä. \n En  tiedä. \nNo speech\n Mihin  tuo  menneet. \nNo speech\n\nNo speech\n\nNo speech\n Tässä  pitäisi  selvottaa. \nNo speech\n Täällä. \nNo speech\n Täällä. \nNo speech\n Näin. \nNo speech\n Näin. \n No  niin. \nNo speech\n Se  sieltä  pääsee  läpi. \nNo speech\n Mutta  tuota. \nNo speech\n joo. \nNo speech\n Joo. \n Eipä  siinä  mitään. \n Täällä. \nNo speech\n Täällä. \n Kuitenkin  enemmän  tämmöistä. \nNo speech\n Har  broken. \nNo speech\n Tässä  alussa. \nNo speech\n Soppiikö  se  sitten  tuohon. \nNo speech\n Melodia. \nNo speech\n Ei. \nNo speech\n Tää  on  kuitenkin  niinku  tämmöstä. \nNo speech\n Tää  on  kuitenkin  tämmöstä  niinku  hyvää. \nNo speech\n Sitten  vielä  tämä  niinku  rivipari  nii. \n Sitten  vielä  tämä  niinku  rivipari  nii. \nNo speech\n Sekin  on  siellä  silleen  niinku. \nNo speech\n Vaikuttamassa. \nNo speech\n Kaikki  vaikuttaa  kaikkeen. \nNo speech\n Kaikkeen  nii. \n Jos  sä  jotakin  muukkaat. \nNo speech\n Ja  otat  uusikseen. \nNo speech\n Niin  se  tulee  eri  tavalla. \nNo speech\n Okei. \nNo speech\n Kokeilla  nyt  näillä  tehä  sanoja. \nNo speech\n When. \nNo speech\n When  I'm  awake. \nNo speech\n When  I'm  awake. \nNo speech\n When  I'm  awake. \nNo speech\n When  I'm  awake. \nNo speech\n When  I'm  awake. \nNo speech\n When  I'm  awake. \nNo speech\n Vaikka  talle. \nNo speech\n Ai  niin  jo  näinhän  tää  tehtinkin  jo. \nNo speech\n Mä  jo  unoin. \nNo speech\n Eli  nyt  talle. \nNo speech\n I  used  to  dream. \nNo speech\n Apply  with  you. \n But  now  I'm  awake. \nNo speech\n But  now  I'm  awake. \nNo speech\n But  now  I'm  awake. \n But  now  I'm  awake. \nNo speech\n And  it's  all  I  can  do. \nNo speech\n No. \nNo speech\n Mitä  tää  kuulostaa  tän  biisin  kanssa? \nNo speech\n To  make  money. \nNo speech\n Like  the  30  round  drunk  up  in  my  tummy. \n I'm  awake. \nNo speech\n And  it's  all  I  can  do. \nNo speech\n It  ain't  easy. \nNo speech\n To  make  money. \nNo speech\n Like  the  30  round  drunk  up  in  my  tummy. \n And  it's  all  I  can  do. \n\n\n Like  the  30  round  drunk  up  in  my  tummy. \n Tänne  kuulostaa. \n\n Yemmä. \nNo speech\n Mä  näin  sitten  tekiä  muutoksia  tuolla  läppärillä. \nNo speech\n Pitääkö  mä  nyt  alkaen  pushaamaan  ne  sieltä  tänne? \nNo speech\n No  niin. \nNo speech\n Hyvä. \n Jopa  hiljaisella. \nNo speech\n Miksi  tuokin  on  pois? \nNo speech\n Tää  on  varmaan  eri  soundi. \nNo speech\n Jos  että  lask  forwardmatsö  se  voitte  ja... \nNo speech\n Noin. \nNo speech\n I  used,  I  used,  I  used  the  dream. \nNo speech\n Eli  taas  niinku... \nNo speech\n Eli  taas  niinku... \n Missä  täällä  löyriikat? \nNo speech\n Hmmmm... \n I  used  to  dream... \nNo speech\n Missä  san  sanadokset... \nNo speech\n Sanadokset... \nNo speech\n Missä  san  sanadokset... \nNo speech\n Dolda? \nNo speech\n I  used  to... \nNo speech\n I  used  to  dream... \n I  used  to  dream... \nNo speech\n Dream... \n Dream... \n I  used  to... \nNo speech\n I  used  to  dream... \n I  used  to  dream... \nNo speech\n I  used  to  dream... \n I  used  to  dream... \n Jaa... \nNo speech\n I  used... \nNo speech\n Dream... \n Niinku  siis  vaan  niinku  nostaa  se... \nNo speech\n Ai... \n Niinku  tuota  niinku  siis... \nNo speech\n Niinku  tuota... \n Niinku  tuota... \nNo speech\n Miten  tää  et  olikas... \nNo speech\n Täällä... \n Jaa... \nNo speech\n Täällä... \n Täällä... \n Täällä... \n Täällä... \n Miten  näitä  tehäänkään... \nNo speech\n Kolme  alas... \n\n Ei  sitä  oo  aika  paljon... \nNo speech\n Ei... \nNo speech\n Vaan... \nview -du  bunu  yksi... \n Täällä... \n Täroc  coikutus... \n Detaa... \n Sabола... \n Täällä... \n Täällä... \n только... \nNo speech\n Täällä... \n Täällä.... \n Mitten... \n Täällä... \n Täällä... \n Täällä... \n Täällä... \n Täällä... \n Täällä... \n Täällä  würde... \n Juhki... \n Hey... \n Juhki... \n Täällä... \nNo speech\n I  used  to  dream,  I  lied  with  you,  but  now  I'm  away. \nNo speech\n I  used  to  dream,  dream  of  life  with  you,  dream  of  life  with  you. \nNo speech\n I  used  to  dream,  I  lied  with  you,  I  used  to  dream  of  life  with  you. \nNo speech\n I  hit  the  goal  of  the  soul,  I'll  rim  back  in  the  middle  of  the  middle. \nNo speech\n I  used  to  dream  of  life  with  you. \nNo speech\n I  used  to  dream  of  life  with  you. \nNo speech\n I  used  to  dream  of  life  with  you. \nNo speech\n I  used  to  dream  of  life  with  you. \nNo speech\n You,  but  now  I'm  away. \n You,  but  now  I'm  awake. \n I  used  to  dream  of  life  with  you,  but  now  I'm  awake. \nNo speech\n Dream  of  life  with  you,  but  now  I'm  awake. \nNo speech\n You,  but  now  I'm  awake. \nNo speech\n You,  but  now  I'm  awake. \nNo speech\n Wake,  wake,  wake. \nNo speech\n I  used  to  dream  of  life  with  you,  but  now  I'm  awake. \n I'm  awake. \nNo speech\n I'm  awake. \nNo speech\n I'm  awake. \n I  think  it's  that  less  a  minute  single. \nNo speech\n Wake  and,  wake,  wake. \nNo speech\n Wake. \nNo speech\n\nNo speech\n Wake. \nNo speech\n\n\n And  it's  all  I  can  do. \nNo speech\n So  this  is. \n It's  not  weak. \nNo speech\n Wake,  and  it's  all. \nNo speech\n Wake,  and  it's  all. \nNo speech\n Wake  and,  it's  all  I  can  do. \nNo speech\n Vain  ja  se  on  kaikki... \nNo speech\n Vain  ja  se  on  kaikki,  mitä  voin  tehdä. \nNo speech\n Vain  ja  se  on  kaikki,  mitä  voin  tehdä. \nNo speech\n Okei. \nNo speech\n Joo,  siis  tällä  mennä. \nNo speech\n Jep. \nNo speech\n Okei. \nNo speech\n J \n Mika \n it  the  mul고요  ennä  puristun. \nNo speech\n J \nNo speech\n mats \n I  used  to  dream \nNo speech\n It's  going  to  be  a  night  going \nNo speech\n Here  it  goes  and  I \nNo speech\n I  used  to  dream \nNo speech\n I  used  to  dream \n I  fell  like  with  you \n But  now  I'm  awake \n It's  all  I  can  do \nNo speech\n Wake  and  it's \n Wake  and \n Wake  and \n Wake  and \n It's  all  I  can  do \n\n\n\n\n\nNo speech\n I  used  to  dream \n I  fell  like  with  you \n But  now  I'm  awake \n And  it's  all  I  can  do \n With  the  pee \nNo speech\n I  used  to  dream \n I  fell  like  with  you \n But  now  I'm  awake \n And  it's  all  I  can  do \nNo speech\n I  used  to  dream \n\n I  used  to  dream \nNo speech\n I  fell  like  with  you \n But  now  I'm  awake \n And  it's  all  I  can  do \n Can't  you  see \n Your  plan \nNo speech\n Can't  you  see \n Let  me  shoot \n But  now  I'm  awake \n And  it's  all  I  can  do \nNo speech\n Can't  you  be  the  thing \nNo speech\n Can't  you  be  the  thing \nNo speech\n Jotain  tämmöstä  mä  en  yhtään  tee  mitä  mä  oon  tekemässä  vieläkään \nNo speech\n Jotain  niinku  semmoista \nNo speech\n Jotain  niinku  semmoista \n Siis \n Tai  siis  nii \n Siis  kyllä  mulla  on  fiilikset  että  mä  voisin  niinku \n Tehä  jotain \nNo speech\n Hmm \nNo speech\n Siis \n Hmm \n I  dream  of  a  life \n But  I'm  awake \n And  it's  all  I  can \nNo speech\n It's  a  time  to \n Tyhmästä  sanottu \n Ei  tässä  on  mitään  järkiä \n Eiku  on \nNo speech\n I  used  to  dream  of  a  life  with  you \n But  now  I'm  awake \n And  it's  all  I  can  do \n Ei  siis  niinku \n Jotain \n Ei  siis  niinku \nNo speech\n Jotain \n Mut  en  mä  haluan  näin \n Näin  kyyniseen \n En  mä  haluan  lähtä  näin \n Semmoseen \n Negatiiviseen  suuntaan \n Kuitenkaan \n Et  sit  mä  niinku \n Mä  haluan  jotain \nNo speech\n Jotain \nNo speech\n Jotain \n Jotain  siis \n Että  on  omaa  vikaa  myös  niinku \n Että  tuota \nNo speech\n Et  siis \n Et  niinku \n On  niinku \n Omat  raha -asiat  on  perseestä \nNo speech\n Ja \nNo speech\n Ja \n Ja \n Itessäkin  on  vikaa \n Mut  sit \n Mä  en  halua \nNo speech\n Perintäisestä  kliimaksia  tähän \n Vaan  mä  haluan  niinku \nNo speech\n Semmoseen  niinku \n Konfliktiin  tähän \n Et  niinku \n Vähän  niinku \nNo speech\n Antikliimaksinen \n Antikliimaksinen  koruus \n Mä  haluan  semmosen  niinku \n Et  tuota  niinku \n Kaikki  menee  perseelle \n Ja  sit \n Revitellään  sille \n Se  on  se  kliimaks \nNo speech\n Joo \nNo speech\n Mitäs  sitten \nNo speech\n It  ain't  easy  to  make  money \nNo speech\n Like \n X -point  line \n X -point  line \n Aa \nNo speech\n Sitte  et  mitä  tää  niinku \nNo speech\n By  the  way  tallennus \nNo speech\n Tää  on \n\nNo speech\n Tää  on  no \nNo speech\n Hard  problem \nNo speech\n Okei \n Mulla  on  itellä  ajatus \n Taas  konflikteja \n Ja \n Ne \n Ne \n Ne \nNo speech\n Tää  on  niinku  enemmänkin  tämmöstä \n Tää \nNo speech\n Hmm \n Street  martti \n Ja \n Death \nNo speech\n Sitte  save  kuitenki \n Niin \nNo speech\n Onta  offspringin  kuitenki \n Tää \nNo speech\n Bad \nNo speech\n Ei \n Mitäs  tää  nyt  expandin \nNo speech\n Mä  painan  F7 \nNo speech\n Hurraa \n Goreta \nNo speech\n Tämmöンフ \n\nNo speech\n Ja  sitten  tuo  aika  tärkeä  yhdistelmä. \nNo speech\n Okei,  jotain  tämmöistä. \nNo speech\n Eli  mitä  tämä  lyriikat  nyt  sitten  tuotuuta  painoi? \nNo speech\n It  ain't  easy  to  make  money. \nNo speech\n Ei  ihan  näin  street  smart. \nNo speech\n Mutta  ollaan  kuitenkin  näissä  hard  broken  fiiliksissä  enemmän. \nNo speech\n Unmaihe. \nNo speech\n Mitä  pitäisi  olla  itse  short? \nNo speech\n Ei  mitään  hyvää  näköjään. \nNo speech\n Mikä  tässä  on  näin  piirissä? \nNo speech\n Sä  voisit  olla  on  save  kanssa. \nNo speech\n Mä  haluaisin  päivittää  tätä  tekoälykoodia,  että  se  ei  tekisi  näin  paljon  virheitä.  Mä  keksin  jo  mikä  mulla  on  ongelma. \n Mä  käytän  enemmän  sitä,  että  se  on  ongelma,  että  jos  mä  haluan  halvalla  tehdä. \nNo speech\n Tuossa  hinnatkin  halventuu. \nNo speech\n Mä  käytän  tästä  chat -moodia. \nNo speech\n Tähän  ei  nyt  otta  enemmänkin  niin  kuin  social  justice  advocate  tahattaa. \nNo speech\n R�  circuitilla. \nNo speech\n Hrv... \n Volentani. \nNo speech\n Monikaamin... \nNo speech\n Money  calling  my  name  again  Iris \n But  I  receive \nNo speech\n Money  calling \n Money  calling \nNo speech\n Money  calling \n Money  calling \nNo speech\n Money  calling \nNo speech\n Money  calling \n Money  calling \n Money  calling \n Money  calling \nNo speech\n But  I  resist \nNo speech\n I  resist \nNo speech\n I  resist \n I  receive  money  calling \nNo speech\n But  I  receive \nNo speech\n I'm  struggling \n Can't  get  by,  but  I  stay  strapped. \nNo speech\n Pitäähän  tässä  niinku... \nNo speech\n Money  calling. \nNo speech\n Aloitetaan  tuo  money  calling. \nNo speech\n Money  calling,  hard  to  ignore. \n Tome  can  blast  in,  blow  down  the  floor. \nNo speech\n Tome  can  blast  in,  blow  down  the  floor. \nNo speech\n Hehehe,  bit  of  absurd. \nNo speech\n Taas. \nNo speech\n Money  calling. \nNo speech\n Joo. \nNo speech\n Money  calling. \nNo speech\n Money  calling,  hard  to  ignore. \nNo speech\n Money  calling,  hard  to  ignore. \nNo speech\n But  I  keep  blasting. \nNo speech\n Blood  on  the  floor. \nNo speech\n Tome  can  blast  in,  guns  blazing. \nNo speech\n Guns  blazing. \nNo speech\n Guns  blazing. \nNo speech\n Blood  on  the  floor. \nNo speech\n Money  calling. \n I  can't  ignore. \nNo speech\n I  can't  ignore. \n I  can't  ignore. \n Hard  to  ignore. \nNo speech\n Money  calling,  hard  to  ignore. \nNo speech\n Money  calling,  hard  to  ignore. \nNo speech\n I  used  to  dream,  fly  with  you. \nNo speech\n But  now  I'm  awake,  and  it's  all  I  can  do. \nNo speech\n Money  calling,  hard  to  ignore. \nNo speech\n Guns  blazing,  blood  on  the  floor. \n Oh  yeah,  my  pump. \nNo speech\n Yeah. \nNo speech\n Yeah. \n Yeah. \nNo speech\n Holy  shit. \nNo speech\n Holy  shit. \nNo speech\n Okay,  this  is  going  to  work  for  4  minutes. \n Well,  when  we'll  see  how  we'll  see  it. \n\n\n\n\n\n It's  not  gonna,  that  it'll  end  up. \nNo speech\n Inbound  from  the  floor. \nNo speech\n Buy  it  clean. \nNo speech\n Thanks,  you  missed  me! \n Miii. \nNo speech\n Eli,  eli  tuota,  mitä  sitten? \nNo speech\n Oleellista. \nNo speech\n Tuota,  ähm. \nNo speech\n Tii,  tii,  tii,  tii. \nNo speech\n Niin,  kun  spaisin. \nNo speech\n Eli... \nNo speech\n Tää,  no,  tää  tuota... \nNo speech\n Holy  shit. \nNo speech\n Niin,  kun  dragi  edi. \nNo speech\n Dragi  edi  homma. \nNo speech\n Failure,  rooser. \nNo speech\n Tästä,  tästä  tulee  nyt  sitten. \nNo speech\n Federal  loser. \n Federal. \n Federal. \n Federal. \nNo speech\n Federal. \nNo speech\n Mä  en  minä  saattaa  tätä  niinku \nNo speech\n Vääntökyä  monikaa \nNo speech\n Hetkaani  täällä  enää  sanolla  monikaani \nNo speech\n Oishi,  my  bucket  slide \nNo speech\n Oh  you  suckas \n This  one \nNo speech\n Go  hi  honey \nNo speech\n I  love  kinky \n How  is  he? \nNo speech\n I  call  it \nNo speech\n Dude \n\n The  one  way  heading \nNo speech\n Or  she \n judgment \n I'm  feeling  hot \nNo speech\n And  all  you  suckeda \n Just  wanna  take  a  bite. \nNo speech\n All  you  suckas. \nNo speech\n All  you  sh**. \nNo speech\n I'm  feeling  high. \nNo speech\n All  you  suckas. \nNo speech\n Just  take  a  bite. \nNo speech\n All  you  suckas. \nNo speech\n All  you  suckas. \n All  you  suckas. \nNo speech\n All  you  suckas. \n All  you  suckas. \nNo speech\n All  you  suckas. \n You  suckas. \n You  suckas. \n Ja  te  suurteja,  vaan  te  suurteja. \nNo speech\n Täällä,  täällä. \nNo speech\n Minä  käytän... \n Jaksaisko  näitä  säätää  kohilleen? \nNo speech\n Joo. \nNo speech\n Minä  käytän  tekemään. \nNo speech\n Minä  tiiización  olen  Mas \n Olival했어,  stukkans  yrain  pedirkin  te \n Pöliä  biisiä. \nNo speech\n Tästä  tulee  niin  pöliä  biisiä. \nNo speech\n Joo. \nNo speech\n Vittu. \nNo speech\n Niin  kuin  tää  on. \nNo speech\n Varmu -raal. \nNo speech\n Varmu -raal. \nNo speech\n Varmu. \nNo speech\n Oh. \n Trapakki,  Hoshi,  I  feel  high,  you  suckers,  just  wanna  take  a  bite. \nNo speech\n Can't  trust  no  one. \nNo speech\n Oh,  oh,  oh,  oh. \nNo speech\n Can't  trust  no  one. \nNo speech\n I'm  all  alone. \nNo speech\n Can't  trust  no  one. \nNo speech\n I'm  all  alone. \nNo speech\n Resting,  resting  struggles. \nNo speech\n I'm  all  alone. \nNo speech\n I'm  all  alone. \n\n\n\n\n\n Can't  trust  no  one. \nNo speech\n Oh,  she's,  I  feel  high,  you  suckers,  will  take  a  bite. \n Can't  trust  no  one. \nNo speech\n I'm  all  alone. \nNo speech\n With  no  one. \nNo speech\n I  feel. \nNo speech\n No  one. \nNo speech\n Double  follows. \nNo speech\n Can't  fight  my. \nNo speech\n Can't  trouble  follows. \nNo speech\n Can't  fight  my  throne. \nNo speech\n Can't  trust  no  one. \n I'm  all  alone. \nNo speech\n I'm  all  alone. \n Rubble  follows. \nNo speech\n Where  is  my  throne? \nNo speech\n Can't  be. \nNo speech\n Can't  trust  no  one. \n\n I'm  all  alone. \nNo speech\n Can't  fight  my  throne. \nNo speech\n Can't  trust  no  one. \nNo speech\n I'm  all  alone. \n Rubble  follows. \nNo speech\n Rubble  follows. \nNo speech\n Can't. \n Can't. \n Can't. \n Find  my  throne. \nNo speech\n\n\nNo speech\n Seriously  where  I  got  a  kiss. \nNo speech\n Yeah. \nNo speech\n I  used  to  dream  of  a  life  with  you. \n But  now  I'm  awake. \nNo speech\n But  now  I'm  awake. \n And  it's  all  I  can  do. \nNo speech\n Money  calling. \nNo speech\n Hard  to  ignore. \nNo speech\n Cost  blasting. \nNo speech\n Blood  on  the  floor. \nNo speech\n Yeah. \nNo speech\n Holy  shit. \nNo speech\n I  feel  high. \n And  you  suckers,  when  I  take  a  bite,  can't  trust  no  one,  I'm  all  alone,  trouble  follows,  can't  find  my  throne. \n More,  more,  the  beat. \n että  jos  mä  liian  tiukkaan  teen  nuotit, \nNo speech\n niin  mulla  on  hankalaa  sanojen  kanssa. \nNo speech\n Jos  mä  teen  liian  tiukkaan  sanat, \nNo speech\n niin  mulla  on  hankalaa  nuotteen  kanssa. \nNo speech\n Ja  sen  lisäksi,  vaikka  mä  saisin  nuokaksi  hyväksi, \nNo speech\n niin  sitten  kun  mun  pitää  saa  se  vibaa  siihen  mukaan, \nNo speech\n siihen  laulamiseen,  että  jos  se  ei  vaan  löy, \nNo speech\n niin  se  pitää  muuttaa  kaikkea. \nNo speech\n Niin  tätä  ei  vaan  kannata  tehdä  kiveen  hakatuksi \n tässä  vaiheessa  liian  tarjasti. \nNo speech\n Tää  on  tämmöstä,  että  tee  yksi  kierros \nNo speech\n maalarivertaustoimi, \nNo speech\n tee  yksi  ohut  kierros, \nNo speech\n niin  kuin  monta  kerrosta. \nNo speech\n Älä  yritä  kerrallaan  tehdä  kaikkea. \nNo speech\n Tää  on  raskas,  tuo  sanottaminen. \nNo speech\n Mua  väsyyttää  heti,  kun  mä  oon  tekemään  näin  tätä. \nNo speech\n Tää  on  se  lähtökohta  nyt  sitten. \nNo speech\n L  24  talaa. \nNo speech\n Puh  pah  pah  pah  pah \n Pah  pah  pah  pah  pah \nNo speech\n Pah  pah  pah  pah \n Ei  se  tässä  asia  aiheuttaa \nNo speech\n Ei  mitään \nNo speech\n Oikeesti  aika  raskasta  tehdä  tätä \nNo speech\n Ainakin  näinkö  pitkän  tauon  jälkeen  on  näitä  helkotin \nNo speech\n On  näitä  suorituspaineita  tässä  nyt  niin  kovia  että  ei  oikein \n On  näitä  suorituspaineita  tässä  nyt  niin  kovia  että  ei  ole \n Täällä \nNo speech\n Täällä \nNo speech\n Täällä \nNo speech\n Täällä \n\n Täällä \n Täällä \nNo speech\n Kiitos. \nNo speech\n Kiitos. \nNo speech\n Kiitos. \n No,  I'm  swerving  through  the  graphical  eyes. \nNo speech\n Oi  voi. \nNo speech\n Mitä  semmosta. \nNo speech\n Jopa  joo.  Paljonhan  tosi  kestys  vielä. \nNo speech\n Siis  mä  olen  kova  syyttää  ihan  houluun. \nNo speech\n Siis  mä  pitäis  tänään, \nNo speech\n mikä  päivä  nyt  on. \nNo speech\n Tiis -tu.  Mä  tästä  enää  saa  sanotu,  että  on  aloituksia. \nNo speech\n Mä  en  pian  tauon.  Mulla  on  yksi  tunti  tässä  jo  sessiota  näköjään  takana. \nNo speech\n Ei  kyllä  tunnu  siltä,  tai  siis  ajantajuukatoa,  mutta  tuntuu  siltä,  että  nyt  on  liikaa. \n"
-																		}
-																	},
-																	{
-																		"key": {
-																			"type": "String",
-																			"value": "people"
-																		},
-																		"value": {
-																			"type": "WString",
-																			"value": "35 year old male"
-																		}
-																	},
-																	{
-																		"key": {
-																			"type": "String",
-																			"value": "scene"
-																		},
-																		"value": {
-																			"type": "WString",
-																			"value": "a guy is using DAW at computer and making music"
-																		}
-																	},
-																	{
-																		"key": {
-																			"type": "String",
-																			"value": "language"
-																		},
-																		"value": {
-																			"type": "WString",
-																			"value": "Finnish"
-																		}
-																	}
-																]
-															}
-														},
-														"sub": [
-
-														]
-													},
 													{
 														"kind": 3309,
 														"id": "",
@@ -1778,7 +1634,43 @@
 														"is_disabled": false,
 														"(int64&)serial": 26689,
 														"has_ext": true,
-														"ext": null,
+														"ext": {
+															"value": {
+																"type": "ValueMap",
+																"value": [
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "path"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "C:\\Users\\sblo\\Videos\\VID_20250120_133409-30fps.mp4"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "duration"
+																		},
+																		"value": {
+																			"type": "double",
+																			"value": 232.7
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "frame_rate"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "30/1"
+																		}
+																	}
+																]
+															}
+														},
 														"sub": [
 
 														]
@@ -1803,32 +1695,63 @@
 														"is_disabled": false,
 														"(int64&)serial": 27194,
 														"has_ext": true,
-														"ext": null,
-														"sub": [
-
-														]
-													},
-													{
-														"kind": 3311,
-														"id": "",
-														"type": "",
-														"(int64&)type_hash": 0,
-														"begin": {
-															"x": null,
-															"y": null
+														"ext": {
+															"value": {
+																"type": "ValueMap",
+																"value": [
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "path"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "C:\\Users\\sblo\\Videos\\VID_20250120_133409-30fps.mp4"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "range_begin"
+																		},
+																		"value": {
+																			"type": "int",
+																			"value": 0
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "range_end"
+																		},
+																		"value": {
+																			"type": "double",
+																			"value": 232.7
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "duration"
+																		},
+																		"value": {
+																			"type": "double",
+																			"value": 232.7
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "frame_rate"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "30/1"
+																		}
+																	}
+																]
+															}
 														},
-														"end": {
-															"x": null,
-															"y": null
-														},
-														"(int64&)filepos_hash": 0,
-														"file": 1,
-														"is_ref": false,
-														"is_definition": false,
-														"is_disabled": false,
-														"(int64&)serial": 27196,
-														"has_ext": true,
-														"ext": null,
 														"sub": [
 
 														]
@@ -1853,7 +1776,103 @@
 														"is_disabled": false,
 														"(int64&)serial": 28254,
 														"has_ext": true,
-														"ext": null,
+														"ext": {
+															"value": {
+																"type": "ValueMap",
+																"value": [
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "path"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "C:\\Users\\sblo\\Videos\\VID_20250120_133409-30fps.mp4"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "text"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "{\"duration\":232.698806762695,\"language\":\"finnish\",\"task\":\"transcribe\",\"text\":\" Ykaako.\\n Moi!\\n Hehehehe!\\n Moi!\\n Tänään tehdään,\\n tänään tuotetaan biisiin.\\n Tänään tuotetaan biisiin, jonka mä sävelsin tässä\\n pari viikkoa sitten ja naotin puhelivälle.\\n Ensiksi mä reelaan,\\n ensiksi mä enaktoin sen,\\n enääkin, hii, hii, hii.\\n Tänään tuotetaan biisiin,\\n enääkin, hii, hii, hii.\\n Ensiksi mä näyttelein se mun nauhoituksen,\\n sit me nuotinnetaan,\\n sit nao, sanotetaan,\\n sit naotetaan, sit tuotetaan.\\n Ensiksi mä näyttelein se mun nauhoituksen,\\n sit me nuotinnetaan, sit me sanotetaan, sit me laotetaan,\\n sit me miksotaan.\\n Ja pite mittä puhetta tässä on se,\\n tässä mun nauhitus.\\n Ja tässä mun tyhjestä loto,\\n tyhjestä videoista lulut.\\n Tässä mun salainen oli mun idea.\\n Pite mittä puhetta tässä mun,\\n tällainen on mun idea.\\n Moi, tänään me tuotetaan kappale.\\n Mä sävälisin tän pari viikkoa,\\n ja tänään totensin, että on paras viime arkaisista.\\n Ensiksi mä...\\n Ensiksi mä näyttelein mun...\\n Ensiksi mä näyttelein mun muistimpanon...\\n Ensiksi mä näyttelein mun sävälysideaan,\\n sit mä nuotinnetaan, sit mä sanotan,\\n sit mä laotan, sit me miksotaan.\\n Pite mittä puhetta tässä on mun...\\n Pite mittä puhetta tässä on mun idea.\\n Pite mittä puhetta tässä on mun idea.\\n Pite mittä puhetta tässä on mun idea.\\n Ottakaks.\\n Moi!\\n Tänään me tätä musaa.\\n Moi!\\n Moi!\\n Tänään me tuotetaan yksi mun biisi,\\n jonka mä sävälisin pari viikkoa,\\n ja tänään totensin, että se on paras viime arkaisista\\n sävälys.\\n Ensiksi mä näyttelein mun ideaan...\\n Syyntymän.\\n Ensiksi mä näyttelein mun ideaan syntymän,\\n sit mä nuotinnetan, sit mä sanotan,\\n sit mä nauhutan, sit mä miksotaan.\\n Pite mittä puhetta tässä on idea.\\n Pite mittä puhetta tässä on idea.\\n Pite mittä puhetta tässä on idea.\\n Pite mittä puhetta tässä on idea.\\n Pite mittä puhetta tässä on idea.\\n [Puhu]\\n [Puhu]\\n\",\"segments\":[{\"avg_logprob\":-1.12530660629272,\"compression_ratio\":0,\"end\":3,\"id\":0,\"no_speech_prob\":0,\"seek\":0,\"start\":0,\"temperature\":0,\"text\":\" Yy kaa koo.\",\"tokens\":[398,2330,18501,13]},{\"avg_logprob\":-0.322758346796036,\"compression_ratio\":0,\"end\":13,\"id\":1,\"no_speech_prob\":0,\"seek\":0,\"start\":3,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.583447098731995,\"compression_ratio\":0,\"end\":15,\"id\":2,\"no_speech_prob\":0,\"seek\":0,\"start\":13,\"temperature\":0,\"text\":\" Hehehehe!\",\"tokens\":[634,23500,675,0]},{\"avg_logprob\":-0.127619430422783,\"compression_ratio\":0,\"end\":28,\"id\":3,\"no_speech_prob\":0,\"seek\":0,\"start\":15,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.201895356178284,\"compression_ratio\":0,\"end\":30,\"id\":4,\"no_speech_prob\":0,\"seek\":0,\"start\":28,\"temperature\":0,\"text\":\" Tänään tehdään,\",\"tokens\":[314,4029,11718,44812,11718,11]},{\"avg_logprob\":-0.242184072732925,\"compression_ratio\":0,\"end\":32,\"id\":5,\"no_speech_prob\":0,\"seek\":0,\"start\":30,\"temperature\":0,\"text\":\" tänään tuotetaan biisiin.\",\"tokens\":[19790,11718,2604,310,37128,3228,8021,259,13]},{\"avg_logprob\":-0.21678552031517,\"compression_ratio\":0,\"end\":37,\"id\":6,\"no_speech_prob\":0,\"seek\":0,\"start\":32,\"temperature\":0,\"text\":\" Tänään tuotetaan biisiin, jonka mä sävelsin tässä\",\"tokens\":[314,4029,11718,2604,310,37128,3228,8021,259,11,49151,2330,25117,15316,779,19767,29934]},{\"avg_logprob\":-0.291399776935577,\"compression_ratio\":0,\"end\":40,\"id\":7,\"no_speech_prob\":0,\"seek\":0,\"start\":37,\"temperature\":0,\"text\":\" pari viikkoa sitten ja naotin puhelivälle.\",\"tokens\":[971,72,1932,1035,4093,64,23186,2784,1667,310,259,2362,18063,592,31447,13]},{\"avg_logprob\":-0.53669798374176,\"compression_ratio\":0,\"end\":49,\"id\":8,\"no_speech_prob\":0,\"seek\":0,\"start\":40,\"temperature\":0,\"text\":\" Ensiksi mä reelaan,\",\"tokens\":[25979,39664,25117,319,4053,282,11]},{\"avg_logprob\":-0.483503669500351,\"compression_ratio\":0,\"end\":52,\"id\":9,\"no_speech_prob\":0,\"seek\":0,\"start\":49,\"temperature\":0,\"text\":\" ensiksi mä enaktoin sen,\",\"tokens\":[3489,39664,25117,465,5886,14312,3151,11]},{\"avg_logprob\":-0.731493413448334,\"compression_ratio\":0,\"end\":56,\"id\":10,\"no_speech_prob\":0,\"seek\":0,\"start\":52,\"temperature\":0,\"text\":\" enääkin, hii, hii, hii.\",\"tokens\":[465,8942,5843,11,4879,72,11,4879,72,11,4879,72,13]},{\"avg_logprob\":-0.488905191421509,\"compression_ratio\":0,\"end\":59,\"id\":11,\"no_speech_prob\":0,\"seek\":0,\"start\":56,\"temperature\":0,\"text\":\" Tänään tuotetaan biisiin,\",\"tokens\":[314,4029,11718,2604,310,37128,3228,8021,259,11]},{\"avg_logprob\":-0.314302235841751,\"compression_ratio\":0,\"end\":62,\"id\":12,\"no_speech_prob\":0,\"seek\":0,\"start\":59,\"temperature\":0,\"text\":\" enääkin, hii, hii, hii.\",\"tokens\":[465,8942,5843,11,4879,72,11,4879,72,11,4879,72,13]},{\"avg_logprob\":-0.250713586807251,\"compression_ratio\":0,\"end\":65,\"id\":13,\"no_speech_prob\":0,\"seek\":0,\"start\":62,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein se mun nauhoituksen,\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,369,11864,35616,1289,6380,39296,11]},{\"avg_logprob\":-0.407578885555267,\"compression_ratio\":0,\"end\":69,\"id\":14,\"no_speech_prob\":0,\"seek\":0,\"start\":65,\"temperature\":0,\"text\":\" sit me nuotinnetaan,\",\"tokens\":[1394,385,3822,310,259,7129,21326,11]},{\"avg_logprob\":-0.350248008966446,\"compression_ratio\":0,\"end\":73,\"id\":15,\"no_speech_prob\":0,\"seek\":0,\"start\":69,\"temperature\":0,\"text\":\" sit nao, sanotetaan,\",\"tokens\":[1394,1667,78,11,6645,310,37128,11]},{\"avg_logprob\":-0.185408934950829,\"compression_ratio\":0,\"end\":77,\"id\":16,\"no_speech_prob\":0,\"seek\":0,\"start\":73,\"temperature\":0,\"text\":\" sit naotetaan, sit tuotetaan.\",\"tokens\":[1394,1667,310,37128,11,1394,2604,310,37128,13]},{\"avg_logprob\":-0.0622261166572571,\"compression_ratio\":0,\"end\":83,\"id\":17,\"no_speech_prob\":0,\"seek\":0,\"start\":77,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein se mun nauhoituksen,\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,369,11864,35616,1289,6380,39296,11]},{\"avg_logprob\":-0.116133101284504,\"compression_ratio\":0,\"end\":86,\"id\":18,\"no_speech_prob\":0,\"seek\":0,\"start\":83,\"temperature\":0,\"text\":\" sit me nuotinnetaan, sit me sanotetaan, sit me laotetaan,\",\"tokens\":[1394,385,3822,310,259,7129,21326,11,1394,385,6645,310,37128,11,1394,385,635,310,37128,11]},{\"avg_logprob\":-0.138348937034607,\"compression_ratio\":0,\"end\":89,\"id\":19,\"no_speech_prob\":0,\"seek\":0,\"start\":86,\"temperature\":0,\"text\":\" sit me miksotaan.\",\"tokens\":[1394,385,275,23292,5377,282,13]},{\"avg_logprob\":-0.39651694893837,\"compression_ratio\":0,\"end\":96,\"id\":20,\"no_speech_prob\":0,\"seek\":0,\"start\":89,\"temperature\":0,\"text\":\" Ja pite mittä puhetta tässä on se,\",\"tokens\":[3530,280,642,19130,737,2362,9092,1328,29934,322,369,11]},{\"avg_logprob\":-0.516260147094727,\"compression_ratio\":0,\"end\":100,\"id\":21,\"no_speech_prob\":0,\"seek\":0,\"start\":96,\"temperature\":0,\"text\":\" tässä mun nauhitus.\",\"tokens\":[29934,11864,35616,71,30973,13]},{\"avg_logprob\":-0.300724387168884,\"compression_ratio\":0,\"end\":105,\"id\":22,\"no_speech_prob\":0,\"seek\":0,\"start\":100,\"temperature\":0,\"text\":\" Ja tässä mun tyhjestä loto,\",\"tokens\":[3530,29934,11864,1104,71,73,43439,287,6738,11]},{\"avg_logprob\":-0.508388876914978,\"compression_ratio\":0,\"end\":107,\"id\":23,\"no_speech_prob\":0,\"seek\":0,\"start\":105,\"temperature\":0,\"text\":\" tyhjestä videoista lulut.\",\"tokens\":[1104,71,73,43439,960,5236,287,425,325,13]},{\"avg_logprob\":-0.248410850763321,\"compression_ratio\":0,\"end\":111,\"id\":24,\"no_speech_prob\":0,\"seek\":0,\"start\":107,\"temperature\":0,\"text\":\" Tässä mun salainen oli mun idea.\",\"tokens\":[41204,18403,11864,1845,30416,24072,11864,1558,13]},{\"avg_logprob\":-0.107010245323181,\"compression_ratio\":0,\"end\":113,\"id\":25,\"no_speech_prob\":0,\"seek\":0,\"start\":111,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä mun,\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,11864,11]},{\"avg_logprob\":-0.0594520568847656,\"compression_ratio\":0,\"end\":115,\"id\":26,\"no_speech_prob\":0,\"seek\":0,\"start\":113,\"temperature\":0,\"text\":\" tällainen on mun idea.\",\"tokens\":[37728,30416,322,11864,1558,13]},{\"avg_logprob\":-0.122276745736599,\"compression_ratio\":0,\"end\":122,\"id\":27,\"no_speech_prob\":0,\"seek\":0,\"start\":115,\"temperature\":0,\"text\":\" Moi, tänään me tuotetaan kappale.\",\"tokens\":[20256,11,19790,11718,385,2604,310,37128,350,1746,1220,13]},{\"avg_logprob\":-0.29740047454834,\"compression_ratio\":0,\"end\":124,\"id\":28,\"no_speech_prob\":0,\"seek\":0,\"start\":122,\"temperature\":0,\"text\":\" Mä sävälisin tän pari viikkoa,\",\"tokens\":[376,737,15316,85,9063,33787,19790,971,72,1932,1035,4093,64,11]},{\"avg_logprob\":-0.396157264709473,\"compression_ratio\":0,\"end\":127,\"id\":29,\"no_speech_prob\":0,\"seek\":0,\"start\":124,\"temperature\":0,\"text\":\" ja tänään totensin, että on paras viime arkaisista.\",\"tokens\":[2784,19790,11718,1993,694,259,11,9894,322,21012,1932,1312,14408,1527,5236,13]},{\"avg_logprob\":-0.200766280293465,\"compression_ratio\":0,\"end\":129,\"id\":30,\"no_speech_prob\":0,\"seek\":0,\"start\":127,\"temperature\":0,\"text\":\" Ensiksi mä...\",\"tokens\":[25979,39664,25117,485]},{\"avg_logprob\":-0.0761707499623299,\"compression_ratio\":0,\"end\":132,\"id\":31,\"no_speech_prob\":0,\"seek\":0,\"start\":129,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun...\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,485]},{\"avg_logprob\":-0.162742435932159,\"compression_ratio\":0,\"end\":136,\"id\":32,\"no_speech_prob\":0,\"seek\":0,\"start\":132,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun muistimpanon...\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,2992,468,332,6040,266,485]},{\"avg_logprob\":-0.145273581147194,\"compression_ratio\":0,\"end\":140,\"id\":33,\"no_speech_prob\":0,\"seek\":0,\"start\":138,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun sävälysideaan,\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,15316,85,9063,749,482,21326,11]},{\"avg_logprob\":-0.0831921249628067,\"compression_ratio\":0,\"end\":142,\"id\":34,\"no_speech_prob\":0,\"seek\":0,\"start\":140,\"temperature\":0,\"text\":\" sit mä nuotinnetaan, sit mä sanotan,\",\"tokens\":[1394,25117,3822,310,259,7129,21326,11,1394,25117,6645,310,282,11]},{\"avg_logprob\":-0.109026566147804,\"compression_ratio\":0,\"end\":145,\"id\":35,\"no_speech_prob\":0,\"seek\":0,\"start\":142,\"temperature\":0,\"text\":\" sit mä laotan, sit me miksotaan.\",\"tokens\":[1394,25117,635,310,282,11,1394,385,275,23292,5377,282,13]},{\"avg_logprob\":-0.0844004973769188,\"compression_ratio\":0,\"end\":151,\"id\":36,\"no_speech_prob\":0,\"seek\":0,\"start\":145,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on mun...\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,11864,485]},{\"avg_logprob\":-0.00895925704389811,\"compression_ratio\":0,\"end\":155,\"id\":37,\"no_speech_prob\":0,\"seek\":0,\"start\":151,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on mun idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,11864,1558,13]},{\"avg_logprob\":-0.00481326784938574,\"compression_ratio\":0,\"end\":162,\"id\":38,\"no_speech_prob\":0,\"seek\":0,\"start\":155,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on mun idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,11864,1558,13]},{\"avg_logprob\":-0.271075308322906,\"compression_ratio\":0,\"end\":166,\"id\":39,\"no_speech_prob\":0,\"seek\":0,\"start\":163,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on mun idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,11864,1558,13]},{\"avg_logprob\":-0.673892199993134,\"compression_ratio\":0,\"end\":172,\"id\":40,\"no_speech_prob\":0,\"seek\":0,\"start\":166,\"temperature\":0,\"text\":\" Ottakaks.\",\"tokens\":[24243,514,5461,13]},{\"avg_logprob\":-0.327011436223984,\"compression_ratio\":0,\"end\":183,\"id\":41,\"no_speech_prob\":0,\"seek\":0,\"start\":172,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.616295874118805,\"compression_ratio\":0,\"end\":186,\"id\":42,\"no_speech_prob\":0,\"seek\":0,\"start\":183,\"temperature\":0,\"text\":\" Tänään me tätä musaa.\",\"tokens\":[314,4029,11718,385,50187,1038,4332,13]},{\"avg_logprob\":-0.5717693567276,\"compression_ratio\":0,\"end\":188,\"id\":43,\"no_speech_prob\":0,\"seek\":0,\"start\":186,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.214821815490723,\"compression_ratio\":0,\"end\":195,\"id\":44,\"no_speech_prob\":0,\"seek\":0,\"start\":188,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.0866107270121574,\"compression_ratio\":0,\"end\":196,\"id\":45,\"no_speech_prob\":0,\"seek\":0,\"start\":195,\"temperature\":0,\"text\":\" Tänään me tuotetaan yksi mun biisi,\",\"tokens\":[314,4029,11718,385,2604,310,37128,288,20697,11864,3228,8021,11]},{\"avg_logprob\":-0.0802214965224266,\"compression_ratio\":0,\"end\":197,\"id\":46,\"no_speech_prob\":0,\"seek\":0,\"start\":196,\"temperature\":0,\"text\":\" jonka mä sävälisin pari viikkoa,\",\"tokens\":[49151,2330,25117,15316,85,9063,33787,971,72,1932,1035,4093,64,11]},{\"avg_logprob\":-0.157629430294037,\"compression_ratio\":0,\"end\":199.35,\"id\":47,\"no_speech_prob\":0,\"seek\":0,\"start\":197,\"temperature\":0,\"text\":\" ja tänään totensin, että se on paras viime arkaisista\",\"tokens\":[2784,19790,11718,1993,694,259,11,9894,369,322,21012,1932,1312,14408,1527,5236]},{\"avg_logprob\":-0.413664966821671,\"compression_ratio\":0,\"end\":200,\"id\":48,\"no_speech_prob\":0,\"seek\":0,\"start\":199.35,\"temperature\":0,\"text\":\" sävälys.\",\"tokens\":[15316,85,9063,749,13]},{\"avg_logprob\":-0.101137384772301,\"compression_ratio\":0,\"end\":202,\"id\":49,\"no_speech_prob\":0,\"seek\":0,\"start\":200,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun ideaan...\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,1558,282,485]},{\"avg_logprob\":-0.686219215393066,\"compression_ratio\":0,\"end\":204,\"id\":50,\"no_speech_prob\":0,\"seek\":0,\"start\":202,\"temperature\":0,\"text\":\" Syyntymän.\",\"tokens\":[318,15630,580,4199,4029,13]},{\"avg_logprob\":-0.123485326766968,\"compression_ratio\":0,\"end\":208,\"id\":51,\"no_speech_prob\":0,\"seek\":0,\"start\":204,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun ideaan syntymän,\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,1558,282,943,21772,43946,11]},{\"avg_logprob\":-0.075244203209877,\"compression_ratio\":0,\"end\":210,\"id\":52,\"no_speech_prob\":0,\"seek\":0,\"start\":208,\"temperature\":0,\"text\":\" sit mä nuotinnetan, sit mä sanotan,\",\"tokens\":[1394,25117,3822,310,259,7129,282,11,1394,25117,6645,310,282,11]},{\"avg_logprob\":-0.383819907903671,\"compression_ratio\":0,\"end\":212,\"id\":53,\"no_speech_prob\":0,\"seek\":0,\"start\":210,\"temperature\":0,\"text\":\" sit mä nauhutan, sit mä miksotaan.\",\"tokens\":[1394,25117,35616,71,30624,11,1394,25117,275,23292,5377,282,13]},{\"avg_logprob\":-0.0254478454589844,\"compression_ratio\":0,\"end\":215,\"id\":54,\"no_speech_prob\":0,\"seek\":0,\"start\":212,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.0595446415245533,\"compression_ratio\":0,\"end\":219,\"id\":55,\"no_speech_prob\":0,\"seek\":0,\"start\":216,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.0291875209659338,\"compression_ratio\":0,\"end\":223,\"id\":56,\"no_speech_prob\":0,\"seek\":0,\"start\":220,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.00589958811178803,\"compression_ratio\":0,\"end\":227,\"id\":57,\"no_speech_prob\":0,\"seek\":0,\"start\":224,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.188952893018723,\"compression_ratio\":0,\"end\":229,\"id\":58,\"no_speech_prob\":0,\"seek\":0,\"start\":227,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.119008474051952,\"compression_ratio\":0,\"end\":231,\"id\":59,\"no_speech_prob\":0,\"seek\":0,\"start\":229,\"temperature\":0,\"text\":\" [Puhu]\",\"tokens\":[542,47,3232,84,60]},{\"avg_logprob\":-0.139539986848831,\"compression_ratio\":0,\"end\":233,\"id\":60,\"no_speech_prob\":0,\"seek\":0,\"start\":231,\"temperature\":0,\"text\":\" [Puhu]\",\"tokens\":[542,47,3232,84,60]}]}"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "ai-idx"
+																		},
+																		"value": {
+																			"type": "int",
+																			"value": 0
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "language"
+																		},
+																		"value": {
+																			"type": "WString",
+																			"value": "finnish"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "range_begin"
+																		},
+																		"value": {
+																			"type": "int",
+																			"value": 0
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "range_end"
+																		},
+																		"value": {
+																			"type": "double",
+																			"value": 232.7
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "duration"
+																		},
+																		"value": {
+																			"type": "double",
+																			"value": 232.7
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "frame_rate"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "30/1"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "vidpath"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "C:\\Users\\sblo\\Videos\\VID_20250120_133409-30fps.mp4"
+																		}
+																	}
+																]
+															}
+														},
 														"sub": [
 
 														]
@@ -1878,32 +1897,192 @@
 														"is_disabled": false,
 														"(int64&)serial": 28314,
 														"has_ext": true,
-														"ext": null,
-														"sub": [
-
-														]
-													},
-													{
-														"kind": 3111,
-														"id": "",
-														"type": "",
-														"(int64&)type_hash": 0,
-														"begin": {
-															"x": null,
-															"y": null
+														"ext": {
+															"value": {
+																"type": "ValueMap",
+																"value": [
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "ai-idx"
+																		},
+																		"value": null
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "path"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "C:\\Users\\sblo\\Videos\\VID_20250120_133409-30fps.mp4"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "text"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "{\"duration\":232.698806762695,\"language\":\"finnish\",\"task\":\"transcribe\",\"text\":\" Ykaako.\\n Moi!\\n Hehehehe!\\n Moi!\\n Tänään tehdään,\\n tänään tuotetaan biisiin.\\n Tänään tuotetaan biisiin, jonka mä sävelsin tässä\\n pari viikkoa sitten ja naotin puhelivälle.\\n Ensiksi mä reelaan,\\n ensiksi mä enaktoin sen,\\n enääkin, hii, hii, hii.\\n Tänään tuotetaan biisiin,\\n enääkin, hii, hii, hii.\\n Ensiksi mä näyttelein se mun nauhoituksen,\\n sit me nuotinnetaan,\\n sit nao, sanotetaan,\\n sit naotetaan, sit tuotetaan.\\n Ensiksi mä näyttelein se mun nauhoituksen,\\n sit me nuotinnetaan, sit me sanotetaan, sit me laotetaan,\\n sit me miksotaan.\\n Ja pite mittä puhetta tässä on se,\\n tässä mun nauhitus.\\n Ja tässä mun tyhjestä loto,\\n tyhjestä videoista lulut.\\n Tässä mun salainen oli mun idea.\\n Pite mittä puhetta tässä mun,\\n tällainen on mun idea.\\n Moi, tänään me tuotetaan kappale.\\n Mä sävälisin tän pari viikkoa,\\n ja tänään totensin, että on paras viime arkaisista.\\n Ensiksi mä...\\n Ensiksi mä näyttelein mun...\\n Ensiksi mä näyttelein mun muistimpanon...\\n Ensiksi mä näyttelein mun sävälysideaan,\\n sit mä nuotinnetaan, sit mä sanotan,\\n sit mä laotan, sit me miksotaan.\\n Pite mittä puhetta tässä on mun...\\n Pite mittä puhetta tässä on mun idea.\\n Pite mittä puhetta tässä on mun idea.\\n Pite mittä puhetta tässä on mun idea.\\n Ottakaks.\\n Moi!\\n Tänään me tätä musaa.\\n Moi!\\n Moi!\\n Tänään me tuotetaan yksi mun biisi,\\n jonka mä sävälisin pari viikkoa,\\n ja tänään totensin, että se on paras viime arkaisista\\n sävälys.\\n Ensiksi mä näyttelein mun ideaan...\\n Syyntymän.\\n Ensiksi mä näyttelein mun ideaan syntymän,\\n sit mä nuotinnetan, sit mä sanotan,\\n sit mä nauhutan, sit mä miksotaan.\\n Pite mittä puhetta tässä on idea.\\n Pite mittä puhetta tässä on idea.\\n Pite mittä puhetta tässä on idea.\\n Pite mittä puhetta tässä on idea.\\n Pite mittä puhetta tässä on idea.\\n [Puhu]\\n [Puhu]\\n\",\"segments\":[{\"avg_logprob\":-1.12530660629272,\"compression_ratio\":0,\"end\":3,\"id\":0,\"no_speech_prob\":0,\"seek\":0,\"start\":0,\"temperature\":0,\"text\":\" Yy kaa koo.\",\"tokens\":[398,2330,18501,13]},{\"avg_logprob\":-0.322758346796036,\"compression_ratio\":0,\"end\":13,\"id\":1,\"no_speech_prob\":0,\"seek\":0,\"start\":3,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.583447098731995,\"compression_ratio\":0,\"end\":15,\"id\":2,\"no_speech_prob\":0,\"seek\":0,\"start\":13,\"temperature\":0,\"text\":\" Hehehehe!\",\"tokens\":[634,23500,675,0]},{\"avg_logprob\":-0.127619430422783,\"compression_ratio\":0,\"end\":28,\"id\":3,\"no_speech_prob\":0,\"seek\":0,\"start\":15,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.201895356178284,\"compression_ratio\":0,\"end\":30,\"id\":4,\"no_speech_prob\":0,\"seek\":0,\"start\":28,\"temperature\":0,\"text\":\" Tänään tehdään,\",\"tokens\":[314,4029,11718,44812,11718,11]},{\"avg_logprob\":-0.242184072732925,\"compression_ratio\":0,\"end\":32,\"id\":5,\"no_speech_prob\":0,\"seek\":0,\"start\":30,\"temperature\":0,\"text\":\" tänään tuotetaan biisiin.\",\"tokens\":[19790,11718,2604,310,37128,3228,8021,259,13]},{\"avg_logprob\":-0.21678552031517,\"compression_ratio\":0,\"end\":37,\"id\":6,\"no_speech_prob\":0,\"seek\":0,\"start\":32,\"temperature\":0,\"text\":\" Tänään tuotetaan biisiin, jonka mä sävelsin tässä\",\"tokens\":[314,4029,11718,2604,310,37128,3228,8021,259,11,49151,2330,25117,15316,779,19767,29934]},{\"avg_logprob\":-0.291399776935577,\"compression_ratio\":0,\"end\":40,\"id\":7,\"no_speech_prob\":0,\"seek\":0,\"start\":37,\"temperature\":0,\"text\":\" pari viikkoa sitten ja naotin puhelivälle.\",\"tokens\":[971,72,1932,1035,4093,64,23186,2784,1667,310,259,2362,18063,592,31447,13]},{\"avg_logprob\":-0.53669798374176,\"compression_ratio\":0,\"end\":49,\"id\":8,\"no_speech_prob\":0,\"seek\":0,\"start\":40,\"temperature\":0,\"text\":\" Ensiksi mä reelaan,\",\"tokens\":[25979,39664,25117,319,4053,282,11]},{\"avg_logprob\":-0.483503669500351,\"compression_ratio\":0,\"end\":52,\"id\":9,\"no_speech_prob\":0,\"seek\":0,\"start\":49,\"temperature\":0,\"text\":\" ensiksi mä enaktoin sen,\",\"tokens\":[3489,39664,25117,465,5886,14312,3151,11]},{\"avg_logprob\":-0.731493413448334,\"compression_ratio\":0,\"end\":56,\"id\":10,\"no_speech_prob\":0,\"seek\":0,\"start\":52,\"temperature\":0,\"text\":\" enääkin, hii, hii, hii.\",\"tokens\":[465,8942,5843,11,4879,72,11,4879,72,11,4879,72,13]},{\"avg_logprob\":-0.488905191421509,\"compression_ratio\":0,\"end\":59,\"id\":11,\"no_speech_prob\":0,\"seek\":0,\"start\":56,\"temperature\":0,\"text\":\" Tänään tuotetaan biisiin,\",\"tokens\":[314,4029,11718,2604,310,37128,3228,8021,259,11]},{\"avg_logprob\":-0.314302235841751,\"compression_ratio\":0,\"end\":62,\"id\":12,\"no_speech_prob\":0,\"seek\":0,\"start\":59,\"temperature\":0,\"text\":\" enääkin, hii, hii, hii.\",\"tokens\":[465,8942,5843,11,4879,72,11,4879,72,11,4879,72,13]},{\"avg_logprob\":-0.250713586807251,\"compression_ratio\":0,\"end\":65,\"id\":13,\"no_speech_prob\":0,\"seek\":0,\"start\":62,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein se mun nauhoituksen,\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,369,11864,35616,1289,6380,39296,11]},{\"avg_logprob\":-0.407578885555267,\"compression_ratio\":0,\"end\":69,\"id\":14,\"no_speech_prob\":0,\"seek\":0,\"start\":65,\"temperature\":0,\"text\":\" sit me nuotinnetaan,\",\"tokens\":[1394,385,3822,310,259,7129,21326,11]},{\"avg_logprob\":-0.350248008966446,\"compression_ratio\":0,\"end\":73,\"id\":15,\"no_speech_prob\":0,\"seek\":0,\"start\":69,\"temperature\":0,\"text\":\" sit nao, sanotetaan,\",\"tokens\":[1394,1667,78,11,6645,310,37128,11]},{\"avg_logprob\":-0.185408934950829,\"compression_ratio\":0,\"end\":77,\"id\":16,\"no_speech_prob\":0,\"seek\":0,\"start\":73,\"temperature\":0,\"text\":\" sit naotetaan, sit tuotetaan.\",\"tokens\":[1394,1667,310,37128,11,1394,2604,310,37128,13]},{\"avg_logprob\":-0.0622261166572571,\"compression_ratio\":0,\"end\":83,\"id\":17,\"no_speech_prob\":0,\"seek\":0,\"start\":77,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein se mun nauhoituksen,\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,369,11864,35616,1289,6380,39296,11]},{\"avg_logprob\":-0.116133101284504,\"compression_ratio\":0,\"end\":86,\"id\":18,\"no_speech_prob\":0,\"seek\":0,\"start\":83,\"temperature\":0,\"text\":\" sit me nuotinnetaan, sit me sanotetaan, sit me laotetaan,\",\"tokens\":[1394,385,3822,310,259,7129,21326,11,1394,385,6645,310,37128,11,1394,385,635,310,37128,11]},{\"avg_logprob\":-0.138348937034607,\"compression_ratio\":0,\"end\":89,\"id\":19,\"no_speech_prob\":0,\"seek\":0,\"start\":86,\"temperature\":0,\"text\":\" sit me miksotaan.\",\"tokens\":[1394,385,275,23292,5377,282,13]},{\"avg_logprob\":-0.39651694893837,\"compression_ratio\":0,\"end\":96,\"id\":20,\"no_speech_prob\":0,\"seek\":0,\"start\":89,\"temperature\":0,\"text\":\" Ja pite mittä puhetta tässä on se,\",\"tokens\":[3530,280,642,19130,737,2362,9092,1328,29934,322,369,11]},{\"avg_logprob\":-0.516260147094727,\"compression_ratio\":0,\"end\":100,\"id\":21,\"no_speech_prob\":0,\"seek\":0,\"start\":96,\"temperature\":0,\"text\":\" tässä mun nauhitus.\",\"tokens\":[29934,11864,35616,71,30973,13]},{\"avg_logprob\":-0.300724387168884,\"compression_ratio\":0,\"end\":105,\"id\":22,\"no_speech_prob\":0,\"seek\":0,\"start\":100,\"temperature\":0,\"text\":\" Ja tässä mun tyhjestä loto,\",\"tokens\":[3530,29934,11864,1104,71,73,43439,287,6738,11]},{\"avg_logprob\":-0.508388876914978,\"compression_ratio\":0,\"end\":107,\"id\":23,\"no_speech_prob\":0,\"seek\":0,\"start\":105,\"temperature\":0,\"text\":\" tyhjestä videoista lulut.\",\"tokens\":[1104,71,73,43439,960,5236,287,425,325,13]},{\"avg_logprob\":-0.248410850763321,\"compression_ratio\":0,\"end\":111,\"id\":24,\"no_speech_prob\":0,\"seek\":0,\"start\":107,\"temperature\":0,\"text\":\" Tässä mun salainen oli mun idea.\",\"tokens\":[41204,18403,11864,1845,30416,24072,11864,1558,13]},{\"avg_logprob\":-0.107010245323181,\"compression_ratio\":0,\"end\":113,\"id\":25,\"no_speech_prob\":0,\"seek\":0,\"start\":111,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä mun,\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,11864,11]},{\"avg_logprob\":-0.0594520568847656,\"compression_ratio\":0,\"end\":115,\"id\":26,\"no_speech_prob\":0,\"seek\":0,\"start\":113,\"temperature\":0,\"text\":\" tällainen on mun idea.\",\"tokens\":[37728,30416,322,11864,1558,13]},{\"avg_logprob\":-0.122276745736599,\"compression_ratio\":0,\"end\":122,\"id\":27,\"no_speech_prob\":0,\"seek\":0,\"start\":115,\"temperature\":0,\"text\":\" Moi, tänään me tuotetaan kappale.\",\"tokens\":[20256,11,19790,11718,385,2604,310,37128,350,1746,1220,13]},{\"avg_logprob\":-0.29740047454834,\"compression_ratio\":0,\"end\":124,\"id\":28,\"no_speech_prob\":0,\"seek\":0,\"start\":122,\"temperature\":0,\"text\":\" Mä sävälisin tän pari viikkoa,\",\"tokens\":[376,737,15316,85,9063,33787,19790,971,72,1932,1035,4093,64,11]},{\"avg_logprob\":-0.396157264709473,\"compression_ratio\":0,\"end\":127,\"id\":29,\"no_speech_prob\":0,\"seek\":0,\"start\":124,\"temperature\":0,\"text\":\" ja tänään totensin, että on paras viime arkaisista.\",\"tokens\":[2784,19790,11718,1993,694,259,11,9894,322,21012,1932,1312,14408,1527,5236,13]},{\"avg_logprob\":-0.200766280293465,\"compression_ratio\":0,\"end\":129,\"id\":30,\"no_speech_prob\":0,\"seek\":0,\"start\":127,\"temperature\":0,\"text\":\" Ensiksi mä...\",\"tokens\":[25979,39664,25117,485]},{\"avg_logprob\":-0.0761707499623299,\"compression_ratio\":0,\"end\":132,\"id\":31,\"no_speech_prob\":0,\"seek\":0,\"start\":129,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun...\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,485]},{\"avg_logprob\":-0.162742435932159,\"compression_ratio\":0,\"end\":136,\"id\":32,\"no_speech_prob\":0,\"seek\":0,\"start\":132,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun muistimpanon...\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,2992,468,332,6040,266,485]},{\"avg_logprob\":-0.145273581147194,\"compression_ratio\":0,\"end\":140,\"id\":33,\"no_speech_prob\":0,\"seek\":0,\"start\":138,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun sävälysideaan,\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,15316,85,9063,749,482,21326,11]},{\"avg_logprob\":-0.0831921249628067,\"compression_ratio\":0,\"end\":142,\"id\":34,\"no_speech_prob\":0,\"seek\":0,\"start\":140,\"temperature\":0,\"text\":\" sit mä nuotinnetaan, sit mä sanotan,\",\"tokens\":[1394,25117,3822,310,259,7129,21326,11,1394,25117,6645,310,282,11]},{\"avg_logprob\":-0.109026566147804,\"compression_ratio\":0,\"end\":145,\"id\":35,\"no_speech_prob\":0,\"seek\":0,\"start\":142,\"temperature\":0,\"text\":\" sit mä laotan, sit me miksotaan.\",\"tokens\":[1394,25117,635,310,282,11,1394,385,275,23292,5377,282,13]},{\"avg_logprob\":-0.0844004973769188,\"compression_ratio\":0,\"end\":151,\"id\":36,\"no_speech_prob\":0,\"seek\":0,\"start\":145,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on mun...\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,11864,485]},{\"avg_logprob\":-0.00895925704389811,\"compression_ratio\":0,\"end\":155,\"id\":37,\"no_speech_prob\":0,\"seek\":0,\"start\":151,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on mun idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,11864,1558,13]},{\"avg_logprob\":-0.00481326784938574,\"compression_ratio\":0,\"end\":162,\"id\":38,\"no_speech_prob\":0,\"seek\":0,\"start\":155,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on mun idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,11864,1558,13]},{\"avg_logprob\":-0.271075308322906,\"compression_ratio\":0,\"end\":166,\"id\":39,\"no_speech_prob\":0,\"seek\":0,\"start\":163,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on mun idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,11864,1558,13]},{\"avg_logprob\":-0.673892199993134,\"compression_ratio\":0,\"end\":172,\"id\":40,\"no_speech_prob\":0,\"seek\":0,\"start\":166,\"temperature\":0,\"text\":\" Ottakaks.\",\"tokens\":[24243,514,5461,13]},{\"avg_logprob\":-0.327011436223984,\"compression_ratio\":0,\"end\":183,\"id\":41,\"no_speech_prob\":0,\"seek\":0,\"start\":172,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.616295874118805,\"compression_ratio\":0,\"end\":186,\"id\":42,\"no_speech_prob\":0,\"seek\":0,\"start\":183,\"temperature\":0,\"text\":\" Tänään me tätä musaa.\",\"tokens\":[314,4029,11718,385,50187,1038,4332,13]},{\"avg_logprob\":-0.5717693567276,\"compression_ratio\":0,\"end\":188,\"id\":43,\"no_speech_prob\":0,\"seek\":0,\"start\":186,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.214821815490723,\"compression_ratio\":0,\"end\":195,\"id\":44,\"no_speech_prob\":0,\"seek\":0,\"start\":188,\"temperature\":0,\"text\":\" Moi!\",\"tokens\":[20256,0]},{\"avg_logprob\":-0.0866107270121574,\"compression_ratio\":0,\"end\":196,\"id\":45,\"no_speech_prob\":0,\"seek\":0,\"start\":195,\"temperature\":0,\"text\":\" Tänään me tuotetaan yksi mun biisi,\",\"tokens\":[314,4029,11718,385,2604,310,37128,288,20697,11864,3228,8021,11]},{\"avg_logprob\":-0.0802214965224266,\"compression_ratio\":0,\"end\":197,\"id\":46,\"no_speech_prob\":0,\"seek\":0,\"start\":196,\"temperature\":0,\"text\":\" jonka mä sävälisin pari viikkoa,\",\"tokens\":[49151,2330,25117,15316,85,9063,33787,971,72,1932,1035,4093,64,11]},{\"avg_logprob\":-0.157629430294037,\"compression_ratio\":0,\"end\":199.35,\"id\":47,\"no_speech_prob\":0,\"seek\":0,\"start\":197,\"temperature\":0,\"text\":\" ja tänään totensin, että se on paras viime arkaisista\",\"tokens\":[2784,19790,11718,1993,694,259,11,9894,369,322,21012,1932,1312,14408,1527,5236]},{\"avg_logprob\":-0.413664966821671,\"compression_ratio\":0,\"end\":200,\"id\":48,\"no_speech_prob\":0,\"seek\":0,\"start\":199.35,\"temperature\":0,\"text\":\" sävälys.\",\"tokens\":[15316,85,9063,749,13]},{\"avg_logprob\":-0.101137384772301,\"compression_ratio\":0,\"end\":202,\"id\":49,\"no_speech_prob\":0,\"seek\":0,\"start\":200,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun ideaan...\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,1558,282,485]},{\"avg_logprob\":-0.686219215393066,\"compression_ratio\":0,\"end\":204,\"id\":50,\"no_speech_prob\":0,\"seek\":0,\"start\":202,\"temperature\":0,\"text\":\" Syyntymän.\",\"tokens\":[318,15630,580,4199,4029,13]},{\"avg_logprob\":-0.123485326766968,\"compression_ratio\":0,\"end\":208,\"id\":51,\"no_speech_prob\":0,\"seek\":0,\"start\":204,\"temperature\":0,\"text\":\" Ensiksi mä näyttelein mun ideaan syntymän,\",\"tokens\":[25979,39664,25117,6433,4328,975,306,259,11864,1558,282,943,21772,43946,11]},{\"avg_logprob\":-0.075244203209877,\"compression_ratio\":0,\"end\":210,\"id\":52,\"no_speech_prob\":0,\"seek\":0,\"start\":208,\"temperature\":0,\"text\":\" sit mä nuotinnetan, sit mä sanotan,\",\"tokens\":[1394,25117,3822,310,259,7129,282,11,1394,25117,6645,310,282,11]},{\"avg_logprob\":-0.383819907903671,\"compression_ratio\":0,\"end\":212,\"id\":53,\"no_speech_prob\":0,\"seek\":0,\"start\":210,\"temperature\":0,\"text\":\" sit mä nauhutan, sit mä miksotaan.\",\"tokens\":[1394,25117,35616,71,30624,11,1394,25117,275,23292,5377,282,13]},{\"avg_logprob\":-0.0254478454589844,\"compression_ratio\":0,\"end\":215,\"id\":54,\"no_speech_prob\":0,\"seek\":0,\"start\":212,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.0595446415245533,\"compression_ratio\":0,\"end\":219,\"id\":55,\"no_speech_prob\":0,\"seek\":0,\"start\":216,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.0291875209659338,\"compression_ratio\":0,\"end\":223,\"id\":56,\"no_speech_prob\":0,\"seek\":0,\"start\":220,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.00589958811178803,\"compression_ratio\":0,\"end\":227,\"id\":57,\"no_speech_prob\":0,\"seek\":0,\"start\":224,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.188952893018723,\"compression_ratio\":0,\"end\":229,\"id\":58,\"no_speech_prob\":0,\"seek\":0,\"start\":227,\"temperature\":0,\"text\":\" Pite mittä puhetta tässä on idea.\",\"tokens\":[430,642,19130,737,2362,9092,1328,29934,322,1558,13]},{\"avg_logprob\":-0.119008474051952,\"compression_ratio\":0,\"end\":231,\"id\":59,\"no_speech_prob\":0,\"seek\":0,\"start\":229,\"temperature\":0,\"text\":\" [Puhu]\",\"tokens\":[542,47,3232,84,60]},{\"avg_logprob\":-0.139539986848831,\"compression_ratio\":0,\"end\":233,\"id\":60,\"no_speech_prob\":0,\"seek\":0,\"start\":231,\"temperature\":0,\"text\":\" [Puhu]\",\"tokens\":[542,47,3232,84,60]}]}"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "misspelled"
+																		},
+																		"value": {
+																			"type": "WString",
+																			"value": "treenaan, näyttelen, nauhotetaan, sanotetaan, miksataan, tyhjästä, laulut, pitää, miettiä"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "proofread"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "{\"duration\":232.698806762695,\"language\":\"finnish\",\"task\":\"transcribe\",\"text\":\"Hi!Hi!Today we are makingtoday we are producing a song.Today we are producing a song that I composed a couple of weeks ago and I recorded a rough version.First I will rehearse,first I will act it out,again, hii, hii, hii.Today we are producing a song,again, hii, hii, hii.First I acted out my recording,then we notate it,then we record it,then we produce it.First I acted out my recording,then we notate it, then we record it, then we produce it,And here I have the speech,Here is my secret idea.Here is my speech, here is my idea.Hi, today we are producing a song.I composed it a couple of weeks ago,and today I realized that it is the best of my recent compositions.First I...First I acted out my...First I acted out my composition idea,then I notate it, then I record it,then I produce it.Here is my speech about my...Here is my speech about my idea.Here is my speech about my idea.Here is my speech about my idea.Let's go.Hi!Today we are working on this music.Hi!Hi!Today we are producing one of my songs,which I composed a couple of weeks ago,and today I realized that it is the best of my recent compositions.First I acted out my idea...Birth.First I acted out my idea of birth,then I notate it, then I record it,then I produce it.Here is my speech about my idea.Here is my speech about my idea.Here is my speech about my idea.Here is my speech about my idea.[Speak][Speak]\",\"segments\":[{\"avg_logprob\":-0.322758346796036,\"compression_ratio\":0,\"end\":15,\"id\":1,\"no_speech_prob\":0,\"seek\":0,\"start\":3,\"temperature\":0,\"text\":\"Hi!\",\"tokens\":[]},{\"avg_logprob\":-0.127619430422783,\"compression_ratio\":0,\"end\":28,\"id\":3,\"no_speech_prob\":0,\"seek\":0,\"start\":15,\"temperature\":0,\"text\":\"Hi!\",\"tokens\":[]},{\"avg_logprob\":-0.201895356178284,\"compression_ratio\":0,\"end\":30,\"id\":4,\"no_speech_prob\":0,\"seek\":0,\"start\":28,\"temperature\":0,\"text\":\"Today we are making\",\"tokens\":[]},{\"avg_logprob\":-0.242184072732925,\"compression_ratio\":0,\"end\":32,\"id\":5,\"no_speech_prob\":0,\"seek\":0,\"start\":30,\"temperature\":0,\"text\":\"today we are producing a song.\",\"tokens\":[]},{\"avg_logprob\":-0.21678552031517,\"compression_ratio\":0,\"end\":40,\"id\":6,\"no_speech_prob\":0,\"seek\":0,\"start\":32,\"temperature\":0,\"text\":\"Today we are producing a song that I composed a couple of weeks ago and I recorded a rough version.\",\"tokens\":[]},{\"avg_logprob\":-0.53669798374176,\"compression_ratio\":0,\"end\":49,\"id\":8,\"no_speech_prob\":0,\"seek\":0,\"start\":40,\"temperature\":0,\"text\":\"First I will rehearse,\",\"tokens\":[]},{\"avg_logprob\":-0.483503669500351,\"compression_ratio\":0,\"end\":52,\"id\":9,\"no_speech_prob\":0,\"seek\":0,\"start\":49,\"temperature\":0,\"text\":\"first I will act it out,\",\"tokens\":[]},{\"avg_logprob\":-0.731493413448334,\"compression_ratio\":0,\"end\":56,\"id\":10,\"no_speech_prob\":0,\"seek\":0,\"start\":52,\"temperature\":0,\"text\":\"again, hii, hii, hii.\",\"tokens\":[]},{\"avg_logprob\":-0.488905191421509,\"compression_ratio\":0,\"end\":59,\"id\":11,\"no_speech_prob\":0,\"seek\":0,\"start\":56,\"temperature\":0,\"text\":\"Today we are producing a song,\",\"tokens\":[]},{\"avg_logprob\":-0.314302235841751,\"compression_ratio\":0,\"end\":62,\"id\":12,\"no_speech_prob\":0,\"seek\":0,\"start\":59,\"temperature\":0,\"text\":\"again, hii, hii, hii.\",\"tokens\":[]},{\"avg_logprob\":-0.250713586807251,\"compression_ratio\":0,\"end\":65,\"id\":13,\"no_speech_prob\":0,\"seek\":0,\"start\":62,\"temperature\":0,\"text\":\"First I acted out my recording,\",\"tokens\":[]},{\"avg_logprob\":-0.407578885555267,\"compression_ratio\":0,\"end\":69,\"id\":14,\"no_speech_prob\":0,\"seek\":0,\"start\":65,\"temperature\":0,\"text\":\"then we notate it,\",\"tokens\":[]},{\"avg_logprob\":-0.350248008966446,\"compression_ratio\":0,\"end\":73,\"id\":15,\"no_speech_prob\":0,\"seek\":0,\"start\":69,\"temperature\":0,\"text\":\"then we record it,\",\"tokens\":[]},{\"avg_logprob\":-0.185408934950829,\"compression_ratio\":0,\"end\":77,\"id\":16,\"no_speech_prob\":0,\"seek\":0,\"start\":73,\"temperature\":0,\"text\":\"then we produce it.\",\"tokens\":[]},{\"avg_logprob\":-0.0622261166572571,\"compression_ratio\":0,\"end\":83,\"id\":17,\"no_speech_prob\":0,\"seek\":0,\"start\":77,\"temperature\":0,\"text\":\"First I acted out my recording,\",\"tokens\":[]},{\"avg_logprob\":-0.116133101284504,\"compression_ratio\":0,\"end\":89,\"id\":18,\"no_speech_prob\":0,\"seek\":0,\"start\":83,\"temperature\":0,\"text\":\"then we notate it, then we record it, then we produce it,\",\"tokens\":[]},{\"avg_logprob\":-0.39651694893837,\"compression_ratio\":0,\"end\":107,\"id\":20,\"no_speech_prob\":0,\"seek\":0,\"start\":89,\"temperature\":0,\"text\":\"And here I have the speech,\",\"tokens\":[]},{\"avg_logprob\":-0.248410850763321,\"compression_ratio\":0,\"end\":111,\"id\":24,\"no_speech_prob\":0,\"seek\":0,\"start\":107,\"temperature\":0,\"text\":\"Here is my secret idea.\",\"tokens\":[]},{\"avg_logprob\":-0.107010245323181,\"compression_ratio\":0,\"end\":113,\"id\":25,\"no_speech_prob\":0,\"seek\":0,\"start\":111,\"temperature\":0,\"text\":\"Here is my speech, here is my idea.\",\"tokens\":[]},{\"avg_logprob\":-0.0594520568847656,\"compression_ratio\":0,\"end\":115,\"id\":26,\"no_speech_prob\":0,\"seek\":0,\"start\":113,\"temperature\":0,\"text\":\"Hi, today we are producing a song.\",\"tokens\":[]},{\"avg_logprob\":-0.122276745736599,\"compression_ratio\":0,\"end\":124,\"id\":27,\"no_speech_prob\":0,\"seek\":0,\"start\":115,\"temperature\":0,\"text\":\"I composed it a couple of weeks ago,\",\"tokens\":[]},{\"avg_logprob\":-0.396157264709473,\"compression_ratio\":0,\"end\":127,\"id\":29,\"no_speech_prob\":0,\"seek\":0,\"start\":124,\"temperature\":0,\"text\":\"and today I realized that it is the best of my recent compositions.\",\"tokens\":[]},{\"avg_logprob\":-0.200766280293465,\"compression_ratio\":0,\"end\":129,\"id\":30,\"no_speech_prob\":0,\"seek\":0,\"start\":127,\"temperature\":0,\"text\":\"First I...\",\"tokens\":[]},{\"avg_logprob\":-0.0761707499623299,\"compression_ratio\":0,\"end\":136,\"id\":31,\"no_speech_prob\":0,\"seek\":0,\"start\":129,\"temperature\":0,\"text\":\"First I acted out my...\",\"tokens\":[]},{\"avg_logprob\":-0.145273581147194,\"compression_ratio\":0,\"end\":140,\"id\":33,\"no_speech_prob\":0,\"seek\":0,\"start\":138,\"temperature\":0,\"text\":\"First I acted out my composition idea,\",\"tokens\":[]},{\"avg_logprob\":-0.0831921249628067,\"compression_ratio\":0,\"end\":142,\"id\":34,\"no_speech_prob\":0,\"seek\":0,\"start\":140,\"temperature\":0,\"text\":\"then I notate it, then I record it,\",\"tokens\":[]},{\"avg_logprob\":-0.109026566147804,\"compression_ratio\":0,\"end\":145,\"id\":35,\"no_speech_prob\":0,\"seek\":0,\"start\":142,\"temperature\":0,\"text\":\"then I produce it.\",\"tokens\":[]},{\"avg_logprob\":-0.0844004973769188,\"compression_ratio\":0,\"end\":151,\"id\":36,\"no_speech_prob\":0,\"seek\":0,\"start\":145,\"temperature\":0,\"text\":\"Here is my speech about my...\",\"tokens\":[]},{\"avg_logprob\":-0.00895925704389811,\"compression_ratio\":0,\"end\":155,\"id\":37,\"no_speech_prob\":0,\"seek\":0,\"start\":151,\"temperature\":0,\"text\":\"Here is my speech about my idea.\",\"tokens\":[]},{\"avg_logprob\":-0.00481326784938574,\"compression_ratio\":0,\"end\":162,\"id\":38,\"no_speech_prob\":0,\"seek\":0,\"start\":155,\"temperature\":0,\"text\":\"Here is my speech about my idea.\",\"tokens\":[]},{\"avg_logprob\":-0.271075308322906,\"compression_ratio\":0,\"end\":166,\"id\":39,\"no_speech_prob\":0,\"seek\":0,\"start\":163,\"temperature\":0,\"text\":\"Here is my speech about my idea.\",\"tokens\":[]},{\"avg_logprob\":-0.673892199993134,\"compression_ratio\":0,\"end\":172,\"id\":40,\"no_speech_prob\":0,\"seek\":0,\"start\":166,\"temperature\":0,\"text\":\"Let's go.\",\"tokens\":[]},{\"avg_logprob\":-0.327011436223984,\"compression_ratio\":0,\"end\":183,\"id\":41,\"no_speech_prob\":0,\"seek\":0,\"start\":172,\"temperature\":0,\"text\":\"Hi!\",\"tokens\":[]},{\"avg_logprob\":-0.616295874118805,\"compression_ratio\":0,\"end\":186,\"id\":42,\"no_speech_prob\":0,\"seek\":0,\"start\":183,\"temperature\":0,\"text\":\"Today we are working on this music.\",\"tokens\":[]},{\"avg_logprob\":-0.5717693567276,\"compression_ratio\":0,\"end\":188,\"id\":43,\"no_speech_prob\":0,\"seek\":0,\"start\":186,\"temperature\":0,\"text\":\"Hi!\",\"tokens\":[]},{\"avg_logprob\":-0.214821815490723,\"compression_ratio\":0,\"end\":195,\"id\":44,\"no_speech_prob\":0,\"seek\":0,\"start\":188,\"temperature\":0,\"text\":\"Hi!\",\"tokens\":[]},{\"avg_logprob\":-0.0866107270121574,\"compression_ratio\":0,\"end\":196,\"id\":45,\"no_speech_prob\":0,\"seek\":0,\"start\":195,\"temperature\":0,\"text\":\"Today we are producing one of my songs,\",\"tokens\":[]},{\"avg_logprob\":-0.0802214965224266,\"compression_ratio\":0,\"end\":197,\"id\":46,\"no_speech_prob\":0,\"seek\":0,\"start\":196,\"temperature\":0,\"text\":\"which I composed a couple of weeks ago,\",\"tokens\":[]},{\"avg_logprob\":-0.157629430294037,\"compression_ratio\":0,\"end\":200,\"id\":47,\"no_speech_prob\":0,\"seek\":0,\"start\":197,\"temperature\":0,\"text\":\"and today I realized that it is the best of my recent compositions.\",\"tokens\":[]},{\"avg_logprob\":-0.101137384772301,\"compression_ratio\":0,\"end\":202,\"id\":49,\"no_speech_prob\":0,\"seek\":0,\"start\":200,\"temperature\":0,\"text\":\"First I acted out my idea...\",\"tokens\":[]},{\"avg_logprob\":-0.686219215393066,\"compression_ratio\":0,\"end\":204,\"id\":50,\"no_speech_prob\":0,\"seek\":0,\"start\":202,\"temperature\":0,\"text\":\"Birth.\",\"tokens\":[]},{\"avg_logprob\":-0.123485326766968,\"compression_ratio\":0,\"end\":210,\"id\":51,\"no_speech_prob\":0,\"seek\":0,\"start\":204,\"temperature\":0,\"text\":\"First I acted out my idea of birth,\",\"tokens\":[]},{\"avg_logprob\":-0.383819907903671,\"compression_ratio\":0,\"end\":212,\"id\":53,\"no_speech_prob\":0,\"seek\":0,\"start\":210,\"temperature\":0,\"text\":\"then I notate it, then I record it,\",\"tokens\":[]},{\"avg_logprob\":-0.0254478454589844,\"compression_ratio\":0,\"end\":215,\"id\":54,\"no_speech_prob\":0,\"seek\":0,\"start\":212,\"temperature\":0,\"text\":\"then I produce it.\",\"tokens\":[]},{\"avg_logprob\":-0.0595446415245533,\"compression_ratio\":0,\"end\":219,\"id\":55,\"no_speech_prob\":0,\"seek\":0,\"start\":216,\"temperature\":0,\"text\":\"Here is my speech about my idea.\",\"tokens\":[]},{\"avg_logprob\":-0.0291875209659338,\"compression_ratio\":0,\"end\":223,\"id\":56,\"no_speech_prob\":0,\"seek\":0,\"start\":220,\"temperature\":0,\"text\":\"Here is my speech about my idea.\",\"tokens\":[]},{\"avg_logprob\":-0.00589958811178803,\"compression_ratio\":0,\"end\":227,\"id\":57,\"no_speech_prob\":0,\"seek\":0,\"start\":224,\"temperature\":0,\"text\":\"Here is my speech about my idea.\",\"tokens\":[]},{\"avg_logprob\":-0.188952893018723,\"compression_ratio\":0,\"end\":229,\"id\":58,\"no_speech_prob\":0,\"seek\":0,\"start\":227,\"temperature\":0,\"text\":\"Here is my speech about my idea.\",\"tokens\":[]},{\"avg_logprob\":-0.119008474051952,\"compression_ratio\":0,\"end\":231,\"id\":59,\"no_speech_prob\":0,\"seek\":0,\"start\":229,\"temperature\":0,\"text\":\"[Speak]\",\"tokens\":[]},{\"avg_logprob\":-0.139539986848831,\"compression_ratio\":0,\"end\":233,\"id\":60,\"no_speech_prob\":0,\"seek\":0,\"start\":231,\"temperature\":0,\"text\":\"[Speak]\",\"tokens\":[]}]}"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "range_begin"
+																		},
+																		"value": {
+																			"type": "int",
+																			"value": 0
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "range_end"
+																		},
+																		"value": {
+																			"type": "double",
+																			"value": 232.7
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "duration"
+																		},
+																		"value": {
+																			"type": "double",
+																			"value": 232.7
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "frame_rate"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "30/1"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "vidpath"
+																		},
+																		"value": {
+																			"type": "String",
+																			"value": "C:\\Users\\sblo\\Videos\\VID_20250120_133409-30fps.mp4"
+																		}
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "storyline"
+																		},
+																		"value": null
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "scene"
+																		},
+																		"value": null
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "people"
+																		},
+																		"value": null
+																	},
+																	{
+																		"key": {
+																			"type": "String",
+																			"value": "selected"
+																		},
+																		"value": {
+																			"type": "ValueMap",
+																			"value": [
+																				{
+																					"key": {
+																						"type": "int",
+																						"value": 42
+																					},
+																					"value": {
+																						"type": "bool",
+																						"value": true
+																					}
+																				},
+																				{
+																					"key": {
+																						"type": "int",
+																						"value": 43
+																					},
+																					"value": {
+																						"type": "bool",
+																						"value": true
+																					}
+																				},
+																				{
+																					"key": {
+																						"type": "int",
+																						"value": 41
+																					},
+																					"value": {
+																						"type": "bool",
+																						"value": true
+																					}
+																				},
+																				{
+																					"key": {
+																						"type": "int",
+																						"value": 1
+																					},
+																					"value": {
+																						"type": "bool",
+																						"value": true
+																					}
+																				},
+																				{
+																					"key": {
+																						"type": "int",
+																						"value": 4
+																					},
+																					"value": {
+																						"type": "bool",
+																						"value": true
+																					}
+																				}
+																			]
+																		}
+																	}
+																]
+															}
 														},
-														"end": {
-															"x": null,
-															"y": null
-														},
-														"(int64&)filepos_hash": 0,
-														"file": 1,
-														"is_ref": false,
-														"is_definition": false,
-														"is_disabled": false,
-														"(int64&)serial": 28316,
-														"has_ext": true,
-														"ext": null,
 														"sub": [
 
 														]
@@ -1930,7 +2109,7 @@
 										"is_ref": false,
 										"is_definition": false,
 										"is_disabled": false,
-										"(int64&)serial": 33669,
+										"(int64&)serial": 180153,
 										"has_ext": false,
 										"sub": [
 											{
@@ -1951,7 +2130,7 @@
 												"is_ref": false,
 												"is_definition": false,
 												"is_disabled": false,
-												"(int64&)serial": 33665,
+												"(int64&)serial": 180149,
 												"has_ext": false,
 												"sub": [
 													{
@@ -1972,7 +2151,7 @@
 														"is_ref": false,
 														"is_definition": false,
 														"is_disabled": false,
-														"(int64&)serial": 33661,
+														"(int64&)serial": 180145,
 														"has_ext": true,
 														"ext": {
 															"data": [
@@ -2011,7 +2190,20 @@
 																"is_disabled": false,
 																"(int64&)serial": 32327,
 																"has_ext": true,
-																"ext": null,
+																"ext": {
+																	"value": {
+																		"type": "ValueMap",
+																		"value": [
+																			{
+																				"key": {
+																					"type": "String",
+																					"value": "path"
+																				},
+																				"value": null
+																			}
+																		]
+																	}
+																},
 																"sub": [
 
 																]
@@ -2060,7 +2252,7 @@
 														"is_ref": false,
 														"is_definition": false,
 														"is_disabled": false,
-														"(int64&)serial": 33667,
+														"(int64&)serial": 180151,
 														"has_ext": true,
 														"ext": {
 															"data": [
@@ -2099,7 +2291,9 @@
 																"is_disabled": false,
 																"(int64&)serial": 32321,
 																"has_ext": true,
-																"ext": null,
+																"ext": {
+																	"value": null
+																},
 																"sub": [
 
 																]
@@ -2126,7 +2320,7 @@
 												"is_ref": false,
 												"is_definition": false,
 												"is_disabled": false,
-												"(int64&)serial": 33681,
+												"(int64&)serial": 180165,
 												"has_ext": false,
 												"sub": [
 													{
@@ -2147,7 +2341,7 @@
 														"is_ref": false,
 														"is_definition": false,
 														"is_disabled": false,
-														"(int64&)serial": 33673,
+														"(int64&)serial": 180157,
 														"has_ext": true,
 														"ext": {
 															"data": [
@@ -2186,7 +2380,20 @@
 																"is_disabled": false,
 																"(int64&)serial": 32329,
 																"has_ext": true,
-																"ext": null,
+																"ext": {
+																	"value": {
+																		"type": "ValueMap",
+																		"value": [
+																			{
+																				"key": {
+																					"type": "String",
+																					"value": "path"
+																				},
+																				"value": null
+																			}
+																		]
+																	}
+																},
 																"sub": [
 
 																]
@@ -2211,7 +2418,7 @@
 														"is_ref": false,
 														"is_definition": false,
 														"is_disabled": false,
-														"(int64&)serial": 33677,
+														"(int64&)serial": 180161,
 														"has_ext": true,
 														"ext": {
 															"data": [
@@ -2249,8 +2456,7 @@
 																"is_definition": false,
 																"is_disabled": false,
 																"(int64&)serial": 32673,
-																"has_ext": true,
-																"ext": null,
+																"has_ext": false,
 																"sub": [
 
 																]
@@ -2299,7 +2505,7 @@
 														"is_ref": false,
 														"is_definition": false,
 														"is_disabled": false,
-														"(int64&)serial": 33683,
+														"(int64&)serial": 180167,
 														"has_ext": true,
 														"ext": {
 															"data": [
@@ -2338,7 +2544,9 @@
 																"is_disabled": false,
 																"(int64&)serial": 32325,
 																"has_ext": true,
-																"ext": null,
+																"ext": {
+																	"value": null
+																},
 																"sub": [
 
 																]
@@ -2367,7 +2575,7 @@
 										"is_ref": false,
 										"is_definition": false,
 										"is_disabled": false,
-										"(int64&)serial": 33687,
+										"(int64&)serial": 180171,
 										"has_ext": true,
 										"ext": {
 											"data": [
@@ -2406,7 +2614,9 @@
 												"is_disabled": false,
 												"(int64&)serial": 31218,
 												"has_ext": true,
-												"ext": null,
+												"ext": {
+													"value": null
+												},
 												"sub": [
 
 												]
@@ -2433,7 +2643,7 @@
 								"is_ref": false,
 								"is_definition": false,
 								"is_disabled": false,
-								"(int64&)serial": 33693,
+								"(int64&)serial": 180181,
 								"has_ext": true,
 								"ext": {
 									"data": [
@@ -2447,7 +2657,10 @@
 										},
 										{
 											"key": "ctx",
-											"value": null
+											"value": {
+												"type": "String",
+												"value": "Song1"
+											}
 										}
 									]
 								},
@@ -2472,7 +2685,9 @@
 										"is_disabled": false,
 										"(int64&)serial": 30163,
 										"has_ext": true,
-										"ext": null,
+										"ext": {
+											"value": null
+										},
 										"sub": [
 
 										]
@@ -2497,7 +2712,364 @@
 										"is_disabled": false,
 										"(int64&)serial": 30546,
 										"has_ext": true,
-										"ext": null,
+										"ext": {
+											"value": null
+										},
+										"sub": [
+
+										]
+									},
+									{
+										"kind": 3111,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 133594,
+										"has_ext": true,
+										"ext": {
+											"value": null
+										},
+										"sub": [
+
+										]
+									},
+									{
+										"kind": 3209,
+										"id": "",
+										"type": "",
+										"(int64&)type_hash": 0,
+										"begin": {
+											"x": null,
+											"y": null
+										},
+										"end": {
+											"x": null,
+											"y": null
+										},
+										"(int64&)filepos_hash": 0,
+										"file": 1,
+										"is_ref": false,
+										"is_definition": false,
+										"is_disabled": false,
+										"(int64&)serial": 135097,
+										"has_ext": true,
+										"ext": {
+											"value": {
+												"type": "ValueMap",
+												"value": [
+													{
+														"key": {
+															"type": "String",
+															"value": ".kind"
+														},
+														"value": {
+															"type": "int",
+															"value": 4001
+														}
+													},
+													{
+														"key": {
+															"type": "String",
+															"value": "video-clip-1"
+														},
+														"value": {
+															"type": "ValueMap",
+															"value": [
+																{
+																	"key": {
+																		"type": "String",
+																		"value": "0"
+																	},
+																	"value": {
+																		"type": "ValueMap",
+																		"value": [
+																			{
+																				"key": {
+																					"type": "String",
+																					"value": ".kind"
+																				},
+																				"value": {
+																					"type": "int",
+																					"value": 4004
+																				}
+																			},
+																			{
+																				"key": {
+																					"type": "int",
+																					"value": 0
+																				},
+																				"value": {
+																					"type": "ValueMap",
+																					"value": [
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": ".kind"
+																							},
+																							"value": {
+																								"type": "int",
+																								"value": 4003
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "text"
+																							},
+																							"value": {
+																								"type": "String",
+																								"value": "Hi!"
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "begin"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 15
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "end"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 28
+																							}
+																						}
+																					]
+																				}
+																			},
+																			{
+																				"key": {
+																					"type": "int",
+																					"value": 1
+																				},
+																				"value": {
+																					"type": "ValueMap",
+																					"value": [
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": ".kind"
+																							},
+																							"value": {
+																								"type": "int",
+																								"value": 4003
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "text"
+																							},
+																							"value": {
+																								"type": "String",
+																								"value": "Today we are producing a song that I composed a couple of weeks ago and I recorded a rough version."
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "begin"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 32
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "end"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 40
+																							}
+																						}
+																					]
+																				}
+																			},
+																			{
+																				"key": {
+																					"type": "int",
+																					"value": 2
+																				},
+																				"value": {
+																					"type": "ValueMap",
+																					"value": [
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": ".kind"
+																							},
+																							"value": {
+																								"type": "int",
+																								"value": 4003
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "text"
+																							},
+																							"value": {
+																								"type": "String",
+																								"value": "First I acted out my idea of birth,"
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "begin"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 204
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "end"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 210
+																							}
+																						}
+																					]
+																				}
+																			},
+																			{
+																				"key": {
+																					"type": "int",
+																					"value": 3
+																				},
+																				"value": {
+																					"type": "ValueMap",
+																					"value": [
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": ".kind"
+																							},
+																							"value": {
+																								"type": "int",
+																								"value": 4003
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "text"
+																							},
+																							"value": {
+																								"type": "String",
+																								"value": "then I notate it, then I record it,"
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "begin"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 210
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "end"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 212
+																							}
+																						}
+																					]
+																				}
+																			},
+																			{
+																				"key": {
+																					"type": "int",
+																					"value": 4
+																				},
+																				"value": {
+																					"type": "ValueMap",
+																					"value": [
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": ".kind"
+																							},
+																							"value": {
+																								"type": "int",
+																								"value": 4003
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "text"
+																							},
+																							"value": {
+																								"type": "String",
+																								"value": "then I produce it."
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "begin"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 212
+																							}
+																						},
+																						{
+																							"key": {
+																								"type": "String",
+																								"value": "end"
+																							},
+																							"value": {
+																								"type": "double",
+																								"value": 215
+																							}
+																						}
+																					]
+																				}
+																			}
+																		]
+																	}
+																}
+															]
+														}
+													}
+												]
+											}
+										},
 										"sub": [
 
 										]
