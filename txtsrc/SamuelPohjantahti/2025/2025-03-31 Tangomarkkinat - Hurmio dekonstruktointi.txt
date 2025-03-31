@@ -23,6 +23,7 @@ Teema: (toisto, instrumentaali)
 		SÄÄNTÖ: 4. sointu on sama kuin 1.
 		ASTEIKKOMUUTOS: +5
 		FEIDAUS: Säkeistön 1-2 muutos toistuu
+
 Säkeistö: (osittainen toisto, muunnelma)
 		ASTEIKKOMUUTOS: # (-5)
 			ASTEIKKO: Bb (bb)
@@ -59,9 +60,48 @@ Pre-chorus:
 	4: C7 (+5: G + 7)
 	5: F (+5: C)
 		FEIDAUS: itseasiassa toistaa C,Em,Am,G -> C
-	6: G7
-	7: C
+	6: G7 (+5: Dm + major + 7)
+	7: C (+5: G)
 		TAHTILAJIPOIKKEUS: 6/4 (trioli)
-	8: C
+	8: C (+5: G)
 
-Chorus:
+Chorus 1:
+	1-2: A7 (+5: Em + major + 7)
+	3: Dm (+5: Am)
+	4: Fm (+5: C + MINOR)
+	5: C (+5: G)
+	6: C#* (+5: G#)
+		ASTEIKKOMUUTOS: # (-5)
+			ASTEIKKO: C ()
+	7: Dm (0: Am)
+	8: G7 (0: G + 7)
+
+Chorus 2:
+	1: C (0: C)
+	2: E7 (0: Em + major + 7)
+	3: Am (0: Am)
+		ASTEIKKOMUUTOS:
+			ASTEIKKO: F (b)
+	4: C7 (+5: G + 7)
+	5: F  (+5: C)
+	6: A7 (+5: Em + major + 7)
+	7: Dm (+5: Am)
+	8: F7/C (+5: C + major + 7)
+
+Chorus 3:
+	1: Ab  (+5: Em + major)
+	2: D7  (+5: Am + major + 7)
+	3: Gm  (+5: Dm)
+	4: Bbm (+5: F + MINOR)
+	5: F/C (+5: C)
+	6: Db7 (+5: Am + major + 7)
+	   C7  (+5: G# + 7)
+  A
+	7: F   (+5: C)
+	8: Fm  (+5: C + MINOR)
+		ASTEIKKOMUUTOS: # (-5)
+			ASTEIKKO: C ()
+	   G7  (0: G + 7)
+  B
+	7-8: F (+5: C)
+
