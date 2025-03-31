@@ -1,0 +1,12 @@
+uses
+	CtrlLib;
+
+file
+	ChordTool.h,
+	main.cpp,
+	ChordTool.lay,
+	ChordTool.iml;
+
+mainconfig
+	"" = "GUI";
+

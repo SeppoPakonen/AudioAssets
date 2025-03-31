@@ -1,0 +1,15 @@
+LAYOUT(ChordToolLayout, 512, 248)
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Song")).HSizePosZ(4, 4).TopPosZ(4, 100))
+	ITEM(Upp::Label, dv___1, SetLabel(t_("Title:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, -202).TopPosZ(24, 20))
+	ITEM(Upp::EditString, title, HCenterPosZ(192, -56).TopPosZ(24, 20))
+	ITEM(Upp::Label, dv___3, SetLabel(t_("Author:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, -202).TopPosZ(48, 20))
+	ITEM(Upp::EditString, author, HCenterPosZ(192, -56).TopPosZ(48, 20))
+	ITEM(Upp::Label, dv___5, SetLabel(t_("Comment:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, -202).TopPosZ(72, 20))
+	ITEM(Upp::EditString, comment, HCenterPosZ(192, -56).TopPosZ(72, 20))
+	ITEM(Upp::Label, dv___7, SetLabel(t_("Tempo (bpm):")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, 90).TopPosZ(24, 20))
+	ITEM(Upp::EditIntSpin, bpm, HCenterPosZ(108, 194).TopPosZ(24, 20))
+	ITEM(Upp::Label, dv___9, SetLabel(t_("Genre:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, 90).TopPosZ(48, 20))
+	ITEM(Upp::EditString, genre, HCenterPosZ(108, 194).TopPosZ(48, 20))
+	ITEM(Upp::ArrayCtrl, dv___11, HSizePosZ(0, 0).VSizePosZ(112, 0))
+END_LAYOUT
+
