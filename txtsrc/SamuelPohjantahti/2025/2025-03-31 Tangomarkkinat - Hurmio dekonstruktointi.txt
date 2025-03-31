@@ -1,0 +1,67 @@
+
+Teema (instrumentaali):
+		~ASTEIKKOMUUTOS: bbb (+3)
+			ASTEIKKO: Eb (bbb)
+		SÄÄNTÖ: 4. sointu on sama kuin 1.
+	1-4: 4* Cm (+3: Am)
+
+Säkeistö:
+		ASTEIKKOMUUTOS: # (-5)
+			ASTEIKKO: Bb (bb)
+		SÄÄNTÖ: 4. sointu on sama kuin 1.
+		FEIDAUS: G7: siirtymän kohde
+			< (+3: Em + major + 7)
+			> (-2: Am + major + 7)
+	1: G7 (-2: Am + major + 7)
+	2: Cm (-2: Dm)
+	3: D7 (-2: Em + major + 7)
+	4: G7 (-2: Am + major + 7)
+
+Teema: (toisto, instrumentaali)
+		ASTEIKKOMUUTOS: b (+5)
+			ASTEIKKO: Eb (bbb)
+		SÄÄNTÖ: 4. sointu on sama kuin 1.
+		ASTEIKKOMUUTOS: +5
+		FEIDAUS: Säkeistön 1-2 muutos toistuu
+Säkeistö: (osittainen toisto, muunnelma)
+		ASTEIKKOMUUTOS: # (-5)
+			ASTEIKKO: Bb (bb)
+		SÄÄNTÖ: 3. sointu tiivistää 3-4 soinnut
+		SÄÄNTÖ: 4. sointu oikaisee prechoruksen instrumentaalina
+		FEIDAUS: G7: siirtymän kohde
+			< (+3: Em + major + 7)
+			> (-2: Am + major + 7)
+	1:   G7 (-2: Am + major + 7)
+	2:   Cm (-2: Dm)
+	3:   D7 (-2: Em + major + 7)
+	     G7 (-2: Am + major + 7)
+
+Bridge (instrumentaali, teeman lyhyempi muunnelma, vapaampi melodia):
+		ASTEIKKOMUUTOS: b (+5)
+			ASTEIKKO: Eb (bbb)
+		FEIDAUS: Cm: siirtymän kohde
+			< (-2: Dm)
+			> (+3: Am)
+	1-2: 2* Cm (+3: Am)
+
+Pre-chorus:
+		ASTEIKKOMUUTOS: ### (-3)
+			ASTEIKKO: C ()
+		FEIDAUS: basso _/C: melodia vie huomion
+	1: C  (0: C)
+	2: E7 (0: Em + major + 7)
+	3: Am (0: Am)
+		FEIDAUS:
+			SÄÄNTÖ: 4. sointu on sama kuin 1.
+				SÄÄNNÖN RIKKOMINEN: asteikkomuutos
+		ASTEIKKOMUUTOS: b (+5)
+			ASTEIKKO: F (b)
+	4: C7 (+5: G + 7)
+	5: F (+5: C)
+		FEIDAUS: itseasiassa toistaa C,Em,Am,G -> C
+	6: G7
+	7: C
+		TAHTILAJIPOIKKEUS: 6/4 (trioli)
+	8: C
+
+Chorus:
