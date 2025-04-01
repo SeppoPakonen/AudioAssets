@@ -12,8 +12,14 @@ using namespace Upp;
 #include <Draw/iml_header.h>
 
 class ChordTool : public WithChordToolLayout<TopWindow> {
+	MenuBar menu;
+	
 public:
+	typedef ChordTool CLASSNAME;
 	ChordTool();
+	
+	void MainMenu(Bar& bar);
+	
 };
 
 #endif

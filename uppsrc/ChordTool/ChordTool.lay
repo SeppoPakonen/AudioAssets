@@ -1,5 +1,5 @@
 LAYOUT(ChordToolLayout, 512, 248)
-	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Song")).HSizePosZ(4, 4).TopPosZ(4, 100))
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Song")).HCenterPosZ(504, 0).TopPosZ(4, 100))
 	ITEM(Upp::Label, dv___1, SetLabel(t_("Title:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, -202).TopPosZ(24, 20))
 	ITEM(Upp::EditString, title, HCenterPosZ(192, -56).TopPosZ(24, 20))
 	ITEM(Upp::Label, dv___3, SetLabel(t_("Author:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, -202).TopPosZ(48, 20))
@@ -10,6 +10,8 @@ LAYOUT(ChordToolLayout, 512, 248)
 	ITEM(Upp::EditIntSpin, bpm, HCenterPosZ(108, 194).TopPosZ(24, 20))
 	ITEM(Upp::Label, dv___9, SetLabel(t_("Genre:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, 90).TopPosZ(48, 20))
 	ITEM(Upp::EditString, genre, HCenterPosZ(108, 194).TopPosZ(48, 20))
-	ITEM(Upp::ArrayCtrl, dv___11, HSizePosZ(0, 0).VSizePosZ(112, 0))
+	ITEM(Upp::Label, dv___11, SetLabel(t_("Duration:")).SetAlign(Upp::ALIGN_RIGHT).HCenterPosZ(92, 90).TopPosZ(72, 20))
+	ITEM(Upp::EditString, duration, SetEditable(false).HCenterPosZ(108, 194).TopPosZ(72, 20))
+	ITEM(Upp::ArrayCtrl, list, HSizePosZ(0, 0).VSizePosZ(112, 0))
 END_LAYOUT
 

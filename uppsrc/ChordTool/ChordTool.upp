@@ -2,10 +2,13 @@ uses
 	CtrlLib;
 
 file
-	ChordTool.h,
 	main.cpp,
+	ChordTool.h,
+	ChordTool.cpp,
 	ChordTool.lay,
-	ChordTool.iml;
+	ChordTool.iml,
+	My.song,
+	Ecstacy.song;
 
 mainconfig
 	"" = "GUI";
