@@ -12,11 +12,6 @@ Muistiinpanot:
 - vaatimaton, pettynyt?
 - minä, sinä, passiivi
 - vaihtona: heruux vai ei?
-- surutta asteikon vaihdos + mollit duuri seiskoiksi
-	- teemaan 0 -asteikko
-	- säkeistö -5 -asteikko
-	- kertsi -3 -asteikko
-	- lopussa +1 transponointi
 - säkeistössä: 1. sointu yleensä sama kuin 4.
 
 
