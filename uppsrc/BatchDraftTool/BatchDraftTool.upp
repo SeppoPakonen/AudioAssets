@@ -1,0 +1,12 @@
+uses
+	CtrlLib;
+
+file
+	BatchDraftTool.h,
+	BatchDraftTool.cpp,
+	BatchDraftTool.iml,
+	main.cpp;
+
+mainconfig
+	"" = "GUI";
+
