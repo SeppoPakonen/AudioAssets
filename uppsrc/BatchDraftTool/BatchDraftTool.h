@@ -30,6 +30,7 @@ public:
 	void DataFile();
 	void SaveFile();
 	void LoadFile();
+	void EndCursor();
 	bool HasDir() const;
 	
 };

@@ -49,15 +49,7 @@ BatchDraftTool::BatchDraftTool() {
 				int cur = (files.GetCursor() + 1) % files.GetCount();
 				if (cur < files.GetCount()) {
 					files.SetCursor(cur);
-					PostCallback([this]{
-						int lines = this->edit.GetLineCount();
-						int chars = this->edit.GetLineLength(lines-1);
-						int c = this->edit.GetLength();
-						if (chars > 0)
-							this->edit.Insert(c++,"\n");
-						this->edit.SetCursor(c);
-						this->edit.SetFocus();
-					});
+					PostCallback([this]{this->EndCursor();});
 				}
 			}).Key(K_F1);
 			bar.Add("Quit", [this]{
@@ -68,7 +60,19 @@ BatchDraftTool::BatchDraftTool() {
 	LoadThis();
 	
 	PostCallback([this]{this->DataDirectory();});
+	PostCallback([this]{this->EndCursor();});
 }
+
+void BatchDraftTool::EndCursor() {
+	int lines = this->edit.GetLineCount();
+	int chars = this->edit.GetLineLength(lines-1);
+	int c = this->edit.GetLength();
+	if (chars > 0)
+		this->edit.Insert(c++,"\n");
+	this->edit.SetCursor(c);
+	this->edit.SetFocus();
+}
+
 
 void BatchDraftTool::DataDirectory() {
 	if (!HasDir()) return;
