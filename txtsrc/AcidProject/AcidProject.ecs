@@ -1,7 +1,7 @@
 {
 	"id": 1,
 	"hash": "-1793033956050569595",
-	"highest_seen_serial": 284455,
+	"highest_seen_serial": 284619,
 	"seen_types": [
 
 	],
@@ -23,7 +23,7 @@
 		"is_ref": false,
 		"is_definition": false,
 		"is_disabled": false,
-		"(int64&)serial": 284453,
+		"(int64&)serial": 284611,
 		"has_ext": false,
 		"sub": [
 			{
@@ -44,7 +44,7 @@
 				"is_ref": false,
 				"is_definition": false,
 				"is_disabled": false,
-				"(int64&)serial": 284455,
+				"(int64&)serial": 284613,
 				"has_ext": false,
 				"sub": [
 					{
@@ -65,7 +65,7 @@
 						"is_ref": false,
 						"is_definition": false,
 						"is_disabled": false,
-						"(int64&)serial": 284147,
+						"(int64&)serial": 284619,
 						"has_ext": true,
 						"ext": {
 							"data": [
@@ -90,7 +90,79 @@
 							]
 						},
 						"sub": [
+							{
+								"kind": 1007,
+								"id": "",
+								"type": "",
+								"(int64&)type_hash": 0,
+								"begin": {
+									"x": null,
+									"y": null
+								},
+								"end": {
+									"x": null,
+									"y": null
+								},
+								"(int64&)filepos_hash": 0,
+								"file": 1,
+								"is_ref": false,
+								"is_definition": false,
+								"is_disabled": false,
+								"(int64&)serial": 284470,
+								"has_ext": false,
+								"sub": [
 
+								]
+							},
+							{
+								"kind": 1007,
+								"id": "",
+								"type": "",
+								"(int64&)type_hash": 0,
+								"begin": {
+									"x": null,
+									"y": null
+								},
+								"end": {
+									"x": null,
+									"y": null
+								},
+								"(int64&)filepos_hash": 0,
+								"file": 1,
+								"is_ref": false,
+								"is_definition": false,
+								"is_disabled": false,
+								"(int64&)serial": 284493,
+								"has_ext": false,
+								"sub": [
+
+								]
+							},
+							{
+								"kind": 3600,
+								"id": "",
+								"type": "",
+								"(int64&)type_hash": 0,
+								"begin": {
+									"x": null,
+									"y": null
+								},
+								"end": {
+									"x": null,
+									"y": null
+								},
+								"(int64&)filepos_hash": 0,
+								"file": 1,
+								"is_ref": false,
+								"is_definition": false,
+								"is_disabled": false,
+								"(int64&)serial": 284525,
+								"has_ext": true,
+								"ext": null,
+								"sub": [
+
+								]
+							}
 						]
 					}
 				]
