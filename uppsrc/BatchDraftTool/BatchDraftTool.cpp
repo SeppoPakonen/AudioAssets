@@ -19,6 +19,12 @@ BatchDraftTool::BatchDraftTool() {
 	files.WhenCursor = THISBACK(DataFile);
 	
 	edit.WhenAction = [this] {
+		if (next_file_on_enter) {
+			int len = edit.GetLength();
+			if (len > 0 && len == edit.GetCursor() && edit.GetLineLength(edit.GetLineCount()-1) == 0) {
+				this->NextFile();
+			}
+		}
 		tc.Set(1000, [this]{this->SaveFile();});
 	};
 	
@@ -44,23 +50,34 @@ BatchDraftTool::BatchDraftTool() {
 				StoreThis();
 				PostCallback([this]{this->DataDirectory();});
 			}).Key(K_CTRL_O);
-			bar.Add("Open next file", [this]{
-				if (!files.IsCursor()) return;
-				int cur = (files.GetCursor() + 1) % files.GetCount();
-				if (cur < files.GetCount()) {
-					files.SetCursor(cur);
-					PostCallback([this]{this->EndCursor();});
-				}
-			}).Key(K_F1);
-			bar.Add("Quit", [this]{
-				this->Close();
-			}).Key(K_CTRL_Q);
+			bar.Add("Open next file", [this]{this->NextFile();}).Key(K_F1);
+			bar.Add("Next file on new-last-line", [this]{
+				next_file_on_enter = !next_file_on_enter;
+			}).Key(K_F2).Check(next_file_on_enter);
+			bar.Add("Open directory in file manager", [this]{
+				if (dir.IsEmpty()) return;
+				#ifdef flagWIN32
+				system("explorer.exe \"" + dir + "\"");
+				#endif
+			}).Key(K_F4);
+			bar.Add("Refresh files", [this]{this->DataDirectory();}).Key(K_F5);
+			bar.Add("Batch create files", [this]{this->BatchCreate();}).Key(K_F7);
+			bar.Add("Quit", [this]{this->Close();}).Key(K_CTRL_Q);
 		});
 	});
 	LoadThis();
 	
 	PostCallback([this]{this->DataDirectory();});
 	PostCallback([this]{this->EndCursor();});
+}
+
+void BatchDraftTool::NextFile() {
+	if (!files.IsCursor()) return;
+	int cur = (files.GetCursor() + 1) % files.GetCount();
+	if (cur < files.GetCount()) {
+		files.SetCursor(cur);
+		PostCallback([this]{this->EndCursor();});
+	}
 }
 
 void BatchDraftTool::EndCursor() {
@@ -99,6 +116,10 @@ void BatchDraftTool::DataDirectory() {
 
 void BatchDraftTool::SaveFile() {
 	if (activepath.IsEmpty()) return;
+	if (active_exists && !FileExists(activepath)) {
+		if (!PromptYesNo(DeQtf("File doesn't exist anymore. Do you want to save anyway?")))
+			return;
+	}
 	String txt = edit.GetData();
 	FileOut fout(activepath);
 	fout << txt;
@@ -107,8 +128,13 @@ void BatchDraftTool::SaveFile() {
 
 void BatchDraftTool::LoadFile() {
 	if (activepath.IsEmpty()) return;
-	String txt = UPP::LoadFile(activepath);
-	edit.SetData(txt);
+	active_exists = FileExists(activepath);
+	if (active_exists) {
+		String txt = UPP::LoadFile(activepath);
+		edit.SetData(txt);
+	}
+	else
+		edit.Clear();
 }
 
 void BatchDraftTool::DataFile() {
@@ -134,3 +160,22 @@ bool BatchDraftTool::HasDir() const {
 	return dir.GetCount() && DirectoryExists(dir);
 }
 
+void BatchDraftTool::BatchCreate() {
+	if (!HasDir()) return;
+	String title = "Batch Create";
+	WithBatchCreate<TopWindow> dlg;
+	CtrlLayoutOKCancel(dlg, title);
+	dlg.count.SetData(8);
+	if(dlg.Execute() == IDOK) {
+		int n = dlg.count;
+		n = min(100,n);
+		String title = dlg.title.GetData();
+		for(int i = 1; i <= n; i++) {
+			String path = AppendFileName(dir, title + " " + IntStr(i) + ".txt");
+			if (!FileExists(path)) {
+				FileOut fout(path);
+			}
+		}
+		this->DataDirectory();
+	}
+}

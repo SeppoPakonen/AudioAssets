@@ -1,0 +1,10 @@
+LAYOUT(BatchCreate, 400, 120)
+	ITEM(Upp::LabelBox, dv___0, SetLabel(t_("Create batch")).HSizePosZ(4, 4).VSizePosZ(4, 4))
+	ITEM(Upp::Label, dv___1, SetLabel(t_("Title:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(12, 100).TopPosZ(24, 19))
+	ITEM(Upp::EditString, title, HSizePosZ(116, 12).TopPosZ(24, 19))
+	ITEM(Upp::Label, dv___3, SetLabel(t_("Count:")).SetAlign(Upp::ALIGN_RIGHT).LeftPosZ(12, 100).TopPosZ(48, 19))
+	ITEM(Upp::EditIntSpin, count, LeftPosZ(116, 88).TopPosZ(48, 19))
+	ITEM(Upp::Button, cancel, SetLabel(t_("Cancel")).RightPosZ(148, 132).BottomPosZ(9, 23))
+	ITEM(Upp::Button, ok, SetLabel(t_("OK")).RightPosZ(12, 132).BottomPosZ(9, 23))
+END_LAYOUT
+

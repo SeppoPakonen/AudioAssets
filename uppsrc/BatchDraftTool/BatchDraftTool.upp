@@ -5,6 +5,7 @@ file
 	BatchDraftTool.h,
 	BatchDraftTool.cpp,
 	BatchDraftTool.iml,
+	BatchDraftTool.lay,
 	main.cpp;
 
 mainconfig

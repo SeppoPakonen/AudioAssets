@@ -8,6 +8,8 @@ using namespace Upp;
 #define IMAGEFILE <BatchDraftTool/BatchDraftTool.iml>
 #include <Draw/iml_header.h>
 
+#define LAYOUTFILE <BatchDraftTool/BatchDraftTool.lay>
+#include <CtrlCore/lay.h>
 
 class BatchDraftTool : public TopWindow {
 	MenuBar		menu;
@@ -17,6 +19,8 @@ class BatchDraftTool : public TopWindow {
 	
 	TimeCallback tc;
 	String dir, activepath;
+	bool active_exists = false;
+	bool next_file_on_enter = false;
 	
 public:
 	typedef BatchDraftTool CLASSNAME;
@@ -27,10 +31,12 @@ public:
 	void LoadThis() {LoadFromFile(*this, ConfigFile("app.bin"));}
 	void Serialize(Stream& s) {s % dir;}
 	void DataDirectory();
+	void NextFile();
 	void DataFile();
 	void SaveFile();
 	void LoadFile();
 	void EndCursor();
+	void BatchCreate();
 	bool HasDir() const;
 	
 };
