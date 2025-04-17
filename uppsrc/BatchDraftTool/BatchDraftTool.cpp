@@ -64,8 +64,19 @@ BatchDraftTool::BatchDraftTool() {
 			bar.Add("Batch create files", [this]{this->BatchCreate();}).Key(K_F7);
 			bar.Add("Quit", [this]{this->Close();}).Key(K_CTRL_Q);
 		});
+		bar.Sub("Editor", [this](Bar& bar) {
+			bar.Add("Increase font size", [this]{
+				edit.SetFont(Arial(++fnt_size));
+				StoreThis();
+			}).Key(K_F11);
+			bar.Add("Decrease font size", [this]{
+				edit.SetFont(Arial(--fnt_size));
+				StoreThis();
+			}).Key(K_F10);
+		});
 	});
 	LoadThis();
+	edit.SetFont(Arial(fnt_size));
 	
 	PostCallback([this]{this->DataDirectory();});
 	PostCallback([this]{this->EndCursor();});

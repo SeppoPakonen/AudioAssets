@@ -19,6 +19,7 @@ class BatchDraftTool : public TopWindow {
 	
 	TimeCallback tc;
 	String dir, activepath;
+	int fnt_size = 32;
 	bool active_exists = false;
 	bool next_file_on_enter = false;
 	
@@ -29,7 +30,7 @@ public:
 	
 	void StoreThis() {StoreToFile(*this, ConfigFile("app.bin"));}
 	void LoadThis() {LoadFromFile(*this, ConfigFile("app.bin"));}
-	void Serialize(Stream& s) {s % dir;}
+	void Serialize(Stream& s) {s % dir % fnt_size;}
 	void DataDirectory();
 	void NextFile();
 	void DataFile();
