@@ -1,7 +1,7 @@
 {
 	"id": 1,
 	"hash": "-1793033956050569595",
-	"highest_seen_serial": 284619,
+	"highest_seen_serial": 284971,
 	"seen_types": [
 
 	],
@@ -23,7 +23,7 @@
 		"is_ref": false,
 		"is_definition": false,
 		"is_disabled": false,
-		"(int64&)serial": 284611,
+		"(int64&)serial": 284959,
 		"has_ext": false,
 		"sub": [
 			{
@@ -44,7 +44,7 @@
 				"is_ref": false,
 				"is_definition": false,
 				"is_disabled": false,
-				"(int64&)serial": 284613,
+				"(int64&)serial": 284969,
 				"has_ext": false,
 				"sub": [
 					{
@@ -65,7 +65,7 @@
 						"is_ref": false,
 						"is_definition": false,
 						"is_disabled": false,
-						"(int64&)serial": 284619,
+						"(int64&)serial": 284967,
 						"has_ext": true,
 						"ext": {
 							"data": [
@@ -159,6 +159,69 @@
 								"(int64&)serial": 284525,
 								"has_ext": true,
 								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					},
+					{
+						"kind": 1006,
+						"id": "Scene 1",
+						"type": "",
+						"(int64&)type_hash": 0,
+						"begin": {
+							"x": null,
+							"y": null
+						},
+						"end": {
+							"x": null,
+							"y": null
+						},
+						"(int64&)filepos_hash": 0,
+						"file": 1,
+						"is_ref": false,
+						"is_definition": false,
+						"is_disabled": false,
+						"(int64&)serial": 284971,
+						"has_ext": false,
+						"sub": [
+							{
+								"kind": 2001,
+								"id": "Scene Session",
+								"type": "",
+								"(int64&)type_hash": 0,
+								"begin": {
+									"x": null,
+									"y": null
+								},
+								"end": {
+									"x": null,
+									"y": null
+								},
+								"(int64&)filepos_hash": 0,
+								"file": 1,
+								"is_ref": false,
+								"is_definition": false,
+								"is_disabled": false,
+								"(int64&)serial": 284842,
+								"has_ext": true,
+								"ext": {
+									"data": [
+										{
+											"key": "description",
+											"value": null
+										},
+										{
+											"key": "gender",
+											"value": null
+										},
+										{
+											"key": "ctx",
+											"value": null
+										}
+									]
+								},
 								"sub": [
 
 								]
