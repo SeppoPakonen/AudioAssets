@@ -526,11 +526,11 @@ Verse 1:
 9  Mun sormet kutittaa sun ihoa
 10 Mun nimi pyörii sun huulilla
 11 Söpösti sä liikut lähemmäs
-12 Mun täytyy koskettaa sun käteäs
-13  Sykkeet hakkaa samaa tempoo
-14  Beat pysähtyy kun sä hymyilet
-15  Palapelin palat loksahtaa
-16  Klik – ja me suljetaan oven perässämme
+12 Täytyy jo koskettaa sun käteäs
+13 Sykkeet hakkaa samaa tempoo
+14 Vaihtuu biisi, vaihdetaan asentoo
+15 Palapelin palat loksahtaa
+16 Klik – ja shamppanja poksahtaa
 
 Chorus:
 1  Vain sun muoto luotu on mun muotoon niinku avain lukkoon
@@ -551,18 +551,18 @@ Verse 2:
 10 Pidät mut biitis vaikka laukka karkaa
 11 Hengität mun korvaan punchlaineja
 12 Lupaan vaihtaa tasoo rajumpaan
-13  Korkkaan sut auki kuin samppanjan
-14  Kuplat iskee meihin molempiin
-15  Mun voitto on sun voitto automaattii
-16  Kun tähdet räpsähtää, me ollaan se salama
+13 
+14
+15
+16
 
 Bridge:
 1  Ollaan saman kolikon kaks pintaa
 2  Kun onni nykii mua, se vetää sut mukaan.
-3   Samaa virtaa kahdessa johdossa
-4   Kipinä leikkaa pimeän kuin salama
-5   Yksi aalto kantaa molemmat rantaan
-6   Jos mä nousen, sä oot jo ilmassa
-7   Hengitys osuu täsmälleen sekuntiin
-8   Ja maailmalla ei oo muuta rytmiä
+3
+4
+5  Sama aalto kantaa molemmat rantaan
+6  Jos mä nousen, sä nousit jo ilmaan
+7  
+8  Kun me ollaan maailman ainut rytmi
 
