@@ -1,3 +1,99 @@
+Nimi:     Vain Sun
+Esittäjä: Spoko
+Tekijä:   Seppo Pakonen
+Tekoäly:  Inspiraatiotekstin perkaamista. Ei ideaa, ei riimejä.
+
+
+Yy kaa, käsi hanskaan liukuu ja siihen sopii
+Kylmä on tie, mut auto lämmin on nii
+Sanoo gps, älä mee täst
+Mutta matka antaa aikaa olla vieressäs
+Yhteen vedät meitä niinku magneetti
+Houkuttaa maistaa maku huultesi
+Ympärillä meidän valot kaupungin
+Vilkkuu tahdissa mun musiikin
+Mun sormet kutittaa sun ihoa
+Mun nimi pyörii sun huulilla
+Söpösti sä liikut lähemmäs
+Täytyy jo koskettaa sun käteäs
+Sykkeet hakkaa samaa tempoo
+Vaihtuu biisi, vaihdetaan asentoo
+Palapelin palat loksahtaa
+Klik – ja shamppanja poksahtaa
+
+Vain sun muoto luotu on mun muotoon niinku avain lukkoon
+Niinku avain lukkoon
+Vain sun muotoon mä sovin näin
+Sovin näin, sovin näin, sovin eestä ja takaapäin
+
+Yy kaa, hommaa starttaa, kun katseet kohtaa
+Halaus on hanska 2.0
+On nii kuuma, hikoilen niinku pihvi
+Sä naurat, ku huone pimeni
+Nakkaan paidan pois, ja navat törmää
+Iho vasten ihoo, sormet piirtää reittiä
+Lakana on kartta, sun tuoksu kompassi
+Suuntaan etelään pitkin mahaasi
+Maanjäristys hipaisusta laukeaa
+Pidät mut biitis vaikka laukka karkaa
+Hengität mun korvaan punchlaineja
+Lupaan vaihtaa tasoo vähän rajumpaan
+Jos et tuu niin tuun vähän auttamaan
+Saan sut lisää vielä jaksamaan
+Uudestaan alkamaan, uutta koittamaan
+huiluu soittamaan, vähän opettamaan
+
+Vain sun muoto luotu on mun muotoon niinku avain lukkoon
+Niinku avain lukkoon
+Vain sun muotoon mä sovin näin
+Sovin näin, sovin näin, sovin eestä ja takaapäin
+Vain sun muoto luotu on mun muotoon niinku avain lukkoon
+Niinku avain lukkoon
+Vain sun muotoon mä sovin näin
+Sovin näin, sovin näin, sovin eestä ja takaapäin
+
+Basso sykkii meidän tahdissa
+Kaikki muu unohtui taustakohinaks
+Sama taajuus värisee 
+Samas synkas, metronomit liikkees
+Ollaan saman kolikon kaks pintaa
+Kun onni löytää mut, se vetää sut mukaan
+Ja yhes ollaan yks ainoo rytmi
+Joka jatkuu vaikka biisi päättyikin
+
+Vain sun muoto luotu on mun muotoon niinku avain lukkoon
+Niinku avain lukkoon
+Vain sun muotoon mä sovin näin
+Sovin näin, sovin näin, sovin eestä ja takaapäin
+Vain sun muoto luotu on mun muotoon niinku avain lukkoon
+Niinku avain lukkoon
+Vain sun muotoon mä sovin näin
+Sovin näin, sovin näin, sovin eestä ja takaapäin
+
+Vain sun muoto luotu on mun muotoon
+Mun muotoon luotu on
+Mun muotoon luotu sun muoto on
+Sun muoto on
+Mun muoto luotu on sun muotoon
+Sun muotoon, beibi
+Vain sun muotoon mä sovin näin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Alkuperäinen inspiraatioteksti:
 Vedän käteen hanskan joka täydellisesti sopii.
 Kävelen iltaan ja syön aterian jota koko päivän ootin.
@@ -536,33 +632,38 @@ Chorus:
 1  Vain sun muoto luotu on mun muotoon niinku avain lukkoon
 2  Niinku avain lukkoon
 3  Vain sun muotoon mä sovin näin
-4  Sovin näin, sovin näin, soivin eestä ja takaapäin
+4  Sovin näin, sovin näin, sovin eestä ja takaapäin
 
 Verse 2:
 1  Yy kaa, hommaa starttaa, kun katseet kohtaa
 2  Halaus on hanska 2.0
 3  On nii kuuma, hikoilen niinku pihvi
 4  Sä naurat, ku huone pimeni
-5  Nakkaan paidan pois, ja navat törmää
-6  Iho vasten ihoo, sormet piirtää reittiä
-7  Lakana o kartta, sun tuoksu kompassi
-8  Suuntaan etelään pitkin mahaasi
+5  Nakkaan .paidan pois, ja navat törmää
+6  Iho .vasten ihoo, sormet piirtää reittiä
+7  _ Lakana o kartta, sun tuoksu kompassi
+8  Suuntaan etelään _ pitkin mahaasi
 9  Maanjäristys hipaisusta laukeaa
 10 Pidät mut biitis vaikka laukka karkaa
 11 Hengität mun korvaan punchlaineja
-12 Lupaan vaihtaa tasoo rajumpaan
-13 
-14
-15
-16
+12 Lupaan vaihtaa tasoo vähän rajumpaan
+13 Jos et tuu niin tuun vähän auttamaan
+14 Saan sut lisää vielä jaksamaan
+15 Uudestaan alkamaan, uutta koittamaan,
+16 huiluu soittamaan, vähän opettamaan
 
 Bridge:
-1  Ollaan saman kolikon kaks pintaa
-2  Kun onni nykii mua, se vetää sut mukaan.
-3
-4
-5  Sama aalto kantaa molemmat rantaan
-6  Jos mä nousen, sä nousit jo ilmaan
-7  
-8  Kun me ollaan maailman ainut rytmi
+1 _ Basso .sykkii meidän tahdissa.
+2 _ Kaikki .muu unohtui taustakohinaks.
+3  _ Sama .taajuus värisee 
+4  _ Samas .synkas, metronomit liikkees.
+3  _ .Ollaan saman kolikon kaks pintaa.
+4  Kun .onni löytää mut, se vetää sut mukaan.
+7  Ja .yhes ollaan yks ainoo rytmi
+8  .Joka jat.kuu vaikka .biisi päättyikin
+
+
+
+
+
 
