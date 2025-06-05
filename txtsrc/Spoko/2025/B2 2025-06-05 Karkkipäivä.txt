@@ -1,0 +1,196 @@
+
+
+
+~ AI KESKUSTELU (openai o4-mini-2025-04-16) ~
+
+>>>>
+Autat laulunkirjoittajaa tekemään inspiraatiotekstiä uuteen kappaleen. Inspiraatiotekstissä yksi rivi vastaa laululyriikoiden yhtä riviä, mutta rivien ei tarvitse rimmata ollenkaan. Inspiraatiotekstissä suositaan selkeyttä, eikä taiteellisuutta.
+Aluksi otat huomioon jotain aikaisempia muistiinpanoja tai lyriikoita, ja luot sitten inspiraatiotekstin niistä.
+Voit myös esittää tarkentavia kysymyksiä ennen inspiraatiotekstin luomista. On suotavaa esittää 3 tarkentavaa kysymystä vähintään.
+Inspiraatiotekstissä ei ole mitään "minä" persoonassa. Eli ainoastaan "hän" / "te" / "he"/ passiivi on sallittu.
+
+>>>>
+Kappaleessa mies ja nainen riitelee. He ovat juuri eroneet parisuhteesta.
+
+
+Sulje sun silmäs, kuuntele mun ääntä;
+mun päätä särkee, ku olin taas vääräs.
+Juoksin sun kanssa ilman määränpäätä,
+pliis lähtisitkö vittuun mun päästä ämmä.
+Haluaisin pyytää sitä kukkasin, mutta jos muistat
+en antanu sulle rukkasii.
+Hukkasin vaa luottamukseni sun kanssa,
+kultapieni, teit mun maailmasta harmaan.
+Vittuilit selän takana ja päin naamaa,
+poltit mun röökit ja joit mun kaljat.
+Sulje sun silmät ja samalla suusi,
+tekis mieli katkoo ajatukses ja samalla suusi.
+Ja samalla, tekis mieli suudella,
+yhtä tunteella kuin meidän ensisuudelmas.
+Vittu, koitan pitää mieleni kurissa, mutta ei huvita
+kun kattelen vanhoi valokuvia.
+
+Hei tyttö, tunteista taidetta tehtiin.
+Hei tyttö, mikään ei kestä ikuisesti.
+Hei tyttö, vaikka se oli rakkauden aikaa,
+Hei tyttö, ei edes unissani en sua kaipaa.
+                              
+Hei tule poika tänne, niin mä sua kuritan.
+Rutistan sun pallit kasaan ja sua vähän kuristan.
+Muistan sen aina kun tuhosit tän tahallaan,
+tuhosit mun elämän ja mut siinä samalla.
+En vaan tajuu kuin sun tunteet oikeen hävis,
+oot vitun leija vaikka oot vaan ruma fägis.
+Äh, anteeks, mut mä halusin sut takasi.
+Salasin sen vaan sulta että sua rakastin.
+Ku et ollu himas seksii frendies kaa harrastin,
+tein katalasti, en ees kertonut vaan halasin sua,
+myöhemmin palkaks sun massit varastin,
+en vaan jaksanut kun taas bissepullon avasit.
+Kaikki oli sun syytä kai sä sen jo tajusit,
+rakastit vissiin ja olin mitä halusit.
+Silti sä mulkku petit pitkin Oulun läänii.
+Kaiken tän jälkeen sydän huutaa sua bäkkii.
+
+Hei tyttö, tunteista taidetta tehtiin.
+Hei tyttö, mikään ei kestä ikuisesti.
+Hei tyttö, vaikka se oli rakkauden aikaa,
+Hei tyttö, ei edes unissani en sua kaipaa.
+
+Koita tajuta, tää riitely ei joha mihinkään,
+mun sydän on kuuma, mutta sulla ei oo kipinää.
+Ai mä oon ruma, et viittis yllyttää,
+en sentään näytä tulleeni lihamyllystä.
+Okei sori, liiottelin ku suutuin,
+mutta mun tunteet ei hävinny vaan sä muutuit.
+Ja mä jakelinki itteeni vain Oulun puolelle, ku sä
+pidit haarojasi auki koko Suomelle.
+Mussakin oli vikaa, iteppä rakastin.
+Nyt sydämmeni lämpee sulle, ku pakastin.
+Ehkä oon katkera, ehkä nään sut kahtena,
+lasi kädessä, ku ero oli ankea.
+Ensin itkit, nyt pitäis ottaa takaa,
+ehkä unissas, niin petaa, ku makaa.
+Nää yöt on kylmii ilman sua, päivät tylsii ilman sua,
+silti tuntuu että pärjään ihan hyvin ilman sua.
+
+Hei tyttö, tunteista taidetta tehtiin.
+Hei tyttö, mikään ei kestä ikuisesti.
+Hei tyttö, vaikka se oli rakkauden aikaa,
+Hei tyttö, ei edes unissani en sua kaipaa.
+
+>>>>
+Esitä minulle kysymyksiä liittyen kappaleen sisällön parantamiseen, kun tavoitteena on tehdä mahollisimman paljon kuunteluita Trap hiphopin kuulijoiden kesken.
+
+
+<<<<
+
+    Minkälaisen tunnelman halutaan välittää: kovempaa raivotahtoa vai katkeransuloista surua?
+    Kuinka tarttuva ja toistuva kertosäe tai hook on tärkeä trap-kuulijoille – halutaanko yksinkertainen hokema vai monimutkaisempi melodialinja?
+    Millaisia kielellisiä tyylejä houkutellaan: paljon englanninkielisiä sanoja ja slängiä vai pääosin suomeksi?
+    Haluutaanko kertoa koko riidan ja eron tarina kronologisesti vai keskittyä tiettyihin kipukolmiin (pettymys, kostonhalu, muistot)?
+    Kuinka keskeisiä ovat oivallukset oman kokemuksen jakamisesta versus korostettu katu- tai elämäntyyli-kuvasto?
+    Millainen biittirakenne ja tempo vetoavat parhaiten kohdeyleisöön – hidas, raskas groove vai nopeampi, energinen trap?
+    Haluutaanko mukana ad-libejä ja efektejä (esim. huudahdukset, kaiku, puheäänet) vai pelkistetympää soundia?
+
+
+>>>>
+Tunnelma saisi vaihdella koomisesti kovemman raivotahdon ja katkeransuloisen surun välillä jokaisen rivin jälkeen jopa.
+Kertosäkeeseen halutaan toistuva hokema, jonka jälkeen tulee monimutkaisempi lause.
+Inspiraatioteksti on kokonaan suomeksi.
+Kronologialla ei ole väliä. Keskitytään kipukohtiin, mutta niiden taustoja voi selitellä hieman kronologimaisesti.
+Oman kokemuksen jakaminen on oleellisinta, ja pop elämäntyyli ei ole oleellista.
+Tempo on 62bpm, ja biitti on melodinen trap. Biitissä on akustinen kitara samplattu ja pilkottu.
+Mukana on ad-libejä
+
+>>>>
+Kappaleen rakenne on:
+- Säkeistö 1: 16 riviä
+- Kertosäkeistö: 4 riviä
+- Säkeistö 2: 16 riviä
+- Kertosäkeistö: 4 riviä
+- Säkeistö 3: 16 riviä
+- Kertosäkeistö: 4 riviä
+
+Kirjoita inspiraatioteksti.
+
+
+<<<<
+Säkeistö 1
+
+    Hän heräsi keskellä yötä riuhtaisevaan vihaan (ha!)
+    Hän huomasi kyyneleet polttavan sisällä
+    Viha puhalsi kylmää savua suljettuihin oviihin (yeah!)
+    Suru laskeutui vierelle pimeänä peittona
+    Yön hiljaisuus leikkasi terävänä kuin veitsi (haa!)
+    Sydän jyskytti kuin murtunut rumpu tyhjässä huoneessa
+    Kielto soi korvissa kuin räjähdys (uh!)
+    Jäljet muistuttivat sidottuista unelmista
+    Huuto piiloutui suljettujen huulien taa (ay!)
+    Tyhjyys kaivoi syvyyksiä lämpimän muiston alta
+    Nyrkki hakkaa ilmassa kuvitelmaa (brah!)
+    Kaiku kantaa takaisin menneitä lupauksia
+    Katse iskee kuin kuuma mutteri rautaan (woah!)
+    Viileä hiki valuu pitkin muistoja
+    Säröinen sydän pyrkii kapinoimaan hiljaisuutta vastaan (ha!)
+    Haavat kuiskivat tarinoita rakkauden romahtamisesta
+
+Kertosäkeistö
+
+    Sitä kipua ei unohdeta
+    Sitä kipua ei unohdeta (uh!)
+    Unessa se palaa takaisin
+    Sydän haluaa kipinän vielä kerran (ha!)
+
+Säkeistö 2
+
+    Hän näki viestin puhelimen näytöllä ja sydän pamppailee (ha!)
+    Tyhjät sanat tuntuivat liirumlaarumeilta
+    Salailtiin öitä vääriä katseita ja varjoja (yeah!)
+    Hymy kalpeni petturin avuliaisuudessa
+    Pullo kaatui pöydälle kuin tuomio (uh!)
+    Alkoholi houkutteli unohtamaan katuvat sanat
+    Kädet varastivat lämpöä missä ei kuulunut olla (ay!)
+    Huone täyttyi hiljaisuudesta ja raskautuvasta ilmanalasta
+    Kiroilut lensivät kuin terävät kiekot (brah!)
+    Sydän muistutti petturin viileästä naurusta
+    Jalat polttivat katuja karkuun muistoja (woah!)
+    Hiljaisuus vastasi itkuun kuin kuollut huone
+    Kostonhimo möykkäsi verisuonia (ha!)
+    Katkeruus maistui kuin happo märässä sisällä
+    Toinen halaus vääristyi iskuiksi (uh!)
+    Muistoissa piilee todellisuus, jota ei haluttu kohdata
+
+Kertosäkeistö
+
+    Sitä kipua ei unohdeta
+    Sitä kipua ei unohdeta (uh!)
+    Unessa se palaa takaisin
+    Sydän haluaa kipinän vielä kerran (ha!)
+
+Säkeistö 3
+
+    Hän suihkuttaa vihaa puheisiin kuin myrkkyä (ha!)
+    Katkeroitunut toivo kuolee hiljaisesti
+    Nyrkki retkahtelee tyhjään ilmaan (yeah!)
+    Kyynel kutistaa rintaa kuin kivi
+    Hammasta purren palaa kuvia unohduksesta (uh!)
+    Jään paljasta lämmölle, jota ei enää annettu
+    Torjutut sanat sumuuntuvat kiroiluiksi (ay!)
+    Hiljainen huone kuiskii satuttavia vastauksia
+    Katse palaa kerta toisensa jälkeen tuhoutuneeseen yöhön (brah!)
+    Hän tunsi tyhjyyden hehkuvan läpi luisten rintojen
+    Sydän hakkaa taistelua vastaan, jota ei voita (woah!)
+    Suru kylmenee jokaiseen uneen
+    Kiihko hakee viimeistä kohtaamista (ha!)
+    Muistot tanssivat veressä poltetun sillan yllä
+    Hän päästää irti samanaikaisesti vihasta (uh!)
+    Syntyy rauha, vaikka arvet kipuavat vielä
+
+Kertosäkeistö
+
+    Sitä kipua ei unohdeta
+    Sitä kipua ei unohdeta (uh!)
+    Unessa se palaa takaisin
+    Sydän haluaa kipinän vielä kerran (ha!)
+
