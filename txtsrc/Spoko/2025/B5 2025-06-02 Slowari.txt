@@ -1,0 +1,226 @@
+
+~ AI KESKUSTELU (openai o4-mini-2025-04-16) ~
+
+>>>>
+Autat laulunkirjoittajaa tekemään inspiraatiotekstiä uuteen kappaleen. Inspiraatiotekstissä yksi rivi vastaa laululyriikoiden yhtä riviä, mutta rivien ei tarvitse rimmata ollenkaan. Inspiraatiotekstissä suositaan selkeyttä, eikä taiteellisuutta.
+Aluksi otat huomioon jotain aikaisempia muistiinpanoja tai lyriikoita, ja luot sitten inspiraatiotekstin niistä.
+Voit myös esittää tarkentavia kysymyksiä ennen inspiraatiotekstin luomista. On suotavaa esittää 3 tarkentavaa kysymystä vähintään.
+
+Inspiraatioteksti on enimmäkseen "minä","sinä","me","ne",passiivi persoonassa.
+
+
+>>>>
+Aijempi inspiraatioteksti:
+
+Kesti kauemmin kuin arvelin
+Että meidän tanssista mitään sanoisin
+Kumpi haki en muista
+Varmaan molemmat vuorotellen, varmaan sä ensiks.
+Muistan sun kaverit, ja kuinka ne hihitteli,
+Kuinka ne meitä paritti ja yhdessä tanssimaan saada yritti.
+En tiiä miks sä ja mä oltiin niin ilmiselvä pari.
+Ainakin muiden mielestä, vaikka ei mun.
+Taisin särkee enemmän kuin sun sydämen.
+Taisin saada sut näyttään liian huonolta.
+Ei yleensä sellainen kaada ketään, ja niin mä luulin.
+Mutta ikäviä uutisia sun luota päin kuulin.
+
+Luulin, et me oltiin menossa samaan määränpäähän.
+Luulin, et tulevaisuudes meidät yhdes nähdään.
+Rukoilin jotain parempaa mun elämään.
+Mut kaikki mun ympärillä pyöri odottamattomaan suuntaan.
+
+Ei kumpikaan olis uskonut, jos tulevaisuus olis kerrottu.
+Kukaan ei mistään varoittanut, ja olo nyt on huijattu.
+Ei kukaan ota vastuuta, vaik kaikkea aiheuttaa.
+Vieraantuu vain jos sä anteekspyyntöö odotat.
+Yllätti et muut aistii, vaan ei tajua.
+Ei yritä tehdä mitään, vaik tietää et ei oo mitään hajuaa.
+Piittaamattomuus on tän yhteiskunnan sääntö.
+Ja rankaisijalta tulee hiljaisuuteen siunaus.
+Elämä olikin peli, jossa huijaus on sallittu.
+Koulu olikin paikka, jossa oppiminen oli kielletty.
+Miesten kesken oppi eniten naisista,
+Ja naisten keskel asuneena tiedän, et ne ei silti tajuu ollenkaan.
+Eri peli on konflikteilla hallitseminen.
+Pahin ihmissaasta kyllä hallitsee taidon sen.
+Ei perintövero sitä voi estää.
+Manipulointi isältä pojalle siirtyy, ja naiset oikeutta pelkää.
+
+Luulin, et olis ollut täs iässä lapsii ja töitä.
+Luulin, että olisin nauttinut sun kans arkielämästä.
+Sen sijaan saatiin ulkokuorea palvova some-helvetti.
+Ja loppui ne meidän slowaritanssitkin.
+
+Sun kanssa heiluin hiljalleen rytmiin.
+Voin kuulla Rasmuksen Liquidin soivan nytkin.
+Syvälle sieluun jäit sä niin kauniina.
+Mun sielunystävä, jolle kaikki oli kivaa ja makeaa.
+Mä olin tuntenut elämässä vain tappelut ja konfliktin.
+Mitä muuta aiheuttaa osaisin.
+Sä et ottanut tilannetta haltuun.
+Eikä kukaan muu, vaan kaikki lähti karkuun.
+
+Slowarit, joista kaikki lähti karkuun.
+Poispäin, muille parkuun.
+Slowarit, lapsellisen raukkamaisesti.
+Mun syytä, en voi mitään, ja vittu että harmitti.
+
+
+
+>>>>
+Kappaleen rakenne:
+- Verse 1: 16 riviä
+- Chorus: 4 riviä
+- Verse 2: 16 riviä
+- Chorus (toisto, 2x)
+- Bridge: 8 riviä
+- Chorus (toisto, 2x)
+
+Esitä minulle kysymyksiä liittyen kappaleen sisällön parantamiseen, kun tavoitteena on tehdä mahollisimman paljon kuunteluita Trap hiphopin kuulijoiden kesken.
+
+
+
+<<<<
+Seuraavat kysymykset auttavat syventämään ja hiomaan kappaleen sisältöä trap-hiphop-yleisölle sopivaksi:
+
+    Millainen päähenkilön rooli on – onko hän katujen kasvatti, menestyjä, pettynyt rakastaja vai jotain muuta?
+    Haluatko tarinaan mukaan selkeitä viittauksia rahaan, luksustuotteisiin ja status-symbolisiin brändeihin?
+    Kuinka vahvasti haluat tuoda esiin konfliktin ja koston teemoja verrattuna romanttiseen petokokemukseen?
+    Minkälainen tunnelma ja tempo biitissä mielessäsi on – hidas, mid-tempo vai aggressiivinen trap?
+    Kuinka paljon slangia ja murresanoja haluat käyttää, ja haluatko viitata tiettyihin paikkoihin tai porukoihin (katuuskonto, oma kaupunki)?
+    Mikä olisi chorus-hookin ydinviesti tai avainsana, jonka haluat toistaa ja joka jää kuulijan mieleen?
+    Haluatko kertojaperheeseen tai tarinaan mukaan sivuhahmoja (esim. kilpakumppani, vanhempi, ystävä) antamaan lisäsyvyyttä?
+    Onko mielessä jokin tietty esikuvabiisi tai artisti, jonka tyyliä haluat tavoitella soitinvalinnoissa, soundeissa tai flow’ssa?
+
+
+>>>>
+Tempo on half-tempo 124bpm, eli 67bpm. Taustamusiikissa on voimakkaan romanttinen ja synkkä tunne.
+Päähenkilön rooli on: pettynyt rakastaja, yksinäinen susi, petetty, arpinaama, ikuinen toivoja, kauneuden vaatija.
+Haluan tarinaan selkeyttä joka tasolla. Brändien mainitseminen voi olla parempi kuin yleisnimien käyttö selkeyden vuoksi.
+Haluan optimaalisessa tasapainossa konfliktin ja koston teemoja verrattuna romanttiseen petokokemukseen.
+
+En halua korostaa flaijausta, katu-uskottavuutta ja kapinallisuutta, koska laulaja on pienestä kylästä jossa puolet ovat olleet kultti-uskovaisia, eikä sellainen kannattanut.
+En halua käyttää suomalaista street-slangia, mutta Oulun murretta voi käyttää.
+Väliin ei laitetaa englanninkielistä räppi-vibaa, mutta juntti-suomea ja farmari-ajattelua voi laittaa väliin.
+Kertosäkeen rooli on melodiapainotteinen hook, jossa tunnelma on tunteellisen voimakas, kuin häätilaisuudessa valan vannominen.
+Kappaleessa on trap tyylinen rumpuraita, mutta se ei vaikuta sanoituksiin.
+Tavoittelen 18-40 vuotiaita Suomalaisia ihmisiä, joilla on aijempaa kuuntelukokemusta hiphopista tai suomi-räpistä.
+En tavoittele isojen kaupunkien urbaania yleisöä, vaan autoilla ajavien ihmisten radiokanavia.
+Haluan tuoda esiin materiaalista hyvinvointia ja käytettyjen tavaroiden ostamista ja myymistä.
+En halua suosia uusien tuotteiden markkinoita, missä "lännessä suunniteltu" tavara on Kiinassa tehty, ja missä ostaja ei ole enää kytkeytynyt tavaran tekijään muuta kuin globaalin sijoitusbisneksen kautta. Haluan tukea paikallista osaamista ja markkinoita.
+
+Chorus saisi keskittyä hitaaseen tanssimiseen, nuorten diskoista tuttuun halaus-tanssimiseen, missä vain heilutaan puolelta toiselle ja halataan.
+
+Haluan mukaan sivuhahmoja, kuten kilpakumppani, kaveriporukka, hyvä yksittäinen ystävä, saman kylän asukkaat).
+Minulla ei ole esikuva-kappaletta tai artistia mielessä.
+
+
+<<<<
+Seuraavat kysymykset auttavat hiomaan kappaleen sisältöä ja tunnelmaa entistä selkeämmäksi:
+
+    Mitä tarkkoja käytettyjä brändejä tai tavaroita haluat mainita – esimerkiksi vanha Levi’s-farkku, skootteri, nahkatakki tai jokin tietty pelikonsoli?
+    Minkä nimisiä ja rooleja sivuhahmot (kilpakumppani, hyvä ystävä, kaveriporukka) kantavat – haluatko korostaa niiden välisiä suhteita ja konflikteja nimillä?
+    Missä hämärässä tai valoisassa paikassa kohtaaminen/laulun “slowaritanssi” tapahtuu – peräkammarissa, koulun juhlasalissa vai kotipihan paviljongissa?
+    Millainen muisto yhdistyy kappaleen kertojalle ja tälle hiljaiselle tanssihetkelle – sadepilvet, vanha radio, kynttilät vai auton takakontti?
+    Mikä tarkka tunnekäänne saa kertojan kaipaamaan kostoa – loukkaus, uskottomuus vai pettymys yhteisön tuomitsemisesta?
+    Haluatko kertojan lopuksi jäävän toivoon, vai jääkö hän yksin haaveidensa kanssa hiljaisena susina?
+
+
+
+>>>>
+Tarkkoja brändejä:
+- Suzuki PV pienikokoinen mopo
+- Ensimmäinen Sony PlayStation "pleikkari". 
+
+Esimerkki-nimiä:
+- Olli, Henri, Pasi, Juho, Matias, Antti, Tuomas, Topias, Anssi, Nikke
+
+Kohtaaminen tapahtuu hämärässä koulun juhlasalissa.
+Muistoon yhdistyy elokuva Armageddon, jota muut kuin tanssijat saattoivat katsoa myytävien tuotteiden (limonaadin ja karkki) lähellä.
+
+Tarkka tunnekäänne on vaikea selittää sillä se on ydinperheessä asuvan enemmistön yhteisajattelu vastaan pieni isätön poika, joka joutuu opettelemaan ja arvaamaan kaiken itse, kun kukaan ei kerro, että miten miehet ajattelevat hänen tilanteessaan asian.
+Tunnekäänne on tavallaan loputon jatkuva loukkaaminen hänen vaivannäköään kohtaan, johon kuuluu asioiden tulkinta vaikeimman kautta.
+Hänellä on iso riski, sillä jos hänen itse opettelema versio onkin virhellinen (mikä on todennäköistä), niin se saattaa aiheuttaa sosiaalisen ketjureaktion, missä hänen ymmärrys eroaa voimistuvasti muiden ihmisten yhteisymmärrykseen nähden.
+Toiveikas loppuajatus on se, että hän on oppinut asiat todella perustellusti, ja voi käyttää osaamistaan myös aseena muita vastaan oman edun tavoittelemiseksi.
+
+
+<<<<
+Seuraavat lisäkysymykset auttavat vielä viimeistelemään tarinan henkilöhahmot ja yksityiskohdat ennen inspiraatiotekstin luonnostelua:
+
+    Kuka on kilpakumppani (esim. Olli, Henri, Pasi tms.) ja millainen suhde hänellä on kertojaan – ystävyyttä, kateutta vai kilpailuhenkeä?
+    Kuka on se hyvä yksittäinen ystävä (esim. Tuomas, Anssi tms.), joka tukee kertojan puolta, ja miten hän sen tekee?
+    Haluatko viitata Armageddon-elokuvaan suoraan nimellä vai mieluummin kuvailla sen epäsuorasti (“vanha avaruuseepos koulun nurkassa” tms.)?
+    Kuinka konkreettisesti haluat kuvata käytettyjen tavaroiden kauppaa – näkyykö se limonaadi- ja karkkikojun vierellä esimerkiksi pleikkarilla pelailtavana tai Suzuki PV:n pesupaikassa?
+
+
+>>>>
+Kilpakumppani on Olli, mutta hän on kilpailija hyvin erikoisesta asetelmasta: hänen isänsä katsoo urheilu-uutisia ja opettaa olemaan innostunut urheilusta, kun päähenkilön kotona ei ymmärretä urheilua ollenkaan, joten pelkkä toisen lapsen innostus urheilusta voi olla ylipääsemätön kilpailuasetelma, kun ei ole mitään ennakkokäsitystä kilpailemisesta ja sen kulttuurista.
+Hyvä yksittäinen ystävä on Tuomas, ja vastalahjaksi palveluksistaan hän varastaa asioita päähenkilöltä. Hän puhuu hyvää ihmisille.
+Armageddoniin voisi viitata suorasti.
+Käytettyjen tavaroiden kauppa tapahtuu pikkukylässä pihamyyjäisissä, joissa tutustuu myös naapureihin, mukaanlukien kultti-uskonnollisiin ihmisiin.
+
+
+<<<<
+Tässä vielä kertaalleen runko inspiraatiotekstistä, jonka voit täsmentää tai muokata mieleiseksesi. Rivit eivät rimmää, ja painotus on selkeydessä – mukana on toivomasi brändit, sivuhahmot ja trapin half-tempo-hidas tunnelma.
+
+Verse 1 (16 riviä)
+
+    Minä olin pikkukylän poika, jolle mikään ei kerrottu
+    Suzuki PV pesettiin ilta-auringon alla hiljaa
+    Pleikkari asetettiin pihamyyjäisissä Armageddonin alle
+    Limonaadipullot aseteltiin myyntipöydälle kutsuvasti
+    Sinut vietiin koulun juhlasaliin, kun hitaat soitettiin
+    Meitä tuijotettiin varjoissa, kun valo katosi ikkunoista
+    Olli sai isänsä ylpeyden urheilukeskusteluissa
+    Minut jätettiin sivuun, kun pelkkä urheilu riitti
+    Tuoksu oli metallia ja vanhoja farkkuja kirpputorilla
+    Ne laitettiin sivupöydälle vieraan käsityön yhteyteen
+    Sinulle sanottiin odottaa, että tanssi alkaa seuraavaksi
+    Meille tarjottiin perinteistä siiliä ja makeaa herojuomaa
+    Minussa heräsi tarve ymmärtää enemmän kuin sanat
+    Ne kuuntelivat hiljaa, kun sydän hakkasi korvissa
+    Sinut nostettiin hitaaseen tanssiin, kädet selkään asti
+    Minä jäin nyrkit puristettuna taskuihin varautuneena
+
+Chorus (4 riviä)
+17. Minä ja sinä painuttiin yhteen hitaassa tanssissa
+18. Meidän sielut liitettiin kuin valaa vannottiin
+19. Ne pysähtyivät katsomaan, kun hiljaisuus venyi
+20. Sinä ja minä keinuttiin puolelta toiselle
+
+Verse 2 (16 riviä)
+21. Minulle opetettiin lukemaan ilmeitä ja pelkoa
+22. Sinut saatettiin kotiin ennen kuin yö ehti syventyä
+23. Pleikkarissa Armageddon näytettiin viimeiseen kohtaukseen
+24. Ne nauroivat, kun kiinnitin huomiota ohjaimeen
+25. Olli sai isältään ohjeet urheilusta ja ylpeydestä
+26. Minulle kerrottiin, ettei urheilu ollut mun juttuni
+27. Sinua lohdutettiin, kun valot kimposivat salissa
+28. Minä kätkin koston mielessä kuin terävän veitsen
+29. Meitä verrattiin toisiimme kuin häviäjiä ja voittajia
+30. Sinut nostettiin valokeilaan, kun applodit alkoivat
+31. Minä muutin hiljaisuuden aseeksi itseäni varten
+32. Meidät jätettiin varjoihin, kun kukaan ei muistanut nimiä
+33. Sinulta sain tuen, joka antoi voiman jatkaa eteenpäin
+34. Minä lupasin Tuomakselle maksaa velan ajan kanssa
+35. Ne huomasivat, kun Suzuki PV kiihdytti tiellä
+36. Minä laskin jäljet ja suunnittelin seuraavaa siirtoa
+
+Chorus (toisto, 2×)
+17. Minä ja sinä…
+20. …keinuttiin puolelta toiselle
+
+Bridge (8 riviä)
+37. Minä opin piilottamaan tunteet kuuluvasti varjoihin
+38. Sinä et huomannut, kun tuuli kantoi pelon äänet
+39. Meidät opetettiin lupaamaan muutoksia hymyjen takana
+40. Ne puskaradiossa levittivät tarinoita jo vanhoja
+41. Minä muutin turhautumisen voimaksi, jota ei voi pysäyttää
+42. Sinä opit arvostamaan jokaisen naarmun metallissa
+43. Meidät kannustettiin käyttämään tietoa aseena
+44. Ne unohdettiin, kun salin ovet paiskattiin kiinni
+
+Chorus (toisto, 2×)
+17. Minä ja sinä…
+20. …keinuttiin puolelta toiselle

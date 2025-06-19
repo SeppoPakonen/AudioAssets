@@ -1,0 +1,224 @@
+
+~ AI KESKUSTELU (openai o4-mini-2025-04-16) ~
+
+>>>>
+Autat laulunkirjoittajaa tekemään inspiraatiotekstiä uuteen kappaleen. Inspiraatiotekstissä yksi rivi vastaa laululyriikoiden yhtä riviä, mutta rivien ei tarvitse rimmata ollenkaan. Inspiraatiotekstissä suositaan selkeyttä, eikä taiteellisuutta.
+Aluksi otat huomioon jotain aikaisempia muistiinpanoja tai lyriikoita, ja luot sitten inspiraatiotekstin niistä.
+Voit myös esittää tarkentavia kysymyksiä ennen inspiraatiotekstin luomista. On suotavaa esittää 3 tarkentavaa kysymystä vähintään.
+
+Inspiraatioteksti on enimmäkseen "minä" ja "sinä" persoonassa.
+
+
+>>>>
+Aijempi inspiraatioteksti:
+
+Et tiiä sun mahdollisuuksia
+Varma mahdollisuus sen miehen kanssa ei oo niin arvokas kuin luulet
+Teet itelles aitausta, kun sun identiteettiin kuuluu premium tuotteet.
+Mut kun tiiät miten ne tehdään, niin ei sua kiinnosta markkinoijien juonet.
+Pelkäät että sun yhteisön sisäisessä vertailussa häviät.
+Et tajua, kuinka muut sun koko yhteisön myrkyttää.
+Huolenaiheet on sulle niin totta, mut isossa mittakaavassa valhetta ja roskaa.
+Kukaan ei oo niin viisas kuin luulee.
+Pään sisällä virtaa uutiset, opettajan mielipiteet ja isovanhempien virheet.
+Opettajan suussa oli rehtorin politiikka, ja paikallisten miellyttäminen, ei totuus kaukainen.
+Rakastat kulissia, johon hautaudut elävältä.
+Rakastat elää illuusiota, jossa elät harvinaista yläluokkaista elämää.
+Punainen vaate on punainen vaate ja kirosana.
+Et tiedä historiaa, mutta poliittinen mediasi kertoi jo mitä ajatella.
+Menneet vääryydet on sulle liian kaukaisia.
+Et tajua, että elää rinnakkain täällä vääryyden linjoja monisukupolvisia.
+Jotkut hyötyy kun kaikesta puhutaan, tai siitä hiljennytään.
+Mutta puhumisesta saa volyymikilpailun, ja hiljentymisestä shakkia.
+Ei mikään oo täysin varmasti mitään, eikä vahvin ole oikeassa.
+Mutta kaikessa on totuuden siemen, vaikka se kulkisi linnun paskassa.
+Älä kuuntele sitä mitä sun mies uskoo sanovansa, vaan että mitä sä kuulet sen puheesta.
+Älä samaistu sen miehen uskoon, ajattele kaikesta ite.
+Älä anna koulun puhua sun lasten uskon yli, ne tekee vain työntekijöitä hetkeksi.
+Kun joku ase toimii vääryyteen, anna sen ampua.
+Kun joku lääke tuo sulle terveyden, älä usko kun sitä moititaan.
+Kun kaikki muut ryhmähenkeä luo sun kustannuksella, muista että ne tulee kärsimään.
+Jotkut ihmiset on kuin robotteja tai täytettyjä nukkeja, mitä tulee siihen mitä ne suusta päästää.
+
+Oot vaaras kun pelaat pelii, tahallaan tai vahingossa.
+Sul on merkitys kun jaat muille viestii, tahallaan tai vahingossa.
+Sun mies tekee haavan kun tunnet kipuu, tahallaan tai vahingossa.
+Lähdet pois vielä jotenkin, tahallaan tai vahingossa.
+Voit ymmärtää mun puheen, tahallaan tai vahingossa.
+Voit tehdä ison muutoksen, tahallaan tai vahingossa.
+Voit vahingoittaa toistakin, tahallaan tai vahingossa.
+Voit jäädä vääryyteen, tahallaan tai vahingossa.
+
+Lähde pois, jos syynä on vain ne premium tuotteet.
+Lähde pois, jos kukaan ei soita sulle, vaan seuraat vain niiden profiileja.
+Lähde pois, jos viestit jää puoleksi epäselviks, ja tuntuu oudolta.
+Muuta muualle, jos lapset suree ja oudoiks muuttuu koulussa.
+Verkko kiristyy, ikää tulee ja sun voimat heikkenee.
+Huomaat, et saattoi huijauksella joku voittaa sun sydämen.
+Huomaat, et lammaslauman mukana ei huomata, kun joku puuttuu.
+Joukkotietoisuus on keltaisten lehdistöjen kärjistettyä astroturffia.
+Kun sulle lopulta sattuu jotain, huomaat kuin yksin oot.
+Saatat muistaa hänet, jotka jätit yksin, kun lammaslaumasi vei sua mukanaan.
+Kun huomaat sen, sulla on voimat mennyt, ja rohkeuskin.
+Ja sun lihaa vainoaa, puolituntemattomat geeni-perijäsi.
+Pelkäät kuolemaa ja salaista myrkyttäjää.
+Miksi sun piti uskoa liikaa yhden ymmärryksen välittäjää.
+Kuin tornista kuului kutsu rukoukseen, niin se aukaisit teeveen ja sun älypuhelimen.
+Toiset lypsää ja toisia lypsetään, mutta silti taivaal liikkuu valo joka yllättää.
+Miks näytelmä oli todellisempaa kuin todellisuus?
+Miks olit riippuvainen tunteeseen ymmärtämisestä, kun kuuntelit vuorosanoja ja reality-orjaa?
+Olisit aiheuttanut enemmän vahinkoa kuin narkkari, ellet olisi synnyttäjäkone.
+Kysytäänkö synnyttäjäkoneelta sen tietoisuuden mielipidettä, vai ohjataanko se vain toimimaan?
+Uskallatko sijoittaa elmäsi johonkin parempaan?
+Lähde pois.
+
+
+>>>>
+Esitä minulle kysymyksiä liittyen kappaleen sisällön parantamiseen, kun tavoitteena on tehdä mahollisimman paljon kuunteluita Trap hiphopin kuulijoiden kesken.
+
+
+<<<<
+Ennen kuin lähdemme muokkaamaan sisältöä kohti maksimaalista kuulijamäärää trap-hiphop-yleisössä, muutama tarkentava kysymys:
+
+    Millainen tunnelma ja sanoma vetoaa juuri tähän yleisöön: haluatko korostaa itsevarmuutta ja flaijausta (flex), katu-uskottavuutta ja kapinallisuutta vai henkilökohtaista kamppailua ja sisäistä pohdintaa?
+    Miten paljon haluat käyttää suomalaista street-slangia ja kansainvälisiä (englanninkielisiä) fraaseja? Pysyvätkö lyriikat selkeänä suomeksi vai haetko väliin englanninkielisiä räppi-viboja?
+    Mikä on biisin kertosäkeen rooli: tarttuva, melodiapainotteinen hook vai minimalistinen, riimivetoisesti pureutuva toisto?
+    Miten tärkeänä pidät 808-basson ja hi-hat-rullausten roolia rytmipuolella – haluatko biisin olevan tiivis ja aggressiivinen vai ilmava ja melodinen?
+    Ketä tavoitat mieluiten iän, taustan tai elämäntilanteen kautta (esim. nuoret teinit, varhaisaikuiset kaupunkilaiset, katuelämän kokijat)?
+    Haluatko tuoda esiin konkreettisia brändejä, luksustuotteita ja materiaalisuutta vai enemmän tarinankerrontaa ja sanomaa yhteiskunnallisista realiteeteista?
+
+
+>>>>
+Haluan korostaa itsevarmuutta, henkilökohtaista kamppailua ja sisäistä pohdintaa.
+En halua korostaa flaijausta, katu-uskottavuutta ja kapinallisuutta, koska laulaja on pienestä kylästä jossa puolet ovat olleet kultti-uskovaisia, eikä sellainen kannattanut.
+En halua käyttää suomalaista street-slangia, mutta Oulun murretta voi käyttää.
+Väliin ei laitetaa englanninkielistä räppi-vibaa, mutta juntti-suomea ja farmari-ajattelua voi laittaa väliin.
+Kertosäkeen rooli on melodiapainotteinen hook, jossa tunnelma on synkän voimakas, kuin alkava myrsky.
+Kappaleessa on trap tyylinen rumpuraita, mutta se ei vaikuta sanoituksiin.
+Kappaleessa on melko aggressiivinen ja synkän voimakas, mutta hieman toiveikas, myrskyn uhkainen tunnelma.
+Tavoittelen 18-40 vuotiaita Suomalaisia ihmisiä, joilla on aijempaa kuuntelukokemusta hiphopista tai suomi-räpistä.
+En tavoittele isojen kaupunkien urbaania yleisöä, vaan autoilla ajavien ihmisten radiokanavia.
+Haluan tuoda esiin materiaalista hyvinvointia ja käytettyjen tavaroiden ostamista ja myymistä.
+En halua suosia uusien tuotteiden markkinoita, missä "lännessä suunniteltu" tavara on Kiinassa tehty, ja missä ostaja ei ole enää kytkeytynyt tavaran tekijään muuta kuin globaalin sijoitusbisneksen kautta. Haluan tukea paikallista osaamista ja markkinoita.
+
+>>>>
+Kappaleen rakenne on:
+- Intro: 2 riviä
+- Verse 1: 16 riviä
+- Chorus: 4 riviä
+- Theme: 1 rivi
+- Verse 2: 16 riviä
+- Chorus (toisto)
+- Bridge: 8 riviä
+- Chorus (toisto)
+- Outro: 8 riviä
+
+<<<<
+Ennen inspiraatiotekstin laatimista haluaisin vielä täsmentää muutaman seikan, jotta lopputulos osuu mahdollisimman hyvin toivomaasi tunnelmaan ja rakenteeseen:
+
+    Intro-rivin kuvastossa: haluatko sijoittaa kuulijan konkreettisesti pieneen kylään (esim. pellot, hylätty navetta, Oulun reuna-alueet) vai heti suoraan sisäisiin tunteisiin (“minä herään huutoihin päässäni” tms.)?
+    Teemaviiva (“Theme”): haluatko sen toimivan tiivistettynä kehotuksena (“Tue paikallista, näe oma voima” tms.) vai ennemmin ovelana kiteytyksenä biisin sisällöstä (“Kun myrsky yllättää, sydän on kotipaikka” tms.)?
+    Oulun murretta: haluatko yhden tai kaksi osuvaa fraasia (esim. “mää tuu” tai “kyljelläni”) tietyissä riveissä vai ripoteltuna tasaisesti läpi tekstiä?
+    Bridge-osion rooli: haluatko sen laskettelevan hetkeksi tunnelmaa alan (paikallinen toivo, rauhallinen katsaus tulevaan) vai nostavan intensiteetin vielä korkeammalle ennen viimeisiä kertosäkeitä?
+
+Kun saamme näihin vastaukset, voimme laatia koko kappaleen rakenteen mukaisen inspiraatiotekstin.
+
+
+>>>>
+Haluan sijoittaa kuulijan konkreettisesti tarinaan ja paikkaan.
+Teema on melodinen teema, johon sopii jotain lyhyitä lauseita päälle toistettuna.
+Haluan 1-2 Oululaista fraasia.
+Bridge osion rooli on nostaa intensiteettiä vielä korkeammalle. Outrossa on korkein intensiteetti, jonka jälkeen kappale loppuu kuin seinään.
+
+
+<<<<
+Intro:
+
+    Mä herään vanhan ladon kivijalan vieressä, lokahtava kattopelti helisee myrskyn edellä.
+    Sinä tuijotat ikkunasta pellonreunaa, tuuli tuo muistoja irti multaa ja muureja.
+
+Verse 1:
+
+    Minä kannan menneisyyttä selässäni kuin liikaa päällä olevaa villakangastakkia.
+    Sinä kysyt, miksi jään pieneen kylään, kun kaupunki kuiskasi mahdollisuuksia.
+    Mää tuun laatasta toiseen kirpputorilla, selvitän tarinat esineiden takaa.
+    Sinä ostat mun vanhat kumisaappaat, tunnet niiden kulutuksen omassa nilkassasi.
+    Minä muistan saarnat, jotka juoksivat hautaan asti kylänraitilla.
+    Sinä näet mun silmissä pohjattoman kysymyksen: kuka oikeasti ohjaa pelin sääntöjä?
+    Minä petaan turvan vanhaan navettaan, siellä hiljaisuus opettaa kuuntelemaan itseä.
+    Sinä kuuntelet mun hengitystä, vaikka taivas rojahtaisi päällesi.
+    Minä valitsen käytetyn työkalusarjan ukiltani, maksan käteisellä en tilinumerolla.
+    Sinä huomaat eleganssin ruosteisessa ruuvissa ja liimassa.
+    Minä tunnen myrskyn nousevan, sydän hakkaa napajäätä vastaan.
+    Sinä kannustat mun kapinaan omia epäilyksiä vastaan.
+    Minä opin haavoista, teen niistä kilvet ja lapaset talveksi.
+    Sinä kannat mun haaveita, vaikka maailma provosoisi luovuttamaan.
+    Minä rakennan tulevaisuuden vanhoista lautapinnoista ja nauloista.
+    Sinä seisot kyljelläni, vaikka tuuli repii vararikkoon asti.
+
+Chorus:
+
+    Minä tunnen voiman myrskyn silmässä.
+    Sinä annat mulle tilan hengittää vapaammin.
+    Minä valitsen oman polkuni, ilman kenenkään huijauksen.
+    Sinä olet rinnallani, kun taivas repeää.
+
+Theme:
+
+    Kun myrsky yllättää, sydän on kotipaikka.
+
+Verse 2:
+
+    Minä liikun pimeässä pellolla, kenkäni ovat kirpputorin aarteita.
+    Sinä kannat mun tarinaa kauemmas kuin lightning-diggari kantaa odotusta.
+    Minä neulon toivon harson rei’istä, käytän unohdettua lankaa.
+    Sinä näet kovan pinnan alla pehmeyden, vaikka maailma kajauttaa käskyjä.
+    Minä lasken pilvet lunttaamattomien salaisuuksien yli.
+    Sinä kuuntelet mun sisäistä ääntä, kun muut huutaa propagandaa.
+    Minä kierrätän vanhan haaveen ja teen siitä vuoren.
+    Sinä seisot tolpassa kuin majakka, vaikka meri mylvii.
+    Minä kannan menneisyyden kolikot taskussani: kylmä kova pinta kertoo sodista.
+    Sinä luet mun sormenjäljet, tiedät mistä olen lähtöisin.
+    Minä en myy unelmaani globaaleille sijoittajille.
+    Sinä ostat mun takin, ompelija on kotoisin peltotien varresta.
+    Minä haistan sateen ennen kuin ensimmäinen pisara koskettaa maata.
+    Sinä naurat, kun mää huudan “mää tuun” yöhön kuin vanha traktori heräten.
+    Minä en odota pelastajaa, alan itse koota raunioista siltaa.
+    Sinä varmistat jäljet, vaikka kipu kirjoittaa polkuja lihalle.
+
+Chorus (toisto):
+
+    Minä tunnen voiman myrskyn silmässä.
+    Sinä annat mulle tilan hengittää vapaammin.
+    Minä valitsen oman polkuni, ilman kenenkään huijauksen.
+    Sinä olet rinnallani, kun taivas repeää.
+
+Bridge:
+
+    Minä tunnen sydämen lyönnit kovempina kuin salama.
+    Sinä näet mun pimeimmät nurkat kirkkaana säkenöintinä.
+    Minä hyppään tuntemattomaan ennen kuin pakotan itseni jäämään.
+    Sinä annät tuulien kantaa mun äänen yli kujien ja niittyjen.
+    Minä puran muurit, yksi tiili kerrallaan, en odota maanvyörytystä.
+    Sinä laulat mun rinnassasi kuin alttarilla, lupa lupaukselle.
+    Minä olen myrsky ja rauha samassa hengityksessä.
+    Sinä tiedät, että me kestetään tää yhdessä loppuun asti.
+
+Chorus (toisto):
+
+    Minä tunnen voiman myrskyn silmässä.
+    Sinä annat mulle tilan hengittää vapaammin.
+    Minä valitsen oman polkuni, ilman kenenkään huijauksen.
+    Sinä olet rinnallani, kun taivas repeää.
+
+Outro:
+
+    Minä huudan myrskylle vastausta, en pelkää sen raivoa.
+    Sinä näet mun silmissä kipinän, joka sytyttää huomiseni.
+    Minä suljen silmät, keskityn syvään hengitykseen.
+    Sinä pidät kädestäni kiinni, vaikka maailma repeää kokonaan.
+    Minä tunnen toivon kipinän, joka palaa läpi sateen.
+    Sinä kannat mun tarinan peltotielle, jossa ajan kohti aamua.
+    Minä lopetan sanat kuin seinään, myrsky pauhaa jäljellä vain.
+    Sinä jäät kuuntelemaan hiljaisuutta, joka seuraa tuhoa.
+

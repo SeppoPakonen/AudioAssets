@@ -1,0 +1,485 @@
+
+
+
+~ AI KESKUSTELU (openai o4-mini-2025-04-16) ~
+
+>>>>
+Autat laulunkirjoittajaa tekemään inspiraatiotekstiä uuteen kappaleen. Inspiraatiotekstissä yksi rivi vastaa laululyriikoiden yhtä riviä, mutta rivien ei tarvitse rimmata ollenkaan. Inspiraatiotekstissä suositaan selkeyttä, eikä taiteellisuutta.
+Aluksi otat huomioon jotain aikaisempia muistiinpanoja tai lyriikoita, ja luot sitten inspiraatiotekstin niistä.
+Voit myös esittää tarkentavia kysymyksiä ennen inspiraatiotekstin luomista. On suotavaa esittää 3 tarkentavaa kysymystä vähintään.
+
+
+>>>>
+Kappale on tarkoituksella sekavan humalaisen tilainen kappale.
+Tarinassa mies on humalassa baarissa, eikä hänellä ole selkeää kuvaa mitenkään.
+Tarina saattaa kertoa P. Diddyn kaltaisesta väkivaltaisesta musiikkimogulista, joka hyväksikäyttää ja raiskaa naisia ja miehiä.
+
+Shotti kaatuu ja mekko leimahtaa.
+Ylimielinen katse kohoaa.
+"Maksa juomasi itse taikka kai va esiin luontoliiton käteiskortti"
+Jäätelö valuu kohta rinnuksilleskin.
+Voit kai jo nuolla sen pois julkisestikkin.
+Olet vajonnut niin alas, alas, alas,
+ettet ole huomannutkaan:
+kuin ka näin kävikään? 
+Kuin ka näin kävikään? 
+"Osta minut"
+"Osta minut" "osta minut,
+koska olen paras"
+"tapa minut tai vie mun muistini"
+"tapa minut tai vie mun muistini"
+Sitä huutaa jo kylmä katseesi.
+Tiedän että et mitään sanoisi
+kuitenkaan. 
+"Miten niin?"
+"Miten niin?"
+"Miten niin?"
+Tuli polttaa jo rintaliivitkin.
+Yleisö yltyy suosionosoituksiin.
+Hän on varusteltu lääkeaineilla,
+lasinpesunesteellä ja savuilla.
+Vaivut alas
+Vaivut alas
+niinkuin hän on pelannutkin.
+Kuin ka näin kävikään? 
+Kuin ka näin kävikään? 
+"Osta minut"
+"Osta minut" "osta minut,
+koska olen paras"
+"tapa minut tai vie mun muistini"
+"tapa minut tai vie mun muistini"
+Sitä huutaa jo kylmä katseesi.
+Tiedän että et mitään sanoisi
+kuitenkaan. 
+"Miten niin?"
+"Miten niin?"
+"Miten niin?"
+
+
+
+<<<<
+Ennen inspiraatiotekstin laatimista tarvitsisin vielä muutaman tarkennuksen:
+
+    Millaisen rakenteen toivot (esim. säkeistöt ja kertosäe): haluatko selkeän toistuvan kertosäerakenteen vai vapaamman virran?
+    Missä näkökulmassa tarina kerrotaan (minäkertoja, ulkopuolinen tarkkailija vai joku henkilö laulun sisällä)?
+    Kuinka pitkä inspiraatiotekstin tulisi olla rivimäärältään?
+    Kuinka eksplisiittisesti haluat käsiteltävän väkivaltaa ja hyväksikäyttöä – halutaanko vihjailevampi vai suoraviivainen ilmaisu?
+    Haluatko korostaa sekavaa humalatunnelmaa täysin katkeamattomana virtana, vai lisätä selkeämpiä taukoja ja kontrasteja?
+
+
+
+>>>>
+Rakenne:
+- Intro: 2 riviä, rap sanoja ja lauseita harvakseltaan (taukoja välissä, ei rimmausta)
+- Säkeistö 1: 8 riviä
+- Esi-Säkeistö 1: 8 riviä
+- Kertosäkeistö 1: 4 riviä
+- Säkeistö 2: 8 riviä
+- Esi-Säkeistö 2: 8 riviä
+- Kertosäkeistö 1: (toistuu, 2 kertaa) 4 riviä
+- Bridge: 4 riviä
+- Kertosäkeistö 1: (toistuu, 2 kertaa) 4 riviä
+- Outro: 2 riviä (vapaamuotoista puhetta)
+
+
+Laulu kirjoitetaan ulkopuolisen tarkkailijan näkökulmasta, mutta tarinan päähenkilön näkökulmaan samaistutaan mahdollisimman paljon.
+Tarinan päähenkilö on noin 20 vuotias mies ison kaupungin (200000 asukasta) baarissa keskustassa.
+
+Laulu saa olla mahdollisimman eksplisiittinen miesteen liittyvissä asioissa, mutta naisiin kohdistuvissa asioissa vihjailevampi.
+
+Sekava humalatunnelma saisi mieluiten olla katkeamaton virta koko kappaleen ajan, mutta kertosäkeistö pilaa sen väkisinkin, eli yritetään pitää katkeamattomana, mutta ei väkisin.
+
+
+<<<<
+Inspiraatioteksti
+
+Intro:
+Yo – shotit lentelee, mic drop – tauko…
+Mekko liekeissä, beat pysähtyy
+
+Säkeistö 1:
+Hän nojaa baaritiskille, kalpea neon-valo kasvoilla
+Shotti kaatuu ja mekko leimahtaa, kuuma liekki iholla
+Arvosteleva katse kohoaa, pullo heiluu kädessä
+Jäätelö valuu rinnuksille, jäätynyt sulaa liikkeeksi
+Ympärillä nauru velloo, humalan humina täyttää ajan
+“Maksa juomasi itse taikka kai va esiin luontoliiton käteiskortti”
+Tuijotus ei hellitä, ääni jää kumajamaan korvissa
+Vajoat alas samalla rytmillä, et huomaa… et muista…
+
+Esi-Säkeistö 1:
+Lavalla P. Diddyn kaksonen kapuaa, kultaisten ketjujen rasva
+Hän nostaa mikin, tuskan merkki – basso puree rintakehään
+Tytöt piiloutuvat varjoihin, pojat kaatuvat tajuttomina
+Kukaan ei katkaise ketjua, kun kamat vaihtavat omistajaa
+Lääkkeet sekoittuvat lasinpesunesteeseen, savu tihkuu ihon läpi
+Jokainen shotti vie muistin, jokainen huuto murtaa rajat
+Kylmä katse sisälläsi huutaa – olet tässä, et ole päässyt pakoon
+Et vastaa, et liiku – pulssi pitää sinut hengissä
+
+Kertosäkeistö 1:
+Osta minut
+Osta minut, koska olen paras
+Tapa minut tai vie mun muistini
+Tapa minut tai vie mun muistini
+
+Säkeistö 2:
+Yleisö yltyy suosionosoituksiin, tuhannet kädet paukuttavat
+Rintaliivit leimahtavat liekkeihin, iho jaksaa palaa
+Hän on varustellut taskunsa lääkeaineilla ja lasinpesunesteellä
+Tupakansavu tarttuu vaatteisiin, haju jää tulen alle
+Munat puristuvat housun sisällä, kipuna iskujen tahdissa
+Jäätelön tahra etenee rinnalta huteralla polulla
+Sinä tuijotat lattiaan, et huomaa kuinka vajoat
+Kujerrat hiljaa: kuinka tähän tultiin, mitä jäi jäljelle
+
+Esi-Säkeistö 2:
+Pimeässä nurkassa jyskyttää basson jäännös päässäsi
+Pomo huutaa korokkeelta, veri värjää mikinsauvan
+Nimesi vaihtuu koodeiksi, et nouse enää jaloillesi
+Hän koskettaa katseellaan, haukkaa tajuntasi varjoista
+Jokainen huuto jää kellariin, jokainen muisto haipuu sumuun
+Lääkkeet sekoittuvat kipuun, lasinpesu puree ihoa
+Et vastaa, vain pulssi kertoo et olit paikalla
+“Miten niin?” kaiku tavoittaa sinut – vastaus pysyy poissa
+
+Kertosäkeistö 1:
+Osta minut
+Osta minut, koska olen paras
+Tapa minut tai vie mun muistini
+Tapa minut tai vie mun muistini
+
+Kertosäkeistö 1 (toistuu):
+Osta minut
+Osta minut, koska olen paras
+Tapa minut tai vie mun muistini
+Tapa minut tai vie mun muistini
+
+Bridge:
+Kaiku tyhjenee korvissani – mikä on vielä totta?
+Maailma romahtaa elektrokiertoon, humala ei tunne armoa
+Katson sun silmiä, näen oman käteni heilumassa lasillisessa
+Jos et osta mua nyt, hukkaan kaiken – muistot ja tunteen
+
+Kertosäkeistö 1:
+Osta minut
+Osta minut, koska olen paras
+Tapa minut tai vie mun muistini
+Tapa minut tai vie mun muistini
+
+Kertosäkeistö 1 (toistuu):
+Osta minut
+Osta minut, koska olen paras
+Tapa minut tai vie mun muistini
+Tapa minut tai vie mun muistini
+
+Outro:
+Yksi yö, yksi shotti – kaupunki ei unohda jälkeäsi.
+Kauppaa pidetään auki, muistosi myydään huutokaupalla.
+
+>>>>
+
+En enää halua kärjistää aivan näin voimakkaasti tätä "tapa minut tai vie mun muistini" lausetta.
+Se oli alunperin räväkkä vitsi, mikä ei tuntunut hauskalta enää kauaa ensimmäisen idean jälkeen.
+
+<<<<
+
+Tässä päivitetty inspiraatioteksti, jossa kertosäe on pehmennetty alkuperäisestä:
+
+Intro:
+Yo – shotit lentelee, mic drop – tauko…
+Mekko liekeissä, beat pysähtyy
+
+Säkeistö 1:
+Hän nojaa baaritiskille, kalpea neon-valo kasvoilla
+Shotti kaatuu ja mekko leimahtaa, kuuma liekki iholla
+Arvosteleva katse kohoaa, pullo heiluu kädessä
+Jäätelö valuu rinnuksille, jäätynyt sulaa liikkeeksi
+Ympärillä nauru velloo, humalan humina täyttää ajan
+“Maksa juomasi itse taikka kai va esiin luontoliiton käteiskortti”
+Tuijotus ei hellitä, ääni jää kumajamaan korvissa
+Vajoat alas samalla rytmillä, et huomaa… et muista…
+
+Esi-Säkeistö 1:
+Lavalla pomo kapuaa, kulta riiputtaa rasvaista valtaa
+Mikrofonin varjo leikkaa huoneen halki, basso puree rintaan
+Varjot kaventuvat, uhrit katoavat taustaan
+Kukaan ei käännä katsettaan, kun valta vaihtaa omistajaa
+Lääkkeet sekoittuvat lasinpesuun, savu lyö ihon läpi
+Jokainen shotti vie muistin, jokainen huuto repii rajoja
+Kylmä katse sisälläsi huutaa – olet jumissa tässä hetkessä
+Et vastaa, et liiku – pulssi pitää sinut pinnalla
+
+Kertosäe:
+Osta minut
+Osta minut, kunnes valot sammuu
+Älä päästä irti, kun ääni keinuu
+Älä päästä irti, kun ääni keinuu
+
+Säkeistö 2:
+Yleisö huutaa rytmille, tuhannet kädet paukuttavat
+Rintaliivit leimahtavat liekkeihin, kipu tuntuu uskalta
+Taskuissa lääkeaineet ja lasinpesuneste, savu tarttuu ihoon
+Tupakansavu sumeuttaa muodon, haju jää liekin alle
+Housut puristavat kipua, jokainen liike sattuu
+Jäätelö tahraa rinnat, liukumäeltä ei ole paluuta
+Sinä tuijotat lattiaa, et huomaa miten liu’ut pois
+Kuiskaat hiljaa: miten tähän tultiin, mitä jäljelle jää?
+
+Esi-Säkeistö 2:
+Pimeässä nurkassa basson jäännös värisyttää aivoja
+Pomo hymyilee korokkeella, veri värjää mikinsauvaa
+Nimesi katoaa koodeihin, emme enää kutsu sinua takaisin
+Hän koskettaa katseellaan, haukkaa tajuntasi varjoista
+Jokainen huuto jää kellariin, jokainen muisto sulaa sumuun
+Lääkkeet sekoittuvat kipuun, lasinpesu puree ihoa
+Et vastaa, vain sydän pamppailee korvissa
+“Miten niin?” kaikuu – vastaus hukkuu humalaan
+
+Kertosäe:
+Osta minut
+Osta minut, kunnes valot sammuu
+Älä päästä irti, kun ääni keinuu
+Älä päästä irti, kun ääni keinuu
+
+Kertosäe (toistuu):
+Osta minut
+Osta minut, kunnes valot sammuu
+Älä päästä irti, kun ääni keinuu
+Älä päästä irti, kun ääni keinuu
+
+Bridge:
+Kaiut tyhjenee korvissani – mikä on enää totta?
+Maailma romahtaa elektrokiertoon, humala ei tunne armoa
+Katson sun silmiä, näen oman käden heilumassa lasissa
+Jos et osta mua nyt, hukkaan kaiken – muistot ja tunteen
+
+Kertosäe:
+Osta minut
+Osta minut, kunnes valot sammuu
+Älä päästä irti, kun ääni keinuu
+Älä päästä irti, kun ääni keinuu
+
+Kertosäe (toistuu):
+Osta minut
+Osta minut, kunnes valot sammuu
+Älä päästä irti, kun ääni keinuu
+Älä päästä irti, kun ääni keinuu
+
+Outro:
+Yksi yö, yksi shotti – kaupunki ei unohda jälkeäsi.
+Kauppaa pidetään auki, muistosi huutokaupalla.
+
+
+
+>>>>
+Esitä minulle kysymyksiä liittyen kappaleen sisällön parantamiseen, kun tavoitteena on tehdä mahollisimman paljon kuunteluita Trap hiphopin kuulijoiden kesken.
+
+
+<<<<
+Tässä muutamia tarkentavia kysymyksiä, jotka auttavat hiomaan biisiä trap-hiphop-yleisölle sopivammaksi:
+
+    Millainen biitti-elementtien painotus kiinnostaa eniten: syvä 808-bassopuoli, nopeat hi-hat-tripletit, ambient-samplet vai minimalistinen seinä-of-sound?
+    Mikä tempo (BPM) tuntuisi napakimmalta – hidas rolling-trap (n. 60–70 BPM), nopeampi klubitempo (n. 130–150 BPM) vai jotain siltä väliltä?
+    Millainen flow istuu tarinaan parhaiten: aggressiivinen ja naksahtava spitty, laiska “drawl”-otteella ajoittain venytetty tai jatkuvasti autotune-käsitelty melodia?
+    Haluatko käyttää selkeää kaupunkimurretta, slangisanoja ja paikallisia viittauksia (esim. katujargon, brändit, ilkikuriset nimitykset) vai yleiskielisempää otetta?
+    Kuinka paljon haluat korostaa statusta, materiaalisuutta ja “flexaamista” (kalliit vaatteet, autot, juomat), ja miten se nivoutuu humalatarinaan?
+    Millainen kertosäkeen hook-melodia palvelee Spotify-kuuntelijaa: yksinkertainen loopattu fraasi, melodinen pitchattu refrääni vai puhtaasti rytminen chant/ad-lib -efekti?
+    Kaipaatko mukaan trap-tyylisiä ad-libeja ja call-outteja (esim. “woah”, “skrrt”, “ayy”), ja jos kyllä, missä kohtaa ne toimisivat parhaiten?
+    Haluatko punch-line-tyylisiä “linejä” (nopeat, iskevät lauseet) vai pidempää tarinointia, joka pitää kuulijan mukana?
+    Pitäisikö kappaleessa viitata johonkin ajankohtaiseen kulttuuri-ilmiöön (vaatekulttuuri, some-trendit, underground-skene) vai pysyä abstraktimmassa tunnelmassa?
+    Miltä kuulostaisi kertosäkeeseen pieni melodinen tauko tai breakdown, jotta kokonaisuus pysyy dynaamisena mutta humalatunnelma säilyy?
+
+
+>>>>
+Tempo 132bpm, mutta se on half-tempo, eli käytännössä 66bpm.
+Flow on keskimääräinen, ei laiska eikä aggressiivinen tai nokkela.
+Kertosäkeistö voisi olla laiskasti laulettu.
+Kaupunkimurretta ei käytetä, koska laulaja ei ole kotoisin kaupungista.
+Laulajalle ei sovi status, vaan mielikuvitukselliset status-elementit, jotka on luotu kontrastiksi kaupunkilaiseen turhanpäiväiseen kilpailemiseen ja statussymboliikkaan nähden. Eli laulaja luo itse omat harvinaiset ja yllättävät status-elementit, mikä on vinoilua kaupunkilaisille.
+Laulaja arvostaa arvokkaita vaatteita ja materiaalisuutta, kunhan hinta on matala, eli käytetyt tavarat ja vaatteet ovat yleensä paras hinta-laatu-suhde hänelle. Hän on työtön ja melkein rahaton, mutta hän on erittäin terve ja hyväkuntoinen.
+Trap-tyylisten ad-libien ja call-outtien sijaan punchline on yleensä "ajan antaminen" kun on sanottu jotain ajattelua vaativaa.
+Punchline on yleensä mielellään seksuaalinen, ja etenkin naisten seksuaaliseen houkuttavuuteen vetoava.
+Kappaleessa voi mielellään viitata ajankohtaisiin kulttuuri-ilmiöihin, mutta niiden tulisi olla sivuroolissa, ja ikäänkuin näytelmän rekvisiittaa.
+Melodinen tauko ei sovi tähän kappaleeseen. Kaikki on todella suoraviivaista ja hetkessä kulkevaa tapahtumien kuvailua.
+
+
+<<<<
+Seuraavat kysymykset auttavat hiomaan biisiä trap-yleisölle entistä vetovoimaisemmaksi:
+
+    Haluatko introon jonkin uniikin vokalisample-jutun (esim. vanha VHS-nauha, radiolähetys tai teollisuusääni) vai puhtaan alku-“shoutin”?
+    Millaisia kuvitteellisia “statusjuttuja” haluat nostaa esille (esim. itse tehtailemiasi kenkämalleja, kierrätettyjä merkkilaukkuja tai 3D-tulostettuja koruja)?
+    Kuinka räväkkiä seksuaalisia punchline-heitoja haluat (vihuuskoreasti, peitellysti vai suorasanaisesti)?
+    Miten haluat rakentaa kertosäkeen “laiskan laulun” melodian – pelkkä pitchattu letkautus vai lievä autotune-vingutus?
+    Haluatko säkeistöihin jonkin toistuvan ad-lib-teeman (esim. “anna aikaa”-heitoilla, erilaisina variaatioina)?
+    Millaisia kulttuuri-viittauksia haluat hyödyntää sivuroolissa (esim. TikTok-trendit, urbaani streetwear-fanitus, underground-artistien nimihäivystys)?
+    Mitä instrumentteja tai soundeja korostetaan: terävä hi-hat-tripletti, pehmeä 808-basso vai kimeä sinisessä putoava lead-synth?
+    Haluatko biisin keskelle pienen “breakdown-kohtauksen” trap-tyylisellä paisutuksella ennen toista esi-säkeistöä, vaikka kokonaisuus pysyykin suoraviivaisena?
+    Millainen miksaus ja efektikäyttö tukee parhaiten tunnelmaa: kuiva, kova kick-pumppi vai reverb-sumuinen, etäinen stemma?
+    Onko biisillä jo työnimi tai haluatko brainstormata tarttuvan trap-otsikon yhdessä?
+
+>>>>
+Alkuun haluan "ajattelua ääneen" ja humalatilan ihmettelemistä ja toteamista.
+Kuvitteellinen "statusjuttu" on esimerkiksi "maiden omistaminen" mikä tarkoittaa vain mahdollisuutta kulkea missä vain.
+Inspiraatiotekstissä punchlinet voivat olla suorasanaisia, mutta muutan vihjaileviksi ne myöhemmin.
+Kertosäkeeseen "lievä autotune-vvingutus".
+En halua säkeistöihin toistuvaa ad-lib teemaa, vaan jatkuvaa yllättävää tapahtumankulkua, mutta mikä ei ole liian arvaamatonta kuulijalle.
+Biisin työnimi on "Kuinka näin kävikään".
+
+Kirjoita uusi inspiraatioteksti nyt.
+
+
+<<<<
+
+Inspiraatioteksti “Kuinka näin kävikään”
+
+Intro (2 riviä):
+Ajattelen ääneen – olenko enää tässä tilassa?
+Humalan humina jyskyttää, en tiedä mistä aloittaa
+
+Säkeistö 1 (8 riviä):
+Neon-valot huutaa mun nimeä, tiska on risa
+Shotti helähtää lasiin, kaikki sumenee silmissä
+Jäätelö valuu rinnuksille, tahraa paidan hihankaan ei mahdu
+Köyhän parhaat merkit – kulunut takki, budjettikellon tikitys
+Maitten omistaminen on mun status – kuljen missä vain
+Pulssi pomppii 66 BPM, maailma liikkuu hidastetusti
+Ympärillä nauru kaikuu, mutta mä pelkään hiljaisuutta
+En muista, milloin tää alkoi vai päättykö tää koskaan
+
+Esi-Säkeistö 1 (8 riviä):
+Kulman takana pomo, kulta ketjuissa, hymyilee raadollisena
+Hänellä on valta ja varjoja, jotka ostaa nuoruuden pois
+Tyypit vaihtaa taskuissa tavaraa kuin korttipakkoja
+Lääkkeet ja lasinpesuneste hämmentää ajatukset, minä pysyn hereillä
+Kunto on teräs, vatsassa kuusi pakaraa, mutta lompakko on tyhjä
+Ostan maat mielessäni, kadut taipuu mun askelissa
+Silti katseeni eksyy laveisiin hipstereihin ja kallistettuun magnetofoniin
+Tää on vain show, mutta en halua enää olla sivustakatsoja
+
+Kertosäe 1 (4 riviä):
+Kuinka näin kävikään, kun maailma pyörii alamäkeen
+Anna aikaa – kuuntele tätä humalaa mun äänessä
+Kuinka näin kävikään, kun kaikki sekoittuu kerralla
+Anna aikaa – katso valot hajoaa silmiesi edessä
+
+Säkeistö 2 (8 riviä):
+Yleisö taputtaa käsiään, mun kädet on jäässä ja hikiset
+Punaiset korostusvalot piirii varjot kasvoilleni, tunteet katoaa
+Mies pöydän kulmassa kuiskii tarinoita, joita en halua kuulla
+Jäätelö sulaa uudestaan, muisto sulaa pään sisällä
+P. Diddyn varjo vilahtaa kulman takana, hän ostaa hiljaisuuden halvalla
+Mun omat merkit kirkkuu päällä – kierrätetty farkku, 3D-printattu koru
+En kilpaile, mun status on ainutlaatuinen, syntyy tän huoneen sumusta
+Ensimmäinen ovi sulkeutuu, et pääse sisään – tää tie vie syvemmälle
+
+Esi-Säkeistö 2 (8 riviä):
+Basson jyrinä tömisee luissa, en tunne tuntumaa maahan
+Hän seisoo korokkeella, veri punaa mikin varren
+Mun nimi on koodissa – en pääse ulos mun omasta tarinasta
+Lääkkeet leijailee ilmassa, savu piirtää piikkejä paljaaseen ihoon
+En vastaa, katson vain eteeni, sydän lyö hetkessä kahdesti
+Kuvittelen omistavani koko kaupungin, vaikka poskilla humala palaa
+Tää on mun show – mutten muista miksi astuin lavalle
+Kysyn hiljaa: kuinka näin kävikään, en saa vastausta takaisin
+
+Kertosäe 1 (toistuu, 2 kertaa) (4 riviä):
+Kuinka näin kävikään, kun maailma pyörii alamäkeen
+Anna aikaa – kuuntele tätä humalaa mun äänessä
+Kuinka näin kävikään, kun kaikki sekoittuu kerralla
+Anna aikaa – katso valot hajoaa silmiesi edessä
+
+Bridge (4 riviä):
+Sumu nousee korvissa – mikä on tästä todellista?
+Mun jalat ei kanna, mutta mieli juoksee jälleen
+Katson tutkaan – et löydy kartalta, silti tunnet mut
+Jos et anna aikaa, tää humala pyyhkii mut pois
+
+Kertosäe 1 (toistuu, 2 kertaa) (4 riviä):
+Kuinka näin kävikään, kun maailma pyörii alamäkeen
+Anna aikaa – kuuntele tätä humalaa mun äänessä
+Kuinka näin kävikään, kun kaikki sekoittuu kerralla
+Anna aikaa – katso valot hajoaa silmiesi edessä
+
+Outro (2 riviä):
+Yksi viimeinen ajatus – en tiedä, kuka mä olin.
+Tää yö jää mieleen, kun kysyn taas: Kuinka näin kävikään?
+
+
+>>>>
+Kirjoita uusi inspiraatio teksti, mutta älä kirjoita mitään "minä" persoonasta. Eli ainoastaan "hän" / "te" / "he"/ passiivi
+
+<<<<
+Inspiraatioteksti “Kuinka näin kävikään” (pelkkää hän/te/he/passiivia)
+
+Intro (2 riviä):
+Ajatukset huutavat varjoissa – humalan humina hukuttaa järjen
+Tempo hidastetaan pulssiin, maailma vajoaa hitaaksi
+
+Säkeistö 1 (8 riviä):
+Neon-valot piirretään kasvoille, tiskit notkuvat vinoittain
+Shotti kilisee lasissa, kaikki sumenee kolahduksiin
+Jäätelö valuu rinnalle, tahra painetaan kestämään paidan hihaan
+Kierrätetyn takin hinta-laatu ylistetään hiljaisessa sopimuksessa
+Maitten omistaminen kruunataan statukseksi – kulku rajaton
+Kroppa kiittää terästä, vaikka kukkaro vaikeroi tyhjyyttään
+Ympärillä naurun kaiku, hiljaisuus pakotetaan joksikin
+Hitaasti vangitaan pulssi, maailma hidastuu
+
+Esi-Säkeistö 1 (8 riviä):
+Kulman takana pomo kapuaa, ketjut kimalletaan raskaiksi
+Mikrofoni vangitaan varjoihin, basso lyödään suoraan rintaan
+Varjot kaventuvat, uhrit katoavat yöhön vailla kutsua
+Taskuista kortit vaihdetaan pulloihin, pelimerkeiksi hetkellä
+Lääkkeet liuotetaan lasinpesuun, savu imaistaan lihaksiin
+Jokainen shotti syö muistoja, huuto repii rajoja auki
+Kylmä katse vaaditaan – pysyttävyyden merkki sysätään eteen
+Vastauksia ei kaivata, pulssi riittää todistukseksi
+
+Kertosäe 1 (4 riviä):
+Kuinka näin kävikään, kun yö vei jalan alta
+Anna aikaa – anna humalan kertoa kaiken
+Kuinka näin kävikään, kun varjot sulautuu yhteen
+Anna aikaa – katso valot murentuvan silmissä
+
+Säkeistö 2 (8 riviä):
+Kädet jäätyvät, yleisön taputus jää kaikumaan
+Korostusvalot piirtävät varjoja, tunteet katoavat kanveesiin
+Pöydän nurkassa kuiskaukset siirtyvät korvasta toiseen
+Jäätelö sulaa jälleen, muisto liukenee pään uumeniin
+Varjo-moguli vilahtaa nurkassa, hiljaisuus ostetaan murusina
+Kierrätetyt farkut ja 3D-korut kehutaan edullisuuden kruunuksi
+Kilpaileminen sivuutetaan – statukset rakennetaan savusta
+Ensimmäinen ovi puretaan, paluu unohdetaan – tie syvenee
+
+Esi-Säkeistö 2 (8 riviä):
+Pohjaton basson jyrinä ravistetaan luiden läpi
+Korokkeen valtias hymyilee, veri punaa mikin varren
+Nimi painetaan koodeiksi – ulosmeno estetään vaiston tasolla
+Lääkkeet leijailevat ilmassa, savu piirtää piikkejä ihoa vasten
+Vastaukset vaimennetaan, sydämen jysky jää yksin
+Kaupungit omistetaan mielikuvissa, vaikka kadut painavat alas
+Showta rakennetaan, vaikka muistot katoavat sumuun
+Yö kysyy: kuinka näin kävikään, vastaus hukkuu humalaan
+
+Kertosäe 1 (toistuu, 2 kertaa) (4 riviä):
+Kuinka näin kävikään, kun yö vei jalan alta
+Anna aikaa – anna humalan kertoa kaiken
+Kuinka näin kävikään, kun varjot sulautuu yhteen
+Anna aikaa – katso valot murentuvan silmissä
+
+Bridge (4 riviä):
+Sumun keskellä todellisuus hämärtyy – mikä on aitoa?
+Jalat pettävät, mutta mieli juoksee läpi eilisen
+Tutkassa ei näy suuntaa – kartta on piirrettävä itse
+Ilman aikaa humala pyyhkii tarinat menneisyyteen
+
+Kertosäe 1 (toistuu, 2 kertaa) (4 riviä):
+Kuinka näin kävikään, kun yö vei jalan alta
+Anna aikaa – anna humalan kertoa kaiken
+Kuinka näin kävikään, kun varjot sulautuu yhteen
+Anna aikaa – katso valot murentuvan silmissä
+
+Outro (2 riviä):
+Yö nielaisee viimeisen humalan – jäljet jäävät katukiville
+Tarinaa kerrotaan uudelleen, kun kysytään: kuinka näin kävikään?
