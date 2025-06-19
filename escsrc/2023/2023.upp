@@ -1,14 +1,16 @@
+description "\377B198,170,0";
+
 file
 	"Devil or saint.txt",
 	"DT - 01 - Time of love.tg",
-	"Honeymoon.tg",
-	"Honeymoon.txt",
+	Honeymoon.tg,
+	Honeymoon.txt,
 	"Lucky strike.txt",
 	"Poko - Mun Sivu.gp",
 	"Puhuessa kadotan sut.gp",
 	"reach for the stars.tg",
 	"Roadtrip - chorus.tg",
-	"Roadtrip.txt",
+	Roadtrip.txt,
 	"School - Juhannus.txt",
 	"School - Lastenlaulu.txt",
 	"School - Old Ke.tg",
@@ -79,3 +81,4 @@ file
 	"__ puhuessa kadotan sut.txt",
 	"__ sudenhetki.txt",
 	"__ Talviunille.txt";
+

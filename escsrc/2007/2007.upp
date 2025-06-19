@@ -1,18 +1,20 @@
+description "\377B255,42,0";
+
 file
-	"candyday.txt",
+	candyday.txt,
 	"have a nice trip.tg",
 	"Pohjantahti/buy my cd.txt",
-	"Pohjantahti/drinking.txt",
+	Pohjantahti/drinking.txt,
 	"Pohjantahti/eternal storm.txt",
-	"Pohjantahti/heartbeat.txt",
-	"Pohjantahti/info.txt",
+	Pohjantahti/heartbeat.txt,
+	Pohjantahti/info.txt,
 	"Pohjantahti/neighborhood sound.txt",
 	"Pohjantahti/scars of wounds.txt",
-	"Pohjantahti/telemarketer.txt",
+	Pohjantahti/telemarketer.txt,
 	"Pohjantahti/time of love.txt",
 	"praise or thanks.txt",
 	"sensitive (trash).txt",
-	"sensitive.txt",
+	sensitive.txt,
 	"VA - candyday.gp",
 	"VA - Epic.gp",
 	"_ ace.tg",
@@ -39,3 +41,4 @@ file
 	"__ roadless trippin.tg",
 	"__ sgerberoz.tg",
 	"__ starstruck.tg";
+

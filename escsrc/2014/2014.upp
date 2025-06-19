@@ -1,8 +1,11 @@
+description "\377B0,101,129";
+
 file
 	"2014 notes.txt",
-	"kickflip.txt",
+	kickflip.txt,
 	"sad little furry ball.tg",
 	"_ missing you.tg",
 	"_ paula.tg",
 	"_ summer 2014 (kickflip).tg",
 	"__ stadion pop.tg";
+

@@ -1,15 +1,17 @@
+description "\377B198,42,150";
+
 file
 	"80s vibe.txt",
-	"aurora.tg",
+	aurora.tg,
 	"cute story - b.txt",
 	"great escape - a.tg",
 	"great escape - b.txt",
-	"hooked.tg",
+	hooked.tg,
 	"never ever - a.txt",
 	"never ever - b.txt",
 	"something traditional - pt1.tg",
-	"stressed.txt",
-	"weekday.txt",
+	stressed.txt,
+	weekday.txt,
 	"_ 80s vibe.tg",
 	"_ cute story - b.tg",
 	"_ great escape - b.tg",
@@ -25,3 +27,4 @@ file
 	"__ technical exercise.tg",
 	"__ two - a.tg",
 	"__ we will drink today.tg";
+

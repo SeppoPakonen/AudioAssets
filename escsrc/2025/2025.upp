@@ -1,3 +1,5 @@
+description "\377B255,127,0";
+
 file
 	"Huuhtoutuu menneet pois.gp",
 	"Kuka kuivaa kyyneleet.gp",
@@ -5,3 +7,4 @@ file
 	"Rakastaa saan.gp",
 	"Rakastaa saan.mid",
 	"Rakastaa saan.txt";
+

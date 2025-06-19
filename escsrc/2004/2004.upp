@@ -1,9 +1,12 @@
+description "\377B141,42,150";
+
 file
 	"autumn tone.txt",
 	"battle of words.txt",
-	"classic.txt",
+	classic.txt,
 	"seagull beach.txt",
 	"_ autumn tone - a.tg",
 	"_ battle of words.tg",
 	"_ classic.tg",
 	"_ summer 2004 (seagull beach).tg";
+

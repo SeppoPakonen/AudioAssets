@@ -1,6 +1,8 @@
+description "\377B28,170,0";
+
 file
 	"2020 notes.txt",
-	"hot_pt1.txt",
+	hot_pt1.txt,
 	"summer 2020 (don't go inside the tower).tg",
 	"sweaty hello.tg",
 	"_ corpse identity.tg",
@@ -26,3 +28,4 @@ file
 	"__ thinker 2020.tg",
 	"__ twisted loneliness - b.tg",
 	"__ twisted xmas 2020.tg";
+

@@ -1,13 +1,15 @@
+description "\377B255,42,150";
+
 file
 	"70s vibe.tg",
 	"bye bye baby.tg",
-	"candyday.tg",
+	candyday.tg,
 	"Colors in the Corners.tg",
-	"ethereal.txt",
-	"jammed.txt",
+	ethereal.txt,
+	jammed.txt,
 	"sad love.txt",
-	"she.txt",
-	"tradition.txt",
+	she.txt,
+	tradition.txt,
 	"withdrawal symptoms.tg",
 	"_ answermachine.tg",
 	"_ autumn tone - c.tg",
@@ -43,3 +45,4 @@ file
 	"__ stupid.tg",
 	"__ timberland.tg",
 	"__ two - b.tg";
+

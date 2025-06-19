@@ -1,3 +1,5 @@
+description "\377B255,170,0";
+
 file
 	"1 - Sä ja mä.txt",
 	"2 - Nää arvet.txt",
@@ -6,10 +8,11 @@ file
 	"Chasing Neon Dreams 2.txt",
 	"Chasing Neon Dreams.txt",
 	"En tahtonut.txt",
-	"Haava.txt",
+	Haava.txt,
 	"Hei vaimo.txt",
 	"My queen tonight.txt",
 	"Sweet nothings.txt",
 	"__ Dark Dreamers - Blinded by Your Love.txt",
 	"__ I was trapped inside.txt",
 	"__ I'm gonna find a way.txt";
+
