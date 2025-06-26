@@ -1,0 +1,9 @@
+Mustasusi - Sarjan Paras LP
+
+You will help design a cover image for a music song. The goal is to create a prompt for the image generator.
+
+The song is "Mustasusi - Sarjan paras LP". In the original reference photo, a man is sitting on a couch in a white room and pointing with his right index finger in a hip-hop style. He is wearing a black hoodie with white decorative patterns. He is wearing a fisherman's cap with lots of text on it, such as "back to the 90s". Write text for the image generator.
+The image should be black and white or almost colorless and realistic.
+So the artist is "Mustasusi" and the title is "Sarjan paras LP".
+
+A realistic, black and white (or almost colorless) cover image for a music song. The setting is a minimalist, white room. A man is sitting casually on a couch, striking a confident hip-hop pose and pointing with his right index finger. He wears a black hoodie with intricate white decorative patterns, and a fisherman's cap covered with lots of text, including phrases like "back to the 90s" and similar writing. The overall mood is relaxed yet stylish, urban and cool. At the top or bottom of the image, include the artist name "Mustasusi" and the song title "Sarjan paras LP" in a bold, modern font. Keep the color scheme monochrome, focusing on realism and atmosphere.

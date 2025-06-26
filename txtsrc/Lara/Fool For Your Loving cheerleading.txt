@@ -1,0 +1,134 @@
+AI: o4-mini
+>>>>
+You will help create instructions for a AI music generator
+
+
+>>>>
+Let's make a song for a cheerleading team dance, which can be no longer than 1min 30sec.
+
+The lyrics of the song are:
+Verse 1:
+I have loved you a thousand years
+I'll see a love you feel
+I'll do anything for you
+But you don't seem to notice
+Do you think of me every day
+When you walked away
+Was I only fool for your loving
+
+Chorus:
+Now watch when I walk away
+'Cos my heartache won't go away
+I'll do anything for you
+But you don't care about it
+Are you afraid of love
+Why can't you see what's above
+I'll do anything for you
+But you don't care about it
+
+
+What kind of genre style text is suitable for the suno music generator when the target is the background music for a cheerleading team performance?
+
+
+
+
+<<<<
+Here’s a sample “style” prompt you can feed into Suno to get a 1:30-long cheer-team backing track that fits your lyrics:
+
+“Genre: High-energy Dance-Pop with stadium-rock and marching-band influences
+Tempo: 135–145 BPM
+Instrumentation:
+• Driving electronic drums with cheer-style snare & hand-claps
+• Punchy synth bass
+• Bright synth stabs & arpeggios
+• Layered electric guitar power-chords
+• Triumphant brass hits (trumpets/horns) for accent
+• Optional crowd-chant ambience
+Mood & Structure:
+• Uplifting, empowering, anthem-style
+• Intro (8 bars) with drum roll → Verse → Pre-chorus build (drum fill) → Chorus “drop” → Verse 2 → Chorus → Outro
+• Emphasize big builds into each chorus, strong downbeats on 1 & 3 for cheer sync
+Length: 1 min 30 sec, structure timed for two verses + two choruses.”
+
+Feel free to tweak BPM or swap in more EDM synths vs. live drums depending on the “feel” you want.
+
+
+
+>>>>
+Nice. What about more EDM style?
+
+<<<<
+Here’s a Suno‐ready “EDM style” prompt tailored for a 1:30 cheer-team backing track:
+
+Genre: Big-Room/Festival EDM with pop-cheer energy
+Tempo: 128–132 BPM
+Key: A Minor (for bright yet driving feel)
+
+Instrumentation:
+• Four-on-the-floor kick with tight transient & sidechain pump
+• Snappy claps + layered cheer-style snare rolls
+• Subby, punchy bassline
+• Supersaw lead synths for hooks and stabs
+• Pluck arpeggios (short, perky) under verse sections
+• Wide, gated pad for verse atmosphere
+• Big risers, white-noise sweeps & impacts for builds
+• Vocal‐chop accents (e.g. “Hey! Hey!”) for crowd-chant feel
+• Optional stadium crowd ambi-pad or low chant under drops
+
+Mood & Energy:
+• Uplifting, anthemic, festival-size drops that hit like a “cheer stunt”
+• Tension‐builders before chorus (“drop”) with snare‐rolls & risers
+• Hard-hitting four-on-the-floor choruses to sync with pom-poms
+
+Structure (1:30 total):
+Intro (8 bars): filtered kick + pad →
+Verse 1 (16 bars): plucks, bass, vocal chops under lyrics →
+Build 1 (8 bars): snare roll + riser →
+Drop/Chorus 1 (16 bars): full supersaw lead, crowd-chant sub layer →
+Verse 2 (8 bars): bring back plucks + chopped vocals →
+Build 2 (8 bars): shorter, higher tension →
+Drop/Chorus 2 (16 bars): biggest impact, double supersaw layer →
+Outro (8 bars): kick-out with fade of synth chord/stadium chant
+
+Length: exactly ~1′30″—two build→drop cycles, two verses, compact intro/outro.
+
+
+>>>>
+Ok. This doesn't seem to combine well singing with the rest of the song.
+Please try some jazzy style, but with dance beat.
+
+<<<<
+Here’s a Suno-ready style prompt for a jazzy-dance backing track (1:30 total), designed to sit under your vocals and keep the energy high for a cheer routine:
+
+Genre: Jazz-House / Nu-Jazz with Dance-Funk groove
+Tempo: 122–126 BPM (slightly swung 4/4 feel)
+Key: C Major (bright, easy for vocals)
+
+Instrumentation & Texture
+• Hybrid Drum Kit: four-on-the-floor kick + swung hi-hat pattern + tight snare/claps
+• Electric Upright Bass: walking/funk line locked to kick, adds warmth
+• Electric Piano (Rhodes): extended jazz chords (7ths, 9ths) comping on off-beats
+• Clean Electric Guitar: muted “chunk” comp in verses, wah-enhanced funk in choruses
+• Brass Section: punchy trumpet & trombone stabs on 2 & 4, brief trombone slides for accents
+• Synth Bass Layer: subby low end under choruses for extra punch
+• Light Strings Pad: sustained under choruses for lift
+• Percussion Accents: shaker, congas, cowbell for groove
+• Crowd-chant FX: subtle “hey!” or “woo!” chops in build-ups
+
+Arrangement (1:30)
+Intro (8 bars): Rhodes vamp + upright bass groove, soft ride cymbal →
+Verse 1 (16 bars): drop guitar & brass; keep drums & Rhodes; leave space for vocal →
+Pre-Chorus (8 bars): add congas + shaker; horn stabs build; snare rolls on last 2 bars →
+Chorus 1 (16 bars): full band—drum four-on-floor, synth bass, strings pad, guitar funk; brass hits mark each four bars →
+Verse 2 (8 bars): strip back to drums, electric piano, upright bass; vocal-centric →
+Pre-Chorus 2 (8 bars): same as first but add rising white-noise sweep →
+Chorus 2 (16 bars): biggest, with crowd-chant synth chops and double-tracked horns →
+Outro (8 bars): fade out guitar rhythm + Rhodes comp + soft brass pad
+
+Mood & Dynamics
+• Verses: intimate jazz-club vibe under vocals, lower energy
+• Build-ups: steadily layer percussion & horns to create anticipation
+• Choruses: dance-floor punch, bright chords, driving low end—perfect for pom-pom hits or stunts
+• Keep synth bass subtle in verses so vocals shine, bring it up in choruses for the “drop” feel
+
+Length: ~1 min 30 sec, two verses, two choruses, concise intro/outro.

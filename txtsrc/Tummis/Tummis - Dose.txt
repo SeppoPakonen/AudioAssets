@@ -1,0 +1,11 @@
+You will help design a cover image for a music song. The goal is to create a prompt for the image generator.
+
+Artist: Tummis
+Title: Dose
+Genre: rap
+[image: Tummis - Dose orig.jpg]
+
+Here’s a single, ready-to-use text prompt you can feed into your favorite AI art generator (Midjourney, Stable Diffusion, etc.):
+
+“Album cover for a rap single ‘Dose’ by Tummis. Dark, gritty urban night scene—an alley or rooftop skyline drenched in deep blacks and neon green glows. Large, custom graffiti lettering spelling TUMMIS at top and DOSE at bottom, dripping paint effect, slight digital glitch. In the foreground, a hooded figure silhouette backlit by pulsing green light and swirling smoke/particle trails. High-contrast, cinematic lighting with lens flares and subtle glitch/distortion accents. Overall vibe: street-art meets futuristic cyberpunk, raw energy, underground rap aesthetic.”
+
