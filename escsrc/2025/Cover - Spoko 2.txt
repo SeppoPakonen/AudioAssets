@@ -1,0 +1,101 @@
+>>>>
+You will help design a cover image for a music song. The goal is to create a prompt for the image generator.
+
+>>>>
+Arist: Spoko
+Language: Finnish
+Year: 2025
+Genre: Rap / Jazz-House / Nu-Jazz with Dance-Funk groove
+Album title: Me rakkauteen löydetään
+Song count: 3
+Who: 35 years old male from Oulu, Finland.
+Look: Long brown hair, 174cm long, slightly overweight (wants to be skinny)
+Personality: computer geek, music composition geek, easy, serious, utopist
+Taste: Like's Donald Duck comics, C++ programming, skinny busty blonde women in tight black latex
+
+Lyrics of the song with the same name as the album title:
+
+[Intro]
+Voiko löytää
+Voiko kestää
+Yks ja ainoo
+Jonka sulta saan
+Sulta saan
+Voiko kestää
+Se vain
+
+[Verse 1]
+Nää bileet kusee, basso tönii mut ei kuljeta
+Eksyin haikaraiden juhlaan, mut katson vain kasvojas
+En osaa tanssii, jalat jää jumiin kii lattiaan
+Mut kun sä astut sisää, jään katsoo sust mallia
+Salas poltan röökii, sua ootan savupilves tääl
+Ne ei nää, miten katsees vie mut karkuun pään sisään
+Viet sanat suusta, ja mä oon koukussa
+Syviin silmiis, tahon uida, huulii suudella
+
+[Chorus]
+Me rakkauteen löydetään
+Vahvaan ja kestävään
+Yhteen ja ainoaan
+Jonka vain sulta saan
+
+[Verse 2]
+Taisin rakastuu vaik tie sun luo olikin pirun vaikea
+Sun vierel on vain joku kuin mahonkikaappina
+Mut vastus voimistaa, palkinnon vielä saan.
+Ja Jossun ruskeet silmät vetää lisää puoleensa.
+Miehes juo kaljaa, mä viihdytän sua munflowlla
+Naurat, kiinnostut ja valtaan sut ilman et joustan.
+Mä en osaa antaa periks, vaik alan ite väsyyn
+Mut yhes hetkes annat periks ja saan sut sänkyyn.
+
+[Chorus]
+Me rakkauteen löydetään
+Vahvaan ja kestävään
+Yhteen ja ainoaan
+Jonka vain sulta saan
+
+[Chorus]
+Me rakkauteen löydetään
+Vahvaan ja kestävään
+Yhteen ja ainoaan
+Jonka vain sulta saan
+
+[Bridge]
+Tää rakkaus on väärin, mut sydän sykkii sulle
+Teeskentelen et en välitä, mut haluun suhteen
+Ehkä viikon pääst jo polvistun ja tunnustan
+Mut ihan sama, ku tunnen kohtalon sun kaa kutsuvan
+Ou-uu-oo löydetään
+Aa-aa onka vain sulta saan
+Rakkauteen löydetään
+Vahvaan ja kestävään
+Yhteen ja ainoaan
+Jonka vain sulta saan
+
+[Chorus]
+Me rakkauteen löydetään
+Vahvaan ja kestävään
+Yhteen ja ainoaan
+Jonka vain sulta saan
+
+[Chorus]
+Me rakkauteen löydetään
+Vahvaan ja kestävään
+Yhteen ja ainoaan
+Jonka vain sulta saan
+
+
+
+<<<<
+Prompt for AI image generator:
+
+“A cinematic, retro-futuristic square album cover in a rich neon palette of deep purples, electric blues and warm pinks.
+In the foreground, a 35-year-old Finnish man (174 cm, muscular, skinny) with long brown hair leans over a sleek, holographic mixing console and open laptop displaying C++ code.
+He wears a casual utopian-style hoodie, headphones around his neck, and a small Donald Duck comic page is tucked into his pocket or pinned nearby.
+Swirling around him are abstract, glowing musical notes and dance-funk patterns suggesting jazz-house and nu-jazz grooves.
+In the midground, a stylized, tasteful silhouette of a skinny, busty blonde figure in tight black latex dances, rendered as a glowing outline rather than detailed figure.
+In the background, faint northern lights or an abstract Oulu city skyline add Finnish atmosphere.
+Centered at the bottom in bold, modern rap-music/graffiti type: “Me rakkauteen löydetään.”
+Mood: romantic, utopian, serious yet easy, with a hint of Geek-chic and dance-floor energy”
