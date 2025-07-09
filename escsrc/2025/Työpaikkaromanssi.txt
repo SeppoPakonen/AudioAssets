@@ -1,0 +1,242 @@
+AI: openai o4-mini-2025-04-16
+
+>>>>
+Autat kirjoittamaan laulun inspiraatiotekstin. Inspiraatiotekstin rivien määrä tulee vastata lopullista kappaleen rivimäärää, mutta rivien ei tarvitse rimmata, eikä rivien sanoja tai fraaseja välttämättä käytetä, vaan pikemminkin rivien taustalla oleva yhdistävä tekijä säilyy lopulliseen kappaleeseen.
+Kappale tulee olemaan positiivinen UG rap/rap-EDM/hiphop kappale, jossa kertosäkeet lauletaan, mutta säkeet ovat räppiä. Kappaleen soinnut ovat duurivoittoisia.
+
+>>>>
+Hei.
+Minulla on aihe kappaleelle, joka perustuu tositapahtumiin, mutta joka pitäisi yleistää mainstream pop lyriikaksi, eli että ihmiset voivat samaistua siitä taustasta ja tilanteesta huolimatta.
+
+Tarina menee näin.
+Vuonna 2011 aloitin Ympäristötekniikan opiskelun Oulun Yliopistolla.
+Terveyteni oli huono, mutta halusin yrittää (minulla oli pahoinpitelyn aiheuttama krooninen kipu kasvoissa, ja armeijasta aiheutuneita psykologisia vaivoja, ja kaikkea pahensi perusteettomat mainehaitat kotikaupungissani, mikä teki seurustelun käytännössä mahdottomaksi, etenkin kun en tunnistanut ongelmaa, ja se pimitettiin minulta).
+En voinut edes osallistua fuksi-tapahtumiin, mikä harmitti minua suuresti.
+Ensimmäisiä kursseja oli ryhmätyö prosessitekniikasta, jossa sain aiheeksi Suomen Talvivaaran kaivokosen ja heidän liuotus-prosessin.
+En tiennyt ryhmätyö kavereitani, mutta meidät ohjattiin tapaamaan tietyssä paikassa.
+Minut ohjattiin jonnekkin pieneen ja rauhalliseen kirjaston tapaiseen, jossa ei ollut ketään muita.
+Huoneeseen kävelee yhtäkkiä nuori nainen, jolla on kiiltävät mustat ihonmyötäiset housut, korkokengät, tiukka musta villapaita ja valkoiset blondit hiukset.
+Hän on myös hoikka ja meikannut seksikkäästi.
+Minulla kirjaimellisesti lentää sylki suusta ulos kun näen hänet ja suu meinaa jäädä auki.
+Hän oli nimeltään Mari Javanainen.
+Teimme syksyn ryhmätyötä hänen ja erään Jarkon kanssa.
+Terveyteni oli aika surkea, enkä oikein pystynyt jatkamaan koulua.
+Olin hyvin ihastunut Mariin, mutta minulla oli liikaa sisäisiä konflikteja, enkä tuntunut tekevän vaikutusta häneen, tai en osannut edetä.
+Luultavasti en vain osannut edetä tai tehdä aloitetta, tai mitään.
+Käytännössä melkolailla lopetin koulun sen kurssin jälkeen terveyssyistä.
+
+Haluaisin korostaa kappaleessa tämän naisen seksikkyyttä ja kauneutta, ja jännitettä yliopistokurssilla/työpaikalla.
+Haluaisin uskoa, että ihastuminen oli molemminpuolista, mutta asia ei vain edennyt.
+Meillä oli siis jopa sama kotimatka linja-autolla, ja jäimme vaivaantuneesti eroamaan ennen kotiin menojamme.
+Se oli luultavasti minun hölmöyttä olla tekemättä mitään, tai osaamattomuutta, tai tietämättömyyttä, tai juurettomuutta, koska olin ala-asteelta asti käynyt koulussa linja-autolla kaukana.
+
+<<<<
+Syksy 2011 koittaa, pakkasaamun sumu kulkee Oulun katuja pitkin
+Kuljen kampusalueen halki, askel painaa, kroppa huutaa lepoa
+Sisäinen kipu kasvoissa muistuttaa menneistä iskuista
+Sairaudet, mainehaitat, yksinäisyys, eikä kukaan näe totuutta
+Fuksi-tapahtumat ohitan hiljaa, kerrosten käytävät ovat kylmiä mutta tutut
+Ryhmätyö kutsuu prosessitekniikan luokkaan, luovuus kohtaa kaivosten kemian
+Huoneessa on hiljaista, pöydät ja tuolit odottavat kasvoja, joita en tunne
+Sisälle astuu Mari, valkoiset hiukset hohtavat kirkasta valoa vastaan
+Mustat housut, korkkarit, tiukka paita piirtävät ääriviivat
+Hengitys pysähtyy, maailma tuntuu pysähtyvän
+Yritän puhua, sanat takertuvat kurkkuun
+Katseet hakeutuvat yhteen, lämpö syttyy kaupungin kylmyyteen
+Syksyisten tuntien lomassa rakennamme luottamusta prosessikaavion äärellä
+Minä puoliksi kadoksissa, hän loistaa oudossa rauhassa
+Sydän toivoo yhteistä matkaa bussissa kotiin
+Busspysäkillä hetki venyy, epätietoisuus valtaa ilman
+Kylmät tuulet kantavat hiljaisuuden sanansaattajina
+Molemmat pidämme suumme kiinni, pelkkä läsnäolo riittää
+En uskalla astua askelta eteenpäin, jään varjoon
+Hän katoaa kiirehtien linjatielle, taakseen heittää katseen
+Jään yksin murehtimaan epäonnistuneita mahdollisuuksia
+Toivon, että jokin toinen päivä rohkaisen mieleni
+Päässäni soivat suuret duurivoitot, odottavat vapautumistaan
+Ehkä me vielä löydämme yhteisen matkan, kipu jää taa, valo voittaa
+
+>>>>
+Erottele osat [Verse 1][Chorus] jne.
+
+    Verse saisi olla 16 riviä (jotka olisi lyhyitä)
+    Versejä on 2
+    Bridge (tai kliimaksi) on 8 riviä
+    Rakenne on: intro, verse, kertsi, verse, kertsi, bridge, kertsi, outro
+
+<<<<
+[Intro]  
+Oulu ’11, pakkasaamu hiljaa kuiskaa  
+Yksi vilkaisu, kaikki muuttuu hetkessä  
+
+[Verse 1]  
+Kylmä aamu  
+Sumussa kuljen  
+Kroppa huutaa lepoa  
+Pää täynnä kipua  
+Yksinäinen fuksi  
+Käytävät kylmät  
+Prosessikaaviot  
+Mut en löydä suuntaa  
+Hiljaisuus huutaa  
+Odotan hetkeä  
+Huoneen ovi narahtaa  
+Mari astuu  
+Valkeat hiukset  
+Mustat housut  
+Sydän pysähtyy  
+Katseet kohtaavat  
+
+[Chorus]  
+Sun silmissä kipinä syttyy  
+Mun syke nousee biitin tahtiin  
+Hetket jää soimaan  
+Kaksin tai yksin  
+Bussipysäkillä hiljaisuus puhuu  
+Toivo ja pelko käsi kädessä  
+En uskalla astua lähemmäs  
+Tarina jää meihin  
+
+[Verse 2]  
+Ryhmätyö pyörii  
+Kaivoksen kemia  
+Mari selittää  
+Mun sanat katoaa  
+Jarkon nauru taustalla  
+Mun mieli sumussa  
+Krooninen kipu  
+Ja maine varjona  
+Yritän nauraa  
+Yritän vaikuttaa  
+Hymyilen haparoiden  
+Hän vilkuttaa bussissa  
+Mun jalat jäätyy  
+Ovi sulkeutuu  
+Ja jää vain tyhjyys  
+Unelma kohoaa  
+
+[Chorus]  
+Sun silmissä kipinä syttyy  
+Mun syke nousee biitin tahtiin  
+Hetket jää soimaan  
+Kaksin tai yksin  
+Bussipysäkillä hiljaisuus puhuu  
+Toivo ja pelko käsi kädessä  
+En uskalla astua lähemmäs  
+Tarina jää meihin  
+
+[Bridge]  
+Miksi sanat tarttuu kurkkuun?  
+Miksi pelko voittaa rohkeuden?  
+Miksi muutos jää tekemättä?  
+Kun sydän huutaa vapauteen?  
+Katson taakse, nään varjon  
+Joka estää syttyvän valon  
+Josko vielä uskaltaisin  
+Hypätä tähän fiilikseen?  
+
+[Chorus]  
+Sun silmissä kipinä syttyy  
+Mun syke nousee biitin tahtiin  
+Hetket jää soimaan  
+Kaksin tai yksin  
+Bussipysäkillä hiljaisuus puhuu  
+Toivo ja pelko käsi kädessä  
+En uskalla astua lähemmäs  
+Tarina jää meihin  
+
+[Outro]  
+Krooninen kipu kaartuu kauas taakse  
+Uusi aamu odottaa kirkkaana  
+Ehkä joku päivä mä löydän tien  
+Sun katseeseen, sun viereen
+
+>>>>
+Käytä tätä tarinaa metaforana työelämään. Siirrä tapahtumaketju työpaikkaan. Työpaikka voisi olla vaikka uusi tekoälykeskeinen firma.
+
+<<<<
+[Intro]  
+Koodirivi syttyy aamun hämärässä  
+Uusi päivä, uusi mahdollisuus  
+
+[Verse 1]  
+Uusi firma  
+Aamuherätys  
+Koodi käynnistyy  
+Rinnassa kipu  
+Maine varjostaa  
+Entiset kolhut  
+Kahvikuppi hikoaa  
+Näytöt loistaa  
+Slackin ping  
+Kalvo-klik  
+Tiimihuone hiljaa  
+Käytävän valoissa  
+Ovi narahtaa  
+Hän astuu sisään  
+Mari loistaa  
+Sydän pysähtyy  
+
+[Chorus]  
+Sun silmissä kipinä syttyy  
+Mun syke nousee koodin tahtiin  
+Hetket jää kaikumaan  
+Yhdessä tai yksin  
+Metrotunneli hiljaa kuiskaa  
+Toivo ja pelko koodissamme  
+En uskalla klikata lähemmäs  
+Tarina jää datassamme  
+
+[Verse 2]  
+Datasetin raato  
+Algoritmi pyörii  
+Mari selittää  
+Mun mieli savuttaa  
+Jarkko nauraa  
+Sanat katoaa  
+Testerit vaativat  
+Versiot vaihtuu  
+Varjo seuraa  
+Mahdollisuus vilkkuu  
+Hymyilen haparoiden  
+Hän vilkuttaa  
+Aikataulu kiristyy  
+Mun jalat jäätyy  
+Portit sulkeutuu  
+Unelma kohoaa  
+
+[Chorus]  
+Sun silmissä kipinä syttyy  
+Mun syke nousee koodin tahtiin  
+Hetket jää kaikumaan  
+Yhdessä tai yksin  
+Metrotunneli hiljaa kuiskaa  
+Toivo ja pelko koodissamme  
+En uskalla klikata lähemmäs  
+Tarina jää datassamme  
+
+[Bridge]  
+Miksi sanat tarttuu kurkkuun?  
+Miksi rohkeus nukkuu?  
+Koodirivien lomassa  
+Sydän huutaa vapauteen  
+Katson ruutua  
+Näen varjon  
+Josko huomenna  
+Uskaltaisin enemmän?  
+
+[Chorus]  
+Sun silmissä kipinä syttyy  
+Mun syke nousee koodin tahtiin  
+Hetket jää kaikumaan  
+Yhdessä tai yksin  
+Metrotunneli hiljaa kuiskaa  
+Toivo ja pelko koodissamme  
+En uskalla klikata lähemmäs  
+Tarina jää datassamme  
+
+[Outro]  
+Koodi hiljenee  
+Aamu nousee kirkkaana  
+Ehkä seuraavassa sprintissä  
+Astun rohkeana lähemmäs
