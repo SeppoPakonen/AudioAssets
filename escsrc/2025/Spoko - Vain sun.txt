@@ -2,8 +2,12 @@ Nimi:     Vain Sun
 Esittäjä: Spoko
 Tekijä:   Seppo Pakonen
 Tekoäly:  Inspiraatiotekstin perkaamista. Ei ideaa, ei riimejä.
+Pvm:      2025-05-11
 
+[Intro]
+Loco Spoko
 
+[Verse 1]
 Yy kaa, käsi hanskaan liukuu ja siihen sopii
 Kylmä on tie, mut auto lämmin on nii
 Sanoo gps, älä mee täst
@@ -21,11 +25,13 @@ Vaihtuu biisi, vaihdetaan asentoo
 Palapelin palat loksahtaa
 Klik – ja shamppanja poksahtaa
 
+[Chorus]
 Vain sun muoto luotu on mun muotoon niinku avain lukkoon
 Niinku avain lukkoon
 Vain sun muotoon mä sovin näin
 Sovin näin, sovin näin, sovin eestä ja takaapäin
 
+[Verse 2]
 Yy kaa, hommaa starttaa, kun katseet kohtaa
 Halaus on hanska 2.0
 On nii kuuma, hikoilen niinku pihvi
@@ -43,6 +49,7 @@ Saan sut lisää vielä jaksamaan
 Uudestaan alkamaan, uutta koittamaan
 huiluu soittamaan, vähän opettamaan
 
+[Chorus]
 Vain sun muoto luotu on mun muotoon niinku avain lukkoon
 Niinku avain lukkoon
 Vain sun muotoon mä sovin näin
@@ -52,6 +59,7 @@ Niinku avain lukkoon
 Vain sun muotoon mä sovin näin
 Sovin näin, sovin näin, sovin eestä ja takaapäin
 
+[Bridge]
 Basso sykkii meidän tahdissa
 Kaikki muu unohtui taustakohinaks
 Sama taajuus värisee 
@@ -61,6 +69,7 @@ Kun onni löytää mut, se vetää sut mukaan
 Ja yhes ollaan yks ainoo rytmi
 Joka jatkuu vaikka biisi päättyikin
 
+[Chorus]
 Vain sun muoto luotu on mun muotoon niinku avain lukkoon
 Niinku avain lukkoon
 Vain sun muotoon mä sovin näin
@@ -70,6 +79,7 @@ Niinku avain lukkoon
 Vain sun muotoon mä sovin näin
 Sovin näin, sovin näin, sovin eestä ja takaapäin
 
+[Outro]
 Vain sun muoto luotu on mun muotoon
 Mun muotoon luotu on
 Mun muotoon luotu sun muoto on

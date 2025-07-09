@@ -1,12 +1,24 @@
 0description "\377B255,127,0";
 
 file
+<<<<<<< HEAD
 	"Työpaikkaromanssi.txt",
+=======
+	Release readonly separator,
+	"Spoko - Vain sun.txt",
+	Other readonly separator,
+>>>>>>> 27df037 (texts)
 	"Huuhtoutuu menneet pois.gp",
 	"Kuka kuivaa kyyneleet.gp",
 	"Laura - Älä mene lähelle.gp",
 	"Rakastaa saan.gp",
 	"Rakastaa saan.mid",
 	"Rakastaa saan.txt",
+<<<<<<< HEAD
 	"Cover - Spoko 2.txt",
 	"Inspiration text" readonly separator;
+=======
+	"Inspiration text" readonly separator,
+	"Jotain parempaa.txt";
+
+>>>>>>> 27df037 (texts)
