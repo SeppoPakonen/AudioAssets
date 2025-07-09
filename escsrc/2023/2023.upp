@@ -1,6 +1,10 @@
 description "\377B198,170,0";
 
 file
+	Release readonly separator,
+	"Puhuessa kadotan sut.qtf",
+	"Me rakkauteen löydetään.qtf",
+	Unsorted readonly separator,
 	"Devil or saint.txt",
 	"DT - 01 - Time of love.tg",
 	Honeymoon.tg,
@@ -9,9 +13,7 @@ file
 	"Poko - Mun Sivu.gp",
 	"Puhuessa kadotan sut.gp",
 	"__ puhuessa kadotan sut.txt",
-	"Puhuessa kadotan sut.qtf",
 	Unnamed.gp,
-	"Me rakkauteen löydetään.qtf",
 	"reach for the stars.tg",
 	"Roadtrip - chorus.tg",
 	Roadtrip.txt,

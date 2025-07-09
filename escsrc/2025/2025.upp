@@ -1,4 +1,4 @@
-description "\377B255,127,0";
+0description "\377B255,127,0";
 
 file
 	"Työpaikkaromanssi.txt",
@@ -8,5 +8,5 @@ file
 	"Rakastaa saan.gp",
 	"Rakastaa saan.mid",
 	"Rakastaa saan.txt",
-	"Cover - Spoko 2.txt";
-
+	"Cover - Spoko 2.txt",
+	"Inspiration text" readonly separator;

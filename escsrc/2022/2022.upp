@@ -1,13 +1,15 @@
 description "\377B141,170,0";
 
 file
+	Release readonly separator,
+	"Kuka se onkaan.txt",
+	Drafts readonly separator,
 	"before dawn - b.tg",
 	"Let Me Take You Away.tg",
 	"old saying.tg",
 	"Take Me Away.tg",
 	"Teppo ja Tytti.txt",
 	"The Waiter's Heart.txt",
-	"Pienen kahvilan tarjoilija.txt",
 	"time stands still.tg",
 	"waiter of the small cafe - b.tg",
 	"When I'm With You.tg",
