@@ -3,6 +3,9 @@ description "\377B85,170,0";
 file
 	"2021 notes FIN.txt",
 	"2021 notes.txt",
+	Release readonly separator,
+	"On valoo.tg",
+	Draft readonly separator,
 	"a jump - c.tg",
 	"always on my mind.tg",
 	"date night.tg",
@@ -56,7 +59,6 @@ file
 	"__ funk21.tg",
 	"__ funky geek.tg",
 	"__ gin.tg",
-	"__ going down.tg",
 	"__ golf.tg",
 	"__ green haze.tg",
 	"__ hardbass.tg",
