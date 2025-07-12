@@ -1,0 +1,96 @@
+
+
+Inspiraatio/tyyli-teksti:
+
+[Verse 1]
+Mun mahikset on aina ollu heikkoja
+Mun mahikset on aina ollu heikkoja
+Ei neutraalia vaan pikkasen negatiivista
+Ei neutraalia vaan pikkasen negatiivista
+
+[Prechorus 1]
+Lamaannu ja pysähdy en kuitenkaan
+Mulla voimaa riittää edelleen
+
+[Chorus]
+Yksi neljästä
+Yksi neljästä
+On mun mahis
+Onnistuu tässä elämässä
+Yksi neljästä
+Yksi neljästä
+On mun osuus
+Mulle kuuluvist ystävistä
+
+[Verse 2]
+
+
+
+
+>>>>
+You will help transform the original inspiration text into inspiration text for a popular musical piece. The lines do not need to rhyme, but the number of lines should match the number and positions of the final lyrics.
+
+Structure of the song:
+- Verse 1 & 2: 4 lines
+- Pre-chorus 1 & 2, 2 lines
+- Chorus: 8 lines (don't change. keep original)
+- Bridge: 4 lines
+
+Style: rap, funk rock
+
+Don't make finale lyrics, but make non-rhyming inspirational text.
+>>>>
+[Verse 1]
+Minun mahdollisuudet ovat aina olleet heikkoja.
+Eivät neutraaleja, vaan hieman pikkuisen negatiivisia.
+
+[Prechorus 1]
+Lamaannu ja pysähdy minä en kuitenkaan.
+Minulla voimaa riittää edelleen.
+
+[Chorus]
+Yksi neljästä,
+Yksi neljästä.
+On minun mahdollisuus
+Onnistua tässä minun elämässä.
+Yksi neljästä,
+Yksi neljästä.
+On minun osuus
+Minulle kuuluvista ystävistä.
+
+>>>>
+[Verse 1]  
+Minun mahdollisuudet ovat aina olleet heikkoja.  
+Eivät neutraaleja, vaan hieman pikkuisen negatiivisia.  
+Olen silti tarttunut jokaiseen tilaisuuteen ja hionut lentoani.  
+Jokainen takaisku on polttoainetta seuraavaan loikkaan.  
+
+[Prechorus 1]  
+Lamaannu ja pysähdy minä en kuitenkaan.  
+Minulla voimaa riittää edelleen.  
+
+[Chorus]  
+Yksi neljästä,  
+Yksi neljästä.  
+On minun mahdollisuus  
+Onnistua tässä minun elämässä.  
+Yksi neljästä,  
+Yksi neljästä.  
+On minun osuus  
+Minulle kuuluvista ystävistä.  
+
+[Verse 2]  
+Nostan katseeni kohti kauempaa maisemaa.  
+Tiedän, että rytmi kantaa minut pidemmälle.  
+Annoin pelon hajota sointuihin ja iskuihin.  
+Nyt kuljen oman polkuni keskellä valoa.  
+
+[Prechorus 2]  
+Annan sydämen lyödä täyttä tahtia.  
+Ylitän omat rajani askel kerrallaan.  
+
+[Bridge]  
+Uskon, että kaiku kantaa unelmani läpi yön.  
+Tunnen basson värähtävän suonissani, vapautta virittäen.  
+Rumpujen isku murtaa sisäiset esteet, avaa tilaa.  
+Jokainen askel kuuluu suurempaan rytmiin.  

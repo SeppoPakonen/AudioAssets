@@ -5,6 +5,7 @@ file
 	"Spoko - Vain sun.txt",
 	"Työpaikkaromanssi.txt",
 	"On valoo.txt",
+	Kilpailijat.txt,
 	Other readonly separator,
 	"Huuhtoutuu menneet pois.gp",
 	"Kuka kuivaa kyyneleet.gp",
@@ -14,7 +15,7 @@ file
 	"Rakastaa saan.txt",
 	"Cover - Spoko 2.txt",
 	"Inspiration text" readonly separator,
-	Kilpailijat.txt,
+	"Yks neljästä.txt",
 	"Jätetään vuodet pois.txt",
 	"Onnellinen sänky.txt",
 	"Jotain parempaa.txt";
