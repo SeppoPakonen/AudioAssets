@@ -6,6 +6,8 @@ file
 	"Työpaikkaromanssi.txt",
 	"On valoo.txt",
 	Kilpailijat.txt,
+	"Yks neljästä.txt",
+	"Capture the flag.txt",
 	Other readonly separator,
 	"Huuhtoutuu menneet pois.gp",
 	"Kuka kuivaa kyyneleet.gp",
@@ -15,7 +17,6 @@ file
 	"Rakastaa saan.txt",
 	"Cover - Spoko 2.txt",
 	"Inspiration text" readonly separator,
-	"Yks neljästä.txt",
 	"Jätetään vuodet pois.txt",
 	"Onnellinen sänky.txt",
 	"Jotain parempaa.txt";
