@@ -17,8 +17,8 @@ Ja yks kiva mies jäi mua auttaan
 [Prechorus 1]
 Selvis jo alussa, sun eka sanalla
 Et ollaan samoja luonteeltaan, taustalta
-Ja hän jäi Jutteleen, yhdessä vitsaileen
-Toi helle muutakin ,ja sua suutelin.
+Ja hän jäi jutteleen, yhdessä vitsaileen
+Toi helle muutakin, ja sua suutelin
 
 [Chorus]
 On nyt kesä jäänyt taaksemme
@@ -27,8 +27,8 @@ Kuihtuikin jo tää rakkautemme
 Jään nyt alle lumen uuden
 
 [Verse 2]
-Meillä oli sama matka päivän pääteeks
-Haluttiin tehä vähän silleen ja täleen
+Meillä oli sama matka päivän päätteeks
+Haluttiin tehä vähän silleen ja tälleen
 Illan lopuks sä suutelit tunteel
 Luotin ku sanoit hyvät yöt mulle
 Mut ku mä heräsin et vieres ollutkaan
@@ -48,6 +48,8 @@ Ja voi en palata mä sinne
 Kuihtuikin jo tää rakkautemme
 Jään nyt alle lumen uuden
 
+[Instrumental]
+
 [Bridge]
 Kylmyys valtaa mut
 Vei pois aamu sut
@@ -64,3 +66,48 @@ Jään nyt alle lumen uuden
 On nyt kesä jäänyt taaksemme
 Kuihtuikin jo tää rakkautemme
 rakkautemme
+
+
+
+>>>>>
+Julkaisen vanhoja kappaleitani yksi päivässä.
+Nyt on päivä 8.
+On menossa vuoden 2002 sävellykset, jolloin olin 12 vuotias.
+Tämän sävellyksen alkuperäinen nimi oli "Kesä on ohi" (ilman sanoituksia), ja valmiin kappaleenkin nimi on nyt "Kesä on ohi".
+Sanoitukset tehdään alkuperäisen sävellyksen idean perusteella.
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä.
+Tänään olin ulkona tekemässä sanoituksia ilman internettiä, enkä voinut käyttää riimihakua, joten nämä on erityisen "luomu" sanoitukset.
+
+
+Infoa:
+This song is about the end of summer and the sadness of saying goodbye to the warmth and joy of summer days. It is a metaphor for the end of human life and the inevitability of death. The song speaks to the bittersweetness of saying goodbye to something that has brought us so much pleasure, while also being aware of the fact that it must come to an end. It is a reminder to cherish the moment and make the most of the time we have together.
+Project name: Summer is over
+This was made originally with Propellerheads Reason in autumn 2002. I got the cracked app from my friend, who had the luxury of fast broadband internet back in the day. Thanks Pekka!
+I just wanted to test string instrument libraries of the Reason. I didn't think much about the melody.
+
+
+Style: A Finnish HipHop song with female vocals, The song is in a minor key. Dramatic, string ensemble, tremolo strings
+
+Lyrics:
+...
+
+
+<<<<
+Julkaisen vanhoja sävellyksiäni yhden päivässä – nyt päivä 8!
+12-vuotiaana tehty “Kesä on ohi” sai lopultakin sanoitukset (ja Suno AI -remixin).
+Haikeaa suomi-hiphopia lämmöstä, rakkaudesta ja jäähyväisistä 💔❄️
+👉 Seuraa, jos haluat lisää vintage-bängereitä!
+
+#kesäonoohi #day8 #finnishhiphop #DIY #SunoAI #vintagebeats #uusiölöytö #2002
+
+
+>>>>
+Sama postaus myös Instagramiin. Anna räätälöity teksti sinne
+
+<<<<
+Päivä 8 🎶
+”Kesä on ohi” – nuoren 12-vuotiaan vuoden 2002 sävellys on nyt herännyt henkiin sanoituksilla ja Suno AI -remixillä 🚀
+Haikeaa suomi-hiphopia lämmöstä, rakkaudesta ja jäähyväisistä 💔❄️
+Kuuntele biisi bioprofiilissa ja kerro tunteesi👇
+
+#kesäonoohi #day8 #vintagebeats #finnishhiphop #SunoAI #Reason2002 #DIYartist #melankolia #uusiubiisi #muistoja
