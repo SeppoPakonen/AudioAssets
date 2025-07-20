@@ -1,0 +1,311 @@
+Title: Pahinta pahempaa
+Date: 20.7.2025
+Info: Kappaleen idea tuli isäni katon sammaleita pois harjatessa. Ärsytti kaikki. Kesäisessä helteessä tein vaan jotain ilman sen suurempaa inspiraatiota. Alkuperäinen kappale saneli aika paljon sävyä. Oli lupa tehä melko negatiivinen biisi. Alkuperäinen sävellys oli vain eka projekti, jonka tein Cubase 2 SX:llä, ja testasin kitarajuttuja, jotka olin oppinut kaverini isoveljeltä Mikko Aaltoselta.
+
+[Intro]
+Vaik mikään ei oo turhaa
+On tää pahinta pahempaa
+
+[Verse 1]
+Ei kukaan sitä huomaakkaan
+Kun ope toistaa huijausta
+Hierarkinen pakote mielen
+Ei ollutkaan viisauden siemen
+Yritin mä tajuta
+Sen mille muut on sokeita
+Luulin et ymmärsin
+Mut sit vielä paremmin käsitin
+
+Kai liian vaikeaa
+Väärä tiede on todistaa
+Tulos päätetty rahalla
+Valkotakki on puudelilla
+Sokeeksi on kai kasvettu
+Salapoliisitkin kampattu
+Vaikka murtuu salaus
+Viestin konteksti puuttuu
+
+[Chorus]
+Et ansainnu oo faijas rahoi
+Miten valhe vahvuutta ois
+Kulissiko suojaks riittää vois
+
+[Verse 2]
+Vaihdoit puheenaihetta
+Ja sillä hiljensit mua
+Et ansaitse sun iloa
+Et vihjeitä vaarasta
+Vain maksajaa puolustat
+Rikkaan persettä nuolet taas
+Säe et elämää luo
+vaan tuotat hoo ärrää koneelle
+
+Mä en tajunnut
+Miten rikkoit mut
+Kuinka vitsit sun
+Ei nauruun sais taipuu
+Niinku duunissa
+Miellytät sun pomoa
+On aije vakavasti
+Salattu vangilt
+
+[Chorus]
+Et ansainnu oo faijas rahoi
+Miten valhe vahvuutta ois
+Kulissiko suojaks riittää vois
+
+[Verse 3]
+Ne ei informoi uhria
+Miten saisi täällä oikeutta
+Heikommalle hiljaisuutta
+Vitseillä pilkkaavilla
+Ei mitään moraalii
+Todisteet kun unohti
+Pahan puolel tyhmyyttään
+Ja uskoaan levittää
+
+Kun ei kerrottu
+Tuomarit puuttu
+Ei autettu
+Vain pilkattu loppuun
+Väität väärin päin
+Suojaat pahaa näin
+Olemalla huonoin versios
+Niin se tarttuu
+
+[Chorus]
+Et ansainnu oo faijas rahoi
+Miten valhe vahvuutta ois
+Kulissiko suojaks riittää vois
+
+
+
+__________________________________________________________________________________________________________________________________
+Tyyli: A melancholic pop rock ballad in a minor key, featuring a female vocalist with a clear, slightly nasal timbre, The instrumentation includes a clean electric guitar playing arpeggiated chords, a bass guitar providing a walking bass line, and a drum kit with a simple, steady beat, The song structure is verse-chorus based, with a clear dynamic build-up in the chorus, The melody is predominantly stepwise with occasional larger leaps for emphasis, Production elements include a clean mix with clear separation of instruments, and a subtle reverb on the vocals
+
+Inspiraatioteksti:
+
+[Intro]
+Vaik mikään ei oo turhaa
+Kaikki on huijausta
+Kaikki on tappelua
+Kaikki on pahemmin kuin pahin pelko
+
+[Verse 1]
+Ei oikeesti kukaan sitä huomaa
+Kun opettaja toistaa isoa huijausta
+Alennan arviota työn laadusta
+Alennan arviota viisaudesta
+Mä yritin tajuta sen mille muut on sokeita
+Mä pidin itseäni salapoliisina
+Aina kun luulee ymmärtävänsä paremmin
+Huijauksen mitta ylittää silti käsityskyvyn
+
+[Chorus]
+Ei vanhempien rahat oo ansaittua
+Ei kulissit ole suoja
+Ei valheet ole vahvuutta
+
+[Verse 2]
+En tajunnut kun vaihdoit puheenaihetta
+Et koko ajan hiljensit mua
+Et ansaitse sun pinttynyttä vitsiä ja iloa
+Et ansaitse vihjeitä terveellisyydestä
+Vain maksajan puolustamista
+Vain rikkaiden perseen nuolentaa
+Et luo elämää
+Vaan tuotat ihmisiä pahuuden koneelle
+
+[Chorus]
+Ei vanhempien rahat oo ansaittua
+Ei kulissit ole suoja
+Ei valheet ole vahvuutta
+
+[Verse 3]
+Ei informoida uhria
+Eli ei voi olla oikeutta
+Ei heikomman auttamista, vaan hiljaisuutta
+Hiljaisuus täyttyy pilkkaavilla vitseillä
+Olet helvetin moraaliton, vaikka väität toisin
+Tarkoituksella unohdat todisteet
+Olet niin tyhmä että olet pahan puolella
+Ja niin paha, että aivopeset muut ihmiset
+
+[Chorus]
+Ei vanhempien rahat oo ansaittua
+Ei kulissit ole suoja
+Ei valheet ole vahvuutta
+
+
+<<<<
+Alla ehdotus musiikkivideon slideshow-screenplayksi ja erilliset tekstipromptit kuva-generaattorille. Jokaisesta kohtauksesta on 2–3 visuaalista vaihtoehtoa, joista editoinnissa voi valita parhaiten toimivat.
+
+    Slide: Intro (“Vaik mikään… pahemmin kuin pahin pelko”) Option A
+
+    Visuaali: Hämärä, sumuinen kaupunkinäkymä yöllä. Katukivet kiiltävät kevyessä sateessa, taustalla hajanaisia neon-valoja. Tunnelma vieras, uhkaava.
+    Väripaletti: kylmät sinivihreät sävyt, ripaus punaista kontrastina.
+
+Tekstiprompt:
+“dark rainy city street at night, glistening wet cobblestones, sparse neon signs glowing blue-green, low fog drifting, moody cinematic lighting, digital painting, high contrast”
+
+Option B
+
+    Visuaali: Säröilevä peili, jonka kautta näkyy hahmon utuinen siluetti. Peilin säröt symboloivat huijausta ja sisäistä rikkoutumista.
+    Väripaletti: harmaa-hopea, mustaa, viileä valkoinen hehku.
+
+Tekstiprompt:
+“broken mirror shards reflecting a blurred female silhouette, cold grey and silver tones, high detail, surreal atmosphere, subtle backlight, Concept Art”
+
+Option C
+
+    Visuaali: Abstrakti savupilvi, jossa muodostuu hetkellisesti epäselviä kasvonpiirteitä. Savi tulvii ja haihtuu.
+    Väripaletti: tummanlila, musta, vaalea savunharmaa.
+
+Tekstiprompt:
+“abstract smoky cloud forming vague facial features then dissipating, deep purple and black hues, ethereal, moody, digital art, soft focus”
+
+2. Slide: Verse 1 (“Ei oikeesti kukaan sitä huomaa… Huijauksen mitta ylittää silti käsityskyvyn”)
+Option A
+
+    Visuaali: Tyhjä luokkahuone, liitutaulu täynnä sanaa “VÄLE” ja “VÄÄRÄYS” kirjattuna monella käsialalla. Ikkunasta lankeaa dramaattinen valo.
+    Tunnelma: kylmä, analyyttinen, paljastava.
+
+Tekstiprompt:
+“empty classroom with worn chalkboard covered in words ‘VÄÄRÄYS’ and ‘HUJAUS’ scrawled repeatedly, sunlight streaming through blinds, cinematic realism, muted colors”
+
+Option B
+
+    Visuaali: Nuori nainen silmät kiinni, päässään poliisinhattu (symboli salapoliisityöstä). Taustalla hämärästi kirjoja ja papereita levällään.
+    Tunnelma: etsivä, jännittynyt, sisäinen kamppailu.
+
+Tekstiprompt:
+“portrait of a young woman wearing detective hat, eyes closed in concentration, scattered books and papers in dark room, dramatic spot light, moody portrait”
+
+Option C
+
+    Visuaali: Lähikuva käsivarresta, johon on piirretty tarkasti mustalla kynällä mittakaava, senttejä ja lukuja. Symboloi “huijauksen mittaamista”.
+    Tunnelma: kliininen, kylmä.
+
+Tekstiprompt:
+“close-up of forearm with precise measurement markings drawn in black ink, minimalist background, clinical lighting, high detail macro shot”
+
+3. Slide: Chorus 1 (“Ei vanhempien rahat… Ei valheet ole vahvuutta”)
+Option A
+
+    Visuaali: Rikkauden symbolit (kulta kolikot, setelit) valumassa tyhjyyteen, sormet yrittävät ottaa kiinni mutta raha liukuu hukkaan.
+    Tunnelma: katkeransuloinen, pettynyt.
+
+Tekstiprompt:
+“gold coins and banknotes slipping through outstretched hands into void, shallow depth of field, warm gold contrasting dark background, symbolic, cinematic”
+
+Option B
+
+    Visuaali: Teatterimaskit (komedia/tragedia) roikkuvat rihmastosta, niiden takaa kätkeytyy tyhjyys.
+    Tunnelma: ironinen, uhkaava.
+
+Tekstiprompt:
+“hanging theatrical masks comedy and tragedy on frayed strings, dark empty space behind, gritty texture, dramatic chiaroscuro lighting”
+
+Option C
+
+    Visuaali: Upea historiallinen linna murentumassa tomupilven sekaan. Osin romahtaneet muurit symboloivat valheiden kalliin kulissin pettämistä.
+    Tunnelma: majesteettinen, traaginen.
+
+Tekstiprompt:
+“majestic ancient castle crumbling into dust cloud, twilight sky, epic scale, desaturated earth tones, dramatic digital painting”
+
+4. Slide: Verse 2 (“En tajunnut kun vaihdoit puheenaihetta… Vain rikkaiden perseen nuolentaa”)
+Option A
+
+    Visuaali: Kasvokuvan yli vedetty teippi suun kohdalta. Taustalla sumea kahvipöytä ja pelottava hymyilevä hahmo varjoissa.
+    Tunnelma: vaiennettu, uhkaava.
+
+Tekstiprompt:
+“close-up of taped mouth on a female face, blurred coffee table behind, shadowy figure looming, tense atmosphere, low key lighting, photo-realistic”
+
+Option B
+
+    Visuaali: Nukennäyttämö: kaksi varjohahmoa kuten marionetit, toinen vääntää toisen käsivartta. Tausta on puoliympyrän muotoinen kehys.
+    Tunnelma: manipulatiivinen, julma.
+
+Tekstiprompt:
+“silhouetted marionette puppets on stage, one puppet controlling another with strings, dark vignette, symbolic, vector style”
+
+Option C
+
+    Visuaali: Rikasta bisnesvaistoa symboloiva siluetti puhuu mikrofonin takaa, ja edessä tyhjä tuoli (maksajan tuoli) – suojattomuutta korostava motiivi.
+    Tunnelma: paljastava, kylmä.
+
+Tekstiprompt:
+“silhouette of a suited speaker at podium with empty chair in foreground, stark backlight, minimalist composition, noir style”
+
+5. Slide: Chorus 2 (vaihtoehdot, voi käyttää samaa teemaa kuin Chorus 1 tai vaihtaa sävyä)
+Option A
+
+    Visuaali: Rikkaita kasvot tumman maskin takana – vain silmät näkyvät, tyhjät ja laskelmoivat.
+    Tunnelma: uhkaava, sarkastinen.
+
+Tekstiprompt:
+“close-up of wealthy person wearing dark ornate mask, only cold eyes visible, baroque texture, moody high contrast”
+
+Option B
+
+    Visuaali: Tyhjentynyt holvi tai kassakaappi, ovi auki, sisällä loistaa vain kylmä sininen valo.
+    Tunnelma: tyhjyys, pettymys.
+
+Tekstiprompt:
+“open vault door revealing only pale blue light inside, empty metal interior, ominous silence, 3D render style”
+
+6. Slide: Verse 3 (“Ei informoida uhria… ja niin paha, että aivopeset muut ihmiset”)
+Option A
+
+    Visuaali: Tyhjä todistajan lavanterassin tuoli, sen vieressä kasa rikosraportteja, pöly leijailee valonsäteen läpi.
+    Tunnelma: laiminlyöty, kylmä oikeudettomuus.
+
+Tekstiprompt:
+“dusty witness stand chair under single spotlight, stack of crime documents on floor, particles floating, dramatic realism”
+
+Option B
+
+    Visuaali: Aivot lasipurkissa, johon johdot kytkettyinä – ihmismieli ohjattavana koneena.
+    Tunnelma: kliininen, karmiva.
+
+Tekstiprompt:
+“human brain in glass jar connected to wires, laboratory setting, cold blue lighting, cyberpunk vibe”
+
+Option C
+
+    Visuaali: Varjoryhmä ympyrässä, yksi hahmo huutaa, muu joukko peittää korviaan ja naureskelee ilkeästi.
+    Tunnelma: moraliton, pilkkaava.
+
+Tekstiprompt:
+“group of silhouetted figures in circle, one figure screaming, others covering ears and mocking, harsh side lighting, gritty style”
+
+7. Slide: Chorus 3 / Outro (“Ei vanhempien rahat… Ei valheet ole vahvuutta”)
+Option A
+
+    Visuaali: Yksinäinen nainen seisoo merenrannassa, aallot huuhtovat pois hopeisia kolikoita hiekan pinnalta.
+    Tunnelma: toivon kipinä, lopullinen luopuminen.
+
+Tekstiprompt:
+“lone woman standing on beach, waves washing away silver coins on sand, soft sunrise light, melancholic beauty, cinematic”
+
+Option B
+
+    Visuaali: Räjähtävä valkoinen paperi, johon on kirjoitettu sanat “VALHE” ja “HUJAUS”, palaset lentävät avaruuteen.
+    Tunnelma: vapauttava, puhdistava.
+
+Tekstiprompt:
+“white paper exploding with pieces drifting into space, bold black text ‘VALHE’, minimalist cosmic background, high contrast”
+
+Option C
+
+    Visuaali: Kirkas, puhdas valkoinen tausta, centre void ja pieni musta piste (symboli “ei valheille”).
+    Tunnelma: absoluuttinen selkeys, loppuun asti paljastava.
+
+Tekstiprompt:
+“pure white background with a single small black dot in center, minimalist, conceptual art, stark contrast”
+
+Näistä vaihtoehdoista voi valita kuhunkin kohtaamiseen sopivimmat, säätää värimaailmaa ja sommittelua videoeditorissa.
+
+

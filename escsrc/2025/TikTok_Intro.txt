@@ -1,0 +1,391 @@
+
+Johdatus projektiini
+
+Mitä?
+Noin vuoden ajan sanoitan vanhoja sävellyksiäni joka päivä ja teen niistä demon, jonka remixaan Suno musiikki-AI:n kautta hyvän kuuloiseksi kappaleeksi.
+
+Miten?
+Aloitin säveltämään vuodesta 2001 lähtien Fruity Loopsilla, ja myöhemmin Propellerheads Reasonilla, Steinberg Cubasella ja GuitarPro:lla.
+Nämä projektitiedostot tai pelkät mp3:set ovat säilyneet melko hyvin, vaikka puutteitakin on.
+Olen jälkikäteen vuodesta 2020 lähtien nuotintanut vanhoja mp3:sia ja projektitiedostoja TuxGuitar kitara-tabulatuuri ohjelmistolla tietokoneelle.
+TuxGuitar:in ääni on midi:mäinen, ja käytän Fluid_R3 SF2 soundfont ääntä, ja kaikki kappaleet on tehty kuulostamaan hyvältä tällä soundfontilla.
+Osa nuotinnoksista on kesken, mutta yli 50% on valmiina.
+Kappaleita on 200-300 vuosien 2001 ja 2022 välillä.
+Vuosien 2022-2025 on tullut lukuisia sävellyksiä, jotka on vain ääni-muistiinpanoina toistaiseksi.
+Arvelisin sävellyksien ylittävän vuoden päivien määrän (365), eli uskoisin projektin kestävän pyöreästi yhden vuoden.
+Teen yhteen sävellykseen sanoitukset kirjoittamalla vihkolle sanoituksia käsin kuulakärkikynällä ilman avustuksia.
+Olen alan ammattilainen, eli virallinen koulutuksen käynyt lauluntekijä, ja on oleellista, etten käytä tekoälyä väärin tai luvattomasti.
+Kirjoitan sanoitukset, sävellykset ja nuotit täysin ilman tekoälyn avustusta. 100% ilman.
+Sanoitukset teen 3 vaiheessa: 1) määritän rakenteen ja rivimäärät. 2) peruutan kappaleen lopusta alkuun ja kirjoitan inspiraatiotekstin 3) kirjoitan alusta loppuun lopulliset lyriikat.
+Joskus kirjoitan sanoitukset nuoteiksi TuxGuitariin, mutta jos laiskottaa tai on kiire, niin jätän sen väliin.
+Muunnan TuxGuitar projektin wav äänitiedostoksi, ja vien sen Cubaseen jossa nauhoitan laulut sen päälle.
+Saatan myös erottaa TuxGuitar projektin yksittäiset raidat omiksi wav äänitiedostoiksi, jos se on tarpeen.
+Myöhemmin, kun on keskeneräisiä nuotinnuksia, niin saatan pilkkoa wav äänitiedoston palkeiksi, ja tehdä äänipalkeista rakenteen vasta Cubasessa, koska se on helpompaa ja nopeampaa kuin täysin nuotintaminen.
+Korjaan laulusta vireen Cubasen sisäänrakennetulla editorilla.
+Korjaan laulusta myös ajoitusvirheet, jos niitä on käyttäen Cubasen Free Warp työkalua.
+Exporttaan demon ulos Cubasesta ja lataan sen Suno nettisivulle.
+Lisään kirjoittamani sanat, vaikka Sunon tekstin tunnistus on melko hyvä.
+Käytän yleensä Sunon tunnistamaa tyylilajia, mutta saatan muuttaa sukupuolen, mikäli laulu on tarkoitettu naislaulajalle.
+Sitten kuuntelen Sunon antamia ehdotuksia ja peukutan niitä ylös tai alas.
+Lopulta parhaasta vaihtoehdosta painan "generate video" ja lataan luodun videon TikTokiin.
+Käytän tekoälyä videon saatetekstin tekemiseksi, koska en kuulosta nuorekkaalta ollenkaan, mutta se on sallittua.
+Teostoon ei siis saa lisätä kappaleita, joissa tekoäly on tehnyt merkittävää työtä, joten sanoitus ja sävellys tehdään käsin.
+Sunossa on asetus, jossa generoidun kappaleen saa kuulostamaan annetulta äänitiedostolta, ja laitan tämän asetuksen lähes maksimiin, mikä saa oman sovitukseni siirtymään luotuun kappaleeseen.
+Sunon sovitus vastaa siten yleensä nuotinnostani niin hyvin, että sanon Sunon tekemää kappaletta omaksi sovituksekseni.
+Eli sanon sanoittaneen, säveltäneeni ja jopa sovittaneeni kappaleen 100% käsin, vaikka lopputulos kuulostaa tekoälyn tekemältä.
+Tiedän että jotkut ei tykkää mistään tekoälyyn liittyvästä, joten kirjoittakaa kommenttia asiasta.
+Sanoitus, demon luominen ja suno kappaleen teko vie ehkä 2 tuntia päivästä yhteensä, eli työ on varsin kohtuullinen.
+Yleensä sanoitan kappaleen 3:ssa osassa kun olen linja-autossa, ulkona tai odottamassa jossain.
+
+Miksi?
+Koska nautin musiikistani.
+Koska yksi ammattini on laulunkirjoittaja, ja haluan kappaleitani muille artisteille, mutta en jaksa tuottaa ja esittää itse kaikkea.
+Koska tämä rutiini on hauska ja toimiva: saan kuulla hyvän oman uuden kappaleeni joka päivä.
+
+Muuta?
+Etkö meinaa uskoa väitteitäni sävellyksistä...
+Minun kaikki sävellys projektitiedostoni ovat julkisesti nähtävillä osoitteessa github.com/SeppoPakonen/AudioAssets.
+Sieltä tiedostot on ladattavissa TuxGuitar ohjelmistolle.
+Siellä näkyy myös commit historia, mistä selviää, miten olen työstänyt nuotteja.
+
+Skeptikoille ja vastustajille:
+En ymmärrä mitä negatiivista tässä voisi olla.
+En ole kummoinen artisti, ja tämä on juuri se mitä lauluntekijä tekee: säveltää, sanoittaa ja sovittaa käsin, ja tekee houkuttavia demoja.
+Lauluntekijä vastaa vain käsityöstä niiltä osin, ei niinkään demon tuotannon suhteen.
+Demon tuotanto on vain houkuttelua artisteille ja julkaisijalle käyttämään kappaletta.
+Minun on myös vaikea saada mitään näkyvyyttä kappaleilleni, joten tämä tiktokkiin suno videoiden lataaminen on melkein ainoa tietämäni henkireikä.
+Aijon lähestyä kustantajia myöhemmin, mutta tällä hetkellä minun täytyy vielä todistaa olevani osaava laulunkirjoittaja, ja tämä on hyvä tapa tehdä se.
+
+Työnmäärästä:
+Tähän on mennyt lukematon määrä työtunteja nuotintamiseen.
+Kaikki tällaiset tiktok videot ovat myös melko raskaita tuottaa.
+
+Kärsimyksestä:
+Säveltäminen on ollut helpompaa kuin tekstin teko.
+Olen selvästi kärsinyt tekstin tuottamisen vaikeudesta, ja minun päälleni on puhuttu liikaa.
+Erityisesti artistit, joiden kanssa olen tehnyt työtä, ovat kokeneet olevansa oikeutettuja puhumaan päälleni.
+Tämä on epäoikeudenmukaista, että joudun nyt sanoittamaan jälkeenpäin, kun en saanut mitään tukea aikaisemmin, vaan vastustusta.
+Olen vieläkin melko heikko tekstin tekemisen suhteen, mutta rutiinini toimii jo hyvin, kun olen vahvistanut sitä tietoisesti.
+Jos teen artistina mitään kappaleita ulos, niin se on jo ihme itsessään, koska olen ollut niin heikko.
+En osaa sanoa olenko ollut ujo, koska olen ollut vain toivottoman yksin opettelemisen kanssa.
+Muistutan, että olen suomenkielinen, ja aloitin niin nuorena, etten osannut englantia juurikaan, eikä suomenkielistä materiaalia ollut ollenkaan saatavilla (ilmaiseksi internetissä).
+Eli suuri osa heikkoudestani on tullut siitä, että olen toiminut oman kiinnostukseni ja uteliaisuuteni pohjalta, ja olen joutunut arvaamaan kaiken, enkä ole saanut rakentavaa feedback:iä, vaan pelkästään negatiivista (josta olisi muka pitänyt osata ottaa positiivinen feedback, mutta en osannut).
+
+Seuraavat videot:
+Aion näyttää minkälaisia säilyneet tiedostot ovat olleet, joista olen tehnyt nuotit.
+Aion avautua jonkin verran heikkouksistani tekstin tuottamisen suhteen.
+Aion näyttää laulun käsittelyn cubasella.
+Aion näyttää Suno ehdotusten arvioimisen hyväksi ja huonoksi.
+Aion näyttää miten sävellys syntyy sattumalta ja miten nauhoitan sen muistiinpanoksi.
+
+A-roll video:
+- puhun kameralle omakotitaln katolta, jossa harjaan sammaletta pois kattotiilistä, ja kerron meneväni talon sisälle tekemään demon
+- puhun kameralle omakotitalon sisällä positiivisesti
+- puhun kameralle omakotitalon katolta, jossa jatkan töitäni, eli harjaan sammaletta pois kattotiilistä
+
+B-roll video:
+- kuva mikistä, kuulokkeista, mikrofonistani, sanoitusvihkostani
+- videota kun kirjoitan sanoituksia
+- videota kun laulan TuxGuitar wav äänitiedoston päälle demoani
+- screen capture: demosta tehty Suno kappale soi suno nettisivulla Windowsin nettiselaimessa
+- screen capture: Suno kappaleesta tehty tiktok videoi soi tiktok nettisivulla Windowsin nettiselaimessa
+- screen capture: rullaan Google Sheets taulukkoa, missä on vuodet ja sävellykset
+- screen capture: selaan windows explorerilla AudioAssets projektin tiedostohakemistoa, jossa näkyy vuodet ja TuxGuitar projektitiedostot
+- screen capture: editoin cubasella lauluni virettä
+- screen capture: editoin cubasella lauluni ajoitusta free warp työkalulla
+
+
+
+
+
+>>>>
+Hei tässä muistiinpanoni. Montako videota kannattaisi tehdä? Onko 1 video liian tiivis? Jos kannattaa tehdä useita, niin miten tämän jakaisi?
+....
+
+
+<<<<
+Yhteen TikTok-videoon mahduttaminen kaikkia näitä pointteja tekisi siitä helposti 2–3 minuuttia pitkän monoliitin, joka TikTokissa on liian pitkä ja hämmentävä. Sen sijaan suosittelen sarjaa: noin 5–7 lyhyttä (30–60 s) jaksoa, joilla pidät katsojan mielenkiinnon yllä ja voit nostaa esiin eri osa-alueita sopivassa tahdissa.
+
+Ehdotus videojaksotukseksi:
+
+    Jakso #1: Johdanto ja projektilupaus
+    • A-roll: kerro kameralle talon katolta, mitä olet tekemässä (päivittäinen demo-&remix-rutiini) ja miksi.
+    • B-roll: vilahdus vanhoista projektitiedostoista ja TuxGuitar-näkymästä.
+    • CTA: “Pysykää mukana, seuraavassa jaksossa näytän miten saan sävellykset TuxGuitarille.”
+
+    Jakso #2: Sävellysten historia & nuotinnus
+    • A-roll: kerro lyhyesti vuosista 2001–2022 ja työkaluista (FL, Reason, Cubase).
+    • B-roll: Google Sheets vuositaulukko + AudioAssets-hakemisto Githubissa.
+    • CTA: “Seuraavaksi kerron, miten kirjoitan sanoitukset käsin.”
+
+    Jakso #3: Sanoitusprosessin palikat
+    • A-roll: näytä vihko ja kuulakärkikynä, kuvaile 3-vaiheinen työskentely.
+    • B-roll: timelapse sanoitusten raapustamisesta/nuotinnuksesta.
+    • CTA: “Seuraavassa opit, miten vien demoni Cubaseen ja laulan päälle.”
+
+    Jakso #4: Demon rakentaminen Cubasessa
+    • A-roll: kerro Cubasen roolista (vireen- ja ajoituksen korjaukset).
+    • B-roll: screen-capture Free Warp ja editor-ikkunasta, mikki ja kuulokkeet.
+    • CTA: “Seuraava steppi on AI-remix Sunolla – palaathan mukaan!”
+
+    Jakso #5: Suno-AI ja video­generaattori
+    • A-roll: näytä Sunon sivu ja kerro tyylivalinnoista (äänityyppi, sukupuoli).
+    • B-roll: screen-capture generaatiosta, peukutukset ja “generate video”.
+    • CTA: “Lopuksi lataan videon TikTokiin – katsotaan se yhdessä ensi jaksossa.”
+
+    Jakso #6: Julkaisu & palautekutsu
+    • A-roll: näytä TikTok-app, kuvaile hashtag-strategia (esim. #DailyDemo #AIremix).
+    • B-roll: valmis TikTok-video, kommenttikenttä, peukut.
+    • CTA: kysy katsojien mielipidettä tekoälystä ja pyydä kommentteja.
+
+    (Valinnainen) Jakso #7: Haasteet & tulevat aiheet
+    • A-roll: avaudut tekstin tekemisen vaikeudesta ja saamastasi palautteesta.
+    • B-roll: aikaisempien kommenttien ruutukaappauksia, vihkon sivuja.
+    • CTA: lupaus seuraavista klippauksista (“näytän, kuinka synnytän melodian sattumalta”).
+
+Miksi näin?
+
+    Jokainen video pysyy < 60 s: TikTok-algoritmi tykkää napakasta sisällöstä.
+    Sarja rakentaa odotusta (“seuraavassa jaksossa…”), katsoja palaa.
+    Voit hyödyntää aina samaa A- ja B-roll-materiaalia eri yhteyksissä.
+    Hashtag-jaottelu mahdollistaa eri kohderyhmien tavoittamisen (muusikot, AI-harrastajat, lauluntekijät).
+
+Muista:
+• Johda katsoja aina selkeään seuraavaan vaiheeseen.
+• Pidä jaksot enintään 3 pääpointissa.
+• Käytä loppujaksossa aina kutsua kommentoida/peukuttaa/jakaa.
+• Merkitse videot esimerkiksi #DemoDay1, #DemoDay2 jne., niin sarja erottuu.
+
+Tällä tavalla saat maksimoitua mielenkiinnon, esiteltyä kaiken olennaisen ja kasvun aikajanan selkeästi!
+
+
+>>>>
+Voisitko kirjoittaa dialogit jokaiseen 7 jaksoon?
+
+<<<<
+Tässä per jakso luonnos puheeksi (A-roll), noin 30–60 s videoihin. Lopussa aina CTA eli “seuraavassa jaksossa…”. Voit tarvittaessa leikata tai tiivistää:
+
+Jakso 1 – Johdanto & lupaus
+“Moi! Mä oon Seppo, lauluntekijä vuodesta −01.
+Tässä TikTok-sarjassa teen joka päivä yhden vanhan biisin demoksi, ja remiksaan sen Suno-AI:lla.
+Vuoden päästä mun arkistossa on 365 kokonaan uusiksi kuultavaa biisiä!
+Pysy mukana niin näytän seuraavassa jaksossa, miten saan sävellykset TuxGuitarille.”
+
+Jakso 2 – Sävellyshistoria & GitHub
+“Moikka taas! Aloitin säveltämään Fruity Loopsilla jo 2001, myöhemmin Reasonilla ja Cubasella.
+Kaikki projektitiedostot ja mp3:t löytyy GitHubista (github.com/SeppoPakonen/AudioAssets).
+B-roll: Google Sheets, AudioAssets-kansio.
+Seuraavassa kerron, miten raapustan sanoitukset käsin vihkoon.”
+
+Jakso 3 – Sanoitusprosessin 3 vaihetta
+“Heippa! Näin mä teen sanoitukset:
+
+    Määritän rakenteen ja rivimäärät.
+    Kirjoitan inspiksen kappaleen lopusta alkuun.
+    Viimeistelen lyriikat alusta loppuun. Timelapse vihkon raapustelusta tässä! Seuraavassa jaksossa vien demoni Cubaseen ja nauhoitan laulun päälle.”
+
+Jakso 4 – Cubase: vire- ja aikakorjaukset
+“Terve! Cubasessa korjaan laulun vireen sisäänrakennetulla editorilla…
+…ja ajoituksen Free Warp -työkalulla.
+B-roll: screen-capture vire-ikkunasta ja warp-audioa.
+Seuraavaksi näytän, miten Suno-AI remiksoi biisin.”
+
+Jakso 5 – Suno-AI-remix & tyylivalinnat
+“Moikka! Tässä Sunon nettisivu: valitsen tyylilajin, voice-transferin melkein maksimiksi…
+…ja peukutan parhaat ehdotukset.
+Lopuksi painan ‘Generate video’ – ja biisi on valmis!
+Seuraavassa jaksossa lataan lopputuloksen TikTokiin.”
+
+Jakso 6 – Julkaisu TikTokissa & palautekutsu
+“Heipä hei! Nyt lataan valmiin videon TikTokiin.
+Käytän hashtageja #DailyDemo #AIremix #Lauluntekijä.
+Mitä mieltä sä oot AI-musiikista? Jätä kommentti alle!
+Seuraavassa jaksossa avaudun sanoitushaasteista ja näytän behind-the-scenes-materiaalia.”
+
+Jakso 7 – Haasteet & sneak peek tulevaan
+“Tässä mun rehellinen hetki: sanoitusten tekeminen on ollut mulle tosi vaikeaa…
+…mutta päivittäinen rutiini on vahvistanut mun luovuutta.
+B-roll: ruutukaappaus kritiikkikommenteista ja vihkon sivuista.
+Seuraavassa jaksossa näytän, miten sävellys syntyy sattumalta ja tallennan sen muistiinpanoksi.”
+
+—
+Voit varioida avatessa ja päätellessä samaa sävyä ja visuaalia (katto/auto/TuxGuitar) ja lisätä aina pienen “seuraavassa jaksossa…”-koukun. onnistuu!
+
+
+
+>>>>
+Voisitko kirjoitaan screenplay:n jokaiseen 7 jaksoon?
+
+<<<<
+Alla on ehdotus screen­play-muodossa kutakin jaksoa varten. Jokaisessa on A-roll (pää­puhe) ja B-roll (leikkaus­sidot), sekä lopun CTA (“seuraavassa jaksossa…”).
+
+
+
+JAKSO 1: Johdanto & lupaus
+KESTO: 45–60 s
+
+EXT. OMAKOTITALON KATTO – PÄIVÄ
+A-ROLL (Medium shot)
+Seppo harjaa sammaltä katto­tiilistä. Hän pysähtyy ja katsoo kameraan.
+DIALOGI:
+“Moi! Mä oon Seppo, lauluntekijä vuodesta 2001. Tässä uudessa sarjassa herätän henkiin vanhat biisini: teen joka päivä demoversion ja remiksen Suno-AI:lla. Vuoden päästä mun arkistoissa on 365 uutta kuunneltavaa biisiä!”
+
+B-ROLL (Leikkaus)
+– Nopeutettu otos TuxGuitar-ikkunasta, jossa näkyy historiakaaviota ja pari projektitiedostoa.
+
+A-ROLL (Close-up)
+Seppo hymyilee kameralle.
+DIALOGI:
+“Pysy mukana – seuraavassa jaksossa näytän, miten tuon sävellykset TuxGuitar-projektiin!”
+
+ON-SCREEN TEXT (alhaalla):
+“Seuraavassa: TuxGuitar & GitHub”
+
+
+
+JAKSO 2: Sävellyshistoria & GitHub
+KESTO: 45–60 s
+
+INT. OMAKO­TITALON TYÖHUONE – PÄIVÄ
+A-ROLL (Medium shot)
+Seppo istuu tietokoneen äärellä.
+DIALOGI:
+“Moikka! Vuodesta 2001 oon säveltänyt FL Studiolla, Reasonilla ja Cubasella. Kaikki vanhat projektit ja mp3:t löytyy GitHubista: github.com/SeppoPakonen/AudioAssets.”
+
+B-ROLL
+
+    Screen capture: selain auki GitHub-repo, kansiorakenne vuosittain.
+    Screen capture: Google Sheets, taulukko vuodesta 2001 vuoteen 2022.
+
+A-ROLL (Close-up)
+DIALOGI:
+“Seuraavassa jaksossa näytän, miten raapustan sanoitukset käsin vihkoon!”
+
+ON-SCREEN TEXT:
+“Seuraavassa: Sanoitusprosessin kolme vaihetta”
+
+
+
+JAKSO 3: Sanoitusprosessin 3 vaihetta
+KESTO: 45–60 s
+
+INT. OMA­KOTITALON KEITTIÖ – PÄIVÄ
+A-ROLL (Over-the-shoulder)
+Seppo avaa vihkon ja asettelee kuulakärkikynän.
+DIALOGI (Voice-over, A-roll):
+“Näin teen sanoitukset:
+
+    Määritän rakenteen ja rivimäärät.
+    Kirjoitan inspiraation lopusta alkuun.
+    Viimeistelen lyriikat alusta loppuun.”
+
+B-ROLL
+– Timelapse: kynä raapustaa vihkoon rivejä.
+– Lyhyt leikkaus TuxGuitar-nuotinnoksesta (jos haluat).
+
+A-ROLL (Close-up)
+Seppo nostaa vihkoa kameralle.
+DIALOGI:
+“Seuraavassa vien demoni Cubaseen ja nauhoitan laulun!”
+
+ON-SCREEN TEXT:
+“Seuraavassa: Cubase-studio ja laulu”
+
+
+
+JAKSO 4: Cubase – vire- ja ajoitus­korjaukset
+KESTO: 45–60 s
+
+INT. STUDIOHUONE – PÄIVÄ
+A-ROLL (Medium shot)
+Seppo istuu Cubase-työaseman äärellä kuulokkeet päässä.
+DIALOGI:
+“Hei! Cubasessa korjaan ensin laulun vireen sisäänrakennetulla editorilla…”
+
+B-ROLL
+
+    Screen capture: Cubase-vireeditorin ikkunasta, nuotit keltaisina.
+    Screen capture: Free Warp – festoon-ikkuna, liu’utan lyriikkaraidan.
+
+A-ROLL (Close-up)
+Seppo napauttaa ruutua.
+DIALOGI:
+“…ja sitten säädän ajoituksen Free Warpilla, jotta kaikki istuu rytmiin. Seuraavassa jaksossa näytän, miten remiksoin biisin Suno-AI:lla!”
+
+ON-SCREEN TEXT:
+“Seuraavassa: Suno-AI‐remix”
+
+
+
+JAKSO 5: Suno-AI-remix & tyylivalinnat
+KESTO: 45–60 s
+
+INT. TILOUSLAITTEISTO/KT – PÄIVÄ
+A-ROLL (Over-the-shoulder)
+Seppo selaa Suno.net-sivua selaimessa.
+DIALOGI:
+“Moikka! Tässä Sunon generaattori: valitsen tyylilajin, lataan wav-demon ja säädän voice-transferin lähelle maksimia…”
+
+B-ROLL
+– Screen capture: napautan “thumbs up” ja “thumbs down” ehdotuksissa.
+– Klick “Generate video”.
+
+A-ROLL (Close-up)
+Seppo hymyilee odottavasti.
+DIALOGI:
+“…ja siinä se! Videogeneraattori tekee loput. Seuraavassa jaksossa lataan valmiin suno-videon TikTokiin.”
+
+ON-SCREEN TEXT:
+“Seuraavassa: TikTok‐julkaisu”
+
+
+
+JAKSO 6: Julkaisu TikTokissa & palautekutsu
+KESTO: 45–60 s
+
+INT. STUDIOHUONE – PÄIVÄ
+A-ROLL (Medium shot)
+Seppo pitelee puhelintaan pystytilassa.
+DIALOGI:
+“Nyt lataan Suno-videon TikTokiin. Käytän hashtageja #DailyDemo #AIremix #Lauluntekijä.”
+
+B-ROLL
+
+    Screen capture: TikTok‐upload‐näyttö, lisää musiikki ja hashtagit.
+    Valmiin videon play‐ruutu ja kommenteista nousevia peukkuja.
+
+A-ROLL (Close-up)
+DIALOGI:
+“Mitä mieltä sä oot AI-musiikista? Jätä kommentti alle! Seuraavassa jaksossa paljastan vaikeimmat hetket sanoitusten kanssa ja näytän behind-the-scenes-materiaalia.”
+
+ON-SCREEN TEXT:
+“Seuraavassa: haasteet & sneak peek”
+
+
+
+JAKSO 7: Haasteet & sneak peek tulevaan
+KESTO: 45–60 s
+
+INT. OMAKOTITALON SISÄLLÄ – ILTA
+A-ROLL (Medium shot)
+Seppo istuu sohvalla pehmeässä valossa.
+DIALOGI:
+“Tässä mun rehellinen hetki: tekstin kirjoittaminen on ollut mulle pohjaton kuilu. Saa olla hiljaa, odottaa inspiraatiota… mutta rutiini on auttanut läpi vaikeimpien hetkien.”
+
+B-ROLL
+– Ruudunkaappaus aiemman TikTok‐kommenttiketjun negatiivisista & positiivisista kommenteista.
+– Lähikuva vihkon sivuista, murtuneita luonnoksia.
+
+A-ROLL (Close-up)
+Seppo katsoo suoraan kameraan.
+DIALOGI:
+“Seuraavassa jaksossa näytän, miten sävellys syntyy sattumalta ja tallennan sen muistiinpanoksi – stay tuned!”
+
+ON-SCREEN TEXT:
+“Seuraavassa: improvisaatio & nuotinnus”
+
+Vinkit tuotantoon:
+
+    Käytä samanlaista visuaalista ilmettä (värit, fontit, musiikki) sarjassa.
+    Pidä leikkauksissa nopeat rytmit ja selkeät tekstit.
+    Jätä aina pieni koukku (“seuraavassa jaksossa…”) loppuun.
