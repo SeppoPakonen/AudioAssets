@@ -1,6 +1,7 @@
 Title: Pahinta pahempaa
 Date: 20.7.2025
 Info: Kappaleen idea tuli isäni katon sammaleita pois harjatessa. Ärsytti kaikki. Kesäisessä helteessä tein vaan jotain ilman sen suurempaa inspiraatiota. Alkuperäinen kappale saneli aika paljon sävyä. Oli lupa tehä melko negatiivinen biisi. Alkuperäinen sävellys oli vain eka projekti, jonka tein Cubase 2 SX:llä, ja testasin kitarajuttuja, jotka olin oppinut kaverini isoveljeltä Mikko Aaltoselta.
+Tyyli: A female vocalist sings in Finnish over a pop-rock arrangement, The song is in a minor key and has a moderate tempo, The instrumentation includes a clean electric guitar playing arpeggiated chords, a bass guitar playing a walking bass line, and drums providing a steady beat with a prominent snare, The vocals are delivered in a clear, slightly melancholic tone, with some spoken word sections, The production is clean with a balanced mix, emphasizing the vocals and the rhythmic section, There are no significant dynamic shifts throughout the song, The song structure is verse-chorus based with an instrumental break
 
 [Intro]
 Vaik mikään ei oo turhaa
@@ -15,7 +16,6 @@ Yritin mä tajuta
 Sen mille muut on sokeita
 Luulin et ymmärsin
 Mut sit vielä paremmin käsitin
-
 Kai liian vaikeaa
 Väärä tiede on todistaa
 Tulos päätetty rahalla
@@ -37,17 +37,16 @@ Et ansaitse sun iloa
 Et vihjeitä vaarasta
 Vain maksajaa puolustat
 Rikkaan persettä nuolet taas
-Säe et elämää luo
+Elämää sä luo et 
 vaan tuotat hoo ärrää koneelle
-
 Mä en tajunnut
-Miten rikkoit mut
+Miten rikoit mut
 Kuinka vitsit sun
 Ei nauruun sais taipuu
 Niinku duunissa
 Miellytät sun pomoa
 On aije vakavasti
-Salattu vangilt
+Salattu vangeilt
 
 [Chorus]
 Et ansainnu oo faijas rahoi
@@ -63,9 +62,8 @@ Ei mitään moraalii
 Todisteet kun unohti
 Pahan puolel tyhmyyttään
 Ja uskoaan levittää
-
 Kun ei kerrottu
-Tuomarit puuttu
+Tuomarit puuttuu
 Ei autettu
 Vain pilkattu loppuun
 Väität väärin päin
@@ -309,3 +307,42 @@ Tekstiprompt:
 Näistä vaihtoehdoista voi valita kuhunkin kohtaamiseen sopivimmat, säätää värimaailmaa ja sommittelua videoeditorissa.
 
 
+_________________
+
+
+>>>>
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on päivä 11.
+On menossa vuoden 2003 sävellykset, jolloin olin 13 vuotias.
+Tämän sävellyksen alkuperäinen nimi oli "Guitar Summer" (ilman sanoituksia).
+Alkuperäinen kappale oli eka yritykseni tuotta Steinberg Cubase 2 SX:llä mitään.
+Yritin tehdä kitara-kappaletta kaverini isoveljen ohjeiden mukaan.
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä.
+
+Lyrics:
+...
+
+
+
+<<<<
+Päivä 11: 13-vuotiaana tehty “Guitar Summer” sai nyt sanat ja uuden nimen “Pahinta pahempaa”! 🎸☀️
+Harjasin isän tiilikaton sammaleita helteessä, ja syntyi negatiivista pop-rockia – remixed by Suno AI. Kuuntele ja kerro, mitä mieltä oot!
+#päivä11 #PahintaPahempaa #GuitarSummer #Cubase2SX #SunoAI #indie #poprock #newmusic2025
+
+
+>>>>
+Instagram
+
+<<<<
+Julkaisen vanhoja biisejäni yhden päivässä – tässä on päivä 11!
+
+Tää biisi on peräisin vuodelta 2003, kun olin 13-vuotias ja opettelin Steinberg Cubase 2 SX:ää. Alun perin instrumentaalinäyte “Guitar Summer” sai nyt sanat ja uuden nimen “Pahinta pahempaa”. Sanoitusten kipinä syttyi, kun harjasin isän katon sammaltetta kesähelteessä – syntyi synkkä mutta tarttuva pop-rock-kappale, jossa clean-kitara-arpeggiot, kävelevä basso ja napakka rummut tukevat hieman puhuttuja, melankolisia vokaaleja. Koko paketti on remiksattu Suno AI:n avulla.
+
+▶️ Kuuntele linkistä biossa ja kerro kommenteissa: miltä tämä “pahinta pahempaa” kuulostaa sulle?
+
+💬 Kommentoi
+👍 Tykkää
+🔖 Tallenna
+📲 Jaa kaverille
+
+#Päivä11 #PahintaPahempaa #GuitarSummer #Cubase2SX #SunoAI #DIYMusic #PopRock #2003Vibes #Suomirock #UusiMusiikki
