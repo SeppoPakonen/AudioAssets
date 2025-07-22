@@ -1,0 +1,259 @@
+Composition: 2004/Taistelu
+
+Title: Invincible
+Style: A rock song with a driving rhythm section, prominent electric guitar riffs, and a powerful female lead vocal, The song is in a minor key, likely E minor, with a fast tempo around 180 BPM, The vocals are delivered with a strong, confident tone, utilizing a mix of chest voice and occasional higher register shouts, Production elements include a tight mix with the drums and bass providing a strong foundation, and the guitars and vocals cutting through clearly, The overall feel is empowering
+
+[Instrumental]
+[Verse 1]
+I've been approaching, closing in like a cat
+And I attack when you least expect that
+I'm hunting you down, love is war, have no doubt
+But in our love I can't be too much bound
+[Chorus]
+Victory, victory for me
+[Verse 2]
+Beauty and rich, surely that hated bitch
+But the men want me down one by one
+They want queen of the club, they get one with one but
+I'm the master and you'll be my slave
+[Chorus]
+Victory, victory for me, invincible
+I'm invincible, I'm gonna win them all, I'm gonna get what I want
+Invincible, miss invincible, if I do want you, you don't wanna refuse
+[Bridge]
+After your turn, you won't get more from this girl
+Only once in this world I'm offered
+They queue to me when again I am free
+Always someone is waiting for me
+[Guitar Solo]
+Oh my God, it didn't go
+And now my make up leaks
+[Chorus]
+Invincible, I'm invincible, I'm gonna win them all, I'm gonna get what I want
+Invincible, miss invincible, if I do want you, you don't wanna refuse
+Invincible, I'm invincible, I'm gonna win them all, I'm gonna get what I want
+Invincible, miss invincible, if I do want you, you don't wanna refuse
+Invincible, I'm invincible, I'm gonna win them all, I'm gonna get what I want
+Invincible, miss invincible, if I do want you, you don't wanna refuse
+Invincible, invincible
+
+
+
+>>>>
+Preset for music video
+
+<<<<
+Preset Name: “Invincible”
+Theme: Empowering Rock Performance
+
+Color & Grading
+• High-contrast palette with deep shadows and punchy midtones
+• Accent colors: cold blues and steel grays balanced by warm highlights (guitar pickups, stage lights)
+• Subtle film-grain overlay for grit—around 10–15% intensity
+
+Camera & Lenses
+• Camera: ARRI Alexa Mini LF or RED Komodo 6K
+• Resolution: 4.5K–6K for flexible reframing
+• Lenses:
+– 35 mm T1.5 for medium close-ups (vocals, drum fills)
+– 50 mm T1.4 for tight guitar and vocal performance shots
+– 14 mm–24 mm wide zoom for dynamic stage and crowd angles
+
+Lighting
+• Stage-style key lights with colored gels (electric blue, crimson red) sweeping across performers
+• Strong backlighting and rim lights to silhouette the lead vocalist and guitarists
+• Smoke/haze machine for volumetric light beams and added atmosphere
+• Occasional strobe or quick pops to punctuate guitar riffs and drum hits
+
+Shot List & Coverage
+
+    Establishing: low-angle wide of the full band on a darkened stage, single spotlight flare
+    Verse Close-ups: – Vocals: handheld 50 mm, tight on confident facial expressions and mic grip – Guitars: 35 mm, slow push-ins on riff-heavy hand movement
+    Rhythm Section: – Drums: overhead rig and side tracking shot, quick cuts on fills – Bass: low tracking shot, capturing foot stomps syncing to kick drum
+    Chorus Energy: rapid intercuts, multi-cam coverage, whip pans on “Victory!” moments
+    Bridge/Narrative Vignettes: – Silhouetted shots of the singer prowling an abandoned warehouse or club corridor – Quick flashes of a “battle” metaphor (shadows clashing, slow-motion hair flips)
+    Guitar Solo Highlight: – Extreme close-ups on guitar neck, fingers sliding; over-the-shoulder shot with lens flare – Speed-ramped slow-motion on the final bend, cut back to live-speed strobe
+
+Editing & Transitions
+• Cuts on the 8th or 16th note—tight sync to the driving 180 BPM rhythm
+• Quick zooms, whip-pans, and frame-splits on key lyrical calls (“Invincible!”)
+• Occasional glitch or light-leak transitions into next verse or chorus
+
+Visual Effects & Overlays
+• Subtle CRT scan lines or chromatic aberration when dropping into a darker sound bridge
+• Occasional digital distortion/glitch on “shouts” to amplify the emotional peak
+• Light leaks and lens flares keyed to guitar amp cone flashes
+
+Vibe & Story Arc
+Empowering, unapologetic, and high-octane. The visuals alternate between raw performance intimacy and stylized rock-opera theatrics—reinforcing the song’s message of unstoppable confidence and “victory” in love and power.
+
+
+
+<<<<
+Below is a slideshow-style screenplay – each “Slide” represents a key video frame or short shot. For each, you’ll find:
+
+• Timecode (approximate)
+• Camera/Lens/Lighting notes (per your “Invincible” preset)
+• Description of action/composition
+• Two AI text-prompts (A & B) for still-image generation
+
+You can pick and mix options in the edit.
+
+    SLIDE 1: INTRO/ESTABLISHING
+    Time: 0:00–0:08 (instrumental build)
+    Camera & Lighting
+    • Wide low-angle shot on full band, single cold-blue spotlight flare from top right
+    • Subtle 10% film grain overlay
+    Description
+    • Band stands in power pose on darkened stage, smoke swirling at floor level
+    AI PROMPTS
+    A) “Epic rock band wide shot on dark stage, single electric-blue spotlight from above, steel-gray shadows, warm orange rim lights on guitar pickups, subtle film-grain texture, high-contrast, cinematic”
+    B) “Powerful female lead and band in silhouette, deep shadows with crimson red backlight, volumetric haze, gritty rock-opera feel, high dynamic range”
+
+    SLIDE 2: VERSE 1 LINE “I’ve been approaching…”
+    Time: 0:08–0:16
+    Camera & Lens
+    • Handheld 50 mm T1.4, tight on vocalist’s face and mic hand
+    • Strong rim light behind singer, cold-blue key from front left
+    Description
+    • Vocalist leans forward, confident glare, mic cord trailing
+    AI PROMPTS
+    A) “Close-up of fierce female rock singer gripping microphone, cold blue key light, strong backlight rim, gritty film grain”
+    B) “Intense female vocalist in club corridor, crimson and steel-gray lighting, dramatic shadows, cinematic rock performance”
+
+    SLIDE 3: VERSE 1 LINE “And I attack when you least expect that”
+    Time: 0:16–0:24
+    Camera & Lens
+    • 35 mm T1.5 medium close-up on lead guitarist’s right hand strumming
+    • Warm highlight on metal strings, dark vignette edges
+    Description
+    • Fingers hammering riffs, slight motion blur on hand
+    AI PROMPTS
+    A) “Medium close-up of rock guitarist’s hand attacking guitar strings, warm highlights on pickups, deep shadows, gritty texture”
+    B) “Dynamic shot of electric guitar riff, steel-gray body, orange spark highlights, high-contrast, cinematic energy”
+
+    SLIDE 4: VERSE 1 LINE “I’m hunting you down, love is war…”
+    Time: 0:24–0:32
+    Camera & Lens
+    • Wide 14–24 mm, low angle on bassist and drummer interacting
+    • Smoke haze catching crimson backlight
+    Description
+    • Bassist’s foot stomps in foreground, drummer mid-fill behind
+    AI PROMPTS
+    A) “Wide shot of bass player stomping on stage, drummer behind, red backlight through haze, gritty rock vibe”
+    B) “Low-angle wide of rhythm section in smoky venue, electrifying red and blue gels, intense performance”
+
+    SLIDE 5: CHORUS “Victory, victory for me”
+    Time: 0:32–0:48
+    Camera & Coverage
+    • Multi-cam rapid intercut: vocalist, guitarist, crowd
+    • Whip-pans keyed on word “Victory!”
+    Description
+    • Quick frames: clenched fist, guitar headstock, cheering hands in silhouette
+    AI PROMPTS
+    A) “High-energy collage: female vocalist fist-pump, guitar neck, silhouetted crowd hands, vibrant blue and red lighting, punchy contrast”
+    B) “Rock concert intercut shots of triumph: mic grip, guitar riff, cheering fans, dynamic angles, film-grain overlay”
+
+    SLIDE 6: VERSE 2 “Beauty and rich…”
+    Time: 0:48–1:00
+    Option A (Performance)
+    • Handheld 50 mm on vocalist stalking stage edge, deep shadows
+    Option B (Narrative vignette)
+    • Silhouette in abandoned warehouse corridor, one moving spotlight
+    AI PROMPTS
+    A1) “Close-up of confident female singer prowling stage edge, cold-blue key, strong rim light, gritty aesthetic”
+    B1) “Silhouetted woman in abandoned industrial corridor, single spotlight, steel-gray walls, smoke, cinematic tension”
+
+    SLIDE 7: CHORUS VARIANT
+    Time: 1:00–1:20
+    Camera & Effects
+    • Quick cuts, light-leak transitions on every “Invincible!”
+    • Subtle CRT scan-lines during darker beats
+    Description
+    • Strobes punctuate guitar riffs, text graphic “INVINCIBLE” glitching on screen
+    AI PROMPTS
+    A) “Dynamic rock chorus still: bold ‘INVINCIBLE’ text with glitch effect, strobe highlights, cold-blue and crimson palette, film-grain”
+    B) “Rock band mid-chorus, light leaks and lens flares, distorted text overlay, high-contrast cinematic style”
+
+    SLIDE 8: BRIDGE “After your turn…”
+    Time: 1:20–1:36
+    Camera & Lens
+    • 35 mm slow push-in on singer in half-shadow, dramatic haze
+    • Rembrandt-style key from side
+    Description
+    • Face half-lit, makeup smudged, defiant expression
+    AI PROMPTS
+    A) “Moody half-portrait of smudged makeup rock singer, side-key light, smoky atmosphere, high contrast”
+    B) “Dramatic female lead in shadowy corridor, smeared lipstick, electric blue rim light, gritty rock opera”
+
+    SLIDE 9: GUITAR SOLO START
+    Time: 1:36–1:48
+    Camera & Lens
+    • Extreme close-up on guitar neck and fretting fingers, 50 mm T1.4
+    • Warm pickup highlights, dark background
+    Description
+    • Fingers slide on strings, slight motion blur, dramatic focus pull
+    AI PROMPTS
+    A) “Extreme close-up of electric guitar neck, fingers bending a note, warm amber highlights, deep shadows, cinematic grit”
+    B) “Over-the-shoulder rock guitar shot in slow motion, chrome pickups reflecting stage lights, film-grain”
+
+    SLIDE 10: SOLO CLIMAX SLOW-MO
+    Time: 1:48–1:56
+    Camera & Lens
+    • 35 mm speed-ramped slow-motion on final bend, quick cut to live-speed strobe
+    • Lens flare from off-camera amp cone
+    Description
+    • Finger vibrato in slow-motion, then abrupt strobe snap
+    AI PROMPTS
+    A) “Slow-motion guitar string bend, dramatic flare on amp cone, sudden strobe burst, high-contrast cinematic”
+    B) “Rock solo climax in slow-mo, warm highlights on pickguard, steel-gray shadows, dynamic lens flare”
+
+    SLIDE 11: FINAL CHORUS MONTAGE
+    Time: 1:56–2:24
+    Coverage
+    • Rapid intercuts of vocalist, guitars, drums, crowd in silhouette
+    • Glitch transitions on each “Invincible” shout
+    Description
+    • Montage peaks with camera whip-pans, final shot: vocalist reaching out to camera
+    AI PROMPTS
+    A) “Epic rock montage: lead singer reaching out, drummer in back, crowd silhouette, glitch text overlays, blue-red lighting”
+    B) “High-octane collage of band and fans, light-leak transitions, powerful female lead, film-grain grit”
+
+    SLIDE 12: OUTRO/VICTORY POSE
+    Time: 2:24–2:35 (song end)
+    Camera & Lighting
+    • Wide 14–24 mm return to establishing angle, single warm spotlight now on singer
+    • Fade–to–black with increasing film grain to 15%
+    Description
+    • Band celebrates, guitars held aloft, vocalist smiles in relief/triumph
+    AI PROMPTS
+    A) “Wide shot of rock band victory pose, warm spotlight on female lead, deep shadows around, subtle grain, cinematic”
+    B) “Triumphant band finale on dark stage, guitars raised, steel-gray backdrop, orange highlight, gritty film finish”
+
+Feel free to swap prompts A/B or adjust timecodes, lenses, gels and transitions in your editing suite.
+
+<<<<
+Additional face-focused AI prompts for key slides. You can mix these in alongside the existing A/B options.
+
+Slide 2 (Verse 1 close-up on vocalist)
+– C) “Ultra-detailed close-up of a fierce female rock singer’s face, piercing gaze into camera, cold-blue key light, crimson rim light, subtle sweat on brow, gritty film grain, cinematic shallow depth”
+– D) “Portrait of confident female vocalist snarling into mic, smudged dark lipstick, steel-gray shadows, warm orange highlights on cheekbones, high-contrast rock mood”
+– E) “Intense head-and-shoulders shot of female lead in motion, hair whipping, blue and red stage gels, visible pores and texture, dramatic catchlight in eyes”
+
+Slide 6A (Verse 2 performance close-up)
+– C) “Tight frame on female singer mid-vocal, lips curled in defiance, electric-blue backlight halo, sharp catchlights, gritty cinematic color grade”
+– D) “Expressive female rock star face, eyebrow raised, side-lit by crimson red gel, subtle lens flare, visible skin texture, high contrast”
+– E) “Close portrait of singing woman, eyes half-closed in passion, steel-gray shadows, warm highlights on jawline, volumetric haze behind”
+
+Slide 8 (Bridge half-shadow portrait)
+– C) “Moody Rembrandt-style portrait of female singer, half of face in shadow, smudged eyeliner, smoky background, soft warm rim light, ultra-realistic skin detail”
+– D) “Dramatic close portrait of rock vocalist with smeared makeup, one eye lit in cold blue, the other in crimson, smoky atmosphere, cinematic grit”
+– E) “Female lead in corridor vignette, face lit from below by tungsten light, dark circles under eyes, defiant stare, high-contrast rock opera aesthetic”
+
+Slide 11 (Final chorus montage – reaching out)
+– C) “Dramatic low-angle close-up of singer’s outstretched hand and face, wide eyes locked on viewer, steel-gray shadows, warm spotlight flare, subtle film grain”
+– D) “Heroic portrait of female vocalist leaning forward, mouth open mid-shout, dynamic blue-red backlighting, intense eye contact, cinematic texture”
+
+Slide 12 (Outro victory pose close-up)
+– C) “Triumphant close-up of smiling female rock star, hair tousled, spot-lit warm glow on face, visible freckles, subtle film grain, soulful eyes”
+– D) “Portrait of victorious singer, head tilted back, eyes closed in relief, orange spotlight on cheek, deep shadows, high-contrast cinematic feel”

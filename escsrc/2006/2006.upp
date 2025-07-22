@@ -1,6 +1,11 @@
 description "\377B255,42,150";
 
 file
+	Texts readonly separator,
+	Invincible.txt,
+	"Great escape.txt",
+	"Girlfriend in Canada.txt",
+	Songs readonly separator,
 	"70s vibe.tg",
 	"bye bye baby.tg",
 	candyday.tg,
