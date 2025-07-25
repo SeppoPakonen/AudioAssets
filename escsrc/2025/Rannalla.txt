@@ -1,0 +1,214 @@
+Style: A pop song with a slow tempo and a major key. The instrumentation features a clean electric guitar playing arpeggiated chords, a soft synth pad providing atmospheric backing, and a simple drum beat with a prominent kick and snare. The male lead vocal is smooth and slightly reverberated, delivering a gentle melody. The song structure is verse-chorus, with a clear melodic theme. The production emphasizes a spacious mix, allowing each instrument to breathe. The overall mood is reflective and calm.
+
+Title: Laiva
+
+
+[Verse 1]
+Rannalla tuulee
+Meri säihkyy auringossa
+Käännyn sun puoleen
+Ja lo kit nauraa taas, Kun satamasta
+
+[Chorus]
+Kauas laiva lähtee
+Huokaan tän hetken tähden
+
+[Verse 2]
+Yhteinen matka
+Eikä pieni jolla tää oo
+Öinen ulappa
+Ja Marrianhaminan Satamasta
+
+[Chorus]
+Kauas laiva lähtee
+Huokaan tän hetken tähden
+Kauas laiva lähtee
+Huokaan tän hetken tähden
+
+
+
+
+<<<<
+
+Seuraavassa on ehdotus “Laiva”-kappaleen musiikkivideon slideshow-käsikirjoitukseksi, jossa kuhunkin ruutuun (slideen) on kolme visuaalista vaihtoehtoa sekä niihin sopivat tekstipromptit tekoälykuvageneraattorille. Ruutujen välissä pehmeät ristiinliukumat (1–1,5 s).
+
+Yleiset ohjeet:
+• Kesto per slide: 5–8 s (riippuen lyriikan pituudesta)
+• Siirtymät: crossfade 1–1,5 s
+• Väritoisto: lämpimät pastellisävyt, luonnonläheiset sinisen ja hiekan sävyt
+• Tyyli: valokuvamainen tai kevyt maalaus-/vesivärilook
+
+    TITLE CARD (0:00–0:05)
+    Visio: kappaleen nimi “Laiva” ja artistin nimi ilmestyvät rauhallisen meri- tai satamanäkymän päälle.
+    Vaihtoehto A
+    – Visuaali: hentoinen vesiväritausta, aaltokuviot, keskellä kultafolioidut sanat
+    – Prompt: “Title card ‘Laiva’, soft watercolor background with stylized waves, gold foil text, minimalist design”
+    Vaihtoehto B
+    – Visuaali: valokuva satamasta hämärässä, otsikko kevyessä reunavalaistuksessa
+    – Prompt: “Calm harbor at dawn photograph, subtle mist, centered ‘Laiva’ in elegant serif font, soft glow”
+    Vaihtoehto C
+    – Visuaali: yksinkertainen sinivalkoinen graafinen aalto-ikoni ja teksti
+    – Prompt: “Vector graphic of stylized wave, white and navy blue, bold ‘Laiva’ in modern sans-serif”
+
+    VERSE 1 / “Rannalla tuulee” (0:05–0:12)
+    Vaihtoehto A
+    – Visuaali: hiekka-dyynit, heinät taipuvat tuulessa, taustan meri horisontissa
+    – Prompt: “Beach dunes at sunrise, tall grasses bending in gentle breeze, soft pastel colors, serene atmosphere”
+    Vaihtoehto B
+    – Visuaali: lähikuva rantaan lyövästä aaltorannasta, vesiroiskeita hiekalla
+    – Prompt: “Close-up of wave washing onto shore, droplets in mid-air, warm morning light, high-resolution photo”
+    Vaihtoehto C
+    – Visuaali: siluettikuva henkilöstä katselemassa merelle, tuulessa liehuvat hiukset
+    – Prompt: “Silhouette of person standing on beach, hair blowing in wind, ocean horizon, dreamy lighting”
+
+    VERSE 1 / “Meri säihkyy auringossa” (0:12–0:19)
+    Vaihtoehto A
+    – Visuaali: auringonsäteet prismana veden pinnalla, bokeh-efekti
+    – Prompt: “Shimmering sunlight on ocean surface, sparkling bokeh highlights, golden hour tones”
+    Vaihtoehto B
+    – Visuaali: drone-kuva merestä ylhäältä, kirkas sininen vesi ja valkoisia vaahtopäitä
+    – Prompt: “Aerial view of turquoise sea, gentle waves, high contrast, crisp photography”
+    Vaihtoehto C
+    – Visuaali: abstrakti vesitekstuuri aquarellina, kimalteleva efektisuodin
+    – Prompt: “Abstract watercolor texture of sea, iridescent highlights, calming blues and teals”
+
+    VERSE 1 / “Käännyn sun puoleen” (0:19–0:26)
+    Vaihtoehto A
+    – Visuaali: pariskunta rannan hiekalla, katsovat toisiaan käsi kädessä
+    – Prompt: “Couple holding hands on beach, looking at each other, soft backlight, romantic mood”
+    Vaihtoehto B
+    – Visuaali: selkäpuolelta otettu kuva, kaksi hahmoa seisoo rannalla vierekkäin
+    – Prompt: “Back view of two figures standing by sea, warm sunset glow, peaceful composition”
+    Vaihtoehto C
+    – Visuaali: lähikuva kasvoista kääntyvän henkilön profiilista, taustalla horisontti
+    – Prompt: “Close-up profile of person turning, hair moving, soft focus seascape background”
+
+    VERSE 1 / “Ja lo kit nauraa taas, Kun satamasta” (0:26–0:33)
+    Vaihtoehto A
+    – Visuaali: pieni kalastajavene satamassa, yksi henkilö nauramassa kannella
+    – Prompt: “Small fishing boat in harbor, person laughing on deck, warm light, candid moment”
+    Vaihtoehto B
+    – Visuaali: vanhanaikainen satama‐kahvila, iloinen tunnelma, meri taustalla
+    – Prompt: “Quaint seaside café at harbor, people chatting and laughing, sunlit ambience”
+    Vaihtoehto C
+    – Visuaali: kaukaa näkyvä sataman siluetti, lokkeja lentää, utuisuus
+    – Prompt: “Harbor silhouette at dawn, seagulls in flight, misty atmosphere, soft color palette”
+
+    CHORUS / “Kauas laiva lähtee…” (0:33–0:45)
+    Vaihtoehto A
+    – Visuaali: laiva lähtee satamasta kohti horisonttia, perässä vaahtoraita
+    – Prompt: “Cargo ship departing harbor at sunset, trailing foam, wide shot, cinematic feel”
+    Vaihtoehto B
+    – Visuaali: laivan keula lähikuvassa, aava meri taustalla
+    – Prompt: “Close-up of ship’s bow cutting through calm sea, golden hour lighting, high detail”
+    Vaihtoehto C
+    – Visuaali: mittakaava, pieni vene suurella merellä, kaukaisuudessa horisontti
+    – Prompt: “Tiny sailboat on vast ocean, horizon line, serene composition, pastel sky”
+
+    VERSE 2 / “Yhteinen matka” (0:45–0:52)
+    Vaihtoehto A
+    – Visuaali: kaksi ihmistä viettää aikaa veneessä, juttelevat rauhallisesti
+    – Prompt: “Two people sitting together on small boat deck, soft conversation mood, warm light”
+    Vaihtoehto B
+    – Visuaali: kämmenet pitelevät kompassia tai karttaa veneen kannella
+    – Prompt: “Hands holding vintage compass on boat deck, nautical chart beneath, natural light”
+    Vaihtoehto C
+    – Visuaali: veneen masto ja purje vasten sinistä taivasta
+    – Prompt: “Boat mast and sail against clear blue sky, gentle breeze, minimalistic photo”
+
+    VERSE 2 / “Eikä pieni jolla tää oo” (0:52–0:59)
+    Vaihtoehto A
+    – Visuaali: pieni soutuvene aalloilla, valo leikkii veden pinnalla
+    – Prompt: “Small rowboat on gentle waves, sunlight glinting on water, peaceful scene”
+    Vaihtoehto B
+    – Visuaali: lähikuva soutuaiasta lastaavan venemiehen käsistä
+    – Prompt: “Close-up of hands grasping oar, rustic texture, shallow depth of field”
+    Vaihtoehto C
+    – Visuaali: ilmakuvasta nähtynä vene nostaa kevyttä vaahtoa
+    – Prompt: “Aerial shot of small boat slicing through water, white wake, high-angle”
+
+    VERSE 2 / “Öinen ulappa” (0:59–1:06)
+    Vaihtoehto A
+    – Visuaali: tähtitaivas ja täysikuu heijastuvat pimeään mereen
+    – Prompt: “Night sea under starry sky, full moon reflection on water, tranquil long exposure”
+    Vaihtoehto B
+    – Visuaali: laivan valot pisteinä kaukana, ympärillä pimeys
+    – Prompt: “Distant ship lights on dark ocean, minimal glare, moody atmosphere”
+    Vaihtoehto C
+    – Visuaali: sumuinen meri-ilta, vain sointupalkeet näköpiirissä
+    – Prompt: “Foggy night at sea, silhouette of lone boat, soft grainy texture”
+
+    VERSE 2 / “Ja Marrianhaminan Satamasta” (1:06–1:13)
+    Vaihtoehto A
+    – Visuaali: Maarianhaminan vanha satama idyllisine veneineen, iltavalaistus
+    – Prompt: “Historic Åland harbor at dusk, wooden boats tied to pier, warm street lamps”
+    Vaihtoehto B
+    – Visuaali: satamakatu mukulakivillä, taustalla laiva lähdössä
+    – Prompt: “Cobblestone harbor street, ferry departing in distance, soft evening glow”
+    Vaihtoehto C
+    – Visuaali: sataman opastekyltti “Marianhamn/Hamnen” maalaismaisemassa
+    – Prompt: “Harbor sign ‘Marianhamn Hamnen’, grassy verge, sea glimpsed behind, pastoral vibe”
+
+    CHORUS 2 (1:13–1:25)
+    (toisto, variaatiot samaan lyriikkaan)
+    Vaihtoehto A
+    – Visuaali: time-lapse-lautta lipuu horisonttiin, intensiivinen taivaanväri
+    – Prompt: “Time-lapse ferry sailing into horizon, dramatic sunset sky, vibrant colors”
+    Vaihtoehto B
+    – Visuaali: vedenalainen kuvakulma laivan pohjasta nouseviin kupliin
+    – Prompt: “Underwater view of ship hull, rising bubbles, moody teal lighting”
+    Vaihtoehto C
+    – Visuaali: drone-lähikuva potkurin takaa, vaahtopilvet leviävät vedessä
+    – Prompt: “Close aerial shot behind boat propeller, churning white foam, cinematic”
+
+    OUTRO / FADE OUT (1:25–1:30)
+    Vaihtoehto A
+    – Visuaali: meri hiljenee, vain kaukainen laiva näkyy, hitaasti sumuun katoaa
+    – Prompt: “Lonely ship fading into mist, calm sea, melancholic pastel tones”
+    Vaihtoehto B
+    – Visuaali: hiekalle piirretty laivankuva huuhtoutuu pois
+    – Prompt: “Sand drawing of a ship being washed away by tide, poetic feel”
+    Vaihtoehto C
+    – Visuaali: musta ruutu, keskellä valkoinen teksti “Laiva” himmenee pois
+    – Prompt: “Black screen with white ‘Laiva’ text, fade-out animation, minimalistic style”
+
+–––––––––––––––––––––––––––––––––––––––––––––
+Käyttäkää näistä varianteista gestiona ja kootkaa slideshow-editointiohjelmassa haluamanne sekvenssi rauhallisen tempoiseen rytmiin.
+Onnea editointiin!
+
+
+
+<<<<
+
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on päivä 15.
+On menossa viimeinen vuoden 2004 sävellykset, jolloin olin 14 vuotias.
+Tämä on hyvin alkuperäinen kappale sävellykseltään.
+Sanoitukset tein muutama vuosi sitten ja tänään viimeistelin ne.
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä.
+
+Lyrics:
+
+
+<<<<
+Päivä 15 – “Laiva” (2004)
+Viimeinen kappale 14-vuotiaana säveltämästäni sarjasta.
+Tämä on yksi alkuperäisimmistä sävellyksistäni – herkkä, hidas pop-biisi, jonka sanoitukset sain valmiiksi vasta tänään.
+Kaikki sävellykset, sanoitukset ja sovitukset on tehty käsin itse, mutta remixaus on tehty Suno AI:lla.
+
+✨ "Kauas laiva lähtee, huokaan tän hetken tähden..."
+#omamusiikki #sunoai #suomenkielinenmusiikki #uusimusaa #laulujaelämästä #2000luku #tiktokmusiikki
+
+
+<<<<
+Päivä 15 – "Laiva" (2004)
+Tämä on viimeinen kappale niistä, jotka sävelsin vuonna 2004 – silloin kun olin 14.
+"Laiva" on yksi alkuperäisimmistä sävellyksistäni. Herkkä ja hidas pop-kappale, jossa on puhdas kitarasoundi, avara tunnelma ja kaihoisa melodia.
+Sanoitukset tein vasta muutama vuosi sitten ja viimeistelin ne tänään.
+Kaikki on 100 % itse sävellettyä, sanoitettua ja sovitettua.
+Remixaus: Suno AI.
+
+🛳️ "Kauas laiva lähtee, huokaan tän hetken tähden..."
+Kiitos kun kuuntelet tätä matkaa menneisyyteen. 💙
+
+#omamusiikki #laiva #sunoai #suomenkielinenmusiikki #teini-iänsävellykset #throwback #uusimusaa #popsuomi #musiikkimatka
