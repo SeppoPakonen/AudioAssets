@@ -63,3 +63,207 @@ I've no reason there to stay
 I'm making my great escape, hiding all my traces
 And you made me feel this way (ooh-ooh-ooh)
 
+
+
+<<<<
+Video preset:
+Theme
+• A raw-but-polished performance of a melancholic-yet-energetic rock song, fronted by a female vocalist, intercut with a mini “escape” narrative.
+
+Orientation & Camera
+• Vertical (9:16) smartphone style (e.g. iPhone 15 Pro)
+• Shallow depth-of-field for intimate close-ups; occasional whip-pans and digital zooms synced to the beat
+• Gimbal or stabilizer for smooth motion; subtle “hand-held” when conveying tension
+
+Color & Grading
+• Moody teal & orange contrast with slightly desaturated midtones
+• Occasional pastel overlays (pink or purple) during key lyric moments
+• Slight digital grain for texture, no heavy filters
+
+Lighting
+• Mixed warm key light on the singer’s face, cool backlight for rim separation
+• Subtle strobes or colored LED accents on chorus hits
+• Soft fill to keep guitar-closeups visible
+
+Vibe
+• Authentic, relatable “I need out” energy
+• Melancholic lyrics meet anthemic rock delivery—perfect for repeat listens and shares.
+
+
+<<<<
+
+
+Tässä ehdotus 9:16-videon storyboardiksi / slideshow’llä toteutettavaksi musiikkivideoksi sekä rinnalla kolme vaihtoehtoista tekstipromptia jokaista kuva-AI-generointia varten. Voitte valita mieleisenne variantit myöhemmin editointivaiheessa.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 1 (00:00–00:10)
+KOHTAUS: Instrumentaalin intro, tummanjäkäläinen lavastus, hidas kamera-ajo edessä olevan akustisen kitaristin ohi kohti laulajaa.
+– Kamera: Gimbal-ajolla lähestyy, loppukohtauksessa kevyt digital zoom laulajan kasvoihin.
+– Valaistus: lämmin key-valo kasvoilla, viileä sininen rim-valo taustalla.
+– Tunnelma: odottava, hiukan synkkä.
+
+AI-PROMPTIT (valitse yksi):
+1A) “Melancholic female rock singer in dimly lit small stage, teal-orange contrast, shallow depth of field, vertical frame, moody grain.”
+1B) “Close-up of a woman with acoustic guitar under warm spotlight and cool blue backlight, dreamy atmosphere, vertical phone shot.”
+1C) “Intimate stage setting, female vocalist emerging from darkness, subtle digital grain, teal and orange color grade, 9:16 composition.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 2 (00:10–00:30)
+VERSE 1, rivi “Once we had a night…”
+KOHTAUS: Vuorottelu kirkkaita lähikuvia laulajasta ja kitaransoitosta. Hitaat whip-panit sanojen mukaan (“night” → “together”).
+– Kamera: nopea whip-pan-katkaisu neljän lyönnin välein.
+– Valaistus: pehmeä täyttövalo, taustassa himmeä strobeflash sykkeen mukaan.
+
+AI-PROMPTIT:
+2A) “Female singer intensely emoting into mic, soft fill light, moody pastel pink overlay, vertical crop.”
+2B) “Acoustic guitar strings arpeggio close-up, warm light reflections, slightly desaturated midtones, phone style.”
+2C) “Dynamic whip-pan motion blur shot of rock vocalist, subtle purple haze, intimate depth of field.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 3 (00:30–00:50)
+VERSE 1 jatkuu: “You were like a cat with me…”
+KOHTAUS: Pätkiä lavan takaa kurkistavasta hahmosta (näyttäisi saaliilta), intercut laulajan luomaan vangitun fiiliksen.
+– Kamera: käsi-kameraliike, hieman epätasainen jännityksen luomiseksi.
+– Valaistus: kylmät siniset sävyt hahmon ympärillä.
+
+AI-PROMPTIT:
+3A) “Shadowy figure lurking behind singer, cool blue tones, gritty handheld look, vertical orientation.”
+3B) “Woman trapped in emotional web, subtle cage-like shadows, moody teal and orange contrast, grainy texture.”
+3C) “Silhouette of a prowling cat figure, intense backlight, dark stage, 9:16 frame.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 4 (00:50–01:10)
+CHORUS 1: “I’m planning my great escape…”
+KOHTAUS: Laulaja juoksee pimeähköä käytävää pitkin, intercut rock-bändin dynaamiseen soittoon.
+– Kamera: gimbal-seuranta takaapäin, beat-sync-pikakelauksia stop-motion-tyyliin.
+– Valaistus: vilkkuvat LED-linjat käytävän reunoilla laulun rytmiin.
+
+AI-PROMPTIT:
+4A) “Female rock singer running down neon-lit corridor, teal and orange, slight blur, vertical shot.”
+4B) “Band performance overlaid with escape chase, pulsing LED tubes, energetic yet melancholic vibe.”
+4C) “Run-away heroine in dark hallway, dynamic gimbal perspective, pastel purple highlights.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 5 (01:10–01:30)
+VERSE 2: “We’re eating a breakfast with you next to me…”
+KOHTAUS: Pöytäkohtaus: laulaja istuu yksin vaaleanpastellisessa keittiössä, tyhjä paikka vastapäätä. Hidastusta.
+– Kamera: staattinen, kevyt digital zoom puuroiseen lautaselle.
+– Valaistus: luonnonvalomainen, pastellinpehmeä.
+
+AI-PROMPTIT:
+5A) “Lonely breakfast scene, pastel kitchen, empty chair opposite female singer, soft morning light, vertical.”
+5B) “Close-up of half-eaten cereal bowl, melancholic vibe, shallow DOF, muted pastels.”
+5C) “Singer alone at table, ghost-like second plate, warm window light, subtle grain.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 6 (01:30–01:50)
+CHORUS 2: sama kuin Chorus 1, mutta intensiteetti kasvaa
+KOHTAUS: Bändi lavalla strobesaosten keskellä, laulaja edessä ojentaa kätensä kameraan päin “hiding all my traces”.
+– Kamera: zoom-in, digitaalipanoraama lavan yli.
+– Valaistus: raidalliset LED-spotit rim-valoina.
+
+AI-PROMPTIT:
+6A) “Energetic rock chorus performance, female vocalist reaching forward, teal orange lights, grainy texture.”
+6B) “Live band silhouette with strobes, intense energy, vertical framing, shallow focus.”
+6C) “Closeup singer hand-reach, vibrant LED backlight, anthemic mood.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 7 (01:50–02:10)
+[Instrumental bridge + tekstit “Hey, you should know…”]
+KOHTAUS: Sarja abstrakteja lähikuvia: kitara-kaula, rumpujen kalvot, laulajan huulista tekstin sanat leijaavat digitaalisesti ruudulle.
+– Kamera: hyperlapse-tehosteita, tekstianimaatio.
+– Valaistus: värisykkeet tekstiin.
+
+AI-PROMPTIT:
+7A) “Abstract montage of guitar neck, drum heads, floating lyrics in neon, vertical orientation.”
+7B) “Digital text overlays on rock instrument close-ups, moody grain, pastel accents.”
+7C) “Fast-paced hyperlapse of band gear, pulsing lyric fragments, teal and pink color pops.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 8 (02:10–02:40)
+GUITAR SOLO
+KOHTAUS: Kitaristin suoritusta korostava keltainen spotlight, hidastuksia soolon huipussa, intercut lähikuvat kädestä otteessa.
+– Kamera: slider-liike sivulta, digizoom solo-momentteihin.
+– Valaistus: keltainen/copper, raskas rekvisiitta (savukone pieni).
+
+AI-PROMPTIT:
+8A) “Guitar solo under warm amber spotlight, slow-mo pick movement, vertical video style.”
+8B) “Close-up of distorted electric guitar strings, smoke, intense color contrast, 9:16 frame.”
+8C) “Rock solo hero shot, warm copper light, motion blur on picks, grainy feel.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+SLIDE 9 (02:40–03:00)
+FINAL CHORUS & OUTRO: “I’m making my great escape…”
+KOHTAUS: Laulaja avautuvassa ulkotilassa (esim. tyhjä katu/yömaisema), kamera nousee hitaasti ylemmäs kun säkeistö päättyy.
+– Kamera: droni-tyylinen nouseva gimbal.
+– Valaistus: katuvalot, lievä utu/rautatieasema-fiilis.
+– Tunnelma: vapauttava, toiveikas.
+
+AI-PROMPTIT:
+9A) “Female singer standing alone on empty night street, streetlights, subtle fog, vertical drone perspective.”
+9B) “Open urban landscape at night, woman raising hands to sky, teal and orange contrast, grain texture.”
+9C) “Heroic finale shot of rock singer on deserted road, rising camera, moody city glow.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Näillä vaihtoehdoilla voitte testailla eri visuaalista linjaa ja lopullinen editointi kollaa parhaat palat yhteen!
+
+
+
+
+>>>>
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on päivä 17.
+On menossa vuoden 2005 sävellys, jolloin olin 15 vuotias.
+Tämä on hyvin alkuperäinen kappale sävellykseltään ja sanoitukseltaan.
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä.
+Video on tehty Sora AI:lla.
+Editoin videon itse käsin.
+
+Lyrics:
+
+<<<<
+Päivä 17: Tässä vuoden 2005 käsin sävelletty & sanoitettu rock-biisi, jonka loin 15-vuotiaana. 🎸🎤
+100 % omaa tuotantoa, remiksoitu Suno AI:lla. Video tehty Sora AI:lla, editointi täysin käsi­työnä.
+Kuuntele melankolinen, mutta energinen A-molli-sointuineen ja mahtavine kitarasooloineen!
+
+#rock #melankia #AIremix #päivä17 #SunoAI #SoraAI #DIYmusic #throwback2005
+
+
+<<<<
+Päivä 17 🎶
+Julkaisen vanhoja kappaleitani yhden päivässä – tämä sukeltaa vuoteen 2005, kun olin 15-vuotias.
+100 % käsin sävelletty, sanoitettu ja sovitettu; remiksattu Suno AI:lla. Video Sora AI:lla, editointi täysin omilla käsillä.
+
+– Melankolinen mutta energinen rock A-molli
+– Akustinen arpeggio + särökitaran melodiset filut & soolo
+– Rytmin tekee bassokitara & napakka rumpuvedonlyönti
+– Puhtaat, ilmeikkäät naisolokaalit reverbillä
+– Perinteinen säkeistö–kertosäe–soolo–kertosäe -rakenne
+
+Kuuntele biisi profiilissa! ⬆️🤘🖤
+
+#rock #melankia #DIYmusic #AIremix #SunoAI #SoraAI #throwback2005 #päivä17 #käsityö #nuoruusmuistoja #femalerockvocal
+
+<<<<
+Day 17 🎸
+Throwing it back to 2005 when I was 15 – my 100% hand-composed/lyric-written/arranged rock track, now remixed with Suno AI 🎛️. Video by Sora AI, edited by me 🤘.
+
+Hit play & feel the vibe! 🔥🎶
+#rock #melancholicrock #AIremix #DIYMusic #Throwback2005 #Day17 #SunoAI #SoraAI #qstack
+
+<<<<
+Day 17 🎶
+Throwing it back to 2005 when I was just 15 – here’s a 100% hand-composed, written & arranged rock track, now remixed with Suno AI 🎛️. Video by Sora AI, edited by me 🤘🏻
+
+Press play & travel back with me! 🔗 Link in bio
+#rock #melancholicrock #DIYMusic #AIremix #SunoAI #SoraAI #Throwback2005 #Day17 #FemaleVocals #HandcraftedMusic #qstack
