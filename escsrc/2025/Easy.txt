@@ -1,3 +1,20 @@
+Style:
+A Finnish edm-pop song with a driving rhythm section and prominent synth melodies,
+The tempo is moderate, and the key is major,
+The song features male and female lead vocalists with a clear tone,
+delivering the lyrics in a conversational, almost spoken-word style during the verses,
+transitioning to a more melodic and sustained delivery in the chorus,
+The drums provide a consistent backbeat with a strong snare emphasis,
+The bass guitar plays a foundational, rhythmic line,
+Electric guitar provides rhythmic strumming and occasional melodic fills,
+Synthesizers contribute arpeggiated patterns, pad sounds, and lead melodies,
+Production elements include a clean mix with clear separation of instruments,
+Reverb is applied to the vocals and some synth elements, creating a sense of space,
+The song structure follows a typical verse-chorus format with an instrumental break and an outro,
+The melody is catchy and memorable, with a relatively narrow vocal range
+
+Title: Vanha sävel
+
 [Intro, male singing]
 Muistatko jo melodian
 Kun ostat festarille lippua
@@ -9,14 +26,14 @@ Vaan nostalgisii muistoja
 Sä elät uudestaan
 
 [Verse 1, male rapping]
-Tanssit duunis vuoden radion musan tahtiin
-Rajattu soittolista on mut sitä kuuntelee kaikki
+Tanssit vuoden radion tahtiin
+Soittolistaa samaa kuuntelee kaikki
 Sun lempikanavaa ei vaihtaa saa
 Tuttuu juontajaa kun kommentoidaan
 Elämä on laiffii sitten ens kesänä
-Ku kaverit on lähel keikkaa tai aidan sisällä
+Ku kaverit on lähel tai aidan sisällä
 Mut vähän ikävä on aikaa vähemmän vakavaa
-Ku ny pelottaa et joku hullu triggeröityy turhasta
+Kun nyt hullut triggeröityy turhasta
 
 [Prechorus, female singing]
 Niin kaikki muuttunut on
@@ -25,10 +42,10 @@ Niin kaikki muuttunut on
 Tää vanha sävel on mut vielä kerran kuunnellaan se
 Mä muistan menneisyyden, tanssin tulevaisuuteen
 Tää vanha sävel on mut tutun tunteen taas se toi
-Mä elän uusiks muistot noi
+Mä elän uusiks tänään kaikki vanhat muistot noi
 
 [Verse 2, male rapping]
-Ranneke käteen ja portista sisään
+Ranneke käteen ja portist sisään
 Salaa kuljetan sen minkä pitää
 Joku soittaa jo, mihin mennää
 Ei ainakaan vessaan, ei jonosta selviä
@@ -37,26 +54,17 @@ Kaikki muuttuu mut se on oma asia
 Turvallinen tila ja hyvät säännöt
 Vaik enne naurettiinki kun joku oli ääliö
 
-[Prechorus, female singing]
-Niin kaikki muuttunut on
-
-[Chorus, female singing]
-Tää vanha sävel on mut vielä kerran kuunnellaan se
-Mä muistan menneisyyden, tanssin tulevaisuuteen
-Tää vanha sävel on mut tutun tunteen taas se toi
-Mä elän uusiks muistot noi
-
-[Bridge, male rapping]
+[Bridge, male singing]
 Mä hidastan ja kuuntelen vaan
 Joku meinaa mun päälle kaatua
 Se sanoo sori ja mä vastaan et ei se mitään
-Mut sit someen päivitän ku joku rajojaan ei pidä
+Mut sit someen sanon ku joku rajojaan ei pidä
 
 [Chorus, female singing]
 Tää vanha sävel on mut vielä kerran kuunnellaan se
 Mä muistan menneisyyden, tanssin tulevaisuuteen
 Tää vanha sävel on mut tutun tunteen taas se toi
-Mä elän uusiks muistot noi
+Mä elän uusiks tänään kaikki vanhat muistot noi
 
 [Outro, female singing]
 Tää vanha sävel on
