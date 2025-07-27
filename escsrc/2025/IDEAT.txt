@@ -16,6 +16,7 @@
 - älä oo oikosulkuun menevä tyhmä lutka, jota reportterit triggeröi, ja joka nauraa kuin nauruträkki
 - psykologian parhaat säännöt: listaa nämä ja käytä biisissä
 	- tee myös Freud, Jung, & modernit versiot erikseen
+- apina joka meikkaa + ydinperhe arvot freudilaisittain
 
 - TARINAT yleisesti ottaen
 	- MINÄ
