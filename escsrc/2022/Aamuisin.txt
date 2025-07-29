@@ -1,0 +1,297 @@
+Style:
+A melancholic pop song with male & female lead vocalist duo,
+The song is in a minor key and features a moderate tempo,
+The instrumentation includes saxophone, acoustic guitar, bass guitar, drums, and a keyboard playing sustained pads,
+The acoustic guitar plays arpeggiated chords throughout the song, providing a gentle rhythmic foundation,
+The bass guitar provides a walking bass line that outlines the chord progression,
+The drums play a simple, steady beat with a focus on the kick and snare, occasionally adding light cymbal work,
+The keyboard pads create a spacious and slightly somber atmosphere,
+The vocalist sings with a clear tone, delivering the melody in a relatively narrow vocal range,
+The production is clean, with a balanced mix that allows each instrument to be heard clearly,
+There are no prominent effects on the vocals, maintaining a natural and intimate feel,
+The overall mood is reflective and wistful
+
+Date: 23.9.2022
+Title: Aamuisin
+
+[Verse 1, female singing]
+Jos et mitään tee, kun mä lähestyn,
+jos et mitään nää, kun mä ihastun,
+miten selväks teen, kuinka ihanaa ois
+olla hetken sun.
+
+[Chorus 1, male singing]
+Aamuisin, sua mä mietin.
+Munista tie sin, kun heräsin taas.
+Märkiä mietin, päälleni piirsin
+mä mielessäin sut.
+
+[Verse 2, female singing]
+En voi lopettaa 
+kun mä rakastun,
+mutta jos en saa, sekin unohtuu.
+Peiton alla vain olis lusikassa
+mielikuvassain. 
+
+[Chorus 1, male singing]
+Aamuisin, sua mä mietin.
+Munista tie sin, kun heräsin taas.
+Märkiä mietin, päälleni piirsin
+mä mielessäin sut.
+
+[Chorus 2, female singing]
+Sua mä mietin,
+sykettä kiel sin mä nopeutumaan.
+Märkiä mietin,
+päähäni jää kin vain lempesi sun.
+
+[Bridge, male singing]
+Moikka, ootsä ollut täällä kauan,
+käyt sä täällä usein?
+Tanssiin, voinko viedä?
+Voinko saada soittaa sulle sit kun
+
+[Chorus 1, female singing]
+Aamuisin, sua mä mietin.
+Munista tie sin, kun heräsin taas.
+Märkiä mietin, päälleni piirsin
+mä mielessäin sut.
+
+[Chorus 2, male singing]
+Sua mä mietin,
+sykettä kiel sin mä nopeutumaan.
+Märkiä mietin,
+päähäni jää kin vain lempesi sun.
+
+
+
+
+<<<<
+Theme: Melancholic Morning Romance
+Aspect Ratio & Format: Vertical 9:16, 1080×1920 for TikTok
+Duration: 15–60 s with beat-matched cuts
+
+Color Palette:
+• Soft, desaturated pastels (pale peach, misty sage, champagne)
+• Warm golden-hour highlights, slight pinkish flare in backlit scenes
+• Low-contrast shadows to preserve intimacy
+
+Camera & Digital “Film Stock”:
+• Simulated smartphone capture—slightly rounded corners or UI “frame” optional
+• Light digital grain, very subtle filmic texture
+• Gentle lens flare/glare artifacts in backlit shots
+
+Lighting:
+• Natural morning sunlight, directional through windows—use practicals (lamps, fairy lights) for fill
+• Soft diffusion (through thin curtains or reflectors) to flatten harsh shadows
+• Occasional golden-hour rim light on hair and shoulders
+
+Vibe & Pacing:
+• Reflective, wistful, quietly intimate
+• Moderate tempo editing: cuts on guitar arpeggio or vocal entrances
+• Occasional slow-motion moments in chorus; speed ramps into/out of key lyric hits
+
+Camera Movement & Framing:
+• Close-ups: faces nestled, fingertips tracing skin, hair falling across pillow
+• Over-the-shoulder “POV” wake-up glance, eye-level eye contact
+• Wide shots: cottage exterior, mist rising, couple walking hand in hand; ⅓-framed compositions
+• Borrow TikTok trends: smooth whip-pans between indoor/outdoor, portrait-to-landscape “push-in” transitions
+
+Text & Graphics:
+• Minimal on-screen lyrics in clean sans serif (white with 50% black shadow)
+• Animate lines in sync with vocal entrances (“Aamuisin, sua mä mietin”)
+• Optional subtle handwriting overlay for Finnish lyrics in Verse
+
+Shot Suggestions by Section:
+[Verse 1, female]
+• Intimate close-up on her face as she wakes, fingers brushing lips
+• Cut to his silhouette in foreground, softly out of focus, bed linens ruffled
+
+[Chorus 1, male]
+• Slow-mo of him gazing through window, sliding hand across pane
+• Quick cut to her tracing his name in condensation on glass
+• ½-speed footage of them exchanging a sleepy smile, overlaid lyric text
+
+[Verse 2, female]
+• Top-down shot of their entwined legs under duvet, morning light pooling
+• Handheld follow-cam as she slips out of bed and peeks out door
+
+[Chorus 1 repeat, male]
+• Dolly-in on them walking barefoot through dew-covered grass
+• Speed ramp into slow motion as she twirls under a tree’s golden leaves
+
+[Chorus 2, female]
+• Close side-profile shot of her humming into camera as he laughs off-screen
+• Lens-flare backlight as she leans on his shoulder, eyes closed
+
+[Bridge, male]
+• Jump-cut sequence: putting on boots, opening cottage door, stepping outside
+• Static shot as he calls “Moikka,” camera on a tripod—breaks the flow for intimacy
+
+[Final Chorus]
+• Montage: quick flash cuts between all previous scenes, timed to guitar arpeggios
+• End on a long take: both silhouetted against cottage window, share a gentle kiss as light fades
+
+Audio & Mix Notes:
+• Keep vocals clean and intimate—no heavy reverb
+• Natural room tone under percussion for “live” feel
+• Duck pad synth under chorus when arpeggio hits; emphasize warmth
+
+Delivery Tips:
+• Export with TikTok-friendly H.264 preset, 25–30 fps
+• Leave room top & bottom for UI elements and captions
+• Hook first 3 seconds with a striking visual or lyric overlay to maximize retention.
+
+
+
+<<<<
+Below is a 13-slide storyboard for a 15–60 s TikTok “Melancholic Morning Romance” video. Each slide includes:
+
+    a short scene description for your editor
+    two AI-image-generation prompt options (feel free to tweak)
+    suggested on-screen lyric or caption placement
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+    Slide 1 – Hook, Verse 1 opening
+    – Storyboard: Tight close-up on her face, eyes fluttering open, soft morning light across her cheek.
+    – Prompt A: “intimate close-up of young woman waking in bed, misty sage and pale peach color palette, warm golden-hour backlight flare, subtle film grain, 9:16 vertical”
+    – Prompt B: “soft romantic portrait of woman opening eyes on rumpled white sheets, slight pinkish lens flare, low-contrast shadows, dreamy cottage bedroom morning”
+    – Lyric overlay (fade-in bottom): “Jos et mitään tee, kun mä lähestyn”
+
+    Slide 2 – Verse 1 detail
+    – Storyboard: Her hand drifting to lips, fingertips tracing them.
+    – Prompt A: “macro shot of slender fingers brushing lips, champagne-toned highlights, desaturated pastels, very soft focus, natural sunlight through curtains”
+    – Prompt B: “extreme close-up of woman’s hand on lips, pale peach and misty sage hues, gentle digital grain, cozy mood”
+    – No text
+
+    Slide 3 – Verse 1 counterpoint
+    – Storyboard: His silhouette in foreground, blurred; she in focus behind.
+    – Prompt A: “soft focus silhouette of man in foreground, woman clear behind on bed, backlit cottage window light, warm rim glow, low contrast”
+    – Prompt B: “poetic shallow-depth shot: blurred male profile close, crisp female face in soft light, pastel color wash”
+    – Lyric overlay (top): “jos et mitään nää, kun mä ihastun”
+
+    Slide 4 – Chorus 1 start
+    – Storyboard: Slow-mo side profile of him gazing out a dew-specked window.
+    – Prompt A: “slow-motion portrait of young man looking through condensation on window, golden sunlight, pinkish flare, vertical frame”
+    – Prompt B: “wistful backlit man pressing hand to glass, light film grain, desaturated pastel tones, 9:16”
+    – Lyric overlay (center, animate on vocal): “Aamuisin, sua mä mietin.”
+
+    Slide 5 – Chorus 1 detail
+    – Storyboard: Her finger writing his name in the fog on glass.
+    – Prompt A: “close shot of fogged cottage window, woman’s finger tracing cursive name, warm backlight, champagne highlights, dreamy”
+    – Prompt B: “handwriting on misted glass, soft daylight, subtle lens glare, pastel background”
+    – Lyric overlay (hand-written style over glass): “sua mä mietin”
+
+    Slide 6 – Chorus 1 intimate moment
+    – Storyboard: Half-speed of them sharing a sleepy smile in bed.
+    – Prompt A: “slow-motion couple exchanging gentle smile under white duvet, morning sunbeam, warm filmic grain, soft pastels”
+    – Prompt B: “quiet morning in bed: two faces close, exchanging shy grin, low-contrast shadows, thin curtain diffusion”
+    – No text
+
+    Slide 7 – Verse 2 wide/detail
+    – Storyboard: Top-down of entwined legs under duvet, golden light pooling.
+    – Prompt A: “overhead shot of couple’s legs tangled under cream duvet, pale peach and sage tones, morning light patch”
+    – Prompt B: “top view of bare legs intertwined on rumpled sheets, soft pastel palette, subtle grain”
+    – Lyric overlay (bottom, small): “En voi lopettaa kun mä rakastun”
+
+    Slide 8 – Verse 2 movement
+    – Storyboard: Handheld follow-cam as she slips out of bed, peeks into hallway.
+    – Prompt A: “handheld vertical shot: woman stepping out of bed, peeks into dim wood-paneled hallway, natural morning light, slight motion blur”
+    – Prompt B: “POV behind woman as she leaves bed and looks down rustic corridor, soft film texture, pastel haze”
+    – No text
+
+    Slide 9 – Chorus 1 repeat nature
+    – Storyboard: Dolly-in on couple walking barefoot through dew-covered grass.
+    – Prompt A: “vertical shot of barefoot couple walking hand-in-hand through dewy meadow, golden-hour rim light, mist rising, soft pastels”
+    – Prompt B: “intimate portrait-style of two silhouettes strolling across wet grass, backlit, slight lens flare, muted palette”
+    – Lyric overlay (center): “Munista tie sin, kun heräsin taas.”
+
+    Slide 10 – Chorus 1 nature flourish
+    – Storyboard: Speed-ramp into slow-mo as she twirls beneath golden-leafed tree.
+    – Prompt A: “half-speed shot of woman spinning under sun-lit autumn tree, pinkish backlight flare, dreamy film grain”
+    – Prompt B: “slow-motion dance in meadow: woman twirling under glowing leaves, warm pastel hues, 9:16”
+    – No text
+
+    Slide 11 – Chorus 2 female focus
+    – Storyboard: Close side-profile of her humming to camera, he laughs off-screen.
+    – Prompt A: “vertical close side profile of woman softly singing to camera, warm rim light on hair, slight grain, de-saturated pastels”
+    – Prompt B: “intimate portrait: woman’s side face illuminated by fairy lights, man’s blurred laugh behind, soft focus”
+    – Lyric overlay (bottom): “Märkiä mietin, päälleni piirsin”
+
+    Slide 12 – Bridge quick-cuts
+    – Storyboard: Triptych of three jump-cuts: 1) boots on wooden floor, 2) hand on cottage door handle, 3) stepping outside into mist.
+    – Prompt A1: “close shot of laced boots on warm wood floor, pastel light spill”
+    – Prompt A2: “hand grasping aged door handle, soft morning light, slight lens flare”
+    – Prompt A3: “foot stepping onto dewy grass outside cottage, misty background”
+    – Prompt B sequence: similar ideas with more pinkish backlight flare.
+    – Text (cut to black): “Moikka, ootsä ollut täällä kauan?”
+
+    Slide 13 – Final Chorus / Outro
+    – Storyboard: Long take silhouette of couple kissing in front of window, light slowly fades.
+    – Prompt A: “silhouetted couple kissing at backlit cottage window, warm golden fade-out, soft film grain, vertical frame”
+    – Prompt B: “romantic silhouette embrace against glowing windowpane, pastel sunrise tones, subtle lens glare”
+    – Lyric overlay (center, fade-out): “Aamuisin, sua mä mietin.”
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Delivery tips recap:
+• Hook first 3 s with Slide 1 close-up.
+• Keep cuts beat-matched to guitar arpeggios.
+• Use slight slow-mo on chorus hits.
+• Leave safe margins top/bottom for UI/captions.
+• Export vertical H.264 @25–30 fps.
+
+
+
+>>>>
+mies laulaa jalustalliseen mikrofoniin olohuoneessa, jossa on sohva, tv, sisäkasveja ja ikkuna. On kirkas aamu.
+
+naislaulaja laulaa jalustalliseen mikrofoniin keittiössä. Keittiössä on ruokapöytä, tiskiallas, kaappeja, sisäkasveja, liesi, kahvinkeitin. On kirkas aamu
+
+mies laulaa mikrofoniin autoa ajaessaan. mikrofoni peittää suun liikkeet. On kirkas aamu. Kamera on suoraan edestä etulasin läpi
+
+Kurkku ja kaksi tomaattia seksuaalisesti vihjailevasti keittiön pöydällä. Keittiössä on ruokapöytä, tiskiallas, kaappeja, sisäkasveja, liesi, kahvinkeitin. On kirkas aamu
+
+An exaggerated storm and heavy rain, in which a man walks with a large (1-2 meters large) heart-shaped red pillow through the city amidst people and cars.
+
+mies ja nainen makoilevat vierekkäin pariskuntana nurmikolla rankkasateessa. he ovat kasvot kohti taivasta
+
+
+>>>>
+
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on päivä 19 ja myös 19. kappale.
+On menossa vuoden 2005 sävellys, jolloin olin 15 vuotias.
+Soitin tätä myöhemmin tyttöystävälleni ja hän tykkäsi tästä kappaleesta erityisesti, joten en voinut olla jättämättä pois romantiikkaa musiikkivideosta.
+Tämä on hyvin alkuperäinen kappale sävellykseltään, ja sanoitukset on tehty vuonna 2022.
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä.
+Video on tehty Sora AI:lla.
+Editoin videon itse käsin.
+
+
+<<<<
+#19 - Julkaisen vanhoja kappaleitani biisi päivässä 🎶
+
+23.9.2022 · Aamuisin 🌅
+• Sävellys 2005 (15-v) • Sanat 2022
+• 100 % käsin sävelletty, sanoitettu & sovitettu • Remix @suno.ai • Video @sora.ai
+• Edit: itse
+
+#Aamuisin #SuomiPop #Melankolia #DIYMusic #AIremix #SoroAI
+
+<<<<
+Julkaisen vanhoja kappaleitani – 1 biisi päivässä 🎶
+Päivä 19: “Aamuisin”
+23.9.2022 • Sävellys 2005 (15-v) • Sanoitukset 2022
+
+Tämän soitin aikoinaan tyttöystävälleni – romantiikkaa ei puutu videosta! 💘
+
+🎸 Akustinen kitara
+🎹 Pad-keyboard   🥁 Rummut   🎸 Basso
+👩‍🎤 & 👨‍🎤 Duo-vokaalit
+🖤 Mollisävyt, keskitempo, melankolinen pop
+🔄 Remix @suno.ai   🎥 Video @sora.ai   ✂️ Edit: itse
+
+👍 Tykkää • 💬 Kommentoi • ↪️ Jaa fiiliksesi!
+
+#Aamuisin #SuomiPop #Melankolia #DIYMusic #AIremix #SoraAI #HandmadeMusic

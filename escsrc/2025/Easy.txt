@@ -214,3 +214,214 @@ Simplify condensed inspiration text to marketing slogans
 • Kohtaa hetki, luo uusi muisto
 • Painu radion rajojen ulkopuolelle
 • Vapaus on valinta
+
+
+
+
+<<<<
+Style Template for “Vanha sävel” Music Video
+
+Theme
+• 3D cel-shaded cartoon with a retro-futuristic festival vibe
+• Emphasis on friendship, nostalgia, youthful energy
+
+Color Palette
+• Base: warm pastels (peach, mint, lavender)
+• Accent neons: electric pink, cyan, sunflower yellow
+• Subtle gradient skies (dusk → dawn tones) to echo the song’s major-key optimism
+
+Character Design
+• Ages 6–18, diverse body types and skin tones
+• Rounded, simplified features and big, expressive eyes
+• Festival outfits: playful streetwear with light-up accessories, glow-sticks, fanny packs
+
+Environment
+• Stylized festival grounds: colorful tents, ferris wheel, food trucks, stage with oversized speakers
+• Stylized vehicles: boxy buses and vans in matching pastel/neon livery
+• Background crowd simplified into modular “party units” for energy without clutter
+
+Animation Style
+• 3D with thick black outlines and flat shading (cel-shaded)
+• Exaggerated but smooth character motions (e.g. bouncy walk cycles, overshoot & squash)
+• Beat-driven cuts & camera cues synced to drum/snare hits and synth stabs
+
+Camera & Framing
+• Dynamic, handheld-style camera moves in 3D space (e.g. swooping through tents, tracking on roller coasters)
+• Occasional split-screen or comic-panel wipes in rap verses to highlight conversational lyrics
+• Low-angle hero shots for chorus performances on stage
+
+Lighting
+• High-key overall with stylized lens flares on neon elements
+• Colored spot-lights in chorus scenes (pink, blue, yellow) to amplify reverb-drenched vocal lines
+• Soft, warm backlight during sunset shots for nostalgia
+
+Visual Identity & Effects
+• Subtle film-grain or “scanline” overlay on choruses to suggest a retro music-video feel
+• Simple particle effects: confetti, glowing dust motes in the bridge/outro
+• Pop-up lyric cards in rap verses with hand-drawn font style
+
+Vibe & Story Flow
+
+    Intro (male vocal): Montage of tickets, bus packing, character close-ups—gentle cuts, warm tones
+    Verse 1 (male rap): Split-screen dialogues, city→countryside transit, playful gestures
+    Pre-chorus → Chorus: Burst of color; characters arrive, cut to stage build-up, crowd cheering
+    Verse 2 (male rap): Festival interior: line by the porta-loo, friends posing for pics, quick pans
+    Bridge (male singing): Slow-mo group hug, subtle particle glow, introspective close-ups
+    Final Chorus/Outro: Full festival stage performance, confetti canon, fireworks, wide pull-back on happy crowd
+
+Frame Rate & Rendering
+• 24 fps for a “cinematic-cartoon” feel
+• Render with clean pass & post-composited bloom/glow on neon elements
+
+Vibe Keywords
+Energetic, warm, nostalgic, playful, youth-friendly, festival fun.
+
+
+
+<<<<
+Below on tässä ehdotus noin 12 kohtauksesta (slideshow-tyyliin) musiikkivideon storyboardiksi. Joka kohtaukseen on kolme vaihtoehtoista kuva-generaattoripromptia. Valitse myöhemmin videoeditorissa lopulliset vaihtoehdot ja ajoitus!
+
+    Kohtaus 1: Otsikkoruutu
+    – Sisältö: “Vanha sävel” -teksti, taustalla värikäs festarialue kauempaa.
+    – Kesto: 3 s
+    – Kamera: Hidas zoom utuisesta festarikentästä kohti tekstiä.
+    – Tyyli: Retro-cartoon, vahvat värit, kevyt filmikohina.
+    Prompts:
+    A) “Retro-cartoon style festival landscape at dusk, bold 3D-lettering ‘Vanha sävel’ floating center, vibrant pastel sky, cel-shaded.”
+    B) “3D-animation-like festival field seen from distance, misty purple sky, big bright title ‘Vanha sävel’ in front, cartoon texture.”
+    C) “Cartoonish poster style, stylized festival stages and tents far away, central neon sign reading ‘Vanha sävel’, warm color palette.”
+
+    Kohtaus 2: Lipunosto
+    – Sisältö: Nuori tyttö ja poika ostavat lippuja tiskiltä, hymyilevät.
+    – Kesto: 4 s
+    – Kamera: Sivukuva, vaikuttava lähikuva lippupisteestä.
+    – Tyyli: Selkeät hahmot, yksinkertaiset puhtaiden värilaikut.
+    Prompts:
+    A) “Cartoon style kids buying festival tickets at booth, smiling cashier, bright flat colors, simple shapes.”
+    B) “3D-animation like scene, two friends exchange cash for wristbands at festival entrance, stylized characters.”
+    C) “Retro-cartoonish festival ticket queue, cheerful boy and girl, bold outlines, warm pastel palette.”
+
+    Kohtaus 3: Matka festareille
+    – Sisältö: Nuorten porukka värikkäässä pikkubussissa tai pyörillä, naurua ja huisketta.
+    – Kesto: 5 s
+    – Kamera: Ulkoa bussin sivukuva, hahmot vilkuttavat ikkunoista.
+    – Tyyli: Liikettä korostava sarjakuvamainen efektein.
+    Prompts:
+    A) “Cartoon bus full of smiling teens driving on winding road, bright sun, dynamic motion lines, cel-shaded.”
+    B) “3D-retro style van with friends waving out windows, vibrant countryside passing by, simple stylized forms.”
+    C) “Retro-cartoonish road trip, group of youngsters in colorful mini bus, exaggerated expressions, flat but vivid colors.”
+
+    Kohtaus 4: Festivaaliportti ja rannekkeet
+    – Sisältö: Tunnistettava, suuri porttimainos, lipun skannaus, ranneke käteen.
+    – Kesto: 3 s
+    – Kamera: Lähikuva rannekkeesta, portista taustalla.
+    – Tyyli: Koristelunauhat ja lamput tyyliin pixel-art meets cartoon.
+    Prompts:
+    A) “Close-up cartoon hand receiving neon wristband at festival gate, stylized lights overhead, flat bold colors.”
+    B) “3D-animation-like festival entrance, wristband being clasped on, background marquee glowing, cel-shaded.”
+    C) “Retro-cartoon style close-up of ticket scanner and neon festival bracelet, simple shading, energetic vibe.”
+
+    Kohtaus 5: Avoin festivaalikenttä
+    – Sisältö: Panoraama lava-alueesta, jengiä edessä, banderollerit liehuvat.
+    – Kesto: 4 s
+    – Kamera: Hiukan korkeammalta ja etäältä, laaja näkymä.
+    – Tyyli: Värikkäät katosjutut, karkeampi piirrostyyli.
+    Prompts:
+    A) “Wide cartoon-ish festival field with stage in distance, crowds milling, flags flying, bright midday.”
+    B) “3D-animation-like panorama of festival grounds, colorful tents and laser beams, simple geometry.”
+    C) “Retro-cartoon festival vista, stylized crowd and stage, pastel sky, bold outlines.”
+
+    Kohtaus 6: Tanssiin heittäytyminen
+    – Sisältö: Pääpari ja ystävät heiluvat musiikin tahtiin, kädet ilmassa.
+    – Kesto: 5 s
+    – Kamera: Hitaasti lähestyvä close-up kasvoihin ja käsiin.
+    – Tyyli: Nopea leikkaus, energian korostus väripyrähdyksin.
+    Prompts:
+    A) “Cartoon friends dancing energetically at festival, colorful burst effects, cel-shaded bright colors.”
+    B) “3D-animation-like group dance shot, camera pushes in, dynamic lighting, stylized characters.”
+    C) “Retro-cartoonish dancing teens, exaggerated movements, confetti particles, simple flat palette.”
+
+    Kohtaus 7: Nostalginen flashback
+    – Sisältö: Lapsuusmuisto: nuori laulaja piirtää radion ja tanssii kotihuoneessaan.
+    – Kesto: 4 s
+    – Kamera: Unenomainen haalistettu pehmeäreunainen rajaus.
+    – Tyyli: Vesivärimäinen, pehmeät pastellit.
+    Prompts:
+    A) “Soft watercolor cartoon kid dancing to radio in bedroom, dreamy edges, pastel tones.”
+    B) “3D-animation style flashback with child listening radio, gentle blur, warm light.”
+    C) “Retro-cartoonish nostalgic scene, little girl bops to radio in her room, muted pastels, soft vignette.”
+
+    Kohtaus 8: Crowdflow-efekti
+    – Sisältö: Leikkaus useista festarivierailijoista: hype, kädet nyrkissä.
+    – Kesto: 3 s
+    – Kamera: Nopea montage eri hahmoista.
+    – Tyyli: Pop-art-viivat, korkeakontrastiset värilaidat.
+    Prompts:
+    A) “High-contrast pop-art style montage of festival-goers cheering, thick outlines, bright blocks.”
+    B) “3D-retro cartoon crowd collage, fast cuts, stylized exaggerated expressions.”
+    C) “Retro-cartoonish hype montage, multiple faces in boxes, vivid primary colors.”
+
+    Kohtaus 9: Rappauskohtaus
+    – Sisältö: Poika räppää mikrofonin edessä, taustalla graffitimainen lava.
+    – Kesto: 5 s
+    – Kamera: Pienempiä zoomauksia rytmissä.
+    – Tyyli: Graffiti meets cartoon 3D.
+    Prompts:
+    A) “Cartoon boy rapping on festival stage, spraypaint graffiti backdrop, neon highlights.”
+    B) “3D-animation-like rapper close-up, mic in hand, dynamic lighting, stylized background.”
+    C) “Retro-cartoon stage with graffiti walls, teen spits lyrics into microphone, bold outlines.”
+
+    Kohtaus 10: Huoli ja sovinto
+    – Sisältö: Joku melkein kaatuu, toinen sanoo “sori”, lopuksi halaus.
+    – Kesto: 4 s
+    – Kamera: Kaksi-shot, ensin horjahtaa, sitten halaus.
+    – Tyyli: Pehmeä piirroslinja, lämmin värimaailma.
+    Prompts:
+    A) “Cartoon two friends at festival, one stumbles, other catches and apologizes, soft warm colors.”
+    B) “3D-animation-like moment, slight trip in crowd, handshake apology then hug, gentle lighting.”
+    C) “Retro-cartoonish caring scene, teen falls, friend says sorry, heartfelt embrace, pastel tones.”
+
+    Kohtaus 11: Yhteisdisko
+    – Sisältö: Yleisö laulaa ja kehää pitelee, sisarusmaista tunnelmaa.
+    – Kesto: 5 s
+    – Kamera: 360° kierto pienen ihmismuodostelman ympärillä.
+    – Tyyli: Kirkas strobovaloefekti, yksinkertaiset hahmot.
+    Prompts:
+    A) “Cartoon friends circle dancing under strobe lights, vibrant colors, stylized figures.”
+    B) “3D-animation-like group sing-along, camera spins around, neon lighting, cel-shaded.”
+    C) “Retro-cartoonish crowd forming circle, hands joined, bright flashing stage lights, flat shading.”
+
+    Kohtaus 12: Outro ja hyvästit
+    – Sisältö: Ilotulitus taivaalla, teksti “vielä kerran kuunnellaan se” fade-out.
+    – Kesto: 6 s
+    – Kamera: Nouseva shot kohti taivasta, teksti ilmassa.
+    – Tyyli: Juhlava, glitterefektit.
+    Prompts:
+    A) “Cartoon fireworks over festival at night, golden text ‘vielä kerran kuunnellaan se’ fading out, sparkles.”
+    B) “3D-animation-like evening sky with fireworks, floating lyrics text, soft glow, stylized sky.”
+    C) “Retro-cartoonish finale, colorful pyrotechnics, centered lyrics in neon bubble letters, dark backdrop.”
+
+––––––––––––––––––––––––––––––––––––––––––––––––
+Käytä näitä diaesityksiä pohjana: videoleikkaaja voi sijoittaa ne haluamaansa järjestykseen, säätää ajoitusta ja valita kuhunkin kohtaukseen sopivimman promptin!
+
+
+>>>>
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on päivä 18.
+On menossa vuoden 2005 sävellys, jolloin olin 15 vuotias.
+Tämä on hyvin alkuperäinen kappale sävellykseltään, mutta sanoitukset tein vasta tänään.
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä.
+Video on tehty Sora AI:lla.
+Editoin videon itse käsin.
+
+Lyrics:
+
+<<<<
+Julkaisen vanhoja itse säveltämiä ja sanoittamiani biisejä – yksi päivässä!
+Päivä 18: “Vanha sävel” vuodelta 2005 (15-vuotiaana säveltämäni), uudet sanoitukset 2025.
+Remix Suno AI:lla, video Sora AI:lla, editoinnin tein itse käsin. 🎹✨
+
+Kuuntele ja kerro, herättikö nostalgiaa? 💭
+
+#VanhaSävel #Päivä18 #EDMpop #RetroVibes #SunoAI #SoraAI #Kotimainen #Musiikki
+
