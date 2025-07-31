@@ -1,0 +1,466 @@
+Style:
+A Finnish rock song with a driving tempo of 110 BPM,
+The instrumentation features a distorted electric guitar playing a prominent riff,
+a bass guitar providing a solid low end, and a drum kit with a strong kick and snare,
+The male and female vocalists sings with a clean, slightly melancholic tone, occasionally using a spoken word delivery,
+The song structure follows a typical verse-chorus format with an instrumental break,
+Production elements include a clear mix with the vocals upfront, and a subtle reverb on the guitar and vocals
+
+Title: Talviyö
+
+[Verse 1, male singing]
+Kovin hämärää ja niin kylmää, kun
+nään sut itkevän. 
+Kovin synkkää, ikävää. 
+Kun oven kiinni paiskaat.
+
+[Prechorus 1, male and female alternating]
+(female) En sua kestä enää. 
+(male) Illan pilaat.
+(female) Oot aivan vitun törkeä.
+(male) Enhän se mää
+(female) Mun täytyy lähteä.
+(male) tahtonut tätä
+(female) Aivan sama mihin päädynkään.
+(male) mä sanoin vain.
+
+[Chorus, female singing]
+Kirkas kylmä talviyö
+vie mut pois.
+Polku löytyy viel kuun valossa
+parempi vois mulla olla siel 
+missä häärää ei julma mies, 
+missä hengittää voi.
+
+[Verse 2, female singing]
+Ei tää parane.
+Nää mun illat on pilal kun sut nään. 
+En sua vieres siedäkkään 
+ja hampait purren naidaan.
+
+[Prechorus 2, male and female alternating]
+(male) Oonhan se mä
+(female) Oot aivan vitun törkeä.
+(male) työs tärkeäs.
+(female) Mun täytyy lähteä.
+(male) Täytyy tää vielä
+(female) Aivan sama mihin päädynkään.
+(male) sun ymmärtää.
+
+[Chorus, female singing]
+Kirkas kylmä talviyö
+vie mut pois.
+Polku löytyy viel kuun valossa
+parempi vois mulla olla siel 
+missä häärää ei julma mies, 
+missä hengittää voi.
+
+[Bridge, male singing]
+Voidaan sopii kaikki
+kun tuut takas.
+Sä varmaan ihailet
+taas revon tulia 
+tai mitä lie.
+
+[Chorus, female singing]
+Kirkas kylmä talviyö
+vie mut pois.
+Polku löytyy viel kuun valossa
+parempi vois mulla olla siel 
+missä häärää ei julma mies, 
+missä hengittää voi.
+
+[Chorus, female singing]
+Kirkas kylmä talviyö
+vie mut pois.
+Polku löytyy viel kuun valossa
+parempi vois mulla olla siel 
+missä häärää ei julma mies, 
+missä hengittää voi.
+
+[Ending, male talks]
+Hä?
+
+
+
+>>>>
+Idea for video:
+A drama set on an old-fashioned and traditional farm in Finland. It is midwinter and a cloudless night and the moon is shining. This is a time before cars. The woman has traveled by reindeer and reindeer sleigh. There have been no horses on the farm. Lappish clothing is not excluded, but preferably only old 19th century peasant clothing from Northern Ostrobothnia.
+A woman and a man are arguing and the woman runs out. She takes the reindeer and rides it like a horse along the path. The video ends when the woman sees a looming coastal town and its lights.
+
+
+<<<<
+Theme: Midnight Winter Drama on a 19th-Century Finnish Farm
+
+Visual Style
+• Color palette: desaturated cold blues and silvery whites, subtle warm amber glows for interiors.
+• Contrast: moderate—moonlit exteriors are crisp and high-contrast; indoor candle or lantern light is soft and low-key.
+• Film look: simulated 35 mm/16 mm black-and-white or very low-saturation color with light grain (Kodak Vision3 500T or Tri-X feel).
+• Camera:
+– Wide-angle and medium lenses (24 mm, 50 mm) for landscape and medium shots; occasional 85 mm tight shot for emotional close-ups.
+– Gentle dolly or Steadicam moves to track the sleigh; static tripod or handheld for tense dialogue.
+• Lighting:
+– Exteriors: single “moon” key (off-camera cool LED) with a subtle fill from ground-level “snow bounce.”
+– Interiors: practical candle/lantern lamps, flickering and uneven, deep shadows.
+• Textures: visible breath in cold air, falling snow, frost on windows.
+
+Shot Sequence & Blocking
+
+    Establishing farm under full moon—long wide shot, faint barn silhouette, frozen field.
+    Interior argument—two-shot over-the-shoulder, low candlelight, tense framing.
+    Woman storms out—tracking shot from behind, lantern glow fading.
+    Reindeer harnessed—close-up on traditional 19th-century peasant tack, visible leather and fur textures.
+    Sleigh departure—side dolly as reindeer gallops along snowy track, sparks of snow spray.
+    Rider POV—pull focus between moonlit trees and distant shoreline lights.
+    Finale reveal—slow zoom or crane up to show coastal town lights twinkling on horizon.
+
+Costume & Production Design
+• Clothing: Northern Ostrobothnian peasant wear, muted wool, linen; layered skirts and bodices for her, simple tunic and trousers for him. No horses, only reindeer tack.
+• Props: wooden sled, hand-hewn sled runners; primitive farm tools; oil lanterns and candles.
+
+Audio & Music Integration
+• Song title: “Talviyö”
+• Tempo: 110 BPM, steady driving groove.
+• Instruments: distorted electric guitar riff up front, solid electric bass, punchy kick/snare drum pattern.
+• Vocals: male and female alternating clean, slightly melancholic delivery; occasional spoken-word lines.
+• Structure: verse–prechorus–chorus format with an instrumental break over the sleigh ride.
+• Production: clear mix—vocals up in front, guitar and drums wide-panned, subtle plate reverb on guitar and vocals for space.
+• Sync points:
+– Verse 1 as argument builds inside.
+– Prechorus as the woman storms out.
+– Chorus launches as she rides away under moonlight.
+– Instrumental break during the galloping reindeer sequence.
+– Final chorus as the town lights come into view.
+– Spoken “Hä?” line over a cut to black or a final lingering shot of her silhouette.
+
+Vibe & Emotional Arc
+• Opening: claustrophobic tension, cold interior heat of conflict.
+• Middle: exhilaration and desperation in the ride through the silent forest.
+• Ending: bittersweet hope—town lights symbolize escape and new possibility.
+
+
+<<<<
+Seuraavassa on ehdotus musiikkivideon slideshow-screenplayksi ja rinnakkain kuva-generaattorille sopivat tekstit (englanniksi, jotta tekoälymalli ymmärtää). Jokaisesta pääkohtauksesta on 2–3 vaihtoehtoista promptia, jotta videoeditori voi valita parhaiten sopivan.
+
+    Dia 1: Farm Under Full Moon
+    • Kesto: n. 6 s (Verse 1 intro)
+    • Kuvaus: Laaja maisema vanhasta pohjoispohjalaisesta tilasta, kuutamo pilvettömällä taivaalla, syvä lumipeite.
+    • Shot: staattinen, 24 mm laajakulma
+    • Tunnelma: hiljainen, kylmä, aavistuksen uhkaava
+    • Prompt-vaihtoehdot:
+        “A 19th-century Finnish farmstead under a bright full moon, snow-covered fields, crisp cold air, desaturated blue-white palette, subtle grain, traditional wooden buildings”
+        “Moonlit Northern Ostrobothnian farm in midwinter, cloudless sky, frozen landscape, low-saturation color, visible breath of wind, soft snow glow”
+
+    Dia 2: Interior Argument
+    • Kesto: n. 8 s (Verse 1)
+    • Kuvaus: Matala candlelight, pariskunta käsittelemässä riitaa vanhan hirsimökin pirttipöydän ääressä.
+    • Shot: over-the-shoulder two-shot 50 mm, kevyesti käsivaralla tremolo
+    • Tunnelma: ahdistava, intiimi varjoleikki
+    • Prompt-vaihtoehdot:
+        “Inside a rustic 19th-century Finnish log cottage, a peasant man and woman arguing by candlelight, deep shadows, woolen clothing, amber glow”
+        “Traditional Northern Ostrobothnian interior, low lantern light, tense couple at wooden table, muted earthy tones, visible breath in cold air”
+
+    Dia 3: Close-up Hands on Table
+    • Kesto: n. 4 s (Verse 1 loppu – ovien paukahdus)
+    • Kuvaus: Naisen ja miehen kädet puristuvat pöydällä, lunta tupruttaa ikkunan läpi, valo hiipuu.
+    • Shot: tight 85 mm, staattinen
+    • Tunnelma: jännite kasvaa
+    • Prompt-vaihtoehdot:
+        “Close-up of two rough hands on a wooden table, candle flame flickering, frost on windowpane, cold breath, 19th-century peasant clothing sleeves visible”
+        “Hands clenching on a rustic table edge, soft amber light, snowy window background, tense mood, shallow depth of field”
+
+    Dia 4: Woman Storms Out
+    • Kesto: n. 5 s (Prechorus alkupuoli)
+    • Kuvaus: Taustavalaistu siluetti pirtin oviaukossa, nainen harppoo ulos lumiseen pihamaahan.
+    • Shot: tracking dolly, medium 50 mm
+    • Tunnelma: dramaattinen, ratkaiseva hetki
+    • Prompt-vaihtoehdot:
+        “Silhouette of a 19th-century peasant woman storming out of a wooden farm cottage at night, lantern light behind her, snow on ground, cold blue tint”
+        “Backlit figure of a peasant woman in wool skirt stepping into a snowy yard, door frame glowing candlelight, moon high overhead”
+
+    Dia 5: Reindeer Harness Close-up
+    • Kesto: n. 5 s (Prechorus loppu)
+    • Kuvaus: Perinteinen poronsarvista tehty valjas, nahkaa ja turkista, naisen käsi kiinnittää remmiä.
+    • Shot: close-up 85 mm
+    • Tunnelma: autenttinen, käsityö, klik – rattaat lähtevät liikkeelle
+    • Prompt-vaihtoehdot:
+        “Close-up of 19th-century Finnish reindeer harness, leather straps and fur, hand fastening buckle, cold glint on metal”
+        “Traditional Northern Ostrobothnian reindeer tack, detailed leather and fur textures, woman’s gloved hand adjusting strap, soft moonlight”
+
+    Dia 6: Sleigh Departure
+    • Kesto: n. 7 s (Chorus alku)
+    • Kuvaus: Sivuprofiilissa poro laukkaa kohti metsän reunaa, lumisuihkuja silmien edessä, ladun reunat kuun valossa.
+    • Shot: dolly seuranta, 24 mm leveä tai Steadicam
+    • Tunnelma: vapaus, jännitys, vauhti
+    • Prompt-vaihtoehdot:
+        “Side view of a reindeer pulling a sleigh through moonlit snow track, flying snow spray, dark pine trees on both sides, cinematic grain”
+        “19th-century sleigh ride at night, reindeer galloping, cold air mist, silver-blue palette, dynamic motion blur”
+
+    Dia 7: Rider POV Pull-Focus
+    • Kesto: n. 6 s (Instrumental break)
+    • Kuvaus: Naisen perspektiivistä, kuun valaisemat puut etualalla, kaukana rannikon valot teräviin, fokus vaihtuu.
+    • Shot: POV 50 mm, pull-focus
+    • Tunnelma: toiveikas, haikea
+    • Prompt-vaihtoehdot:
+        “POV of a rider on a sleigh through a snowy forest at night, moonlit tree trunks in foreground, distant twinkling coastal town lights on horizon”
+        “First-person sleigh view under full moon, pine forest framing, soft focus shift to faint town lights far ahead, cold tone”
+
+    Dia 8: Finale Reveal – Coastal Town Lights
+    • Kesto: n. 8 s (Final chorus)
+    • Kuvaus: Hidas zoom-out tai kranaattikuva: kaukana merenrannalla vilkkuvat talojen valot, kuu heijastuu jäiselle pinnalle.
+    • Shot: crane/slow zoom, 24 mm
+    • Tunnelma: katarsis, toivo ja haikeus
+    • Prompt-vaihtoehdot:
+        “Wide shot of a small Finnish coastal town at night from snowy ridge, twinkling lights, frozen sea reflecting moon, desaturated colors”
+        “Moonlit seaside village in 19th-century Finland, distant glowing windows, icy shore, long lens with slight grain”
+
+Lisäksi kolme lisävaihtoehtoista leikkauskuvaa valittavaksi:
+
+A. Dia A: Frosted Window Pane
+“Frost patterns on a cottage window, candlelight glow behind, ice crystals, vintage film grain”
+
+B. Dia B: Woman’s Silhouette in Forest
+“Silhouette of a peasant woman on sleigh between tall pine trees, moonlight filtering through branches, eerie mood”
+
+C. Dia C: Snowy Footprints Trail
+“Fresh footprints in deep snow leading into forest, moonlit, crisp shadows, desaturated tones, subtle texture”
+
+Käyttö: editori voi valita kuhunkin kohtaukseen minkä promptin toteuttaa tai yhdistellä kuvauksia. Jokaisen dian kesto ja synkronointi on merkitty niin, että ne vastaavat kappaleen rakennetta (verse, prechorus, chorus, instrumental break, finale).
+
+<<<<
+Lisätään kolme uutta skeneä samaan formaattiin, käytiinkin läpi kesto, kuvaus, shot-tyyppi ja kaksi vaihtoehtoista englanninkielistä promptia tekoälykuvageneraattorille.
+
+Dia 9: Woman Slams the Door
+• Kesto: n. 4 s (pre–/post-argument)
+• Kuvaus: Nainen paiskaa raskaan hirsimökin oven kiinni, takana kimaltava lumipiha ja kuutamo.
+• Shot: medium close-up (50 mm), staattinen tai kevyt dutch tilt korostamaan draamaa
+• Tunnelma: räjähtävä, katkaiseva hetki
+• Prompt-vaihtoehdot:
+
+    “19th-century Finnish peasant woman in wool skirt slamming a heavy wooden cabin door at night, lantern glow behind, snow visible outside, cold blue tint, subtle film grain”
+    “Rustic log cottage door slammed shut by a traditional Northern Ostrobothnian woman under a full moon, candlelight flicker through cracks, dramatic shadows”
+
+Dia 10: Man Looks with Disgust and Accusation
+• Kesto: n. 6 s (Prechorus / Verse 2)
+• Kuvaus: Mies katsoo naista syyttävästi ja inhoten, hänen kasvoillaan huokuu pettymys ja viha.
+• Shot: tight close-up (85 mm), over-the-shoulder reverse, syvä varjoleikki
+• Tunnelma: kylmä syyttäminen, tunteet pinnassa
+• Prompt-vaihtoehdot:
+
+    “Close-up of a 19th-century Finnish peasant man’s face, eyes narrowed in disgust and accusation, candlelit interior, harsh shadows, muted color palette”
+    “Peasant man in traditional Northern Ostrobothnia clothing looking at someone with contempt, low lantern light, visible breath, high contrast”
+
+Dia 11: Split Screen – Crying Woman / Cruel Man
+• Kesto: n. 8 s (Prechorus loppu / bridge)
+• Kuvaus: Vasemmalla nainen itkee kyynelsilmin, hiukan taaksepäin kumartuneena, oikealla mies tuijottaa julmasti, kasvojen ilmeet korostuvat.
+• Shot: split screen, kumpikin 50–85 mm tight medium close-up, sama väritys ja valaisutyö
+• Tunnelma: kaksoisrealiteetti, konflikti visuaalisesti erotettuna
+• Prompt-vaihtoehdot:
+
+    “Split screen: left panel – 19th-century Finnish peasant woman crying by candlelight, tears glistening on cheeks; right panel – peasant man staring cruelly, harsh lantern shadows, cold color grading”
+    “Dual frame: left – sorrowful female peasant in wool, candlelit tears, soft focus; right – angry male peasant in tunic, accusing glare, deep shadows, film grain”
+
+Käyttö: editori voi sijoittaa nämä dianumeroiden mukaisesti argumenttikohtauksen ympärille, valita kuhunkin tilanteeseen parhaan promptin tai yhdistellä yksityiskohtia.
+
+<<<<
+Tässä runsaasti lisävaihtoehtoisia prompt-vaihtoehtoja kuhunkin aiemmin määriteltyyn diaan (1–11) sekä ekstra-dioihin A–C. Voit sekoitella kuvauksia tai valita sopivimmat:
+
+    Dia 1: Farm Under Full Moon
+    3) “Wide 19th-century Finnish farm courtyard under a full moon, frost on wooden fence, distant barn silhouette, subtle blue-gray color grade, light film grain”
+    4) “Panoramic snowy farmland with rustic log buildings, sparkling moonlight, pale silver shadows, hint of northern stars, vintage 16 mm look”
+
+    Dia 2: Interior Argument
+    3) “Dimly lit pine-wood interior, couple arguing across a rough-hewn table, lantern smoke haze, warm amber vs. cold window light contrast”
+    4) “Close medium shot of arguing peasant couple, braided woolen clothes, heavy shadow patterns on walls, barred window with drifting snow”
+
+    Dia 3: Close-up Hands on Table
+    3) “Extreme close-up of knuckles pressing into wood, candle flame reflection in a metal cup, icy breath misting, grainy monochrome feel”
+    4) “Hands gripping table edge so tight bark splits, flickering lantern light, soft bokeh snowflakes drifting by window”
+
+    Dia 4: Woman Storms Out
+    3) “Tracking rear shot of woman flinging open cabin door, halo of lantern light, swirling snow at her feet, moonlit yard beyond”
+    4) “Low-angle shot of woman’s silhouette bursting through doorway, snow flying, door frame shadows like prison bars”
+
+    Dia 5: Reindeer Harness Close-up
+    3) “Macro detail of carved antler and twisted hide rope, frost crystals on fur, hand tightening wooden toggles, cool shimmer”
+    4) “Leather straps embossed with simple floral carving, thick reindeer fur collar, woman’s hand in mittens fastening metal ring”
+
+    Dia 6: Sleigh Departure
+    3) “Slow-mo side silhouette of sleigh runners carving snow, flying white powder, pine forest blur, crisp moonlit outlines”
+    4) “Dynamic low shot almost at ground level, reindeer legs pounding snow, runner sparks, dark treeline receding”
+
+    Dia 7: Rider POV Pull-Focus
+    3) “First-person view of sleigh handle, sharp focus on fur-lined glove, soft focus shifts to moonlight through birch trunks”
+    4) “POV shot over deer’s back, nearest trees blurred, midframe path illuminated, distant town lights shimmering”
+
+    Dia 8: Finale Reveal – Coastal Town Lights
+    3) “Wide crane shot of frozen sea and ice floes reflecting moon, cluster of glowing windows on shoreline, mist rising”
+    4) “Long lens compression shot of seaside village lights, silhouetted hills, pale moon halo, soft wintry haze”
+
+    Dia 9: Woman Slams the Door
+    3) “Close 50 mm punch frame of door slamming, wood grain texture visible, shards of snow from doorstep, beat-cut style”
+    4) “Knee-high low angle on boot as door swings shut behind, copper lantern light spill, airborne snow crystals”
+
+    Dia 10: Man Looks with Disgust and Accusation
+
+    “Over-the-shoulder shot of man’s profile, lip curled, eye – iris catching candle flicker, deep chiaroscuro shadows”
+    “Tight side-on 85 mm of man’s face, nostrils flaring, furrowed brow, faint torchlight glint in his eyes”
+
+11. Dia 11: Split Screen – Crying Woman / Cruel Man
+
+    “Split: left – tears sliding down linen-petticoat collar; right – male scowl cast in lantern frame, both framed identically”
+    “Dual view: left panel shows tear-streaked cheek lit softly; right panel shows harsh jawline and accusing glare, same color grade”
+
+Ekstra-diat:
+
+A. Frosted Window Pane
+2 more:
+3) “Close shot of ice crystals etched in swirling patterns, pale moonlight behind, candlelight softly illuminating edges”
+4) “Macro of frosty glass with blurred firefly-like sparks from lantern inside, cold blue-white highlights”
+
+B. Woman’s Silhouette in Forest
+2 more:
+3) “Backlit sleigh silhouette gliding between tall pines, moonlight beams through branches, foggy undergrowth”
+4) “Elongated shadow of woman and sleigh crossing snowfield, stark black-white contrast, ghostly atmosphere”
+
+C. Snowy Footprints Trail
+2 more:
+3) “Series of deep footprints disappearing into dark wood, rim-lit by moon, delicate snow-drift patterns at edges”
+4) “Top-down view of boot prints, snow settled in sole grooves, pale blue shadows, organic fractal shapes”
+
+Näillä 40+ uudella promptilla saat paljon joustavuutta kuvageneraattorille ja editointiin!
+
+<<<<
+Alla lisää englanninkielisiä prompt‐vaihtoehtoja poroista, poroaitauksesta ja porojen heinänsyönnistä. Voit valita tai yhdistellä yksityiskohtia vapaasti.
+
+    Poroaitaus – laaja näkymä
+    a) “19th-century Finnish wooden reindeer pen in deep snow, rough-hewn logs, icy fence posts, pale moonlight, muted blue-gray palette, subtle film grain”
+    b) “Rustic log enclosure for reindeer on a traditional Northern Ostrobothnia farm, snow-packed ground, lanterns hanging on fence, soft shadows”
+    c) “Wide shot of reindeer corral at night, wooden stockade, flurries of falling snow, hazy moon glow, low-saturation color”
+
+    Poro aitauksessa – läheltä
+    a) “Close view of reindeer inside a wooden pen, thick fur coats, visible breath in cold air, snow dust on antlers, soft moonlight”
+    b) “Tight shot of a single reindeer peering through log rails, dark eyes reflecting lantern light, icy wood textures, muted tones”
+    c) “Reindeer herd pressing against fence rails, heavy winter coats, hay scattered on snow, cool blue-white film look”
+
+    Poro syö heinää – kylkikuva
+    a) “Side profile of a reindeer nibbling hay from a wooden trough, crisp snow on ground, leather harness hanging loose, low-key lighting”
+    b) “Reindeer head in close-up, mouth full of straw, delicate frost on muzzle hairs, warm lantern glow from behind, shallow depth”
+    c) “Medium shot of reindeer bending to eat hay in snow, wooden feeding rack, scattered straw, moody cold palette”
+
+    Poro syö heinää – ryhmäkuva
+    a) “Group of reindeer clustered around a rustic hayrack, munching straw in a snowy corral, pale moonlight and lanterns mixing, visible breath”
+    b) “Several reindeer feeding eagerly on hay bales inside wooden pen, snow-covered rails, flickering candle lanterns, grainy film texture”
+    c) “Herd of reindeer at night leaning over fence to eat hay, dark pine background, soft silver-blue lighting, natural fur detail”
+
+    Poro ja valjas aitauksen reunalla
+    a) “Harnessed reindeer standing by pen gate, leather and antler tack, snow-swept yard, moonlit frost on wood, subtle color grading”
+    b) “Reindeer tied at corral post, ornate 19th-century style harness, nearby hayloft shadow, cool ambient glow, soft film grain”
+    c) “Single reindeer in rustic pen corner, straps and bells visible, hay debris underfoot, quiet winter night atmosphere”
+
+    Heinätuuppaus ja talvinen tekstuuri
+    a) “Close-up of straw and hay in wooden trough, frost crystals on stalks, snowflakes drifting down, low-contrast blue-white tones”
+    b) “Hayline detail in snow-dusted feeder, coarse straw fibers, gentle lantern light spill, visible wood grain”
+    c) “Bundle of hay hanging from pen rail, icicles forming on edges, soft moonbeam illuminating golden straw”
+
+<<<<
+Tässä runsaasti uusia englanninkielisiä prompt-ideoita revontulista (Aurora Borealis), yhdistäen 19. vuosisadan pohjoispohjalaisen tilan tunnelman:
+
+    “Bright green and pink aurora dancing over a 19th-century Finnish farmstead, snow-covered log roofs, frosty pine silhouettes, soft film grain”
+    “Wide shot of swirling northern lights above a frozen lake and rustic hay barn, pale moonlight mingling with aurora hues, desaturated cold palette”
+    “Aurora borealis shimmering behind a reindeer pen, colorful waves reflecting on snow, rough-hewn wooden fence in foreground, subtle vignette”
+    “Backlit silhouette of peasant woman on sleigh, overhead aurora curtain in green and violet, tall pines framing scene, high-contrast night”
+    “Close-up of frost-patterned window with aurora glow filtering through, warm candlelight interior contrasts with emerald sky”
+    “Reindeer herd grazing under flickering aurora arch, straw and snow illuminated in shifting pastel light, muted film look”
+    “Long exposure effect of star trails and northern lights above a timber farm cabin, billowing smoke from chimney, cold blue-green tones”
+    “Reflection of dancing aurora on icy sea inlet behind coastal town lights, distant hills, faint moon halo, painterly grain”
+    “Dynamic overhead POV of sleigh path lit by aurora stripes, snow-dust kicked up by reindeer, dreamlike color shift”
+    “Northern lights framing jagged mountain horizon and traditional Finnish farm silo, dark silhouettes, subtle color grading”
+
+
+>>>>
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on päivä 21 ja myös 21. kappale.
+On menossa vuoden 2005 sävellys, jolloin olin 15 vuotias.
+Tämä on todella alkuperäinen sävellys, mutta sanat tein myöhemmin alkuperäisen ajatuksen perusteella.
+Sanoitukset on tehty vuonna 2021.
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä.
+Video on generoitu Sora AI:lla.
+Editoin videon itse käsin.
+
+<<<<
+Päivä 21🎶 “Talviyö” – mun 15-vuotiaana (2005) säveltämä biisi, sanoitukset 2021
+
+#Talviyö #FinnishRock #AIremix #OriginalMusic #DailySong #SunoAI #SoraAI #talvi #porot #poro
+
+<<<<
+🎸 Päivä 21 – “Talviyö” 🎶
+
+✨ Sävellys 2005 (15 v), sanoitukset 2021
+⏱110 BPM suomalainen rock: särökitarariffi, jämäkkä basso & rumpu 🥁
+🎤 Puhtaat, hieman kaihoisat mies- & naislaulut
+🔄 Musikaalista tappelua
+🎛 Remixattu Suno AI:lla 🤖
+🎥 Video generoituna Sora AI:lla, editointi käsin ✂️
+🖋 Kaikki 100% itse sävelletty, sanoitettu ja sovitettu
+
+Kuuntele, tallenna ja jaa – mikä kohta kolahtaa sinuun eniten? 💬❤️
+
+#Talviyö #SuomiRock #AIremix #OriginalMusic #DailySong #SunoAI #SoraAI #DIYMusic
+
+
+<<<<
+🎸 Day 21/21 – “Talviyö” 🎶
+
+✨ Sävellys 2005 (15 v), sanoitukset 2021
+⏱110 BPM suomalainen rock: särökitarariffi, jämäkkä basso & rumpu 🥁
+🎤 Puhtaat, hieman kaihoisat mies- & naiskuorot, puhesäkeet
+🔄 Perinteinen säkeistö–kertosäe–instrumentaalibreak
+🎛 Remixattu Suno AI:lla 🤖
+🎥 Video generoituna Sora AI:lla, editointi käsin ✂️
+🖋 Kaikki 100 % itse sävelletty, sanoitettu ja sovitettu
+
+Kuuntele, tallenna ja jaa – mikä kohta kolahtaa sinuun eniten? 💬❤️
+
+#Talviyö #SuomiRock #AIremix #OriginalMusic #DailySong #SunoAI #SoraAI #DIYMusic
+
+Ja youtube
+
+Title: Talviyö
+Day 21 of 21 • Daily Song Series
+
+Kappale “Talviyö” on yksi vanhimmista sävellyksistäni (2005, 15 v), sanoitukset täydensin 2021. Julkaisen joka päivä uuden vanhan biisin – tänään vuorossa 21. ja viimeinen osa!
+
+––––––––––––––––––––––––––––––––––––––––––––
+🎵 SONNIN TIEDOT
+• Tempo: 110 BPM
+• Genre: Suomalainen rock
+• Instrumentaatio: särökitarariffi, jämäkkä basso, rumpuketju (vahva kick & snare)
+• Laulu: mies- & naiskuoro, puhesäkeet, puhdas & hieman kaihoisa sointi
+• Rakenne: säkeistö → pre-chorus → kertosäe → soitin-break → silta → kaksoiskertosäe
+• Produ­ktion: selkeä miksaus, vocals edessä, kevyt kaiku kitarassa ja lauluissa
+
+📝 SANAT (lyhennelmä)
+Verse 1 (mies): “Kovin hämärää ja niin kylmää…”
+Prechorus (vuorotellen): “En sua kestä enää… Oot aivan vitun törkeä…”
+Chorus (nainen): “Kirkas kylmä talviyö vie mut pois…”
+Verse 2 (nainen)… Bridge (mies): “Voidaan sopii kaikki kun tuut takas…”
+Lopetus (mies puhuen): “Hä?”
+
+🎛️ TEKNINEN TOTEUTUS
+• Remix: Suno AI
+• Video: Sora AI-generaattori
+• Editointi & post-produktio: käsityönä minut toimesta
+
+––––––––––––––––––––––––––––––––––––––––––––
+Kiitos, kun kuuntelet!
+👍 Muista tykätä videosta
+💬 Kommentoi, mikä biisin rivi kosketti eniten
+🔔 Tilaa kanava, niin et missaa jatkossa uusia julkaisuja
+📲 Seuraa somessa:
+• Instagram: @spoko89_
+• TikTok: @locospoko
+• Spotify-soittolistat: linkki
+
+––––––––––––––––––––––––––––––––––––––––––––
+#Talviyö #SuomiRock #DailySong #AIremix #SunoAI #SoraAI #DIYMusic #OriginalComposition #FinnishRock
