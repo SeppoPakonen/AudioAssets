@@ -2,19 +2,29 @@
 
 using namespace Upp;
 
-CONSOLE_APP_MAIN
-{
-	{
-		QueryTable<String> qt;
+struct Songs {
+	QueryTable<String> qt;
+	Vector<String>* rl = 0;
+	Vector<String>* fa = 0;
+	Vector<String>* ly = 0;
+	Vector<String>* fad = 0;
+	Vector<String>* kids = 0;
+	Vector<String>* g = 0;
+	Vector<String>* st = 0;
+	
+	
+	Songs() {
+		rl   = &qt.AddPredictor("Rhyming level lyrics");
+		fa   = &qt.AddPredictor("X-Centric video");
+		ly   = &qt.AddPredictor("Lyrics as text");
+		fad  = &qt.AddPredictor("Fading sequences in video");
+		kids = &qt.AddPredictor("Youngest audience");
+		g    = &qt.AddPredictor("Gender");
+		st   = &qt.AddPredictor("Human strength");
 		
-		Vector<String>& rl = qt.AddPredictor("Rhyming level lyrics");
-		Vector<String>& fa = qt.AddPredictor("X-Centric video");
-		Vector<String>& ly = qt.AddPredictor("Lyrics as text");
-		Vector<String>& fad = qt.AddPredictor("Fading sequences in video");
-		Vector<String>& kids = qt.AddPredictor("Youngest audience");
-		Vector<String>& g = qt.AddPredictor("Gender");
+		/*
 		
-		/* Target value classes 4.8.2025:
+		Target value classes 4.8.2025:
 		
 		1: Around 3 hours
 		2: Around 2 hours
@@ -25,53 +35,50 @@ CONSOLE_APP_MAIN
 		qt.AddTargetScore("2", 4);
 		qt.AddTargetScore("3", 2);
 		qt.AddTargetScore("4", 1);
-		
-		// EP 23 "Sydämen varas"
-		rl.Add("End-ish");		fa.Add("Dating");		ly.Add("Text");			fad.Add("Cut");			kids.Add("Adults");		g.Add("Female");	qt.AddTargetValue("3");
-		
-		// EP 22 "Tahdon sut"
-		rl.Add("End-ish");		fa.Add("Dating");		ly.Add("Text");			fad.Add("Fade");		kids.Add("Kids");		g.Add("Both");		qt.AddTargetValue("3");
-		
-		// EP 21 "Talviyö"
-		rl.Add("End-ish");		fa.Add("Breakup");		ly.Add("Text");			fad.Add("Fade");		kids.Add("Adults");		g.Add("Both");		qt.AddTargetValue("4");
-		
-		// EP 20 "Puuma"
-		rl.Add("End-ish");		fa.Add("Dating");		ly.Add("Text");			fad.Add("Fade");		kids.Add("Adults");		g.Add("Male");		qt.AddTargetValue("3");
-		
-		// EP 19 "Aamuisin"
-		rl.Add("Begin & End");	fa.Add("Dating");		ly.Add("Text");			fad.Add("Fade");		kids.Add("Adults");		g.Add("Both");		qt.AddTargetValue("1");
-		
-		// EP 18 "Vanha sävel"
-		rl.Add("End-ish");		fa.Add("Party");		ly.Add("Audio only");	fad.Add("Fade");		kids.Add("Kids");		g.Add("Both");		qt.AddTargetValue("4");
-		
-		// EP 17 "Great escape"
-		rl.Add("End");			fa.Add("Breakup");		ly.Add("Audio only");	fad.Add("Fade");		kids.Add("Kids");		g.Add("Female");	qt.AddTargetValue("3");
-		
-		// EP 16 "Mennään jonnekkin kahdestaan"
-		rl.Add("End");			fa.Add("Dating");		ly.Add("Audio only");	fad.Add("Fade");		kids.Add("Kids");		g.Add("Both");		qt.AddTargetValue("2");
-		
-		// EP 15 "Laiva"
-		rl.Add("End");			fa.Add("Married");		ly.Add("Audio only");	fad.Add("Fade");		kids.Add("Kids");		g.Add("Male");		qt.AddTargetValue("3");
-		
-		// EP 14 "Mikä on"
-		rl.Add("End-ish");		fa.Add("Loneliness");	ly.Add("Audio only");	fad.Add("Fade");		kids.Add("Adults");		g.Add("Female");	qt.AddTargetValue("3");
-		
-		// EP 13 "Invincible"
-		rl.Add("End");			fa.Add("Empowerment");	ly.Add("Audio only");	fad.Add("Cut");			kids.Add("Adults");		g.Add("Female");	qt.AddTargetValue("3");
-		
-		// EP 12 "Girl I never had"
-		rl.Add("End-ish");		fa.Add("Loneliness");	ly.Add("Audio only");	fad.Add("Cut");			kids.Add("Adults");		g.Add("Male");		qt.AddTargetValue("4");
-		
-		// EP 11 "Pahuutta pahempaa"
-		rl.Add("End-ish");		fa.Add("Confusion");	ly.Add("Audio only");	fad.Add("Cut");			kids.Add("Adults");		g.Add("Female");	qt.AddTargetValue("3");
-		
-		// EP 10 "Mitä tapahtuu"
-		rl.Add("End-ish");		fa.Add("Confusion");	ly.Add("Audio only");	fad.Add("Cut");			kids.Add("Adults");		g.Add("Female");	qt.AddTargetValue("4");
-		
-		int i = qt.GetLargestInfoGainPredictor();
-		DUMP(i);
-		DUMPC(qt.GetInfoGains());
-		LOG(qt.GetInfoString());
 	}
+	void Add(	String rhyming,
+				String centric,
+				String lyrics,
+				String fading,
+				String audience,
+				String gender,
+				String strength,
+				String target) {
+		rl->Add(rhyming);
+		fa->Add(centric);
+		ly->Add(lyrics);
+		fad->Add(fading);
+		kids->Add(audience);
+		g->Add(gender);
+		st->Add(strength);
+		qt.AddTargetValue(target);
+	}
+};
+
+CONSOLE_APP_MAIN
+{
+	Songs s;
+	
+	/* EP 24 "Ujostus" */		s.Add("Begin & End",	"Married",		"Text",			"Fade",	"Adults",	"Both",		"Strong",	"3");
+	/* EP 23 "Sydämen varas" */	s.Add("End-ish",		"Married",		"Text",			"Cut",	"Adults",	"Female",	"Strong",	"3");
+	/* EP 22 "Tahdon sut" */	s.Add("End-ish",		"Dating",		"Text",			"Fade",	"Kids",		"Both",		"Strong",	"3");
+	/* EP 21 "Talviyö" */		s.Add("End-ish",		"Breakup",		"Text",			"Fade",	"Adults",	"Both",		"Strong",	"4");
+	/* EP 20 "Puuma" */			s.Add("End-ish",		"Dating",		"Text",			"Fade",	"Adults",	"Male",		"Weak",		"3");
+	/* EP 19 "Aamuisin" */		s.Add("Begin & End",	"Dating",		"Text",			"Fade",	"Adults",	"Both",		"Weak",		"1");
+	/* EP 18 "Vanha sävel" */	s.Add("End-ish",		"Party",		"Audio only",	"Fade",	"Kids",		"Both",		"Neutral",	"4");
+	/* EP 17 "Great escape" */	s.Add("End",			"Breakup",		"Audio only",	"Fade",	"Kids",		"Female",	"Strong",	"3");
+	/* EP 16 "Mennään jkn." */	s.Add("End",			"Dating",		"Audio only",	"Fade",	"Kids",		"Both",		"Neutral",	"2");
+	/* EP 15 "Laiva" */			s.Add("End",			"Married",		"Audio only",	"Fade",	"Kids",		"Male",		"Neutral",	"3");
+	/* EP 14 "Mikä on" */		s.Add("End-ish",		"Loneliness",	"Audio only",	"Fade",	"Adults",	"Female",	"Weak",		"3");
+	/* EP 13 "Invincible" */	s.Add("End",			"Empowerment",	"Audio only",	"Cut",	"Adults",	"Female",	"Strong",	"3");
+	/* EP 12 "Girl I n h" */	s.Add("End-ish",		"Loneliness",	"Audio only",	"Cut",	"Adults",	"Male",		"Weak",		"4");
+	/* EP 11 "Pahuutta pah" */	s.Add("End-ish",		"Confusion",	"Audio only",	"Cut",	"Adults",	"Female",	"Weak",		"3");
+	/* EP 10 "Mitä tapahtuu" */	s.Add("End-ish",		"Confusion",	"Audio only",	"Cut",	"Adults",	"Female",	"Weak",		"4");
+	
+	
+	int i = s.qt.GetLargestInfoGainPredictor();
+	DUMP(i);
+	DUMPC(s.qt.GetInfoGains());
+	LOG(s.qt.GetInfoString());
 	
 }
