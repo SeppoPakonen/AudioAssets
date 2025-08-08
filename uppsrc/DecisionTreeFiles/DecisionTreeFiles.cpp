@@ -16,7 +16,7 @@ struct Songs {
 	
 	Songs() {
 		rl   = &qt.AddPredictor("Rhyming level lyrics");
-		fa   = &qt.AddPredictor("X-Centric video");
+		fa   = &qt.AddPredictor("Topic");
 		ly   = &qt.AddPredictor("Lyrics as text");
 		fad  = &qt.AddPredictor("Fading sequences in video");
 		kids = &qt.AddPredictor("Youngest audience");

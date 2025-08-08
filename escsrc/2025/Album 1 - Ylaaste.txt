@@ -1,0 +1,70 @@
+>>>>
+Autat suunnittelemaan musiikkilevyn kannen. Tavoitteena on tehdä prompt tekoäly kuvageneraattorille. Esität käyttäjälle tarkentavia kysymyksiä albumista, ennen kuin annat promptin.
+
+>>>>
+Hei.
+Artisti on "OuluPoko".
+Kappaleet ovat nuoren säveltäjän tekemiä.
+Nämä ovat uudelleentuotettuja kappaleita vanhoista jäljelle jääneistä äänitiedostoista.
+Kappaleet ovat vuosilta 2001-2005, kun säveltäjä oli 11-15 vuotias.
+Sanoitukset on tehty vasta 35 vuotiaana.
+Artisti on kasvanut vapaa-mielisessä ympäristössä ja käynyt Oulun Steinerkoulua Suomessa.
+Hän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.
+Sävellysten sanoitusideat kuitenkin tallentuivat sävellysten nimiin ja hän muistaakin kappaleista ja niiden ideasta paljon. Se auttoi luomaan uudet sanoitukset alkuperäistä ideaa kunnioittaen.
+
+Tärkeää artistille siihen aikaan oli PC tietokoneella pelaaminen ja LAN-pelit kavereidensa kanssa.
+Mukaan mahtui myös onnistuneita ensisuudelma-kokemuksia, mutta ei sen enempää seurustelua.
+Hänellä oli tiivis kaveriporukka, mutta josta hän asui sen verran kaukana, ettei heitä nähnyt usein.
+Siihen aikaan käytettiin MSN Messengeriä yhteydenpitoon.
+Häntä harmitti yksinäisyys ja hän on nauttinut aikuisviihteestä nuoresta pitäen, muodostaen maun blondeihin ja isoihin silikoni-rintoihin.
+Hän opetteli soittamaan kitaraa näinä aikoina.
+Häntä auttoi musiikkiurallaan hänen kaverit, jotka opettivat musiikinteoriaa ja toivat piraattiohjelmistoja.
+Hän kasvatti pitkät hiukset näinä aikoina ja teetätti rastahiukset.
+Hän harrasti myös vinyyli-dj miksaamista.
+Hänen lempipelejään oli:
+- elastomania
+- battlefield 1942, lan moninpeli
+- soldiers of fortune 2, internet moninpeli
+- counter strike, internet moninpeli
+- tony hawk pro skater 3, internet moninpeli
+- soldat, internet moninpeli
+
+Musiikkiohjelmistona oli:
+- fruity loops
+- propellerheads reason
+- steinberg 2 sx (ja 3 sx)
+
+<<<<
+Hei! Jotta voin muotoilla juuri teille sopivan promptin tekoälykuvageneraattorille, tarvitsisin vielä muutaman lisätiedon albumistanne:
+
+    1. Mikä on albumin (tai kokoelman) virallinen nimi – ja haluatteko se ehdottomasti kannessa esille?
+    2. Millainen musiikkigenre tai -tyyli levyä yhdistää? (esim. elektroninen, lo-fi, ambient, chiptune, indie-rock ym.)
+    3. Millaisen tunnelman haluatte välittää kannella? (nostalginen, melankolinen, energinen, unenomaisen surrealistinen…)
+    4. Onko teillä visuaalisia tyylitoiveita? (esim. 2000-luvun retro, VHS-glitch, pixel-art, kollaasi, minimalistinen tai abstrakti…)
+    5. Millainen väripaletti puhuttelee teitä? (pastellit, neon-värit, rusehtavat vintagetaustat, mustavalkoisuus tms.)
+    6. Pitäisikö kannessa näkyä itse hahmo (nuori säveltäjä, aikuinen, hahmokuva) vai ennemmin abstrakteja/symbolisia elementtejä?
+    7. Haluatteko mukaan viittauksia PC-pelaamiseen ja LAN-hetkiin (esim. näppäimistö, joystick, pelilaite, MSN-ikonit)?
+    8. Onko teille tärkeää tuoda esiin Steiner-koulu- tai luontoyhteyttä (esim. metsät, luonnonelementit, orgaaniset muodot)?
+    9. Haluatteko kannessa näkyvän viittauksia vinyyli-DJ-toimintaan tai studiosoftiin (Fruity Loops, Reason, Steinberg)?
+    10. Miten tekstit (artistin nimi “OuluPoko”, albumin nimi, mahdollinen alaotsikko) tulisi asettaa – fonttityyli ja sijoittelu?
+    11. Millaisessa formaatiksi levy julkaistaan pääasiassa (CD, vinyyli, digialbumi), ja haluatteko eri versiolle erikseen räätälöidyn kannen?
+
+Kun vastaat näihin, voin laatia tarkan ja vaikuttavan promptin albumikannen tekoälygeneraattorille!
+
+>>>>
+1. "Yläaste". Esille. Kyllä.
+2. Pop, rock, vähän hiphop
+3. Karkkimainen, kesäinen, pilvetön taivas
+4. 2000-luvun retro, kuten Tony Hawk Pro Skater peleissä
+5. Kesäinen luonto: vihreää, sinistä, asfaltin harmaata, sininen polkupyörä
+6. Artisti tulee kanteen nuorena
+7. Viittauksia tyypilliseen PC systeemiin (kuvaputkimonitori ja tornikotelo) saa olla
+8. Steinerkoulua ei tarvitse mainita
+9. Ei
+10. Melko rento fontti, mutta selkeä. Sijainti voi olla mikä vain.
+11. digialbumi 
+
+<<<<
+Tässä esimerkki tarkasta promptista, jonka voit syöttää tekoälykuvageneraattoriin (esim. Midjourney, Stable Diffusion tms.):
+
+“Create a vibrant, candy-like summer album cover in a 2000s retro style reminiscent of Tony Hawk Pro Skater menus. Center composition: a 13-14-year-old boy (long hair with light rastadreadsin­spiraatio, streetwear-tyyli t-paita ja tennarit) nojaamassa siniseen polkupyörään asfaltilla. Taustalla kirkas, pilvetön taivas, värigradientti turkoosin ja vaaleansinisen välillä. Sivussa vanhan PC-kategoriasoittimen pengerryksellä: harmaa tornikotelo ja vanhanaikainen kuvaputkimonitori, jonka näytöllä pikselöityjä ikoneja. Väripaletti: raikas nurmikonvihreä, kesäinen sininen, asfaltin harmaa – kaikki hyvin kyllästettyinä, karkkimaisesti hehkuvina. Tekstit: albumin nimi ’Yläaste’ isolla, rentohenkisellä mutta selkeällä sans-serif-fontilla (esim. rounded typeface) näytön yläosassa, artistin nimi ’OuluPoko’ pienempänä alareunassa. Tyyli: puhtaat linjat, kevyt VHS-kameran kohina tai analoginen häivähdys, nuorekas ja energinen pop-rock–hiphop–vibe.”

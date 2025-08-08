@@ -1,6 +1,8 @@
 description "\377B255,127,0";
 
 file
+	Albums readonly separator,
+	"Album 1 - Ylaaste.txt",
 	Release readonly separator,
 	"Spoko - Vain sun.txt",
 	"Työpaikkaromanssi.txt",
@@ -22,7 +24,9 @@ file
 	"Tahdon sut.txt",
 	Varas.txt,
 	"Jotain perinteista 2.txt",
-	Unnamed.txt,
+	Tarisen.txt,
+	"never ever - a.txt",
+	Lonkerot.txt,
 	Scripts readonly separator,
 	TikTok_Intro.txt,
 	Other readonly separator,
