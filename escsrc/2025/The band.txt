@@ -1,0 +1,415 @@
+Style:
+This is a rock song in a major key at a moderate tempo,
+The instrumentation includes electric guitar, bass guitar, and drums,
+The electric guitar plays a prominent melodic riff throughout the song,
+often doubling the vocal melody, The bass guitar provides a driving, rhythmic foundation,
+The drums maintain a steady rock beat with occasional fills,
+The male lead vocalist sings in a clear, slightly raspy baritone,
+employing a conversational and sometimes spoken-word delivery,
+The song structure is verse-chorus with an instrumental break,
+The production is clean with a balanced mix, emphasizing the guitar and vocals,
+There are no obvious effects on the vocals, but the guitar has a slight overdrive
+
+Style:
+This is a rock song at a moderate tempo,
+The instrumentation includes electric guitar, bass guitar, and drums,
+The electric guitar plays a prominent melodic riff throughout the song,
+often doubling the vocal melody, The bass guitar provides a driving, rhythmic foundation,
+The drums maintain a steady rock beat with occasional fills,
+The male lead vocalist sings in a clear, slightly raspy baritone,
+employing a conversational and sometimes spoken-word delivery,
+The song structure is verse-chorus with an instrumental break,
+
+Title: The Bändi
+
+[Verse 1]
+Kitaras Kari, rumpali Jani
+Jos jaksaa niin bassossa Sami
+Laulaja Pasin ego mahdu ei saliin
+Kiippari Marin kaikki unohtaakin
+Treeneihin kuskaa se joka nollat puhaltaa
+Saattaa tauol palaa ehkä vähän tupakkaa
+Jääkaapis kaljaa, tarpeeks monta sohvaa
+Muijat saa tulla muttei tuu ne koskaan
+
+[Chorus]
+Me ollaan The Bändi
+Se uniikki ääni
+Me ollaan The Bändi
+Treenataan päissäänkin
+
+[Verse 2]
+Keikallakin käytiin paril
+Samal backstagel ollut kovat staratkin
+Hermot kireni kun keikkaa odotti
+Kaikki teki virheit, sanat Pasi unohti
+Kyl ne taputti, ehkä tykkäsi
+Baariin tuotiin rahaa, saatiin ilmaista viiniikin
+Kaikil harrastuksiin menee massii
+Ehkä ens kuussa on varaa keikkaillakin
+
+[Chorus]
+Me ollaan The Bändi
+Se uniikki ääni
+Me ollaan The Bändi
+Treenataan päissäänkin
+
+[Bridge]
+On varaa olla tällainen
+Kun ei tiedä mitä tekee
+Artistii maksaa
+Tietenkin
+Tietenkin
+Niin
+
+[Chorus]
+Me ollaan The Bändi
+Se uniikki ääni
+Me ollaan The Bändi
+Treenataan päissäänkin
+
+
+<<<<
+Here’s a Sora style template for “The Bändi” music video—capturing its rag-tag, DIY rehearsal-meets-bar gig spirit:
+
+Theme
+• Gritty, low-budget rock-band documentary: equal parts rehearsal-garage and sweaty dive-bar
+
+Color
+• Warm, saturated earth-tones (rusty reds, amber yellows)
+• Occasional neon-accent pops (electric blue, hot pink) on signage, drum-kit details
+• Slight desaturation and film-grain overlay for that “been through the wash” look
+
+Camera
+• Handheld digital 4K with light stabilization—occasional deliberate shake
+• Occasional static tripod shots framing the whole band, then snap-zoom into each member
+• Quick whip-pans between verse and chorus, jump-cuts on drum fills
+
+Film Stock / Texture
+• Analog film emulation with soft grain plus occasional chromatic aberration
+• Subtle VHS-style glitches at transition points (verse→chorus)
+• Light scratches and dust particles for that “tape-in-the-backseat” feel
+
+Lighting
+• Warm tungsten backlights in the garage scenes, creating halos around guitar necks
+• Stage-style PAR-can flicker in bar/“gig” scenes—colored gels (amber, cobalt blue)
+• Practical neon signs or string lights in the background to punctuate transitions
+
+Vibe & Pacing
+• Raw and energetic—rough edges are part of the charm
+• Quick cuts in choruses to emphasize the “we’re the band/uniikki ääni” chant
+• More relaxed, slightly handheld-wobbly pacing in verses to match the lyrics’ storytelling
+• Use cut-ins of beer cans clinking, cigarette smoke drifting, amps cranked
+
+On-Screen Graphics / Typography
+• Hand-drawn, marker-style lyric pop-ups for key lines (“Me ollaan the bändi”)
+• Brief super8 film-grain title cards between sections (“Verse 1,” “Chorus,” etc.)
+• Scratch-style wipes or tape-edge overlays when lyrics or member names appear
+
+Content Highlights
+• Close-ups on hands tuning guitars, rolling cigarettes, clinking bottles
+• Backstage jitters: candid footage of Pasi forgetting lyrics, band members face-palming
+• Momentary slow-motion on the line “treenataan päissäänkin” over a spinning drumstick
+• Final shot: band walking off into neon-lit alley, amps slung over shoulders, ready for next gig
+
+This template keeps it informal, a little rough around the edges, but full of the playful “we-don’t-care-as-long-as-we-have-fun” energy that the lyrics demand.
+
+
+
+<<<<
+Below is a shot-by-shot “slideshow” screenplay for The Bändi, with image-generator prompts (plus 1–2 alternatives each). You can pick and mix in your edit.
+
+    TITLE CARD
+    Visual
+    • Super 8-style film frame, heavy grain, tape-edge border
+    • Hand-drawn marker text: “The Bändi”
+    Camera / Texture
+    • Static, slight VHS glitch in corners
+    AI Prompt
+    • “Rusty Super 8 film overlay with hand-drawn black marker text ‘The Bändi’, heavy grain, dust particles, chromatic aberration”
+    Prompt alt
+    • “Worn film slide, tape edges, vintage marker typography reading ‘The Bändi’, subtle VHS color bleed”
+
+    VERSE 1, LINE 1: “Kitaras Kari, rumpali Jani”
+    Visual
+    • Close-up on an electric guitar neck leaning against a battered drum kit; low ceiling garage
+    • Warm amber side-light
+    Camera
+    • Handheld, slight shake
+    AI Prompt
+    • “Gritty garage corner: weathered electric guitar leaning on old drum kit, warm tungsten glow, subtle film grain”
+    Prompt alt
+    • “Vintage rehearsal space, close-up guitar headstock and snare drum, muted earth tones, light scratches”
+
+    VERSE 1, LINE 2: “Jos jaksaa niin bassossa Sami”
+    Visual
+    • Bass guitar suspended on a hook, shadow of bassist in background
+    • Neon blue accent reflecting off strings
+    Camera
+    • Static tripod shot, snap-zoom on fretboard
+    AI Prompt
+    • “Dimly lit garage wall with hanging bass guitar, electric blue neon accent, worn paint, analog grain”
+    Prompt alt
+    • “DIY band rehearsal: bass guitar close-up, cobalt neon sliver lighting, vintage film texture”
+
+    VERSE 1, LINE 3: “Laulaja Pasin ego mahdu ei saliin”
+    Visual
+    • Microphone on stand surrounded by crumpled lyric sheets
+    • Overexposed tungsten backlight halo
+    Camera
+    • Slight over-exposure bloom, handheld push-in
+    AI Prompt
+    • “Overlit vintage mic stand with scattered handwritten lyric papers on concrete floor, warm backlight halo”
+    Prompt alt
+    • “Punk-rock rehearsal mic with blown-out light behind, paper scraps, film grain”
+
+    VERSE 1, LINE 4: “Kiippari Marin kaikki unohtaakin”
+    Visual
+    • Hand shot on old Casio keyboard, fingers hovering uncertainly
+    • Dust motes visible in amber beam
+    Camera
+    • Slow dolly-in, shallow focus
+    AI Prompt
+    • “Close-up of hand over vintage Casio keyboard in gritty garage, sunbeam with dust particles, muted colors”
+    Prompt alt
+    • “DIY band gear: keyboard keys and hand poised, warm earth tones, subtle grain”
+
+    VERSE 1, LINES 5–6: “Treeneihin kuskaa se joka nollat puhaltaa / Saattaa tauol palaa ehkä vähän tupakkaa”
+    Visual
+    • Hand-truck dolly loaded with amps + guitar cases; cut-in of lit cigarette and exhaled smoke
+    Camera
+    • Quick cut to cigarette slow-motion, smoke swirling
+    AI Prompt
+    • “Worn guitar cases and amps on trolley in garage entrance, lit cigarette with curling smoke, gritty film look”
+    Prompt alt
+    • “Amp stack on handcart, close-up of cigarette ember and drifting smoke, warm tungsten light, grain”
+
+    VERSE 1, LINE 7: “Jääkaapis kaljaa, tarpeeks monta sohvaa”
+    Visual
+    • Open mini-fridge stocked with beer cans; mismatched sofas around
+    • Neon bar-sign in back
+    Camera
+    • Static wide shot, slight vignette
+    AI Prompt
+    • “Cluttered garage: open mini-fridge full of beer cans, worn sofas, neon sign glow, dusty atmosphere”
+    Prompt alt
+    • “DIY lounge area, beer fridge and old couches, warm saturation, film grain overlay”
+
+    VERSE 1, LINE 8: “Muijat saa tulla muttei tuu ne koskaan”
+    Visual
+    • Empty doorway with string-lights, echoing emptiness
+    • Slightly desaturated reds
+    Camera
+    • Slow pan from door to empty chairs
+    AI Prompt
+    • “Dim bandroom doorway outlined by string lights, empty chairs, moody desaturated earth tones, grain”
+    Prompt alt
+    • “Rehearsal space entrance glowing, no one inside, muted tones, VHS dust”
+
+    CHORUS (“Me ollaan the bändi…”)
+    Visual A (Wide)
+    • Full band in one frame, messy garage, each member in their zone
+    Lighting
+    • Backlight halos, amber and electric-blue gels
+    Camera
+    • Whip-pan from left to right on each “Me ollaan…”
+    AI Prompt A
+    • “Rag-tag rock band in cluttered garage, warm tungsten backlight, electric blue gel, handheld whip pan”
+    Prompt alt A
+    • “DIY band group shot, warm earth tones, neon accents, slight camera shake”
+
+Visual B (Cut-in)
+• Lead singer screaming into mic, marker-style lyric pop-up: “Me ollaan the bändi”
+Typography
+• White hand-drawn marker, slight jitter
+AI Prompt B
+• “Close-up rebellious singer shouting into mic, hand-drawn lyric overlay, gritty film effect”
+Prompt alt B
+• “Vibrant hot-pink text pop-up on dark background, singer mouth open, analog grain”
+
+    VERSE 2, LINES 1–2: “Keikallakin käytiin pari…”
+    Visual
+    • Backstage corridor, flashing stage lights, corridor posters peeling
+    • Silhouettes of band hustling
+    Camera
+    • Jump-cut pacing, handheld wobble
+    AI Prompt
+    • “Narrow backstage hallway with flickering stage PAR cans, peeling posters, silhouettes rushing, gritty look”
+    Prompt alt
+    • “Rock club greenroom corridor, flashing lights, DIY posters, film grain”
+
+    VERSE 2, LINES 3–4: “Kaikki teki virheit, sanat Pasi unohti”
+    Visual
+    • Candid slow-mo of Pasi face-palming, lyric sheet falling
+    Lighting
+    • Cool blue fill, amber rim
+    Camera
+    • Slow motion (50 fps)
+    AI Prompt
+    • “Slow motion musician dropping lyric sheet, face in hands, mixed tungsten and blue LED light, retro grain”
+    Prompt alt
+    • “Singer forgetting lyrics, paper fluttering to floor, moody colored gels, VHS scratch”
+
+    VERSE 2, LINES 5–6: “Kyl ne taputti, ehkä tykkäsi…”
+    Visual
+    • Hands clapping in audience; beer poured into plastic cup
+    • Beer cans on stage edge
+    Camera
+    • Cut-in close-ups, quick edits
+    AI Prompt
+    • “Diving audience hands clapping, beer pouring into plastic cup, dim bar stage lights, grain overlay”
+    Prompt alt
+    • “Crowd clapping shot on stage, amber light flicker, film texture”
+
+    CHORUS (repeat)
+    Visual
+    • Same as #9 but in sweaty dive-bar, neon “LIVE” sign behind
+    • Quick jump-cuts on each “Me ollaan the bändi”
+    AI Prompt
+    • “Sweaty dive bar stage, ragged band mid-chorus, neon LIVE sign, jump-cuts, high saturation”
+    Prompt alt
+    • “Energetic bar gig, full band, electric-blue and hot-pink neon accents, film grain”
+
+    BRIDGE: “On varaa olla tällainen…”
+    Visual
+    • Moody close-up of each instrument laid idle: guitar on amp, drumsticks on snare, cigarette ash
+    Camera
+    • Slow pan across objects, static
+    AI Prompt
+    • “Quiet instrument still-life: electric guitar on amp, drumsticks on snare, cigarette ash, muted palette”
+    Prompt alt
+    • “Moody band gear arranged, low-key lighting, analog film grain”
+
+    FINAL CHORUS & OUTRO
+    Visual
+    • Band walking down neon-lit alley at night, amps slung
+    • Slight fog + backlight
+    Camera
+    • Tracking from behind, slow steady cam
+    AI Prompt
+    • “Five-person rock band walking away down neon-lit urban alley, amps over shoulders, slight fog, warm desaturation, film texture”
+    Prompt alt
+    • “DIY band exit shot, neon signs, backlit mist, handheld feel, grain”
+
+    END TITLE
+    Visual
+    • Scratch-style wipe to black, superimposed “fin” in marker font
+    AI Prompt
+    • “Black screen with hand-drawn ‘fin.’ marker text, film grain and light scratches”
+    Prompt alt
+    • “Tape-edge overlay, ‘fin.’ in white marker, subtle VHS glitch”
+
+Feel free to mix alternate prompts, swap color accents or vary camera styles. This gives you a flexible slideshow storyboard plus ready-to-go AI text prompts.
+
+<<<<
+Tässä muutama lisäkuvaus-vaihtoehto, joilla voi korostaa treenikämppää vanhassa hylätyssä kasarmissa. Voit sijoittaa ne vaikka heti aluksi ennen “Title Card” -kohtaa tai korvata niillä joitain alkujakson otoksia.
+
+1A. ULOKUVAA – HYLÄTTY KASARMI
+Visual
+• Punarappaus tiilinen kasarmin julkisivu, räystäs ja rikkinäiset ikkunat
+• Ilta-aurinko luo pitkiä varjoja, hieman sumua
+Camera
+• Hidas liuku (drone-eelikko) tai steadicam-paneera
+AI-prompt
+“Abandoned red-brick military barracks at dusk, broken windows, peeling paint, low-contrast film grain, subtle fog”
+Prompt-alt
+“Hylätty tiilikasarmi iltavalaistuksessa, pitkiä varjoja, ruosteiset tikkaat, VHS-tyylinen rakeisuus”
+
+1B. KÄYTÄVÄ – SELLIT JA GRAFFITIT
+Visual
+• Pitkä, kolkko käytävä, siellä täällä solmuun pinttynyttä graffiti­taidetta
+• Rappioituneet ovet, metalliset laatikot (kasarmikaapit) pyyhkeinä
+Camera
+• Static shot, nopea pan vasemmalle–oikealle
+AI-prompt
+“Derelict barracks corridor with peeling olive-drab paint, graffiti tags on cell doors, dusty floor, analog film scratches”
+Prompt-alt
+“Kastarivi vanhoja selliovia, ruosteisia lukkoja, värikästä graffiti-taidetta, VHS-glitch kulmissa”
+
+1C. TREENIKÄMPÄN OVI
+Visual
+• Raskaasta metallista tehdyn oven päälle spraymaalaus: “The Bändi” + nuoli
+• Oven vieressä vanha, ruostunut sotilaskilpi ja tarrat
+Camera
+• Close-up lukkoon ja maalaustekstiin, shallow focus
+AI-prompt
+“Close-up on heavy metal barracks door with spraypainted band name and arrow, rusty military plaque, film grain”
+Prompt-alt
+“Bunkkerin kaltainen harjoitusovet yllään ‘The Bändi’ teksti, vanha sotilaskilpi, muted earth tones”
+
+1D. SISÄKUVA – BUNKKERIMAINEN TREENIKÄMPPÄ
+Visual
+• Matala huonetila: vanhat kerrossängyt toimivat kitarahyllyinä
+• Amp-rivistö metallilaatikoiden päällä, liikkuri piilotettuna bunkkerimaisessa nurkassa
+• Seinällä sirpaleiksi haljenneen savikuvun palasia ja sotkuista sähköpiirrosta
+Camera
+• Handheld slow push-in kohti keskellä levällään olevaa rumpusettiä
+AI-prompt
+“Low-ceilinged makeshift band room in abandoned barracks: bunk beds repurposed as guitar racks, metal ammo boxes as amps, warm tungsten, grain overlay”
+Prompt-alt
+“Rundown military cell-turned-rehearsal space, drumkit center stage, kerrossängyt kitara-hyllyinä, analog film texture”
+
+1E. YKSITYISKOHTA – SOTILASMUONA-LEIPÄLAATIKKO JA KAAPELIT
+Visual
+• Vanha rumpalilaatikko, jonka kyljessä kapeat sähkökaapelit ja teippirullia
+• Pölyinen pöytä, jossa sotilasmuonaläjiä (mm. vanha leipälaatikko, tyhjät rasvatölkit)
+Camera
+• Static close-up, slight rotational jitter
+AI-prompt
+“Dusty military mess tin and scattered cable reels on wooden table in bashed-up rehearsal cell, muted palette, film-grain”
+Prompt-alt
+“Vanha muonaloota ja sähköjohdot pöydällä, rehearsal-luolamainen tunnelma, VHS-tyyli”
+
+Voit luoda näistä köyhän kasarmitunnelman ja tuoda lisää kontrastia siihen hylätyn sotilastilan rappeutuneeseen estetiikkaan. Mikäli haluat vielä lisää yksityiskohtia tai vaihtoehtoja, kerro toki!
+
+
+>>>>
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on 28 kappale.
+On menossa vuoden 2005 sävellys, jolloin olin 15 vuotias.
+Sanoitukset minä tein tänään.
+Kappaleet ovat täysin käsin itse sävellettyjä ja sanoitettuja, mutta niistä on tehty cover Suno musiikki-tekoälyllä.
+Video on generoitu Sora AI:lla.
+Editoin videon itse käsin.
+
+
+
+TikTok:
+#28 “The Bändi” (alkuperäinen sävellys vuodelta 2005, tein sen 15-vuotiaana! 🎸🥁Julkaisen vanhoja kappaleitani yhden päivässä )
+Sanoitukset kirjoitin tänään. Kappale on täysin käsin sävelletty ja sanoitettu, mutta coverina Suno AI:n voimalla. Video generoituna Sora AI:lla, editoin kaiken itse.
+🔔 Seuraa, niin et missaa seuraavia julkaisuja!
+#TheBändi #vanhakappale #AIcover #SoraAI #SunoMusic #DIY #2005
+
+YouTube:
+Otsikko: The Bändi – vanha sävellys (2005) | Daily Vintage Songs #28
+
+Kuvaus:
+Hei! Julkaisen joka päivä yhden vanhan kappaleeni arkistosta – tänään vuorossa numero 28, “The Bändi”, jonka sävelsin vuonna 2005 (olin silloin 15). Sanoitukset rustasin tänään.
+Kappale on alun perin täysin käsin sävelletty ja sanoitettu, mutta tällä kertaa tein siitä coverin Suno-tekoälyn avulla. Video on generoitu Sora AI:lla ja editointi on 100 % manuaalista.
+
+► Älä unohda tilata kanavaa ja painaa ilmoituksia päälle!
+► Kommentoi alle, mitä mieltä olet tästä “ajantunnelmasta”!
+► Spotify / SoundCloud / Linkit: (lisää omat linkkisi)
+
+Lyrics:
+[Verse 1]
+Kitaras Kari, rumpali Jani…
+…
+
+[Chorus]
+Me ollaan The Bändi…
+
+[Verse 2]
+Keikallakin käytiin paril…
+
+[Bridge]
+On varaa olla tällainen…
+
+[Chorus]
+Me ollaan The Bändi…
+
+Instagram:
+Päivä 28 ja julkaisu jatkuu! 🥳 “The Bändi” sai alkunsa jo 2005, mutta sanoitukset syntyivät vasta tänään. Käsin sävelletty ja sanoitettu, coverina Suno AI ja video Sora AI – editointi 100 % itse.
+👉 Linkki biossa!
+#TheBändi #AIcover #vanhakappale #2005 #SoraAI #SunoMusic #DIY #musajulkaisut
+
