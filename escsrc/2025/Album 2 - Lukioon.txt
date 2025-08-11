@@ -1,0 +1,64 @@
+
+Hei.
+Artisti on "OuluPoko".
+Kappaleet ovat 15 vuotiaan miespuolisen säveltäjän tekemiä.
+Nämä ovat uudelleentuotettuja kappaleita vanhoista jäljelle jääneistä äänitiedostoista.
+Kappaleet ovat vuodelta 2005, kun säveltäjä oli 15 vuotias.
+Toukokuussa 2005 hän sai ensimmäisen sähkökitaran (Les Paul Zakk Wylde special) ja hän alkoi säveltää kappaleita Guitar Prolla.
+Sanoitukset on tehty vasta 30-35 vuotiaana.
+Artisti on kasvanut vapaa-mielisessä ympäristössä ja käynyt Oulun Steinerkoulua Suomessa.
+Hän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.
+Sävellysten sanoitusideat kuitenkin tallentuivat sävellysten nimiin ja hän muistaakin kappaleista ja niiden ideasta paljon. Se auttoi luomaan uudet sanoitukset alkuperäistä ideaa kunnioittaen.
+
+Tärkeää artistille siihen aikaan oli PC tietokoneella pelaaminen ja LAN-pelit kavereidensa kanssa.
+Mukaan mahtui myös onnistuneita ensisuudelma-kokemuksia, mutta ei sen enempää seurustelua.
+Hänellä oli tiivis kaveriporukka, mutta josta hän asui sen verran kaukana, ettei heitä nähnyt usein.
+Siihen aikaan käytettiin MSN Messengeriä yhteydenpitoon.
+Häntä harmitti yksinäisyys ja hän on nauttinut aikuisviihteestä nuoresta pitäen, muodostaen maun blondeihin ja isoihin silikoni-rintoihin.
+Hän opetteli soittamaan kitaraa näinä aikoina.
+Häntä auttoi musiikkiurallaan hänen kaverit, jotka opettivat musiikinteoriaa ja toivat piraattiohjelmistoja.
+Hän kasvatti pitkät hiukset näinä aikoina ja teetätti rastahiukset.
+Hän harrasti myös vinyyli-dj miksaamista.
+Hänen lempipelejään oli:
+- elastomania
+- battlefield 1942, lan moninpeli
+- soldiers of fortune 2, internet moninpeli
+- counter strike, internet moninpeli
+- tony hawk pro skater 3, internet moninpeli
+- soldat, internet moninpeli
+
+Musiikkiohjelmistona oli:
+- Steinberg Cubase  3 sx
+- Guitar Pro 3
+
+
+<<<<
+Tässä muutama tarkentava kysymys, jotta voimme luoda juuri oikeanlaisen promptin kuvageneraattorille:
+
+    Mikä on albumin virallinen nimi (ja haluatko sen kannessa suoraan näkyville)?
+    Millainen musiikkityyli/genre vallitsee? (esim. rock, metallinen, ambient, elektroninen tai sekoitus – vaikuttaa visuaaliseen tunnelmaan)
+    Haluatko kannen kuvaavan nuorta säveltäjää/tarinan päähenkilöä (esim. hahmona, siluettina tai valokuvamaisena elementtinä), vai mieluummin abstraktimpaa, symbolista ilmaisua?
+    Mitä visuaalisia elementtejä soisi ehdottomasti mukaan? (esim. Les Paul -kitara, vanhan ajan PC/LAN-kaapelit, MSN-ikkuna, vinyylilevy, rastapäät, turntable-mikseri…)
+    Millaisen värimaailman näet sopivana? (esim. tummasävyt ja grunge, kirkkaat 2000-lukuhenkiset neonvärit, lämpimät maan sävyt tms.)
+    Haluatko kannen tyyliin viitteitä 2000-lukujen alun nettikuvastosta (pixel art, VHS-häive, retro-GUI-ikkunat) vai modernimpaa, puhtaampaa toteutusta?
+    Miten tekstit (artistin nimi ”OuluPoko”, albumin nimi) tulisi typografisesti esittää? (esim. käsinkirjoitusta muistuttava fontti, geometrinen/teollinen, heavymetal-tyyli tms.)
+    Millainen formaatti on mielessäsi? (neliökansi 3000×3000px, vaakakuva nettijulkaisuun, printtimateriaali yms.)
+    Haluatko mukaan jotain viittauksia Ouluun tai steinerkoulun vapaamieliseen henkeen?
+
+Kun vastaat näihin, voin muotoilla photo-realistisen tai illustratiivisen promptin, jolla saat juuri toiveidesi mukaisen levynkannen tekoälygeneraattorille.
+
+>>>
+1. "Lukioon"
+2. Useita eri genrejä: pop, metal, edm, folk-rock
+3. Kansi kuvaa säveltäjä/sanoittajaa, joka ei ole aina tarinan päähenkilö kappaleissa, koska kappaleet kertovat muistakin ihmisistä. Valokuvamainen elementti.
+4. Les Paul kitara, jossa Zakk Wylde designin kelta-musta ympyröitä keskellä. Rasta-hiukset saa olla.
+5. Ruskean ja vihreän eri sävyt on hyvä idea.
+6. Kannessa saa olla viitteitä vuoden 2005 kesästä, jos silloin oli jotain erityistä.
+7. Kanteen "OuluPoko" ja "Lukioon" tekstit. Fontti saisi olla melko arkinen, mutta ehkä hiphop tyyliin vivahtava.
+8. Neliökansi
+9. Saa olla viitteitä: Ouluun, Lukioon, kuvataiteelliseen lukioon, "hippeihin", vasemmistolaiseen kulttuuriin.
+
+<<<<
+Tässä valmiiksi muotoiltu prompt tekoälykuvageneraattorille (esim. Stable Diffusion, Midjourney tms.):
+
+”Create a square album cover in a warm, nostalgic 2005 summer mood. At the center, a photorealistic portrait of a thoughtful teenage musician with long dreadlocks, holding a Gibson Les Paul guitar with the Zakk Wylde yellow-and-black bullseye design. The color palette is rich browns and deep greens, evoking Oulu’s late-evening summer light. Subtle background details hint at the era and setting: a faint translucent collage of MSN Messenger chat windows, a soft VHS-style film grain and lens flare, and a barely-visible outline of Oulu landmarks behind him. He wears a vintage tie-dye shirt and a small peace-sign pendant, a sticker of a red star on the guitar’s body nodding to hippie/leftist culture. Leave clean space at the top for the artist name “OuluPoko” and at the bottom for the album title “Lukioon” in an everyday, slightly hip-hop-inspired font. Add a gentle vignette and warm ambient lighting for an intimate, reflective feel.”

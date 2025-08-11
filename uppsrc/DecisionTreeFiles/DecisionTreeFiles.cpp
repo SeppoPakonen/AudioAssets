@@ -89,6 +89,10 @@ CONSOLE_APP_MAIN
 		Songs s;
 		s.SetTarget(i);
 		
+		/* EP 29 "Tot vai teht" */	s.Add("Begin & End",	"Party",		"Text",			"Fade",	"Kids",		"Both",		"Strong",	"Dirty",	"4",	"4");
+		/* EP 28 "The Bändi" */		s.Add("Begin & End",	"Party",		"Text",			"Cut",	"Adults",	"Male",		"Strong",	"Dirty",	"3",	"3");
+		/* EP 27 "Lonkerot" */		s.Add("Begin & End",	"Confusion",	"Text",			"Fade",	"Kids",		"Male",		"Weak",		"Clean",	"3",	"3");
+		/* EP 26 "Mä en enää" */	s.Add("Begin & End",	"Loneliness",	"Text",			"Fade",	"Kids",		"Male",		"Weak",		"Clean",	"3",	"2");
 		/* EP 25 "Tärisen" */		s.Add("Begin & End",	"Dating",		"Text",			"Fade",	"Adults",	"Both",		"Weak",		"Dirty",	"2",	"2");
 		/* EP 24 "Ujostus" */		s.Add("Begin & End",	"Married",		"Text",			"Fade",	"Adults",	"Both",		"Strong",	"Dirty",	"3",	"3");
 		/* EP 23 "Sydämen varas" */	s.Add("End-ish",		"Married",		"Text",			"Cut",	"Adults",	"Female",	"Strong",	"Dirty",	"3",	"4");

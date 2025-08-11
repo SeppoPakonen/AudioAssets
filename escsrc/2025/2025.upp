@@ -3,6 +3,7 @@ description "\377B255,127,0";
 file
 	Albums readonly separator,
 	"Album 1 - Ylaaste.txt",
+	"Album 2 - Lukioon.txt",
 	Release readonly separator,
 	"Spoko - Vain sun.txt",
 	"Työpaikkaromanssi.txt",
@@ -28,6 +29,8 @@ file
 	"Ma en enaa.txt",
 	Lonkerot.txt,
 	"The band.txt",
+	Myohassa.txt,
+	Kielella.txt,
 	Scripts readonly separator,
 	TikTok_Intro.txt,
 	Other readonly separator,
