@@ -1,0 +1,284 @@
+{
+	"id": 1,
+	"highest_seen_serial": 527,
+	"seen_types": [
+
+	],
+	"root": {
+		".version": 3,
+		"id": "",
+		"type_hash": 0,
+		"serial": 523,
+		"file": 1,
+		"is_ast": true,
+		"a.kind": 22,
+		"a.type": "",
+		"a.begin": {
+			"x": null,
+			"y": null
+		},
+		"a.end": {
+			"x": null,
+			"y": null
+		},
+		"a.filepos_hash": 0,
+		"a.is_ref": false,
+		"a.is_definition": false,
+		"a.is_disabled": false,
+		"sub": [
+			{
+				".version": 3,
+				"id": "Ma tieda en",
+				"type_hash": 0,
+				"serial": 525,
+				"file": 1,
+				"is_ast": true,
+				"a.kind": 22,
+				"a.type": "",
+				"a.begin": {
+					"x": null,
+					"y": null
+				},
+				"a.end": {
+					"x": null,
+					"y": null
+				},
+				"a.filepos_hash": 0,
+				"a.is_ref": false,
+				"a.is_definition": false,
+				"a.is_disabled": false,
+				"sub": [
+					{
+						".version": 3,
+						"id": "Video",
+						"type_hash": "-2999024324956135890",
+						"serial": 527,
+						"file": 1,
+						"is_ast": true,
+						"a.kind": 22,
+						"a.type": "",
+						"a.begin": {
+							"x": null,
+							"y": null
+						},
+						"a.end": {
+							"x": null,
+							"y": null
+						},
+						"a.filepos_hash": 0,
+						"a.is_ref": false,
+						"a.is_definition": false,
+						"a.is_disabled": false,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": null
+								},
+								{
+									"key": "ctx",
+									"value": null
+								}
+							]
+						},
+						"sub": [
+							{
+								".version": 3,
+								"id": "ProtoVideoTask1",
+								"type_hash": "6187220660296067297",
+								"serial": 42,
+								"file": 1,
+								"is_ast": false,
+								"value": {
+									"type": "ValueMap",
+									"value": [
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_arrangement"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_composition"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "extra"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Kansainvälisen koulun oppilaita kokoontuu viettämään oppilaita erään koululaisen kotia. He ovat kilttejä verrattuna muihin sen ikäisiin ihmisiin siinä kaupungissa. Heitä on kielletty juomasta alkoholia, eivätkä he juo. Paikalla on 4 poikaa ja 10 tyttöä. He päättävät leikkiä totuutta vai tehtävää. Ensiksi he leikkivät normaalisti kysyen kiusallisia totuuksia ja tehden lapsellisia tehtäviä. Sitten he käskevät isäntää (oppilasta siis) tanssimaan. Sitten joku ehdottaa kierrellen ranskalaisia suudelmia tehtäviksi, ja se sopii kaikille. Pelaaminen menee siihen, että pulloa pyöritetään kaksi kertaa silleen, että kuka suutelee ja ketä. He suutelevat toisiaan monta tuntia silleen. Minä olin isännän kaveri ja paikan päällä suutelemassa myös."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Verse 1, male]\r\nSä oot upea\r\nParempi mua\r\nMe voitais leikkii\r\nTotuuksii, tehtävii\r\n\r\n[Verse 1, female]\r\nMut ei totuutta\r\nTanssi nolona\r\nAla suudella\r\nKuka uskaltaa\r\n\r\n[Chorus, anyone]\r\nKielellä\r\nMm, Kieltä sun saan mä mieliä\r\nMm, Suuta sun saan mä suudella\r\nMm, Kuumennun, käydään kuumana\r\nVaik samaa kieltä ei oo\r\n\r\n[Post-Chorus, both]\r\nTotuus vai tehtävä on tää\r\nTotuus vai tehtävä on tää\r\nTotuus vai tehtävä on tää\r\nTotuus vai tehtävä on tää\r\n\r\n[Verse 3, male]\r\nSä oot ihana\r\nTunnustelet mua\r\nMe hidastetaan\r\nTehtävää lumpata\r\n\r\n[Verse 4, female]\r\nMut ei totuutta\r\nPussaa uudestaan\r\nKaikki haluaa\r\nKuka vuorossa\r\n\r\n[Chorus, anyone]\r\nKielellä\r\nMm, Kieltä sun saan mä mieliä\r\nMm, Suuta sun saan mä suudella\r\nMm, Kuumennun, käydään kuumana\r\nVaik samaa kieltä ei oo\r\n\r\n[Bridge, male]\r\nOn meil kolme minuuttii\r\nOllaan sinut siis\r\nKosken sua tiedätkin\r\nKäteen, kasvoihin\r\n\r\n[Bridge, female]\r\nSun tuoksu yllättää\r\nUusi ystävä\r\nMeil tääl ei ryypätä\r\nHelppoo on kylläpä\r\n\r\n[Bridge, both]\r\nSun maku on vain niin hyvä maku\r\nJoo, Sun maku on vain niin hyvä maku\r\nSun maku on vain niin hyvä maku\r\nJoo, Sun maku on vain niin hyvä maku\r\n\r\n[Chorus, anyone]\r\nKielellä\r\nMm, Kieltä sun saan mä mieliä\r\nMm, Suuta sun saan mä suudella\r\nMm, Kuumennun, käydään kuumana\r\nVaik samaa kieltä ei oo\r\n\r\n[Outro, both]\r\nVaik samaa kieltä ei oo\r\nVaik samaa kieltä ei oo\r\nVaik samaa kieltä ei oo\r\nMeil samaa kieltä ei oo"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "musicstyle"
+											},
+											"value": {
+												"type": "WString",
+												"value": "This is a Finnish retro-EDM-pop song with a driving rhythm section and prominent synth melodies,\r\nThe instrumentation includes drums, bass, rhythm synth, and various synthesizers,\r\nThe drums provide a steady, upbeat EDM beat,\r\nThe bass plays a foundational, often melodic, line,\r\nThe rhythm synth provides rhythmic chords and occasional melodic fills,\r\nSynthesizers contribute to the main melodic hooks and atmospheric pads,\r\nThe song features both male and female lead vocalists with a clear, slightly melancholic tone, delivering the lyrics in Finnish,\r\nThe vocal delivery is mostly clean with some subtle effects like reverb,\r\nThe song structure follows a typical verse-chorus format with a bridge and outro,\r\nThe tempo is moderately fast, The key is minor, contributing to the slightly melancholic feel,\r\nProduction elements include a clear mix with good separation between instruments,\r\nand a moderate amount of reverb on the vocals and some synth elements\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "num"
+											},
+											"value": {
+												"type": "int",
+												"value": 29
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videoidea"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Illanviettoa kotibileissä"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Sä oot upea\r\nParempi mua\r\nMe voitais leikkii\r\nTotuuksii, tehtävii\r\nMut ei totuutta\r\nTanssi nolona\r\nAla suudella\r\nKuka uskaltaa\r\nKielellä\r\nMm, Kieltä sun saan mä mieliä\r\nMm, Suuta sun saan mä suudella\r\nMm, Kuumennun, käydään kuumana\r\nVaik samaa kieltä ei oo\r\nTotuus vai tehtävä on tää\r\nSä oot ihana\r\nTunnustelet mua\r\nMe hidastetaan\r\nTehtävää lumpata\r\nMut ei totuutta\r\nPussaa uudestaan\r\nKaikki haluaa\r\nKuka vuorossa\r\nKielellä\r\nMm, Kieltä sun saan mä mieliä\r\nMm, Suuta sun saan mä suudella\r\nMm, Kuumennun, käydään kuumana\r\nVaik samaa kieltä ei oo\r\nOn meil kolme minuuttii\r\nOllaan sinut siis\r\nKosken sua tiedätkin\r\nKäteen, kasvoihin\r\nSun tuoksu yllättää\r\nUusi ystävä\r\nMeil tääl ei ryypätä\r\nHelppoo on kylläpä\r\nSun maku on vain niin hyvä maku\r\nJoo, Sun maku on vain niin hyvä maku\r\nKielellä\r\nMm, Kieltä sun saan mä mieliä\r\nMm, Suuta sun saan mä suudella\r\nMm, Kuumennun, käydään kuumana\r\nVaik samaa kieltä ei oo\r\nMeil samaa kieltä ei oo"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_arrangement"
+											},
+											"value": {
+												"type": "WString",
+												"value": "2021"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_composition"
+											},
+											"value": {
+												"type": "WString",
+												"value": "2005"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "2025"
+											}
+										}
+									]
+								},
+								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"hash": "-2348510555018266370"
+}
