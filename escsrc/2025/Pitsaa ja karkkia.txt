@@ -1,6 +1,8 @@
 Infoa: Sävellyksen projektinimi oli "relaxed" ja siltä se kuulostaakin. Tein suunnittelematta lyriikoita Lintula-Tuiran uimaranta kävelyllä, ja tämmöisiä höpötyksiä huvitti kirjoitella aurinkoisessa ja helteisen paahtavassa säässä.
 Date: 15.7.2025
 Sävellys: 2002/relaxed
+Style: A pop-punk song with a driving rhythm section, featuring a male vocalist with a clear tone, The instrumentation includes electric guitar, bass guitar, and drums, The electric guitar plays power chords and melodic riffs, The bass provides a strong, foundational rhythm, The drums maintain a consistent, energetic beat with prominent snare and cymbal accents, The song is in a major key, with a moderate to fast tempo, The vocal melody is catchy and follows the chord progression closely, The production is clean, with a balanced mix that emphasizes the vocals and lead guitar
+
 
 [Intro]
 Aa-aa m-mm jee-ea-a
@@ -71,6 +73,67 @@ Pitsaa ja karkkia vaan
 
 
 
+--------------------------------------------------------
+[Verse 1]
+Sometimes sunshine can’t stay
+Frustrate I wait, it’s grey
+But then again a new day
+Clouds gone they’re drawn away
+No cure for sure to heal me
+Still pure good cheer will feel me
+I last at last I smile
+Step out no doubt, worthile
+
+[Prechorus 1]
+Bright sun night done, I’m near to the store
+Soon there noon air, I’ll need nothing more
+There where
+
+[Chorus]
+Pizza sweet’s-a delight
+Strawberry dairy is stuck in my sight
+Feels right
+
+[Verse 2]
+Same track laid back, it’s slow
+No change so strange, I know
+This road unloads no good
+Those friends dead ends, no good
+But break I take, it’s golden
+Cupcake milkshake, I’m holdin’
+Mind clears kind cheers, I’m lighter
+Two here true dear, feels [Prechorus 2]
+Town lights sound bright, with people I roam
+Food there mood fair, I’m never alone
+There where
+
+[Chorus]
+Pizza sweet’s-a delight
+Strawberry dairy is stuck in my sight
+Feels right, when
+Pizza sweet’s-a delight
+Strawberry dairy is stuck in my sight
+Feels right
+
+[Bridge]
+Go on flow strong, I try
+Move fast outlast, get by
+Now here no fear, I dwell
+This place warm face, all’s well
+Here where
+
+[Chorus]
+Pizza sweet’s-a delight
+Strawberry dairy is stuck in my sight
+Feels right, when
+Pizza sweet’s-a delight
+Strawberry dairy is stuck in my sight
+Feels right
+
+[Outro]
+Pizza and candy yeah
+Pizza and candy yeah
+Pizza and candy yeah
 
 
 

@@ -1,0 +1,77 @@
+Style Orig:
+A Finnish folk metal song in a minor key at a moderate tempo,
+The song features a prominent accordion melody, a distorted electric guitar playing power chords, a bass guitar, and drums,
+The accordion carries the main melody throughout the song, often playing in unison with the electric guitar or providing counter-melodies,
+The electric guitar provides a heavy, driving rhythm with palm-muted power chords during verses and open power chords during choruses,
+The bass guitar plays a root-fifth pattern, providing a solid low end,
+The drums feature a standard rock beat with a strong backbeat on the snare drum and occasional double bass drumming fills,
+The male vocals are delivered in a clean, powerful baritone, with a slightly aggressive edge,
+The song structure includes verses, a pre-chorus, and a chorus,
+Production elements include a clear mix with the accordion and vocals prominent, and a slight reverb on the vocals
+
+Style New:
+A Finnish folk metal song in a minor key at a 120 bpm tempo shortly thereafter,
+The song features a prominent accordion melody, a distorted electric guitar playing power chords, a bass guitar, and drums,
+The accordion carries the main melody throughout the song, often playing in unison with the electric guitar or providing counter-melodies,
+The electric guitar provides a heavy, driving rhythm with palm-muted power chords during verses and open power chords during choruses,
+The bass guitar plays a root-fifth pattern, providing a solid low end,
+The drums feature a standard rock beat with a strong backbeat on the snare drum and occasional double bass drumming fills,
+The male vocals are delivered in a clean, powerful baritone, with a slightly aggressive edge,
+The song structure includes verses, a pre-chorus, and a chorus,
+Production elements include a clear mix with the accordion and vocals prominent, and a slight reverb on the vocals
+
+
+Title: Viestin sulle tuon
+
+
+[Verse 1]
+Ratsuilla joukko nyt kuolemaa tuo
+Miekoilla lyö sua jos näkee nuo
+Polttaa ne kirjat ja nimeää maat
+Nuoret ei vanhaa muistaa saa
+Pappi ja kirjuri toteuttavat
+Käskyä muokata ajatuksia
+Ollut ei kapinalla juuriakaan
+Mut papereil tuhansii vuosia
+
+[Prechorus 1]
+Lapsi opi uusi kielikin
+Joka just keksittiin
+
+[Chorus]
+Kuule kun kaukaa mä viestin sulle tuon
+Valhetta onkin meil kaikki jutut nuo
+Ne väärentää vanhoja papereita arkoja
+Ja korruptoi historiaa
+ 
+[Verse 2]
+Hallinta mielen ei helppoa oo
+Pienikin särö voi sen rikkoo
+Sankari auttaa mut vihaseks saa
+Vauvasta asti kun valehellaan
+Tarkasti vannottu illuusio,
+Pilkataan uutis-sensaatiol
+Aseena puute ja inflaatio
+Kateus kuin kastraatio
+
+[Prechorus 1]
+Riita jota turhempaa ei oo
+Kerjää huomioo
+
+[Chorus]
+Kuule kun kaukaa mä viestin sulle tuon
+Valhetta onkin meil kaikki jutut nuo
+Ne väärentää vanhoja papereita arkoja
+Ja korruptoi historiaa
+
+[Chorus, chanting]
+(oo-o-o-oo)
+(oo-o-o-oo)
+(oo-o-o-oo)
+(oo-o-o-oo)
+
+
+
+Kuule kun kaukaa mä viestin sulle tuon
+Ne väärentää vanhoja papereita arkoja historian
+

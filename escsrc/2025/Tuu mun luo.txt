@@ -18,17 +18,17 @@ The song structure follows a typical verse-chorus format, with a bridge and an o
 The melody is memorable and singable,
 
 
-[Verse 1, male singer]
+[Verse 1]
 Mä sut tapasin, jälkeen eroni
 Sä veit pois mun pelkoni
 Jälleen rakastan, jahtaan unelmaa
 Sun kanssa
 
-[Pre-chorus 1, male singer]
+[Pre-chorus 1]
 Mut menneisyyskin on, ja vanhat haavat painaa
 Sun tarvii tietää ja mun unohtaa
 
-[Chorus, either singer]
+[Chorus]
 Tuu jo sänkyyn kun tahdon rakastella
 Vain sua haluan, Vain sua janoan
 Alan kuihtua kun et oo mun luona
@@ -36,16 +36,15 @@ Tuu jo sänkyyn kun tahdon rakastella
 Vain sua haluan, Vain sua janoan
 Alan kuihtua kun et oo mun luona
 
-[Verse 2, male rapper]
-Mun silmät, sun silmät, taidan rakastaa sua
+[Verse 2, male rapping]
 Mä tahdon suhun painautua, kohtaloon tarttua
 Vain sä saat tuntemaan et oon elossa
-Oot pimees majakka, suojaa haen saarestas
-Aallokossa rytmiin nukahdetaan,
+Oot mun yön tuli, sun vierelläs turvassa
+Sun sydämen tahtiin nukahdan,
 Luotas herään aina uudestaan, en vaivaa muuten vaa
 Mut helpotuksen sulta saan
 
-[Chorus, either singer]
+[Chorus]
 Tuu jo sänkyyn kun tahdon rakastella
 Vain sua haluan, Vain sua janoan
 Alan kuihtua kun et oo mun luona
@@ -53,15 +52,16 @@ Tuu jo sänkyyn kun tahdon rakastella
 Vain sua haluan, Vain sua janoan
 Alan kuihtua kun et oo mun luona
 
-[Bridge]
+[Bridge, male rapping]
 Sua tahdon rakastaa mä aina
-Vain sun kanssa tahdon nukkua, mun kulta
-Miettii tulevaa, luottaa unelmaan
-Ja joustaa
+Vain sun kanssa nukkua, mun kulta.
+Sun kaa miettii tulevaa, luottaa unelmaan,
+Ja joustaa.
 Kun erojakin on, vaik rakkaus voittaa
-Me voidaan sopia maat ja mammonat
+Me voidaan sopia maat ja mammonat,
+Jaetaan unelmat, ei pelkät tavarat
 
-[Chorus, either singer]
+[Chorus]
 Tuu jo sänkyyn kun tahdon rakastella
 Vain sua haluan, Vain sua janoan
 Alan kuihtua kun et oo mun luona
@@ -69,10 +69,11 @@ Tuu jo sänkyyn kun tahdon rakastella
 Vain sua haluan, Vain sua janoan
 Alan kuihtua kun et oo mun luona
 
-[Outro, either singer]
+[Outro]
 Tuu mun luo, beibee
 Tuu mun luo
 Tuu mun luo, beibee
+
 
 
 

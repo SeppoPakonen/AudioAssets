@@ -1,0 +1,2236 @@
+{
+	"id": 2,
+	"highest_seen_serial": 6532,
+	"seen_types": [
+
+	],
+	"root": {
+		".version": 3,
+		"id": "",
+		"type_hash": 0,
+		"serial": 6508,
+		"file": 2,
+		"is_ast": true,
+		"a.kind": 22,
+		"a.type": "",
+		"a.begin": {
+			"x": null,
+			"y": null
+		},
+		"a.end": {
+			"x": null,
+			"y": null
+		},
+		"a.filepos_hash": 0,
+		"a.is_ref": false,
+		"a.is_definition": false,
+		"a.is_disabled": false,
+		"sub": [
+			{
+				".version": 3,
+				"id": "MusicVideos",
+				"type_hash": 0,
+				"serial": 6530,
+				"file": 2,
+				"is_ast": true,
+				"a.kind": 22,
+				"a.type": "",
+				"a.begin": {
+					"x": null,
+					"y": null
+				},
+				"a.end": {
+					"x": null,
+					"y": null
+				},
+				"a.filepos_hash": 0,
+				"a.is_ref": false,
+				"a.is_definition": false,
+				"a.is_disabled": false,
+				"sub": [
+					{
+						".version": 3,
+						"id": "Mä tiedä en",
+						"type_hash": "-2999024324956135890",
+						"serial": 6512,
+						"file": 2,
+						"is_ast": true,
+						"a.kind": 22,
+						"a.type": "",
+						"a.begin": {
+							"x": null,
+							"y": null
+						},
+						"a.end": {
+							"x": null,
+							"y": null
+						},
+						"a.filepos_hash": 0,
+						"a.is_ref": false,
+						"a.is_definition": false,
+						"a.is_disabled": false,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": null
+								},
+								{
+									"key": "ctx",
+									"value": null
+								}
+							]
+						},
+						"sub": [
+							{
+								".version": 3,
+								"id": "ProtoVideoTask1",
+								"type_hash": "6187220660296067297",
+								"serial": 1586,
+								"file": 2,
+								"is_ast": false,
+								"value": {
+									"type": "ValueMap",
+									"value": [
+										{
+											"key": {
+												"type": "String",
+												"value": "artist"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Artisti on \"OuluPoko\". \r\nTarinat sijoittuvat kappaleiteen syntyhetkeen vuonna 2006.\r\nHän aloitti silloin ensimmäisen seurustelusuhteen.\r\nHän teki musiikkia Steinberg Cubase ja Guitar Pro ohjelmistoilla.\r\nHän soitti kitaraa bändissä, jonka hän itse perusti ja jota hän veti.\r\nArtisti on kasvanut vapaa-mielisessä ympäristössä ja käynyt Oulun Steinerkoulua Suomessa.\r\nHän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.\r\nSävellysten sanoitusideat kuitenkin tallentuivat sävellysten nimiin ja hän muistaakin kappaleista ja niiden ideasta paljon. Se auttoi luomaan uudet sanoitukset alkuperäistä ideaa kunnioittaen.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "title"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Mä tiedä en"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_arrangement"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_composition"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "extra"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Chorus]\r\nMä tiedä en, tiedä en, \r\net missä oot nyt.\r\nKun viestii lähties et jättänyt et jättänyt. \r\nEi susta jää, susta jäänyt johtolankaa.\r\nKun menit lähteen ennen aamua, aamua. \r\n\r\n[Verse 1]\r\nKuulen mä iltaa viettäessä että missä on muut\r\nja mitä niille siellä tapahtuu.\r\nKun kuului huhu, että joku suutelee esteettä.\r\nOli varmaan virhe kiinnostuu.\r\n\r\n[Prechorus 1]\r\nOn vaikea\r\nsut unohtaa\r\nvaik tuntees on\r\nekstaasia\r\nAidolta se tuntui\r\nvaikka kemikaali sussa vain puhui\r\n\r\n[Chorus]\r\nMä tiedä en, tiedä en, \r\net missä oot nyt.\r\nKun viestii lähties et jättänyt et jättänyt. \r\nEi susta jää, susta jää nyt johtolankaa.\r\nKun menit lähteen ennen aamua, aamua. \r\n\r\n[Verse 2]\r\nMä toivoin kai enemmän kuin tää et jää ei mitään\r\nja yllättää et pian pettyy näin\r\nEt kai tilannut mua, alkoi vain tapahtua\r\nSait bailattua, mut taisin rakastua\r\n\r\n[Prechorus 2]\r\nOn vaikea\r\nse uskoa\r\net parempaa\r\non karata\r\nTahtonut en pahaa\r\nMutta otin kaiken vastaantulevan\r\n\r\n[Chorus]\r\nMä tiedä en, tiedä en, \r\net missä oot nyt.\r\nKun viestii lähties et jättänyt et jättänyt. \r\nEi susta jää, susta jää nyt johtolankaa.\r\nKun menit lähteen ennen aamua, aamua. "
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "musicstyle"
+											},
+											"value": {
+												"type": "WString",
+												"value": "A melancholic piano-pop-triphop song in a minor key, featuring a female lead vocalist, The instrumentation includes a piano playing arpeggiated chords, a bass guitar providing a walking bass line, and a drum kit with a steady, understated beat, Synthesizer pads provide atmospheric backing, The song structure alternates between verses and choruses, with a distinct instrumental break, The tempo is moderate, The lead vocal is delivered in a clear, slightly melancholic tone, with some sustained notes, The production emphasizes clarity and separation of instruments, with a slight reverb on the vocals and piano"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "num"
+											},
+											"value": {
+												"type": "int",
+												"value": 30
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videoidea"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Nainen herää sängyssä ja ihmettelee surullisena, että minne hänen yhden illan miesystävänsä on lähtenyt."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Mä tiedä en\r\ntiedä en, \r\net missä oot nyt\r\nKun viestii lähties\r\net jättänyt\r\net jättänyt\r\nEi susta jää\r\nsusta jäänyt\r\njohtolankaa.\r\nKun menit lähteen\r\nennen aamua\r\naamua\r\nKuulen mä\r\niltaa viettäessä\r\nettä missä on muut\r\nja mitä niille\r\nsiellä tapahtuu\r\nKun kuului huhu että\r\njoku suutelee esteettä\r\nOli varmaan\r\nvirhe kiinnostuu\r\nOn vaikea\r\nsut unohtaa\r\nvaik tuntees on\r\nekstaasia\r\nAidolta\r\nse tuntui\r\nvaikka kemikaali\r\nsussa vain puhui\r\nMä toivoin kai enemmän\r\nkuin tää\r\net jää ei mitään\r\nja yllättää\r\net pian pettyy näin\r\nEt kai tilannut mua\r\nalkoi vain tapahtua\r\nSait bailattua\r\nmut taisin rakastua\r\nOn vaikea\r\nse uskoa\r\net parempaa\r\non karata\r\nTahtonut en pahaa\r\nMutta otin kaiken\r\nvastaantulevan\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 2021
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 2006
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 2021
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics_today"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "sora_preset"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Here’s a Sora style‐template you can plug into your video builder. It’s tailored to your melancholic piano-pop-triphop song, with Finnish characters (women in heavy makeup) and all the visual/production notes you asked for:\r\n\r\n1. Overall Mood & Color Palette  \r\n   • Mood: Melancholic, introspective, late-night solitude  \r\n   • Colors: Desaturated cool blues and grays, occasional muted purples or rose tones for warmth  \r\n   • Lighting: Soft, diffused, low-key; gentle backlight to create silhouettes and subtle lens flares  \r\n\r\n2. Scene Breakdown  \r\n   – Verse Scenes  \r\n     • Interior: small, Nordic-style apartment or rehearsal space  \r\n     • Props: upright or grand piano, scattered sheet music, dim desk lamp  \r\n     • Action: close-up on hands playing arpeggiated chords; medium shot of the female singer gazing out a rain-spattered window  \r\n   – Chorus Scenes  \r\n     • Location: empty urban street at night, wet pavement reflecting neon signs  \r\n     • Action: the Finnish female lead walking slowly, head down, occasional slow pan up to her face  \r\n   – Instrumental Break  \r\n     • Abstract visuals: drifting smoke or fog, soft-focus synth-pad color waves  \r\n     • Quick crossfades between piano keys, bass guitar strings, drum kit cymbals  \r\n\r\n3. Character Styling  \r\n   • Ethnicity: All on-screen characters are Finnish  \r\n   • Female Lead Vocalist:  \r\n     – Age: mid-20s  \r\n     – Skin: fair to light with cool undertones  \r\n     – Hair: loosely waved, shoulder-length or longer  \r\n     – Makeup: heavy, dramatic—dark smoky eyes, bold eyeliner, matte lipstick in deep berry or plum tones  \r\n   • Supporting Figures (optional silhouettes or cutaways): ambiguous gender, Finnish, minimal styling  \r\n\r\n4. Camera & Movement  \r\n   • Lenses: 35–50 mm prime for intimacy; occasional 85 mm for shallow depth  \r\n   • Moves: slow dolly-in/-out, gentle steadicam tracking beside the singer, static close-ups on instruments  \r\n   • Framing: off-center compositions, ample negative space to heighten solitude  \r\n\r\n5. Transitions & Effects  \r\n   • Crossfade between verse and chorus to mirror emotional wash  \r\n   • Slow zoom-through blur during pre-chorus to suggest memory/fantasy  \r\n   • Light film grain and a hint of vignette on choruses for cohesion  \r\n   • Vocal and piano reverb visually echoed by soft glow halos around light sources  \r\n\r\n6. Typography & Lyrics On-Screen  \r\n   • Font: Thin, modern sans-serif (e.g., “Avenir Next Light” or “Proxima Nova Thin”)  \r\n   • Color: Almost-white or very pale gray, 70% opacity  \r\n   • Placement: centered bottom third, line by line as the vocalist sings  \r\n   • Animation: subtle typewriter or fade-in effect in sync with each sung syllable  \r\n\r\n7. Audio-Visual Sync  \r\n   • Cut on transients: switch shots on kick drum hits or bass pickups for rhythmic cohesion  \r\n   • Let synth-pad swells dictate slow color‐wash shifts in background light  \r\n\r\nWith this template, Sora will render a cohesive, moody visual that matches the a-minor melancholic vibe, underscores your Finnish identity, and highlights the female lead’s heavy-makeup aesthetic."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "slideshow_prompts"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Music Video Slideshow Screenplay  \r\nStyle: Melancholic piano-pop-triphop in A-minor.  \r\nAspect Ratio: 16:9  \r\nColor Palette: muted cool tones (deep blues, slate grays, faded teals), occasional warm amber highlights.  \r\nTransitions: slow fades, subtle dissolves, parallax zooms.\r\n\r\n--------------------------------------------------------------------------------  \r\nTIMELINE & SCENES  \r\n\r\n0:00–0:15  INTRO (Atmospheric Establishment)  \r\n• Visual 1 (0:00–0:07)  \r\n  – Description: A lone piano on an empty rooftop at dusk, clouded sky. Soft rain begins to fall.  \r\n  – Mood: reflective, isolated.  \r\n  – AI-Prompt Option A: “Lonely grand piano on urban rooftop at dusk, overcast sky, gentle rain, cinematic moody lighting, muted blues”  \r\n  – Option B: “Solitary antique piano in empty loft, dusk light streaming through foggy windows, melancholic atmosphere”  \r\n\r\n• Visual 2 (0:07–0:15)  \r\n  – Description: Slow pan across a deserted city street wet from rain, neon reflections.  \r\n  – AI-Prompt Option A: “Empty wet city street at night, neon signs reflected in puddles, soft focus, trip-hop vibe”  \r\n  – Option B: “Abandoned urban alley with rain-soaked pavement, muted neon glows, atmospheric”  \r\n\r\n0:15–0:45  VERSE 1 (“Kuulen mä iltaa…”)\r\n• Visual 3 (0:15–0:30)  \r\n  – Description: Close-up of female protagonist’s reflection in a rain-streaked window as she gazes out.  \r\n  – AI-Prompt: “Young woman’s face reflected in rain-streaked window, wistful expression, cold color palette”  \r\n• Visual 4 (0:30–0:45)  \r\n  – Description: Blurred silhouettes of people dancing in a dim basement party, dreamy bokeh.  \r\n  – AI-Prompt Option A: “Silhouetted partygoers in dark basement, blurred motion, moody trip-hop style”  \r\n  – Option B: “Crowd dancing in low light, hazy atmosphere, warm spotlights cutting through”  \r\n\r\n0:45–1:00  PRECHORUS 1 (“On vaikea…”)\r\n• Visual 5 (0:45–0:52)  \r\n  – Description: Slow-motion drop of a single tear on the protagonist’s cheek.  \r\n  – AI-Prompt: “Close-up slow-motion tear falling on cheek, soft focus, cinematic reverb effect”  \r\n• Visual 6 (0:52–1:00)  \r\n  – Description: Abstract synth-pad visualization: swirling pastel shapes over dark background.  \r\n  – AI-Prompt: “Abstract synth waveforms, swirling pastel clouds on dark canvas, digital art”  \r\n\r\n1:00–1:30  CHORUS 1 (“Mä tiedä en…”)\r\n• Visual 7 (1:00–1:15)  \r\n  – Description: Protagonist walks away down a rainy street, backlit by a single flickering streetlamp.  \r\n  – AI-Prompt: “Woman walking alone on rain-soaked street at night, backlit by flickering lamp, melancholic”  \r\n• Visual 8 (1:15–1:30)  \r\n  – Description: Her footprints in puddles, fading behind her.  \r\n  – AI-Prompt: “Footprints in shallow rain puddles on asphalt, rippling water, evening lighting”  \r\n\r\n1:30–1:50  INSTRUMENTAL BREAK  \r\n• Visual 9 (1:30–1:40)  \r\n  – Description: Overhead time-lapse of clouds drifting fast across dark sky.  \r\n  – AI-Prompt: “Timelapse clouds racing over night sky, dark blues, high contrast”  \r\n• Visual 10 (1:40–1:50)  \r\n  – Description: Isolated bass guitar on stand, spotlight rotating slowly.  \r\n  – AI-Prompt: “Fretboard of bass guitar under rotating spotlight, moody stage vibe”  \r\n\r\n1:50–2:20  VERSE 2 (“Mä toivoin kai enemmän…”)\r\n• Visual 11 (1:50–2:05)  \r\n  – Description: Protagonist reading old text messages on phone screen in near darkness.  \r\n  – AI-Prompt: “Smartphone screen illuminating face in dark, unread messages, blue light glow”  \r\n• Visual 12 (2:05–2:20)  \r\n  – Description: Flashbacks: two silhouettes embracing, over-exposed with lens flare.  \r\n  – AI-Prompt: “Dreamy silhouette couple hugging, overexposed sunlight flare, nostalgic”  \r\n\r\n2:20–2:35  PRECHORUS 2 (“On vaikea se uskoa…”)\r\n• Visual 13 (2:20–2:28)  \r\n  – Description: Close-up on protagonist’s trembling hand letting a ring slip off finger.  \r\n  – AI-Prompt: “Hand letting ring fall off, slow motion, dim ambient lighting”  \r\n• Visual 14 (2:28–2:35)  \r\n  – Description: Smoke or vapor swirling in colored light.  \r\n  – AI-Prompt: “Colored smoke swirling in darkness, ethereal, atmospheric trip-hop aesthetic”  \r\n\r\n2:35–3:05  CHORUS 2 + OUTRO (“Mä tiedä en…” twice)\r\n• Visual 15 (2:35–2:50)  \r\n  – Description: Wide shot of protagonist standing at shore of a lake at dawn, mist rising.  \r\n  – AI-Prompt: “Woman standing by misty lake at dawn, solitary figure, pastel sunrise haze”  \r\n• Visual 16 (2:50–3:05)  \r\n  – Description: Fade to black with single piano key falling in slo-mo, landing on a reflective surface.  \r\n  – AI-Prompt: “Single piano key falling slowly onto reflective black surface, cinematic slow-motion”  \r\n\r\n--------------------------------------------------------------------------------  \r\nADDITIONAL OPTIONS  \r\n1) Urban vs Rural: swap city scenes for empty country roads, misty forests, abandoned train tracks.  \r\n2) Color Variations: use monochrome segments with a single accent color (e.g., red scarf on protagonist).  \r\n3) Animation Overlay: subtle line-art animations (music notes, droplet ripples) over live imagery.\r\n\r\nFeel free to mix-and-match visuals or AI-prompt options to best suit the song’s emotional arc."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "descriptions"
+											},
+											"value": {
+												"type": "WString",
+												"value": "TikTok Description:\r\n“\uD83C\uDFB9 Mä tiedä en” by OuluPoko – song #30 in my “old songs” series!  \r\n• Composed & arranged by hand in 2006 (age 17) – zero AI  \r\n• Video generated with Sora AI, edited by me  \r\nTap ❤️, comment your favorite line & follow for one vintage track a day!  \r\n#Mätiedäen #OuluPoko #NewMusic #PianoPop #TripHop #ThrowbackTune\r\n\r\nInstagram Caption:\r\n✨ Mä tiedä en ✨  \r\n\uD83D\uDE80 Song #30 in my daily old‐song release series  \r\n\uD83D\uDCDD Written, composed & arranged by hand in 2006 (I was 17!)  \r\n\uD83E\uDD16 Video generated with Sora AI – edited entirely by me  \r\n\uD83C\uDFB9 Melancholic piano-pop-trip-hop in a-minor, female lead vocal, atmospheric synth pads, walking bass & steady beat  \r\n\uD83D\uDCAD Story: First love, first heartbreak. Cubase & Guitar Pro powered my teen dreams at Oulu Steiner School. Lyrics were tough back then, so I let the melodies speak – now the song finally has words that honor its original spirit.  \r\n\r\nListen, save & share!  \r\n\uD83D\uDD17 Link in bio  \r\n#Mätiedäen #OuluPoko #SteinerSchool #RetroRelease #IndieArtist #DailyMusic\r\n\r\nYouTube Description:\r\nTitle: Mä tiedä en – OuluPoko (Song #30, 2006 Composition)\r\n\r\nDescription:\r\nDive into track #30 of my “Old Songs” project: “Mä tiedä en,” a hand-crafted piano-pop-trip-hop piece I wrote and arranged in 2006 at age 17. No AI touched the music or lyrics – just me, my Steinberg Cubase, Guitar Pro and a teenage heart in Oulu. The band I founded, my first relationship, and a free-spirited Steiner education all shaped this melancholic minor-key gem.  \r\n\r\n• Composition & Arrangement: 2006, by hand, no AI  \r\n• Video: Generated with Sora AI; hand-edited by me  \r\n• Genre: Melancholic piano-pop-trip-hop, moderate tempo, arpeggiated piano, walking bass, understated drums, ambient synth pads  \r\n• Vocal: Female lead, clear & slightly melancholic, with tasteful reverb  \r\n\r\nLyrics (suomi/FIN):  \r\n[Chorus]  \r\nMä tiedä en, tiedä en,  et missä oot nyt…  \r\n\r\n[Verse 1]  \r\nKuulen mä iltaa viettäessä että missä on muut…  \r\n…  \r\n\r\n(See full lyrics in pinned comment)  \r\n\r\nConnect & Support:  \r\n► Follow me on TikTok & Instagram: @OuluPoko  \r\n► Spotify ► [your link]  \r\n► Bandcamp ► [your link]  \r\n► Email ► yourname@example.com  \r\n\r\n#Mätiedäen #OuluPoko #RetroMusic #PianoPop #TripHop #HandmadeMusic #DailyRelease"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "ad_message"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "cover_image"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "english_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontname"
+											},
+											"value": {
+												"type": "String",
+												"value": "Arial"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontheight"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_bordersize"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_foreground"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_background"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_path"
+											},
+											"value": {
+												"type": "String",
+												"value": "D:\\Musiikki\\Videot\\2025-08-14 Mä tiedä en\\text"
+											}
+										}
+									]
+								},
+								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					},
+					{
+						".version": 3,
+						"id": "Yksi neljästä",
+						"type_hash": "-2999024324956135890",
+						"serial": 6516,
+						"file": 2,
+						"is_ast": true,
+						"a.kind": 22,
+						"a.type": "",
+						"a.begin": {
+							"x": null,
+							"y": null
+						},
+						"a.end": {
+							"x": null,
+							"y": null
+						},
+						"a.filepos_hash": 0,
+						"a.is_ref": false,
+						"a.is_definition": false,
+						"a.is_disabled": false,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": null
+								},
+								{
+									"key": "ctx",
+									"value": null
+								}
+							]
+						},
+						"sub": [
+							{
+								".version": 3,
+								"id": "ProtoVideoTask1",
+								"type_hash": "6187220660296067297",
+								"serial": 2153,
+								"file": 2,
+								"is_ast": false,
+								"value": {
+									"type": "ValueMap",
+									"value": [
+										{
+											"key": {
+												"type": "String",
+												"value": "artist"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Artisti on \"OuluPoko\". \r\nSävellys on tehty vuonna 2001 kun hän oli 11 vuotias.\r\nHänen kaveri opetti säveltämää Fruity Loops ohjelmalla.\r\nHän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "title"
+											},
+											"value": {
+												"type": "WString",
+												"value": "One out of four"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_arrangement"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_composition"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "extra"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Description should be in English."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Verse 1]\r\nMun mahikset on aina ollu heikkoja\r\nMuut on negatiivisii ei neutraaleja\r\nOon silti tarttunut joka tilaisuuteen \r\nJa takaiskuista löydän myötätuuleen\r\n\r\n[Prechorus 1]\r\nPysähdy en minä kuitenkaan. \r\nKu mul voimaa riittää mun matkaaaYksi neljästä, \r\nYksi neljästä. \r\nOn mun mahis\r\nOnnistuu tässä elämäs\r\nYksi neljästä, \r\nYksi neljästä. \r\nOn mun osuus \r\nMulle kuuluvist ystävistä\r\n\r\n[Verse 2]\r\nMä nostan katseeni kaukaiseen maisemaan\r\nJa rytmi kantaa mut pidemmälle tulevaan \r\nNyt pelot hajoaa sointuihin, iskuihin. \r\nKun kuljen polkuuni paikkoihin valoisiin\r\n\r\n[Prechorus 2]\r\nSydän mun lyö täyttä tahtia\r\nYlitän mun rajat askel kerrallaan\r\n\r\n[Chorus]\r\nYksi neljästä, \r\nYksi neljästä. \r\nOn mun mahis\r\nOnnistuu tässä elämäs\r\nYksi neljästä,\r\nYksi neljästä.\r\nOn mun osuus\r\nMulle kuuluvist ystävistä\r\n\r\n[Bridge]\r\nMä uskon, et unelmat kantaa mut läpi yön.\r\nMä tunnen, et rummut mun sisällä lyö\r\nMä kuulen, et basso värähtelee mun suonissa\r\nMä tiedän, et joka askel on osa suuremmas sinfonias\r\n\r\n[Chorus]\r\n(Yksi) neljästä, \r\nYksi neljästä. \r\nOn mun mahis\r\nOnnistuu tässä elämäs\r\nYksi neljästä,\r\nYksi neljästä.\r\nOn mun osuus\r\nMulle kuuluvist ystävistä"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "musicstyle"
+											},
+											"value": {
+												"type": "WString",
+												"value": "90s triphop, ska"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "num"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videoidea"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Bändi soittaa kappaletta kesäisessä merenranta maisemassa. Tarinan päähenkilönä on koomisen epäonninen mies."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "My chances have always\r\nbeen weak for sure\r\nOthers are negative\r\nnot neutral too\r\nYet I have seized every\r\nchance that I find\r\nAnd from each setback\r\nI gain tailwinds behind\r\nStill I will never\r\nstop my stride\r\n’Cause I have strength\r\nto last my ride\r\nOne out of four,\r\nThat is my chance\r\nTo make life’s dream\r\ncome true at last\r\nThat is my share\r\nOf friends that I’m\r\nmeant to have near\r\nI lift my eyes to\r\na far-away view\r\nThe rhythm carries me\r\nonward to new\r\nNow fears dissolve into\r\nchords and into beats\r\nAs I walk pathways that\r\nlead to brighter streets\r\nMy heart beats on\r\nin steady time\r\nI cross my limits\r\nstep by step I climb\r\nI know that my dreams\r\nwill still carry me\r\nthrough the night\r\nI feel that the drums\r\ndeep inside me\r\nare beating bright\r\nI hear how the bassline\r\nis humming\r\ninside my veins\r\nI know that each step\r\nis a part of\r\na greater strain"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 2021
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 2001
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 2025
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics_today"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "sora_preset"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Here’s a Sora‐style preset for your “Yksi neljästä” 90s trip-hop/ska video. Adjust any values as needed:\r\n\r\nPreset Name: “Yksi neljästä”  \r\nMusic Style: 90s trip-hop meets ska  \r\nAspect Ratio: 16:9 (widescreen)  \r\nFrame Rate: 24 fps  \r\nColor Palette:  \r\n • Muted teal, dusty rose, charcoal gray, sun-bleached yellow  \r\n • Occasional neon pink or lime green accents  \r\n\r\n— SCENE MOOD & TRANSITIONS —  \r\nOverall Mood: Gritty-dreamy, a bit nostalgic  \r\nLighting:  \r\n • Low-key with soft backlight and colored gels (teal/pink)  \r\n • Occasional lens flares, light leaks, subtle grain  \r\nTransitions:  \r\n • VHS tape glitches, quick cut to beat hits  \r\n • Film burn flash for chorus hits  \r\nCamera Moves:  \r\n • Verse: slow handheld push-ins and slight Dutch tilts  \r\n • Pre-chorus: smooth slider pans left→right  \r\n • Chorus: rhythmic rhythmic cuts, occasional whip pans  \r\n\r\n— CHARACTER STYLING —  \r\nEthnicity: Finnish (all principal performers/background extras)  \r\nClothing & Hair:  \r\n • 90s streetwear: vintage denim jackets, oversized hoodies, cargo pants  \r\n • Layered chains, studded belts, canvas sneakers or Dr. Martens  \r\n • Hair loosely tousled or in playful half-up styles  \r\nMakeup:  \r\n • Women: heavy, graphic 90s-inspired makeup (thick eyeliner wings, bold colored eyeshadow, vibrant lipstick)  \r\n • Men: minimal grooming products (matte finish), light stubble optional  \r\n\r\n— SCENE BREAKDOWN —  \r\nVerse 1 (00:10–00:40)  \r\n • Urban rooftop at dusk; performer framed mid-waist; slow handheld counter-light  \r\n • Overlay subtle film grain, low opacity lyric captions in chunky sans  \r\n\r\nPre-chorus 1 (00:40–00:55)  \r\n • Quick-cut close-ups on eyes, feet stepping, hands on hips  \r\n • Color pulsing with bass hits, slight VHS glitch  \r\n\r\nChorus 1 (00:55–01:15)  \r\n • Wide shot of group dancing in an industrial warehouse  \r\n • Neon tube lights flashing on beats; whip pans between singers  \r\n\r\nVerse 2 (01:15–01:45)  \r\n • Forest clearing at dawn; rays through trees; performer walking forward  \r\n • Slow slider track, warm teal-yellow color grade  \r\n\r\nPre-chorus 2 (01:45–02:00)  \r\n • Silhouettes against backlit fog; rhythmic cross-cuts  \r\n\r\nBridge (02:00–02:25)  \r\n • Montage: city street, underground club, empty highway at night  \r\n • Quick jump cuts on each lyric line; audio “whoosh” transitions  \r\n\r\nFinal Chorus (02:25–03:00)  \r\n • Combine rooftop, warehouse, forest elements in split-screen  \r\n • Fully saturated color bursts on every downbeat  \r\n • End on freeze-frame of performer’s triumphant pose  \r\n\r\n— TYPOGRAPHY & GRAPHICS —  \r\n • Title font: Bold, geometric sans (e.g. Futura Extra Bold)  \r\n • Lyric captions: all-caps, semi-transparent blocks behind text  \r\n • Color of captions: alternating between dusty rose and teal  \r\n\r\nUse this as your starting template. Tweak timings, camera angles or color tints to fit your edit and maintain that 90s trip-hop/ska vibe. Enjoy making “Yksi neljästä” come alive!"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "slideshow_prompts"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Below is a shot-by-shot slideshow screenplay for your 90s trip-hop/ska track, with two AI-image-generator prompt options per scene. Feel free to swap, mix or adapt later in the editor.\r\n\r\nSCENE 1 (0:00–0:15) Verse 1 “Mun mahikset on aina ollu heikkoja…”\r\n- Music cue: filtered breakbeat intro, moody Rhodes pad  \r\n- Visual: solitary figure against urban dawn, pensive mood  \r\n  • Text overlay (lower-third, slight VHS glitch): “Mun mahikset on aina ollu heikkoja”  \r\n- Prompt A: “A lone urban rooftop at sunrise, misty skyline, vintage 90s VHS grain, cool teal and orange tones, reflective mood”  \r\n- Prompt B: “Abstract collage of cracked glass and soft glowing neon numbers, muted palette, retro trip-hop vibe, close-up face silhouette”  \r\n\r\nSCENE 2 (0:15–0:30) Verse 1 “Muut on negatiivisii ei neutraaleja…”\r\n- Music cue: ska guitar chop enters, punchy off-beat  \r\n- Visual: split-screen of negative words flashing out, then erased  \r\n  • Text overlay: “Muut on negatiivisii” → glitch → “ei neutraaleja”  \r\n- Prompt A: “Split-screen wall of graffiti words ‘NEGATIVE’, black and white, tear-away poster effect, ska checkerboard border”  \r\n- Prompt B: “Digital glitch animation of negative comments dissolving into light, retro pixel distortion”  \r\n\r\nSCENE 3 (0:30–0:45) Pre-chorus 1 “Pysähdy en minä kuitenkaan…Yksi neljästä”\r\n- Music cue: bass swells, brass stab accent  \r\n- Visual: feet stepping on numbered tiles (1-4), tight close-ups  \r\n  • Text overlay (center, bold): “Yksi neljästä”  \r\n- Prompt A: “Close-up of feet walking on worn concrete tiles numbered 1 to 4, ska checkerboard border, warm film grain”  \r\n- Prompt B: “Abstract shot of glowing numbers ‘1 4’ floating in smoky nightclub, brass instruments faintly visible in background”  \r\n\r\nSCENE 4 (0:45–1:00) Verse 2 “Mä nostan katseeni kaukaiseen maisemaan…”\r\n- Music cue: dream-like pad, downtempo breakbeat  \r\n- Visual: panoramic cityscape sweeping into horizon  \r\n  • Text overlay (top-center): “Nyt pelot hajoaa sointuihin, iskuihin”  \r\n- Prompt A: “Wide aerial view of distant metropolis at twilight, soft haze, 90s film stock aesthetic”  \r\n- Prompt B: “Person silhouette on hill looking at future city skyline, ambient lights, pastel sky”  \r\n\r\nSCENE 5 (1:00–1:15) Pre-chorus 2 “Sydän mun lyö täyttä tahtia…”\r\n- Music cue: heartbeat pad, percussion intensifies  \r\n- Visual: pulsating neon heart overlay on abstract waves  \r\n  • Text overlay (animated to beat): “Ylitän mun rajat askel kerrallaan”  \r\n- Prompt A: “Neon heartbeat waveform over dark background, vibrant pink and teal, glitch edges”  \r\n- Prompt B: “Close-up of chest silhouette with glowing pulse lines, cinematic trip-hop lighting”  \r\n\r\nSCENE 6 (1:15–1:35) Chorus “Yksi neljästä…On mun mahis”\r\n- Music cue: full band drop with brass and bass  \r\n- Visual: rapid slideshow of friends jumping, smiling, fist-bumps  \r\n  • Text overlay (centered, big): “On mun mahis / Onnistuu tässä elämässä”  \r\n- Prompt A: “Collage of diverse friends in urban skate park, dynamic poses, 90s filter, ska vibes”  \r\n- Prompt B: “High-contrast polaroid snapshots of group hanging out, checkerboard patterns, warm tones”  \r\n\r\nSCENE 7 (1:35–1:55) Bridge “Mä uskon, et unelmat kantaa mut läpi yön…”\r\n- Music cue: stripped-back beat, ethereal vocal echo  \r\n- Visual: slow-motion drum sticks, brass mouthpiece close-up, throbbing bass lines animated  \r\n  • Text overlay (small, bottom): “Joka askel on osa suurempaa sinfoniaa”  \r\n- Prompt A: “Macro shot of drumstick mid-air, smoky backdrop, soft spotlight, cinematic grain”  \r\n- Prompt B: “Floating bass guitar strings vibrating in low light, warm amber glow, 90s retro aesthetic”  \r\n\r\nSCENE 8 (1:55–2:15) Final Chorus “Yksi neljästä…Mulle kuuluvist ystävistä”\r\n- Music cue: all elements climax, echoing brass screech  \r\n- Visual: reunion montage—friends embrace under neon signs, confetti, fireworks  \r\n  • Text overlay (bold, white): “Mulle kuuluvist ystävistä”  \r\n- Prompt A: “Group hug in front of neon ska-striped wall, confetti falling, vibrant festival energy”  \r\n- Prompt B: “Nighttime urban street party, fireworks overhead, intimate smiles, retro filter”  \r\n\r\nTransitions:  \r\n- Use 0.5–1s VHS glitches or light leaks between scenes  \r\n- Occasional checkerboard wipe nod to ska  \r\n- Text overlays flicker in time with off-beat accents  \r\n\r\nFeel free to pick from A/B prompts or combine elements to fit your edit."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "descriptions"
+											},
+											"value": {
+												"type": "WString",
+												"value": "TikTok Description  \r\nDropping Day 1 of my “old songs” series: “One out of four” \uD83C\uDFB6  \r\n• Composed by hand in 2001 when I was 11—no AI in the music  \r\n• Video generated by Sora AI, hand-edited by me ✂️  \r\n• 90s trip-hop × ska vibes  \r\n#OneOutOfFour #OuluPoko #ThrowbackTrack #90sTripHop #Ska  \r\n\r\nInstagram Caption  \r\n\uD83C\uDFB5 Day 1: “One out of four” is finally out!  \r\n• Written & produced by me (age 11–12) in 2001 with Fruity Loops—100% human-made  \r\n• Video generated by Sora AI & lovingly edited by hand  \r\n• Dive into some nostalgic 90s trip-hop meets ska energy ✨  \r\nLink in bio to listen & watch!  \r\n#OneOutOfFour #OuluPoko #ThrowbackMusic #90sVibes #TripHop #Ska  \r\n\r\nYouTube Description  \r\nTitle: One out of four  \r\nArtist: OuluPoko  \r\n\r\nAbout This Track  \r\n• Originally composed in 2001 when I was 11 years old, taught to use Fruity Loops by a friend.  \r\n• I was shy and not yet confident writing lyrics, so I poured myself into melodies instead.  \r\n• No AI was used to create the music—100% hand-crafted composition.  \r\n• The video visuals were generated with Sora AI and hand-edited by me.  \r\n\r\nGenre  \r\n90s trip-hop / ska fusion  \r\n\r\nLyrics  \r\n[Verse 1]  \r\nMy chances have always been weak  \r\nOthers stay negative, never neutral  \r\nStill, I’ve seized every opportunity  \r\nFrom setbacks I find a tailwind  \r\n\r\n[Pre-Chorus 1]  \r\nI won’t stop, I’ve got the strength to keep on  \r\nOne out of four, one out of four  \r\nIt’s my chance  \r\nTo make it through this life  \r\nOne out of four, one out of four  \r\nIt’s my share  \r\nOf friends who belong to me  \r\n\r\n[Verse 2]  \r\nI lift my gaze to distant horizons  \r\nAnd the rhythm carries me toward the future  \r\nNow fears break into melodies and beats  \r\nAs I walk my path toward the light  \r\n\r\n[Pre-Chorus 2]  \r\nMy heart beats full tempo  \r\nI push past my limits, one step at a time  \r\n\r\n[Chorus]  \r\nOne out of four, one out of four  \r\nIt’s my chance  \r\nTo make it through this life  \r\nOne out of four, one out of four  \r\nIt’s my share  \r\nOf friends who belong to me  \r\n\r\n[Bridge]  \r\nI believe my dreams will carry me through the night  \r\nI feel the drums pounding inside of me  \r\nI hear the bass vibrating through my veins  \r\nI know every step is part of a greater symphony  \r\n\r\n[Chorus]  \r\nOne out of four, one out of four  \r\nIt’s my chance  \r\nTo make it through this life  \r\nOne out of four, one out of four  \r\nIt’s my share  \r\nOf friends who belong to me  \r\n\r\nConnect With Me  \r\n\uD83D\uDD17 Instagram: @OuluPoko  \r\n\uD83D\uDD17 TikTok: @OuluPoko  \r\n\uD83D\uDC4D If you enjoyed this throwback, subscribe & hit the bell for daily releases!"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "ad_message"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Title: “One Out of Four”  \r\nArtist: OuluPoko  \r\n\r\nDescription:  \r\nI’m kicking off a four-day throwback series by releasing one of my very first tracks, composed back in 2001 when I was just 11 years old. “One Out of Four” blends 90s-style trip-hop grooves with a dash of ska energy—all created by hand (no AI involved in the music!) using Fruity Loops under the guidance of a friend. The music video? That’s a fresh Sora AI render, hand-cut and edited by me.  \r\n\r\nDive into the nostalgia as I transform childhood dreams into today’s soundscape. Hit play, follow for tomorrow’s release, and let’s take this sonic journey together!  \r\n\r\n#OuluPoko #OneOutOfFour #90sTriphop #Ska #OldSchoolBeats #DailyRelease"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "cover_image"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "english_lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Verse 1]\r\nMy chances have always been weak for sure\r\nOthers are negative, not neutral too\r\nYet I have seized every chance that I find\r\nAnd from each setback I gain tailwinds behind\r\n\r\n[Prechorus 1]\r\nStill I will never stop my stride\r\n’Cause I have strength to last my ride\r\n\r\n[Chorus]\r\nOne out of four,\r\nOne out of four,\r\nThat is my chance\r\nTo make life’s dream come true at last\r\nOne out of four,\r\nOne out of four,\r\nThat is my share\r\nOf friends that I’m meant to have near\r\n\r\n[Verse 2]\r\nI lift my eyes to a far-away view\r\nThe rhythm carries me onward to new\r\nNow fears dissolve into chords and into beats\r\nAs I walk pathways that lead to brighter streets\r\n\r\n[Prechorus 2]\r\nMy heart beats on in steady time\r\nI cross my limits, step by step I climb\r\n\r\n[Chorus]\r\nOne out of four,\r\nOne out of four,\r\nThat is my chance\r\nTo make life’s dream come true at last\r\nOne out of four,\r\nOne out of four,\r\nThat is my share\r\nOf friends that I’m meant to have near\r\n\r\n[Bridge]\r\nI know that my dreams will still carry me through the night\r\nI feel that the drums deep inside me are beating bright\r\nI hear how the bassline is humming inside my veins\r\nI know that each step is a part of a greater strain\r\n\r\n[Chorus]\r\n(One out) of four,\r\nOne out of four,\r\nThat is my chance\r\nTo make life’s dream come true at last\r\nOne out of four,\r\nOne out of four,\r\nThat is my share\r\nOf friends that I’m meant to have near"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontname"
+											},
+											"value": {
+												"type": "String",
+												"value": "Bravura Text"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontheight"
+											},
+											"value": {
+												"type": "int",
+												"value": 36
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_bordersize"
+											},
+											"value": {
+												"type": "int",
+												"value": 4
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_foreground"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 255,
+													"green": 255,
+													"blue": 255
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_background"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 0,
+													"green": 0,
+													"blue": 0
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_path"
+											},
+											"value": {
+												"type": "String",
+												"value": "D:\\Musiikki\\Videot\\E01 Yksi neljästä\\engtxt"
+											}
+										}
+									]
+								},
+								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					},
+					{
+						".version": 3,
+						"id": "Onneen tai tuhoon",
+						"type_hash": "-2999024324956135890",
+						"serial": 6520,
+						"file": 2,
+						"is_ast": true,
+						"a.kind": 22,
+						"a.type": "",
+						"a.begin": {
+							"x": null,
+							"y": null
+						},
+						"a.end": {
+							"x": null,
+							"y": null
+						},
+						"a.filepos_hash": 0,
+						"a.is_ref": false,
+						"a.is_definition": false,
+						"a.is_disabled": false,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": null
+								},
+								{
+									"key": "ctx",
+									"value": null
+								}
+							]
+						},
+						"sub": [
+							{
+								".version": 3,
+								"id": "ProtoVideoTask1",
+								"type_hash": "6187220660296067297",
+								"serial": 3113,
+								"file": 2,
+								"is_ast": false,
+								"value": {
+									"type": "ValueMap",
+									"value": [
+										{
+											"key": {
+												"type": "String",
+												"value": "artist"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Artisti on \"OuluPoko\". \r\nSävellys on tehty vuonna 2002 kun hän oli 11 vuotias.\r\nHänen kaveri opetti säveltämää Fruity Loops ohjelmalla.\r\nHän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "title"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Onneen tai tuhoon"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_arrangement"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_composition"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "extra"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Description should be in English."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Chorus]\r\nMä nään energia virtoja jo suoraan voittoon \r\nMe kuljetaan meidän sisulla onneen tai tuhoon\r\n\t\r\n[Verse 1]\r\nOot metsästäjä keskellä neon valoja\r\nJahtaamas yhtä ja ainoaa kaaoksessa\r\nSä ja sun oma miehistö, teil pulssi hakkaa kuin tykistö\r\nValmiina valloittamaan, oikeeta hetkee odotetaan\r\n\r\n[Chorus]\r\nMä nään energia virtoja jo suoraan voittoon \r\nMe kuljetaan meidän sisulla onneen tai tuhoon\r\n\r\n[Verse 2]\r\nTeräksen harmaan taivaan alla vaelletaan\r\nTaktiikka kehittyy, päätökset meitä ohjaa\r\nKerätään putoamisen palaset ja kasataan ne palapeliksi\r\nTehtävä on edessä, se kutsuu voiman rippeet viel esiin\r\n\r\n[Chorus]\r\nMä nään energia virtoja jo suoraan voittoon \r\nMe kuljetaan meidän sisulla onneen tai tuhoon\r\n\r\n[Bridge]\r\nKun epäilyyn melkein vajotaan\r\nAnkkuroidaan uskoon asian\r\nArvet on voiman kudelma\r\nNyt tääl vaik oltiin kusessa\r\nHaasteiden uunissa kuumenee,\r\nviidakkorumpu kumisee\r\nKu mennään vyöryyn viimiseen,\r\npalkinto aamunkoitos säteilee\r\nHaasteiden uunissa kuumenee,\r\nviidakkorumpu kumisee\r\nKu mennään vyöryyn viimiseen,\r\npalkinto meille säteilee\r\n\r\n[Chorus]\r\nNään energia virtoja jo suoraan voittoon \r\nMe kuljetaan meidän sisulla onneen tai tuhoon\r\n\r\n[Outro]\r\nOnneen tai tuhoon\r\nOnneen tai tuhoon\r\nOnneen tai tuhoon\r\nOnneen tai tuhoon"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "musicstyle"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "num"
+											},
+											"value": {
+												"type": "int",
+												"value": 2
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videoidea"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Alkuperäinen idea on klaanibiisi kolmen pojan lan-moninpeli-klaanille. Pelinä oli mm. Battlefield 1942."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "See streams of energy\r\nflow straight to winning\r\nWe walk ahead with grit\r\nto victory or ruin\r\nYou’re a hunter\r\ninside all\r\nthe neon shining lights\r\nChasing that single thing\r\nin the storm\r\nand flashing nights\r\nYou and your loyal crew,\r\nyour hearts pound\r\nlike heavy guns\r\nReady to take the crown,\r\nwe wait ‘til\r\nthe right time comes\r\nUnder the steel-grey skies\r\nwe keep moving on our way\r\nTactics are shaping now\r\nevery choice will guide our play\r\nGather the fallen shards\r\nwe will piece them one by one\r\nMission ahead of us\r\ncalls the last of strength to come\r\nWhen we almost sink\r\nin doubt’s embrace\r\nWe will anchor faith\r\nin our case\r\nScars are the threads\r\nthat weave our might\r\nEven though\r\nwe’ve been in a fight\r\nIn trials’ furnace\r\nthe heat will blaze\r\nthe jungle drumbeat\r\nstill shakes the days\r\nWe charge the onslaught\r\nuntil the end\r\nthe prize at dawn’s glow\r\nwill shine again\r\nTo victory or ruin"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 2021
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 2002
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 2025
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics_today"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "sora_preset"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Here’s an English‐language style preset for Sora, based on “Onneen tai tuhoon.” It structures the video into sections aligned with the lyrics and adds your requested character notes.\r\n\r\n1. General Mood & Tone  \r\n• High energy, driving momentum—visual “energy streams” pulsing toward triumph  \r\n• Contrast between neon-lit city/forest and steely battlefields  \r\n• Gritty determination, unity, stakes of success or ruin  \r\n\r\n2. Characters  \r\n• Ethnicity: Finnish  \r\n• Costume: Modern tactical gear mixed with streetwear; touches of neon for chorus  \r\n• Women: Heavy makeup—bold lipstick, dramatic smoky eyes, defined brows  \r\n• Men: Clean features, subtle stubble, purposeful gaze  \r\n\r\n3. Color Palette & Lighting  \r\n• Chorus: Vivid neon blues, purples, pinks against deep shadows—“energy streams” glow  \r\n• Verses: Desaturated steel-grays and muted teals under overcast skies  \r\n• Bridge: Warm embers of orange/red—rising heat, urgency  \r\n• Outro: High-contrast silhouette shots with backlit glow  \r\n\r\n5. Camera & VFX Notes  \r\n• Use smooth crane and steadicam for orchestration of group movement  \r\n• Occasional quick whip pans and hard cuts in choruses  \r\n• Overlay semi-transparent “energy stream” particle effects in neon scenes  \r\n• Light leaks, flares, and lens distortion for intensity spikes  \r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "slideshow_prompts"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Below is a shot-by-shot slideshow screenplay in English, paired with AI-image-generator text prompts. For each scene you’ll find a primary prompt plus two optional variations.\r\n\r\n1. Scene 1 – Opening Chorus (0:00–0:15)  \r\n   Visuals: Abstract energy streams coalescing into a bright point of light.  \r\n   • Prompt A: “swirling neon energy flows converging to a central bright light, dynamic abstract art, high contrast”  \r\n   • Option B: “vibrant electric currents in motion, dark background, glowing threads”  \r\n   • Option C: “energetic light trails forming a vortex, futuristic atmosphere, vivid colors”\r\n\r\n2. Scene 2 – Chorus Continued (0:15–0:30)  \r\n   Visuals: Silhouettes running along a glowing path of energy toward a distant horizon.  \r\n   • Prompt A: “silhouetted figures racing on a glowing neon track toward sunrise, cinematic perspective”  \r\n   • Option B: “dynamic group sprinting on luminous road, dusk sky, sense of motion”  \r\n   • Option C: “team of runners in dark silhouettes, path illuminated by flowing light, epic mood”\r\n\r\n3. Scene 3 – Verse 1, Part 1 (0:30–0:45)  \r\n   Visuals: A lone hunter in a rain-slicked neon cityscape, scanning the chaos.  \r\n   • Prompt A: “cyberpunk hunter in neon city, rain reflections, moody atmosphere”  \r\n   • Option B: “futuristic lone warrior in glowing urban jungle at night, raindrops”  \r\n   • Option C: “mysterious figure holding high-tech gear amid neon signs and wet pavement”\r\n\r\n4. Scene 4 – Verse 1, Part 2 (0:45–1:00)  \r\n   Visuals: The hunter joins a tight-knit crew, pulses of light visibly emanating from their chests like artillery.  \r\n   • Prompt A: “team of futuristic fighters with glowing chest pulses, dark alley, tension”  \r\n   • Option B: “group of neon-lit soldiers ready for battle, energy cores glowing”  \r\n   • Option C: “assembled squad in urban wasteland, heartbeat-like light bursts, gritty sci-fi”\r\n\r\n5. Scene 5 – Chorus (1:00–1:15)  \r\n   Visuals: Return to abstract energy flows, now forming a stylized victory emblem.  \r\n   • Prompt A: “neon energy streams shaping a victorious crest or emblem, abstract”  \r\n   • Option B: “glowing filaments assembling into a trophy shape, dynamic light”  \r\n   • Option C: “bright energy ribbons forming a rune of triumph, futuristic art”\r\n\r\n6. Scene 6 – Verse 2, Part 1 (1:15–1:30)  \r\n   Visuals: A steel-grey sky arches over marching silhouettes, tactical maps and decisions fade in.  \r\n   • Prompt A: “parade of silhouettes under steel-grey sky, overlay tactical schematics, cinematic”  \r\n   • Option B: “soldiers walking beneath an overcast metallic sky, faded strategy diagrams”  \r\n   • Option C: “dark clouds above marching figures, translucent planning grid superimposed”\r\n\r\n7. Scene 7 – Verse 2, Part 2 (1:30–1:45)  \r\n   Visuals: Broken shards falling, reassembling into a puzzle that glows as it completes.  \r\n   • Prompt A: “shards of light falling then reassembling into glowing puzzle, mystical”  \r\n   • Option B: “fragmented pieces floating, snapping together into luminous mosaic”  \r\n   • Option C: “falling glass shards coalescing into an illuminated jigsaw, surreal”\r\n\r\n8. Scene 8 – Chorus (1:45–2:00)  \r\n   Visuals: Energy rivers lifting the group upward; the horizon brightens to sunrise.  \r\n   • Prompt A: “energy streams lifting figures skyward toward glowing dawn, hopeful”  \r\n   • Option B: “group ascending on light beams toward blazing horizon”  \r\n   • Option C: “floating silhouettes bathed in flowing light, sunrise backdrop”\r\n\r\n9. Scene 9 – Bridge, Part 1 (2:00–2:20)  \r\n   Visuals: Darkness closing in, anchors drop into glowing faith symbols. Scars appear as golden threads on skin.  \r\n   • Prompt A: “dark storm swirling, anchor glowing with light, golden scar threads on arms”  \r\n   • Option B: “close-up hand dropping anchor to radiant symbol, faint scars illuminated”  \r\n   • Option C: “melancholic figure with glowing anchor tattoo and golden scar lines”\r\n\r\n10. Scene 10 – Bridge, Part 2 (2:20–2:40)  \r\n    Visuals: A forge-like chamber where challenges heat up; jungle drums echo as characters pound metal.  \r\n    • Prompt A: “embers and molten metal in dark forge, silhouettes beating drums, tribal”  \r\n    • Option B: “warriors pounding steel in fiery furnace, rhythmic jungle drum vibe”  \r\n    • Option C: “dramatic forge scene, glowing coals, drummers hidden in shadows”\r\n\r\n11. Scene 11 – Bridge, Final (2:40–3:00)  \r\n    Visuals: Last charge into a glowing storm; the prize appears as a radiant orb at the eye of the storm.  \r\n    • Prompt A: “figures charging into swirling energy storm toward a radiant orb”  \r\n    • Option B: “warband rushing into vortex of light, central glowing prize”  \r\n    • Option C: “battle-ready silhouettes diving into luminous tempest, orb waiting”\r\n\r\n12. Scene 12 – Final Chorus (3:00–3:20)  \r\n    Visuals: Victory emblem reconstructed by energy flows, beams stretch outward like sunrise rays.  \r\n    • Prompt A: “triumphal neon emblem shining, rays of light extend across horizon”  \r\n    • Option B: “energy crest bursting into morning light, panoramic glow”  \r\n    • Option C: “glowing symbol of victory exploding into radiant sunbeams”\r\n\r\n13. Scene 13 – Outro (3:20–3:40)  \r\n    Visuals: Black frames with white text “Onneen tai tuhoon” fading in and out in rhythm.  \r\n    • Prompt A: “minimal black background with pulsing white text ‘Onneen tai tuhoon’”  \r\n    • Option B: “dark slide, bold white typography fading, Finnish phrase repeating”  \r\n    • Option C: “black screen, neon-outline font displaying ‘Onneen tai tuhoon’ in strobe”\r\n\r\nUse these prompts or mix and match the options as needed. Each slide transitions with a quick crossfade timed to the beat."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "descriptions"
+											},
+											"value": {
+												"type": "WString",
+												"value": "TikTok Description  \r\nDay 2 of my #OneSongADay series: “Onneen tai tuhoon” by OuluPoko, composed in 2002 when I was just 13. 100% hand-made in Fruity Loops—no AI used in the music. Video generated by Sora AI & hand-edited by me. Tap the link in bio for full listen! \uD83C\uDFB6✨ #OuluPoko #DIYMusic #OldSongsDaily #NewMusic\r\n\r\nInstagram Caption  \r\n\uD83D\uDD0A SONG #2: “To Victory or Ruin” by @OuluPoko  \r\nBack in 2002, at age 12, I was too shy to write lyrics so I taught myself Fruity Loops from a friend and composed this track entirely by hand—no AI in the music. The visuals you see? Generated by Sora AI and hand-edited by me.  \r\n✨ Daily throwback series: one old song released each day  \r\n❤️ Tap ❤️ if you rock with it, and drop your favorite lyric below!  \r\n\uD83D\uDD17 Full track in bio  \r\n#OnneenTaiTuhoon #OuluPoko #Throwback #DIYProducer #MusicJourney #FruityLoops\r\n\r\nYouTube Description  \r\nTitle: Onneen tai tuhoon – OuluPoko (2002 Demo)\r\n\r\nWelcome to song #2 of my Old-Songs-Daily series!  \r\n• Written & produced in 2002 at age 13 (learning Fruity Loops from a friend)  \r\n• 100% hand-composed—no AI used in the music  \r\n• Visuals generated by Sora AI; video edited by me  \r\nThank you for joining this nostalgia trip. If you enjoy it, please \uD83D\uDC4D Like, \uD83D\uDCDD Comment your favorite line, and \uD83D\uDD14 Subscribe for more unreleased demos!\r\n\r\nStream & download “Onneen tai tuhoon”: [your link here]  \r\nFollow me on socials for daily releases!  \r\n#OuluPoko #OnneenTaiTuhoon #Demo2002 #DIYMusic #MusicProducer"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "ad_message"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "cover_image"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "english_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontname"
+											},
+											"value": {
+												"type": "String",
+												"value": "Bravura Text"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontheight"
+											},
+											"value": {
+												"type": "int",
+												"value": 36
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_bordersize"
+											},
+											"value": {
+												"type": "int",
+												"value": 4
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_foreground"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 255,
+													"green": 255,
+													"blue": 255
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_background"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 0,
+													"green": 0,
+													"blue": 0
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_path"
+											},
+											"value": {
+												"type": "String",
+												"value": "D:\\Musiikki\\Videot\\E02 Victory or ruins\\txt-eng"
+											}
+										}
+									]
+								},
+								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					},
+					{
+						".version": 3,
+						"id": "Puumaja",
+						"type_hash": "-2999024324956135890",
+						"serial": 6524,
+						"file": 2,
+						"is_ast": true,
+						"a.kind": 22,
+						"a.type": "",
+						"a.begin": {
+							"x": null,
+							"y": null
+						},
+						"a.end": {
+							"x": null,
+							"y": null
+						},
+						"a.filepos_hash": 0,
+						"a.is_ref": false,
+						"a.is_definition": false,
+						"a.is_disabled": false,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": null
+								},
+								{
+									"key": "ctx",
+									"value": null
+								}
+							]
+						},
+						"sub": [
+							{
+								".version": 3,
+								"id": "ProtoVideoTask1",
+								"type_hash": "6187220660296067297",
+								"serial": 3477,
+								"file": 2,
+								"is_ast": false,
+								"value": {
+									"type": "ValueMap",
+									"value": [
+										{
+											"key": {
+												"type": "String",
+												"value": "artist"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Artisti on \"OuluPoko\". \r\nTarinat sijoittuvat kappaleiteen syntyhetkeen vuonna 2006.\r\nHän aloitti silloin ensimmäisen seurustelusuhteen.\r\nHän teki musiikkia Steinberg Cubase ja Guitar Pro ohjelmistoilla.\r\nHän soitti kitaraa bändissä, jonka hän itse perusti ja jota hän veti.\r\nArtisti on kasvanut vapaa-mielisessä ympäristössä ja käynyt Oulun Steinerkoulua Suomessa.\r\nHän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.\r\nSävellysten sanoitusideat kuitenkin tallentuivat sävellysten nimiin ja hän muistaakin kappaleista ja niiden ideasta paljon. Se auttoi luomaan uudet sanoitukset alkuperäistä ideaa kunnioittaen.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "title"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Puumaja"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_arrangement"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_composition"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "extra"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Verse 1]\r\nKesäilta ja kukat tuoksuvat\r\nMetsäilma ja haavat huojuvat\r\nMajan halusit tehdä korkeelle\r\nHetken oli totta haaveemme\r\n\r\n[Prechorus 1]\r\nÖisin viet mut uniin uusiin\r\nYlös hyppiin suuriin kuusiin\r\nOon orava, oon sun\r\nOot sydänkäpy mun\r\nMut joskus iltaisin en unta saa-aa-aa\r\nSe hulluks tekee kun en voi sua koskettaa\r\n\r\n[Chorus]\r\nMeidän puumaja vielä pystyssä on\r\nSiellä käyn kun on olo onneton\r\nMietin missä oot, minne maailma vei\r\nToivon et sua kohdeltu on oikein\r\n\r\n[Verse 2]\r\nSyksy saapuu ja lehdet putoaa\r\nvielä maja meitä vieraaks odottaa\r\nNimes kirjoitin mä seinään lahoovaan\r\nEttei aika sais pois sua katoomaan\r\n\r\n[Prechorus 2]\r\nÖisin unis tuut mun luokse\r\nTunnen sut ja tutun luontees\r\nOon orava, oon sun\r\nOot sydänkäpy mun\r\nMut joskus menetys sun liikaa harmittaa\r\nSe hulluks tekee kun en voi sua koskettaa\r\n\r\n[Chorus]\r\nMeidän puumaja vielä pystyssä on\r\nSiellä käyn kun on olo onneton\r\nMietin missä oot, minne maailma vei\r\nToivon et sua kohdeltu on oikein\r\n\r\n[Bridge]\r\nMä en halunnut koskaan sua loukata, tahallaan\r\nNyt mä mietin et suhteen oisin voinut korjata\r\n\r\n[Chorus]\r\nMeidän puumaja vielä pystyssä on\r\nSiellä käyn kun on olo onneton\r\nMietin missä oot, minne maailma vei\r\nToivon et sua kohdeltu on oikein\r\n\r\n[Outro]\r\nVaik aika ei tuo sua takas\r\nMä muistan aina, kun olit mun rakas\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "musicstyle"
+											},
+											"value": {
+												"type": "WString",
+												"value": "A melancholic pop-rock song with a female vocalist,\r\nThe song features a clean electric guitar playing arpeggiated chords, a bass guitar providing a walking bass line, and a drum kit with a simple rock beat,\r\nThe tempo is moderate, and the key is minor,\r\nThe vocals are delivered in a clear, slightly melancholic tone, with some sustained notes,\r\nThe production is clean, with a focus on the instrumental arrangement supporting the vocal melody,\r\nThere are no significant production effects beyond standard mixing and mastering,\r\nThe song structure includes verses and a chorus, with instrumental breaks,\r\nThe melody is memorable and follows the chord progression closely\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "num"
+											},
+											"value": {
+												"type": "int",
+												"value": 32
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videoidea"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Videossa on 2 osaa. \r\nEnsimmäisessä osassa on kaksi nuorta naista, jotka rakentaa puumajaa tyypilliseen suomalaiseen metsään, jossa on sekaisin koivuja, mäntyjä ja kuusia. He ovat rakastuneita.\r\nToisessa osassa nainen muistelee vanhempana ja keski-ikäisenä toista naista. Hän on melankolinen tai hieman surullinen.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 2006
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 2006
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 2025
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics_today"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "sora_preset"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Style Preset: “Puumaja”\r\n\r\n1. General Mood & Genre  \r\n   • Melancholic pop-rock with a clear, emotional female vocal  \r\n   • Moderate tempo, minor key  \r\n\r\n2. Instrumentation & Arrangement  \r\n   • Clean electric guitar playing arpeggiated chords  \r\n   • Bass guitar with a walking bass line  \r\n   • Drum kit with a simple rock beat  \r\n   • No heavy effects—standard mixing and mastering  \r\n\r\n3. Vocal Style  \r\n   • Female vocalist, clear and slightly melancholic tone  \r\n   • Some sustained notes in phrases  \r\n   • Lyrics in Finnish  \r\n\r\n4. Song Structure  \r\n   • Verse → Pre-chorus → Chorus → Verse → Pre-chorus → Chorus → Bridge → Chorus → Outro  \r\n   • Instrumental breaks between sections  \r\n\r\n5. Melody & Harmony  \r\n   • Memorable, closely following chord progression  \r\n   • Minor-key motifs that evoke longing  \r\n\r\n6. Lyrics (Finnish)  \r\n   Verse 1  \r\n     Kesäilta ja kukat tuoksuvat  \r\n     Metsäilma ja haavat huojuvat  \r\n     Majan halusit tehdä korkeelle  \r\n     Hetken oli totta haaveemme  \r\n\r\n   Prechorus  \r\n     Öisin viet mut uniin uusiin  \r\n     Ylös hyppiin suuriin kuusiin  \r\n     Oon orava, oon sun  \r\n     Oot sydänkäpy mun  \r\n     Mut joskus iltaisin en unta saa-aa-aa  \r\n     Se hulluks tekee kun en voi sua koskettaa  \r\n\r\n   Chorus  \r\n     Meidän puumaja vielä pystyssä on  \r\n     Siellä käyn kun on olo onneton  \r\n     Mietin missä oot, minne maailma vei  \r\n     Toivon et sua kohdeltu on oikein  \r\n\r\n   (Verse 2, Prechorus 2, Bridge, Outro follow same style)  \r\n\r\n7. Video Breakdown  \r\n   Part 1:  \r\n     – Two young Finnish women building a treehouse in a mixed birch, pine & spruce forest  \r\n     – They’re in love, playful and hopeful  \r\n   Part 2:  \r\n     – One woman now older, reflecting alone in that same forest  \r\n     – Mood: melancholic/somber, memories of the past  \r\n\r\n8. Character Details  \r\n   • Ethnicity: Finnish  \r\n   • Female characters wear heavy makeup (veiled lipstick, defined brows, subtle smoky eyes)  \r\n\r\n9. Visual Style  \r\n   • Natural forest lighting—warm hues in Part 1, cooler desaturated tones in Part 2  \r\n   • Clean, intimate camera work focusing on facial expressions and details (hands on wood, leaves, makeup highlights)  \r\n\r\nUse this preset to guide both the audio production and the animated/live-action visuals in Sora."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "slideshow_prompts"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Music Video Slideshow Screenplay and AI-Image Prompts\r\n\r\n1. General Notes  \r\n • Aspect ratio: 16:9  \r\n • Transition style: gentle crossfades or slow pans  \r\n • Color grading: natural, slightly desaturated for nostalgia  \r\n\r\n2. Structure & Timing (approx.)  \r\n • Intro (instrumental): 0:00–0:15  \r\n • Verse 1: 0:15–0:45  \r\n • Pre-chorus 1: 0:45–1:00  \r\n • Chorus 1: 1:00–1:30  \r\n • Verse 2: 1:30–2:00  \r\n • Pre-chorus 2: 2:00–2:15  \r\n • Chorus 2: 2:15–2:45  \r\n • Bridge: 2:45–3:00  \r\n • Chorus 3 / Outro: 3:00–3:30  \r\n\r\n3. Part I – Youthful Love & Treehouse Building  \r\n\r\nIntro (0:00–0:15)  \r\n • Images of a misty Finnish forest at golden hour.  \r\n • AI Prompt: “lush Finnish forest sunrise, mist among birch and pine, soft warm light, realistic digital art.”  \r\n • Option A: watercolor style; Option B: film-like grain  \r\n\r\nVerse 1 (0:15–0:45)  \r\n • Two young women carrying wooden planks between birch and spruce.  \r\n • Close-up of their hands passing a hammer.  \r\n • AI Prompt: “two smiling young women building treehouse in mixed birch, pine, and spruce forest, gentle sunlight, arpeggiated mood.”  \r\n • Option: black-and-white sketch; Option: pastel illustration  \r\n\r\nPre-chorus 1 (0:45–1:00)  \r\n • They climb a ladder; one reaches up to place a board.  \r\n • Over-the-shoulder shot: treehouse frame against sky.  \r\n • AI Prompt: “young couple on treehouse ladder, open sky background, warm summer glow, cinematic composition.”  \r\n • Option: slight lens flare; Option: vignette  \r\n\r\nChorus 1 (1:00–1:30)  \r\n • Wide shot: nearly finished treehouse among tall pines; they embrace on the platform.  \r\n • Insert: carved initials and a heart on a beam.  \r\n • AI Prompt: “rustic treehouse perched in Finnish forest, two women hugging, carved initials on wood, nostalgic feeling.”  \r\n • Option: gentle slow zoom in; Option: soft focus  \r\n\r\n4. Part II – Memory & Melancholy  \r\n\r\nVerse 2 (1:30–2:00)  \r\n • Fade to autumn: a single figure (older) walking among fallen leaves.  \r\n • Shot of empty, weathered treehouse.  \r\n • AI Prompt: “empty wooden treehouse in autumn forest, golden leaves on ground, weathered wood, melancholic atmosphere.”  \r\n • Option: sepia tone; Option: overcast sky  \r\n\r\nPre-chorus 2 (2:00–2:15)  \r\n • Close-up of older woman’s hand touching the carved initials.  \r\n • Slow dolly back to reveal her face in profile, tear in eye.  \r\n • AI Prompt: “middle-aged woman touching carved initials on treehouse beam, wistful expression, soft diffused light.”  \r\n • Option: split-tone color grading; Option: slow motion effect  \r\n\r\nChorus 2 (2:15–2:45)  \r\n • Montage: flash-back superimposed – young laughter & current sorrow.  \r\n • Double-exposure style: past and present overlapping in forest setting.  \r\n • AI Prompt: “double exposure of young lovers in treehouse and older woman in forest, dreamy overlay, emotional.”  \r\n • Option: grainy film overlay; Option: muted color  \r\n\r\nBridge (2:45–3:00)  \r\n • Close-up of older woman’s eyes, reflecting forest and treehouse.  \r\n • Then a pull-back to show her sitting on a fallen log, clutching a notebook.  \r\n • AI Prompt: “intimate portrait of middle-aged woman in forest, reflective gaze, notebook in lap, soft shadows.”  \r\n • Option: artistic chiaroscuro; Option: gentle slow pan  \r\n\r\nChorus 3 & Outro (3:00–3:30)  \r\n • Final image: treehouse fading into background as the woman walks away.  \r\n • Last frame: close-up of the carved heart, leaves drifting by.  \r\n • AI Prompt: “weathered treehouse slowly fading in mist, carved heart in focus, drifting autumn leaves, poetic farewell.”  \r\n • Option: gradual fade-to-black; Option: slight sepia vignette  \r\n\r\n5. Additional Image-Style Options (choose per scene)  \r\n • Hand-painted illustration style  \r\n • Matte-painting realism  \r\n • Soft pastel dreamy filter  \r\n • Light leaks and film burns  \r\n\r\nUse these prompts and options to generate a versatile slideshow. The editor can later select preferred styles per segment."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "descriptions"
+											},
+											"value": {
+												"type": "WString",
+												"value": "TikTok Description  \r\nDay 31 – “Puumaja” by OuluPoko \uD83C\uDF32✨  \r\n• 2006 composition & arrangement, all handmade (no AI in the music)  \r\n• Melancholic pop-rock with clean arpeggios, walking bass & simple rock beat  \r\n• Female vocals in a minor key, heartfelt treehouse nostalgia  \r\nVideo: generated with Sora AI • Edited by me  \r\n\uD83D\uDC47 Tap ❤️ & follow for more daily throwbacks!  \r\n#Puumaja #OuluPoko #OldSongRelease #PopRock #2006Vibes  \r\n\r\nInstagram Caption  \r\n\uD83D\uDD25 Old Song Release #31: “Puumaja” by OuluPoko  \r\nAt 17, I wrote & arranged this track entirely by hand (Steinberg Cubase + Guitar Pro), played guitar in my own band and sketched lyrics on Steiner School notebooks. It’s a melancholic pop-rock ode to first love and our secret treehouse. Video by Sora AI, edited by me.  \r\n\r\n\uD83C\uDF3F Mood: Melancholic pop-rock  \r\n\uD83C\uDFA4 Female vocals • Clean electric guitar arpeggios • Walking bassline • Simple rock drums  \r\n\uD83D\uDEE0️ All music made without AI  \r\n\uD83D\uDCF9 Video generated with Sora AI, edited by OuluPoko  \r\n\r\nLink in bio to watch full video! \uD83C\uDFB6  \r\n#Puumaja #OuluPoko #ThrowbackMusic #HandmadeMusic #TreehouseTales #DailySongRelease  \r\n\r\nYouTube Description  \r\nTitle: Puumaja  \r\nArtist: OuluPoko  \r\nRelease #31 in the “Old Songs One-a-Day” Series  \r\n\r\nAbout This Track  \r\n“Puumaja” is a hand-crafted pop-rock song I composed at age 17 in 2006. Using Steinberg Cubase and Guitar Pro, I laid down arpeggiated guitar chords, a walking bass line, and a straightforward rock beat to support a female vocal melody in a minor key. Lyrically it’s a bittersweet look back at building a treehouse and first love.  \r\n\r\nVideo & Credits  \r\n• Video generated by Sora AI  \r\n• Edited by OuluPoko  \r\n• Composition & arrangement by OuluPoko  \r\n• Vocals & instruments by OuluPoko  \r\n\r\nLyrics (Finnish)  \r\n[Verse 1]  \r\nKesäilta ja kukat tuoksuvat  \r\nMetsäilma ja haavat huojuvat  \r\n…  \r\n[Outro]  \r\nVaik aika ei tuo sua takas  \r\nMä muistan aina, kun olit mun rakas  \r\n\r\nConnect & Subscribe  \r\n\uD83D\uDD14 Subscribe for daily song drops: [Your Channel Link]  \r\n\uD83D\uDC4D Like, comment & share if “Puumaja” moved you  \r\n\uD83C\uDF10 Follow:  \r\n   • Instagram: [Your IG Link]  \r\n   • TikTok: [Your TikTok Link]  \r\n   • Spotify/Apple Music: [Streaming Link]  \r\n\r\n#Puumaja #OuluPoko #OldSongSeries #MelancholicPopRock #TreehouseMemories #2006Music"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "ad_message"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "cover_image"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "english_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontname"
+											},
+											"value": {
+												"type": "String",
+												"value": "Arial"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontheight"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_bordersize"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_foreground"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_background"
+											},
+											"value": null
+										}
+									]
+								},
+								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					},
+					{
+						".version": 3,
+						"id": "Tuu jo sänkyyn",
+						"type_hash": "-2999024324956135890",
+						"serial": 6528,
+						"file": 2,
+						"is_ast": true,
+						"a.kind": 22,
+						"a.type": "",
+						"a.begin": {
+							"x": null,
+							"y": null
+						},
+						"a.end": {
+							"x": null,
+							"y": null
+						},
+						"a.filepos_hash": 0,
+						"a.is_ref": false,
+						"a.is_definition": false,
+						"a.is_disabled": false,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": null
+								},
+								{
+									"key": "ctx",
+									"value": null
+								}
+							]
+						},
+						"sub": [
+							{
+								".version": 3,
+								"id": "ProtoVideoTask1",
+								"type_hash": "6187220660296067297",
+								"serial": 3893,
+								"file": 2,
+								"is_ast": false,
+								"value": {
+									"type": "ValueMap",
+									"value": [
+										{
+											"key": {
+												"type": "String",
+												"value": "artist"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Artisti on \"OuluPoko\". \r\nTarinat sijoittuvat kappaleiteen syntyhetkeen vuonna 2006.\r\nHän aloitti silloin ensimmäisen seurustelusuhteen.\r\nHän teki musiikkia Steinberg Cubase ja Guitar Pro ohjelmistoilla.\r\nHän soitti kitaraa bändissä, jonka hän itse perusti ja jota hän veti.\r\nArtisti on kasvanut vapaa-mielisessä ympäristössä ja käynyt Oulun Steinerkoulua Suomessa.\r\nHän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.\r\nSävellysten sanoitusideat kuitenkin tallentuivat sävellysten nimiin ja hän muistaakin kappaleista ja niiden ideasta paljon. Se auttoi luomaan uudet sanoitukset alkuperäistä ideaa kunnioittaen.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "title"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Tuu jo sänkyyn"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_arrangement"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_composition"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "extra"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Verse 1, male singer]\r\nMä sut tapasin, jälkeen eroni\r\nSä veit pois mun pelkoni\r\nJälleen rakastan, jahtaan unelmaa\r\nSun kanssa\r\n\r\n[Pre-chorus 1, male singer]\r\nMut menneisyyskin on, ja vanhat haavat painaa\r\nSun tarvii tietää ja mun unohtaa\r\n\r\n[Chorus, either singer]\r\nTuu jo sänkyyn kun tahdon rakastella\r\nVain sua haluan, Vain sua janoan\r\nAlan kuihtua kun et oo mun luona\r\nTuu jo sänkyyn kun tahdon rakastella\r\nVain sua haluan, Vain sua janoan\r\nAlan kuihtua kun et oo mun luona\r\n\r\n[Verse 2, male rapper]\r\nMun silmät, sun silmät, taidan rakastaa sua\r\nMä tahdon suhun painautua, kohtaloon tarttua\r\nVain sä saat tuntemaan et oon elossa\r\nOot pimees majakka, suojaa haen saarestas\r\nAallokossa rytmiin nukahdetaan,\r\nLuotas herään aina uudestaan, en vaivaa muuten vaa\r\nMut helpotuksen sulta saan\r\n\r\n[Chorus, either singer]\r\nTuu jo sänkyyn kun tahdon rakastella\r\nVain sua haluan, Vain sua janoan\r\nAlan kuihtua kun et oo mun luona\r\nTuu jo sänkyyn kun tahdon rakastella\r\nVain sua haluan, Vain sua janoan\r\nAlan kuihtua kun et oo mun luona\r\n\r\n[Bridge]\r\nSua tahdon rakastaa mä aina\r\nVain sun kanssa nukkua, mun kulta.\r\nSun kaa miettii tulevaa, luottaa unelmaan,\r\nJa joustaa.\r\nKun erojakin on, vaik rakkaus voittaa\r\nMe voidaan sopia maat ja mammonat,\r\nPuoliks pääomat, tai vain omat.\r\n\r\n[Chorus, either singer]\r\nTuu jo sänkyyn kun tahdon rakastella\r\nVain sua haluan, Vain sua janoan\r\nAlan kuihtua kun et oo mun luona\r\nTuu jo sänkyyn kun tahdon rakastella\r\nVain sua haluan, Vain sua janoan\r\nAlan kuihtua kun et oo mun luona\r\n\r\n[Outro, either singer]\r\nTuu mun luo, beibee\r\nTuu mun luo\r\nTuu mun luo, beibee"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "musicstyle"
+											},
+											"value": {
+												"type": "WString",
+												"value": "A male vocalist sings and raps a pop song with a melancholic yet hopeful tone,\r\nThe instrumentation includes acoustic guitar, bass guitar, drums, and a string section,\r\nThe song is in a minor key, with a slow tempo,\r\nThe vocals are clear and expressive, with some vibrato,\r\nThe production is clean, with a balanced mix that highlights the vocals and acoustic instruments,\r\nThe song structure follows a typical verse-chorus format, with a bridge and an outro,\r\nThe melody is memorable and singable,\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "num"
+											},
+											"value": {
+												"type": "int",
+												"value": 31
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videoidea"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Romanttinen parisuhdetarina. Pääaiheessa mies on parisängyssä ilman paitaa ja odottaa vaimoaan. Muussa osassa tarinaa on jotain haikeaa parisuhde aktiviteettia."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Mä sut tapasin\r\njälkeen eroni\r\nSä veit\r\npois mun pelkoni\r\nJälleen rakastan\r\njahtaan unelmaa\r\nSun kanssa\r\nMut menneisyyskin on\r\nja vanhat haavat painaa\r\nSun tarvii tietää\r\nja mun unohtaa\r\nTuu jo sänkyyn\r\nkun tahdon\r\nrakastella\r\nVain sua haluan\r\nvain sua janoan\r\nAlan kuihtua\r\nkun et oo mun luona\r\nMun silmät\r\nsun silmät\r\ntaidan rakastaa sua\r\nMä tahdon suhun painautua\r\nkohtaloon tarttua\r\nVain sä saat tuntemaan\r\net oon elossa\r\nOot pimees majakka\r\nsuojaa haen saarestas\r\nAallokossa\r\nrytmiin nukahdetaan\r\nLuotas herään\r\naina uudestaan\r\nen vaivaa muuten vaa\r\nMut helpotuksen sulta saan\r\nSua tahdon rakastaa\r\nmä aina\r\nVain sun kanssa nukkua\r\nmun kulta.\r\nSun kaa miettii tulevaa\r\nluottaa unelmaan,\r\nJa joustaa\r\nKun erojakin on\r\nvaik rakkaus voittaa\r\nMe voidaan sopia\r\nmaat ja mammonat,\r\nPuoliks pääomat\r\ntai vain omat.\r\nTuu mun luo\r\nbeibee\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 2021
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 2006
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 2025
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics_today"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "sora_preset"
+											},
+											"value": {
+												"type": "WString",
+												"value": "General Mood and Tone  \r\n• Melancholic yet hopeful romantic story  \r\n• Warm, romantic lighting in indoor scenes; soft natural light in outdoor scenes  \r\n• Color palette: muted earth tones with occasional deep blues or burgundies to underline longing  \r\n\r\nCharacters and Casting  \r\n• Ethnicity: Finnish (all characters)  \r\n• Male lead: early 30s, casual hair, bare‐male-chested in bed scenes  \r\n• Female lead: early 30s, heavy makeup (smoky eyes, bold lips), styled hair, elegant casual wardrobe  \r\n\r\nLighting and Production Design  \r\n• Indoor scenes: warm practicals (lamps, candles), low-contrast shadows  \r\n• Outdoor scenes: overcast or golden hour light, slight diffusion for dreaminess  \r\n• Set décor: Scandinavian minimalism—wood, white walls, natural textiles  \r\n\r\nWardrobe and Makeup  \r\n• Male: simple neutral shirts or bare chest in bed; jeans or casual slacks in outdoor scenes  \r\n• Female: makeup—dark eyes, defined brows, deep lipstick; elegant but comfortable evening wear or casual knitwear outdoors  \r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "slideshow_prompts"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Here’s a shot-by-shot slideshow storyboard synchronized to your song, with AI-image-generator text prompts plus optional variations for each moment.\r\n\r\n1. INTRO (0:00–0:10)  \r\n   • Visual: Soft black-and-white fade-in to an empty bedroom at dawn. Camera pans slowly from window (light mist) to an unmade bed.  \r\n     – Mood: melancholic hope, soft focus, gentle grain.  \r\n     – Prompt: “Interior bedroom at dawn, misty window light streaming onto an unmade white bed, soft focus, warm pastel tones, shallow depth of field, cinematic.”  \r\n     – Option A (color palette): cool blues and grays, dawn light.  \r\n     – Option B (angle): wide-angle from foot of bed.\r\n\r\n2. VERSE 1 (0:10–0:35)  \r\n   • Lyric: “Mä sut tapasin… Sun kanssa”  \r\n   • Visual: Shirtless man sitting upright in bed, white sheets around waist, gazing out the window. Gentle vibrato in his expression.  \r\n     – Framing: medium close-up, slight side-angle.  \r\n     – Prompt: “Shirtless young man in an unmade bed, white linens, natural morning light illuminating his thoughtful face, expressive eyes, gentle vibrato mood, cinematic portrait.”  \r\n     – Option A: overhead shot showing just shoulders and raised knees.  \r\n     – Option B: side silhouette, window behind him.\r\n\r\n3. PRE-CHORUS 1 (0:35–0:50)  \r\n   • Lyric: “Mut menneisyyskin on…”  \r\n   • Visual: Flashback montage—softly lit living room, fairy lights. A couple dances slowly. He holds her close; she looks wistful.  \r\n     – Style: slight desaturation, film-grain.  \r\n     – Prompt: “Young couple slow-dancing in dimly lit living room, fairy lights overhead, soft desaturated colors, intimate and slightly grainy, cinematic.”  \r\n     – Option A: replace indoor with twilight-lit park bench.  \r\n     – Option B: overhead shot of their feet moving.\r\n\r\n4. CHORUS 1 (0:50–1:15)  \r\n   • Lyric: “Tuu jo sänkyyn…”  \r\n   • Visual: Return to bed. Man lies back, phone beside him lights up (“incoming call”). Slow zoom on his face—longing.  \r\n     – Light: warm bedside lamp and window glow.  \r\n     – Prompt: “Close-up of shirtless man lying on white sheets, his face half-lit by warm lamp, phone on wooden nightstand glowing, soft focus, cinematic.”  \r\n     – Option A: cut to a hand reaching for phone.  \r\n     – Option B: reverse shot on the phone screen (“Maria Calling”).\r\n\r\n5. VERSE 2 (1:15–1:45)  \r\n   • Lyric (rap): “Mun silmät, sun silmät…”  \r\n   • Visual: Man (now in casual shirt) walking alone along a deserted beach at dusk. Waves gently crash; he looks out to sea.  \r\n     – Mood: reflective, hope.  \r\n     – Prompt: “Young man in light shirt strolling along empty beach at dusk, soft purple and orange sky, gentle waves, reflective expression, cinematic wide shot.”  \r\n     – Option A: substitute urban rooftop at night with city lights.  \r\n     – Option B: closer three-quarter shot with sea behind.\r\n\r\n6. CHORUS 2 (1:45–2:10)  \r\n   • Lyric (chorus repeats)  \r\n   • Visual: Silhouette of couple arriving at the bedroom door. He ushers her in; she smiles. Cut to them embracing by the bed.  \r\n     – Color: golden hour light.  \r\n     – Prompt: “Couple silhouetted in doorway of cozy bedroom, warm golden light flooding in, they embrace by the bedside, cinematic mood, soft focus.”  \r\n     – Option A: reverse shot of her stepping in, smiling.  \r\n     – Option B: add subtle lens flare.\r\n\r\n7. BRIDGE (2:10–2:40)  \r\n   • Lyric: “Sua tahdon rakastaa…”  \r\n   • Visual: Montage of small rituals: they share coffee at a tiny kitchen table, scribble future plans on paper, exchange shy smiles.  \r\n     – Style: mid-tone colors, dreamy.  \r\n     – Prompt: “Couple at a small rustic kitchen table, morning light, sharing coffee, writing on scraps of paper, cozy and hopeful atmosphere, cinematic close shots.”  \r\n     – Option A: shot of hands writing “future” on paper.  \r\n     – Option B: overhead shot of two coffee cups.\r\n\r\n8. CHORUS 3 (2:40–3:05)  \r\n   • Lyric (final chorus)  \r\n   • Visual: Slow-motion montage—kissing in bed, playful pillow fight, his hand on her cheek. Quick cuts synced to beats.  \r\n     – Color: warm, rich midtones.  \r\n     – Prompt: “Couple in bed having a playful pillow fight, slow-motion, warm rich colors, close-up on laughing faces, cinematic.”  \r\n     – Option A: black-and-white version for one shot.  \r\n     – Option B: add falling feather overlay.\r\n\r\n9. OUTRO (3:05–3:30)  \r\n   • Lyric: “Tuu mun luo, beibee…”  \r\n   • Visual A: He lies alone again, head on pillow, eyes half-open. Then phone lights up with her name.  \r\n   • Visual B: He smiles faintly and reaches for it—hope restored. Fade out to black.  \r\n     – Prompt (single): “Shirtless man half-asleep on white sheets, dawn light, soft focus, phone screen glowing her name, expression of hopeful longing, cinematic.”  \r\n     – Option A: instead of phone, cut to her silhouette in doorway.  \r\n     – Option B: final frame on their tangled hands under sheets.\r\n\r\nTotal length ~3:30.  \r\nAll images: cinematic, 2.39:1 ratio, 4K resolution, soft warm-pastel grade."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "descriptions"
+											},
+											"value": {
+												"type": "WString",
+												"value": "TikTok (60–100 characters / 1–2 lines)  \r\nDay 31: “Tuu jo sänkyyn” by OuluPoko. Sävelletty 2006, sanoitettu nyt, ei AI:ta käytetty siihen \uD83C\uDFB8 Video by Sora AI, edited by me. #OuluPoko #TuuJoSänkyyn #VintagePop #LiikaaBiisejä\r\n\r\n\r\nInstagram  \r\nTitle: Tuu jo sänkyyn  \r\nArtist: OuluPoko  \r\nRelease #31 of 30+1 – yksi vanhoista 2006 demokappaleista, kun olin 17-vuotias. Sävellys täysin käsityönä (ei AI:a), video generoituna Sora AI:lla ja käsieditoituna.  \r\n✦ Akustinen kitara, basso, rummut & jouset  \r\n✦ Melankolinen, toiveikas pop/rap-vibe  \r\n✦ Klassinen säkeistö–kertosäe–silta–outro-rakenne  \r\n✦ Lyriikat (finnish only) kuvaavat rakkauden odotusta: “Tuu jo sänkyyn kun tahdon rakastella…”  \r\nKuuntele, tallenna ja jaa!  \r\n\uD83D\uDD17 Linkki biisiin biossa  \r\n#OuluPoko #TuuJoSänkyyn #HandmadeMusic #SteinerSchool #Cubase #GuitarPro #SoraAI #VintageDemo #NewOldSongs #DailyRelease\r\n\r\nYouTube  \r\nTitle: OuluPoko – Tuu jo sänkyyn (2006 Demo) | Hand-made Composition | Episode 31  \r\n\r\nDescription:  \r\nOlen julkaissut vanhoja biisejä – tässä vuorossa numero 31: “Tuu jo sänkyyn” on sävelletty 2006 (16-vuotiaana). Kappaleesta oli säilynyt Guitar Pro tabulatuuri (koko sovitus) jonka tuotin AI:n-avulla. Video on generoituna Sora AI:lla, ja koko editointi on tehty käsin.  \r\n\r\nVibe:  \r\n• Melankolinen mutta toiveikas  \r\n• Hidas tempo, molli­sävy  \r\n• Sekä lauluosuudet että rap-säkeistöt  \r\n\r\n\r\n\uD83D\uDD14 Tilaa kanava: youtube.com/@oulupoko\r\n\uD83C\uDF10 Kuuntele myös Spotify / Apple Music / Bandcamp: linktr.ee/oulupoko\r\n\uD83D\uDCF8 Seuraa Instagramissa @OuluPoko\r\n\uD83D\uDC26 TikTok: @OuluPoko\r\n\r\n#OuluPoko #TuuJoSänkyyn #Demo2006 #Handmade #VintagePop #SoraAI #Cubase #GuitarPro #DailyRelease #NewOldMusic"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "ad_message"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Tässä kolme nopeaa tekstimainosideaa TikTok-/YouTube Reels-julkaisua varten. Käytä halutessasi kaikkia tai muokkaa vapaasti!\r\n\r\n1)  \r\nOverlay-teksti:  \r\nUUTTA JOKA PÄIVÄ – KAPPALE 31 ON TÄÄLLÄ!  \r\nAlateksti:  \r\nOuluPoko julkaisee 2006 käsin sävelletyn “Tuu jo sänkyyn”. Video Sora AI, editointi käsityönä.  \r\nCTA: Kuuntele nyt! \uD83C\uDFA7  \r\n\r\n2)  \r\nOverlay-teksti:  \r\nTEINI-IKÄN SALAISET SÄVELET PALAA VAT  \r\nAlateksti:  \r\n“Tuu jo sänkyyn” on OuluPoko’n 17-vuotiaana tekemä pop-melankoliaa ja toivoa. Akustinen kitara, jouset & selkeä veto.  \r\nCTA: Katso video! \uD83D\uDCF9  \r\n\r\n3)  \r\nOverlay-teksti:  \r\nAI + KÄSI = “Tuu jo sänkyyn”  \r\nAlateksti:  \r\nKäsintehty Cubase & Guitar Pro -sävellys vuodelta 2006. Video generoi Sora AI, editointi käsin.  \r\nCTA: Swipe up ja kuuntele! \uD83D\uDE80"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "cover_image"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "english_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontname"
+											},
+											"value": {
+												"type": "String",
+												"value": "Segoe UI"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontheight"
+											},
+											"value": {
+												"type": "int",
+												"value": 38
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_bordersize"
+											},
+											"value": {
+												"type": "int",
+												"value": 2
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_foreground"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 255,
+													"green": 244,
+													"blue": 222
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_background"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 87,
+													"green": 86,
+													"blue": 67
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_path"
+											},
+											"value": {
+												"type": "String",
+												"value": "D:\\Musiikki\\Videot\\E31 Tuu jo sänkyyn\\txt-fin"
+											}
+										}
+									]
+								},
+								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					},
+					{
+						".version": 3,
+						"id": "Pitsaa ja karkkia",
+						"type_hash": "-2999024324956135890",
+						"serial": 6532,
+						"file": 2,
+						"is_ast": false,
+						"value": null,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": null
+								},
+								{
+									"key": "ctx",
+									"value": null
+								}
+							]
+						},
+						"sub": [
+							{
+								".version": 3,
+								"id": "ProtoVideoTask1",
+								"type_hash": "6187220660296067297",
+								"serial": 5560,
+								"file": 2,
+								"is_ast": false,
+								"value": {
+									"type": "ValueMap",
+									"value": [
+										{
+											"key": {
+												"type": "String",
+												"value": "artist"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Artisti on \"OuluPoko\". \r\nSävellys on tehty vuonna 2002 kun hän oli 11 vuotias.\r\nHänen kaveri opetti säveltämää Fruity Loops ohjelmalla.\r\nHän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "title"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Pizza and candy"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_arrangement"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_composition"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "extra"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "musicstyle"
+											},
+											"value": {
+												"type": "WString",
+												"value": "A pop-punk song with a driving rhythm section, featuring a male vocalist with a clear tone, The instrumentation includes electric guitar, bass guitar, and drums, The electric guitar plays power chords and melodic riffs, The bass provides a strong, foundational rhythm, The drums maintain a consistent, energetic beat with prominent snare and cymbal accents, The song is in a major key, with a moderate to fast tempo, The vocal melody is catchy and follows the chord progression closely, The production is clean, with a balanced mix that emphasizes the vocals and lead guitar"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "num"
+											},
+											"value": {
+												"type": "int",
+												"value": 3
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videoidea"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Nuori tyttö kävelee kotoa lähikioskille, josta hän ostaa pitsaa ja karkkia. On kesä ja pilvetön taivas. Aurinko paistaa korkealta. Video sopii lasten katsottavaksi."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Sometimes sunshine\r\ncan’t stay\r\nFrustrate I wait\r\nit’s grey\r\nBut then again\r\na new day\r\nClouds gone\r\nthey’re drawn away\r\nNo cure for sure\r\nto heal me\r\nStill pure\r\ngood cheer\r\nwill feel me\r\nI last\r\nat last I smile\r\nStep out no doubt\r\nworthile\r\nBright sun night done\r\nI’m near to the store\r\nSoon there noon air\r\nI’ll need nothing more\r\nThere where\r\nPizza sweet’s-a delight\r\nStrawberry dairy\r\nis stuck\r\nin my sight\r\nFeels right\r\nSame track laid back\r\nit’s slow\r\nNo change so strange\r\nI know\r\nThis road unloads\r\nno good\r\nThose friends dead ends\r\nno good\r\nBut break I take\r\nit’s golden\r\nCupcake milkshake\r\nI’m holdin’\r\nMind clears kind cheers\r\nI’m lighter\r\nTwo here true dear, feels\r\nTown lights sound bright\r\nwith people I roam\r\nFood there mood fair\r\nI’m never alone\r\nThere where\r\nGo on flow strong\r\nI try\r\nMove fast outlast\r\nget by\r\nNow here no fear\r\nI dwell\r\nThis place warm face\r\nall’s well\r\nHere where\r\nPizza and candy yeah\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 2022
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 2002
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 2025
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics_today"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "sora_preset"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Here’s a consolidated Sora style preset incorporating your requests:\r\n\r\nAudio  \r\n• Genre & Feel: Pop-punk with a driving rhythm section, energetic and catchy.  \r\n• Key & Tempo: Major key, moderate-to-fast tempo.  \r\n• Vocals: Male vocalist with a clear tone, melody follows chord progression closely; mix emphasizes vocals and lead guitar.  \r\n• Guitar: Electric guitar playing power chords and melodic riffs.  \r\n• Bass & Drums:  \r\n  – Bass guitar provides a strong, foundational rhythm.  \r\n  – Drums maintain a consistent, energetic beat with prominent snare and cymbal accents.  \r\n• Production: Clean, balanced mix; vocals and lead guitar up front.\r\n\r\nVisual  \r\n• Setting: Summer day in a Finnish neighborhood—cloudless sky, sun high overhead.  \r\n• Characters & Styling:  \r\n  – All characters are Finnish.  \r\n  – Women (including the girl’s mother or kiosk attendant) wear heavy makeup.  \r\n• Main Action: A young girl walks from home to the nearby kiosk, buys pizza and candy, then heads back.  \r\n• Tone & Audience: Bright, cheerful colors; suitable and safe for children.  \r\n• Cinematography:  \r\n  – Wide establishing shots of the street in warm daylight.  \r\n  – Mid-shots on the girl’s expressions and purchases.  \r\n  – Cutaways to the kiosk sign and the pizza/candy packaging.  \r\n  – Light camera movements to match the song’s driving rhythm.\r\n\r\nOverall Mood  \r\nFun, upbeat, summertime vibe—combining pop-punk energy with a wholesome slice-of-life moment in a Finnish setting."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "slideshow_prompts"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Below is a draft slideshow‐style video screenplay plus AI‐image prompts. Each slide includes a time range, lyric or beat cue, visual description, and one or more text prompts for your image‐generator AI. Additional “Option A/B/C” variants are suggested per scene—pick whichever fits best in your edit.\r\n\r\n1. Slide 1  \r\nTime: 0:00–0:10 (Intro riff)  \r\nLyric/Beat: Instrumental guitar‐bass‐drums build in major key  \r\nVisual: Exterior of a modest Finnish suburban home at sunrise, front door slightly ajar  \r\nAI Prompt A: “cozy Nordic house exterior at sunrise, light breezy summer morning, simple lines, pastel color palette, cartoon style”  \r\nAI Prompt B: “bright summer morning suburban home, clear blue sky, soft shadows, minimalistic children’s illustration”  \r\nAI Prompt C: “warm sunlight on white clapboard house, fun cartoon, clean look”\r\n\r\n2. Slide 2  \r\nTime: 0:10–0:20 (Verse 1 starts)  \r\nLyric: “Hei, lähden kadulle kohti unelmia…” (or English equivalent)  \r\nVisual: Young Finnish girl (around 10 y.o.) stepping out, backpack on one shoulder, smiling  \r\nAI Prompt A: “happy Finnish girl with blonde hair in ponytail, small backpack, walking out of door, summer day, cheerful cartoon style”  \r\nAI Prompt B: “cartoon girl leaving house, casual summer clothes, big grin, clear sky background”  \r\nAI Prompt C: “stylized children’s illustration of a girl stepping into sunlight”\r\n\r\n3. Slide 3  \r\nTime: 0:20–0:30 (Chorus build)  \r\nLyric: “Drive, drive, drive—tunnen vapauden…”  \r\nVisual: Close‐up of her sneakers hitting the pavement; rhythmic shots synced to guitar power chords  \r\nAI Prompt A: “close-up cartoon sneakers on asphalt, dynamic perspective, motion blur, high-contrast colors”  \r\nAI Prompt B: “stylized feet walking, pavement texture, bright playful style”  \r\nAI Prompt C: “energetic pop-punk vibe shoes in motion, cymbal accents timing”\r\n\r\n4. Slide 4  \r\nTime: 0:30–0:40 (Verse 2)  \r\nLyric: “Kiat jalkojen alla vievät mut eteenpäin…”  \r\nVisual: She strolls past a row of birch trees, sun filtering through leaves  \r\nAI Prompt A: “young girl walking past birch trees, dappled sunlight, summer forest edge, cartoon illustration”  \r\nAI Prompt B: “tree-lined street, playful shadows on ground, lighthearted style”  \r\nAI Prompt C: “bright green foliage, child in motion, simple shapes”\r\n\r\n5. Slide 5  \r\nTime: 0:40–0:50 (Pre‐chorus)  \r\nLyric: “Tunnen viltin tuoksun, sydän lyö….”  \r\nVisual: Brief shot of her daydreaming—floating pizza slices and candy icons appear around her head with sparkles  \r\nAI Prompt A: “cute thought bubbles with pizza slice, candy, sparkles around girl’s head, cartoon doodle style”  \r\nAI Prompt B: “bright icons of pizza and lollipops swirling above child’s head, fun illustration”  \r\nAI Prompt C: “pop-punk style cartoon thought bubble, pastel colors”\r\n\r\n6. Slide 6  \r\nTime: 0:50–1:00 (Chorus)  \r\nLyric: “Pizza ja karkit, päivä on hyvä…”  \r\nVisual: Exterior of a small Finnish kiosk (“lähikioski”) with a striped awning; girl approaches cheerfully  \r\nAI Prompt A: “small corner kiosk in Finland, striped red-white awning, sunny day, child-friendly cartoon”  \r\nAI Prompt B: “bright street kiosk, clear sky, little girl in front, minimal shading”  \r\nAI Prompt C: “playful architecture, simple lines, summer vibes”\r\n\r\n7. Slide 7  \r\nTime: 1:00–1:10 (Instrumental guitar solo/riff)  \r\nLyric/Beat: Guitar solo with melodic riff  \r\nVisual: Montage of close‐ups: girl’s hand handing money; shopkeeper handing over a pizza box; candy jar  \r\nAI Prompt A: “cartoon-style shop interaction, hand passing cash, pizza box, candy jar visible, clean lines”  \r\nAI Prompt B: “bright focus on hands exchanging goods, fun children’s cartoon”  \r\nAI Prompt C: “pop-punk illustration of store transaction, detailed but simple”\r\n\r\n8. Slide 8  \r\nTime: 1:10–1:20 (Bridge)  \r\nLyric: (vocal melody humming)  \r\nVisual: Girl exits kiosk, holds pizza and candy, takes first bite of candy, eyes light up  \r\nAI Prompt A: “happy child biting candy, pizza box under arm, summer light, cartoon style”  \r\nAI Prompt B: “girl eating a lollipop, big smile, pastel background”  \r\nAI Prompt C: “cute illustration of child enjoying snack on bright day”\r\n\r\n9. Slide 9  \r\nTime: 1:20–1:40 (Final chorus)  \r\nLyric: “Pieni seikkailu, iso onnellisuus…”  \r\nVisual: Wide shot of her walking down a tree-lined street eating pizza; sun halo behind her  \r\nAI Prompt A: “young girl walking away on sunlit street, eating pizza slice, birds in sky, children’s book style”  \r\nAI Prompt B: “cheerful summer neighborhood, child silhouette with pizza, warm tones”  \r\nAI Prompt C: “bright cartoon scene, dynamic walk cycle feel”\r\n\r\n10. Slide 10  \r\nTime: 1:40–2:00 (Outro/fade‐out)  \r\nLyric/Beat: Clean guitar chords ringing out, drums cymbal swell  \r\nVisual: Camera slowly tilts up to the blue sky with lens flare; end on a sparkling sun  \r\nAI Prompt A: “clear blue sky, stylized sun with sparkles, minimal clouds, cartoon atmosphere”  \r\nAI Prompt B: “upward view of sunny summer sky, warm glow, simple illustration”  \r\nAI Prompt C: “playful end frame, lens flare effect, clean lines”\r\n\r\nUse any combination of A/B/C variants to match your color palette or art style. Timing and frame transitions should sync with drum hits and guitar accents (snare on 2 & 4, cymbal crashes). This storyboard is all‐ages friendly, vibrant, and captures the carefree summer vibe."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "descriptions"
+											},
+											"value": {
+												"type": "WString",
+												"value": "TikTok (keep it snappy, use hashtags & emojis):\r\n“Day 3 of my #OldSongADay series! \uD83C\uDFB8 Here’s “Pizza and Candy,” a pop-punk jam I wrote back in 2002 at 13 using Fruity Loops. \uD83C\uDF55\uD83C\uDF6C Video by @Sora_AI, hand-edited by me. Hit ❤️ and follow for more daily throwbacks! #PizzaAndCandy #PopPunk #AIArt #OuluPoko”\r\n\r\nInstagram (a bit more context + hashtags):\r\n“Old song drop #3! 2002 felt—when I was 13—I taught myself Fruity Loops and wrote “Pizza and Candy.” It’s a driving pop-punk tune with power chords, catchy hooks and an energetic beat. Video is AI-generated by Sora and hand-edited by yours truly.  \r\n\uD83D\uDD17 Link in bio for the full track!  \r\n#PizzaAndCandy #PopPunk #ThrowbackMusic #FruityLoops #AIArt #OuluPoko #MusicRelease #DIYMusic”\r\n\r\nYouTube (detailed description + links):\r\nTitle: Pizza and Candy (2002 Demo) | OuluPoko • Old Song #3\r\n\r\nDescription:\r\n“Welcome to Day 3 of my #OldSongADay series!  \r\nToday I’m sharing “Pizza and Candy,” a pop-punk demo I composed in 2002 at age 13. Back then, a friend showed me the basics of Fruity Loops and I poured all my energy into riffs, power chords and a driving rhythm section. Expect crunchy guitars, a punchy bassline, steady drums and a catchy vocal melody—straight from my teenage bedroom studio.\r\n\r\n• Artist: OuluPoko  \r\n• Written & Produced: 2002 (age 13)  \r\n• Video: Sora AI (edited by me)  \r\n• Genre: Pop-Punk / Major key / Moderate-fast tempo\r\n\r\nIf you dug this throwback, smash that Subscribe button and ring the bell for daily song drops!  \r\n\uD83D\uDD17 Listen on Spotify/Apple Music: [your link here]  \r\n\uD83D\uDD17 Follow me on Instagram: @YourInstaHandle  \r\n\uD83D\uDD17 Follow me on TikTok: @YourTikTokHandle\r\n\r\n#PizzaAndCandy #PopPunk #Demo2002 #FruityLoops #OldSongADay #OuluPoko #DIYMusic #AIgeneratedVideo”\r\n\r\nFeel free to tweak links and handles to match your profiles!"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "ad_message"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "cover_image"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "english_lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Verse 1]\r\nSometimes sunshine can’t stay\r\nFrustrate I wait, it’s grey\r\nBut then again a new day\r\nClouds gone they’re drawn away\r\nNo cure for sure to heal me\r\nStill pure good cheer will feel me\r\nI last at last I smile\r\nStep out no doubt, worthile\r\n\r\n[Prechorus 1]\r\nBright sun night done, I’m near to the store\r\nSoon there noon air, I’ll need nothing more\r\nThere where\r\n\r\n[Chorus]\r\nPizza sweet’s-a delight\r\nStrawberry dairy is stuck in my sight\r\nFeels right\r\n\r\n[Verse 2]\r\nSame track laid back, it’s slow\r\nNo change so strange, I know\r\nThis road unloads no good\r\nThose friends dead ends, no good\r\nBut break I take, it’s golden\r\nCupcake milkshake, I’m holdin’\r\nMind clears kind cheers, I’m lighter\r\nTwo here true dear, feels [Prechorus 2]\r\nTown lights sound bright, with people I roam\r\nFood there mood fair, I’m never alone\r\nThere where\r\n\r\n[Chorus]\r\nPizza sweet’s-a delight\r\nStrawberry dairy is stuck in my sight\r\nFeels right, when\r\nPizza sweet’s-a delight\r\nStrawberry dairy is stuck in my sight\r\nFeels right\r\n\r\n[Bridge]\r\nGo on flow strong, I try\r\nMove fast outlast, get by\r\nNow here no fear, I dwell\r\nThis place warm face, all’s well\r\nHere where\r\n\r\n[Chorus]\r\nPizza sweet’s-a delight\r\nStrawberry dairy is stuck in my sight\r\nFeels right, when\r\nPizza sweet’s-a delight\r\nStrawberry dairy is stuck in my sight\r\nFeels right\r\n\r\n[Outro]\r\nPizza and candy yeah\r\nPizza and candy yeah\r\nPizza and candy yeah"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontname"
+											},
+											"value": {
+												"type": "String",
+												"value": "Arial"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontheight"
+											},
+											"value": {
+												"type": "int",
+												"value": 36
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_bordersize"
+											},
+											"value": {
+												"type": "int",
+												"value": 4
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_foreground"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 255,
+													"green": 255,
+													"blue": 255
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_background"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 0,
+													"green": 0,
+													"blue": 0
+												}
+											}
+										}
+									]
+								},
+								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"hash": "6948720018852973670"
+}
