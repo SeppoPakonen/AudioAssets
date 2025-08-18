@@ -1,3 +1,16 @@
+Style:
+A high-energy skate punk anthem with a driving rhythm section,
+prominent electric guitar riffs, and a powerful male lead vocal,
+The song has a fast tempo around 160 BPM,
+The instrumentation includes a distorted electric guitar playing a main riff,
+a clean electric guitar providing rhythmic chords,
+a bass guitar laying down a solid foundation, and a drum kit with a strong backbeat,
+The lead vocal is clear and forward in the mix, with a slightly raw, passionate delivery,
+Production elements include a wide stereo image, a punchy drum sound, and a bright, present guitar tone,
+Reverb is used on the vocals and drums to create a sense of space,
+The overall feel is uplifting and anthemic
+
+
 Title: Onko tää apua
 
 
@@ -32,12 +45,6 @@ Kuinka viel kestetään
 Näitä hetkiä
 
 [Instrumental]
-
-[Chorus]
-Onko tää apua
-Vai vain odottamista
-Kuinka viel kestetään
-Näitä hetkiä
 
 [Outro]
 Onko apua tää missä

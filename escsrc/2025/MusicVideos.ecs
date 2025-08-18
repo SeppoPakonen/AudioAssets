@@ -1,6 +1,6 @@
 {
 	"id": 2,
-	"highest_seen_serial": 6532,
+	"highest_seen_serial": 6650,
 	"seen_types": [
 
 	],
@@ -8,7 +8,7 @@
 		".version": 3,
 		"id": "",
 		"type_hash": 0,
-		"serial": 6508,
+		"serial": 6626,
 		"file": 2,
 		"is_ast": true,
 		"a.kind": 22,
@@ -30,7 +30,7 @@
 				".version": 3,
 				"id": "MusicVideos",
 				"type_hash": 0,
-				"serial": 6530,
+				"serial": 6648,
 				"file": 2,
 				"is_ast": true,
 				"a.kind": 22,
@@ -52,7 +52,7 @@
 						".version": 3,
 						"id": "Mä tiedä en",
 						"type_hash": "-2999024324956135890",
-						"serial": 6512,
+						"serial": 6630,
 						"file": 2,
 						"is_ast": true,
 						"a.kind": 22,
@@ -406,7 +406,7 @@
 						".version": 3,
 						"id": "Yksi neljästä",
 						"type_hash": "-2999024324956135890",
-						"serial": 6516,
+						"serial": 6634,
 						"file": 2,
 						"is_ast": true,
 						"a.kind": 22,
@@ -789,7 +789,7 @@
 						".version": 3,
 						"id": "Onneen tai tuhoon",
 						"type_hash": "-2999024324956135890",
-						"serial": 6520,
+						"serial": 6638,
 						"file": 2,
 						"is_ast": true,
 						"a.kind": 22,
@@ -1163,7 +1163,7 @@
 						".version": 3,
 						"id": "Puumaja",
 						"type_hash": "-2999024324956135890",
-						"serial": 6524,
+						"serial": 6642,
 						"file": 2,
 						"is_ast": true,
 						"a.kind": 22,
@@ -1504,7 +1504,7 @@
 						".version": 3,
 						"id": "Tuu jo sänkyyn",
 						"type_hash": "-2999024324956135890",
-						"serial": 6528,
+						"serial": 6646,
 						"file": 2,
 						"is_ast": true,
 						"a.kind": 22,
@@ -1881,10 +1881,23 @@
 						".version": 3,
 						"id": "Pitsaa ja karkkia",
 						"type_hash": "-2999024324956135890",
-						"serial": 6532,
+						"serial": 6650,
 						"file": 2,
-						"is_ast": false,
-						"value": null,
+						"is_ast": true,
+						"a.kind": 22,
+						"a.type": "",
+						"a.begin": {
+							"x": null,
+							"y": null
+						},
+						"a.end": {
+							"x": null,
+							"y": null
+						},
+						"a.filepos_hash": 0,
+						"a.is_ref": false,
+						"a.is_definition": false,
+						"a.is_disabled": false,
 						"ext": {
 							"data": [
 								{
@@ -2232,5 +2245,5 @@
 			}
 		]
 	},
-	"hash": "6948720018852973670"
+	"hash": "4864039509217376076"
 }

@@ -17,10 +17,10 @@ Huokaileen
 [Chorus]
 Hän on mun yökamu halailtava
 pehmee ja tuoksuva
-Hän saa hölmöileen	
+Hän saa seikkaileen
 ja nauraan turhaan
 
-[Verse 2, 8 lines]
+[Verse 2]
 Hän lähettää
 Miljoonannen kerran viestiä
 Kysyi hän
@@ -30,7 +30,7 @@ Vaik oon kohta perillä
 Sen luona
 Ei arvaa et oon ovella
 
-[Prechorus 2, 8 lines]
+[Prechorus 2]
 Ja kun hän katsoo mua
 Mun tekosyyt hajoo ja unohdan
 Muut asiat
@@ -38,46 +38,44 @@ Muut asiat
 [Chorus]
 Hän on mun yökamu halailtava
 pehmee ja tuoksuva
-Hän saa hölmöileen	
+Hän saa seikkaileen
 ja nauraan turhaan
 
+[Chorus]
+Hän on mun beibe ja
+mun raksupoksu
+Hän on mun aarre
+ja kullanmuru
 
 [Bridge]
+Peiton alla halitaan
+kosteen kuuma on jokainen suudelma
+Happi loppuu, tehdään sotkuu
+Sama levy soi uudestaan
 
+Puren sun kaulaa, puristan lähemmäs
+Kiemurtelet mun märässä sylissä
+Hetkes on ikuisuus, kielel ihanuus
+Nenäl karvat sun, uusi voihkaus
 
+Toistuu teot ja lupaukset rakkauden
+Sun tuloos ootan uudelleen
+Joo mä osaan sut, ja saan kuumeneen
+Vuoroin vierais, meet lipaiseen
 
-
-
-
-[Prechorus 2]
-
-Kun se katsoo mua niillä silmillä
-mun tekosyyt murenee
-Se tietää kaiken ennalta
-ja lukee mut läpi heti
-Ja vaikka mä teen oon muka cool
-mä en pysy roolissa
-Sen lämpö kietoo ympärille
-ja mä oon taas sen
+Alus herkkä mut lopus jyskyttää
+meno miellyttää kun ei hiljennä
+jaksa ei pitempää, ei olla nuorii enää
+anna hetki sua kainalos pitää
 
 [Chorus]
-
 Hän on mun yökamu halailtava
 pehmee ja tuoksuva
-Hän saa mut hölmöilemään
-ja nauramaan turhaan
-Hän on mun sokeri
-mun kahvin makeutus
-Hän on mun syy herätä
-ja unohtaa muu
+Hän saa seikkaileen
+ja nauraan turhaan
 
-[Bridge]
-
-Jos maailma romahtais tänään
-mä haluisin olla sen vieressä
-Jos mikään ei enää pysyis
-mä pitäisin kiinni tiukemmin
-Kun kaikki muu katoaa pois
-me jäädään silti tähän
-Se on enemmän ku ystävä
-se on mun kotiinpaluu
+[Chorus]
+Hän on mun beibe ja
+mun raksupoksu
+Hän on mun aarre
+ja kullanmuru

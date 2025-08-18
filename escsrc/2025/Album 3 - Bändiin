@@ -1,0 +1,45 @@
+
+>>>>
+Auta luomaan prompt kuvageneraattorille. Tehdään kansikuva albumille. Kansikuvaan tulee bändi, mutta jossa huomioidaan ennen kaikkea vihreäpaitaista ja rastapäistä miestä, joka on säveltänyt, sovittanut ja sanoittanut kaikki kappaleet.
+
+<<<<
+Selvä! Eli tehdään kuvageneraattorille sopiva prompt, joka tuo esiin koko bändin, mutta erityisesti vihreäpaitaisen rastapäisen miehen. Koska kansikuva on symbolinen ja visuaalisesti iskevä, kannattaa käyttää tunnelmaa ja tyylilajeja kuvaavia sanoja (esim. valokuva, maalauksellinen, graafinen, 70-luvun levyjen henkinen, moderni tumma estetiikka jne.).
+
+Tässä yksi ehdotus promptiksi, jota voit muokata tarpeen mukaan:
+
+Prompt (englanniksi, koska useimmat generaattorit toimivat paremmin englannilla):
+"Album cover art of a band, standing together in a dramatic scene. The central focus is on a man with dreadlocks wearing a green shirt — he is highlighted as the main figure, standing slightly forward and illuminated. The rest of the band surrounds him in the background, slightly blurred or shadowed. The atmosphere is artistic, moody and powerful, with a sense of creativity and musical energy. Painted album cover style, highly detailed, vibrant colors, iconic and timeless design."
+
+Haluatko, että teen useamman version erilaisilla tyylivaihtoehdoilla (esim. valokuvamainen, retro-maalauksellinen, graafinen minimalismi), jotta voit testata eri tunnelmia kansikuvaksi?
+
+>>>>
+[2 kasvokuvaa ja wayward ryhmäkuva]
+Albumin nimi on "Bändiin" ja esittäjän nimi on "OuluPoko". Kuva saisi olla puoleksi valokuvamainen ja puoleksi sarjakuvamaisen tyylitelty. Kuvan pitäisi tuoda esiin bänditreenien jälkeistä humalaista iloa, joka saa jopa riisumaan paidan ulkona.
+
+<<<<
+Kiitos kuvista ja lisätiedoista! 🙌 Nyt pystytään rakentamaan prompti, joka ottaa huomioon:
+
+Bändin (ryhmäkuva inspikseksi)
+
+vihreäpaitaisen rastapäisen miehen (ensisijainen hahmo, kuvat 1 & 2)
+
+albumin teema: treenien jälkeinen, riehakas, humalainen ilo
+
+tyylin: puoliksi valokuvamainen, puoliksi sarjakuvamainen (comic book -fiilis, mutta realistisella pohjalla)
+
+tekstit: Albumin nimi “Bändiin” ja esittäjä “OuluPoko” kannessa
+
+Tässä valmis prompti kuvageneraattorille (englanniksi, jotta toimii paremmin):
+
+Prompt:
+"Album cover art for the band OuluPoko. Title on the cover: 'Bändiin'. A lively scene of a band after rehearsals, slightly drunk, laughing and celebrating outside at night. One shirtless man cheering, others posing wildly, the atmosphere full of youthful chaos and joy. The central focus is a man with dreadlocks wearing a green shirt, highlighted as the composer and leader of the group, standing out from the rest. Style is half photographic, half comic book illustration – gritty, vibrant, and expressive. Strong contrast, bold outlines, energetic composition, iconic and memorable album cover."
+
+Haluatko, että teen myös variantteja tästä promptista, esim.:
+
+Synkempi heavy/underground-tyyli
+
+Humoristinen, sarjakuvamaisen liioiteltu tyyli
+
+Retro 70–80-luku -henkinen rock-levyn kansi
+
+👉 Kummalla linjalla haluaisit lähteä ensin testaamaan?
