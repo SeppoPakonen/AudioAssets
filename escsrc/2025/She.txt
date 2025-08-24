@@ -1,45 +1,34 @@
+Style:
+A Finnish pop-rock song with a driving rhythm section and prominent electric guitar melodies,
+The song is in a major key and has a moderate tempo,
+The instrumentation includes drums, bass guitar, electric guitar, and a male lead vocalist,
+The drums provide a steady rock beat with occasional fills,
+The bass guitar plays a foundational, rhythmic line,
+The electric guitar features a clean tone with some subtle reverb and delay, playing melodic lines and arpeggiated chords,
+The male vocalist sings in Finnish with a clear, slightly melancholic tone,
+The song structure follows a typical verse-chorus format with an instrumental break,
+Production elements include a balanced mix with the vocals and lead guitar prominent,
+There is a slight compression on the overall mix, giving it a cohesive sound
 
-[Verse 1]
-Hän soittaa taas
-Miljoonannen kerran viikossa
-Ei haittaa
-Sil on jutut makeita
-Hän koittaa taas
-ylipuhuu tulemaan
-Sen kaa
-mä taas suostun lopulta
+Style:
+A Finnish pop-hiphop song with a driving rhythm section and prominent plucked synth melodies,
+The song is in a major key and has a moderate tempo,
+The instrumentation includes drum machin, bass synth, rhythm synth, lead synth, and a male lead vocalist and rapper,
+The male vocalist sings in Finnish with a clear, slightly melancholic tone,
+The song structure follows a typical verse-chorus format with an instrumental break,
+Production elements include a balanced mix with the vocals and lead instrument,
+There is a slight compression on the overall mix, giving it a cohesive sound
 
-[Prechorus 1]
-Ja kun hän hymyilee
-Mun sydän hakkaa ja saa väreileen
-Huokaileen
+Style:
+A Finnish pop-reggae and big band song with a driving rhythm section and prominent brass melodies,
+The song is in a major key and has a moderate tempo,
+The instrumentation includes drums, bass guitar, electric guitar, brass section, organ player, and a male lead vocalist,
+The male vocalist sings in Finnish with a clear, slightly melancholic tone,
+The song structure follows a typical verse-chorus format with an instrumental break,
+Production elements include dry sound, a balanced mix with the vocals and lead instrument,
+There is a slight compression on the overall mix, giving it a cohesive sound
 
-[Chorus]
-Hän on mun yökamu halailtava
-pehmee ja tuoksuva
-Hän saa seikkaileen
-ja nauraan turhaan
 
-[Verse 2]
-Hän lähettää
-Miljoonannen kerran viestiä
-Kysyi hän
-Milloin tuun taas siel käymään
-Vastaan "ehkä"
-Vaik oon kohta perillä
-Sen luona
-Ei arvaa et oon ovella
-
-[Prechorus 2]
-Ja kun hän katsoo mua
-Mun tekosyyt hajoo ja unohdan
-Muut asiat
-
-[Chorus]
-Hän on mun yökamu halailtava
-pehmee ja tuoksuva
-Hän saa seikkaileen
-ja nauraan turhaan
 
 [Chorus]
 Hän on mun beibe ja
@@ -47,34 +36,90 @@ mun raksupoksu
 Hän on mun aarre
 ja kullanmuru
 
-[Bridge]
-Peiton alla halitaan
-kosteen kuuma on jokainen suudelma
-Happi loppuu, tehdään sotkuu
-Sama levy soi uudestaan
+[Instrumental]
 
-Puren sun kaulaa, puristan lähemmäs
-Kiemurtelet mun märässä sylissä
-Hetkes on ikuisuus, kielel ihanuus
-Nenäl karvat sun, uusi voihkaus
+[Verse 1]
+Hän soittaa taas
+Miljoonannen kerran viikossa
+Ei haittaa
+Meil on jutut makeita
+Hän koittaa taas
+ylipuhuu tulemaan
+nukkumaan
+mä taas suostun lopulta
 
-Toistuu teot ja lupaukset rakkauden
-Sun tuloos ootan uudelleen
-Joo mä osaan sut, ja saan kuumeneen
-Vuoroin vierais, meet lipaiseen
-
-Alus herkkä mut lopus jyskyttää
-meno miellyttää kun ei hiljennä
-jaksa ei pitempää, ei olla nuorii enää
-anna hetki sua kainalos pitää
+[Prechorus 1]
+Ja kun hän hymyilee
+Mun sydän hakkaa ja saa väreileen
+Huokailen
 
 [Chorus]
 Hän on mun yökamu halailtava
 pehmee ja tuoksuva
-Hän saa seikkaileen
-ja nauraan turhaan
+Hän saa mut nauraan
+aivan muuten vaan
+
+[Verse 2]
+Hän lähettää
+Miljoonannen kerran viestiä
+Mietitään
+Milloin tuun taas siel käymään
+Vastaan "ehkä"
+Vaik oon kohta perillä,
+Siellä,
+Ei arvaa et oon ovella
+
+[Prechorus 2]
+Ja kun hän katsoo mua
+Mun tekosyyt feilaa ja alkaa unohtua
+Muut asiat
 
 [Chorus]
+Hän on mun yökamu halailtava
+pehmee ja tuoksuva
+Hän saa mut nauraan
+aivan muuten vaan
+
+[Chorus]
+Hän on mun beibe ja
+mun raksupoksu
+Hän on mun aarre
+ja kullanmuru
+
+[Bridge, rapping]
+Peiton alla halitaan,
+Kosteen kuuma on suudelma
+Happi loppuu, tehdään sotkuu,
+Sama levy soi uudestaan,
+Puren sun kaulaa, vedän lähemmäs,
+Kiemurtelet mun sylissä,
+Hetkessä on ikuisuus, kielellä ihanuus,
+Ja mun nenällä karvat sun,
+Vannon et sua rakastan,
+Annan aikaa nauttia,
+Vuorotellen, meno vaihtelee,
+Sä meet lipaiseen,
+Herkästä kovaan etenee,
+Lämpenee kun ei hiljennä,
+Jaksa ei pitempää,
+Ei olla nuorii enää,
+
+[Prechorus]
+Anna mun kainalossa sua pitää,
+
+[Chorus]
+Hän on mun yökamu halailtava
+pehmee ja tuoksuva
+Hän saa mut nauraan
+aivan muuten vaan
+
+[Chorus]
+Hän on mun beibe ja
+mun raksupoksu
+Hän on mun aarre
+ja kullanmuru
+
+[Chorus, acapella]
 Hän on mun beibe ja
 mun raksupoksu
 Hän on mun aarre

@@ -1,0 +1,433 @@
+{
+	"id": 3,
+	"highest_seen_serial": 10504,
+	"seen_types": [
+
+	],
+	"root": {
+		".version": 3,
+		"id": "",
+		"type_hash": 0,
+		"serial": 10500,
+		"file": 3,
+		"is_ast": true,
+		"a.kind": 22,
+		"a.type": "",
+		"a.begin": {
+			"x": null,
+			"y": null
+		},
+		"a.end": {
+			"x": null,
+			"y": null
+		},
+		"a.filepos_hash": 0,
+		"a.is_ref": false,
+		"a.is_definition": false,
+		"a.is_disabled": false,
+		"sub": [
+			{
+				".version": 3,
+				"id": "Kesaloma",
+				"type_hash": 0,
+				"serial": 10502,
+				"file": 3,
+				"is_ast": true,
+				"a.kind": 22,
+				"a.type": "",
+				"a.begin": {
+					"x": null,
+					"y": null
+				},
+				"a.end": {
+					"x": null,
+					"y": null
+				},
+				"a.filepos_hash": 0,
+				"a.is_ref": false,
+				"a.is_definition": false,
+				"a.is_disabled": false,
+				"sub": [
+					{
+						".version": 3,
+						"id": "Tanssiin",
+						"type_hash": "-2999024324956135890",
+						"serial": 10504,
+						"file": 3,
+						"is_ast": true,
+						"a.kind": 22,
+						"a.type": "",
+						"a.begin": {
+							"x": null,
+							"y": null
+						},
+						"a.end": {
+							"x": null,
+							"y": null
+						},
+						"a.filepos_hash": 0,
+						"a.is_ref": false,
+						"a.is_definition": false,
+						"a.is_disabled": false,
+						"ext": {
+							"data": [
+								{
+									"key": "description",
+									"value": null
+								},
+								{
+									"key": "gender",
+									"value": null
+								},
+								{
+									"key": "ctx",
+									"value": null
+								}
+							]
+						},
+						"sub": [
+							{
+								".version": 3,
+								"id": "ProtoVideoTask1",
+								"type_hash": "6187220660296067297",
+								"serial": 9916,
+								"file": 3,
+								"is_ast": false,
+								"value": {
+									"type": "ValueMap",
+									"value": [
+										{
+											"key": {
+												"type": "String",
+												"value": "artist"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Artisti on \"OuluPoko\". \r\nTarinat sijoittuvat kappaleiteen syntyhetkeen vuonna 2006.\r\nHän aloitti silloin ensimmäisen seurustelusuhteen.\r\nHän teki musiikkia Steinberg Cubase ja Guitar Pro ohjelmistoilla.\r\nHän soitti kitaraa bändissä, jonka hän itse perusti ja jota hän veti.\r\nArtisti on kasvanut vapaa-mielisessä ympäristössä ja käynyt Oulun Steinerkoulua Suomessa.\r\nHän oli melko ujo ja huono kirjoittamaan sanoituksia, ja siksi sävelsi enimmäkseen.\r\nSävellysten sanoitusideat kuitenkin tallentuivat sävellysten nimiin ja hän muistaakin kappaleista ja niiden ideasta paljon. Se auttoi luomaan uudet sanoitukset alkuperäistä ideaa kunnioittaen.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "title"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Tanssiin"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_arrangement"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_composition"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "authors_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "extra"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Description is in Finnish"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "lyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "[Verse 1]\r\nTanssiin! Hakuaika naisten.\r\nOrkesteri kaiken värähtämään saa. \r\nVarmasti sä katsot silmiin,\r\naskeleet vie pilviin.\r\nLämmin oot sä niin. \r\n\r\n[Verse 2]\r\nSuu kii, tunnet sää nyt muutkin, meidät\r\ntääl musiikki uppoutumaan saa. \r\nKun sanot \"tahdot tanssii\" tarkoitatko valssii.\r\nOrkesteri pakkaa jo. \r\nRannas selin nojaan puus kii\r\nlähentelen kuiskit\r\nsanoin ihanin. \r\nSut tahdon mutta olen vielä\r\nkäskypiika siellä\r\nminne isä toi.\r\n\r\n[Verse 3]\r\nJos voit sä ottaa mukaan mut niin\r\naina emäntänä voin vaan\r\nsua ylistää. \r\nMut tänään helmaa voi en sulle nostaa.\r\nLupaukset kostautuvat kuitenkin. \r\nKostuu silmät mun kun\r\nitkuun sanat saa sun\r\nniin huijausta olit sä. \r\nMä katson loittonevaas selkää\r\nroiston siinä tiedän\r\nheilaa illaks etsivän.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "musicstyle"
+											},
+											"value": {
+												"type": "WString",
+												"value": "A Finnish traditional pop song parody with a female vocalist,\r\nfeaturing a prominent accordion melody and a driving drum beat,\r\nThe song is in a major key, with a moderate tempo,\r\nThe instrumentation includes accordion, bass guitar, drums, and electric guitar,\r\nThe accordion plays the main melodic lines throughout the song, often in a call-and-response pattern with the vocals\r\nThe bass provides a walking bass line, and the drums maintain a consistent, upbeat rhythm,\r\nThe electric guitar provides rhythmic strumming and occasional melodic fills,\r\nThe female vocalist sings in a clear, slightly nasal tone, with a relatively narrow vocal range,\r\nThe song structure follows a typical verse-chorus format, with an instrumental break after the second chorus,\r\nThe production is clean, with a balanced mix that highlights the accordion and vocals,\r\nThere are no significant vocal effects or heavy processing on the instruments,\r\nThe song begins immediately with singing\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "num"
+											},
+											"value": {
+												"type": "int",
+												"value": 32
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "original_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "selfmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 1
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videoidea"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Perinteiset suomalaiset lavatanssit 1960 luvulla. Video on vanhan filmin näköinen myös.\r\nNainen ja mies tanssivat järven rannalla olevalla katetulla tanssilavalla, jossa on paljon ihmisiä ja tanssi-orkesteri.\r\nTanssit loppuvat ja mies yrittää lähennellä naista järven rannalla.\r\nNainen antaa miehelle rukkaset ja mies hylkää naisen julmasti.\r\nNainen itkee videon lopussa.\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Tanssiin!\r\nHakuaika naisten\r\nOrkesteri kaiken\r\nvärähtämään saa\r\nVarmasti\r\nsä katsot silmiin\r\naskeleet\r\nvie pilviin\r\nLämmin\r\noot sä niin\r\nSuu kii,\r\ntunnet sää nyt\r\nmuutkin,\r\nmeidät tääl\r\nmusiikki\r\nuppoutumaan saa\r\nKun sanot\r\n\"tahdot tanssii\"\r\ntarkoitatko\r\nvalssii\r\nOrkesteri\r\npakkaa jo\r\nRannas selin\r\nnojaan puus kii\r\nlähennellen kuiskit\r\nsanoin ihanin\r\nSut tahdon\r\nmutta olen vielä\r\nkäskypiika siellä\r\nminne isä toi\r\nJos voit sä\r\nottaa mukaan mut\r\nniin aina\r\nemäntänä voin vaan\r\nsua ylistää\r\nMut tänään\r\nhelmaa voi en\r\nsulle nostaa\r\nLupaukset\r\nkostautuvat\r\nkuitenkin\r\nKostuu silmät mun\r\nkun itkuun\r\nsanat saa sun\r\nniin huijausta\r\nolit sä\r\nMä katson\r\nloittonevaas selkää\r\nroiston siinä tiedän\r\nheilaa illaks etsivän\r\n\r\n"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_arrangement"
+											},
+											"value": {
+												"type": "int",
+												"value": 2021
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_composition"
+											},
+											"value": {
+												"type": "int",
+												"value": 2006
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics"
+											},
+											"value": {
+												"type": "int",
+												"value": 2021
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "whenmade_lyrics_today"
+											},
+											"value": {
+												"type": "int",
+												"value": 0
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "sora_preset"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Style Template for Sora – “Tanssiin” (1960s Finnish Lavapop Parody)\r\n\r\n1. Audio Style  \r\n• Genre & Feel: Finnish traditional‐pop parody in a major key, moderate tempo (≈100–110 BPM), driving dance beat.  \r\n• Instrumentation:  \r\n  – Accordion: main melodic lines in call-and-response with vocals  \r\n  – Bass guitar: walking-style bass line  \r\n  – Drums: steady, upbeat rhythm with simple snare/backbeat  \r\n  – Electric guitar: muted rhythmic strums + occasional melodic fills  \r\n• Vocals: female lead, clear slightly nasal timbre, narrow range, no heavy processing or pitch correction  \r\n• Structure: verse-chorus form, immediate vocal entry, instrumental break after Chorus 2, finish on final chorus  \r\n• Production: clean, balanced mix that highlights accordion and vocals; minimal reverb, no autotune  \r\n\r\n2. Visual Style  \r\n• Era & Aspect: mid-1960s; 4:3 aspect ratio; emulate old 16 mm film—light grain, slight flicker, gentle vignetting  \r\n• Color Grade: faded color or subtle sepia wash; warm highlights, muted shadows  \r\n• Frame Rate: 24 fps with slight projection flicker  \r\n• Lighting: soft, natural evening light on lakeside deck; warm tungsten accents on stage  \r\n\r\n3. Setting & Staging  \r\n• Location: covered wooden lakeside dance pavilion (lava) by a forest lake, full of couples dancing  \r\n• Band: on raised platform—accordionist, bassist, drummer, electric guitarist; simple backdrops (bunting, potted ferns)  \r\n• Dancers: large crowd of Finnish couples in 1960s attire (men in light wool suits, narrow lapels; women in full-skirted dresses)  \r\n• Ethnicity: all performers and dancers appear ethnically Finnish  \r\n• Makeup / Wardrobe (Women): heavy vintage makeup—bold red lips, pronounced blush, dark eyeliner; hair in neat bouffant or curled bob  \r\n• Makeup / Wardrobe (Men): clean-shaven or thin mustache, short side-part; simple tie, polished shoes  \r\n\r\n4. Camera & Editing  \r\n• Coverage: wide establishing shots of pavilion and lake, medium two-shots of dancing couples, close-ups on accordion keys and singer’s face  \r\n• Movement: gentle dolly or slow pan across dancers; occasional handheld for intimate moments at lakeshore  \r\n• Transitions: simple cuts and occasional 1960s iris-in/iris-out at end of verses or scenes  \r\n\r\n5. Narrative Sequence  \r\na) Opening: cut-in on female vocalist starting “Tanssiin!”, cross-cut to dancing crowd.  \r\nb) Verse 1–2: intercut singer close-ups, accordionist, couples dancing; focus on eye contact and rising excitement.  \r\nc) Chorus: wide shot of full dance floor, quick pans over happy couples.  \r\nd) Instrumental Break: spotlight on accordionist; brief slow-motion of swirling skirts.  \r\ne) Verse 3 / Story Beat: after last chorus, band winds down; cut to lakeshore.  \r\n   – Man approaches woman under pavilion eaves.  \r\n   – Woman firmly gives him “rukkaset” (hand-reject).  \r\n   – Man storms off with a cruel glance.  \r\n   – Woman turns away, starts to cry; close-up tear rolling down her cheek.  \r\nf) Closing: fade to black with final accordion flourish and distant drum tap—end on singer’s echoing “Tanssiin.”  \r\n\r\n6. Titles & Graphics (optional)  \r\n• Opening Title: simple white serif on black, slight film jitter  \r\n• End Title: “Tanssiin – Lavapop 1960’s Parody” plus fictitious label logo  \r\n\r\nThis preset ensures a cohesive audiovisual homage to 1960s Finnish lavatanssit, highlighting Finnish ethnicity and vintage glamour with heavy makeup on the women."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "slideshow_prompts"
+											},
+											"value": {
+												"type": "WString",
+												"value": "Below is a draft music-video “slideshow” screenplay broken into scenes, with on-screen lyric cues, plus multiple AI-image-prompt options per scene (you can pick or mix later). All scenes carry a 1960s Finnish lavatanssit (dance pavilion) vibe by a lakeshore.  \r\n\r\n1. SCENE 1 – OPENING / VERSE 1  \r\nDescription: A long shot of a covered wooden dance pavilion at dusk. The orchestra begins—accordion front and center—while the crowd sways. Camera slowly dolly-ins.  \r\nOn-screen lyric: “Tanssiin! Hakuaika naisten. Orkesteri kaiken värähtämään saa.”  \r\n\r\nImage-prompt options:  \r\nOption A (B&W film grain)  \r\n“1960s Finnish lakeside dance pavilion, wooden floor, full crowd, accordionist on small stage, black-and-white film grain texture, slight vignette, warm dusk sky behind trees.”  \r\n\r\nOption B (Sepia retro)  \r\n“Vintage sepia-toned lakeside dance hall in Finland, couple dancing in foreground, orchestra with accordion and bass guitar, wooden railings, soft glowing lanterns, period clothing 1960s.”  \r\n\r\nOption C (Muted pastel color)  \r\n“Pastel-toned retro scene: Finnish pavilion by a lake at night, accordion player under string lights, couples in mid-century outfits waltzing, subtle film grain, soft focus edges.”  \r\n\r\n2. SCENE 2 – VERSE 2 (CALL-AND-RESPONSE)  \r\nDescription: Cut to a mid-shot of the female vocalist (narrow range, slightly nasal tone) singing as accordion answers. Camera pans audience feet tapping.  \r\nOn-screen lyric: “Suu kii, tunnet sää nyt muutkin, meidät täl’ musiikki uppoutumaan saa.”  \r\n\r\nImage-prompt options:  \r\nOption A (Close-up focus)  \r\n“Close-up of female singer in 1960s dress at Finnish dance pavilion, accordionist in background, crisp lighting on face, black-and-white with film scratches.”  \r\n\r\nOption B (Dynamic duet)  \r\n“Split scene: left side shows female vocalist singing in retro outfit; right side accordion player calling back, both in warm sepia tones, vintage microphone visible.”  \r\n\r\n3. SCENE 3 – MID-SONG DANCE MONTAGE  \r\nDescription: Montage of couples dancing, feet sliding, hats swaying, accordion melody swirling around. Cut on beat.  \r\nNo lyrics on-screen.  \r\n\r\nImage-prompt options:  \r\nOption A (Silhouettes)  \r\n“Silhouetted dancers on pavilion wooden floor, backlit by lanterns, accordion and drum shadows on wall, poetic motion blur.”  \r\n\r\nOption B (Overhead)  \r\n“Aerial view of 1960s Finnish dance pavilion, dozens of couples in circular patterns, bass player visible near stage, warm tonal palette.”  \r\n\r\n4. SCENE 4 – INSTRUMENTAL BREAK  \r\nDescription: Spotlight on accordion solo; quick cuts to drummer and bass guitarist nodding. Rhythm intensifies.  \r\nNo lyrics.  \r\n\r\nImage-prompt options:  \r\nOption A (Accordion focus)  \r\n“Close tight shot of accordion bellows expanding and contracting, chrome buttons gleaming, film grain filter, hands moving fast.”  \r\n\r\nOption B (Rhythm section)  \r\n“Low-angle shot: drummer mid-beat, bass guitar strings vibrating, retro colored stage lights, dynamic motion blur.”  \r\n\r\n5. SCENE 5 – VERSE 3 / CLIMAX  \r\nDescription: Dance ends. A hopeful young man approaches the woman at pavilion edge. He offers a gentle bow, she appears flattered.  \r\nOn-screen lyric: “Jos voit sä ottaa mukaan mut niin aina emäntänä voin vaan sua ylistää.”  \r\n\r\nImage-prompt options:  \r\nOption A (Emotion-filled)  \r\n“Young Finnish man in 1960s suit leaning toward woman in floral dress under pavilion eaves, twilight lake glimmer beyond, sepia tone, tense body language.”  \r\n\r\nOption B (Retro color)  \r\n“Full-color retro: man offering hand shyly, woman looking away with subtle hesitation, wooden railing and lake in soft focus background.”  \r\n\r\n6. SCENE 6 – REJECTION & HEARTBREAK  \r\nDescription: Next moment: she steps back, shakes her head firmly (“rukkaset”). He reacts in hurt, then coldly turns and walks away into the night.  \r\nOn-screen lyric: “Mä katson loittonevaas selkää roiston siinä tiedän heilaa illaks etsivän.”  \r\n\r\nImage-prompt options:  \r\nOption A (High contrast B&W)  \r\n“High-contrast black-and-white: woman’s hand raised in refusal, man’s face registering shock, pavilion lighting stark, deep shadows.”  \r\n\r\nOption B (Torn film strip look)  \r\n“Vintage torn film-strip effect: woman turning away crying, man’s back receding, watery lake behind, grainy sepia & small scratches.”  \r\n\r\n7. SCENE 7 – FINAL CLOSE-UP / TEARS  \r\nDescription: Slow zoom on her face as a single tear rolls down her cheek; fade to black as the beat ends.  \r\nNo lyrics.  \r\n\r\nImage-prompt options:  \r\nOption A (Intimate close-up)  \r\n“Tearful close-up of Finnish woman’s face, soft 1960s makeup, single tear, film grain, background softly out of focus.”  \r\n\r\nOption B (Overlay film burn)  \r\n“Vintage film burn edge, woman’s eye with tear, sepia tinted, slight flicker, tension of nostalgia.”  \r\n\r\nNotes on timing:  \r\n• Each lyric scene holds ~8–12 seconds.  \r\n• Montages/instrumental breaks 6–10 seconds each.  \r\n• Fade transitions with film grain overlays tie the “old movie” look together.  \r\n\r\nChoose any combination of the above prompts or adjust color vs. monochrome to suit your final edit."
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "descriptions"
+											},
+											"value": {
+												"type": "WString",
+												"value": "TikTok-kuvaus (lyhyt & ytimekäs)  \r\nBiisi 32: “Tanssiin” (2006) \uD83C\uDFB6  \r\n– Sanoitettu 2021\r\n– Video generoitu Sora AI, editointi itse✂️  \r\n– Suno AI Cover demon pohjalta \uD83D\uDC83\uD83D\uDD7A  \r\n#OuluPoko #Tanssiin #HandmadeMusic #DailyRelease #SoraAI #VintagePop\r\n\r\n––––––––––––––––––––––––––––––––\r\n\r\nInstagram-kuvaus (keskipitkä)  \r\nTanssiin – biisi #32 vanhojen aarteiden sarjassa! ✨  \r\nOuluPoko sävelsi tämän pop-parodian käsin vuonna 2006, 17-vuotiaana, Steinberg Cubasella ja Guitar Prolla. Bändissä kitaroiva, Oulun Steiner-koulun kasvatti tapasi ensimmäisen rakkauden ja huuhtoi nuoruuden haaveet säveliin. Lyriikat syntyivät vasta nyt kunnioittaen alkuperäisiä ideoita.  \r\nVideo on luotu Sora AI:lla, editoinnin hoidin itse.  \r\nSwipe up kuullaksesi \uD83D\uDCBF ja jätä kommentti: missä askeleissa sä tunnet musiikin viedä?  \r\n#Tanssiin #OuluPoko #2006Rewind #Steiner #AccordionPop #HandmadeBeats #DailySong\r\n\r\n––––––––––––––––––––––––––––––––\r\n\r\nYouTube-kuvaus (pitkä & informatiivinen)  \r\nOtsikko: OuluPoko – Tanssiin (2006 | Biisi #32)  \r\n\r\nKuvaus:  \r\nTässä on “Tanssiin”, vuodelta 2006 peräisin oleva, 17-vuotiaan OuluPokon käsin säveltämä kappale. Julkaisemme joka päivä yhden vanhan aarteeni – tänään on vuorossa biisi numero 32.  \r\n\r\nTaustatarina  \r\n• Vuosi 2006, ensimmäinen seurustelusuhde ja vapaa-ajattelun henki Oulun Steiner-koulussa.  \r\n• Musiikki syntyi Steinberg Cubase- ja Guitar Pro -ohjelmistoilla, sanoitukset kirjoittuvat nyt alkuperäisiä otsikoita kunnioittaen.  \r\n• Soinnot bändissä, jonka perustin ja jossa soitin kitaraa – nuoren intiimi tarina syntyy soiton ja sävellysten välissä.  \r\n\r\nMusiikillinen ote  \r\n• Genre: suomalainen trad-pop-parodia, äänessä naisvokalisti  \r\n• Soittimet: harmonikka (päämelodiat & call-and-response), rummut (etenevä, reipas tahti), basso (kävelylinja), sähkökitaran rytmistrummutus ja huolitellut fillit  \r\n• Sävellaji: duuri, keskitempo  \r\n• Rakenne: verse–kertosäe, toinen kertosäe, instrumentaalinen break, vielä yksi kertsi ja outro  \r\n• Tuotanto: puhdas miksaus, harmonikka ja laulu etualalla, minimiefektit\r\n\r\nVideo & editointi  \r\n• Generoitu Sora AI-teknologialla  \r\n• Editoinnin tein käsityönä – halusin säilyttää videon elävän tunnelman\r\n\r\nLyrics (kolme säkeistöä)  \r\n[Verse 1]  \r\nTanssiin! Hakuaika naisten…  \r\n\r\n[Verse 2]  \r\nSuu kii, tunnet sää nyt muutkin…  \r\n\r\n[Verse 3]  \r\nJos voit sä ottaa mukaan mut niin…  \r\n\r\n(Full lyrics ja analyysi videon alla \uD83D\uDC47)\r\n\r\nTapaa minut myös somessa:  \r\nInstagram ► @OuluPokoMusic  \r\nTikTok ► @OuluPoko  \r\nSpotify-playlist ► linkki biossa  \r\n\r\nJos tykkäsit, tilaa kanava, laita peukku ja jaa kaverille. Kommentoi alle omat suosikkisi vanhoista biiseistä – jatkossakin luvassa nostalgiaa ja tarinoita!  \r\n#OuluPoko #Tanssiin #2006 #SteinbergCubase #GuitarPro #SoraAI #VintagePop #DailySong #AccordionBeats"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "ad_message"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "cover_image"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "english_lyrics"
+											},
+											"value": null
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontname"
+											},
+											"value": {
+												"type": "String",
+												"value": "TikTok Sans 36pt Medium"
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_fontheight"
+											},
+											"value": {
+												"type": "int",
+												"value": 24
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_bordersize"
+											},
+											"value": {
+												"type": "int",
+												"value": 4
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_foreground"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 255,
+													"green": 255,
+													"blue": 255
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_background"
+											},
+											"value": {
+												"type": "Color",
+												"value": {
+													"red": 0,
+													"green": 0,
+													"blue": 0
+												}
+											}
+										},
+										{
+											"key": {
+												"type": "String",
+												"value": "videolyrics_path"
+											},
+											"value": {
+												"type": "String",
+												"value": "D:\\Musiikki\\Videot\\E32 Tanssiin\\txt-fin"
+											}
+										}
+									]
+								},
+								"ext": null,
+								"sub": [
+
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"hash": "-4155921948000538142"
+}
