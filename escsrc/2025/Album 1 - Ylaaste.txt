@@ -68,3 +68,22 @@ Kun vastaat näihin, voin laatia tarkan ja vaikuttavan promptin albumikannen tek
 Tässä esimerkki tarkasta promptista, jonka voit syöttää tekoälykuvageneraattoriin (esim. Midjourney, Stable Diffusion tms.):
 
 “Create a vibrant, candy-like summer album cover in a 2000s retro style reminiscent of Tony Hawk Pro Skater menus. Center composition: a 13-14-year-old boy (long hair with light rastadreadsin­spiraatio, streetwear-tyyli t-paita ja tennarit) nojaamassa siniseen polkupyörään asfaltilla. Taustalla kirkas, pilvetön taivas, värigradientti turkoosin ja vaaleansinisen välillä. Sivussa vanhan PC-kategoriasoittimen pengerryksellä: harmaa tornikotelo ja vanhanaikainen kuvaputkimonitori, jonka näytöllä pikselöityjä ikoneja. Väripaletti: raikas nurmikonvihreä, kesäinen sininen, asfaltin harmaa – kaikki hyvin kyllästettyinä, karkkimaisesti hehkuvina. Tekstit: albumin nimi ’Yläaste’ isolla, rentohenkisellä mutta selkeällä sans-serif-fontilla (esim. rounded typeface) näytön yläosassa, artistin nimi ’OuluPoko’ pienempänä alareunassa. Tyyli: puhtaat linjat, kevyt VHS-kameran kohina tai analoginen häivähdys, nuorekas ja energinen pop-rock–hiphop–vibe.”
+
+
+
+
+
+>>>>
+Albumin kieli on Englanti ja kohdeyleisö USA.
+1. "Freshman". Esille. Kyllä.
+2. Pop, rock, vähän hiphop
+3. Karkkimainen, kesäinen, pilvetön taivas
+4. 2000-luvun retro, kuten Tony Hawk Pro Skater peleissä
+5. Kesäinen luonto: vihreää, sinistä, asfaltin harmaata, sininen polkupyörä
+6. Artisti tulee kanteen nuorena
+7. Viittauksia tyypilliseen PC systeemiin (kuvaputkimonitori ja tornikotelo) saa olla
+8. Steinerkoulua ei tarvitse mainita
+9. Ei
+10. Melko rento fontti, mutta selkeä. Sijainti voi olla mikä vain.
+11. digialbumi 
+

@@ -13,64 +13,64 @@ Production elements include a clean, punchy mix with a slight reverb on the voca
 Title: Konejätkä
 
 [Intro]
-Mun konejätkä
+Mun tietokonekundi
 
-[Instrumentaali]
+[Instrumental]
 
 [Chorus]
-Sä olet mun konejätkä
-silmistäsi loistaa äly
-Microbit virtaa sun sielussas
-ja sun koneen mielessä
-Silmälasit sopii sun tyyliin
-Ei voi olla kuumempaa miestä
-Microbit virtaa sun sielussas
-ja sun koneen mielessä
+Mun tietokonekundi
+Nero sun katseisiin
+Microbit-virta käy sieluun
+ja sun koneaivos
+Lasit sopii sun tyyliin
+Kuumempaa kundia ei
+Microbit-virta käy sieluun
+ja sun koneaivos
 (oh-oh)
 
 [Verse 1]
-Viime viikolla mun koneeseen jäi paha bugi
-ei yhteyttä, ei verkkoo — ei huomistakaan tuli
-Löysin koodarin, jolla oli suunnitelma, auttoi mua vaan
-Katseessa, lumouksessa, rakkautta en kestänytkään
-Hän nauro, sano: "Windows? Enpä sitä käytä,
-oon Linux-pro, sileet koodit, taikaa täyttä"
-Mut riitti että hän klikkas kerran — se oli taidetta,
-ja heti vei mun sydämen alta
+Viime viikko toi koneeseen pahan vian
+yhteys petti — ei verkkoo, ei suuntaa
+Löysin koodarin, suunnan; hän auttoi mua
+Katse, hurmos; tunne jota en kestä
+Hän naurahti: ‘Windows? Ei, tuskin käytän’
+Oon Linux-pro — koodi käy, taika vain
+Silti riitti yks klikkaus — puhdas taide
+ja heti vei mun sydämen
 
 [Chorus]
-Sä olet mun konejätkä
-silmistäsi loistaa äly
-Microbit virtaa sun sielussas
-ja sun koneen mielessä
-Silmälasit sopii sun tyyliin
-Ei voi olla kuumempaa miestä
-Microbit virtaa sun sielussas
-ja sun koneen mielessä
+Mun tietokonekundi
+Nero sun katseisiin
+Microbit-virta käy sieluun
+ja sun koneaivos
+Lasit sopii sun tyyliin
+Kuumempaa kundia ei
+Microbit-virta käy sieluun
+ja sun koneaivos
 
 [Verse 2]
-Kun sä pelis lyöt, se saa mut haluun palaa
-Sun nerokkaat kädet hallitsee koodit, joihin luottaa saa
-Kaikki unelmoi samoin, he tahtoo loistaa,
-mut mä voin todistaa, että hän on mun oma poika
-Uusi aika alkaa meidän tarinassa,
-lihaksikkaat sankarit hälvenee varjossa
-Komiat miehetkin voi tytöt unohtaa,
-aika lähestyy kun nörtit saa maailman hallita
+Sun peli, teot saa sisällä palon
+Sun nerokkaat kädet komentaa koodin
+Kaikki näkee saman, kaikki tahtoo loistaa,
+mut voin todistaa: hän on mun
+Alkaa uusi jakso meidän historiassa
+Lihas-sankarit häipyy jo hämäriin
+Komeat voi unohtaa tytöt,
+Kohta aika kun nörtit johtaa maan
 
-[Instrumentaali]
+[Instrumental]
 
 [Chorus]
-Sä olet mun konejätkä
-silmistäsi loistaa äly
-Microbit virtaa sun sielussas
-ja sun koneen mielessä
-Silmälasit sopii sun tyyliin
-Ei voi olla kuumempaa miestä
-Microbit virtaa sun sielussas
-ja sun koneen mielessä
+Mun tietokonekundi
+Nero sun katseisiin
+Microbit-virta käy sieluun
+ja sun koneaivos
+Lasit sopii sun tyyliin
+Kuumempaa kundia ei
+Microbit-virta käy sieluun
+ja sun koneaivos
 
-[Instrumentaali]
+[Instrumental]
 
 
 
@@ -146,4 +146,65 @@ Microbit flow goes through your soul
 and your computer mind
 
 [Instrumental]
+
+
+
+
+------------------------------------------------------------------------
+
+Tässä on tiivis, 1900-luvun alun (–1920-luvun) psykologialla tehty tulkinta sekä alkuperäisestä lyriikasta että laatimastasi inspiraatiotekstistä. Kyse on kirjallisesta lähiluvusta, ei diagnoosista.
+
+# Freudilainen (psykoanalyysi)
+
+* **Alitajuiset viittaukset / kondensaatio ja siirtymä:** “Bugi”, “katkennut yhteys” ja “yksi klikkaus” toimivat unimaisina symboleina. Ne tiivistävät (kondensoivat) tunne-elämän katkoksen ja sen korjaamisen: avuttomuus → pelastuminen. “Microbit-virta” ja “koodi” kuvittavat libidoenergiaa, joka ohjautuu tekniseen toimintaan (sublimaatio).
+* **Eroksen ja Thanatoksen jännite:** “No net, no future” on pienen kuoleman fantasia (yhteyden katkeaminen = eriytyminen, tyhjyys). Pelastava koodari edustaa Erosta (sitova, eheyttävä voima), joka palauttaa yhteyden.
+* **Fetissit ja katse:** “Lasit” fetissiesineenä kanavoi halua turvallisesti; katse (“nerous silmissäsi”) on halun keskus. Esine kiinnittää eroottisen latauksen pois suoralta kohtaamiselta.
+* **Transferenssi ja auktoriteetti:** Koodari näyttäytyy parantajana/”tohtorina”. Minä-hahmo siirtää (transferoi) turvan ja osaamisen kaipuunsa tähän hahmoon ja idealisoi hänet (“yksi klikkaus… varasti sydämen”).
+* **Isäimago ja kapina:** “Windows? … hengitän Linuxia” lukee isä-auktoriteetin kahtalaisuuden: totteleminen (alttius asiantuntijalle) ja kapina (valtavirran hylkääminen). Superegon edustaja onkin “tekniikan mestari”, ei perinteinen patriarkka.
+
+# Jungilainen (analyyttinen psykologia)
+
+* **Arkkityypit:** Koodari = **Maagi** (gnosis, salatun kielen hallinta). “Klikkaus” on **initiaatioriitti**—hetki, jossa kaaos jäsennetään ja sankari kokee “Aha-elämyksen”.
+* **Anima/animus-projektiot:** Puhuja heijastaa animuksensa (toimijuus, päättäväisyys, järki) koodariin. Loppua kohti hän sanoittaa yhteisen oppimisen (“valitsen rohkeuden oppia kanssasi”)—merkki **individuaatiosta**, oman animuksen integroinnista.
+* **Tekniikka manan kantajana:** “Microbit-virta” on manaattinen energia—yliluonnollistettu elinvoima, jonka koodari kanavoi. Tekniikasta tulee psyyken pyhä symboli.
+
+# Adlerilainen (yksilöpsykologia)
+
+* **Alemmuudentunne ja kompensaatio:** Lähtökohta on avuttomuus (“bugi”, “ei nettiä”). Ihailu kohdistuu kompetenssiin, ei pelkkään ulkonäköön: äly ja taito kompensoivat alemmuudentta.
+* **Yhteisötunne (Gemeinschaftsgefühl):** Sävy muuttuu omistamisesta (“hän on minun”) kohti yhteistoimintaa ja oppimista. Se on siirtymä yksin pärjäämisen fantasiasta kohti sosiaalista hyödyllisyyttä.
+
+# Suhde auktoriteettiin
+
+* **Ambivalenssi:** Puhuja alistuu asiantuntijan johtoon (transferenssi), mutta samaan aikaan koodari on antiautoritäärinen (valitsee “Linuxin”). Auktoriteetti määrittyy **pätevyydeksi**, ei muodolliseksi vallaksi.
+* **Rituaalinen legitimaatio:** Yksi virheetön toimenpide (“yksi klikkaus”) korvaa pitkän hierarkkisen rituaalin—modernin, meritokraattisen vallan kuva.
+
+# Suhde omaan elämään
+
+* **Avuttomuudesta toimijuuteen:** Kertomus kulkee riippuvuudesta (pelastava toinen) kohti identifikaatiota (halu oppia). Tämä on egoa vahvistava kaari: turva ulkoisesta objektista sisäiseksi kyvykkyydeksi.
+* **Sydämen “uudelleenkäynnistys”:** Rebirth-metafora—trauman (katkos) jälkeen uusi, integroitu minä.
+
+# Suhde yhteiskuntaan (Saksa-kehys, 1920-luku mielessä)
+
+* **Tekninen moderni ja meritokratia:** Weimarin ajan henkeä vastaten tekniikka toimii sekä vapauttajana että järjestyksen lähteenä. “Nörttien aika” on toivekuva **teknokraattisesta** yhteiskunnasta, jossa valta perustuu osaamiseen.
+* **Maskuliinisuuden uudelleenkirjoitus:** “Lihaksikkaat sankarit häivyttyvät”—siirtymä sotilaallisesta ruumis-ihanteesta kohti älyn ja tarkkuuden arvoa (**Neue Sachlichkeit** -henkinen askeesi).
+* **Ordnung & Genauigkeit:** “Sulava koodi”, “taikakosketus”—saksalainen tarkkuus ja järjestys kääntyvät eroottiseksi ihanteeksi: järjestys rauhoittaa psyykettä.
+
+# Symboliikka (keskeiset esineet/teot)
+
+* **Lasit:** Näkemisen/fokuksen fetissi; lupa katsoa ja tulla nähdyksi hallitusti.
+* **Bugi / katkennut yhteys:** Hylkäämisen tai eriytymisen pelko; fragmentoituminen.
+* **Klikkaus:** Pieni mutta kaikkivoipa teko—omnipotentti fantasia, joka ratkaisee kaaoksen (toiveen täyttymys).
+* **Linux vs. Windows:** Avoin, itseohjautuva järjestys vs. suljettu, normatiivinen järjestys—kapinan ja kuuliaisuuden kompromissi.
+* **“Flow” ja “virta”:** Libido/Eros, joka sitoo irralliset osat yhteen (sitova periaate).
+
+# Muita ajan suuntauksia (lyhyesti)
+
+* **Gestalt-psykologia:** Oivallus (Aha-kokemus) vastaa “klikkausta”: hahmo (ratkaisu) irtoaa taustasta (kaaos).
+* **Varhainen behaviorismi (Watson):** Mallioppimisen vivahde—asiantuntijan toiminta toimii ärsyke-vastemallina, joka vahvistaa puhujan halua oppia.
+* **Taiteilija-/luovan subjektin teemat (Rank):** Teknisestä luomisesta tulee identiteetin ydin; rakkaus koodiin on luovan tahdon jatke.
+
+# Johtopäätös
+
+Teksti artikuloi modernin rakkausfantasian, jossa **kompetenssi on eroottinen** ja **tekniikka on psyykkinen turvarakenne**. 1920-luvun ja sitä aiemman psykologian kielellä kyse on libidon sublimaatiosta, transferenssista asiantuntija-objektiin ja alemmuuden tunteen kompensaatiosta kohti yhteistoiminnallista toimijuutta. Saksalaisessa kehyksessä se resonoi Weimarin teknisen modernin, järjestyksen kaipuun ja meritokraattisen vallan ihanteen kanssa—samalla peilaten hiljaista kapinaa vanhaa, ruumiillista auktoriteettia vastaan.
+
 

@@ -1,6 +1,163 @@
+Style:
 
 
-Title: Miia ja fanit
+Title: Miia
+
+[Instrumental]
+
+[Verse 1]
+Hiljaa salvat
+Hän rajaa varjonsa vakain ottein
+Ei torikauppaa, valitsi katseen
+Bauhaus-viiva peittää vapinan pois
+Hän nimeää valon
+
+[Chorus 1]
+Ei myy
+Se aukeaa sanoin, ei kolikoin
+Posliini lämmittää yöt
+Kataan sen kahdelle, tarkasti
+Ei lippuja, ei laumaa
+Vaka katseesi karkottaa haamut
+Vanhat julisteet pölyyn
+Syömme rauhassa taas
+
+[Instrumental]
+
+[Verse 2]
+Kirja täsmää
+Ripusti kuvat omiin kehyksiin
+Ei isän kaiku pauhaa rinnassaan
+Oppi valon, kulman, suoran rytmin
+Työ yli hälyn vain
+
+[Chorus 1]
+Ei myy
+Se aukeaa sanoin, ei kolikoin
+Posliini lämmittää yöt
+Kataan sen kahdelle, tarkasti
+Ei lippuja, ei laumaa
+Vaka katseesi karkottaa haamut
+Vanhat julisteet pölyyn
+Syömme rauhassa taas
+
+[Instrumental]
+
+[Chorus 2]
+Sininen ovi
+Avain kääntyy
+Posliini soi illoin
+Tuolit, sama tahti
+Joukko ei osta tätä lain
+Katseesi palaa oikeaan
+Sovittu valo
+
+
+
+
+
+Title: Mia
+
+[Instrumental]
+
+[Verse 1]
+Locked doors breathing
+She frames her shadow with a steady hand
+No bargain crowd, one gaze she chose to meet
+A bauhaus line keeps tremor out of sight
+She names the light alone
+
+[Chorus 1]
+No sale
+This smile unlocks for vows, not coins or cheers
+A china plate warms each night
+We set it out, two places, measured
+Not banners, not crowds at all
+Your steady glance keeps ghosts from circling near
+Old posters stay down in dust
+We eat in peace each time
+
+[Instrumental]
+
+[Verse 2]
+Ledger balanced
+She hung the prints in frames she chose herself
+No father's gavel knocking in her chest
+She learned the light, the angle, honest poise
+Craft over noise each day
+
+[Chorus 1]
+No sale
+This smile unlocks for vows, not coins or cheers
+A china plate warms each night
+We set it out, two places, measured
+Not banners, not crowds at all
+Your steady glance keeps ghosts from circling near
+Old posters stay down in dust
+We eat in peace each time
+
+[Instrumental]
+
+[Chorus 2]
+Keep the door blue lit
+Keys softly turn
+Plates hum like clocks at dusk
+Two chairs, one beat in time
+No crowd can buy this steady glow
+Your gaze returns to right address
+Lights stay agreed, dear
+
+
+
+
+
+
+
+
+
+
+
+Structure:
+
+Instrumental
+
+Verse 1 (5 lines)
+1. 4 syllables
+2. 10 syllables
+3. 10 syllables
+4. 10 syllables
+5. 6 syllables
+
+Chorus 1 (8 lines)
+1. 2 syllables
+2. 10 syllables
+3. 7 syllables 
+4. 9 syllables
+5. 7 syllables
+6. 10 syllables
+7. 7 syllables 
+8. 6 syllables
+
+Instrumental
+
+Verse 2 (as in Verse 1)
+
+Chorus 1
+
+Instrumental
+
+Chorus 2 (4 lines):
+1. 5 syllables
+2. 4 syllables
+3. 6 syllables
+4. 6 syllables
+5. 8 syllables
+6. 8 syllables
+7. 5 syllables
+
+
+------------------------------------------------------------
+Title: Miia
 
 
 
@@ -61,3 +218,68 @@ Ne nauraa vastaan aina uudestaan.
 [Outro]
 “ja netti ei unohda”
 “Miian nauru jäi verkkoon ikuisesti”
+
+---------------------------------------------------------------------------------------------------
+
+Title: Miia (2025)
+
+[Verse 1]
+Miia ei enää marssi torille, ei huuda massalle nimeään,
+hän kiertää kameran kulman, sytyttää valon itse: “näin minut nähdään.”
+Pitsi ja napinväli – ei armoa sattumalle, vain kutsu valitulle linssille,
+gramofoni-sample soi läppäriltä, kämmen tekee aikakausirauhan:
+polvipituinen mekko, lakatut kengät, kalenteri täsmällinen,
+Bauhaus-viiva peilissä – selkeys on hänen estetiikkansa.
+“Isän ääni, kiitos opista,” hän sanoo portaikossa,
+ja sulkee oven takanaan – ei piiskaa taskussa, vain oma kompassi.
+Hän ei pyydä turvaa, hän piirtää rajan;
+hän avaa verhot vain kun tahtoo hehkun osua ihoon.
+
+[Pre-Chorus]
+Joukolle ei esiinnytä – nimi ei ole banderolli.
+Hän valitsi katseen, joka pysyy, ei vaihtorahaa.
+
+[Chorus]
+Miia! Sun nauru ei oo torihuutokauppaa,
+se avautuu avaimesta, jonka annoit sanalla, ei kolikolla.
+Ne kuvat ei kierrä kenenkään taskussa –
+ne on kehyksissä oven sisäpuolella, ja ne syttyy kun sinä koputat.
+Miia! Sun hymy on posliinia arkipöydässä,
+otetaan esiin joka ilta, eikä se mene rikki kun sitä käytetään.
+
+[Verse 2]
+Seittemäntoist oli eilen; tänään tilikirja täsmää, laskut on jo maksettu.
+Hän opetteli valon, kulmat, rajauksen – taito, ei almu.
+“Katso mua näin,” hän sanoo, ja näin myös tapahtuu:
+sormi tekee lupauksen sormelle, kaupunki hiljenee ikkunan taakse.
+Ei tarvita isän varjoa seinälle,
+eikä kylän kuoroa antamaan armonpaloja niskalenkillä.
+Hän nostaa pöydälle hopeat, liinan, kahden kupit;
+pöytä on aina kahdelle – ei yleisölle, ei kiertueelle.
+Hän irrottaa itsensä peilistä –
+kuva ei enää syö katsojaa, se ruokkii kahta, tarkan rytmin mukaan.
+
+[Bridge]
+Tämä ei ole ohjelmajulistus, ei “uusi nainen” -juliste.
+Tämä on siisti käsiala, aikainen aamu,
+harja pöydällä suoraan, työ, jossa kädet muistavat mitä lupasivat.
+Paremmuus on käytännöllinen:
+puhtaat kaulukset, ajoissa saapuvat sanat,
+ja ilta, jossa pimeä on yhteinen työkalu.
+
+[Chorus]
+Miia! Sun nauru ei oo torihuutokauppaa,
+se avautuu avaimesta, jonka annoit sanalla, ei kolikolla.
+Ne kuvat ei kierrä kenenkään taskussa –
+ne on kehyksissä oven sisäpuolella, ja ne syttyy kun sinä koputat.
+Miia! Sun hymy on posliinia arkipöydässä,
+otetaan esiin joka ilta, eikä se mene rikki kun sitä käytetään.
+
+[Outro]
+Verkko muistaa kaiken – Miia valitsee, mitä muistolla tehdään.
+Kun verhot suljetaan, jazz raksuttaa vanhaa aikaa uuteen,
+ja katse, jonka hän kutsui, palaa oikeaan osoitteeseen joka kerta.
+Ei häpeää, ei piiskaa – vain sovittu valo,
+ja se, että oven takana maailma jää ulos,
+kun kahden hengitys pitää metrin mittaa yhtä pitkänä.
+
