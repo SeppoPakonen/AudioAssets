@@ -1,9 +1,7 @@
 uses
-	2001,
 	2002,
 	2003,
 	2004,
-	2005,
 	2006,
 	2007,
 	2008,
@@ -23,7 +21,19 @@ uses
 	2022,
 	2023,
 	2024,
-	2025;
+	2025,
+	"01 Freshman",
+	"02 Sophomore",
+	"03 The Band",
+	"04 Summer Break",
+	"05 Junior",
+	"06 Prom",
+	"07 Breakup",
+	"08 Senior",
+	"09 Second Prom",
+	"10 Blue Attack",
+	"11 Super Senior",
+	"12 Military service";
 
 mainconfig
 	"" = "";

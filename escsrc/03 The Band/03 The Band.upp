@@ -1,0 +1,28 @@
+description "\377B255,85,150";
+
+file
+	2006 readonly separator,
+	"01 answermachine.tg",
+	"02 cute story - c.tg",
+	"03 tension.tg",
+	"04 stupid.tg",
+	"05 tradition.tg",
+	"06 monsters.tg",
+	"07 autumn tone - c.tg",
+	"08 she.tg",
+	"09 70s vibe.tg",
+	"10 eat turd.tg",
+	"11 sad love.tg",
+	"2025" readonly separator,
+	"Nolo poika.txt",
+	"Tuu mun luo.txt",
+	TruthOrDare.ecs,
+	MusicVideos.ecs,
+	Monsters.txt,
+	Traditional.txt,
+	Orava.txt,
+	She.txt,
+	"70s vibe.txt",
+	"Sad love.txt",
+	"Eat turd.txt";
+

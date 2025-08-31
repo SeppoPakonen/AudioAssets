@@ -1,0 +1,30 @@
+description "\377B226,42,150";
+
+
+file
+	2006 readonly separator,
+	"01 mr loser.tg",
+	"02 wrong way.tg",
+	"03 two - b.tg",
+	"04 smoke and mirrors.tg",
+	"05 back to the disco.tg",
+	"06 pirate song - a.tg",
+	"07 morning.tg",
+	"08 bad competition entry.tg",
+	"09 dancing song.tg",
+	"10 summer 2006 (attitude).tg",
+	"11 bye bye baby.tg",
+	2025 readonly separator,
+	"Mr Loser.txt",
+	"Wrong way.txt",
+	Two.txt,
+	"Smoke and mirrors.txt",
+	"Back to the disco.txt",
+	"Pirate song.txt",
+	Morning.txt,
+	"Computer guy.txt",
+	"Dancing song.txt",
+	Attitude.txt,
+	"Bye bye baby.txt",
+	Kesaloma.ecs
+	;

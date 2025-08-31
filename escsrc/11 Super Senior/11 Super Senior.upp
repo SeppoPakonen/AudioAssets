@@ -1,0 +1,16 @@
+description "\377B113,85,0";
+
+file
+	2008 readonly separator,
+	"01 praise or thanks.tg",
+	"02 vodka search.tg",
+	"03 I'll find something - part 1.tg",
+	"04 I'll find something - part 2.tg",
+	"05 I'll find something - part 3.tg",
+	"06 movie.tg",
+	"07 may I - a.tg",
+	"08 how did this happen.tg",
+	"09 midlife crisis.tg",
+	Tash readonly separator,
+	"xx may I - b.tg";
+

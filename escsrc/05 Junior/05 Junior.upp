@@ -1,0 +1,24 @@
+description "\377B226,0,255";
+
+
+file
+	2006 readonly separator,
+	"01 worried about a girl.tg",
+	"02 withdrawal symptoms.tg",
+	"03 trashcan.tg",
+	"04 comforting friend.tg",
+	"05 california tourist.tg",
+	"06 breakup song.tg",
+	"07 waltz in the wilderness.tg",
+	"08 heartbeat.tg",
+	"09 it could be so.tg",
+	"10 I lose on purpose.tg",
+	"11_ timberland.tg",
+	trash readonly separator,
+	"xx autumn tone - d.tg",
+	"xx black and white.tg",
+	"xx feels like home - c.tg",
+	"xx nightmare - c.tg"
+	2025 readonly separator,
+	"I lose on purpose.txt";
+	

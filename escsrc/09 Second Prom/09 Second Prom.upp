@@ -1,0 +1,12 @@
+description "\377B170,85,0";
+
+file
+	2008 readonly separator,
+	"01 bad date.tg",
+	"02 pulse.tg",
+	"03 haiku.tg",
+	"04 edge - a.tg",
+	"05 yellow.tg",
+	"06 jungle soul.tg",
+	"07 public square.tg";
+
