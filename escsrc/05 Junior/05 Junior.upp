@@ -1,6 +1,5 @@
 description "\377B226,0,255";
 
-
 file
 	2006 readonly separator,
 	"01 worried about a girl.tg",
@@ -14,11 +13,12 @@ file
 	"09 it could be so.tg",
 	"10 I lose on purpose.tg",
 	"11_ timberland.tg",
-	trash readonly separator,
+	"2006 trash" readonly separator,
 	"xx autumn tone - d.tg",
 	"xx black and white.tg",
 	"xx feels like home - c.tg",
-	"xx nightmare - c.tg"
+	"xx nightmare - c.tg",
 	2025 readonly separator,
-	"I lose on purpose.txt";
-	
+	"I lose on purpose.txt",
+	"Owner hell.txt";
+
