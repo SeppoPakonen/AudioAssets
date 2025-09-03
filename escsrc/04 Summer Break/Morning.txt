@@ -1,5 +1,24 @@
 Style:
+A vocalist sings in a baritone range over a rock arrangement,
+The song is in a minor key and has a moderate tempo,
+The instrumentation includes electric guitar, bass guitar, and drums,
+The electric guitar plays a clean, arpeggiated melody during the verses and a distorted, power chord-driven riff during the chorus,
+The bass guitar provides a steady, rhythmic foundation,
+The drums play a straightforward rock beat with occasional fills,
+The vocals are clear and present, with a slight reverb effect,
+The song structure consists of verses and choruses, with an instrumental break,
+The mixing emphasizes the vocals and lead guitar, with the rhythm section providing a solid backing
 
+Style:
+A vocalist sings in a baritone range over a grunge rock arrangement,
+The song is in a minor key and has a moderate tempo,
+The instrumentation includes electric guitar, bass guitar, and drums,
+The electric guitar plays a clean, arpeggiated melody during the verses and a distorted, power chord-driven riff during the chorus,
+The bass guitar provides a steady, rhythmic foundation,
+The drums play a straightforward rock beat with occasional fills,
+The vocals are clear and present, with a slight reverb effect,
+The song structure consists of verses and choruses, with an instrumental break,
+The production is clean
 
 
 
@@ -9,33 +28,31 @@ Title: I’m normal
 
 
 [Verse 1]
-I need a lawyer now.
+I need a lawyer.
 It’s mostly their fault.
-But  veryone defends them.
+But everyone defends them.
 Favorites never carry blame.
 
 [Chorus]
-I’m normal, society’s rotten to the core.
+Society’s rotten to the core.
 One party runs the schools; my kind wakes last, they war on all.
 
 [Verse 2]
-The system’s rigged, their banners wave high;
+The system is rigged, their banners wave high;
 They crush dissent, no matter who’ll try;
-My kind’s pushed out, left cold in the dark;
+My kind’s left in the dark;
 Their favorites climb, they’re lighting the spark;
-No job for me, their rules choke my name;
-They twist the truth, and we’re left to blame;
-Damn, their lies stack higher each day;
-Voices like mine? They’re buried away.
 
 [Prechorus 1]
 I’m the last to see.
-HR never picked me once.
+HR never picked me.
 Conflict of interest unknown then.
-School stamped it deeper into my file for life.
+School stamped it deeper into my file.
 
 [Chorus]
-I’m normal, society’s rotten to the core.
+I’m normal; society’s rotten to the core.
+One party runs the schools; my kind wakes last, they war on all.
+I’m normal; society’s rotten to the core.
 One party runs the schools; my kind wakes last, they war on all.
 
 [Bridge]
@@ -48,21 +65,25 @@ Shame me for saying it.
 I still say the court keeps our mouths shut here.
 
 [Prechorus 1]
-I’m the last to see.
-HR never picked me once.
+The last to see.
+HR never picked me.
 Conflict of interest unknown then.
-School stamped it deeper into my file for life.
+School stamped it deeper into my file.
 
 [Prechorus 2]
-They preach skies; I point to fuel additives. (11)
-They sold the needle; Trump signed the first shipments. (11)
-Archive erases our pain, still. (8)
-Profiling “science”? I call it theater. (11)
+They preach skies; I point to fuel additives.
+They sold the needle; Trump signed the first shipments.
+Archive erases our pain, still.
+Profiling “science”? I call it theater.
 
 [Chorus]
-I’m normal, society’s rotten to the core.
+I’m normal; society’s rotten to the core.
 One party runs the schools; my kind wakes last, they war on all.
-
+I’m normal
+I’m normal
+So normal after all
+In the rotten society
+So normal after all
 
 
 

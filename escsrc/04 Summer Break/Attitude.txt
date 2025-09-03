@@ -1,3 +1,127 @@
+Style:
+A british rock song with a driving rhythm section featuring a prominent bass guitar and drums,
+The song is in a minor key, creating a melancholic and slightly aggressive mood,
+The lead vocals are male, delivered in a clear, mid-range register with some vocal fry and occasional sustained notes,
+The song structure includes verses and a chorus, with instrumental breaks featuring a distorted electric guitar playing melodic lines,
+The production is clean, with a balanced mix that emphasizes the bass and drums,
+The tempo is moderate, and the overall feel is energetic yet somber,
+There are no obvious chord progressions, but the bass line provides a strong harmonic foundation,
+The song features a consistent drum beat throughout, with occasional fills
+
+Style:
+A british rock song with a driving rhythm section featuring a prominent bass guitar and drums,
+The song is in a minor key, creating a melancholic and slightly aggressive mood,
+The lead vocals are male, delivered in a clear, mid-range register with some vocal fry and occasional sustained notes,
+The song structure includes verses and a chorus, with instrumental breaks featuring a distorted electric guitar playing melodic lines,
+The production is clean, with a balanced mix that emphasizes the bass and drums,
+The tempo is moderate, and the overall feel is energetic yet somber,
+There are no obvious chord progressions, but the bass line provides a strong harmonic foundation,
+The song features a consistent drum beat throughout, with occasional fills
+
+
+Title: Stay still
+
+[Verse 1]
+I haven't seen them in years now.
+No ache for that old parade today still.
+The mask they copied cracks on screens; my smile learned hard steel.
+Ledger-voices audit what I couldn’t heal.
+
+[Chorus]
+Stay still now.
+Just breathe slow.
+Eyes up, friend.
+Cut the paper crown.
+Step out, face the light.
+No more kings.
+No saints here.
+Let the mirror choose your name now.
+
+[Verse 2]
+They showed up rich by arrival.
+I kept books no court will read again now.
+Hyperpriced halos glittered; I learned to mute the ad.
+Peer to peer, I passed the fire along the night.
+
+[Verse 3]
+Campus ghosts bless and scold me cold.
+Drills and ranks still hum beneath the skin now.
+Screens applaud, then vanish; I keep the echo’s seed inside.
+Mentor-shaped space, still empty under neon dawn.
+
+[Chorus]
+Stay still now.
+Just breathe slow.
+Eyes up, friend.
+Cut the paper crown.
+Step out, face the light.
+No more kings.
+No saints here.
+Let the mirror choose your name now.
+
+[Chorus 2]
+Stay still.
+Stay still.
+Just breathe.
+Eyes up, friend.
+Stay still.
+Stay still.
+Just breathe slow.
+Eyes up, friend.
+
+[Instrumental]
+
+[Bridge (shout rap)]
+Audit my breath, now!
+Mask off, keep care now.
+Shame is a flare now.
+Walk past the line now
+smash their false throne down
+Peer seeds to peers now.
+No paper gods now.
+Mirror, name me now.
+I keep a spark now.
+Stay still now.
+Stay still now.
+Just breathe slow.
+
+[Chorus]
+Stay still now.
+Just breathe slow.
+Eyes up, friend.
+Cut the paper crown.
+Step out, face the light.
+No more kings.
+No saints here.
+Let the mirror choose your name now.
+
+[Chorus 2]
+Stay still.
+Stay still.
+Just breathe.
+Eyes up, friend.
+Stay still.
+Stay still.
+Just breathe slow.
+Eyes up, friend.
+
+[Outro]
+Eyes up, friend now
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 Inspiraatioteksti:
 
 En oo nähnyt muita aikoihin.
@@ -307,3 +431,26 @@ Kevein kengin kuljen – ja tie kantaa joka askeleen.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+
+Structure:
+- Verse 1: 4 lines
+	1. 8 syllables
+	2. 10
+	3. 13-15
+	4. 11-13
+- Chorus: 8 lines
+	1. 3 syllables
+	2. 3
+	3. 3
+	4. 5
+	5. 5
+	6. 3
+	7. 3
+	8. 8
+- Verse 2: like Verse 1
+- Verse 3: like Verse 1
+- Chorus
+- Instrumental
+- Bridge: 8 lines, all 5 syllables, shout rapping
+- Chorus
+	
