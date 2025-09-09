@@ -62,3 +62,190 @@ Kun vastaat näihin, voin muotoilla photo-realistisen tai illustratiivisen promp
 Tässä valmiiksi muotoiltu prompt tekoälykuvageneraattorille (esim. Stable Diffusion, Midjourney tms.):
 
 ”Create a square album cover in a warm, nostalgic 2005 summer mood. At the center, a photorealistic portrait of a thoughtful teenage musician with long dreadlocks, holding a Gibson Les Paul guitar with the Zakk Wylde yellow-and-black bullseye design. The color palette is rich browns and deep greens, evoking Oulu’s late-evening summer light. Subtle background details hint at the era and setting: a faint translucent collage of MSN Messenger chat windows, a soft VHS-style film grain and lens flare, and a barely-visible outline of Oulu landmarks behind him. He wears a vintage tie-dye shirt and a small peace-sign pendant, a sticker of a red star on the guitar’s body nodding to hippie/leftist culture. Leave clean space at the top for the artist name “OuluPoko” and at the bottom for the album title “Lukioon” in an everyday, slightly hip-hop-inspired font. Add a gentle vignette and warm ambient lighting for an intimate, reflective feel.”
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------
+Mahtavaa – kiitos tarkoista vastauksista! Alla on sinulle suoraan käytettävät, hiotut promptit kahteen makuun (fotorealistinen vs. illustratiivinen). Mukana myös typografia- ja tuotanto-ohjeet (koko, bleed, turva-alue), väripaletti sekä “negative prompt” -ehdotukset. Kopioi sellaisenaan omaan kuvageneraattoriisi ja säädä vain tarvittaessa.
+
+---
+
+# PROMPT A — Fotorealistinen kansi (3000×3000)
+
+**Perusprompt:**
+
+> Square album cover, photo-realistic portrait of a Finnish composer/singer “Steve Chill” as the narrative anchor. He’s late-teen/young adult with subtle 2005 references (not flashy), shoulder-length dreadlocks, holding a Les Paul–style electric guitar with yellow-black bullseye design (no visible brand logos). Scene set in early-summer Oulu, Finland: soft northern evening light, long shadows, birch leaves, a hint of the Gulf of Bothnia sky. Cozy bedroom/attic vibe with retro PC hints: CRT/early LCD glow, tangled LAN cables, a ghosted retro chat window UI from mid-2000s (generic, no trademarks), vinyl turntable on a small table. Subtle left-leaning hippie/arts vibe: peace-symbol pin, hand-drawn doodles and collage scraps taped to the wall (no specific party logos). Mood: introspective but hopeful, slightly shy energy; themes of gaming, friends far away, first kisses, and making music in solitude. Color palette dominated by earthy browns and various greens with a warm golden accent; gentle film grain; shallow depth of field; soft rim light.
+
+**Sommittelu ja tekstit:**
+
+* Artist text: **“Steve Chill”** ylävasempaan, pienellä kerros-varjolla.
+* Album text: **“Sophomore”** alaoikeaan, hieman suurempana.
+* Typografia: arkinen, hiphop-vivahteinen sans-serif (pyöristetyt kulmat, hieman tiivis kirjainväli). Ei liikaa efektiä; pieni kuluma/grunge-maski on ok.
+
+**Tyyliviitteet (sanalliset, ei brändejä):**
+
+* natural film-look, 35mm feel, light haze, soft vignette
+* warm tungsten + cool window-fill mix
+* portrait at eye-level, candid pose, gentle smile or neutral gaze
+
+**Väripaletti (suuntaa-antavat heksat):**
+
+* Tummanruskea #3B2F2A
+* Sammaleenvihreä #556B2F
+* Oliivinvihreä #6B7F4F
+* Vaalea pellava #E6E0D6
+* Kulta/meripihka-koroste #D4A94E
+* Bullseye-keltainen #F2C200, musta #000000
+
+**Negative prompt (suosittelen lisäämään):**
+
+> no brand logos, no text other than “Steve Chill” and “Sophomore”, no excessive neon, no cyberpunk, no futuristic UI, no war/violence, no sexualization, no additional people dominating the frame, no oversaturated HDR, no watermark, no compression artifacts.
+
+**Generaattorin parametri-ehdotus (yleisluonteinen):**
+
+* Resolution: 3000×3000
+* Style strength: medium
+* Photorealism/detail: high
+* Film grain: low-medium
+* Vignette: subtle
+* Seed: random (tallenna paras)
+
+---
+
+# PROMPT B — Illustratiivinen/symbolinen (vintage-grafiikka + retro-GUI)
+
+**Perusprompt:**
+
+> Square album cover, mixed-media illustration collaging 2005 summer memories from Oulu. Central motif: a large yellow-black bullseye that morphs from a Les Paul guitar body into a vinyl record; from the record grow “LAN-vines” (ethernet cables) weaving through birch leaves. In the background, a faint map grid/contour of Northern Ostrobothnia and a tiny abstract city hint (harbor lights, wooden market statue silhouette—generic). Semi-transparent retro PC chat windows (generic UI) float like memories. Small doodles reference art-friendly Steiner-school atmosphere and hippie vibe (peace sign, brush strokes, notebook margins). Earthy browns and greens dominate with a warm late-sun glow; slight paper texture, risograph-like ink shift, mild halftone. Title texts integrated as labels on the collage tape.
+
+**Tekstit & typografia:**
+
+* **“Steve Chill”** yläosassa teippilapun päällä, käsinkirjoitetun oloinen mutta selkeä sans-serif.
+* **“Sophomore”** keskialhaalla, arkinen sans-serif jossa kevyt hiphop-fiilis (pyöristetyt kulmat, pieni varjo).
+* Pieni kuluma/tekstuurimaski teksteihin, jotta istuvat printtiin.
+
+**Negative prompt:**
+
+> no brand names, no corporate logos, no photoreal faces dominating, no bright neon, no sci-fi, no political party symbols, no gore, no NSFW, no watermark.
+
+**Parametri-ehdotus:**
+
+* Resolution: 3000×3000
+* Style: vector + paper collage fusion, grain light
+* Color variation: low-medium
+* Texture: paper/risograph subtle
+
+---
+
+## Tuotanto-ohjeet (jotta kansi toimii sekä somessa että printissä)
+
+* **Koko:** 3000×3000 px (RGB, 300 ppi jos aiot myös printata).
+* **Bleed:** 3 mm (lisää, jos paino vaatii).
+* **Turva-alue:** jätä vähintään **150 px** reunoista ilman tärkeitä elementtejä/tekstiä.
+* **Tekstien kontrasti:** varmista luettavuus (tumma teksti vaalealla pinnalla tai päinvastoin; tarvittaessa ohut varjo).
+* **Logo/ikonit:** vältä oikeita MSN/Counter-Strike/BF-logoja – käytä geneerisiä muotoja/ikkunoita.
+* **Variaatiot:** tee 3–5 versiota eri rajauksilla (esim. lähikuvamuotokuva vs. laajempi huone).
+* **Favicon/thumbnail-testi:** tarkista, että “Steve Chill” ja “Sophomore” näkyvät myös 200×200 px koossa.
+
+---
+
+## Pieni lisä-idealista (valinnainen mauste)
+
+* **Oulun kesävalo:** “midnight sun” -fiilis; kylmä taivaan hohde + lämmin sisävalo.
+* **LAN-kulttuuri:** kaapelit muodostavat huomaamattoman sydämen/nuolinäytteen (ensisuudelma-muisto).
+* **Steiner/diy:** luonnosvihkon reuna, vesiväriroiske, käsintehdyn tuntu.
+* **DJ-viba:** pienenä yksityiskohtana mikserin fader, ei brändejä.
+
+---
+
+Haluatko, että generoin tästä heti ensimmäisen vedoksen (fotorealistinen vai illustratiivinen), vai vietkö promptin suoraan omaan generaattoriisi? Jos käytät samaa promptia useasti, tallenna parhaiden siementen (seed) numerot jatkoa varten.
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Mahtavaa! Tässä on hiottu, suoraan kopioitava prompttipaketti levynkannelle “**Steve Chill – Sophomore**”. Tein neljä eri suuntaa (foto, dokumentaarinen, kollaasimainen ja minimalistinen). Jokaisessa on ensisijainen **englanninkielinen prompt** (toimii parhaiten generatoreissa), sekä **negatiivinen prompt** ja **parametrisuositukset**. Värimaailma: ruskean–vihreän vivahteet, 2005-kesän fiilis, Zakk Wylde -bullseye Les Paul mukana, rastoja ja 2000-luvun alun nettiviitteitä. Mukana myös Oulu-viittauksia (Toripolliisi-siluetti, Rotuaari-teksti, Merikosken sillat – hienovaraisesti).
+
+---
+
+## 1) Photorealistinen “reenis”-potretti (pääversio)
+
+**Prompt (EN):**
+*A moody, photorealistic square album cover. A shy 15-year-old Finnish guitarist with medium-length dreadlocks under a black beanie holds a Zakk Wylde bullseye Les Paul (black and pale-yellow concentric circles) in a small rehearsal basement. Warm window dust, subtle summer 2005 vibe, soft side light, mild film grain (Kodak Portra feel). Hints of early-2000s PC culture: a faint MSN Messenger chat bubble ghosted in the background, a coil of LAN cables on a shelf. Tasteful nods to Oulu: a tiny Toripolliisi statue silhouette sticker on an amp, abstract bridge lines of Merikoski. Colors: earthy browns and desaturated greens. Composition: rule of thirds, shallow depth of field (35mm). Clean, hip-hop-leaning sans serif title text at top left: “Steve Chill” (bold) and below it “Sophomore” (regular), white with thin dark outline, no excessive effects. High detail, natural skin, realistic lighting.*
+
+**Negative prompt:**
+*blurry, low-res, extra fingers, deformed guitar, neon cyberpunk colors, glossy plastic look, text artifacts, logos, brand watermarks, heavy vignette, exaggerated smiles, 80s or 90s styles*
+
+**Suositusparametrit (SD/A1111):**
+
+* 1024×1024, **DPM++ 2M Karras**, 30–40 steps, **CFG 6.5–7.5**
+* Hires fix optional (x1.5, 0.35 denoise)
+* **Ref-kuva**: jos lataat jonkin nuoruuskuvan, käytä *image-to-image* strength **0.35–0.5**
+
+**Midjourney v6 (vaihtoehto):**
+`/imagine prompt: [the English prompt above] --ar 1:1 --v 6 --style raw --seed 42`
+
+---
+
+## 2) Koulukäytävä / art-lukio –dokumentaarinen
+
+**Prompt (EN):**
+*Square album cover, candid documentary look in a Finnish art high school hallway. The young composer with dreadlocks and a camo beanie leans against lockers, holding a Zakk Wylde bullseye Les Paul. Posters for art classes and a peace symbol sticker hint at a liberal, hippie, left-leaning culture. A portable turntable and a stack of vinyls peek from a classroom door; a CRT monitor glow spills onto the floor, nodding to LAN gaming and 2005 MSN culture. Earthy browns and muted olive greens dominate; soft fluorescent top light mixed with window daylight. Subtle Oulu hints: “Rotuaari” handwritten on a small poster, minimal map grid texture. Natural film grain, 35mm perspective. Typography: understated hip-hop-leaning sans serif: “Steve Chill” top center, “Sophomore” just below, letter-spaced slightly.*
+
+**Negative prompt:**
+*overly glossy, cyberpunk neon, ultra-saturated, fantasy armor, futuristic UI, corporate logos, warped hands, unreadable text, extreme tilt*
+
+**Parametrit:** 1024×1024, DPM++ 2M Karras, 32–36 steps, CFG 6–7
+
+---
+
+## 3) Kollaasimix “2005 Summer Memories”
+
+**Prompt (EN):**
+*A mixed-media collage square cover capturing summer 2005: close-up of a Zakk Wylde bullseye Les Paul pickup and strings, a Polaroid of a shy teenager with dreadlocks and a beanie, a faint MSN Messenger chat window frame, coiled LAN cables, a vinyl record edge, and a small turntable fader. Overlays of Oulu elements: a minimal Toripolliisi silhouette stamp and thin line art of the Merikoski bridges. Palette: warm browns, olive greens, cream, with paper textures, tape, and pencil scribbles. Subtle noise and light leaks. Clean typographic lockup bottom right: “Steve Chill” (bold) / “Sophomore” (regular), hip-hop-leaning sans serif; align flush right. Balanced, modern, not cluttered.*
+
+**Negative prompt:**
+*messy chaotic layout, low-res scans, heavy glitch, neon gradients, corporate stock photo feel, unrealistic hands, text errors*
+
+**Parametrit:** 1024×1024, 28–34 steps, CFG 6.5
+
+---
+
+## 4) Minimalistinen vektori/posteri
+
+**Prompt (EN):**
+*A minimalist vector-style square album cover. Silhouette of a teenager with dreadlocks wearing a beanie, holding a bullseye Les Paul (bold black-and-pale-yellow circles) against a matte gradient from dark olive to warm brown. Thin line icon hints: small Toripolliisi statue outline, peace symbol, tiny vinyl record, discreet “2005” MSN chat bubble icon. Clean negative space, geometric balance. Typography centered: “Steve Chill” in a simple hip-hop-flavored sans serif (slightly rounded, subtle tracking), “Sophomore” smaller underneath. No drop shadows, no neon.*
+
+**Negative prompt:**
+*photorealistic skin, gradients with banding, neon, 3D glossy effects, clip-art feel, jagged edges, text warping*
+
+**Parametrit:** 1024×1024, steps 24–28, CFG 6
+
+---
+
+### Tekstityyli & typografia
+
+* **Fonttituntuma:** “hiphop-vivahtava mutta arki” → etsi *rounded sans* / *grotesk* (esim. “Poppins SemiBold”, “DIN Rounded”, “Bebas Neue Soft”, “Montserrat Alternates”).
+* **Asettelu:** artisti **Steve Chill** prioriteetti, “**Sophomore**” hieman pienempänä. Valkoinen teksti ohuella tummalla outline-viivalla toimii ruskea-vihreää taustaa vasten.
+
+### Pieni muistilista generointiin
+
+* Pidä **Zakk Wylde bullseye** selvästi tunnistettavana (musta + kellertävä/cream-ympyrät).
+* Vältä neon-sävyjä; suosi **desaturoituja** ruskeita, oliivia, metsänvihreää, kermaa.
+* Lisää **film grain** / **paper texture** kevyesti 2005-fiiliksen vahvistamiseksi.
+* Jos käytät omaa referenssikuvaa (esim. beanie+rastat): *image-to-image* strength 0.35–0.5 → realismin ja tunnistettavuuden hyvä tasapaino.
+
+---
+
+Haluatko, että teen näillä asetuksilla pari valmista kansiversiota (foto + kollaasi) jo nyt? Voin käyttää luonnissa rasta/beanie-viitettä ja bullseye-kitaraa, ja sijoittaa tekstit “Steve Chill – Sophomore” toiveidesi mukaan.
+

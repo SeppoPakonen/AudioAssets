@@ -43,3 +43,76 @@ Humoristinen, sarjakuvamaisen liioiteltu tyyli
 Retro 70–80-luku -henkinen rock-levyn kansi
 
 👉 Kummalla linjalla haluaisit lähteä ensin testaamaan?
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+Mahtavaa! Tässä on valmiit, testatut promptit eri tyyleihin. Ne korostavat bändin *koko porukkaa*, mutta pitävät vihreäpaitaisen rastapäisen miehen selvästi pääosassa. Kaikki ovat englanniksi (generaattorit toimivat usein paremmin). Mukana myös “negative prompt” ja esimerkki­parametreja Midjourneylle ja SDXL\:lle.
+
+---
+
+# Core hybrid-style (photo + comic)
+
+**Prompt (copy–paste):**
+*“Album cover art for ‘To The Band’ by Steve Chill. A band celebrating after rehearsal, tipsy, laughing together. The lead figure—a man with dreadlocks in a green shirt—stands slightly forward as the clear main character, confident grin, charismatic eyes. The rest of the band is behind him, looser and a bit blurred, cheering and playing around. Nighttime outdoor vibe like stepping out of a rehearsal space: cold air, street-lamp glow, slight breath vapor, scattered beer bottles, spontaneous joy. Photo–comic hybrid: natural flash photography + subtle ink outlines, soft halftone shading, gentle motion blur, high micro-detail skin, cinematic depth of field. Moody yet warm palette (amber lights, cool shadows, green accents). Leave clean space for title at top.”*
+
+**Negative prompt:**
+*“no gore, no aggressive violence, no text or watermarks, no extra limbs, no deformed hands, no distorted faces, no heavy caricature, no horror.”*
+
+**Suggested framing:** square (1:1) or vinyl-friendly 3000×3000 px.
+
+**Midjourney v6 params (example):** `--ar 1:1 --stylize 250 --chaos 12 --quality 1`
+**SDXL params (example):** steps 28–35, CFG 5–6, DPM++ SDE Karras, Hires fix ×1.4.
+
+---
+
+# Variant A — Flashy street moment, shirt comes off
+
+**Prompt:**
+*“‘To The Band’ by Steve Chill — jubilant post-rehearsal scene outside a studio at night. The lead man with dreadlocks (green shirt draped over shoulder, bare chest from drunken joy) is front and center, laughing; bandmates around him in background, celebrating. Mixed media: candid on-camera flash + subtle comic lines and halftone texture, faint lens halation, breath vapor, wet pavement reflections, confetti-like snow. Bold, iconic composition, hero lit, others slightly motion-blurred. Warm amber streetlight vs cool blue shadows. Space at top for title.”*
+
+**Negative prompt:** same as yllä.
+**Midjourney:** `--ar 1:1 --stylize 300 --chaos 18 --quality 1`
+**SDXL tips:** add *“film-like grain, soft rim light, halftone overlay”*.
+
+---
+
+# Variant B — Rehearsal room joy (indoors)
+
+**Prompt:**
+*“Album cover for ‘To The Band’ by Steve Chill — cramped rehearsal room, cables and amps. Lead man with dreadlocks in a green hoodie at the front, triumphant grin, holding a cream-and-black spiral electric guitar; band behind him laughing after a take, tipsy euphoria. Photo–comic hybrid: realistic lighting with soft ink outlines and selective halftone shading, shallow depth of field, slight motion blur on hands, tactile textures. Gritty but warm mood. Reserve negative space at top-left for title.”*
+
+**Negative prompt:** same.
+**Params:** as yllä.
+
+---
+
+# Variant C — Graphic poster twist (more stylized)
+
+**Prompt:**
+*“Stylized album cover for ‘To The Band’ by Steve Chill. Composition: the band as silhouettes and soft focus behind; the lead dreadlocked man in a green shirt is a sharp, half-painted, half-photographic portrait in the foreground. Bold concentric-ring motif echoing a spiral guitar pickguard behind him. Limited palette (deep green, cream, black, warm amber). Clean vector-like edges mixed with photo grain, gentle halftone dots. Timeless, iconic, celebratory energy.”*
+
+**Negative prompt:** same.
+**Params:** `--ar 1:1 --stylize 400` (MJ) / SDXL steps 30, CFG 5.5.
+
+---
+
+## Jos käytät omia referenssikuvia (suositus)
+
+* Lataa 2 lähikuvaa kasvoista + 1 ryhmäkuva generaattoriin ja anna niille isompi paino.
+
+  * **Midjourney:** liitä kuvalinkit alkuun ja lisää esim. `::1.5` lähikuville, `::1` ryhmäkuvalle.
+  * **SDXL/ComfyUI:** käytä Image Prompt/Referencer tai IP-Adapteria kasvojen yhtenäisyyteen; ControlNet Canny “light” antaa siistit piirrosviivat.
+
+---
+
+## Otsikointi (usein parempi lisätä jälkikäteen)
+
+Generaattorit mokaavat tekstin usein. Tee kuva ilman tekstiä ja lisää otsikot editorissa.
+**Typo-ohje:**
+
+* Title: **TO THE BAND** – bold grotesk (esim. Bebas/Anton varimainen), pienet välit, sijoita yläreunaan.
+* Artist: **Steve Chill** – kevyempi sans, hieman pienempi, alle tai alareunaan.
+* Värit: valkoinen/kerma (+ kevyt varjo) ambereilla valoilla toimii hyvin.
+
+Haluatko että muokkaan yhden näistä supertäsmälliseksi Midjourney- tai SDXL-promptiksi sinun asetuksille (AR, CFG, sampler, siemen)?
