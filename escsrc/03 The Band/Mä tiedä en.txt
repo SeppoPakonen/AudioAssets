@@ -1,6 +1,16 @@
+
+Style:
+A melancholic piano-pop-triphop song in a minor key, featuring a female lead vocalist,
+The instrumentation includes a piano playing arpeggiated chords, a bass guitar providing a walking bass line, and a drum kit with a steady, understated beat, Synthesizer pads provide atmospheric backing,
+The song structure alternates between verses and choruses, with a distinct instrumental break,
+The tempo is moderate, The lead vocal is delivered in a clear, slightly melancholic tone, with some sustained notes,
+The production emphasizes clarity and separation of instruments, with a slight reverb on the vocals and piano
+
+
+Title: Mä tiedä en
+
 [Chorus]
-Mä tiedä en, tiedä en, 
-et missä oot nyt.
+Mä tiedä en, tiedä en, et missä oot nyt.
 Kun viestii lähties et jättänyt et jättänyt. 
 Ei susta jää, susta jäänyt johtolankaa.
 Kun menit lähteen ennen aamua, aamua. 
@@ -12,16 +22,13 @@ Kun kuului huhu, että joku suutelee esteettä.
 Oli varmaan virhe kiinnostuu.
 
 [Prechorus 1]
-On vaikea
-sut unohtaa
-vaik tuntees on
-ekstaasia
+On vaikea sut unohtaa
+vaik tuntees on ekstaasia
 Aidolta se tuntui
 vaikka kemikaali sussa vain puhui
 
 [Chorus]
-Mä tiedä en, tiedä en, 
-et missä oot nyt.
+Mä tiedä en, tiedä en, et missä oot nyt.
 Kun viestii lähties et jättänyt et jättänyt. 
 Ei susta jää, susta jää nyt johtolankaa.
 Kun menit lähteen ennen aamua, aamua. 
@@ -33,21 +40,73 @@ Et kai tilannut mua, alkoi vain tapahtua
 Sait bailattua, mut taisin rakastua
 
 [Prechorus 2]
-On vaikea
-se uskoa
-et parempaa
-on karata
+On vaikea se uskoa
+et parempaa on karata
 Tahtonut en pahaa
 Mutta otin kaiken vastaantulevan
 
 [Chorus]
-Mä tiedä en, tiedä en, 
-et missä oot nyt.
+Mä tiedä en, tiedä en, et missä oot nyt.
 Kun viestii lähties et jättänyt et jättänyt. 
 Ei susta jää, susta jää nyt johtolankaa.
 Kun menit lähteen ennen aamua, aamua. 
 
 
+
+Title: I don't know
+
+[Chorus]
+No, I don’t know, I don’t know, where you are right now.
+No message left when you left this morning, no message left.
+No trace of you, trace of you now, no clue to track.
+You slipped away before the dawn, before the dawn.
+
+[Verse 1]
+I hear at night, in quiet time
+where are the rest of them now,
+and what is happening to them out there.
+A rumor rushed that someone
+kissed with no restraint tonight.
+Guess it was wrong to let myself care then.
+
+[Prechorus 1]
+It’s so hard
+to forget you,
+though ecstasy
+was in you.
+It felt so real
+to me,
+though chemicals in you
+were speaking only.
+
+[Chorus]
+No, I don’t know, I don’t know, where you are right now.
+No message left when you left this morning, no message left.
+No trace of you, trace of you now, no clue to track.
+You slipped away before the dawn, before the dawn.
+
+[Verse 2]
+I hoped, I guess, for more than this,
+not leaving nothing,
+and shocked to be let down so soon.
+You didn’t ask for me;
+it just started happening.
+You got to party, but I fell in love.
+
+[Prechorus 2]
+It’s so hard
+to believe it,
+that running off
+is for the best.
+I never meant harm,
+no,
+But I took everything that came my way.
+
+[Chorus]
+No, I don’t know, I don’t know, where you are right now.
+No message left when you left this morning, no message left.
+No trace of you, trace of you now, no clue to track.
+You slipped away before the dawn, before the dawn.
 
 
 >>>>
@@ -103,3 +162,14 @@ If you like, I can now give you a short, generator-friendly “tag + style” ve
 indietronica, electro-acoustic pop, pronounced piano intro, female vocal, melancholic minor key, moderate tempo, hybrid acoustic/electronic drums.
 
 Do you want me to prepare that compressed generator version next?
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
