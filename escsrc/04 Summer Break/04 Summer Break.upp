@@ -1,6 +1,5 @@
 description "\377B226,42,150";
 
-
 file
 	2006 readonly separator,
 	"01 mr loser.tg",
@@ -14,6 +13,13 @@ file
 	"09 dancing song.tg",
 	"10 summer 2006 (attitude).tg",
 	"11 bye bye baby.tg",
+	"12 worried about a girl.tg",
+	"13 withdrawal symptoms.tg",
+	"14 trashcan.tg",
+	"15 comforting friend.tg",
+	"16 california tourist.tg",
+	"17 breakup song.tg",
+	"18 waltz in the wilderness.tg",
 	2025 readonly separator,
 	"Mr Loser.txt",
 	"Wrong way.txt",
@@ -26,5 +32,12 @@ file
 	"Dancing song.txt",
 	Attitude.txt,
 	"Bye bye baby.txt",
-	Kesaloma.ecs
-	;
+	Kesaloma.ecs,
+	"12 - worried about a girl.txt",
+	"13 Withdrawal symptoms.txt",
+	"14 Evolve human not rules.txt",
+	"15 I lose on purpose.txt",
+	"16 Tyranny of stupidity.txt",
+	"17 Sofa and tv.txt",
+	"18 Owner hell.txt";
+
