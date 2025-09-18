@@ -10,12 +10,13 @@ The overall mood is somber and reflective
 
 
 
+
 Title: Tervetuloa
 
 [Intro]
 (mm-mm)
-Tervetuloa
-Tervetuloa kotiin
+Hei vaan
+Tervetuloo
 
 [Instrumental]
 (oo-oo)
@@ -24,7 +25,9 @@ Tervetuloa kotiin
 (oo-oo)
 
 [Verse 1]
-Katso kukan lehtien alle, tuuli hiljaa laulaa,
+Katso kukkaniittyä, kun aaltoilee ne tuules
+Katso sinitaivasta, kun saa se mielen nouseen
+
 Katso taivas, pellot kiiltää — näky mielen rauhoittaa.
 Täällä kukaan ei vihaa sinua,
 Kukaan ei petä sinua.
@@ -73,7 +76,6 @@ Missä olet nyt?
 Kaipaan sinua...
 Toivon näkeväni pian,
 hopeisen kuun alla.
-
 
 
 
@@ -141,6 +143,10 @@ Where are you now?
 I miss you so...
 I hope I see you soon,
 under silver moon.
+
+
+
+
 
 
 
