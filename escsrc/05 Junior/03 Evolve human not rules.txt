@@ -69,6 +69,22 @@ Structure:
 
 
 
+
+Style:
+This is a high-energy rock track with a driving rhythm section and fast prominent male vocals / rap.
+The song is in a minor key, creating a dramatic and intense atmosphere.
+The instrumentation includes electric guitar, bass guitar, and drums.
+The electric guitar features distorted tones and plays both rhythmic power chords and melodic lead lines.
+The bass guitar provides a solid low-end foundation with a consistent, driving eighth-note pattern.
+The drums maintain a fast tempo with a strong backbeat, utilizing both snare and kick drum for emphasis.
+The male vocalist sings with a powerful, slightly raspy tone, delivering the lyrics with a sense of urgency and passion.
+The vocal melody is often syncopated, adding to the dynamic feel of the song.
+The song structure follows a typical verse-chorus format, with instrumental breaks that feature guitar solos.
+The production is clean and punchy, with all instruments clearly audible in the mix.
+The overall tempo is fast, contributing to the energetic and aggressive feel of the track.
+
+Title: Not Loud, But Real
+
 [Intro]
 Make me, not rules, tonight, for real.
 One breath, three doubts, one truth, three deals.
@@ -89,16 +105,14 @@ Let each option breathe out, first.
 I stake my doubt on truth, alone.
 I break what keeps me small, for good.
 
-Chorus
-
+[Chorus]
 Not loud, but real, I choose my way.
 Your rules don't fit my bones, no more.
 I won't sprint blind through winter's steel hush, I will see first.
 I weigh the paths, then carve my own, with calm eyes.
 My pace, my proof. No rush.
 
-Verse 2
-
+[Verse 2]
 See stark divides.
 Contrast gives proof.
 Sacred cows block the exit door.
@@ -108,34 +122,44 @@ Name hidden scripts.
 Systems serve people—or fail hard.
 Choose clarity over fame.
 
-Prechorus 2
-
+[Prechorus 2]
 I stake my doubt on light, within.
 I cut the noise to hear what's true.
 
-Chorus
-
+[Chorus]
 Not loud, but real, I choose my way.
 Your rules don't fit my bones, no more.
 I won't sprint blind through winter's steel hush, I will see first.
 I weigh the paths, then carve my own, with calm eyes.
 My pace, my proof. No rush.
 
-Bridge 1
+[Chorus]
+Not loud, but real, I choose my way.
+Your rules don't fit my bones, no more.
+I won't sprint blind through winter's steel hus h, I will see first.
+I weigh the paths, then carve my own, with calm eyes.
+My pace, my proof. No rush.
 
+[Bridge 1]
 If rules are chains, I'll file them, down slow.
 If norms are fog, I'll wait out the drift.
 If power says hush, I'll answer with silence, then voice raised.
 If speed is worship, I honor the seeing, and choice made.
 
-Instrumental
-Prechorus 3
+[Instrumental]
 
+[Prechorus 3]
 I stake my doubt on breath and sight.
 I keep what makes me grow, no myth.
 
-Chorus
+[Chorus]
+Not loud, but real, I choose my way.
+Your rules don't fit my bones, no more.
+I won't sprint blind through winter's steel hush, I will see first.
+I weigh the paths, then carve my own, with calm eyes.
+My pace, my proof. No rush.
 
+[Chorus]
 Not loud, but real, I choose my way.
 Your rules don't fit my bones, no more.
 I won't sprint blind through winter's steel hush, I will see first.
