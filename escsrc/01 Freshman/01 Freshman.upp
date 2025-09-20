@@ -1,6 +1,7 @@
 description "\377B28,42,150";
 
 file
+	AGENTS.md,
 	2001 readonly separator,
 	"01 One out of four.tg",
 	2002 readonly separator,
