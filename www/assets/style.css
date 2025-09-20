@@ -8,6 +8,8 @@ a:hover { text-decoration: underline; }
 .header { padding: 16px 0; }
 .title { font-size: 24px; font-weight: bold; }
 .subtitle { color: #555; }
+.main { background: linear-gradient(180deg, #f7f9ff, #f8f6ff); transition: background 2.5s ease; }
+.main .wrap { background: linear-gradient(180deg, rgba(255,255,255,0.92), rgba(255,255,255,0.86)); }
 .grid { /* float fallback */ }
 .col { float: left; width: 100%; box-sizing: border-box; padding: 8px; }
 .card { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 12px; }
