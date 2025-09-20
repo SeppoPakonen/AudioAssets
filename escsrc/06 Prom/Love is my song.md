@@ -93,7 +93,7 @@ Year of composition: 2007
 * Production elements include a vocal-forward, clean mix; short plate on leads, longer hall in choruses; modern ear-candy (reverse swipes, micro tape-stops, tiny vocal chops) for scroll-stopping sheen.
 * The song structure is verse–pre–chorus–chorus with intentional instrumental breaks, a half-time bridge, and a tight 2:30–2:40 runtime engineered for clips and repeat plays.
 
-## Temporary English lyrics
+## English song
 
 ### AI prompt
 Make American English lyrics from inspirational texts, taking into account the recommendations of lawyers. See given structure and syllable count for lyrics. Keep all the controversial points. Maximize the controversialness of the lyrics in the name of artistic freedom. You can’t include slurs, dehumanization, or calls to violence—even in lyrics—but write "..." when the original inspiration text contains something like that, for the sake of order.  I do want have double rhyming, both begin and end rhymes, or inline rhymes and end rhymes. Please use language of 2006 or earlier. Translate the title also.
@@ -102,91 +102,7 @@ Make American English lyrics from inspirational texts, taking into account the r
 ### Title
 Wrong address
 
-### Text with syllables
-```
-**Intro (female rapping)**
-Love is my message, kiddo. (7)
-You try to own it, homie, now. (8)
-How can your spoiling be yours? (7)
-Customer—not lover—sign and buy-in. (10)
-
-**Instrumental — short spoken (non-rhyming):**
-“Scope the contract: romance is billable, but my spirit stays non-transferable.”
-
-**Verse 1 (female rapping)**
-Sold it cheap, for pennies, on purpose, man. (9)
-Let you jack it freely, really, greedy kid. (11)
-Not anymore—door closed, code changed, no returns. (11)
-Cold cynics circling—you flipped fine to foul, for show, bro. (13)
-My love moves in better ether now. (9)
-Borderless, sorta, in spirit—that’s real, kid. (11)
-You deserve ... to learn, but I ain’t teacher here. (11)
-Warm thoughts call me; melodies manage my wins, right now. (13)
-Love speaks on bigger business. (7)
-Not just my moods afloat now, kid. (8)
-Making life is love, yes, fact. (7)
-But maintenance counts too, for you. (8)
-Can’t build to bail instantly. (7)
-Can’t price it absurd-exclusive. (8)
-For chosen few with gatekeys. (7)
-Love also runs numbers, not one dude’s joy, on charts, for all. (14)
-
-**Chorus (male singing)**
-Know the sender. (4)
-Find receiver. (4)
-Wrong address—ice. (4)
-Deliver. (3)
-
-**Verse 2 (male rapping)**
-No one knows the stat lover, either. (9)
-I refused that role, soul, whole—alone, bro. (11)
-My texts are true, with routing and stamps on them. (11)
-Sender, receiver—your name ain’t it; face fake labels. (13)
-Mail kept missing houses for years, straight. (9)
-Nobody cared—cold storage like morgue back then. (11)
-So I stacked my packages—backlogged, heavy. (11)
-Finally found a buyer, not a hoarder, ever. (13)
-Keeps them seen, still scarce out there. (7)
-Knows the open ain’t easy, roads. (8)
-Audience slow to answer. (7)
-Still he shields and stewards these words. (8)
-Mid chaos, care continues—true. (7)
-Value in view, not vaults—no moths. (8)
-Beauty unbent from ugly. (7)
-Guarded like glass, yet passed hand to hand, in storms and markets. (14)
-
-**Chorus (male singing)**
-Know the sender. (4)
-Find receiver. (4)
-Wrong address—ice. (4)
-Deliver. (3)
-
-**Bridge (Chant — Chorus-form)**
-Brand the sender, bender, now. (7)
-Mark receiver, believer, now. (8)
-Fix the address—less stress, please. (7)
-Sign it, send it, end it, friend, now. (8)
-Price the love right, sunlight, bright. (7)
-Drop the gate rates, spread it wide now. (8)
-Stats in the heart, charted, hard. (7)
-Scale that care, share fair, repair what despair tried to tear down. (14)
-
-**Chorus (male singing)**
-Know the sender. (4)
-Find receiver. (4)
-Wrong address—ice. (4)
-Deliver. (3)
-
-**Outro — short spoken (non-rhyming):**
-“From mispriced love to enterprise love—KPIs met: kindness per incident.”
-
-**Outro — manly noises:**
-“Mmm.” “Uh-huh.” Slow exhale, chest tap, low hum.
-
-```
-
-
-### For Suno:
+### Lyrics
 ```
 [Intro (female rapping)]
 Love is my message, kiddo.

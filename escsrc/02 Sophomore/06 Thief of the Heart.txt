@@ -1,0 +1,935 @@
+Style 1:
+A Finnish pop song with a female vocalist, featuring a driving rhythm section of drums and bass,
+The song is in a F# minor key, with a tempo of 130 BPM,
+The instrumentation includes a clean electric guitar playing arpeggiated chords,
+a synth pad providing atmospheric backing, and a prominent piano playing melodic lines,
+The vocals are delivered in a clear, slightly melancholic tone, with some vocal effects like reverb,
+The song structure follows a typical verse-chorus form, with an instrumental bridge,
+The production is clean and balanced, with all instruments clearly audible,
+The bass provides a strong rhythmic and harmonic foundation, while the drums maintain a steady, driving beat,
+The piano often doubles the vocal melody or plays counter-melodies, The overall mood is reflective yet energetic
+
+Style 2:
+A Finnish EDM-pop song with a female vocalist,
+The song is in a minor key (Am), with a tempo of 130 BPM,
+
+Title: Sydämen varas
+
+[Verse 1]
+Varastin sydämes kuin karkin hyllyltä 
+Mä piilotan kasvoni varjoilta tylyiltä
+Mun sydän pomppii pelosta ja halusta
+Tajuan et sä oot mun tärkein ryöstö onnistuva
+
+[Chorus]
+Nyt juoksen pois, mut sydämesi saan
+En aijo antautuu, kun ajat mua takaa
+Näytit et saa roisto rakastaa
+Sun sylis varastaa, olla kuin kotonaan 
+
+[Verse 2]
+Yös pimeässä askeleeni kaikuvat
+Hengitys huuruava on liike ainoa 
+Sua etsin yössä sydämien jemmasta
+Jokainen askel on merkki rikoksesta
+
+[Chorus]
+Nyt juoksen pois, mut sydämesi saan
+En aijo antautuu, kun ajat mua takaa
+Näytit et saa roisto rakastaa
+Sun sylis varastaa, olla kuin kotonaan
+
+
+
+
+
+Title: Thief of the Heart
+
+[Verse 1]
+Soft swipe your heart like candy off the shelf
+Shy, I shade my face from stern, salty stealth
+Heart hoppin’, half scared and half hot for you
+I clock it: you’re my sweetest heist, my win come true
+
+[Chorus]
+Now I jet, but still your heartbeat’s mine
+I ain’t gonna fold while you chase my line
+You showed a crook can kinda care, for real
+Your cuddle I steal to feel like home—so chill
+
+[Verse 2]
+Night’s pitch-black, my steps snap back and ring
+Breath fogs; this hush rush is the only thing
+I hunt you, low-key, in heart’s stash hide-and-seek
+Each step’s a sign—my tiny crime, soft-sweet and meek
+
+[Chorus]
+Now I jet, but still your heartbeat’s mine
+I ain’t gonna fold while you chase my line
+You showed a crook can kinda care, for real
+Your cuddle I steal to feel like home—so chill
+
+
+
+
+
+
+>>>>
+Autat kehittämään tarinan kappaleelle ideoiden pohjalta.
+>>>>
+Hei
+<<<<
+Hei! Mukava, että olet täällä. Miten haluaisit edetä tarinan kanssa?
+
+    Minkä genren tarinasta on kysymys (esim. fantasia, scifi, draama, kauhu)?
+    Millaisia ideoita tai kohtauksia sinulla on jo mielessä (teema, miljöö, hahmot)?
+    Haluatko apua juonenrakenteessa, henkilöhahmojen kehittelyssä vai esimerkiksi miljöön kuvaamisessa?
+
+Kerro vapaasti, niin autan mielelläni kehittämään juuri teidän tarinanne seuraavaa kappaletta!
+>>>>
+Kappale on keskitempoinen, melankolinen, pop-rock kappale suomeksi tasaisella rumpukompilla 130bpm. Tämän voisi helposti muuttaa hyväksi EDM kappaleeksi.
+Sävellys ja sovitus on olemassa kokonaan jo valmiiksi, mutta sanat puuttuu.
+
+Rakenne:
+- verse 1 & 2: 4 melko hitaasti laulettua riviä. 10-14 tavua.
+- chorus: 4 melko hitaasti laulettua riviä.
+
+Kappale on melko lyhyt ja on tarkoitettu alle 3 minuutin YouTube reels formaattiin.
+Tarkoitus olis myös koukuttaa kuulija/katsoja ensimmäisellä 2 sekunnilla, eli verse 1 eka rivi on kaikista merkityksillisin.
+
+Idea kappaleelle olisi "myymälävaras" yhdistettynä "sydämen varas" metaforiin. En osaa päättää että olisiko kappale realistisempi vai romanttisempi. Video olisi action komedia, jossa nuori nainen varastaa kaupasta ruokaa nälkäänsä tai likaisempiin tarkoituksiin. Myös ensimmäiset sekunnit videossa ratkaisee.
+
+Voisit antaa minulle listan ääni/video yhdistelmiä 5 ensimmäiselle sekunnille, jotka on kaikista merkityksellisimpiä.
+<<<<
+Tässä viisi erilaista audio–video-yhdistelmää kappaleen ensimmäiselle 5 sekunnille, joilla saat sekä visuaalisen että äänellisen koukun samantien:
+
+    “Kamera rajus”
+    0:00–0:02
+    – Video: Käsivarokulma, jossa käsi kurkkaa hyllyn takaa ja narahtaa ovenpieli.
+    – Audio: Yksittäinen kitaran staccato-narahtava riff, johon heti perään alavireinen bassolöökki.
+    0:02–0:05
+    – Video: Nopeutettu leikkaus naisen kasvoihin, silmät salavihkaa tarkkailemassa.
+    – Audio: Rumpukompin eka isku (snare + kick) napauttaa 130 bpm-tahdin heti kohdilleen.
+
+    “Sydämen sykintä VS varas”
+    0:00–0:01
+    – Video: Yliolkaisuotanta kassakoneesta, kolikot kimaltelevat.
+    – Audio: Sydämenlyönti-ääniefekti (hiljainen, mutta korostunut).
+    0:01–0:03
+    – Video: Leikkaus naisen käteen joka vilkuilee ympärilleen ja työntää käden takintaskuun.
+    – Audio: Herkkä, kajarainen lauluääni kuiskaa: “Sydämen varas…”.
+    0:03–0:05
+    – Video: Hidas zoom-out: hiippari astuu ulos hyllyjen välistä.
+    – Audio: Tästä nousee napakka kick-snare -koukku pop-rock-tunnelmaan.
+
+    “Record scratch ja cool-freeze”
+    0:00
+    – Video: Täydellinen pysähdys: nuori nainen on juuri nyhtämässä suklaapatukkaa.
+    – Audio: Äkillinen “record scratch” -efekti (vanhan vinyylin matala rahina).
+    0:00–0:02
+    – Video: Still-kuva, freeze-efekti, hiukan värikatkoa.
+    – Audio: Yksittäinen syntikkapulssi (led-valaistun kaupan hyllyn humina jää taustalle).
+    0:02–0:05
+    – Video: Hitonnopea leikkaus: nainen viskaa tuotteen laukkuun ja katsoo suoraan kameraan.
+    – Audio: Rumpukompin groove käynnistyy kiihkeästi (bass kick → snare → hi-hat jatkuva kuvio).
+
+    “Neon-teksti & breath sample”
+    0:00–0:02
+    – Video: Hyllyn reunassa punainen LED-teksti “VARAS” välkkyy sekunnin välein.
+    – Audio: Sisäänhengitys-sample, jossa naisääni huokaa “jaahas…”.
+    0:02–0:05
+    – Video: Nainen lipastaa hyllystä leipää, kätkee sen turvaliiveihinsä.
+    – Audio: Lammenlaittava, pehmeä syntikkamelodia ja kevyet tom hitsit 130 bpm.
+
+    “Flash cut & heartbeat drop”
+    0:00–0:01
+    – Video: Kahdessa pikaflash-leikkauksessa metrotyyliin maski nousee naisen kasvoille, sitten kassi lentää ilmaan.
+    – Audio: Kaksi nopeaa, korkeataajuista syntikka-piipitystä.
+    0:01–0:03
+    – Video: Hidas kaatumis-slow-motion kassin sisällöstä (purse, avokado, suklaata).
+    – Audio: Syämenlyönnit hiljenevät basso-dropin alle.
+    0:03–0:05
+    – Video: Nainen torjuu katsojan katseen ja kääntyy hyllyjen taakse juoksemaan.
+    – Audio: Tästä pumppaa sisään täydellinen rumpukomppi ja avauslaulumelodia pohjaan.
+
+Valitse näistä se, joka parhaiten korostaa tarinasi “myymälävaras = sydämen varas” -metaforaa, tai yhdistä elementtejä oman visiosi mukaan. Mikäli haluat hiota tarkempia leikkauskohtia tai ääniefektejä, kerro lisää!
+>>>>
+Paras mielestäni on 5. “Flash cut & heartbeat drop”
+<<<<
+Tässä tarkempi storyboard “Flash cut & heartbeat drop” -avaus 0–5 s, ja pari vaihtoehtoista avausriviä verse 1:een, joilla koukutat välittömästi.
+
+——
+0:00–0:01  (2 flash-leikkausta)
+• Video:
+– Flash 1: mustavalkoinen, epätarkka siluetti putoavasta kassista.
+– Flash 2: sama siluetti, mutta tarkempi – nainen nostaa naamion kasvoilleen.
+• Audio:
+– Kaksi korkeataajuista “piip”-sähkäistä syntikka-pulse-efektiä (10 ms piip–tauko–10 ms piip).
+
+0:01–0:03  (slow-motion)
+• Video:
+– Hidas kaatumis-slomo: kassista valahtaa ilmaan suklaapatukka ja avokado.
+– Taustalla kaupan hyllyjen neonvalo vyöryy.
+• Audio:
+– Syvä, nostattava sydämenlyönti-sample → bassodrop 80 Hz: “ba-BAAAM”.
+– Välissä kuiskaava naisääni kaiku-efektillä: “Sydämen varas…”
+
+0:03–0:05  (täysi groove päälle)
+• Video:
+– Leikkaus täyteen kuvaan: nainen kääntyy juoksuun hyllyjen välistä, ilme päättäväinen.
+– Lyhyt match cut: kasvoista kauempaan otokseen, hylly kaaressa taustalla.
+• Audio:
+– Rumpukomppi (kick–snare–hi-hat) iskee 130 bpm pop-rock-groovella.
+– Sähkökitara murisee lyhyen, koukuttavan riffin ensimmäiset kaksi nuottia.
+
+——
+Ehdotuksia verse 1 ensimmäiseksi riviksi (10–14 tavua, koukuttava “hook”):
+
+    Varastin sydämesi kuin leivän hyllyltä (13 tavua)
+    Kirottu varas vei mun sykkeen hyllyyn (12 tavua)
+    Kuskin kassaan toivon ja pienen nälän (13 tavua)
+
+Valitse näistä suosikkisi, niin voimme jatkaa vielä 3 rivin kehittelyllä ja siirtyä chorus-osiolle. }
+>>>>
+1.
+    "Varastin sydämesi kuin leivän hyllyltä "
+
+Anna lista lyriikka/video vaihtoehtoja verse-1 rivi-2 varten
+<<<<
+Tässä neljä erilaista vaihtoehtoa verse 1, rivi 2:ssä sekä niihin sopivat video-kuvaukset. Tavumäärät ovat 10–14 välillä.
+
+    Lyriikka: “Kassaan kätkin hiljaa pienen toivon” (11 tavua)
+    Video: kuvassa lähikuva naisen kädestä, kun hän sulloo pienen leipäpussin ja ryppyisen lapun takintaskuun. Hidastettu zoom-out paljastaa neon-valaistun hyllyn takana odottavan varjon.
+
+    Lyriikka: “Hiljaisuus huutaa askeleissain” (11 tavua)
+    Video: matala, liikkuva kamera seuraa juuri-pussin alla hiipivää varasta; askeleet kaikuvat ostoskärryjen ja hyllyjen lomassa. Taustalle on upotettu vaimea kaiunäky.
+
+    Lyriikka: “Kolikot kilisee kalpeana kädessä” (12 tavua)
+    Video: strobovalo välähtää, kun hän nappaa hyllyltä avokadon ja samassa rämäyttää kolikot kourastaan. Kamera hidastaa kolikkojen kilahduksen ja kääntyy hänen kasvoihinsa, joissa on samaan aikaan pelkoa ja intohimoa.
+
+    Lyriikka: “Varjot seuraa, mä piilotan katseeni” (12 tavua)
+    Video: vastavalo-silhuetti näyttää naisen kaartavan hyllyjen lomasta, varjot liimautuvat hänen peräänsä. Hän vilkaisee sivulle, kätkee kasvonsa takin kaulukseen ja kiihdyttää askeliaan.
+>>>>
+Ok. 4, mutta muutetaan sitä vähän: "Mä piilotan kasvot varjoilta tylyiltä"
+<<<<
+Rivi 2:
+Lyriikka: “Mä piilotan kasvot varjoilta tylyiltä” (14 tavua)
+
+Video-idea:
+• Leikkaus puolilähikuvana, taustalla hyllyjen väliset neon-valot sihisevät.
+• Nainen nostaa takkinsa kaulusta kasvojensa eteen, varjot leikkivät poskillaan.
+• Kamera seuraa hidastetusti kasvoille lankeavia varjoja, äänimaailmassa hiipivä tausta-synth.
+
+Seuraavaksi voisimme ideoida verse 1, rivit 3 ja 4. Haluatko jatkaa niillä vai vetääkö jo chorus-tunnelmasta?
+>>>>
+Rivi 3 lyriikka/video vaihtoehdot
+<<<<
+Tässä neljä vaihtoehtoista versiota verse 1 riviin 3 (10–14 tavua), mukana lyriikka ja vastaava videoidea:
+
+Lyriikka: “Mun sydän pomppii pelosta ja halusta” (12 tavua)
+Video: Lähikuva naisen rinta­kaaresta, jossa paidan alla näkyy sykkivän sydämen valoa tai vyön alta heijastuvaa punertavaa LED-sykettä. Rumpukompin lyönti vahvistaa sykkeen tunteen.
+
+2. 
+
+Lyriikka: “Hengitys on raskas lautahyllyn alla” (12 tavua)
+Video: Low-angle shot: nainen kyykyssä, piilossa ala­hyllyn vieressä. Hänen syvään vetämästä hengityksestään nousee huurupilvi, neon­liukuvalo piirtää varjon taustaan.
+
+3. 
+
+Lyriikka: “Katseeni pakenee kirkkaiden lamppujen” (13 tavua)
+Video: Siluettikuva kaupan katto­lamppujen alla: kamera zoomaa naisen laajeneviin silmiin, jotka kaartuvat kauhusta kirkkaaseen valoon.
+
+4. 
+
+Lyriikka: “Veri kohisee huuliltain salaisuuden” (13 tavua)
+Video: Hidas lähikuva huulista, joille valuu pisara punaista juomapullosta. Äänenä kuiskaus­efekti “shhh…” ja taustalla hyvin matala bassodrop.
+
+Valitse näistä tai kerro, jos haluat yhdistellä elementtejä!
+
+>>>>
+1. Mun sydän pomppii pelosta ja halusta
+
+Sitten rivi 4 lyriikka/video vaihtoehdot
+<<<<
+Tässä neljä vaihtoehtoista riviä 4:ksi (10–14 tavua), jokaisen perään video­idea:
+
+    Lyriikka: “Juoksen pois, mut sydän jää varjoihin” (11 tavua)
+    Video:
+        Hidas jälkiliike: nainen pinkaisee käytävää pitkin, kamera jää seuraamaan tyhjää hyllyväliä.
+        Varjot venyvät pitkin lattiaa ja valot vilkkuvat kasvoilla.
+
+    Lyriikka: “Hyllyjen väliin kätken kaiken toiveen” (11 tavua)
+    Video:
+        Lähikuva kädestä tunkeutumassa takintaskuun, jossa leipä ja salainen lappu.
+        Kamera nousee hiukan ja paljastaa toiveikkaan ilmeen naisen silmissä.
+
+    Lyriikka: “Veri­oni jyskyttää kuin varas vapiseva” (13 tavua)
+    Video:
+        Äärimmäisen lähikuva kaulavaltimosta tai rannehihasta, jossa pulssi näkyy kirkkaana LED-valona.
+        Taustalla kajahtelee kahiseva sydämenlyönti-sample.
+
+    Lyriikka: “Tajuan pian että oot sä mun tärkein ryöstö” (13 tavua)
+    Video:
+        Flash-leikkaus: naisen käsi nykäisee takin nurkasta esiin sydämenmuotoisen muistilapun.
+        Leikkaus naamalle, kun hän huomaa jotain tai jotakuta hyllyjen takana.
+
+Valitse näistä se, joka puhuttelee eniten, niin viimeistelemme verse-1!
+>>>>
+4. mutta pienillä muutoksilla: "Tajuan et sä oot mun tärkein ryöstö onnistuva"
+<<<<
+Rivi 4 (14 tavua):
+“Tajuan et sä oot mun onnistuva ryöstö”
+
+Video-idea:
+• Flash-leikkaus: lähikuva naisen kädestä, kun hän nostaa takin alta juuri varastamansa leivän tai suklaapatukan esiin – hymyilee voitonriemuisesti.
+• Leikkaus kasvoihin: hidastettu zoom, valo osuu hänen silmiinsä, jotka välkähtävät salakavalaa itseluottamusta.
+• Sävyksi tumma, kontrastikas vär grading korostamaan “onnistuvan ryöstön” thrill-tunnelmaa.
+
+Nyt verse 1 kokonaisuudessaan:
+
+    Varastin sydämesi kuin leivän hyllyltä
+    Mä piilotan kasvot varjoilta tylyiltä
+    Mun sydän pomppii pelosta ja halusta
+    Tajuan et sä oot mun onnistuva ryöstö
+
+Miltä tämä kuulostaa? Haluatko siirtyä chorus-osiolle vai muokata vielä jotain?
+>>>>
+Ok. Chorus rivi 1 lyriikka/video vaihtoehdot
+<<<<
+Tässä neljä erilaista vaihtoehtoa chorus-1:ksi (n. 10–14 tavua) sekä niihin sopivat visuaaliset avaukset:
+
+    Lyriikka:
+    “Nyt juoksen pois, mut sydämesi saan” (13 tavua)
+    Video:
+    – Hidas seurontakuva: nainen pinkoo juoksuun liukuvalon läpi, ostoskärryt liukuvat perässä.
+    – Hän hymyilee itsekseen, kun kamera kääntyy nopeasti hänen kätensä yli, jossa leipäpus­si puristuu tiukasti.
+
+    Lyriikka:
+    “Sydämesi sä mulle varastit” (12 tavua)
+    Video:
+    – Lähikuva: käsi kaivaa takintaskustaan sydämenmuotoisen lapun, jossa on piirretty pikkuruinen sydän.
+    – Zoom-out: nainen vilkaisee ovelasti kameraan ja livistää hyllyjen välistä varjossa.
+
+    Lyriikka:
+    “Sun vuokseni rikoin omat säännöt” (14 tavua)
+    Video:
+    – Flash-cut: purkki särkynyttä sääntökylttiä lentää ilmaan, kamera leikkaa nopeaan replay-tyyliin.
+    – Leikkaus: nainen astuu ylpeänä ostoskärryineen valomereen, kasvoilla kapinallinen ilme.
+
+    Lyriikka:
+    “Mä en pelkää kulkea varjoissa” (11 tavua)
+    Video:
+    – Wide shot: hyllyjen välistä avautuva käytävä on puoliksi valossa, puoliksi pimeässä.
+    – Nainen astuu määrätietoisesti varjojen syvimpään päähän, selkä kameraan, jalat käyvät rytmissä biitin kanssa.
+
+Valitse näistä se, joka vie eniten haluamaasi tunnelmaan, niin jatketaan chorus-rivit 2–4!
+>>>>
+1. “Nyt juoksen pois, mut sydämesi saan”
+
+Sitten lyriikka/video vaihtoehdot riville 2
+<<<<
+Tässä neljä vaihtoehtoista toista riviä chorus-osioon (10–14 tavua), jokaisen perään video-avaus:
+
+    Lyriikka:
+    “Takaani sä tulet, en aio pysähtyä” (12 tavua)
+    Video:
+    – Kamera selkäpuolelta seuraten naista laajasta hyllykäytävästä.
+    – Hän vilkaisee nopeasti olkansa yli, eikä hidasta vauhtia, hi-hat paukkuu taustalla.
+
+    Lyriikka:
+    “Mä kuulen askelees mua kohti kaikuvan” (13 tavua)
+    Video:
+    – Ääniraita korostaa raskasta askel-kaiun efektiä.
+    – Lähikuva tärisevästä käsivarresta, neon-valot vilkkuvat. Saksofoni-kuvio tai pehmeä syntikkatausta luo jännitettä.
+
+    Lyriikka:
+    “Sydämen rytmiin sidot minut vankiinas” (13 tavua)
+    Video:
+    – Symbolinen, puolilähikuva naisesta: hänen rintakehänsä edessä digitaalinen sydän-grafiikka, johon ilmestyy lukko tai kahleet.
+    – Myös kamera nykäisee vasemmalle näyttämään kaytävän päätepisteen.
+
+    Lyriikka:
+    “Pelko häviää, sä oot mun turvapaikka” (13 tavua)
+    Video:
+    – Leikkaus: nainen pysähtyy, hengittää syvään ja kohottaa päätään hyllyjen välistä avautuvaan valosuihkuun.
+    – Hitaasti paljastuu, ettei varjojen takaa tulekaan poliisi, vaan ystävällinen katse (metafora sydämen varastajasta).
+
+Valitse näistä tunnelmaan ja juonen jatkumiseen parhaiten istuva!
+>>>>
+1. Ja seuraavat vaihtoehdot
+<<<<
+Tässä neljä vaihtoehtoista riviä 3 chorus-osiolle (10–14 tavua) sekä ehdotus visuaalisesta avauksesta:
+
+Lyriikka: “Koko kaupan kaaoksessa löysin sut” (13 tavua)
+Video:
+– Steady-cam-liike kiitää hyllyjen lomassa, kaikki on hälyistä ja sekavaa.
+– Yhtäkkiä kamera pysähtyy, kun huomaat hänet – valo kirkastuu hänen kasvoilleen.
+
+2. 
+
+Lyriikka: “Olin varas, nyt vangitsit mut syliis” (13 tavua)
+Video:
+– Symbolinen lähikuva: hyllyt muodostavat kaaria kuin kalterit.
+– Hän astuu eteen, avaa kädet kutsuvasti ja katsoo suoraan kameraan.
+
+3. 
+
+Lyriikka: “Näytit että varas myös saa rakastaa” (13 tavua)
+Video:
+– Lähikuva huulista, kun hän kuiskaa rivin.
+– Leikkaus ulospäin: kapean hyllykäytävän keskellä valo- ja varjoleikki paljastaa hänen hymynsä.
+
+4. 
+
+Lyriikka: “Tää sydänryöstö vie mut mennessään” (13 tavua)
+Video:
+– Koko kaupan lattia hämärtyy, vain hänen ja sinun jälkenne valaisevat polun.
+– Kamera kulkee selkäsi takaa ja lopuksi panoroituu hänen kasvoilleen, joissa on voitontunnon hehku.
+
+Valitse näistä mieleisesi, niin jatketaan viimeiselle chorus-rivin 4!
+>>>>
+3. Ja seuraavat
+<<<<
+Tässä neljä vaihtoehtoista riviä chorus-osiolle, rivi 4 (10–14 tavua), sekä kuhunkin ehdotus videokuvaukseksi:
+
+    Lyriikka:
+    “Sun sylissä varas on kotona nyt” (11 tavua)
+    Video:
+    – Hitaasti avautuva wide-shot kulmapaikasta kaupassa, jossa olette käsi kädessä piilossa hyllyjen takana.
+    – Pehmeä valonsäde osuu teidän kasvoille, kamera liukuu taaksepäin luoden turvallisen “pesän” tunteen.
+
+    Lyriikka:
+    “Tartun käteen, en koskaan enää luovu” (14 tavua)
+    Video:
+    – Close-up teidän yhteen kietoutuneista käsistä, sormet kietoutuvat toisiinsa.
+    – Taustalle murtautuva rumpugroove ja satunnainen neon-valaistus vilkkuu hyllyjen välistä.
+
+    Lyriikka:
+    “Yhdessä unhoitetaan maailman rajat” (11 tavua)
+    Video:
+    – Steady-cam seuraa teitä kun työnnätte ostoskärryä kahdestaan pitkin käytävää, hyllyjen takaa kajastaa kirkas valo.
+    – Kamera nousee pykälän verran ylöspäin ja paljastaa, että kaikki ympärillä tummenee, kun te olette valokeilassa.
+
+    Lyriikka:
+    “Tää hetki jää varastetuksi sydämeen” (12 tavua)
+    Video:
+    – Freeze-frame-leikkaus, jossa pudotat suklaapatukan laukustasi ja katsot suoraan kameraan.
+    – Hidastettu zoom-out: taaempian kirkkaudesta muodostuu sydämen muoto, rumpukomppi käy täysillä päälle.
+
+Valitse näistä se, joka kolahtaa eniten, niin kokoamme chorusin pakettiin!
+>>>>
+1. Sitten verse 2
+<<<<
+Verse 2 (4 riviä, 10–14 tavua/rivi) sekä jokaisen kohtauksen video-idea:
+
+    Lyriikka:
+    “Yössä varjoissa askeleeni kaiutuu” (14 tavua)
+    Video:
+    – Steady-cam-seuranta alaspäin: tyhjät, hämärät käytävät, naisen askeleet kaikuvat.
+    – Kamera nousee hidastetusti kohtaan, jossa hän vetää huppua tiukemmin päähänsä.
+
+    Lyriikka:
+    “Neon-valot piirtää salaisia kuvia” (13 tavua)
+    Video:
+    – Hyllyjen yläpuolelta loistavat värikkäät nauhat luovat varjo- ja valoleikkejä.
+    – Leikkaus: hänen kasvoilleen, kun valot välkkyvät silmissä.
+
+    Lyriikka:
+    “Syke kiihtyy kun tuijotat mun varjoja” (14 tavua)
+    Video:
+    – Lähikuva rintakehästä, sykkeestä kertova LED-efekti välkkyy paidan läpi.
+    – Leikkaus hänen silmiinsä, jotka heijastavat varjoista piirtyvän hahmon.
+
+    Lyriikka:
+    “Silmäyksessä katoaa pelko mun” (12 tavua)
+    Video:
+    – Slow-motion silmäys hyllyjen välissä: pelko vaihtuu ovelaan hymyyn.
+    – Kameran kallistus alaviistosta paljastaa, että takana ei olekaan vartijaa, vaan hän itse.
+
+Näillä jatketaan tunnelmallisesti siitä, mihin verse 1 ja chorus jäivät. Haluatko siirtyä vielä bridge-osioon tai tiivistää kokonaisuuden?
+>>>>
+1.
+<<<<
+Tässä neljä ehdotusta verse 2, rivi 2:lle (10–14 tavua) ja niihin sopivat visuaaliset ideat:
+
+    Lyriikka:
+    “Hengitys huuruaa yön hiljaisuuteen” (14 tavua)
+    Video:
+    – Lähikuva naisen huulista ja sieraimista, joista nousee valkoista huurua.
+    – Hidastettu zoom-out paljastaa hämärän käytävän, neon-kirjaimet heijastuvat tilaan.
+
+    Lyriikka:
+    “Neon-kirjaimet maalaa varjosi seinälle” (13 tavua)
+    Video:
+    – Wide-shot kaupan käytävästä, josta riippuvat värikkäät valonauhat.
+    – Varjo heijastuu soljuvasti hyllyjen seinämään, kamera seuraa sen liikettä.
+
+    Lyriikka:
+    “Syke piirtää varjoni seinälle eloon” (12 tavua)
+    Video:
+    – Graafinen efekti: LED-sydän sykkii paidan läpi ja varjo alkaa elää omillaan.
+    – Kamera liukuu alas varjon juuresta naisen jalkoihin, jotka jännitteisesti lähtevät liikkeelle.
+
+    Lyriikka:
+    “Askeleeni kaiku vie mut kauemmas susta” (13 tavua)
+    Video:
+    – Low-angle-shot: hiljainen, tyhjä käytävä; naisen kenkien pohjat kaikuvat kaikuna.
+    – Kamera pysähtyy hyllyn kulmalle, josta kajastaa hetken valo ja sitten taas pimeys.
+
+Valitse näistä rivi 2, niin jatketaan myös rivien 3 ja 4 kanssa!
+>>>>
+1.
+<<<<
+Tässä neljä vaihtoehtoista versiota verse 2, riville 3 (10–14 tavua), sekä kuhunkin sopiva video-idea:
+
+Lyriikka: “Varjo kasvaa rinnallani uhmakkaana” (12 tavua)
+Video:
+– Lähikuva seinälle heijastuvasta varjostasi, joka venyy ja kasvaa kuin elävä olento.
+– Kamera palaa hitaasti naiseen, joka jatkaa hiipien eteenpäin.
+
+2. 
+
+Lyriikka: “Jokainen askele on rikoksen merkki” (13 tavua)
+Video:
+– Low-angle-shot kengistä, joiden pohjat kopisevat kaikuna tyhjällä käytävällä.
+– Vilahdus kameran laita-valoon vilkkuvista hälytysvaloista.
+
+3. 
+
+Lyriikka: “Neon-säteet leikkii varjoissani” (12 tavua)
+Video:
+– Wide-shot: kaupan käytävä värivaloineen, varjosi tanssii hyllyjen välissä.
+– Kamera zoomaa hitusen, kun värivalot rytmittävät sykettäsi.
+
+4. 
+
+Lyriikka: “Rytmi vetää meidät yöhön vankinaan” (12 tavua)
+Video:
+– Grafiikka-efekti: pulssisydän sykkii paidan läpi ja ympäristö alkaa täristä beatin tahdissa.
+– Leikkaus: nainen tempautuu eteenpäin, kun biitti vie mukanaan.
+
+Valitse näistä suosikkisi, niin jatketaan vielä rivi 4 kanssa!
+>>>>
+2. 
+
+Annatko vielä koko screenplay idean rakenteelle (verse 1, chorus, verse 2, chorus)
+<<<<
+Alla koko lyhyt “action-komedia”-reelsin storyboard ensi-esitykseen. Aika-arviot ovat suuntaa-antavia (koko pituus n. 60–70 s).
+
+—
+00:00–00:05 Intro (“Flash cut & heartbeat drop”)
+Video
+• 0:00 2× pikaflash: mustavalkoinen siluetti tiputtavasta kassista → tarkempi otos naisesta, joka vetää naamion kasvoilleen.
+• 0:01–0:03 slow-motion: suklaapatukka ja avokado leijaavat ilmassa, neon-hyllyt vilahtavat taustalla.
+• 0:03–0:05 täysi groove päälle: nainen syöksyy juoksuun hyllyjen lomasta.
+
+Audio
+• 2× korkea syntikka-“piip”
+• syvä bassodrop (“ba-BAAAM”) + kuiskaus-efekti: “Sydämen varas…”
+• heti perään kick–snare–hi-hat 130 bpm + sähkökitara-riff
+
+—
+00:05–00:25 Verse 1 (4× hidastettua riviä)
+
+    “Varastin sydämesi kuin leivän hyllyltä”
+    Video: lähikuva naisen kädestä, kun hän nappaa leivän. Kamera zoom-out: sivulla vilahtelee vartijan varjo.
+
+    “Mä piilotan kasvot varjoilta tylyiltä”
+    Video: puolilähikuva, nainen nostaa takin kauluksen kasvoilleen, neon-varjot leikkivät poskilla.
+
+    “Mun sydän pomppii pelosta ja halusta”
+    Video: lähikuva paidan läpi sykkivästä LED-“sydämestä”. Rumpukompin isku korostaa sykettä.
+
+    “Tajuan et sä oot mun onnistuva ryöstö”
+    Video: flash-leikkaus, nainen paljastaa kassista juuri varastamansa suklaapatukan ja hymyää voitonriemuisesti.
+
+—
+00:25–00:45 Chorus (4× melko hitaasti laulettua riviä)
+
+    “Nyt juoksen pois, mut sydämesi saan”
+    Video: seurontakuva naisen pinkaistessa käytävään, ostoskärry lipsuu perässä, hän kurkkaa ovelasti taakseen.
+
+    “Takaani sä tulet, en aio pysähtyä”
+    Video: kamera olkapään yli seuraa vartalon käännöstä; varjo liukuu samassa rytmissä.
+
+    “Näytit että varas myös saa rakastaa”
+    Video: symbolinen lähikuva: hyllyt kaartuvat ympärillä kaltereiksi, nainen hymähtää ja astuu eteen.
+
+    “Sun sylissä varas on kotona nyt”
+    Video: wide-shot, olette käsi kädessä hyllyjen keskellä, pehmeä valo katkaisee varjot.
+
+—
+00:45–01:05 Verse 2 (4× hidastettua riviä)
+
+    “Yössä varjoissa askeleeni kaiutuu”
+    Video: steady-cam seuraa naisen varjoja pitkin tyhjää, himmeää käytävää.
+
+    “Hengitys huuruaa yön hiljaisuuteen”
+    Video: lähikuva kasvoista ja ilmavirrasta; huurupilvi heijastuu neon-teksteistä.
+
+    “Jokainen askel on rikoksen merkki”
+    Video: low-angle shot kengistä, joiden kopina kaikuu, vilahtaa hälytysvalo kaukana.
+
+    “Sua etsin yössä, mun sydämen varkain”
+    Video: hidastettu seuranta, nainen kurkistaa hyllyjen takaa ja näkee varjon kauempana – katsoo suoraan kameraan.
+
+—
+01:05–01:25 Chorus (reprise, sama tunnelma)
+
+    “Nyt juoksen pois, mut sydämesi saan”
+    “Takaani sä tulet, en aio pysähtyä”
+    “Näytit että varas myös saa rakastaa”
+    “Sun sylissä varas on kotona nyt”
+
+Video
+– Toistetaan chorus-videon kulku mutta tiivistetymmin: nopeammat leikkaukset, lisää close-upeja kasvoihin.
+– Lopetus: hidastettu zoom-out teihin, hyllyjen varjot muodostavat sydämen muodon taustalle.
+
+—
+Kokonaisuudessaan alle 1:30, selkeä juoni myymälävarkaudesta → sydämen ryöstöön, vahva visuaalinen temaattinen punainen lanka ja EDM-potentiaali.
+
+
+<<<<
+Style Template for Sora: “Action-Comedy Heist” TikTok Portrait Music Video
+
+Theme
+• Action-comedy heist meets EDM-powered romance, shot in vertical 9:16 for TikTok.
+
+Color
+• Primary neons: electric pink, cyan-blue, acid green
+• High-contrast blacks & whites for silhouette “flash cuts”
+• Occasional warm highlights (golden LED heart glows)
+
+Camera
+• Vertical 9:16 aspect ratio
+• Mix of 120 fps slow-mo and 60 fps real-time
+• Dynamic whip-pans, snap zooms, close-ups on hands/eyes, wide-angle tracking shots
+• Occasional POV and over-the-shoulder to sell pursuit
+
+Film Stock / Look
+• Clean digital cinema (Arri Alexa Mini–style)
+• Subtle VHS–style glitch overlays on transitions: tracking lines, chromatic aberration, pixel dust
+• Light film grain for grit
+
+Lighting
+• Neon-gel key lights (pink/cyan) from low and side angles for dramatic color shadows
+• Hard-edge backlights to carve silhouettes in “flash cut” moments
+• LED practicals (heart-shaped panels) that pulse in time with the bass drop
+
+Content Transformation
+• Everyday supermarket items become heist props:
+– Leivän hylly → “vault door”
+– Ostoskärry → getaway cart with blinking lights
+– Suklaapatukka & avokado float in slo-mo like stolen treasures
+• LED “heartbeat” embedded in clothing pulses on every bass hit
+• Quick glitch/freeze-frame lyric overlays in neon outlines
+• Shelving racks bend into cage-like frames at emotional peaks
+
+Vibe
+• Fast-paced, tongue-in-cheek suspense: part “caper comedy,” part romance
+• Pulse-pounding EDM energy (130 bpm kick–snare–hi-hat groove + electric guitar riff)
+• Moments of playful suspense (slo-mo close-ups, heartbeat LEDs) balanced by cheeky smiles & winks
+
+Key Visual Beats
+00:00–00:05
+– 2× high-contrast white flash cuts (silhouette dumping bag) → cut to full-color neon close-up woman donning mask
+– 2× synth “peeps” → deep bass drop + whispered “Sydämen varas… ” → instant EDM kick
+
+00:05–00:25 (Verse 1, each line in slo-mo with matching visual)
+– Steal bread (“vault door” shelf) with blade focus → guard’s shadow dart
+– Jacket collar over face; neon stripes dance on cheekbones
+– LED heart under shirt pulses in sync with kick drum
+– Triumph shot of chocolate bar in hand, woman’s grin
+
+00:25–00:45 (Chorus)
+– Tracking shot: sprint down aisles, cart glowing & skidding
+– Over-the-shoulder reveal of a looming shadow pursuer
+– Shelves morph into bars; she steps through, smirks
+– Wide shot: hand-in-hand silhouette framed by heart-shaped neon
+
+00:45–01:05 (Verse 2)
+– Stealthy footsteps echo down dim corridor of shelves
+– Close-up on frosty breath catching neon reflections
+– Low-angle on boots, distant red alarm flash
+– Slo-mo peek around corner; eye-contact with camera
+
+01:05–01:25 (Chorus reprise + finale)
+– Rapid-fire cuts of chorus motifs: close-ups, whip-pans, glitch freezes
+– Last beat: slow zoom-out; shelf shadows align into a neon heart behind them
+
+Duration: ~1:25
+Music: EDM with sharp synth hits, deep bass drops, 130 bpm groove, electric guitar riff.
+
+
+
+
+<<<<<
+
+
+Seuraava on ehdotus “Sydämen varas” –action-komediaheist TikTok-muotoisen reelsin kuvakäsikirjoitukseksi eli slideshow’ksi. Jokaiselle kohtaukselle on kaksi vaihtoehtoista visuaalista ratkaisua sekä valmiit tekstikomennot (promptit) kuva-generaattorille. Voit valita parhaiten sopivat myöhemmin editointivaiheessa.
+
+—
+Slide 1 (00:00–00:05)
+Title: Intro / Flash-cut & Heartbeat Drop
+Visuaali yhteenveto:
+• 2× salama-flash mustavalkoisena siluettinä, jossa käsi pudottaa kassia
+• leikkaus neon-pinkkiin/cyan-siniseen close-up-otokseen, jossa nainen vetää maskia kasvoilleen
+• slow-mo-heilahdus: suklaapatukka ja avokado leijuvat neon-hyllyjen edessä
+• täysi groove-startti: nainen lähtee syöksymään käytävään
+
+Kamera & look
+• Vertical 9:16
+• 120 fps slow-mo hylly-shotit, snap zoom close-up maskiin
+• VHS-glitch-overlay (chromatic aberration + pixel dust) flash-leikkauksissa
+• Kirkas neon-gel (pinkki/cyan) valaisu sivusta
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16 digital cinema style, high-contrast black & white silhouette flash of figure dropping a bag, followed by neon pink & cyan close-up of a masked woman pulling on her mask, slow-mo chocolate bar and avocado floating mid-air before colorful supermarket shelves, light VHS glitch overlays, dynamic whip-pan to running shot.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait shot, rapid double flash in clean black & white showing only silhouette and falling bag, cut to extreme close-up under neon pink side light as she dons a mask, slo-mo levitating snack props, fluorescent cyan shelf bokeh, slight film grain, glitch transition with tracking lines.”
+
+—
+Slide 2 (00:05–00:15)
+Title: Verse 1 Part A (rivit 1–2)
+Lyriikat näytöllä:
+“Varastin sydämesi kuin leivän hyllyltä”
+“Mä piilotan kasvot varjoilta tylyiltä”
+
+Visuaali
+• Otos 1: naisen käsi napauttaa leipää neon-hyllyltä kuin salavalta → leivän hylly särähtää “lukkotapiksi”
+• Otos 2: puolilähikuva, nainen nostaakin takin kauluksen silmille, neon-varjot piirtävät viivoja poskille
+• Taustalla hyllyjen varjoista vilahtaa vartijan tumma profiili
+
+Kamera & look
+• 60 fps reaaliaika + 120 fps hidastetut close-up’it
+• Sivu-valaistus pinkillä gellillä, vastavalo cyanista
+• Pienet glitch-pysäytykset aina lyriikan alkaessa
+• LED-sydän paidan alla sykkii hiljaa
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16, close shot of a woman's hand grabbing a candy bag from a neon-lit supermarket shelf, shelf stylized as a vault door, slow-mo heartbeat LED under her shirt glows, neon pink and cyan side lights, shadowy guard profile in background, slight VHS glitch freeze on lyric cues.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait format, medium shot of woman pulling her jacket collar over her face under harsh pink and cyan gels, her cheekbones lit in alternating colors, supermarket shelves in deep shadow, whisper of film grain, glitch frame at lyric start.”
+
+—
+Slide 3 (00:15–00:25)
+Title: Verse 1 Part B (rivit 3–4)
+Lyriikat näytöllä:
+“Mun sydän pomppii pelosta ja halusta”
+“Tajuan et sä oot mun onnistuva ryöstö”
+
+Visuaali
+• Otos 1: extreme close-up LED-sydämestä paidan alla, joka sykkää bassotahtiin
+• Otos 2: nopea flash-leikkaus, nainen kaivaa kassista suklaapatukan ja hymyilee voitonriemuisesti
+
+Kamera & look
+• 120 fps hidastus sykkeeseen
+• Hard-edge backlight leikkaamassa hahmoa irti taustasta
+• Kultainen LED-valo pulssii jokaisella bass dropilla
+• Chromatic aberration hotspot-efekti flash-kohtauksessa
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16, extreme slow-mo close-up of a pulsing red LED heart beneath the woman’s shirt synced with bass hits, hard-edge cyan backlight carving silhouette, quick flash cut to her triumphant grin holding a chocolate bar, warm gold LED highlights.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait, glowing LED heart visible through white shirt in slow motion under neon pink gels, cut to tight shot of her face breaking into a cheeky smile as she brandishes a chocolate bar, glitch freeze on final frame.”
+
+—
+Slide 4 (00:25–00:35)
+Title: Chorus Part A (rivit 1–2)
+Lyriikat näytöllä:
+“Nyt juoksen pois, mut sydämesi saan”
+“Takaani sä tulet, en aio pysähtyä”
+
+Visuaali
+• Otos 1: wide tracking shot naisen pinkaistessa käytävään, ostoskärry perässä vilkkuvine valoilla
+• Otos 2: over-the-shoulder-näkymä takaa tulevasta varjosta, joka seuraa joka askeleella
+
+Kamera & look
+• Steadicam-seuranta 60 fps
+• Neon-pink/cyan rim-light, hyllyjen välissä vilkkuvat LED-nauhat bass dropin tahdissa
+• Sumea motion blur sprintissä, glitch-leikkaus jokaisen lauseen alussa
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16, wide-angle tracking of a woman sprinting down neon-lit supermarket aisles at 60 fps, glowing LED shopping cart trailing multi-colored lights, pulsing pink and cyan side lights, over-the-shoulder silhouette of pursuer, slight motion blur, glitch on lyric in.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait format, medium-wide shot from aisle entrance of her running toward camera, LED cart behind blinking in green and pink, dynamic whip-pan to reveal a dark figure in the next aisle, vintage VHS noise overlay.”
+
+—
+Slide 5 (00:35–00:45)
+Title: Chorus Part B (rivit 3–4)
+Lyriikat näytöllä:
+“Näytit että varas myös saa rakastaa”
+“Sun sylissä varas on kotona nyt”
+
+Visuaali
+• Otos 1: symbolinen lähikuva, hyllyjen rautaiset poikkipuut kaartuvat kaltereiksi, nainen astuu niiden läpi ja hymähtelee
+• Otos 2: wide shot, he seisovat käsi kädessä hyllyjen välissä, pehmeä LED-sydänvalo loistaa taustalla
+
+Kamera & look
+• 60 fps reaaliaika + nopea close-up kasvoihin
+• Soft pink & warm gold practical-LED sydän paneeleina
+• Flare-efekti kun he hukuttavat katseensa toisiinsa
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16, close-up of neon supermarket shelves bending into jail-like bars as she steps through, magenta and cyan gels, she smirks confidently, soft focus golden LED heart in background.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait, wide shot of couple holding hands in aisle illuminated by pulsing LED heart shape behind, deep shadows around, pink and cyan highlights, gentle film grain.”
+
+—
+Slide 6 (00:45–00:55)
+Title: Verse 2 Part A (rivit 1–2)
+Lyriikat näytöllä:
+“Yössä varjoissa askeleeni kaiutuu”
+“Hengitys huuruaa yön hiljaisuuteen”
+
+Visuaali
+• Otos 1: steady-cam seuratessa naisen varjoja pitkin hämärää käytävää
+• Otos 2: lähikuva huuruvasta hengityksestä, neon-tekstijäljet hengityksen edessä
+
+Kamera & look
+• 60 fps, hiljainen gimbal-seuranta
+• Kylmä cyan-key light vasten tummaa hallia
+• Tekstuurifilmi grainit ja himmeä VHS-rivitys
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16, low-light shot of woman's footsteps echoing down dark supermarket corridor, cyan-tainted backlight casting long shadows, close-up of frosty breath forming mist in front of neon text reflections, subtle film grain.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait format, gimbal shot following her shadow footfalls in a dim aisle, soft pink fill light from below, extreme close-up of her exhaled breath catching flickering neon letters, glitchy overlay.”
+
+—
+Slide 7 (00:55–01:05)
+Title: Verse 2 Part B (rivit 3–4)
+Lyriikat näytöllä:
+“Jokainen askel on rikoksen merkki”
+“Sua etsin yössä, mun sydämen varkain”
+
+Visuaali
+• Otos 1: low-angle jalkoihin, kengät kopisevat, hälytysvalo vilahtaa kaukana
+• Otos 2: hidastettu seuranta, nainen kurkistaa hyllyjen välistä, katsoo suoraan kameraan
+
+Kamera & look
+• 120 fps hidastus askeleissa
+• Rumble-efekti ja punainen strobe hälytyksessä
+• Neon-pinstripes poskilla, pieni vignette reunoilla
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16, low-angle slow-mo of black-leather boots stepping on supermarket floor under flashing red alarm light, camera tracks up to reveal her peeking around shelf, neon pink strip light on cheek, slight vignette.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait, dynamic follow-cam in slow motion as she glances into camera from behind shelves, red strobe alarm in distance, cyan backlight, faint VHS static.”
+
+—
+Slide 8 (01:05–01:25)
+Title: Chorus Reprise & Finale
+Lyriikat näytöllä (nopeat leikkaukset, 4 riviä)
+“Nyt juoksen pois, mut sydämesi saan”
+“Takaani sä tulet, en aio pysähtyä”
+“Näytit että varas myös saa rakastaa”
+“Sun sylissä varas on kotona nyt”
+
+Visuaali
+• Tiivistetty nopeasti: close-up kasvoihin, whip-pan käsiin, glitch-freeze joka rivin vaihdossa
+• Lopetus: hidastettu zoom-out teihin yhdessä, hyllyjen varjot muodostavat neon-sydämen taustalle
+
+Kamera & look
+• Vaihteleva 60/120 fps, nopeat leikkaukset
+• VHS-tyylin chroma-glitch jokaisessa freeze-framessa
+• Pehmeä kultainen ja pinkki LED backlight
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16, rapid montage of neon-lit close-ups—eyes, hands, running feet—glitch freeze on each lyric line, finishing with a slow zoom-out revealing couple in aisle as shelf shadows align into a glowing pink heart, light film grain.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait mode, high-energy edit: whip pans between her face, his hand, electric guitar pick, glitch overlays at lyric cuts, final slow pullback to reveal heart shape formed by dark shelf silhouettes against neon LED background.”
+
+—
+Slide 9 (01:25–01:30)
+Title: Outro / End Card
+Visuaali
+• Täysi zoom-out pariskunnasta, neon-sydän taustalla sykkii hitaasti
+• Lyhyt tekstinä “Sydämen varas” + julkaisupäivä tai some-hashtag (#SydämenVaras)
+
+Kamera & look
+• 30 fps stabiili zoom-out
+• Warm gold ja pinkki LED-valaistus
+• Kevyt glow-efekti tekstille, small film grain
+
+Vaihtoehto A
+Prompt:
+“Vertical 9:16, slow zoom-out of couple holding hands in neon supermarket aisle, glowing heart shape behind them pulsing slowly in pink and gold, overlay text ‘Sydämen varas’, subtle film grain.”
+
+Vaihtoehto B
+Prompt:
+“9:16 portrait, steady wide-shot receding to reveal a giant neon heart made of shelf shadows, couple centered, warm LED glow, final title ‘Sydämen varas’ in neon outline, soft vignette.”
+
+—
+Näillä 9 slidellä kattava visuaalinen runko on valmis—voit yhdistellä eri vaihtoehtoja ja säätää ajoituksia täsmällisesti editissä!
+
+>>>>
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on 23 kappale.
+On menossa vuoden 2005 sävellys, jolloin olin 15 vuotias.
+Tämä on todella alkuperäinen sävellys, mutta sanat tein uuden idean pohjalta.
+Sanoitukset on tehty tänään alkuperäisen idean pohjalta.
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta niistä on tehty cover Suno musiikki-tekoälyllä.
+Video on generoitu Sora AI:lla.
+Editoin videon itse käsin.
+
+
+<<<<
+TikTok:
+“Sydämen varas” – vanha sävellys vuodelta 2005 (olin 15 v). Uudet sanoitukset, alkuperäinen idea! Tämä on #23 vanhojen kappaleiden sarjassa: yhden julkaisun päivässä.
+• 100 % käsin sävelletty, sanoitettu & sovitettu
+• Cover tehty Suno AI:lla
+• Video generoituna Sora AI:lla
+• Editointi by me 💻
+Kuuntele, tykkää ja seuraa lisää!
+#SydämenVaras #EDMPop #FinnishMusic #AIcover #VanhaKappale
+
+Instagram:
+“Sydämen varas” 🌙❤️‍🔥
+Julkaisen vanhoja kappaleitani yhden päivässä – tämä on numero 23! Sävelsin tämän vuonna 2005, olin vain 15 v. Uudet sanoitukset on tehty tänään alkuperäisen idean pohjalta.
+🎶 100 % käsin sävelletty, sanoitettu & sovitettu
+🤖 Cover Suno AI:lla
+📹 Video generoituna Sora AI:lla, editointi by me
+Kuuntele biisi – kerro kommenteissa, mitä mieltä oot!
+❤️‍🔥 #SydämenVaras #EDM #Pop #VanhaKappale #AIcover #SoraAI #SunoAI
+
+YouTube:
+Title: Sydämen varas [Old Songs #23] – Finnish EDM-pop AI Cover
+
+Description:
+Vanhoja kappaleitani julkaisen yhden per päivä – tässä #23! “Sydämen varas” on alkujaan sävelletty vuonna 2005 (olin 15 v), ja nyt annoin sille uudet sanoitukset alkuperäisen idean pohjalta. Kappale on 100 % käsin sävelletty, sanoitettu ja sovitettu, cover tehty Suno-musiikki-tekoälyllä. Video on generoitu Sora AI:lla ja editointi on omaa käsialaani.
+
+Jos pidit videosta, muista:
+• Tykkää 👍
+• Kommentoi 💬
+• Tilaa kanava ja ota 🔔 päälle, niin et missaa uusia julkaisuja!
+
+Seuraa myös somessa:
+TikTok & Instagram: @YourHandle
+
+#SydämenVaras #VanhatKappaleet #EDMPop #AIcover #SoraAI #SunoAI #FinnishMusic
+
