@@ -16,15 +16,17 @@ How it’s built
   - `assets/style.css`, `assets/script.js`
 
 Run
-- `python3 scripts/generate_www.py`
+- Basic: `python3 scripts/generate_www.py`
+- Polished: `python3 scripts/generate_www.py --polished` (filters list to song `.md` files; renders Markdown to HTML)
 - Re-run whenever `.upp` files change.
 
 Links & scope
 - File links on album/year pages point to the source files outside `/www` (e.g., `../escsrc/...`).
   - Works when browsing locally from repo root (file://) or serving the repo root as web root.
-  - If deploying `/www` as a standalone site, either:
+- If deploying `/www` as a standalone site, either:
     - adjust links to an absolute base (e.g., set `<base href="https://example.com/repo/">`), or
     - copy/download the referenced files into `/www` and update links.
+  - In polished mode, album pages list only relevant `.md` songs (skips `.tg`, `XX*`, archive, and agent docs). Per‑song pages render Markdown to HTML.
 
 Creative rules
 - This site only surfaces existing files and their structure; it does not change lyrics or compositions.

@@ -14,6 +14,7 @@ HOST="127.0.0.1"
 PORT="8080"
 OPEN="1"
 OPEN_PATH="/"
+POLISHED="0"
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
@@ -33,16 +34,23 @@ while [[ $# -gt 0 ]]; do
       PORT="${2:-}"; shift 2 ;;
     --no-open)
       OPEN="0"; shift ;;
+    --polished)
+      POLISHED="1"; shift ;;
     --help|-h)
-      echo "Usage: $0 [--repo-root|--www-root] [--host HOST] [--port PORT] [--no-open]"; exit 0 ;;
+      echo "Usage: $0 [--repo-root|--www-root] [--host HOST] [--port PORT] [--no-open] [--polished]"; exit 0 ;;
     *) echo "Unknown option: $1"; exit 1 ;;
   esac
 done
 
-# Generate site if serving www and it's missing
-if [[ "$SERVE_DIR" == "$ROOT/www" && ! -f "$ROOT/www/index.html" ]]; then
-  echo "[serve_www] Generating /www ..."
-  python3 "$ROOT/scripts/generate_www.py" || true
+# Generate site if serving www; build polished if requested
+if [[ "$SERVE_DIR" == "$ROOT/www" ]]; then
+  if [[ "$POLISHED" == "1" ]]; then
+    echo "[serve_www] Generating /www (polished) ..."
+    SITE_POLISHED=1 python3 "$ROOT/scripts/generate_www.py" --polished || true
+  elif [[ ! -f "$ROOT/www/index.html" ]]; then
+    echo "[serve_www] Generating /www ..."
+    python3 "$ROOT/scripts/generate_www.py" || true
+  fi
 fi
 
 URL="http://$HOST:$PORT$OPEN_PATH"
@@ -75,4 +83,3 @@ else
   if [[ "$OPEN" == "1" ]]; then open_browser; fi
   wait "$PID"
 fi
-

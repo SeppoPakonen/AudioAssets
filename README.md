@@ -28,13 +28,15 @@ Go to TuxGuitar sound settings (Tools -> Settings -> Sound) and in MIDI-port sec
 Static HTML for browsing the timeline lives under `www/`. Generate it and serve it locally with a simple Node.js static server.
 
 - Generate the site
-  - `python3 scripts/generate_www.py`
+  - Basic: `python3 scripts/generate_www.py`
+  - Polished (filters to song `.md` + renders Markdown): `python3 scripts/generate_www.py --polished`
 
 - Serve `www/` as the site root (npm-based, no install needed via npx)
   - `npx http-server www -p 8080 -a 127.0.0.1 -c-1`
   - or: `npx serve www -l 8080`
   - open: `xdg-open http://127.0.0.1:8080/`
   - helpers: `scripts/serve_www.sh` (Linux/macOS) or `scripts/serve_www.bat` (Windows)
+    - Polished build (Linux/macOS): `scripts/serve_www.sh --polished`
 
 Notes
 - Serving `www/` as the root only exposes the generated pages and `www/assets`. Links that point back to source files under `escsrc/` will not resolve in this mode. That’s expected.

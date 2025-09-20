@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ESC = ROOT / 'escsrc'
 WWW = ROOT / 'www'
 ASSETS = WWW / 'assets'
+POLISHED = ('--polished' in os.sys.argv) or (os.environ.get('SITE_POLISHED') == '1')
 
 
 def read_text(path: Path) -> str:
@@ -192,6 +193,76 @@ a:hover { text-decoration: underline; }
     write_text(ASSETS / 'script.js', script)
 
 
+def render_markdown_basic(md_text: str) -> str:
+    """Very small Markdown renderer sufficient for our docs.
+    - Headings (# .. ######)
+    - Unordered lists (- item)
+    - Code fences (``` ... ```)
+    - Paragraphs
+    Everything else is escaped. Keep simple and dependency-free.
+    """
+    lines = md_text.splitlines()
+    out = []
+    in_code = False
+    in_list = False
+    para_buf = []
+
+    def flush_para():
+        nonlocal para_buf
+        if para_buf:
+            text = ' '.join(para_buf).strip()
+            if text:
+                out.append('<p>' + escape(text) + '</p>')
+            para_buf = []
+
+    def close_list():
+        nonlocal in_list
+        if in_list:
+            out.append('</ul>')
+            in_list = False
+
+    for line in lines:
+        if line.startswith('```'):
+            if in_code:
+                out.append('</code></pre>')
+                in_code = False
+            else:
+                flush_para()
+                close_list()
+                in_code = True
+                out.append('<pre class="card"><code>')
+            continue
+        if in_code:
+            out.append(escape(line) + '\n')
+            continue
+        if not line.strip():
+            flush_para()
+            close_list()
+            continue
+        m = re.match(r'^(#{1,6})\s+(.*)$', line)
+        if m:
+            flush_para()
+            close_list()
+            level = len(m.group(1))
+            out.append(f'<h{level}>' + escape(m.group(2).strip()) + f'</h{level}>')
+            continue
+        if re.match(r'^\s*-\s+', line):
+            flush_para()
+            if not in_list:
+                out.append('<ul class="list">')
+                in_list = True
+            item = re.sub(r'^\s*-\s+', '', line)
+            out.append('<li>' + escape(item) + '</li>')
+            continue
+        para_buf.append(line.strip())
+
+    if in_code:
+        out.append('</code></pre>')
+    flush_para()
+    close_list()
+    return '\n'.join(out)
+
+
 def slugify_basename(file_name: str) -> str:
     base = os.path.splitext(os.path.basename(file_name))[0]
     return slugify(base)
@@ -244,14 +315,16 @@ def gen_md_doc_page(album_name: str, album_slug: str, md_path: Path):
         )
     players_html = '\n'.join(players) if players else '<div class="card small muted">No MP3 links found in this document.</div>'
 
-    # Raw markdown as read-only reference
+    # Markdown (rendered in polished mode) or raw fallback
+    content_html = render_markdown_basic(md_text) if POLISHED else f'<pre class="card small">{escape(md_text)}</pre>'
+
     src_rel = rel_from(WWW / 'albums' / album_slug / slugify_basename(md_path.name), md_path)
     body = (
         f'<div class="small muted">Source: <a href="{escape(src_rel)}">{escape(md_path.name)}</a></div>'
         f'<div class="section-title">Audio</div>'
         f'{players_html}'
-        f'<div class="section-title">Markdown (raw)</div>'
-        f'<pre class="card small">{escape(md_text)}</pre>'
+        f'<div class="section-title">Document</div>'
+        f'{content_html}'
     )
     return layout(title, body, breadcrumbs=[('Home', '/'), (album_name, f'/albums/{album_slug}/'), (os.path.splitext(md_path.name)[0], None)], base_prefix='../../../')
 
@@ -325,6 +398,16 @@ def gen_album_page(album_name: str, upp_path: Path):
     album_dir = upp_path.parent
     album_slug = slugify(album_name)
     page_dir = WWW / 'albums' / album_slug
+    def is_irrelevant_md(name: str) -> bool:
+        low = name.lower()
+        if low.startswith('xx '):
+            return True
+        if low.startswith('eng archive') or low.startswith('fin archive'):
+            return True
+        if low in ('agents.md', 'current_task.md'):
+            return True
+        return False
+
     for entry in data['files']:
         if entry['type'] == 'separator':
             # Flush previous
@@ -343,6 +426,11 @@ def gen_album_page(album_name: str, upp_path: Path):
             }.get(ext, ext[1:] if ext else 'file')
             src = album_dir / name
             display = escape(name)
+            if POLISHED and ext != '.md':
+                # In polished mode, only keep Markdown song/docs
+                continue
+            if ext == '.md' and POLISHED and is_irrelevant_md(name):
+                continue
             if ext == '.md':
                 # Build a per-song doc page that embeds MP3 players
                 song_slug = slugify_basename(name)
