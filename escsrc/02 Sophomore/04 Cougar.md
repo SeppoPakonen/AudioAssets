@@ -15,6 +15,9 @@ The vocal melody is new, but I tried to follow the original lead melody as much 
 I was listening this while playing sauerbraten, and I started to get lyrics ideas easily. I started making initial lyrics while fragging, and then finally I finished them fully focused in about an hour.
 What I can say about lyrics? Oh man, oh man... fun times.
 
+## Style
+A Finnish pop-EDM song with a driving rhythm section, featuring a male vocalist, The song is in a minor key, with a moderate tempo
+
 ## Lyrics (FI)
 Title: Puuma
 ```
@@ -78,9 +81,12 @@ Se lähestyy
 Se tietää syyn
 Se lähestyy
 Se tietää syyn
+```
 
+## Lyrics (EN)
 Title: Cougar
 
+```
 [Instrumental]
 
 [Intro]

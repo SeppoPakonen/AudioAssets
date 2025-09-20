@@ -1,5 +1,10 @@
 # To Victory or Ruin (Capture The Flag)
 
+## Meta
+- Year: 2002 (orig. “Capture Teh Flag”); packaged 2025
+- Genre: 2000s R&B / triphop-ska flavor
+- Languages: FI + EN (published)
+
 ## Background
 We had a joke online gaming clan called Uaah, which is just a erotic holler. We played counter-strike, other Half-Life mods, Star Wars Jedi Knight: Mysteries of the Sith (1998), etc.
 
@@ -10,11 +15,6 @@ Bassline is not original.
 Finished minimal modern composition from the oldest song.
 
 
-
-## Meta
-- Year: 2002 (orig. “Capture Teh Flag”); packaged 2025
-- Genre: 2000s R&B / triphop-ska flavor
-- Languages: FI + EN (published)
 
 ## Inspiration
 - Online clan/gaming energy (CTF). Grit, tactics, and camaraderie under neon-lit pressure; setbacks reframed as momentum.

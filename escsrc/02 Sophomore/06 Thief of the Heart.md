@@ -4,21 +4,19 @@
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
 
-## Notes: Heist/romance metaphor, short-form hook
-- Originally conceived as an “escape” feeling; later lyrics drafted 2021 but not artistically adopted.
-- Melancholic mid‑tempo pop-rock/EDM crossover; verse-first hook designed for 2‑second capture.
-
-## Background/Notes (verbatim)
-```
-Background: """
+## Background
 I was proud of this song when I made it.
 I thought that it had a touching melody. As usual, I couldn't figure out what to say in lyrics, so I left that part undone. I just had an idea about some sort of escape. It had to be combination of physical and mental escape.
 
 Lyrics made based on original idea 13.6.2021
 These lyrics weren't used after all, because I didn't want to sign into these lyrics artistically.
-"""
 
-Style 1:
+### Notes: Heist/romance metaphor, short-form hook
+- Originally conceived as an “escape” feeling; later lyrics drafted 2021 but not artistically adopted.
+- Melancholic mid‑tempo pop-rock/EDM crossover; verse-first hook designed for 2‑second capture.
+
+
+## Style 1
 A Finnish pop song with a female vocalist, featuring a driving rhythm section of drums and bass,
 The song is in a F# minor key, with a tempo of 130 BPM,
 The instrumentation includes a clean electric guitar playing arpeggiated chords,
@@ -29,15 +27,14 @@ The production is clean and balanced, with all instruments clearly audible,
 The bass provides a strong rhythmic and harmonic foundation, while the drums maintain a steady, driving beat,
 The piano often doubles the vocal melody or plays counter-melodies, The overall mood is reflective yet energetic
 
-Style 2:
+## Style 2
 A Finnish EDM-pop song with a female vocalist,
 The song is in a minor key (Am), with a tempo of 130 BPM,
-```
+
 
 ## Lyrics (FI)
-```
 Title: Sydämen varas
-
+```
 [Verse 1]
 Varastin sydämes kuin karkin hyllyltä 
 Mä piilotan kasvoni varjoilta tylyiltä
@@ -64,9 +61,8 @@ Sun sylis varastaa, olla kuin kotonaan
 ```
 
 ## Lyrics (EN)
-```
 Title: Thief of the Heart
-
+```
 [Verse 1]
 Soft swipe your heart like candy off the shelf
 Shy, I shade my face from stern, salty stealth
@@ -91,33 +87,3 @@ I ain’t gonna fold while you chase my line
 You showed a crook can kinda care, for real
 Your cuddle I steal to feel like home—so chill
 ```
-
-## Discussion
-```
->>>>
-Autat kehittämään tarinan kappaleelle ideoiden pohjalta.
->>>>
-Hei
-<<<<
-Hei! Mukava, että olet täällä. Miten haluaisit edetä tarinan kanssa?
-...
->>>>
-Kappale on keskitempoinen, melankolinen, pop-rock kappale suomeksi tasaisella rumpukompilla 130bpm. Tämän voisi helposti muuttaa hyväksi EDM kappaleeksi.
-...
-<<<<
-Tässä viisi erilaista audio–video-yhdistelmää kappaleen ensimmäiselle 5 sekunnille, joilla saat sekä visuaalisen että äänellisen koukun samantien:
-...
->>>>
-Paras mielestäni on 5. “Flash cut & heartbeat drop”
-<<<<
-Tässä tarkempi storyboard “Flash cut & heartbeat drop” -avaus 0–5 s, ja pari vaihtoehtoista avausriviä verse 1:een, joilla koukutat välittömästi.
-...
->>>>
-1.
-    "Varastin sydämesi kuin leivän hyllyltä "
-
-Anna lista lyriikka/video vaihtoehtoja verse-1 rivi-2 varten
-<<<<
-Tässä neljä erilaista vaihtoehtoa verse 1, rivi 2:ssä sekä niihin sopivat video-kuvaukset. Tavumäärät ovat 10–14 välillä.
-```
-

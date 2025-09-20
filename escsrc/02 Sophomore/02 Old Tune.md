@@ -4,9 +4,12 @@
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
 
-## Background/Notes (verbatim)
-```
-Style:
+## Background
+This song is probably made in summer 2005.
+
+This is the original score file made in 2005. Only track names have been renamed.
+
+## Style
 A Finnish edm-pop song with a driving rhythm section and prominent synth melodies,
 The tempo is moderate, and the key is major,
 The song features male and female lead vocalists with a clear tone,
@@ -21,8 +24,9 @@ Reverb is applied to the vocals and some synth elements, creating a sense of spa
 The song structure follows a typical verse-chorus format with an instrumental break and an outro,
 The melody is catchy and memorable, with a relatively narrow vocal range
 
+## Lyrics (FI)
 Title: Vanha sävel
-
+```
 [Intro, male singing]
 Muistatko jo melodian
 [Intro, male singing]
@@ -81,9 +85,11 @@ Tää vanha sävel on
 Tää vanha sävel on
 Tää vanha sävel on
 Mut vielä kerran kuunnellaan
+```
 
+## Lyrics (EN)
 Title: Old tune
-
+```
 [Intro, male singing]
 Remember that melody?
 When you cop a fest-pass, cash at the entry
@@ -141,9 +147,12 @@ This old tune’s back
 This old tune’s back
 So spin it one more time
 
->>>>
-Lyrics:
+```
 
+## Initial song idea AI discussion
+
+### Author's text
+```
 [Intro]
 Muistatko jo melodian
 Kun ostat festarille lippua
@@ -211,9 +220,8 @@ Vihdoinkin
 Kaikki on helppoo
 ```
 
-## Discussion
+### AI reply
 ```
-<<<<
 Uusi inspiraatioteksti
 
 Ajattele hetkeä, kun seisot ison festarialueen portilla: kädessäsi lippu, korvissasi eilisten kesäbiisien kaiut, edessäsi aavistus samoista tutuista melodioista kuin vuosia sitten. Ilmassa on iloa ja hiukan haikeutta – tiedät, että jokainen biisi tuo mukanaan muiston, mutta samalla haluat kokea kaiken alusta asti uudelleen.
@@ -232,16 +240,20 @@ Uusi inspiraatio kiteyttää:
     Helppouden, jonka löydät rajoja asettaessasi
 
 Anna näiden tunnelmien ohjata sanoitustyötäsi: paljasta, kuinka vanhat sävelet kantavat meitä kohti uusia muistoja, ja kuinka joskus on kauneinta pysähtyä keskelle hulinaa – juuri siellä, missä sydän muistaa, mutta mieli löytää vielä jotain uutta.
+```
 
->>>>
+### Author
+```
 Kiteytä uusi inspiraatioteksti rakenteeseen:
 
     Prechorus: 1 rivi
     Chorus: 4 riviä
     Verse 2: 8 riviä
     Bridge: 4 riviä
+```
 
-<<<<
+### AI reply
+```
 Prechorus
 	Vanha melodia kutsuu, mutta haluan tanssia sen ulkopuolella.
 
@@ -267,11 +279,15 @@ Bridge
 	Rajat suojaavat, mutta vapaus avaa ovet
 	Nostalginen haikeus saa rinnalleen uuden rohkeuden
 	Kaikki on helppoa, kun hetkeen suostuu
+```
 
->>>>
+### Author
+```
 Simplify condensed inspiration text to marketing slogans
+```
 
-<<<<
+### AI reply
+```
 • Muista menneisyys, tanssi tulevaisuuteen
 • Nostalginen sykintä, villi vapautus
 • Vanha sävel, uusi kokemus
@@ -282,8 +298,10 @@ Simplify condensed inspiration text to marketing slogans
 • Kohtaa hetki, luo uusi muisto
 • Painu radion rajojen ulkopuolelle
 • Vapaus on valinta
+```
 
-<<<<
+### AI reply
+```
 Style Template for “Vanha sävel” Music Video
 
 Theme
@@ -340,8 +358,11 @@ Frame Rate & Rendering
 
 Vibe Keywords
 Energetic, warm, nostalgic, playful, youth-friendly, festival fun.
+```
 
-<<<<
+## Music Video discussion
+### AI reply
+```
 Below on tässä ehdotus noin 12 kohtauksesta (slideshow-tyyliin) musiikkivideon storyboardiksi. Joka kohtaukseen on kolme vaihtoehtoista kuva-generaattoripromptia. Valitse myöhemmin videoeditorissa lopulliset vaihtoehdot ja ajoitus!
 
     Kohtaus 1: Otsikkoruutu
@@ -368,7 +389,11 @@ Below on tässä ehdotus noin 12 kohtauksesta (slideshow-tyyliin) musiikkivideon
 ––––––––––––––––––––––––––––––––––––––––––––––––
 Käytä näitä diaesityksiä pohjana: videoleikkaaja voi sijoittaa ne haluamaansa järjestykseen, säätää ajoitusta ja valita kuhunkin kohtaukseen sopivimman promptin!
 
->>>>
+```
+
+## AI Social Media discussion
+### Author
+```
 Julkaisen vanhoja kappaleitani yhden päivässä.
 Nyt on päivä 18.
 On menossa vuoden 2005 sävellys, jolloin olin 15 vuotias.
@@ -379,7 +404,10 @@ Editoin videon itse käsin.
 
 Lyrics:
 
-<<<<
+```
+
+### AI reply
+```
 Julkaisen vanhoja itse säveltämiä ja sanoittamiani biisejä – yksi päivässä!
 Päivä 18: “Vanha sävel” vuodelta 2005 (15-vuotiaana säveltämäni), uudet sanoitukset 2025.
 Remix Suno AI:lla, video Sora AI:lla, editoinnin tein itse käsin. 🎹✨

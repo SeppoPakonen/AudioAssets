@@ -1,52 +1,21 @@
 # Let’s Go Somewhere Just Me And You (Mennään jonnekkin kahestaan)
 
-## Background
-I made this song in 2005 when I learned to use Guitar Pro. Clean guitar lead is from some Alanis Morrisette song and chorus chords are similar to a Leevi and the Leavings song.
-
-Lyrics were made 7.6.2021 during hiking trip.
-
-Refurbished composition: 23.8.2022
-
-
 ## Meta
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
 
-## Background/Notes (verbatim)
-```
-Muistiinpanot:
+## Background
+I made this song in 2005 when I learned to use Guitar Pro. Clean guitar lead is from some Alanis Morrisette song and chorus chords are similar to a Leevi and the Leavings song.
 
-Kappale "Piilotan mun ihastumisen"
+- Lyrics were made 7.6.2021 during hiking trip.
 
-Säe 1
-Taas kevätjuhlan aika on, ja kesä koittaa. Aaaa.
-Mun huominen on niin vaatimaton, kun pitkät unet vain ohjelmas on.
-Unohdun vaan, jätski sulaa ja vapaus voittaa. Aaaa.
-Sitten uimarannal sinut satun tapaamaan ja ihastusta vielä piilotan, mutta tuut sanoon:
+- Refurbished composition: 23.8.2022
 
-Kertosäe 1
-(tyttö) "ei oltu koskaan kouluajal niin et voisin kertoo;
-jäit mulle mieleen mutten ota susta mitään selkoo"
-(poika) "Se on ok, en mää piilota mitä tunnen.
-Me voidaan tehdä mitä vaan"
 
-Säe 2
-Pakenemme väkijoukosta, kaupungista ja yöstä. Aa-aah.
-Menemme paikkaan, jossa kukaan ei tunne meitä, ja kaikki on hyvin.
-Tuntuu kuin kaksi lasta leikkiisivät pimeässä, eikä kukaan katso meitä. Aa-aah.
-Nauramme ja puhumme, ja silti piilotan ihastukseni, mutta sinä tulet luokseni ja sanot:
+## Style
+American English pop song with both male and female vocalists, The song has a moderate tempo
+The vocalists sings childishly in a clear, slightly melancholic tone, with some vocal harmonies in the chorus, The song structure is verse-chorus-verse-chorus-bridge-chorus-outro, The production is clean and balanced
 
-Kertosäe 1
-(tyttö) "ei oltu koskaan kouluajal niin et voisin kertoo;
-jäit mulle mieleen mutten ota susta mitään selkoo"
-(poika) "Se on ok, en mää piilota mitä tunnen.
-Me voidaan tehdä mitä vaan"
-
-Kertosäe 2
-Jos vain saisimme tämän yön kestämään ikuisesti,
-Kukaan ei voi ottaa pois yhteistä rakkautta.
-Taidan näyttää ihastukseni.
-```
 
 ## Lyrics (FI)
 Title: Mennään jonnekkin kahestaan
@@ -175,3 +144,35 @@ Let’s go somewhere, just me and you
 Now what with you gon’ happen, ooo?
 ```
 
+## Lyrics draft (FI)
+Title: Piilotan mun ihastumisen
+```
+Säe 1
+Taas kevätjuhlan aika on, ja kesä koittaa. Aaaa.
+Mun huominen on niin vaatimaton, kun pitkät unet vain ohjelmas on.
+Unohdun vaan, jätski sulaa ja vapaus voittaa. Aaaa.
+Sitten uimarannal sinut satun tapaamaan ja ihastusta vielä piilotan, mutta tuut sanoon:
+
+Kertosäe 1
+(tyttö) "ei oltu koskaan kouluajal niin et voisin kertoo;
+jäit mulle mieleen mutten ota susta mitään selkoo"
+(poika) "Se on ok, en mää piilota mitä tunnen.
+Me voidaan tehdä mitä vaan"
+
+Säe 2
+Pakenemme väkijoukosta, kaupungista ja yöstä. Aa-aah.
+Menemme paikkaan, jossa kukaan ei tunne meitä, ja kaikki on hyvin.
+Tuntuu kuin kaksi lasta leikkiisivät pimeässä, eikä kukaan katso meitä. Aa-aah.
+Nauramme ja puhumme, ja silti piilotan ihastukseni, mutta sinä tulet luokseni ja sanot:
+
+Kertosäe 1
+(tyttö) "ei oltu koskaan kouluajal niin et voisin kertoo;
+jäit mulle mieleen mutten ota susta mitään selkoo"
+(poika) "Se on ok, en mää piilota mitä tunnen.
+Me voidaan tehdä mitä vaan"
+
+Kertosäe 2
+Jos vain saisimme tämän yön kestämään ikuisesti,
+Kukaan ei voi ottaa pois yhteistä rakkautta.
+Taidan näyttää ihastukseni.
+```

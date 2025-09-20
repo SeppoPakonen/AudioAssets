@@ -1,0 +1,227 @@
+
+## AI Discussion
+
+### Author
+```
+Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Olen artisti ja kappaleiden tekijä, ja kannessa kuvassa.
+
+Artisti: Steve Chill
+Oikea nimi: Seppo Pakonen
+Albumin nimi: To The Band
+Albumin julkaisupäivä: Syyskuu 29, 2025
+DistroKid UPC: 199737961682
+Kieli: Englanti
+
+Taustaa: Albumin kappaleet ovat sävelletty, kun artisti oli 16 vuotias.
+Suomessa koulussa on ollut lukion ensimmäisen lukuvuoden toinen puolisko kesälomaan asti.
+Teoriassa albumi käsittää ensimmäisen kolmanneksen (1/3) vuodesta 2006, mutta kappaleiden päivämäärän määrittäminen on ollut epätarkkaa.
+Vuosi on ollut 2006, koska hän on syntynyt 1989. Hän on asunut ikänsä Oulussa, Suomessa, joka on EU:n kulttuuripääkaupunki vuonna 2026.
+Ironista on, että hän ei ole saanut minkäänlaista tukea ja positiivista vaikutusta kasvuympäristöltään Oulusta,
+ei ihmisiltä eikä yhteiskunnalta, vaan hän on omin voimin perustanut bändejä, ja joutunut toteamaan, että ihmisten vetäminen mukana on kuollutta painoa.
+Hänellä ei ole ollut "narsistista rohkeutta" olla esittävä artisti, vaikka on soittanut kitaraa ja laulanut. Vastakkaisen sukupuolen vaikutusta voi sanoa ainoastaan negatiiviseksi ilman poikkeuksia.
+Kappaleet on tehty alunperin Guitar Pro:lla ja Steinberg Cubase SX 3:lla.
+Kaikki kappaleet ovat säilyneet tuolta ajalta mp3:sina, jotka hän alkoi kirjoittamaan nuoteiksi vuonna 2020 lähtien korona-aikana.
+Pandemia sai hänet miettimään kuolemaa ja sitä mikä muisto planeetalle hänestä jää.
+Alkuperäisistä kappaleista oli jäänyt myös projektinimet, joihin sisältyi selvä ajatus ja muisto siitä, että mikä kappaleiden sisällön idea oli alunperin, ja näitä käytettiin sanoituksien tekemiseen.
+Kappaleiden syntymähetket olivat vielä artistin muistissa, ja ne kirjoitettiin ylös myös.
+Alkuvuodesta hän myös perusti vanhan luokkakaverinsa Antin (jonka kanssa ensimmäinen kappale sävellettiin vuonna 2001) ja hänen uusien luokkakavereidensa kanssa bändin "The Vice".
+Bändiin kuulutettiin laulajaa suomalaisen muusikoiden.net verkkosivuston kautta.
+Yhdessä he harjoittelivat ja opettelivat soittamaan yhtäaikaa samaa kappaletta, ja opettelivat eroon pahimmista peloistaan esiintymisen suhteen.
+Myös ensimmäinen esiintyminen tehtiin Oulun Kaupungissa Waldalla.
+
+Taustaa vuodelta 2022-2025:
+Opiskelin musiikintuottajaksi Tornion Lappiassa. Tämä on virallinen ammattini. Minulla on ollut krooninen kipu johtuen provosoimattomasta pahoinpitelystä Toukokuussa 2008.
+Yritin opiskella yliopistossa, mutta en jälkeenpäin ajateltuna pystynyt keskittymään kipuni takia, enkä ymmärtänyt omasta terveydestäni niin paljoa, että olisin hakenut lääkäristä apua.
+Minulla ei myöskään ollut läheisiä ihmisiä, joita olisi kiinnostanut terveyteni (äiti-puoleni, joka välitti, kuoli syöpään 2009).
+En saanut yliopisto-opintoja läpi, eikä Oulussa ole sopivia työpaikkoja minunlaisille: töihin tulee ulkomaalaisia niin paljon.
+Olen siis jäänyt tyhjän päälle täällä huolimatta älykkyydestäni ja akateemisesta uteliaisuudestani.
+Oulu on todellakin "paska kaupunni", kuten täällä sanotaan.
+
+Kaikki kappaleet on siis nuotinnettu TuxGuitar ohjelmalla ja mukana on midi-tiedostot, joista selviää käsintehty osuus säveltämisessä.
+Myös sanoitukset on tehty suomeksi täysin ilman tekoälyä. Kappaleet on tehty siis alunperin 100% ilman tekoälyä.
+Englanniksi kääntämisessä on käytetty ChatGPT tekoälyä avuksi.
+
+Huomioi kappaleidein ISRC koodi ja artistin Teoston antama IPI koodi "1201855096"  
+
+Kappaleet on tuotettu musiikiksi käyttäen Suno tekoälyn cover toimintoa, eli artisti on tehnyt demon laulamalla midi-musiikin päälle ensiksi.
+Osa melodiasta ja sovituksesta on tehty demotusvaiheessa, eikä selviä mukana olevista midi-tiedostoista.
+Tekoäly ei ole merkittävästi vaikuttanut kappaleen sanoituksiin, sävellykseen tai sovitukseen, ja vastaavaa pidettäisiin ihmisten tuottamassa musiikissa muusikkojen lievänä varioimisena soittohetkellä.
+Kappaleet on masteroitu käyttäen iZotope Ozone 11 ohjelmaa.
+
+Kappaleita saa esittää vapaasti, kunhan huomioi lisenssoinnin, ISRC ja IPI tunnisteet. Teokset ovat rekisteröity. Archive.org on toistaiseksi ainoa paikka saada nämä lossless äänitiedostot. Kappaleita saa remixata.
+Kappaleita saa esittää myös ilman lisenssiä, jos se soitetaan lisenssoimattoman musiikin yhteydessä.
+
+Teosto Suomi hallinnoi oikeuksiani ensisijaisesti, mutta tämä materiaali on tarkoitettu arkistointikäyttöön.
+Kaupallinen yhteistyö ja merkittävä yhteisöllinen levittäminen asioidaan heidän kanssaan.
+
+Musiikki on julkaistu myös Suomeksi "OuluPoko - Bändiin" albumilla.
+
+Kansikuva on tehty tekoälyllä.
+Kannessa hymyilee minun näköinen ihminen, mutta minä tein kuvan tekoälyllä.
+Käytin mallina sen aikaisia valokuvia, mutta niitä on vähän.
+Olen itse tyytyväinen kansikuvaan.
+
+Tältä englanninkieliseltä albumilta puuttuu käännös kappaleelle "OuluPoko - Nolo polo".
+Syy siihen on yksinkertaisesti se, että Suno-tekoäly sekosi liikaa vaihtelevasta laulajasta.
+Suno ei saanut laulajien sukupuolia ollenkaan oikein, vaikka yritin kovasti.
+Suno ei antanut tehdä kappaletta pelkästään mies tai naislaulajalla, koska cover oli nyt suomenkielisestä versiosta.
+Jos olisin edes saanut erikseen täysin mies ja naislaulaja versiot, niin olisin voinut yhdistää lopullisen version.
+Nyt sanoitukset vain särkivät liikaa korvaan väärän sukupuolen laulajilla.
+
+
+Linkkejä suomenkieliseen OuluPoko artistiin:
+- email: poko.musiikki@outlook.com
+- https://linktr.ee/oulupoko
+- Spotify: https://open.spotify.com/artist/6OyhbzGtmrQ70gWwJHBUv7
+- TikTok: https://www.tiktok.com/@oulupoko
+- YouTube: https://www.youtube.com/@oulupoko
+- Instagram: https://www.instagram.com/oulupoko
+- Facebook: https://www.facebook.com/oulupoko
+- Suno: https://suno.com/@oulupoko
+- Blog: https://oulupoko.blogspot.com/
+
+Kappalelista:
+
+
+1
+I don't know
+ISRC QZZ7U2569036
+
+2
+Come to Bed Now
+ISRC QZZ7U2569037
+
+3
+Girlfriend from Canada
+ISRC QZZ7U2569038
+
+4
+I Bear Thee a Message
+ISRC QZZ7U2569039
+
+5
+Shitty City
+ISRC QZZ7U2569040
+
+6
+The Treehouse
+ISRC QZZ7U2569041
+
+7
+She
+ISRC QZZ7U2569042
+
+8
+Into Space
+ISRC QZZ7U2569043
+
+9
+Eat Shit
+ISRC QZZ7U2569044
+
+10
+Is This Any Real Help
+ISRC QZZ7U2569045
+
+
+```
+
+### Description (Readme)
+```
+Here’s a polished, archive-ready README.txt in English for your release. If you want a different tone (more minimal, more personal, etc.), say the word and I’ll reshape it.
+
+---
+
+TITLE: Steve Chill — To The Band (Album)
+
+ARTIST: Steve Chill
+CIVIL NAME: Seppo Pakonen
+RELEASE DATE: September 29, 2025
+DISTROKID UPC: 199737961682
+COLLECTING SOCIETY: Teosto (Finland)
+IPI (Composer/Author): 1201855096
+LANGUAGE: English
+
+ABOUT THIS RELEASE
+“To The Band” gathers songs I composed at age 16 in 2006 while living in Oulu, Finland (European Capital of Culture 2026). In Finland, the first year of upper secondary school (lukio) runs through spring to the summer break; these pieces roughly span the first third of 2006, though exact dates are approximate. I wrote, arranged, and produced the original demos independently. Most survived as MP3s; during the 2020 pandemic I began transcribing them into proper notation to preserve the ideas, including the original project names that later guided today’s lyrics. I have long felt that local support for my work was limited, so I built bands and projects myself and focused on songwriting.
+
+The year also included starting a band, “The Vice,” early on with my old classmate Antti (with whom I had first composed in 2001) and new classmates. We looked for a vocalist via the Finnish site muusikoiden.net, learned to rehearse as an ensemble, and worked through stage fright together. Our first performance took place at Walda in the City of Oulu.
+
+COMPOSITION & PRODUCTION HISTORY
+• 2006: Writing in Guitar Pro; production in Steinberg Cubase SX 3
+• Source survival: original 2006 demos preserved as MP3s
+• 2020→: Transcription to scores in TuxGuitar during the pandemic; MIDI exports included (documenting hand-written composition parts)
+• Lyrics: originally written in Finnish for the artist name “OuluPoko”; English translations used ChatGPT for language assistance only (the original works were created 100% without AI)
+
+AI USAGE DISCLOSURE
+The final productions were created using Suno’s “cover” workflow as a studio tool. I first sang demo vocals over the MIDI arrangements; some melodic and arrangement details were refined during demoing and may not appear in the provided MIDI files. AI did not materially alter the lyrics, composition, or core arrangements—comparable to light variation by human musicians during performance. Masters were finalized with iZotope Ozone 11.
+
+ARTIST BACKGROUND (2022–2025 context)
+I formally studied music production at Lappia (Tornio), which is my profession. I live with chronic pain stemming from an assault in May 2008; in hindsight it affected my ability to continue university studies. I remain based in Oulu and continue to compose and archive my catalog independently.
+
+COVER ART NOTE
+The cover image was generated with AI. It depicts a smiling person resembling me; I created it using a small set of older reference photos. I’m happy with the result.
+
+RIGHTS, LICENSING & PERMISSIONS
+• Works are registered. Please credit “Steve Chill (Seppo Pakonen)” and reference the ISRC and IPI listed below.
+• Performance: You may perform these works. Please observe local performance-rights rules and include ISRC/IPI in documentation where possible.
+• Remixes: You may create and share remixes.
+• Lossless availability: As of this release, Archive.org is the only official source for the lossless masters of “To The Band.”
+• Administration: Teosto (Finland) manages my rights for commercial licensing, synchronization, or significant public distribution. For commercial collaborations, please coordinate with Teosto and contact me via the details below.
+• Additional permission from the artist: Performances are also permitted without a separate license when presented in contexts designated by the organizer for license-free music. (Always follow your local regulations.)
+
+FILES INCLUDED (where available)
+• Lossless album audio (e.g., FLAC/WAV)
+• MIDI files (documenting hand-written composition parts)
+• TuxGuitar score files (.tg)
+• Lyrics: Finnish originals and English translations
+
+CREDITS (TOOLS & SOFTWARE)
+Composition/arrangement: 2006 (Guitar Pro; Steinberg Cubase SX 3)
+Notation & MIDI exports: TuxGuitar (2020→)
+Production assistance: Suno (cover workflow; see disclosure above)
+Mastering: iZotope Ozone 11
+
+TRACKLIST & ISRC CODES
+01 — I don’t know — ISRC QZZ7U2569036
+02 — Come to Bed Now — ISRC QZZ7U2569037
+03 — Girlfriend from Canada — ISRC QZZ7U2569038
+04 — I Bear Thee a Message — ISRC QZZ7U2569039
+05 — Shitty City — ISRC QZZ7U2569040
+06 — The Treehouse — ISRC QZZ7U2569041
+07 — She — ISRC QZZ7U2569042
+08 — Into Space — ISRC QZZ7U2569043
+09 — Eat Shit — ISRC QZZ7U2569044
+10 — Is This Any Real Help — ISRC QZZ7U2569045
+
+NOTES ON CONTENT & OMISSIONS
+The English-language edition omits a translation of the Finnish track “OuluPoko — Nolo polo.” During production, Suno’s cover workflow yielded unstable vocal results with varying timbres that could not be aligned into a satisfactory English version.
+
+RELATED FINNISH-LANGUAGE RELEASE
+Many of these songs also appear in Finnish on the album “OuluPoko — Bändiin.”
+
+CONTACT & LINKS — OULUPOKO (Finnish artist identity)
+Email: [poko.musiikki@outlook.com](mailto:poko.musiikki@outlook.com)
+Linktree: [https://linktr.ee/oulupoko](https://linktr.ee/oulupoko)
+Spotify: [https://open.spotify.com/artist/6OyhbzGtmrQ70gWwJHBUv7](https://open.spotify.com/artist/6OyhbzGtmrQ70gWwJHBUv7)
+TikTok: [https://www.tiktok.com/@oulupoko](https://www.tiktok.com/@oulupoko)
+YouTube: [https://www.youtube.com/@oulupoko](https://www.youtube.com/@oulupoko)
+Instagram: [https://www.instagram.com/oulupoko](https://www.instagram.com/oulupoko)
+Facebook: [https://www.facebook.com/oulupoko](https://www.facebook.com/oulupoko)
+Suno: [https://suno.com/@oulupoko](https://suno.com/@oulupoko)
+Blog: [https://oulupoko.blogspot.com/](https://oulupoko.blogspot.com/)
+
+---
+
+If you’d like, I can also generate a plain-text .txt file for download or add your Steve Chill contact details here (email, socials) to match the previous album’s format.
+
+```
+
+### Description (Readme)
+```
+**Short description (for the item page)**
+*To The Band* is an English-language album by Steve Chill (Seppo Pakonen), collecting songs written at age 16 in 2006 in Oulu, Finland. The original MP3 demos were transcribed during 2020; final productions use Suno’s cover workflow (no material change to compositions) and were mastered with iZotope Ozone 11. This archive includes lossless masters plus MIDI/TuxGuitar files and lyrics. Works are registered with Teosto (IPI 1201855096); please credit the listed ISRCs. Release date: Sept 29, 2025. DistroKid UPC: 199737961682. Related Finnish release: **OuluPoko — Bändiin**.
+
+**Suggested tags (comma separated)**
+Steve Chill, Seppo Pakonen, To The Band, album, music, songwriter, independent, 2006, 2025 release, Oulu, Finland, Teosto, IPI 1201855096, ISRC, lossless, FLAC, WAV, MIDI, TuxGuitar, Guitar Pro, Cubase SX 3, Suno, AI-assisted production, AI-generated cover art, English lyrics, Finnish lyrics, OuluPoko, The Vice, archive.org
+

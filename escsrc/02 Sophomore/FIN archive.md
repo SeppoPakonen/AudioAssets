@@ -7,9 +7,9 @@
 - UPC: 199506269292
 - Languages: FI + EN (published)
 
-## Author
+## Discussion
+### Author
 ```
->>>>
 Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Julkaisun sisältö on kuitenkin Suomen kielellä, mutta selkeyden vuoksi teksti tehdään englanniksi. Olen artisti ja kappaleiden tekijä.
 
 Artisti: OuluPoko
@@ -74,7 +74,81 @@ Linkkejä suomenkieliseen OuluPoko artistiin:
 - Suno: https://suno.com/@oulupoko
 - Blog: https://oulupoko.blogspot.com/
 
-Kappalelista:
-...
 ```
 
+### AI (Readme)
+```
+TITLE: OuluPoko — Lukioon (Album)
+
+ARTIST: OuluPoko
+CIVIL NAME: Seppo Pakonen
+RELEASE DATE: August 13, 2025
+DISTROKID UPC: 199506269292
+COLLECTING SOCIETY: Teosto (Finland)
+IPI (Composer/Author): 1201855096
+LANGUAGE(S): Finnish & English
+
+ABOUT THIS RELEASE
+“Lukioon” collects songs I composed at age 15 (year 2005) in Oulu, Finland (European Capital of Culture 2026). The pieces were originally written during the summer before Finnish upper secondary school (“lukio”) and the autumn semester of the first year of study. Many originals survived as MP3 demos from that time. During the 2020 pandemic I began notating the music to preserve how the compositions were first conceived and to leave a clear record for the future.
+
+COMPOSITION & PRODUCTION HISTORY
+• 2005: Writing and demos created in Guitar Pro and Steinberg Cubase SX 3
+• 2020→: Transcription to scores using TuxGuitar; MIDI exports included
+• Lyrics: written in Finnish without AI; one tracks in English were also written without AI to demonstrate my own language ability (kept personal and imperfect by design)
+• Band context: In autumn 2005 I formed a band with three classmates (“The Wayward”) from Oulu Steiner School’s 1989 cohort, plus one outside guitarist. We rehearsed playing together and overcoming early performance nerves.
+
+AI USAGE DISCLOSURE
+The final productions in 2025 were created using Suno’s “cover” workflow as a studio tool. I first recorded guide/demo vocals against the MIDI arrangements. Some melodic or arranging detail was refined during demoing and may not appear in the included MIDI files. AI did not materially alter the lyrics, compositions, or core arrangements. Masters were finalized with iZotope Ozone 11.
+
+FILES INCLUDED (where available)
+• Lossless album audio (FLAC)
+• MIDI files (documenting hand-written composition parts)
+• TuxGuitar score files (.tg)
+• Lyrics: Finnish (with one English-language song)
+
+RIGHTS, LICENSING & PERMISSIONS
+• Works are registered. Please credit “OuluPoko (Seppo Pakonen)” and reference the ISRC and IPI as listed below.
+• Performance: You may perform these works. Please follow your local performance-rights rules and, where possible, include ISRC/IPI in programs or metadata.
+• Remixes: You may create and share remixes.
+• Lossless availability: As of this release, Archive.org is the only official source for the lossless masters of Lukioon.
+• Administration: Teosto (Finland) manages my rights for commercial licensing, synchronization, or significant public distribution. For commercial collaborations, please coordinate with Teosto and contact me directly (details below).
+• Note: In contexts where performance licensing is not required (license-free settings), permission is granted to perform these works without a separate license. This is not legal advice; please check local rules.
+
+TRACKLIST & ISRC CODES
+01 — Mennään jonnekkin kahestaan — ISRC QZWFW2521589
+02 — Vanha sävel — ISRC QZWFW2521590
+03 — Aamuisin — ISRC QZWFW2521591
+04 — Puuma — ISRC QZWFW2521592
+05 — Tahdon sut — ISRC QZWFW2521593
+06 — Sydämen varas — ISRC QZWFW2521594
+07 — Tärisen — ISRC QZWFW2521595
+08 — Ujostus — ISRC QZWFW2521596
+09 — Talviyö — ISRC QZWFW2521597
+10 — Mä en enää — ISRC QZWFW2521598
+11 — Great Escape — ISRC QZWFW2521599
+12 — Lonkerot — ISRC QZWFW2521600
+13 — The Bändi — ISRC QZWFW2521601
+14 — Myöhässä — ISRC QZWFW2521602
+15 — Totuus vai tehtävä — ISRC QZWFW2521603
+
+RELATED RELEASE
+An English-language companion album is released as “Steve Chill — Sophomore.”
+
+CREDITS (TOOLS & SOFTWARE)
+Composition: 2005 (Guitar Pro; Steinberg Cubase SX 3)
+Notation & MIDI exports: TuxGuitar (2020→)
+Production assistance: Suno (cover workflow; see disclosure above)
+Mastering: iZotope Ozone 11
+
+CONTACT & LINKS — OULUPOKO (Finnish originals)
+Email: poko.musiikki@outlook.com
+Linktree: https://linktr.ee/oulupoko
+Spotify: https://open.spotify.com/artist/6OyhbzGtmrQ70gWwJHBUv7
+TikTok: https://www.tiktok.com/@oulupoko
+YouTube: https://www.youtube.com/@oulupoko
+Instagram: https://www.instagram.com/oulupoko
+Facebook: https://www.facebook.com/oulupoko
+Suno: https://suno.com/@oulupoko
+Blog: https://oulupoko.blogspot.com/
+
+```

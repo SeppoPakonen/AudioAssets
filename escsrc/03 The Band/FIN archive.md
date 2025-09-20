@@ -1,0 +1,225 @@
+## Discussion
+### Author
+```
+Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Julkaisun sisältö on kuitenkin Suomen kielellä, mutta selkeyden vuoksi teksti tehdään englanniksi. Olen artisti ja kappaleiden tekijä.
+
+Artisti: OuluPoko
+Oikea nimi: Seppo Pakonen
+Albumin nimi: Bändiin
+Albumin julkaisupäivä: Elokuu 21, 2025
+DistroKid UPC: 199326115786
+Kieli: Suomi ja Englanti
+
+Taustaa: Albumin kappaleet ovat sävelletty, kun artisti oli 16 vuotias.
+Suomessa koulussa on ollut lukion ensimmäisen lukuvuoden toinen puolisko kesälomaan asti.
+Teoriassa albumi käsittää ensimmäisen kolmanneksen (1/3) vuodesta 2006, mutta kappaleiden päivämäärän määrittäminen on ollut epätarkkaa.
+Vuosi on ollut 2006, koska hän on syntynyt 1989. Hän on asunut ikänsä Oulussa, Suomessa, joka on EU:n kulttuuripääkaupunki vuonna 2026.
+Ironista on, että hän ei ole saanut minkäänlaista tukea ja positiivista vaikutusta kasvuympäristöltään Oulusta,
+ei ihmisiltä eikä yhteiskunnalta, vaan hän on omin voimin perustanut bändejä, ja joutunut toteamaan, että ihmisten vetäminen mukana on kuollutta painoa.
+Hänellä ei ole ollut "narsistista rohkeutta" olla esittävä artisti, vaikka on soittanut kitaraa ja laulanut. Vastakkaisen sukupuolen vaikutusta voi sanoa ainoastaan negatiiviseksi ilman poikkeuksia.
+Kappaleet on tehty alunperin Guitar Pro:lla ja Steinberg Cubase SX 3:lla.
+Kaikki kappaleet ovat säilyneet tuolta ajalta mp3:sina, jotka hän alkoi kirjoittamaan nuoteiksi vuonna 2020 lähtien korona-aikana.
+Pandemia sai hänet miettimään kuolemaa ja sitä mikä muisto planeetalle hänestä jää.
+Alkuperäisistä kappaleista oli jäänyt myös projektinimet, joihin sisältyi selvä ajatus ja muisto siitä, että mikä kappaleiden sisällön idea oli alunperin, ja näitä käytettiin sanoituksien tekemiseen.
+Kappaleiden syntymähetket olivat vielä artistin muistissa, ja ne kirjoitettiin ylös myös.
+Alkuvuodesta hän myös perusti vanhan luokkakaverinsa Antin (jonka kanssa ensimmäinen kappale sävellettiin vuonna 2001) ja hänen uusien luokkakavereidensa kanssa bändin "The Vice".
+Bändiin kuulutettiin laulajaa suomalaisen muusikoiden.net verkkosivuston kautta.
+Yhdessä he harjoittelivat ja opettelivat soittamaan yhtäaikaa samaa kappaletta, ja opettelivat eroon pahimmista peloistaan esiintymisen suhteen.
+Myös ensimmäinen esiintyminen tehtiin Oulun Kaupungissa Waldalla.
+
+Taustaa vuodelta 2022-2025:
+Opiskelin musiikintuottajaksi Tornion Lappiassa. Tämä on virallinen ammattini. Minulla on ollut krooninen kipu johtuen provosoimattomasta pahoinpitelystä Toukokuussa 2008.
+Yritin opiskella yliopistossa, mutta en jälkeenpäin ajateltuna pystynyt keskittymään kipuni takia, enkä ymmärtänyt omasta terveydestäni niin paljoa, että olisin hakenut lääkäristä apua.
+Minulla ei myöskään ollut läheisiä ihmisiä, joita olisi kiinnostanut terveyteni (äiti-puoleni, joka välitti, kuoli syöpään 2009).
+En saanut yliopisto-opintoja läpi, eikä Oulussa ole sopivia työpaikkoja minunlaisille: töihin tulee ulkomaalaisia niin paljon.
+Olen siis jäänyt tyhjän päälle täällä huolimatta älykkyydestäni ja akateemisesta uteliaisuudestani.
+Oulu on todellakin "paska kaupunni", kuten täällä sanotaan.
+
+Kaikki kappaleet on siis nuotinnettu TuxGuitar ohjelmalla ja mukana on midi-tiedostot, joista selviää käsintehty osuus säveltämisessä.
+Myös sanoitukset on tehty suomeksi täysin ilman tekoälyä. Kappaleet on tehty siis alunperin 100% ilman tekoälyä.
+Myös 1 englanninkielinen kappale on tehty ilman tekoälyä: tarkoitukseni oli todellakin esitellä englanninkielen taitojani ilman avustusta.
+Se englanninkielinen kappale on myös esitetty The Vicen toimesta keikalla Waldassa, Oulussa.
+Kieli ei niissä ole hyvää, mutta se on henkilökohtaista.
+
+Huomioi kappaleidein ISRC koodi ja artistin Teoston antama IPI koodi "1201855096"  
+
+Kappaleet on tuotettu musiikiksi käyttäen Suno tekoälyn cover toimintoa, eli artisti on tehnyt demon laulamalla midi-musiikin päälle ensiksi.
+Osa melodiasta ja sovituksesta on tehty demotusvaiheessa, eikä selviä mukana olevista midi-tiedostoista.
+Tekoäly ei ole merkittävästi vaikuttanut kappaleen sanoituksiin, sävellykseen tai sovitukseen, ja vastaavaa pidettäisiin ihmisten tuottamassa musiikissa muusikkojen lievänä varioimisena soittohetkellä.
+Kappaleet on masteroitu käyttäen iZotope Ozone 11 ohjelmaa.
+
+Kappaleita saa esittää vapaasti, kunhan huomioi lisenssoinnin, ISRC ja IPI tunnisteet. Teokset ovat rekisteröity. Archive.org on toistaiseksi ainoa paikka saada nämä lossless äänitiedostot. Kappaleita saa remixata.
+Kappaleita saa esittää myös ilman lisenssiä, jos se soitetaan lisenssoimattoman musiikin yhteydessä.
+
+Teosto Suomi hallinnoi oikeuksiani ensisijaisesti, mutta tämä materiaali on tarkoitettu arkistointikäyttöön.
+Kaupallinen yhteistyö ja merkittävä yhteisöllinen levittäminen asioidaan heidän kanssaan.
+
+Musiikki on julkaistu myös Englanniksi "Steve Chill - Sophomore" albumilla.
+
+
+Linkkejä suomenkieliseen OuluPoko artistiin:
+- email: poko.musiikki@outlook.com
+- https://linktr.ee/oulupoko
+- Spotify: https://open.spotify.com/artist/6OyhbzGtmrQ70gWwJHBUv7
+- TikTok: https://www.tiktok.com/@oulupoko
+- YouTube: https://www.youtube.com/@oulupoko
+- Instagram: https://www.instagram.com/oulupoko
+- Facebook: https://www.facebook.com/oulupoko
+- Suno: https://suno.com/@oulupoko
+- Blog: https://oulupoko.blogspot.com/
+
+Kappalelista:
+
+1
+Mä tiedä en
+ISRC QZZ782544124
+
+2
+Nolo polo
+ISRC QZZ782544125
+
+3
+Tuu jo sänkyyn
+ISRC QZZ782544126
+
+4
+Girlfriend from Canada
+ISRC QZZ782544127
+
+5
+Viestin sulle tuon
+ISRC QZZ782544128
+
+6
+Paska kaupunni
+ISRC QZZ782544129
+
+7
+Puumaja
+ISRC QZZ782544130
+
+8
+Hän
+ISRC QZZ782544131
+
+9
+Avaruuteen
+ISRC QZZ782544132
+
+10
+Syö paskaa
+ISRC QZZ782544133
+
+11
+Onko tää apua
+ISRC QZZ782544134
+```
+
+### AI (Readme)
+```
+TITLE: OuluPoko — Bändiin (Album)
+
+ARTIST: OuluPoko
+CIVIL NAME: Seppo Pakonen
+RELEASE DATE: August 21, 2025
+DISTROKID UPC: 199326115786
+COLLECTING SOCIETY: Teosto (Finland)
+IPI (Composer/Author): 1201855096
+LANGUAGE(S): Finnish & English
+
+ABOUT THIS RELEASE
+“Bändiin” collects songs I composed at age 16 (year 2006) in Oulu, Finland (European Capital of Culture 2026). 
+The material broadly spans the first third of 2006; exact song dates are approximate. The writing happened around 
+the latter half of my first study year in Finnish upper secondary school (“lukio”) up to the summer break. 
+Original MP3 demos from that period survived, and during the 2020 pandemic I began notating the pieces to preserve 
+their first-conceived form and to leave a clear record for the future. Early working titles retained strong ideas and 
+memories that guided the final Finnish lyrics.
+
+BAND CONTEXT (2006) — “THE VICE”
+In early 2006 I started a band, The Vice, with my former classmate Antti (with whom I wrote my first song in 2001) 
+and his new classmates. We searched for a singer via the Finnish musicians’ website Muusikoiden.net, rehearsed playing 
+together, and worked through early stage fright. Our first show took place at Walda in the City of Oulu. 
+One English-language song from this album’s era (“Girlfriend from Canada”) was later performed by The Vice at Walda.
+
+COMPOSITION & PRODUCTION HISTORY
+• 2006: Original writing and demos created in Guitar Pro and Steinberg Cubase SX 3
+• 2020 → : Transcription to score using TuxGuitar; MIDI exports included (documenting hand-written composition parts)
+• Lyrics: written in Finnish without AI; one track in English was also written without AI to demonstrate my own language ability (personal and imperfect by design)
+• Memory notes: I documented the moments of inspiration for each piece as I recalled them in 2020 →
+• Performance background: I have played guitar and sung, but historically focused on writing rather than fronting as a performing artist
+
+AI USAGE DISCLOSURE
+The 2025 productions were created using Suno’s “cover” workflow as a studio tool. I first recorded guide/demo vocals 
+against the MIDI arrangements. Some melodic or arranging detail was refined during demoing and may not appear in the 
+included MIDI files. AI did not materially alter the lyrics, core compositions, or arrangements; any differences are 
+comparable to the light variation a human band might introduce in performance. Masters were finalized with iZotope Ozone 11.
+
+FILES INCLUDED (where available)
+• Lossless album audio (FLAC)
+• MIDI files (hand-written composition parts)
+• TuxGuitar score files (.tg)
+• Lyrics: Finnish (plus one English-language song)
+
+RIGHTS, LICENSING & PERMISSIONS
+• Works are registered. Please credit “OuluPoko (Seppo Pakonen)” and reference the ISRC and IPI listed below.
+• Performance: You may perform these works. Please follow local performance-rights rules and, where possible, include ISRC/IPI in programs or metadata.
+• Remixes: You may create and share remixes.
+• Lossless availability: As of this release, Archive.org is the only official source for the lossless masters of this album.
+• Administration: Teosto (Finland) manages my rights for commercial licensing, synchronization, or significant public distribution. 
+  For commercial collaborations, please coordinate with Teosto and contact me directly (details below).
+• Note: In contexts where performance licensing is not required (license-free settings), permission is granted to perform these works without a separate license. 
+  This is not legal advice; please check local rules.
+
+PERSONAL NOTE (2022–2025)
+I formally studied music production at Lappia (Tornio), which is my profession. Since an unprovoked assault in May 2008, 
+I have lived with chronic pain that affected my capacity to study at university; at the time I did not understand my health well enough to seek help. 
+My stepmother—who cared about my wellbeing—passed away from cancer in 2009. Suitable work in Oulu has been scarce for me despite my curiosity and abilities; 
+this experience also informs track themes like “Paska kaupunni.” These notes are offered to contextualize the music, from my perspective.
+
+RELATED RELEASE
+An English-language companion album is released as “Steve Chill — To The Band.”
+
+TRACKLIST & ISRC CODES
+01 — Mä tiedä en — ISRC QZZ782544124
+02 — Nolo polo — ISRC QZZ782544125
+03 — Tuu jo sänkyyn — ISRC QZZ782544126
+04 — Girlfriend from Canada — ISRC QZZ782544127
+05 — Viestin sulle tuon — ISRC QZZ782544128
+06 — Paska kaupunni — ISRC QZZ782544129
+07 — Puumaja — ISRC QZZ782544130
+08 — Hän — ISRC QZZ782544131
+09 — Avaruuteen — ISRC QZZ782544132
+10 — Syö paskaa — ISRC QZZ782544133
+11 — Onko tää apua — ISRC QZZ782544134
+
+CREDITS (TOOLS & SOFTWARE)
+Composition & demos: 2006 (Guitar Pro; Steinberg Cubase SX 3)
+Notation & MIDI exports: TuxGuitar (2020 →)
+Production assistance: Suno (cover workflow; see disclosure above)
+Mastering: iZotope Ozone 11
+
+CONTACT & LINKS — OULUPOKO (Finnish originals)
+Email: poko.musiikki@outlook.com
+Link hub: https://linktr.ee/oulupoko
+Spotify: https://open.spotify.com/artist/6OyhbzGtmrQ70gWwJHBUv7
+TikTok: https://www.tiktok.com/@oulupoko
+YouTube: https://www.youtube.com/@oulupoko
+Instagram: https://www.instagram.com/oulupoko
+Facebook: https://www.facebook.com/oulupoko
+Suno: https://suno.com/@oulupoko
+Blog: https://oulupoko.blogspot.com/
+
+COPYRIGHT NOTICE
+© 2025 OuluPoko (Seppo Pakonen). All rights reserved. Rights administered by Teosto (Finland). 
+For commercial use, synchronization, or broad distribution, please coordinate with Teosto and the artist.
+
+```
+
+### Description (Readme)
+```
+**Short description (for the item page)**
+OuluPoko — *Bändiin* (2025) collects songs written in 2006 when the artist was 16 in Oulu, Finland. Includes lossless audio, Finnish lyrics (plus one English track), and MIDI/TuxGuitar files documenting the original compositions. Produced in 2025 using Suno’s “cover” workflow (no AI-written music/lyrics) and mastered with iZotope Ozone 11. Rights administered by Teosto; performances and remixes permitted as outlined in the included README (please reference ISRCs and IPI 1201855096).
+
+**Suggested tags (comma-separated)**
+OuluPoko, Seppo Pakonen, Bändiin, Finland, Oulu, Finnish, English, 2006, 2025, original music, lossless audio, MIDI, TuxGuitar, Guitar Pro, Cubase SX3, Suno cover workflow, iZotope Ozone 11, Teosto, ISRC, IPI 1201855096, The Vice, Walda, archive.org exclusive, songwriter, compositions
+

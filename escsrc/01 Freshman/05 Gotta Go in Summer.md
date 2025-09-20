@@ -5,16 +5,22 @@
 - Style: Finnish pop-rock; upbeat summer vibe
 - Languages: FI + EN (published)
 
-## Background/Notes
-```
-Date: 16.7.2025
+## Background
 Sävellys/projectname: 2002/sunshine beat
 Background: The summer of happiness. My family got 256kpbs broadband to our house and I downloaded all the fun stuff from KaZaA. Including a lot of bl_nde b_g t_t p_rn, games and music.
 14.7.2022: Modernized from original version. This is still like 75% original.
-```
+
 
 ## Structure
-- Intro → Verse 1 → Pre-chorus → Chorus → Verse 2 → Pre-chorus → Chorus → Bridge → Chorus
+- Intro
+- Verse 1
+- Pre-chorus
+- Chorus
+- Verse 2
+- Pre-chorus
+- Chorus
+- Bridge
+- Chorus
 
 ## Lyrics (FI)
 ```
@@ -97,11 +103,10 @@ Uimaan nyt biitsille
 Soimaan Sunshine Reggae
 ```
 
-## Separator — English Adaptation
-```
+## Lyrics (EN)
 Title: Summer’s a Must
 Date: 21.8.2025
-
+```
 [Intro]
 Aa-a-a-a …
 
@@ -138,10 +143,9 @@ Hold me a norm
 [Chorus]
 Summer’s a must … (repeat)
 ```
-
-## Author (>>>>)
+## AI Social Media discussion
+### Author
 ```
->>>>
 Julkaisen vanhoja kappaleitani yksi päivässä.
 Nyt on päivä 7.
 On menossa vuoden 2002 sävellykset, jolloin olin 12 vuotias.
@@ -161,9 +165,8 @@ Lyrics:
 ...
 ```
 
-## AI (<<<<)
+### AI Reply
 ```
-<<<<
 Julkaisen vanhoja kappaleitani päivittäin – tänään päivä 7!
 ☀ “Sunshine Beat” (2002) – sävelsin tän 12-vuotiaana käsin, tänään sanoitin ja remixasin demon Suno-tekoälyllä.
 ✏ Tänään kirjoitin sanoitukset Oulun Nallikarissa rannalla ilman riimihakua – extra “luomu” vibes!

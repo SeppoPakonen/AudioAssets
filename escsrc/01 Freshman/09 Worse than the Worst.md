@@ -101,9 +101,8 @@ Kulissiko suojaks riittää vois
 ```
 
 ## Separator — English Adaptation
-```
 Title: Worse than the Worst
-
+```
 [Intro]
 Though nothin’s ever worthless, bruh
 This still feels like worse than worst, bruh
@@ -177,21 +176,3 @@ You ain’t earn your dad’s lil’ bankroll
 How could lies make weak look man-mode?
 Think that fake front gon’ protect though?
 ```
-
-## Separator — Style & Inspiration
-```
-Tyyli: A melancholic pop rock ballad in a minor key, featuring a female vocalist with a clear, slightly nasal timbre, ...
-
-Inspiraatioteksti:
-
-[Intro]
-Vaik mikään ei oo turhaa
-Kaikki on huijausta
-Kaikki on tappelua
-Kaikki on pahemmin kuin pahin pelko
-
-[Verse 1]
-Ei oikeesti kukaan sitä huomaa
-...
-```
-

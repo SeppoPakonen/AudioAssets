@@ -1,0 +1,375 @@
+# Tentacles (Lonkerot)
+
+## Meta
+- Album: 02 Sophomore
+
+## Background/Notes (verbatim)
+
+Composed 21.12.2005
+
+
+## Style 1
+A horror-themed rock song with a driving tempo of 120 beats per minute in a minor key,
+The instrumentation includes a distorted electric guitar playing a prominent riff,
+a bass guitar providing a strong rhythmic foundation, and a drum kit with a consistent rock beat,
+The vocals are a male baritone, delivered in a spoken-word style during the verses,
+transitioning to a more melodic, almost chanted delivery in the chorus-like sections,
+The song features a recurring guitar riff that acts as a melodic motif,
+Production elements include reverb on the vocals and a slightly distorted,
+raw sound for the instruments, enhancing the horror atmosphere,
+The song structure is verse-chorus based, with instrumental breaks featuring the main guitar riff,
+The overall mood is dark and suspenseful
+
+
+## Lyrics (FI)
+Title: Lonkerot
+
+```
+[Intro]
+
+[Verse 1]
+Kummia kummitusjunassa tapahtuu
+Kuka on kahlittu puuhun
+Kuunvalos kirkuu kun kaamea nauru
+kaikuu ku tungetaan kurkkuu
+Kulkee taas juna ja hirviöt jonottaa
+hyökkämään eestä ja takkaa
+Köysissä roikkuva sidottu nukke
+ei pysty sanomaan sanaakaan
+
+[Chorus]
+Aa, Lonkerot levittäytyy
+Köydet kiristyy
+Muumiot herää ja piristyy
+Outo haju mut saa väsyyn
+
+[Verse 2]
+Katkeaa rata mun vaunulta alta
+ja käveleen pakko on nousta
+Seinässä reikä pois pääsenkö sieltä
+Tää limainen käytävä joustaa
+Huoneeseen vie mustaan ja nahkaiseen
+keskel on kalterityrmä
+Joku nyt tulee meen pesuhuoneeseen
+Ja piiloudun pesukoneeseen
+
+[Pre-chorus]
+Hei, oon jumissa pesukoneessa
+Step-Bro auta
+
+[Chorus]
+Aa, Lonkerot levittäytyy
+Köydet kiristyy
+Muumiot herää ja piristyy
+Outo haju mut saa väsyyn
+
+[Verse 2]
+Herään mä vaunusta, paikat on arkana
+Taskus on käteistä tonni
+Valoa näkyy jo, ohitää kai nyt on
+Muisti vain tyhjä mun onkin
+Lipuntarkastajal ilme on vakava
+Silti hän iskee silmää
+Laitteeseen menijät on outoo väkeä
+Kukaan ei välitä mistään
+
+[Chorus]
+Aa, Lonkerot levittäytyy
+Köydet kiristyy 
+Muumiot herää ja piristyy
+Outo haju mut saa väsyyn
+
+[Outro]
+Mut nauru kaikuu
+Joku kirkuu
+Kahleisiin joutuu
+Ja valo puuttuu
+```
+
+
+## Lyrics (EN)
+
+Title: Tentacles
+
+```
+[Intro]
+
+[Verse 1]
+Weird things happen on the ghost train
+Who’s the one chained to the old tree
+Moonlight shrieks with a ghastly laugh
+Echoes as it’s shoved down the throat, see
+Train trundles on; all the fiends queue
+Leaping to strike from the front—back
+Bound-up doll dangles in rough ropes
+Can’t say a single, simple word back
+
+[Chorus]
+Tentacles tangle, spread wide
+Ropes tighten, bite tight
+Mummies awaken, quicken
+Weird whiff wears me out, midnight
+
+[Verse 2]
+Track cracks under my rattle car
+Gotta get up and go walking
+Hole in the wall—can I bolt out?
+This slimy hallway keeps stalking
+Leads to a room, black and leathery
+Center: a cell made of bars
+Someone steps into this washroom
+I hide inside the washer’s dark
+
+[Pre-chorus]
+Hey, I'm stuck in the washing machine
+Help me Step-Bro
+
+[Chorus]
+Tentacles tangle, spread wide
+Ropes tighten, bite tight
+Mummies awaken, quicken
+Weird whiff wears me out, midnight
+
+[Verse 2]
+I wake in the car; every place’s sore
+There’s a grand in cash in my pocket
+I see some light; guess the ride’s gone
+But my memory’s blank as a locket
+Ticket checker’s face is grave-stone
+Still he flashes a wink—strange sign
+Folks filing in are a freaky crowd
+No one cares about anything
+
+[Chorus]
+Tentacles tangle, spread wide
+Ropes tighten, bite tight
+Mummies awaken, quicken
+Weird whiff wears me out, midnight
+
+[Outro]
+But laughter echoes
+Someone screams
+Thrown into shackles
+And the light leaves
+```
+
+
+## AI Music Video discussion
+### AI
+```
+People:
+• women have long straight platinum blonde hair and heavy makeup
+• The man has long hair and a rocker's beard.
+• ethnicity: Finnish
+
+Theme: Haunted Ghost-Train Nightmare
+Color:
+• Deep, desaturated shadows with sickly green and purple highlights
+• Occasional bursts of neon red and blue to punctuate psychedelic moments
+• Subtle film-grain texture and chromatic aberration around edges
+
+Camera:
+• RED Epic or Arri Alexa Mini handheld for gritty realism
+• Occasional 8 mm fisheye lens for warped, dreamlike sequences
+• Slow push-ins and dollies on the protagonist, intercut with jittery handheld in panic scenes
+
+Film Stock / Digital Treatment:
+• Simulate high-ISO 16 mm grain, uneven gate weave
+• Sporadic VHS-style glitch overlays and line-tearing during transitions through “the hole”
+• Mild reverb-style bloom on bright points (train lights, tunnel openings)
+
+Lighting:
+• Low-key, directional backlighting to create silhouettes of riders and monsters
+• Flickering strobe effect synchronized to the 120 BPM riff
+• Colored gels (deep purple, acid green) in tunnel and “hole” passages
+
+Visual Effects & Art Direction:
+• Practical smoke and dry ice for murky tunnel atmosphere
+• Projection-mapped swirling patterns on walls when the train goes psychedelic
+• Puppetry or stop-motion for hanging doll/rope sequences
+• Go-through-the-hole: a warped mirror or fabric tunnel with kaleidoscopic reflections
+
+Editing & Pacing:
+• Cuts timed to drum hits and guitar riff motif—hard cuts on chorus chants
+• Slow-motion dream lurches when protagonist falls asleep
+• Quick jump cuts and zooms during frightening encounters (mummies, tentacles)
+
+Locations & Set Dress:
+• Abandoned carnival at night: rusted tracks, broken ticket booth, flickering signs
+• Narrow, slime-coated corridor behind a trapdoor—“the hole”
+• Final platform: sterile, empty, washed-out light contrasted with the dark ride interior
+
+Vibe:
+Dark, suspenseful, disorienting—balances driving rock-tempo energy with sudden, unsettling pauses. The viewer should feel each jolt of the ride, the creeping dread of memory loss, and the claustrophobic pull of the ghost train’s nightmares.
+```
+
+
+### Author
+```
+In the beginning, a man gets on a ghost train at an amusement park. A psychedelic series of events begins. At some point, the man's train gets stuck and he escapes through a hole in the wall. After the series of events, he gets stuck in a washing machine and falls asleep. At the end, the man wakes up from the train and has a lot of cash in his back pocket. He arrives at the ghost train station and gets off.
+```
+
+
+### AI
+```
+Seuraavassa ehdotus musiikkivideon slideshow’n kohtauksiksi, jokaiselle slide-kuvalle kolme erilaista AI-generaattoritekstiä. Voit valita mieleisesi tai sekoitella elementtejä kuvageneraattorin kautta.
+
+    Slide 1 (kesto 4 s)
+    Lyriikka: [Intro – instrumentaalinen riff, ei tekstiä]
+    Visuaalinen käsikirjoitus:
+    • Abandonneitu huvipuiston portti aukeaa hitaasti, sumu nousee raiteille.
+    • Kamera: RED Epic, hidas push-in kohti kyytiin kutsuvaa junan nokkaa.
+    • Valaistus: himmeä, sivuvalo violettiin ja vihreään taitettu.
+    • VFX: kevyttä filmirakeisuutta, VHS-tärinä reunoissa.
+    Prompt pää: ghost train entrance at abandoned carnival, deep desaturated shadows, sickly green & purple highlights, 16 mm grain, eerie mist
+    Alt 1: derelict amusement park gate, neon red flicker, chromatic aberration, heavy film grain
+    Alt 2: haunted railway portal, acid green & violet gels, VHS glitch overlays, low-key backlight
+
+    Slide 2 (kesto 5 s)
+    Lyriikka: “Kummia kummitusjunassa tapahtuu”
+    Visuaalinen käsikirjoitus:
+    • Junan sisätila, penkkirivien välistä kurkistavat mustan hupparipäiset hahmot.
+    • Kamera: Arri Alexa Mini, leveä kulma, hidas panorointi oikealle.
+    • Valaistus: strobovalo synkassa 120 BPM, varjot liikkuvat seinillä.
+    • VFX: tunnelin seinä illuusio, kevyet savuefektit.
+    Prompt pää: inside ghost train carriage, hooded silhouettes, flickering strobe at 120 BPM, smoky atmosphere, film grain
+    Alt 1: distorted electric guitar riff motif projected on walls, deep purple-green gels, glitch lines
+    Alt 2: claustrophobic train interior, jittery handheld, acid-green backlight, chromatic aberration edges
+
+    Slide 3 (kesto 4 s)
+    Lyriikka: “Kuka on kahlittu puuhun”
+    Visuaalinen käsikirjoitus:
+    • Puiseva seinä, köysillä roikkuva nukke, hiukan stop-motion.
+    • Kamera: 8 mm fisheye, lievä kalansilmä vääristymä.
+    • Valaistus: suunta-valo alhaalta, luo pitkät varjot.
+    • VFX: hitunen rakeisuutta, paperimainen textuuri nuken pinnassa.
+    Prompt pää: hanging doll puppet on wooden wall, low-angle spotlight, fisheye distortion, stop-motion style
+    Alt 1: wooden plank backdrop, acid green rim light, subtle VHS lines, unsettling mood
+    Alt 2: creepy marionette tied with ropes, deep purple shadows, high ISO grain
+
+    Slide 4 (kesto 6 s)
+    Lyriikka: “Kuunvalo kirkuu kun kaamea nauru kaikuu ku tungetaan kurkkuu”
+    Visuaalinen käsikirjoitus:
+    • Kuuradalla ikkuna, kuunvalo vyöryy sisään ja valaa karmivan hahmon kasvoja.
+    • Kamera: handheld RED Epic, hidas zoom-in kasvoihin.
+    • Valaistus: kova sinivalkoinen kuunvalo + violetti täyttövalo.
+    • VFX: himmeä reverb-glow kasvojen reunoilla, satunnainen glitch.
+    Prompt pää: moonlit face in train window, eerie laughter echo, reverb glow, glitch overlay
+    Alt 1: pale baritone singer silhouette, green-purple backlight, film grain, dreamlike
+    Alt 2: distorted visage at window, neon red accent light, chromatic aberration, VHS tear lines
+
+    Slide 5 (kesto 5 s)
+    Lyriikka: “Kulkee taas juna ja hirviöt jonottaa hyökkäämään eestä ja takkaa”
+    Visuaalinen käsikirjoitus:
+    • Penkkien välissä rivi hauskoja mutta pelottavia muumiopukuja ja lonkeroita.
+    • Kamera: dolly vasemmalle, sulautuu riffiin.
+    • Valaistus: acid green stroboflash, taustalla violetti savusilmä.
+    • VFX: pieni stop-motion elokuvaus tyyli.
+    Prompt pää: row of mummies and tentacles inside ghost train, acid green strobe, purple haze, stop-motion vibe
+    Alt 1: monsters lining aisle, neon red backlight, jittery handheld, high grain
+    Alt 2: psychedelic creature parade, sickly green-purple contrast, film gate weave
+
+    Slide 6 (kesto 4 s)
+    Lyriikka: [Chorus] “Aa, Lonkerot levittäytyy…”
+    Visuaalinen käsikirjoitus:
+    • Nahkainen käytävä venyy kuin elävä lonkero, seinät liikkuvat.
+    • Kamera: fisheye, warp ja kaleidoskooppi-reflektiot.
+    • Valaistus: sykkivä violetin ja punaisen vuorottelu.
+    • VFX: kaleidoskooppi-projektioseinille, savuefektit.
+    Prompt pää: fleshy corridor stretching like tentacle, kaleidoscope reflections, pulsating purple-red light, film grain
+    Alt 1: slimy passageway with moving walls, neon accents, VHS glitch, high ISO texture
+    Alt 2: surreal tunnel of arms and ropes, acid-green glow, chromatic aberration, eerie mood
+
+    Slide 7 (kesto 5 s)
+    Lyriikka: Verse 2 “Katkeaa rata mun vaunulta alta ja käveleen pakko on nousta”
+    Visuaalinen käsikirjoitus:
+    • Raide katkeaa auki, mies horjahtaa pois vaunusta.
+    • Kamera: handheld Arri, nopeat liikkuvat leikkaukset.
+    • Valaistus: takavalo, siluetti korostuu.
+    • VFX: rail split effect, hitusen savusumu ja rungon fragmentit.
+    Prompt pää: broken railway under carriage, silhouette falling off train, backlit, smoky atmosphere, heavy grain
+    Alt 1: man stepping onto broken track, neon red edge light, jittery cuts, VHS tear
+    Alt 2: derailed ghost train scene, acid-green backlight, film gate weave, glitch flicker
+
+    Slide 8 (kesto 4 s)
+    Lyriikka: [Pre-chorus] “Hei, oon jumissa pesukoneessa Step-Bro auta”
+    Visuaalinen käsikirjoitus:
+    • Pesukoneen rumpu sisältä, mies kurkistaa oviaukosta.
+    • Kamera: makrokuva rummun sisäpuolelta, pyörivä efekti.
+    • Valaistus: kylmä valkoinen + vihertävä fill light.
+    • VFX: rummun lasin kautta filmikelojen rakeisuus, kevyet pyörre-savadustomat.
+    Prompt pää: inside washing machine drum, man’s face at door, cold white & green fill light, 16 mm grain
+    Alt 1: claustrophobic laundry nightmare, neon purple accent, VHS lines, circular blur
+    Alt 2: surreal washing machine interior, chromatic aberration, smoky haze, eerie mood
+
+    Slide 9 (kesto 5 s)
+    Lyriikka: Verse 3 “Herään mä vaunusta, paikat on arkana, taskus on käteistä tonni”
+    Visuaalinen käsikirjoitus:
+    • Mies seisoo junassa, taskusta pilkistää kasa seteleitä.
+    • Kamera: dolly-in taskuun, hitaita zoom-leikkauksia kasvoihin.
+    • Valaistus: kirkas aseman valo ulkopuolelta, sisällä kylmä sininen sävy.
+    • VFX: shimmer-glow seteleille, hiukkanen filmirakeisuutta.
+    Prompt pää: man wakes on train, thousand-euro bills in pocket, cold station light, cinematic grain
+    Alt 1: close-up of cash bulge, neon blue backlight, slight VHS glitch
+    Alt 2: baritone rocker checking pocket, desaturated background, acid green rim light, film texture
+
+    Slide 10 (kesto 6 s)
+    Lyriikka: [Outro] “Mut nauru kaikuu, Joku kirkuu, Kahleisiin joutuu ja valo puuttuu”
+    Visuaalinen käsikirjoitus:
+    • Kamera vetäytyy nopeasti pimeään tunnelioon, kaikuu nauru ja kirkaisu.
+    • Valaistus: takavalon salama, 1–2 ruumispistettä violettia ja punaista.
+    • VFX: filmi repeilee, glitch-rajapinnat, filmikelojen hutera gate-weave.
+    Prompt pää:	 zoom-out into dark tunnel, echoing laughter and scream, strobe backlight, heavy film grain
+    Alt 1: disappearing into pitch black, neon red-purple flashes, VHS tear overlays
+    Alt 2: haunted echo tunnel, flickering lights, chromatic aberration, smoky film effect
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Voit muokata kestoja, yhdistellä vaihtoehtoja ja säätää värejä tai efektejä editorissa tarpeen mukaan.
+
+```
+
+### Author
+```
+monsters around Pinocchio tied to a tree, sickly green & purple highlights, 16 mm grain, eerie mist
+The cucumber goes into the ear of the smiling Pinocchio doll
+The ghost train track is broken and the carriage cannot move past it, deep desaturated shadows, sickly green and purple highlights, 16mm grain, ghostly haze
+close-up of a man's face wondering what to do, in the background a large hole in the wall of a train tunnel where a man is going, film noir
+a room decorated with black leather with a cubical barred cage for a person to enter, film noir
+close-up of a man's face hearing someone's coming, in the background a door to laundry room, film noir
+a man climbs into the washing machine in the laundry room, film noir
+close-up of a man's face talking to cell phone inside a washing machine, film noir
+psychedelic parade of tentacle creatures, morbid green-purple contrast, film gate weaving
+verkkoja heittelevien olentojen paraati, sairaalloinen vihreän-violetti kontrasti, filmiportin kudonta
+
+a parade of mummy creatures, a morbid green-purple contrast, the weaving of a film gate
+
+The ticket inspector at the gate of the ghost train winks at the camera
+```
+## AI Social Media discussion
+### Author
+```
+Julkaisen vanhoja kappaleitani yhden päivässä.
+Nyt on 27 kappale.
+On menossa vuoden 2005 sävellys, jolloin olin 15 vuotias.
+Sanoitukset minä tein tänään.
+Kappaleet ovat täysin käsin itse sävellettyjä ja sanoitettuja, mutta niistä on tehty cover Suno musiikki-tekoälyllä.
+Video on generoitu Sora AI:lla.
+Editoin videon itse käsin.
+```
+
+### AI
+#### TikTok
+```
+#27 - Kuuntele hurja kummitusjunamatka 🎸👻
+Mun vuoden 2005 120 bpm horror-rock-sävellys (olin 15 v!), sanoitukset tehty tänään.
+Cover #SunoAI, video #SoraAI, editointi mun käsialaa.
+#horrorrock #AIcover #DIY #uusi #rockfi
+```
+
+#### Instagram:
+```
+27 - Julkaisen vanhoja biisejäni yhden päivässä – nyt vuorossa 27. 🎸👻 Tämä 120 BPM horror-rock-sävellys on peräisin vuodelta 2005, kun olin 15-vuotias. Sanat kirjoitettu tänään.
+Cover Suno AI:lla • Video Sora AI:lla • Editointi mun käsialaa ✂️
+Kuuntele nyt – linkki biossa! ⬆️
+#horrorrock #DIY #AIcover #SoraAI #SunoAI #rockfi #uusi
+```

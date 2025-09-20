@@ -4,13 +4,16 @@
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
 
-## Background/Notes (verbatim)
+## Background
 This is actually one of my all-time favourite songs to play with fingers and acoutic guitar. I have playing this often all the time after composing this.
 
 My girlfriend at the time liked this a lot.
 
 * Refurbished: 23.9.2022
 * Lyrics: 23.9.2022
+
+## Style
+A melancholic pop song with male & female lead vocalist duo, The song is in a minor key and features a moderate tempo, The instrumentation includes acoustic guitar, bass guitar, drums, and a keyboard playing sustained pads, The acoustic guitar plays arpeggiated chords throughout the song, providing a gentle rhythmic foundation, The bass guitar provides a walking bass line that outlines the chord progression, The drums play a simple, steady beat with a focus on the kick and snare, occasionally adding light cymbal work, The keyboard pads create a spacious and slightly somber atmosphere, The vocalist sings with a clear tone, delivering the melody in a relatively narrow vocal range, The song structure follows a typical verse-chorus format with an instrumental bridge, The production is clean, with a balanced mix that allows each instrument to be heard clearly, There are no prominent effects on the vocals, maintaining a natural and intimate feel, The overall mood is reflective and wistful
 
 ## Lyrics (FI)
 Title: Aamuisin
@@ -64,9 +67,12 @@ Sua mä mietin,
 sykettä kiel sin mä nopeutumaan.
 Märkiä mietin,
 päähäni jää kin vain lempesi sun.
+```
 
+## Lyrics (EN)
 Title: Mornings
 
+```
 [Verse 1, female singing]
 If you don’t do nothin’ when I come near, yeah,
 if you don’t notice when I’m crushin’, real,

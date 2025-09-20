@@ -4,16 +4,7 @@
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
 
-## Notes: Long project, chord experiments, first-kiss story
-- Years-long iterative composition; chorus uses unusual chord route (anti–4-chord stance in 2005).
-- Band liked intro but wanted other changes; disagreements contributed to first band breakup.
-- Narrative centers on mutual desire and finally initiating the first kiss.
-
-## Background/Notes (verbatim)
-```
-Sävellys: 2005/cute story - b
-
-Background: """
+## Background
 This song was my longest running project, which took years and years to make, and still didn't sound as what I felt in my mind.
 
 This version was already a 3rd or 4th iteration, but the earlier has gone lost. The intro is new to this version, but the chorus is same from the first one. The verse is from the 2nd version.
@@ -21,10 +12,15 @@ This version was already a 3rd or 4th iteration, but the earlier has gone lost. 
 The chord progression in the chorus is a weird one. At the summer 2005 I was already fed up with the typical 4 chord repeat. I didn't have any teacher or books, so I just started to test different kind of chord progressions. I tried to make a story with chords, instead of "influencing cliche feels with 4 chords". It was very difficult in the beginning, and the struggle was real, which can be heard from the fact that the chorus starts with G and goes a very unusual route from there. The chorus sucks, but it's a good reminder of what I had to go through.
 
 We tried to play this with our band. Other band members liked the intro, but they wanted to change other parts of the song. Their musical skills were terrible and I disagreed with the new changes, even though I agreed that the song needed changes. That kinda broke the first band I was in, because I left the band and they could not stay afloat.
-"""
 
+Sävellys: 2005/cute story - b
 
-Style:
+### Notes: Long project, chord experiments, first-kiss story
+- Years-long iterative composition; chorus uses unusual chord route (anti–4-chord stance in 2005).
+- Band liked intro but wanted other changes; disagreements contributed to first band breakup.
+- Narrative centers on mutual desire and finally initiating the first kiss.
+
+## Style 1
 A Finnish pop song with male & female vocalists.
 The song is in a major key and features a moderate tempo.
 Instrumentation includes acoustic drums, electric bass, electric guitar, and piano.
@@ -37,16 +33,15 @@ The vocalists sings in a clear, melodic style with some spoken word elements.
 The song structure follows a typical verse-chorus form with an instrumental bridge.
 Production is clean with a balanced mix, emphasizing the vocals and lead guitar.
 
-Style:
+## Style 2
 A Finnish edm-pop song with male & female vocalists.
 The song is in a major key and features a moderate tempo.
 The vocalists sings in a clear, melodic style with some spoken word elements.
-```
+
 
 ## Lyrics (FI)
-```
 Title: Tahdon sut
-
+```
 [Instrumental]
 
 [Verse 1, male singing]
@@ -141,9 +136,8 @@ Oi niinpä ois
 ```
 
 ## Lyrics (EN)
-```
 Title: I want you
-
+```
 [Instrumental]
 
 [Verse 1, male singing]
@@ -214,13 +208,16 @@ Till we forget the lines we say
 Oh—yeah, that way
 ```
 
-## Discussion
+
+## Music Video discussion
+### Author
 ```
->>>>
 Video idea:
 A young man and a young woman are dating and don't get to have their first kiss. In between, we see them both separately in bed, thinking. Towards the end, a kiss occurs. At the end, the couple lies in bed together.
+```
 
-<<<<
+### AI reply
+```
 Theme: Nordic EDM-Pop Romance
 Color Palette:
 • Soft pastel blues and pinks (early scenes)

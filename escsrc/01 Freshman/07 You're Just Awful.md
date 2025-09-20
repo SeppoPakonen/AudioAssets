@@ -1,23 +1,32 @@
 # You’re Just Awful (Sä oot kamala)
 
-## Background
-I made the original song around 2003. I edited and ruined the original version around 2004 and lost the original song, but I converted it back to something similar to the original from memory.
-
-When I started to refurbish my old song, I noticed, that the chord progression is wrong. It ended to major chords in many spots, but it did not sound right. I corrected this to have minor chord endings, and then Deja Vu hit me. The original song was exactly like this composition now (apart from added C and instrumental lead), but I fed up with the sadness of it and made "happier" version around 2004, which survived. This original is much better.
-
-Refurbished 30.7.2022.
-
-
 ## Meta
 - Year: 2003 (composition window); packaged 2025-07-18
 - Style: Finnish rock; female lead; minor‑key melancholic mood
 - Languages: FI + EN (published)
 
+## Background
+I made the original song around 2003. I edited and ruined the original version around 2004 and lost the original song, but I converted it back to something similar to the original from memory.
+
+When I started to refurbish my old song, I noticed, that the chord progression is wrong. It ended to major chords in many spots, but it did not sound right. I corrected this to have minor chord endings, and then Deja Vu hit me. The original song was exactly like this composition now (apart from added C and instrumental lead), but I fed up with the sadness of it and made "happier" version around 2004, which survived. This original is much better.
+
+- Refurbished 30.7.2022.
+
 ## Inspiration
 - Boundary-setting after repeated hurt; acknowledging incompatibility and choosing distance.
 
 ## Structure
-- Intro → Chorus → Verse 1 → Pre-chorus → Chorus → Instrumental → Verse 2 → Pre-chorus → Chorus → Bridge → Chorus (x2)
+- Intro
+- Chorus
+- Verse 1
+- Pre-chorus
+- Chorus
+- Instrumental
+- Verse 2
+- Pre-chorus
+- Chorus
+- Bridge
+- Chorus (x2)
 
 ## Syllable Notes
 - Pending; preserve phrasing for the rock meter.

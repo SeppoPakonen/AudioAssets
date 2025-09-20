@@ -1,5 +1,10 @@
 # Girl I Never Touched (Girl I never had)
 
+## Meta
+- Year: 2004 (est.); packaged 2025
+- Style: Melancholic pop rock; E major; ~90 BPM
+- Languages: FI + EN (published). EN text included; add FI text from published source if missing.
+
 ## Background
 This song is actually just a technical exercise, and the exercise is in the "Gtr Cl" channel :)
 
@@ -9,11 +14,6 @@ This is the very first thing what I learned to play with a guitar (by my own cho
 Refurbished from the simple exercise: 22.8.2022
 This was made to a differen composition in 2006, but I didn't want to reuse it here, so I added some appropriate themes based on the original themes.
 
-
-## Meta
-- Year: 2004 (est.); packaged 2025
-- Style: Melancholic pop rock; E major; ~90 BPM
-- Languages: FI + EN (published). EN text included; add FI text from published source if missing.
 
 ## Inspiration
 - Loss of time and innocence; unfairness felt watching “younger dudes”; desire for love from a relationship that never became.

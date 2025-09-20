@@ -82,8 +82,8 @@ kun tää painajaista on
 ```
 
 ## Separator — English Adaptation
-```
 Title: What’s Going On?
+```
 
 [Intro]
 Familiar faces
@@ -146,22 +146,22 @@ Why won’t y’all say it?
 I smell the fear,
 this nightmare’s playin’ on
 ```
+## AI Music Video discussion
 
-## Author (>>>>)
+### Author
 ```
->>>>
 Autat kirjoittamaan musiikkivideon screenplayn slideshow kuville. Autat myös luomaan tekstit kuva-generaattori-tekoälylle.
+```
 
->>>>
+```
 Kappaleen tyyli: A melancholic pop rock ballad in a minor key, featuring a female vocalist with a clear, slightly nasal timbre, The instrumentation includes a clean electric guitar playing arpeggiated chords, a bass guitar providing a walking bass line, and a drum kit with a simple, steady beat, The song structure is verse-chorus based, with a clear dynamic build-up in the chorus, The melody is predominantly stepwise with occasional larger leaps for emphasis, Production elements include a clean mix with clear separation of instruments, and a subtle reverb on the vocals
 
 Title: Painajainen
-....
+...
 ```
 
-## AI (<<<<)
+### AI: Sora preset
 ```
-<<<<
 Seuraavassa ehdotus “Painajainen”-kappaleen musiikkivideon slideshow-formaatista sekä kuhunkin kuvaan sopivat tekstit generatiiviselle kuva-AI:lle.
 
 Yleiset ohjeet
@@ -192,9 +192,10 @@ Yleiset ohjeet
     …
 ```
 
-## Author (>>>>)
+## AI Social Media discussion
+
+### Author
 ```
->>>>
 Julkaisen vanhoja kappaleitani yksi päivässä.
 Nyt on päivä 10.
 On menossa vuoden 2003 sävellykset, jolloin olin 13 vuotias.
@@ -209,21 +210,23 @@ Lyrics:
 ...
 ```
 
-## AI (<<<<)
+### AI
 ```
-<<<<
 Julkaisen 1 vanhan biisin päivässä!
 📅 Päivä 10: sävellys vuodelta 2003 (olin 13) – alunperin “Nightmares”, nyt “Mitä tapahtuu”
 🌙 Melankolinen pop-rock-balladi (mollissa) remixtetty Suno AI:lla
 ❤️‍🔥 Kuuntele, peukuta ja kerro fiiliksesi!
 
 #MitäTapahtuu #päivä10 #2003 #poprock #melankolia #SunoAI #indie #uusiMusiikki
+```
 
 
->>>>
+### Author
+```
 Sama postaus myös Instagramiin. Anna räätälöity teksti sinne
+```
 
-<<<<
+```
 Vanhoja sävellyksiäni 1 päivässä – päivä 10! 📆
 Tämä on vuodelta 2003, kun olin 13 v, alunperin nimellä “Nightmares”. Nyt “Mitä tapahtuu” – melankolinen pop-rock-balladi mollissa, remiksattu Suno AI:lla. 🎸🥁🌙
 

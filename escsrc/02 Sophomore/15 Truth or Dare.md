@@ -1,0 +1,175 @@
+# Truth or Dare (Totuus vai tehtävä)
+
+## Meta
+- Album: 02 Sophomore
+
+## Background
+Original idea, chords, bass and melody was used.
+Complete rework was done in 26.2.2021 based on the original idea. Vocal melody was also added later.
+
+- Composed: 11.9.2005
+- Rework: 26.2.2021
+
+
+
+## Lyrics (FI)
+Title: Totuus vai tehtävä
+```
+[Verse 1, male]
+Sä oot upea
+Parempi mua
+Me voitais leikkii
+Totuuksii, tehtävii
+
+[Verse 1, female]
+Mut ei totuutta
+Tanssi nolona
+Ala suudella
+Kuka uskaltaa
+
+[Chorus, anyone]
+Kielellä
+Mm, Kieltä sun saan mä mieliä
+Mm, Suuta sun saan mä suudella
+Mm, Kuumennun, käydään kuumana
+Vaik samaa kieltä ei oo
+
+[Post-Chorus, both]
+Totuus vai tehtävä on tää
+Totuus vai tehtävä on tää
+Totuus vai tehtävä on tää
+Totuus vai tehtävä on tää
+
+[Verse 3, male]
+Sä oot ihana
+Tunnustelet mua
+Me hidastetaan
+Tehtävää lumpata
+
+[Verse 4, female]
+Mut ei totuutta
+Pussaa uudestaan
+Kaikki haluaa
+Kuka vuorossa
+
+[Chorus, anyone]
+Kielellä
+Mm, Kieltä sun saan mä mieliä
+Mm, Suuta sun saan mä suudella
+Mm, Kuumennun, käydään kuumana
+Vaik samaa kieltä ei oo
+
+[Bridge, male]
+On meil kolme minuuttii
+Ollaan sinut siis
+Kosken sua tiedätkin
+Käteen, kasvoihin
+
+[Bridge, female]
+Sun tuoksu yllättää
+Uusi ystävä
+Meil tääl ei ryypätä
+Helppoo on kylläpä
+
+[Bridge, both]
+Sun maku on vain niin hyvä maku
+Joo, Sun maku on vain niin hyvä maku
+Sun maku on vain niin hyvä maku
+Joo, Sun maku on vain niin hyvä maku
+
+[Chorus, anyone]
+Kielellä
+Mm, Kieltä sun saan mä mieliä
+Mm, Suuta sun saan mä suudella
+Mm, Kuumennun, käydään kuumana
+Vaik samaa kieltä ei oo
+
+[Outro, both]
+Vaik samaa kieltä ei oo
+Vaik samaa kieltä ei oo
+Vaik samaa kieltä ei oo
+Meil samaa kieltä ei oo
+```
+
+## Lyrics (EN)
+
+Title: Truth or Dare
+
+```
+[Verse 1, male]
+You are so lovely
+Quite better than me
+We could play-pretend
+Truths, dares to the end
+
+[Verse 1, female]
+But not bare truth, no
+Dance, don’t cringe so low
+Start, sweetheart, to kiss
+Who dares risk this?
+
+[Chorus, anyone]
+With tongue now
+Mm, Your tongue I long to tantalize
+Mm, Your mouth I’m bound to socialize
+Mm, I heat, we’re heating, blazing bright
+Though we don’t share the same tongue tonight
+
+[Post-Chorus, both]
+Truth or dare—this is it
+Truth or dare—this is it
+Truth or dare—this is it
+Truth or dare—this is it
+
+[Verse 3, male]
+You are so divine
+You trace along mine
+We slow, take our care
+Skip, flip the dare
+
+[Verse 4, female]
+But not plain truth, dear
+Kiss, kiss back right here
+All want in this play
+Whose turn today?
+
+[Chorus, anyone]
+With tongue now
+Mm, Your tongue I long to tantalize
+Mm, Your mouth I’m bound to socialize
+Mm, I heat, we’re heating, blazing bright
+Though we don’t share the same tongue tonight
+
+[Bridge, male]
+We’ve got three minutes
+Settle, be in it
+Touch you—yes, you know
+Hand, face, soft and slow
+
+[Bridge, female]
+Your scent springs surprise
+New friend, new sunrise
+No drinks here, we’re clear
+Easy, oh my dear
+
+[Bridge, both]
+Your taste just tastes so good, so good
+Yeah, your taste just tastes so good, so good
+Your taste just tastes so good, so good
+Yeah, your taste just tastes so good, so good
+
+[Chorus, anyone]
+With tongue now
+Mm, Your tongue I long to tantalize
+Mm, Your mouth I’m bound to socialize
+Mm, I heat, we’re heating, blazing bright
+Though we don’t share the same tongue tonight
+
+[Outro, both]
+Though we don’t share the same tongue tonight
+Though we don’t share the same tongue tonight
+Though we don’t share the same tongue tonight
+No, we don’t share the same tongue tonight
+```
+
+

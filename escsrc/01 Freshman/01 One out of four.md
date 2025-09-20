@@ -1,5 +1,10 @@
 # One out of four (Yksi Neljästä)
 
+## Meta
+- Year: 2001–2002 (early period); packaged 2025
+- Genre: 90s triphop, ska (demo feel)
+- Languages: FI + EN (published)
+
 ## Background
 Around 2001, me and my friend Antti found the Fruity Loops app. We had been interested about making music, because we "played" eJay on PC and Music2000 on PS1. I think Antti had tested the Fruity once before and I had never even seen it. Antti have had some music theory lessons, so he showed how to make chords. I think we made bass and melody together. I took the song home with me (with good old 1.44Mb floppy) and kept learning how to make music. I used Fruit for maybe a year after that.
 
@@ -18,11 +23,6 @@ I feel kinda stupid now when this song is finished. It took way too long. I shou
 
 The silver lining is, that because I didn't make almost any lyrics compared to my compositions before, now I get to make the lyrics part in chronological order, like how I would have had made it if I was wiser from the beginning.
 
-
-## Meta
-- Year: 2001–2002 (early period); packaged 2025
-- Genre: 90s triphop, ska (demo feel)
-- Languages: FI + EN (published)
 
 ## Inspiration
 - Asserts agency and hope against low odds (“one out of four”). Rhythm and motion as coping; friendship/belonging as desired outcome.

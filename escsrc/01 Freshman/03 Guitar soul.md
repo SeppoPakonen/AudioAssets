@@ -1,5 +1,10 @@
 # Guitar soul (Kitarasielu)
 
+## Meta
+- Year: 2002 (orig. Reason 1.0 demo); packaged 2025
+- Genre: Hard rock / pop rock; male vocals
+- Languages: FI + EN (published)
+
 ## Background
 This song is about the power and emotion that comes from playing an electric guitar. It is about the feeling of being connected to the instrument and allowing it to speak through the music. It is about the soul of the electric guitar and the way it can move people through its sound.
 
@@ -15,16 +20,22 @@ I tried to modernize the original song. The name of this song was long "zippadup
 
 
 
-## Meta
-- Year: 2002 (orig. Reason 1.0 demo); packaged 2025
-- Genre: Hard rock / pop rock; male vocals
-- Languages: FI + EN (published)
-
 ## Inspiration
 - First curiosity toward guitar playing; from electronic demo to “radio rock” feel. Personifies the instrument’s age and voice.
 
 ## Structure
-- Intro → Verse 1 → Pre-chorus → Chorus → Instrumental → Verse 2 → Pre-chorus → Chorus → Instrumental → Bridge → Chorus → Outro
+- Intro
+- Verse 1
+- Pre-chorus
+- Chorus
+- Instrumental
+- Verse 2
+- Pre-chorus
+- Chorus
+- Instrumental
+- Bridge
+- Chorus
+- Outro
 
 ## Syllable Notes
 - Pending count; preserve current scansion and onomatopoeia (“Wou-woo-uu”, etc.).

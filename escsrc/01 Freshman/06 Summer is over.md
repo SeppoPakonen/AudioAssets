@@ -1,5 +1,10 @@
 # Summer is over (Kesä on ohi)
 
+## Meta
+- Year: 2002 (orig. Reason 2.0 strings test); packaged 2025
+- Style: Finnish hip‑hop feel; dramatic strings (tremolo ensemble)
+- Languages: FI + EN (published)
+
 ## Background
 This song is about the end of summer and the sadness of saying goodbye to the warmth and joy of summer days. It is a metaphor for the end of human life and the inevitability of death. The song speaks to the bittersweetness of saying goodbye to something that has brought us so much pleasure, while also being aware of the fact that it must come to an end. It is a reminder to cherish the moment and make the most of the time we have together.
 
@@ -14,17 +19,20 @@ I just wanted to test string instrument libraries of the Reason. I didn't think 
 - 7.12.2022
 - 17.7.2025
 
-
-## Meta
-- Year: 2002 (orig. Reason 2.0 strings test); packaged 2025
-- Style: Finnish hip‑hop feel; dramatic strings (tremolo ensemble)
-- Languages: FI + EN (published)
-
 ## Inspiration
 - End of summer as romance and mortality metaphor; brief connection, sudden absence, and seasonal cooling of emotion.
 
 ## Structure
-- Verse 1 → Pre-chorus → Chorus → Verse 2 → Pre-chorus → Chorus → Instrumental → Bridge → Chorus → Outro
+- Verse 1
+- Pre-chorus
+- Chorus
+- Verse 2
+- Pre-chorus
+- Chorus
+- Instrumental
+- Bridge
+- Chorus
+- Outro
 
 ## Syllable Notes
 - Pending; keep present cadence.

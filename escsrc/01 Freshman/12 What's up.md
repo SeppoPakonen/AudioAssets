@@ -25,9 +25,8 @@ There are no complex effects or heavy processing. The overall mood is reflective
 - Intro → Verse 1 → Pre-chorus → Chorus → Instrumental → Verse 2 → Pre-chorus → Chorus → Instrumental → Bridge → Instrumental → Chorus
 
 ## Lyrics (FI)
-```
 Title: Mikä on
-
+```
 [Intro]
 (Aa aa)
 (Wou-oo Jei-jee)
@@ -101,10 +100,9 @@ Ainakaan mä en vertaile sua
 Anna elämän ottaa sut mukaan
 ```
 
-## Separator — English Adaptation
-```
+## Lyrics (EN)
 Title: What’s Up?
-
+```
 [Intro]
 (Aa aa)
 (Wou-oo Yeah-yeah)
@@ -178,9 +176,10 @@ I won’t ev-er com-pare you nah
 Let life pull you deep, take you far
 ```
 
-## AI (<<<<)
+## AI Music Video discussion
+
+### AI: Sora preset
 ```
-<<<<
 Preset Name: “Finnish Melancholic R&B Music Video”
 
 Theme & Mood

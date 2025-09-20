@@ -1,5 +1,10 @@
 # Pizza and Candy (Pitsaa ja karkkia)
 
+## Meta
+- Year: 2002 (proj. “relaxed”); packaged 2025
+- Style: Pop‑punk; male vocal; upbeat major‑key
+- Languages: FI + EN (published)
+
 ## Background
 The meaning of this song is that life is too short to rush through it. Instead, it is important to take a step back, reflect, and savor the moments that are experienced. It is important to let go of the everyday stress and live in the present moment. This song encourages listeners to take a break, appreciate the little things, and find peace in taking life slowly.
 
@@ -16,16 +21,20 @@ I still have old mp3 file for this song and I can't kinda believe I made it in 2
 Original name is literally "rento", which means relaxed or chill or cool.
 
 
-## Meta
-- Year: 2002 (proj. “relaxed”); packaged 2025
-- Style: Pop‑punk; male vocal; upbeat major‑key
-- Languages: FI + EN (published)
-
 ## Inspiration
 - Light, sun-drenched walk lyrics about small pleasures as mood lifters; embracing simple rituals to reset.
 
 ## Structure
-- Intro → Verse 1 → Pre-chorus → Chorus → Verse 2 → Pre-chorus → Chorus → Bridge → Chorus → Outro
+- Intro
+- Verse 1
+- Pre-chorus
+- Chorus
+- Verse 2
+- Pre-chorus
+- Chorus
+- Bridge
+- Chorus
+- Outro
 
 ## Syllable Notes
 - Dedicated syllable counts not yet annotated; preserve original phrasing.
