@@ -38,11 +38,16 @@ a:hover { text-decoration: underline; }
     background: radial-gradient(120px 120px at 20% 30%, rgba(83, 109, 254, 0.08), transparent 60%),
                 radial-gradient(140px 140px at 70% 40%, rgba(255, 64, 129, 0.06), transparent 60%),
                 radial-gradient(180px 180px at 40% 80%, rgba(0, 200, 83, 0.05), transparent 60%);
-    animation: floaty 16s linear infinite;
+    animation: floaty 16s linear infinite, huecycle 40s linear infinite;
+    filter: hue-rotate(0deg);
   }
   @keyframes floaty {
     from { transform: translate3d(0,0,0) rotate(0deg); }
     to   { transform: translate3d(0,0,0) rotate(360deg); }
+  }
+  @keyframes huecycle {
+    from { filter: hue-rotate(0deg); }
+    to   { filter: hue-rotate(360deg); }
   }
 }
 
@@ -55,6 +60,9 @@ a:hover { text-decoration: underline; }
 .album-grid li { border: 1px solid #ddd; border-radius: 6px; background: #fff; padding: 10px; }
 .small { font-size: 13px; }
 .badge { padding: 2px 6px; border-radius: 8px; background: #f0f0f8; border: 1px solid #ddd; }
+.prose p { margin: 0 0 8px 0; }
+.prose h1, .prose h2, .prose h3 { margin: 10px 0 6px 0; }
+.prose ul { margin: 0 0 8px 18px; }
 
 /* Doc view toggle */
 .doc-toggle { margin: 8px 0; }

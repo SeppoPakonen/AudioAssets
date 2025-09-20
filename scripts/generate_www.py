@@ -91,6 +91,18 @@ def parse_upp(path: Path):
     }
 
 
+def extract_rgb(description: str | None):
+    if not description:
+        return None
+    m = re.search(r'B(\d+),(\d+),(\d+)', description)
+    if not m:
+        return None
+    r, g, b = (int(m.group(1)), int(m.group(2)), int(m.group(3)))
+    # Clamp
+    r = max(0, min(255, r)); g = max(0, min(255, g)); b = max(0, min(255, b))
+    return (r, g, b)
+
+
 def slugify(name: str) -> str:
     # Keep numeric prefix and words; lower-case; spaces/dots -> hyphens
     s = name.strip().lower()
@@ -151,11 +163,16 @@ a:hover { text-decoration: underline; }
     background: radial-gradient(120px 120px at 20% 30%, rgba(83, 109, 254, 0.08), transparent 60%),
                 radial-gradient(140px 140px at 70% 40%, rgba(255, 64, 129, 0.06), transparent 60%),
                 radial-gradient(180px 180px at 40% 80%, rgba(0, 200, 83, 0.05), transparent 60%);
-    animation: floaty 16s linear infinite;
+    animation: floaty 16s linear infinite, huecycle 40s linear infinite;
+    filter: hue-rotate(0deg);
   }
   @keyframes floaty {
     from { transform: translate3d(0,0,0) rotate(0deg); }
     to   { transform: translate3d(0,0,0) rotate(360deg); }
+  }
+  @keyframes huecycle {
+    from { filter: hue-rotate(0deg); }
+    to   { filter: hue-rotate(360deg); }
   }
 }
 
@@ -168,6 +185,9 @@ a:hover { text-decoration: underline; }
 .album-grid li { border: 1px solid #ddd; border-radius: 6px; background: #fff; padding: 10px; }
 .small { font-size: 13px; }
 .badge { padding: 2px 6px; border-radius: 8px; background: #f0f0f8; border: 1px solid #ddd; }
+.prose p { margin: 0 0 8px 0; }
+.prose h1, .prose h2, .prose h3 { margin: 10px 0 6px 0; }
+.prose ul { margin: 0 0 8px 18px; }
 
 /* Doc view toggle */
 .doc-toggle { margin: 8px 0; }
@@ -254,6 +274,42 @@ a:hover { text-decoration: underline; }
     else if (pref) filterBox.checked = (pref === '1');
     applyFilter();
   }
+
+  // Theme handler: apply banner colors (modern browsers)
+  function applyTheme(r,g,b){
+    function hex2(x){ return x.toString(16).padStart(2,'0'); }
+    function tint(x,t){ return Math.round(x + (255 - x) * t); }
+    var bg1 = '#' + hex2(tint(r,0.85)) + hex2(tint(g,0.85)) + hex2(tint(b,0.85));
+    var bg2 = '#' + hex2(tint(r,0.70)) + hex2(tint(g,0.70)) + hex2(tint(b,0.70));
+    var c1 = 'rgba(' + tint(r,0.10) + ',' + tint(g,0.10) + ',' + tint(b,0.10) + ',0.14)';
+    var c2 = 'rgba(' + tint(r,0.25) + ',' + tint(g,0.25) + ',' + tint(b,0.25) + ',0.10)';
+    var c3 = 'rgba(' + tint(r,0.40) + ',' + tint(g,0.40) + ',' + tint(b,0.40) + ',0.08)';
+    var css = '.banner{background:linear-gradient(120deg,'+bg1+','+bg2+');}' +
+              '.banner:before{background:radial-gradient(120px 120px at 20% 30%,'+c1+', transparent 60%),' +
+              'radial-gradient(140px 140px at 70% 40%,'+c2+', transparent 60%),' +
+              'radial-gradient(180px 180px at 40% 80%,'+c3+', transparent 60%);}';
+    var el = document.getElementById('aa-theme');
+    if (!el){ el = document.createElement('style'); el.id = 'aa-theme'; document.head.appendChild(el); }
+    el.textContent = css;
+  }
+
+  // Apply album theme if provided via data attrs; else random on home page
+  (function(){
+    var bodyEl = document.body;
+    if (!bodyEl) return;
+    var r = bodyEl.getAttribute('data-base-r');
+    var g = bodyEl.getAttribute('data-base-g');
+    var b = bodyEl.getAttribute('data-base-b');
+    var page = bodyEl.getAttribute('data-page');
+    if (r && g && b){ applyTheme(parseInt(r,10), parseInt(g,10), parseInt(b,10)); return; }
+    if (page === 'home'){
+      // Random pleasant base per load
+      var rr = Math.floor(Math.random()*156)+50; // 50-205
+      var gg = Math.floor(Math.random()*156)+50;
+      var bb = Math.floor(Math.random()*156)+50;
+      applyTheme(rr,gg,bb);
+    }
+  })();
 })();
 '''
 
@@ -473,10 +529,19 @@ def gen_md_doc_page(album_name: str, album_slug: str, md_path: Path):
         f'{toggle_ui}'
         f'{rendered_block}{raw_block}'
     )
-    return layout(title, body, breadcrumbs=[('Home', '/'), (album_name, f'/albums/{album_slug}/'), (os.path.splitext(md_path.name)[0], None)], base_prefix='../../../')
+    # Theme from album upp (same as album page)
+    theme_rgb = None
+    upp_path = md_path.parent / (album_name + '.upp')
+    if upp_path.exists():
+        try:
+            data = parse_upp(upp_path)
+            theme_rgb = extract_rgb(data.get('description'))
+        except Exception:
+            pass
+    return layout(title, body, breadcrumbs=[('Home', '/'), (album_name, f'/albums/{album_slug}/'), (os.path.splitext(md_path.name)[0], None)], base_prefix='../../../', theme_rgb=theme_rgb, page_id='doc')
 
 
-def layout(title: str, body_html: str, subtitle: str = None, breadcrumbs=None, base_prefix: str = ''):
+def layout(title: str, body_html: str, subtitle: str = None, breadcrumbs=None, base_prefix: str = '', theme_rgb=None, page_id: str = None):
     bc_html = ''
     if breadcrumbs:
         bc = []
@@ -490,12 +555,47 @@ def layout(title: str, body_html: str, subtitle: str = None, breadcrumbs=None, b
                 bc.append(f'<span class="muted">{escape(text)}</span>')
         bc_html = '<div class="nav">' + ' / '.join(bc) + '</div>'
     sub = f'<div class="subtitle">{escape(subtitle)}</div>' if subtitle else ''
+    # Inline theme CSS based on RGB
+    theme_style = ''
+    if theme_rgb:
+        r, g, b = theme_rgb
+        # build light tints for background and soft blobs
+        def to_hex(v):
+            return f"{v:02x}"
+        def tint(x, t):
+            return int(round(x + (255 - x) * t))
+        bg1 = f"#{to_hex(tint(r,0.85))}{to_hex(tint(g,0.85))}{to_hex(tint(b,0.85))}"
+        bg2 = f"#{to_hex(tint(r,0.70))}{to_hex(tint(g,0.70))}{to_hex(tint(b,0.70))}"
+        c1 = f"rgba({tint(r,0.10)}, {tint(g,0.10)}, {tint(b,0.10)}, 0.14)"
+        c2 = f"rgba({tint(r,0.25)}, {tint(g,0.25)}, {tint(b,0.25)}, 0.10)"
+        c3 = f"rgba({tint(r,0.40)}, {tint(g,0.40)}, {tint(b,0.40)}, 0.08)"
+        theme_style = f"""
+<style>
+.banner{{background: linear-gradient(120deg, {bg1}, {bg2});}}
+.banner:before{{
+  background: radial-gradient(120px 120px at 20% 30%, {c1}, transparent 60%),
+              radial-gradient(140px 140px at 70% 40%, {c2}, transparent 60%),
+              radial-gradient(180px 180px at 40% 80%, {c3}, transparent 60%);
+}}
+</style>
+"""
+    # Body attributes for JS theme (front page random)
+    body_attrs = ''
+    if page_id:
+        body_attrs += f' data-page="{page_id}"'
+    if theme_rgb and not page_id:
+        page_id = 'page'
+    if theme_rgb:
+        r, g, b = theme_rgb
+        body_attrs += f' data-base-r="{r}" data-base-g="{g}" data-base-b="{b}"'
+
     return f'''<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{escape(title)}</title>
 <link rel="stylesheet" href="{escape(base_prefix)}assets/style.css">
-<body>
+{theme_style}
+<body{body_attrs}>
   <div class="banner">
     <div class="wrap header">
       <div class="title">AudioAssets Timeline</div>
@@ -530,7 +630,7 @@ def gen_index(years, albums, front_html: str = None):
   </div>
 </div>
 '''
-    return layout('AudioAssets Timeline', body, subtitle='Albums overview', breadcrumbs=None, base_prefix='')
+    return layout('AudioAssets Timeline', body, subtitle='Albums overview', breadcrumbs=None, base_prefix='', page_id='home')
 
 
 def gen_album_page(album_name: str, upp_path: Path):
@@ -612,7 +712,8 @@ def gen_album_page(album_name: str, upp_path: Path):
         blocks.append(f'<details open><summary class="sep">{escape(label)}</summary>{ul}</details>')
 
     body = '\n'.join(blocks)
-    return layout(f'{album_name} · Album', body, breadcrumbs=[('Home', '/'), (album_name, None)], base_prefix='../../')
+    theme_rgb = extract_rgb(data.get('description'))
+    return layout(f'{album_name} · Album', body, breadcrumbs=[('Home', '/'), (album_name, None)], base_prefix='../../', theme_rgb=theme_rgb, page_id='album')
 
 
 def gen_year_page(year: str, upp_path: Path):

@@ -76,4 +76,40 @@
     else if (pref) filterBox.checked = (pref === '1');
     applyFilter();
   }
+
+  // Theme handler: apply banner colors (modern browsers)
+  function applyTheme(r,g,b){
+    function hex2(x){ return x.toString(16).padStart(2,'0'); }
+    function tint(x,t){ return Math.round(x + (255 - x) * t); }
+    var bg1 = '#' + hex2(tint(r,0.85)) + hex2(tint(g,0.85)) + hex2(tint(b,0.85));
+    var bg2 = '#' + hex2(tint(r,0.70)) + hex2(tint(g,0.70)) + hex2(tint(b,0.70));
+    var c1 = 'rgba(' + tint(r,0.10) + ',' + tint(g,0.10) + ',' + tint(b,0.10) + ',0.14)';
+    var c2 = 'rgba(' + tint(r,0.25) + ',' + tint(g,0.25) + ',' + tint(b,0.25) + ',0.10)';
+    var c3 = 'rgba(' + tint(r,0.40) + ',' + tint(g,0.40) + ',' + tint(b,0.40) + ',0.08)';
+    var css = '.banner{background:linear-gradient(120deg,'+bg1+','+bg2+');}' +
+              '.banner:before{background:radial-gradient(120px 120px at 20% 30%,'+c1+', transparent 60%),' +
+              'radial-gradient(140px 140px at 70% 40%,'+c2+', transparent 60%),' +
+              'radial-gradient(180px 180px at 40% 80%,'+c3+', transparent 60%);}';
+    var el = document.getElementById('aa-theme');
+    if (!el){ el = document.createElement('style'); el.id = 'aa-theme'; document.head.appendChild(el); }
+    el.textContent = css;
+  }
+
+  // Apply album theme if provided via data attrs; else random on home page
+  (function(){
+    var bodyEl = document.body;
+    if (!bodyEl) return;
+    var r = bodyEl.getAttribute('data-base-r');
+    var g = bodyEl.getAttribute('data-base-g');
+    var b = bodyEl.getAttribute('data-base-b');
+    var page = bodyEl.getAttribute('data-page');
+    if (r && g && b){ applyTheme(parseInt(r,10), parseInt(g,10), parseInt(b,10)); return; }
+    if (page === 'home'){
+      // Random pleasant base per load
+      var rr = Math.floor(Math.random()*156)+50; // 50-205
+      var gg = Math.floor(Math.random()*156)+50;
+      var bb = Math.floor(Math.random()*156)+50;
+      applyTheme(rr,gg,bb);
+    }
+  })();
 })();
