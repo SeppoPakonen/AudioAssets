@@ -1,3 +1,9 @@
+Background: """
+This might be my all-time favourite song of mine.
+
+Finished to song: 5.8.2025
+"""
+
 Style:
 A Finnish hip-hop track with a male vocalist rapping over a beat featuring a prominent acoustic guitar riff,
 tempo of 100 BPM in a major key,

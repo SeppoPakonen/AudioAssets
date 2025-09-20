@@ -1,3 +1,10 @@
+Background: """
+I had been learning to play "Metallica - One", and this is based on the playing techniques of that song, so the name is 'logically' two :D
+
+Composed: 5.10.2005
+Fixed song structure 8.8.2025
+"""
+
 Style:
 This is a rock song in a major key at a moderate tempo,
 The instrumentation includes electric guitar, bass guitar, and drums,

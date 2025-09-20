@@ -1,3 +1,8 @@
+Background: """
+Composed 21.12.2005
+"""
+
+
 Style:
 A horror-themed rock song with a driving tempo of 120 beats per minute in a minor key,
 The instrumentation includes a distorted electric guitar playing a prominent riff,

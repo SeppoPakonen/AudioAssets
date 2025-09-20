@@ -1,12 +1,23 @@
->>>>
-Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Julkaisun sisältö on kuitenkin Suomen kielellä, mutta selkeyden vuoksi teksti tehdään englanniksi. Olen artisti ja kappaleiden tekijä.
+# ENG Archive (Sophomore)
 
-Artisti: OuluPoko
+## Meta
+- Artist: Steve Chill (Seppo Pakonen)
+- Album: Sophomore
+- Release date: Sep 22, 2025
+- UPC: 199736004472
+- Language: English (published)
+
+## Author
+```
+>>>>
+Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Olen artisti ja kappaleiden tekijä.
+
+Artisti: Steve Chill
 Oikea nimi: Seppo Pakonen
-Albumin nimi: Lukioon
-Albumin julkaisupäivä: Elokuu 13, 2025
-DistroKid UPC: 199506269292
-Kieli: Suomi ja Englanti
+Albumin nimi: Sophomore
+Albumin julkaisupäivä: Syyskuu 22, 2025
+DistroKid UPC: 199736004472
+Kieli: Englanti
 
 Taustaa: Albumin kappaleet ovat sävelletty, kun artisti oli 15 vuotias. Suomessa koulussa on ollut lukiota edeltävä kesäloma ja lukion ensimmäinen vuosi.
 Vuosi on ollut 2005, koska hän on syntynyt 1989. Hän on asunut ikänsä Oulussa, Suomessa, joka on EU:n kulttuuripääkaupunki vuonna 2026.
@@ -32,8 +43,8 @@ Olen siis jäänyt tyhjän päälle täällä huolimatta älykkyydestäni ja aka
 Oulu on todellakin "paska kaupunni", kuten täällä sanotaan.
 
 Kaikki kappaleet on siis nuotinnettu TuxGuitar ohjelmalla ja mukana on midi-tiedostot, joista selviää käsintehty osuus säveltämisessä.
-Myös sanoitukset on tehty suomeksi täysin ilman tekoälyä. Kappaleet on tehty siis alunperin 100% ilman tekoälyä.
-Myös 2 englanninkielistä kappaletta on tehty ilman tekoälyä: tarkoitukseni oli todellakin esitellä englanninkielen taitojani ilman avustusta.
+Myös sanoitukset on tehty suomeksi täysin ilman tekoälyä alunperin OuluPoko artistille. Kappaleet on tehty siis alunperin 100% ilman tekoälyä.
+Englanniksi kääntämisessä on käytetty ChatGPT tekoälyä avuksi.
 Kieli ei niissä ole hyvää, mutta se on henkilökohtaista.
 
 Huomioi kappaleidein ISRC koodi ja artistin Teoston antama IPI koodi "1201855096"  
@@ -49,95 +60,22 @@ Kappaleita saa esittää myös ilman lisenssiä, jos se soitetaan lisenssoimatto
 Teosto Suomi hallinnoi oikeuksiani ensisijaisesti, mutta tämä materiaali on tarkoitettu arkistointikäyttöön.
 Kaupallinen yhteistyö ja merkittävä yhteisöllinen levittäminen asioidaan heidän kanssaan.
 
-Musiikki on julkaistu myös Englanniksi "Steve Chill - Sophomore" albumilla.
+Musiikki on julkaistu myös Suomeksi "OuluPoko - Lukioon" albumilla.
 
 
-Linkkejä suomenkieliseen OuluPoko artistiin:
-- email: poko.musiikki@outlook.com
-- https://linktr.ee/oulupoko
-- Spotify: https://open.spotify.com/artist/6OyhbzGtmrQ70gWwJHBUv7
-- TikTok: https://www.tiktok.com/@oulupoko
-- YouTube: https://www.youtube.com/@oulupoko
-- Instagram: https://www.instagram.com/oulupoko
-- Facebook: https://www.facebook.com/oulupoko
-- Suno: https://suno.com/@oulupoko
-- Blog: https://oulupoko.blogspot.com/
+Linkkejä:
+- email: stevechillmusic@gmail.com
+- https://linktr.ee/stevechill
+- Spotify: https://open.spotify.com/artist/46ptqmRiKHZMRLlimRug9j
+- TikTok: https://www.tiktok.com/@steve.chill.music
+- YouTube: https://www.youtube.com/@stevechill
+- Instagram: https://www.instagram.com/stevechillmusic
+- Facebook: https://www.facebook.com/profile.php?id=100092400393864
+- X: https://x.com/SteveChillMusic
+- Suno playlist: https://suno.com/playlist/1fbe8672-c6ea-4bd0-be59-37108bb16795
+- Blog: https://steve-chill-music.blogspot.com/
 
 Kappalelista:
+...
+```
 
-
-
-1
-Mennään jonnekkin kahestaan
-ISRC QZWFW2521589
-
-2
-Vanha sävel
-ISRC QZWFW2521590
-
-3
-Aamuisin
-ISRC QZWFW2521591
-
-4
-Puuma
-ISRC QZWFW2521592
-
-5
-Tahdon sut
-ISRC QZWFW2521593
-
-6
-Sydämen varas
-ISRC QZWFW2521594
-
-7
-Tärisen
-ISRC QZWFW2521595
-
-8
-Ujostus
-ISRC QZWFW2521596
-
-9
-Talviyö
-ISRC QZWFW2521597
-
-10
-Mä en enää
-ISRC QZWFW2521598
-
-11
-Great Escape
-ISRC QZWFW2521599
-
-12
-Lonkerot
-ISRC QZWFW2521600
-
-13
-The Bändi
-ISRC QZWFW2521601
-
-14
-Myöhässä
-ISRC QZWFW2521602
-
-15
-Totuus vai tehtävä
-ISRC QZWFW2521603
-
-
-
-
-
-
-
-<<<<
-**Short description (for “Description” field):**
-
-“**Lukioon**” is a 15-track album by Finnish artist **OuluPoko** (Seppo Pakonen), released **Aug 13, 2025** (UPC **199506269292**). The songs were composed in **2005** at age 15 in **Oulu, Finland**; originals were notated later in **TuxGuitar** with **MIDI** included. 2025 productions used **Suno** (cover workflow) as a studio tool; AI did not materially change lyrics or compositions; mastered with **iZotope Ozone 11**. Includes **lossless masters**, **MIDI**, and **scores**. Works are registered with **Teosto** (IPI **1201855096**); performance and remixing allowed with ISRC/IPI credit.
-
-**Suggested tags (comma separated):**
-
-OuluPoko, Lukioon, Seppo Pakonen, Finland, Oulu, Finnish, English, pop, rock, electronic, indie, 2005, 2025, album, lossless, MIDI, TuxGuitar, Guitar Pro, Cubase SX3, Suno, iZotope Ozone 11, Teosto, ISRC, IPI 1201855096, archive, original songs

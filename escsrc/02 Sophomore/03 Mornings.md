@@ -1,5 +1,21 @@
+# Mornings (Aamuisin)
+
+## Meta
+- Album year: 2005 (published FI+EN)
+- Languages: FI + EN (published)
+
+## Background/Notes (verbatim)
+This is actually one of my all-time favourite songs to play with fingers and acoutic guitar. I have playing this often all the time after composing this.
+
+My girlfriend at the time liked this a lot.
+
+* Refurbished: 23.9.2022
+* Lyrics: 23.9.2022
+
+## Lyrics (FI)
 Title: Aamuisin
 
+```
 [Verse 1, female singing]
 Jos et mitään tee, kun mä lähestyn,
 jos et mitään nää, kun mä ihastun,
@@ -48,8 +64,6 @@ Sua mä mietin,
 sykettä kiel sin mä nopeutumaan.
 Märkiä mietin,
 päähäni jää kin vain lempesi sun.
-
-
 
 Title: Mornings
 
@@ -101,3 +115,5 @@ You on my mind, yo.
 Told my shy tongue to speed my beat up, some.
 Wet ones I’m thinkin’,
 stuck in my head is just all your love, now.
+```
+

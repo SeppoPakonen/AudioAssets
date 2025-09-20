@@ -1,3 +1,11 @@
+Background: """
+Composition finished: 17.12.2021
+This is very original song from 2005. It even had first verse for it. Only major new things are chorus extension and C part. They follow the original idea closely. I also added ensemble strings and a guitar solo. The song structure is the very generic one, because the original was unfinished structurally.
+
+Lyrics 18.12.2021:
+I continued the original idea, but could not extend it much. I tried to do a theatrical bit, where man is obviously the villain of the story and the woman is a heroine. The story is a stub, but feel free to continue it, modify it or join it to your entertainment piece. Some CC licenses apply and check the latest.
+"""
+
 Title: Talviyö
 
 [Verse 1, male singing]

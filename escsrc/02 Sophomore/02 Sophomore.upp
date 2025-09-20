@@ -30,10 +30,10 @@ file
 	"XX never ever - b.txt",
 	"XX cute story - b.txt",
 	2025 readonly separator,
-	"01 Let’s Go Somewhere Just Me And You.txt",
-	"02 Old Tune.txt",
-	"03 Mornings.txt",
-	"04 Cougar.txt",
+	"01 Let’s Go Somewhere Just Me And You.md",
+	"02 Old Tune.md",
+	"03 Mornings.md",
+	"04 Cougar.md",
 	"05 I Want You.txt",
 	"06 Thief of the Heart.txt",
 	"07 My Jittering.txt",
@@ -44,6 +44,5 @@ file
 	"13 We’re the One True Band.txt",
 	"14 Late.txt",
 	"15 Truth or Dare.txt",
-	"FIN archive.txt",
-	"ENG archive.txt";
-
+	"FIN archive.md",
+	"ENG archive.md";

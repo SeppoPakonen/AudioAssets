@@ -159,6 +159,9 @@ Markdown Conversion Rules (Lyrics & Docs)
   - `## AI` for `<<<<` blocks
   Keep the literal marker lines (`>>>>` / `<<<<`) inside the fenced blocks. Do not rewrite or summarize these blocks unless explicitly requested.
 - Separator lines (`---------`): Long lines of hyphens in `.txt` denote a separator between conceptual blocks. Treat each as its own section in `.md`. Add a concise `##` section title; if no explicit name exists, invent a clear, descriptive one (e.g., "Social Post", "Release Notes", "Day Log"). Keep the following content verbatim with original line breaks. Only translate on request.
+ - Notes cue (`Muistiinpanot:`): When a `.txt` contains a `Muistiinpanot:` (notes) block, create a new `## Notes: <AI SUMMARY>` section in the `.md` with a short, descriptive summary you write. Keep the original `Muistiinpanot:` text verbatim elsewhere (inside a fenced block under Background/Notes) — do not modify it.
+ - Song name cue (`Kappale "..."`): Normalize `Kappale "<name>"` to `Title: <name>` in your structured sections. You may add a brief one‑line AI heading or description under that title. Do not alter the original line inside verbatim blocks.
+ - Title boundaries (`Title: ...`): Any `Title:` line in source marks a section boundary. Reflect this by splitting/labeling sections in `.md` (e.g., `## Title: <name>`). Preserve the literal `Title:` lines verbatim inside fenced blocks if present.
 - Languages: Treat Finnish (FI) as canonical; clearly note if English (EN) translations are AI‑assisted.
 - Archive files: Do not delete `ENG Archive.txt` or `FIN Archive.txt` when converting; they are canonical for Archive.org.
 - TuxGuitar context: If background notes exist in `.tg` or were moved out, capture them under `## Background/Notes` in the corresponding `.md`.

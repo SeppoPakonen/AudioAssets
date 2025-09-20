@@ -1,6 +1,23 @@
+# Cougar (Puuma)
 
+## Meta
+- Album year: 2005 (published FI+EN)
+- Languages: FI + EN (published)
+
+## Background/Notes (verbatim)
+This song has a very memorable guitar riff for me. The riff means a lot to me, even though it's simple. I just got my first electric guitar when I composed this and I had played guitar for just a few months basically. I hadn't made more than the riff, so I had to make the whole song in 2021 based on it. I think this is a honest take of how it probably would have sounded. The chords comes from the riff by the way, and that's just music math.
+
+### Finished composition 14.12.2021
+The finished version is extended from very short stub, but nothing very new was added. The stub contained all references, and listener might guess reasons behind composer's decisions. Hint: "riddle". Some newer composing techniques were used, than what my 2005 skills got. The result is still in the same ballpark, that what I could do back then.
+The vocal melody is new, but I tried to follow the original lead melody as much as possible.
+
+### Lyrics 15.12.2021
+I was listening this while playing sauerbraten, and I started to get lyrics ideas easily. I started making initial lyrics while fragging, and then finally I finished them fully focused in about an hour.
+What I can say about lyrics? Oh man, oh man... fun times.
+
+## Lyrics (FI)
 Title: Puuma
-
+```
 [Instrumental]
 
 [Intro]
@@ -61,8 +78,6 @@ Se lähestyy
 Se tietää syyn
 Se lähestyy
 Se tietää syyn
-
-
 
 Title: Cougar
 
@@ -127,3 +142,5 @@ She’s closing in
 She knows the spin
 She’s closing in
 She knows the spin
+```
+

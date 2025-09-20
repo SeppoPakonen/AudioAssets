@@ -1,3 +1,19 @@
+# Let’s Go Somewhere Just Me And You (Mennään jonnekkin kahestaan)
+
+## Background
+I made this song in 2005 when I learned to use Guitar Pro. Clean guitar lead is from some Alanis Morrisette song and chorus chords are similar to a Leevi and the Leavings song.
+
+Lyrics were made 7.6.2021 during hiking trip.
+
+Refurbished composition: 23.8.2022
+
+
+## Meta
+- Album year: 2005 (published FI+EN)
+- Languages: FI + EN (published)
+
+## Background/Notes (verbatim)
+```
 Muistiinpanot:
 
 Kappale "Piilotan mun ihastumisen"
@@ -30,15 +46,12 @@ Kertosäe 2
 Jos vain saisimme tämän yön kestämään ikuisesti,
 Kukaan ei voi ottaa pois yhteistä rakkautta.
 Taidan näyttää ihastukseni.
+```
 
-
-
-
-
-
-
+## Lyrics (FI)
 Title: Mennään jonnekkin kahestaan
 
+```
 [Intro, female singing]
 Mä oottanut oon
 Niin kauan
@@ -104,17 +117,12 @@ Mennään jonnekkin kahestaan
 Mennään jonnekkin kahestaan
 Mennään jonnekkin kahestaan
 Nyt mitä sun kans tapahtuu
+```
 
-
-
-
-
-
-
-
+## Lyrics (EN)
 
 Title: Let’s Go Somewhere Just Me And You
-
+```
 [Intro]
 I've waited so long now
 I've waited so long now
@@ -165,9 +173,5 @@ Let’s go somewhere, just me and you
 Let’s go somewhere, just me and you
 Let’s go somewhere, just me and you
 Now what with you gon’ happen, ooo?
-
-
-
-
-
+```
 

@@ -6,13 +6,12 @@
 - Languages: FI + EN (published)
 
 ## Background/Notes
-```
-Background:
 I think this is mostly made from eJay samples, but I still learned to play it with guitar.
-Refurbished: 10.8.2022
+
+### Refurbished: 10.8.2022
 Now it's far from original... but I played this a lot over the years and it's the result of evolution. So, this is particularly original evolution. Smth like that...
 
-Style:
+## Style
 A Finnish melancholic R&B / hiphop / pop song in a minor key at a slow tempo.
 The instrumentation features a female lead vocal, acoustic guitar, bass guitar, and drums.
 The song begins with a sustained acoustic guitar chord,
@@ -21,7 +20,6 @@ The bass guitar provides a simple, supportive line, while the drums play a laid-
 The song structure is verse-chorus, with a clear melodic line in the vocal.
 The production is clean, with a focus on the vocal and acoustic elements.
 There are no complex effects or heavy processing. The overall mood is reflective and slightly somber.
-```
 
 ## Structure
 - Intro → Verse 1 → Pre-chorus → Chorus → Instrumental → Verse 2 → Pre-chorus → Chorus → Instrumental → Bridge → Instrumental → Chorus
