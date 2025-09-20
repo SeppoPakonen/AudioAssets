@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![Late MP3](https://archive.org/download/steve_chill_sophomore/14%20-%20Late.mp3)
+- ![Myöhässä MP3](https://archive.org/download/oulupoko_lukioon/14%20-%20My%C3%B6h%C3%A4ss%C3%A4.mp3)
 ## Background
 This song took shape during my first band (The Wayward). Milja Björn, Ville Valtonen and Juha Lallukka played already in that band. We considered this as a part of the seconds batch of songs to learn. We jammed the intro already in our first training place, which was at the old bunker for employees of local hospital, where our bassist's mother worked. However, one evening we drank wine there and caused a mess and got kicked out.
 

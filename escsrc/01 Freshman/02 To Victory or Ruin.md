@@ -4,7 +4,8 @@
 - Year: 2002 (orig. “Capture Teh Flag”); packaged 2025
 - Genre: 2000s R&B / triphop-ska flavor
 - Languages: FI + EN (published)
-
+- ![Onneen tai tuhoon MP3](https://archive.org/download/oulupoko_ylaaste/02%20-%20Onneen%20tai%20tuhoon.mp3)
+- ![To Victory or Ruin MP3](https://archive.org/download/steve_chill_freshman/02%20-%20To%20Victory%20or%20Ruin.mp3)
 ## Background
 We had a joke online gaming clan called Uaah, which is just a erotic holler. We played counter-strike, other Half-Life mods, Star Wars Jedi Knight: Mysteries of the Sith (1998), etc.
 

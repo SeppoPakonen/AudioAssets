@@ -4,7 +4,8 @@
 - Year: 2003; packaged 2025-07-20
 - Style: Melancholic pop-rock; minor key
 - Languages: FI + EN (published)
-
+- ![Worse than the Worst MP3](https://archive.org/download/steve_chill_freshman/09%20-%20Worse%20than%20the%20Worst.mp3)
+- ![Pahuutta pahempaa MP3](https://archive.org/download/oulupoko_ylaaste/09%20-%20Pahuutta%20pahempaa.mp3)
 ## Background/Notes
 ```
 Date: 20.7.2025

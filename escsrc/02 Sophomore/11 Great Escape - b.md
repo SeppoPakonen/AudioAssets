@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![Great Escape MP3](https://archive.org/download/steve_chill_sophomore/11%20-%20Great%20Escape.mp3)
+- ![Great Escape MP3](https://archive.org/download/oulupoko_lukioon/11%20-%20Great%20Escape.mp3)
 ## Background
 
 We played this song with the band called The Vice. I played my first gig with that band in spring 2006. This song was played in that gig. The gig was in the centre of the Oulu in a old wooden building next to the movie theather.

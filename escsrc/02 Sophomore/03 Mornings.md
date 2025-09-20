@@ -3,7 +3,8 @@
 ## Meta
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
-
+- ![Mornings MP3](https://archive.org/download/steve_chill_sophomore/03%20-%20Mornings.mp3)
+- ![Aamuisin MP3](https://archive.org/download/oulupoko_lukioon/03%20-%20Aamuisin.mp3)
 ## Background
 This is actually one of my all-time favourite songs to play with fingers and acoutic guitar. I have playing this often all the time after composing this.
 

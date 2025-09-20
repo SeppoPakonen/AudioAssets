@@ -2,7 +2,6 @@
 
 ## Meta
 - Album: 02 Sophomore
-
 ## Background/Notes (verbatim)
 
 Muistiinpanoja:

@@ -3,7 +3,8 @@
 ## Meta
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
-
+- ![Old tune MP3](https://archive.org/download/steve_chill_sophomore/02%20-%20Old%20tune.mp3)
+- ![Vanha sävel MP3](https://archive.org/download/oulupoko_lukioon/02%20-%20Vanha%20s%C3%A4vel.mp3)
 ## Background
 This song is probably made in summer 2005.
 

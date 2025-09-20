@@ -4,7 +4,8 @@
 - Year: 2002 (orig. Reason 2.0 strings test); packaged 2025
 - Style: Finnish hip‑hop feel; dramatic strings (tremolo ensemble)
 - Languages: FI + EN (published)
-
+- ![Summer is over MP3](https://archive.org/download/steve_chill_freshman/06%20-%20Summer%20is%20over.mp3)
+- ![Kesä on ohi MP3](https://archive.org/download/oulupoko_ylaaste/06%20-%20Kes%C3%A4%20on%20ohi.mp3)
 ## Background
 This song is about the end of summer and the sadness of saying goodbye to the warmth and joy of summer days. It is a metaphor for the end of human life and the inevitability of death. The song speaks to the bittersweetness of saying goodbye to something that has brought us so much pleasure, while also being aware of the fact that it must come to an end. It is a reminder to cherish the moment and make the most of the time we have together.
 

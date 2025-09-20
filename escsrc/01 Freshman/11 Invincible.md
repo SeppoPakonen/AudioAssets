@@ -4,7 +4,8 @@
 - Year: 2006 (original band-era lyric); packaged 2025
 - Style: Finnish rock energy; empowering feel
 - Languages: FI + EN (published). EN lyric present here; FI version on Finnish album.
-
+- ![Invincible (original) MP3](https://archive.org/download/oulupoko_ylaaste/11%20-%20Invincible.mp3)
+- ![Invincible MP3](https://archive.org/download/steve_chill_freshman/11%20-%20Invincible.mp3)
 ## Background/Notes
 ```
 ORIGINAL LYRICS FROM 2006.

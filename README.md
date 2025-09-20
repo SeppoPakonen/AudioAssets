@@ -23,3 +23,21 @@ Songs are sorted to folders based on their original composition year. They show 
 ### TuxGuitar
 Enable "FluidSynth output plugin" in plugins and add [FluidR3_GM.sf2](http://www.ronimusic.com/sf2/FluidR3_GM.sf2) as your soundfont.
 Go to TuxGuitar sound settings (Tools -> Settings -> Sound) and in MIDI-port section select "TG Fluidsynth [FluidR3 GM]".
+
+## Local Web Preview (/www)
+Static HTML for browsing the timeline lives under `www/`. Generate it and serve it locally with a simple Node.js static server.
+
+- Generate the site
+  - `python3 scripts/generate_www.py`
+
+- Serve `www/` as the site root (npm-based, no install needed via npx)
+  - `npx http-server www -p 8080 -a 127.0.0.1 -c-1`
+  - or: `npx serve www -l 8080`
+  - open: `xdg-open http://127.0.0.1:8080/`
+  - helpers: `scripts/serve_www.sh` (Linux/macOS) or `scripts/serve_www.bat` (Windows)
+
+Notes
+- Serving `www/` as the root only exposes the generated pages and `www/assets`. Links that point back to source files under `escsrc/` will not resolve in this mode. That’s expected.
+  - If you want those source-file links to work, serve the repository root instead: `npx http-server . -p 8080` (then open `http://127.0.0.1:8080/www/`).
+  - Alternatively, extend `scripts/generate_www.py` to copy needed sources into `www/` during generation.
+  - Helpers support both: `scripts/serve_www.sh --repo-root` or `scripts/serve_www.bat repo-root`.

@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![We’re the One True Band MP3](https://archive.org/download/steve_chill_sophomore/13%20-%20We%E2%80%99re%20the%20One%20True%20Band.mp3)
+- ![The bändi MP3](https://archive.org/download/oulupoko_lukioon/13%20-%20The%20b%C3%A4ndi.mp3)
 ## Background
 I had been learning to play "Metallica - One", and this is based on the playing techniques of that song, so the name is 'logically' two :D
 

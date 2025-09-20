@@ -1,4 +1,8 @@
 # I don't know (Mä tiedä en)
+
+## Meta
+- ![I don't know MP3](https://archive.org/download/steve_chill_to_the_band/01%20-%20I%20don%27t%20know.mp3)
+- ![Mä tiedä en MP3](https://archive.org/download/oulupoko_bandiin/01%20-%20M%C3%A4%20tied%C3%A4%20en.mp3)
 ## Background
 This is a very original composition. The lyrics of the chorus are also largely original.
 

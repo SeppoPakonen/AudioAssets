@@ -4,7 +4,8 @@
 - Year: 2004; refurbished 2022; packaged 2025
 - Style: Finnish melancholic R&B/hip-hop/pop; slow minor
 - Languages: FI + EN (published)
-
+- ![What's up MP3](https://archive.org/download/steve_chill_freshman/12%20-%20What%27s%20up.mp3)
+- ![Mikä on MP3](https://archive.org/download/oulupoko_ylaaste/12%20-%20Mik%C3%A4%20on.mp3)
 ## Background/Notes
 I think this is mostly made from eJay samples, but I still learned to play it with guitar.
 

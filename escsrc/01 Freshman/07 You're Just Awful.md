@@ -4,7 +4,8 @@
 - Year: 2003 (composition window); packaged 2025-07-18
 - Style: Finnish rock; female lead; minor‑key melancholic mood
 - Languages: FI + EN (published)
-
+- ![You're Just Awful MP3](https://archive.org/download/steve_chill_freshman/07%20-%20You%27re%20Just%20Awful.mp3)
+- ![Sä oot kamala MP3](https://archive.org/download/oulupoko_ylaaste/07%20-%20S%C3%A4%20oot%20kamala.mp3)
 ## Background
 I made the original song around 2003. I edited and ruined the original version around 2004 and lost the original song, but I converted it back to something similar to the original from memory.
 

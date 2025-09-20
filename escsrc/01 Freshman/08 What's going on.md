@@ -4,7 +4,8 @@
 - Year: 2003; packaged 2025-07-20
 - Style: Melancholic pop-rock ballad; minor key
 - Languages: FI + EN (published)
-
+- ![What's going on MP3](https://archive.org/download/steve_chill_freshman/08%20-%20What%27s%20going%20on.mp3)
+- ![Mitä tapahtuu MP3](https://archive.org/download/oulupoko_ylaaste/08%20-%20Mit%C3%A4%20tapahtuu.mp3)
 ## Background/Notes
 ```
 Date: 19.7.2025

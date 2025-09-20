@@ -1,0 +1,466 @@
+#!/usr/bin/env python3
+"""
+Static site generator for /www based on escsrc/Timeline.
+
+Generates:
+- /www/index.html with Albums and Years from Timeline.upp
+- /www/albums/<slug>/index.html from each album .upp
+- /www/years/<year>/index.html from each year .upp (if present)
+- /www/assets/{style.css,script.js}
+
+The generator intentionally avoids external deps and keeps HTML simple for
+older browsers. Modern browsers get progressive enhancement via CSS/JS.
+"""
+import os
+import re
+import html
+from pathlib import Path
+from urllib.parse import urlparse
+
+ROOT = Path(__file__).resolve().parents[1]
+ESC = ROOT / 'escsrc'
+WWW = ROOT / 'www'
+ASSETS = WWW / 'assets'
+
+
+def read_text(path: Path) -> str:
+    return path.read_text(encoding='utf-8', errors='replace')
+
+
+def ensure_dir(p: Path):
+    p.mkdir(parents=True, exist_ok=True)
+
+
+def write_text(path: Path, data: str):
+    ensure_dir(path.parent)
+    path.write_text(data, encoding='utf-8')
+
+
+def parse_upp(path: Path):
+    """Very small parser for .upp sections: description, file, uses."""
+    text = read_text(path)
+    desc_match = re.search(r'^description\s+"([^\n]*)";?', text, re.M)
+    description = desc_match.group(1) if desc_match else None
+
+    def parse_section(name: str):
+        # Find 'name' then read until ';'
+        m = re.search(rf'(?ms)^\s*{re.escape(name)}\s*\n(.*?);\s*\n', text)
+        if not m:
+            return []
+        body = m.group(1)
+        items = []
+        for raw in body.splitlines():
+            line = raw.strip()
+            if not line:
+                continue
+            # Remove trailing comma
+            if line.endswith(','):
+                line = line[:-1]
+            items.append(line)
+        return items
+
+    file_items_raw = parse_section('file')
+    uses_items_raw = parse_section('uses')
+
+    file_items = []
+    for item in file_items_raw:
+        if item.endswith('readonly separator'):
+            label = item[:-len('readonly separator')].strip()
+            file_items.append({'type': 'separator', 'label': label})
+        else:
+            # Strip wrapping quotes if any
+            if item.startswith('"') and item.endswith('"'):
+                value = item[1:-1]
+            else:
+                value = item
+            file_items.append({'type': 'file', 'name': value})
+
+    uses = []
+    for item in uses_items_raw:
+        val = item.strip()
+        if val.startswith('"') and val.endswith('"'):
+            val = val[1:-1]
+        uses.append(val)
+
+    return {
+        'description': description,
+        'files': file_items,
+        'uses': uses,
+        'raw': text,
+    }
+
+
+def slugify(name: str) -> str:
+    # Keep numeric prefix and words; lower-case; spaces/dots -> hyphens
+    s = name.strip().lower()
+    s = s.replace(".upp", "")
+    s = re.sub(r'[^a-z0-9\s\-]+', '', s)
+    s = re.sub(r'[\s]+', '-', s).strip('-')
+    return s
+
+
+def escape(s: str) -> str:
+    return html.escape(s, quote=True)
+
+
+def rel_from(page_dir: Path, target: Path) -> str:
+    """Relative href from a page directory to a target file/dir (posix)."""
+    rel = os.path.relpath(target, page_dir)
+    return rel.replace('\\', '/')
+
+
+def write_assets():
+    style = r'''
+/* Basic CSS for old browsers first */
+html, body { margin: 0; padding: 0; }
+body { font: 16px/1.4 Arial, Helvetica, sans-serif; color: #111; background: #f4f4f7; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 12px; }
+.header { padding: 16px 0; }
+.title { font-size: 24px; font-weight: bold; }
+.subtitle { color: #555; }
+.grid { /* float fallback */ }
+.col { float: left; width: 100%; box-sizing: border-box; padding: 8px; }
+.card { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 12px; }
+.muted { color: #666; }
+.list { margin: 0; padding-left: 18px; }
+.list li { margin: 4px 0; }
+.clearfix:after { content: ""; display: table; clear: both; }
+.chip { display: inline-block; padding: 2px 6px; border: 1px solid #ccc; border-radius: 10px; font-size: 12px; color: #333; background: #fafafa; }
+.sep { font-weight: bold; margin-top: 12px; border-top: 1px dashed #ddd; padding-top: 8px; }
+.footer { margin: 24px 0; color: #777; font-size: 12px; }
+
+/* Progressive enhancement */
+@supports (display: grid) {
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
+  .col { float: none; width: auto; padding: 0; }
+}
+
+/* Fancy but safe background animation */
+@media (prefers-reduced-motion: no-preference) {
+  .banner {
+    background: linear-gradient(120deg, #f0f3ff, #faf6ff);
+    position: relative;
+    overflow: hidden;
+  }
+  .banner:before {
+    content: ""; position: absolute; inset: -40%;
+    background: radial-gradient(120px 120px at 20% 30%, rgba(83, 109, 254, 0.08), transparent 60%),
+                radial-gradient(140px 140px at 70% 40%, rgba(255, 64, 129, 0.06), transparent 60%),
+                radial-gradient(180px 180px at 40% 80%, rgba(0, 200, 83, 0.05), transparent 60%);
+    animation: floaty 16s linear infinite;
+  }
+  @keyframes floaty {
+    from { transform: translate3d(0,0,0) rotate(0deg); }
+    to   { transform: translate3d(0,0,0) rotate(360deg); }
+  }
+}
+
+.pill { padding: 3px 8px; border-radius: 999px; background: #eef; color: #334; font-size: 12px; border: 1px solid #ccd; }
+.tag { font-size: 12px; color: #555; }
+.nav { margin-top: 8px; }
+.nav a { display: inline-block; margin-right: 8px; }
+.section-title { margin: 8px 0; font-size: 18px; }
+.album-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.album-grid li { border: 1px solid #ddd; border-radius: 6px; background: #fff; padding: 10px; }
+.small { font-size: 13px; }
+.badge { padding: 2px 6px; border-radius: 8px; background: #f0f0f8; border: 1px solid #ddd; }
+'''
+
+    script = r'''
+(function(){
+  // Add JS hook
+  var cl = document.documentElement.classList; cl && cl.add('has-js');
+
+  // Expand/collapse sections on modern browsers
+  function toggleAll(selector, expand) {
+    var nodes = document.querySelectorAll(selector);
+    for (var i=0;i<nodes.length;i++) {
+      var d = nodes[i];
+      if ('open' in d) d.open = !!expand;
+    }
+  }
+  var expander = document.getElementById('expand-all');
+  var collapser = document.getElementById('collapse-all');
+  if (expander) expander.onclick = function(){ toggleAll('details', true); };
+  if (collapser) collapser.onclick = function(){ toggleAll('details', false); };
+})();
+'''
+
+    write_text(ASSETS / 'style.css', style)
+    write_text(ASSETS / 'script.js', script)
+
+
+def slugify_basename(file_name: str) -> str:
+    base = os.path.splitext(os.path.basename(file_name))[0]
+    return slugify(base)
+
+
+def extract_mp3_links(md_text: str):
+    """Return list of (url, label) for any mp3 links/images/autolinks found."""
+    results = []
+    # Markdown image: ![alt](url)
+    for m in re.finditer(r'!\[([^\]]*)\]\(([^)\s]+)\)', md_text):
+        alt, url = m.group(1), m.group(2)
+        if '.mp3' in url.lower():
+            results.append((url, alt or 'Audio'))
+    # Markdown link: [text](url)
+    for m in re.finditer(r'\[([^\]]*)\]\(([^)\s]+)\)', md_text):
+        text, url = m.group(1), m.group(2)
+        if '.mp3' in url.lower():
+            results.append((url, text or 'Audio'))
+    # Autolink: <https://...>
+    for m in re.finditer(r'<(https?://[^>\s]+)>', md_text):
+        url = m.group(1)
+        if '.mp3' in url.lower():
+            results.append((url, 'Audio'))
+    # Bare URL: https://...
+    for m in re.finditer(r'(?<![\(\<])\bhttps?://\S+', md_text):
+        url = m.group(0)
+        if '.mp3' in url.lower():
+            results.append((url, 'Audio'))
+    # Deduplicate
+    seen = set()
+    dedup = []
+    for url, label in results:
+        if url not in seen:
+            seen.add(url)
+            dedup.append((url, label))
+    return dedup
+
+
+def gen_md_doc_page(album_name: str, album_slug: str, md_path: Path):
+    title = f"{os.path.splitext(md_path.name)[0]} · {album_name}"
+    md_text = read_text(md_path)
+    players = []
+    for url, label in extract_mp3_links(md_text):
+        safe = escape(url)
+        lab = escape(label)
+        players.append(
+            f'<div class="card"><div class="small muted">{lab}</div>'
+            f'<audio controls preload="none" src="{safe}"><a href="{safe}">{lab} (MP3)</a></audio>'
+            f'</div>'
+        )
+    players_html = '\n'.join(players) if players else '<div class="card small muted">No MP3 links found in this document.</div>'
+
+    # Raw markdown as read-only reference
+    src_rel = rel_from(WWW / 'albums' / album_slug / slugify_basename(md_path.name), md_path)
+    body = (
+        f'<div class="small muted">Source: <a href="{escape(src_rel)}">{escape(md_path.name)}</a></div>'
+        f'<div class="section-title">Audio</div>'
+        f'{players_html}'
+        f'<div class="section-title">Markdown (raw)</div>'
+        f'<pre class="card small">{escape(md_text)}</pre>'
+    )
+    return layout(title, body, breadcrumbs=[('Home', '/'), (album_name, f'/albums/{album_slug}/'), (os.path.splitext(md_path.name)[0], None)], base_prefix='../../../')
+
+
+def layout(title: str, body_html: str, subtitle: str = None, breadcrumbs=None, base_prefix: str = ''):
+    bc_html = ''
+    if breadcrumbs:
+        bc = []
+        for text, href in breadcrumbs:
+            if href:
+                if href.startswith('/'):
+                    bc.append(f'<a href="{escape(href)}">{escape(text)}</a>')
+                else:
+                    bc.append(f'<a href="{escape(base_prefix + href)}">{escape(text)}</a>')
+            else:
+                bc.append(f'<span class="muted">{escape(text)}</span>')
+        bc_html = '<div class="nav">' + ' / '.join(bc) + '</div>'
+    sub = f'<div class="subtitle">{escape(subtitle)}</div>' if subtitle else ''
+    return f'''<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{escape(title)}</title>
+<link rel="stylesheet" href="{escape(base_prefix)}assets/style.css">
+<body>
+  <div class="banner">
+    <div class="wrap header">
+      <div class="title">AudioAssets Timeline</div>
+      {sub}
+      {bc_html}
+    </div>
+  </div>
+  <div class="wrap">
+    {body_html}
+    <div class="footer">Static site generated from escsrc/Timeline. No server-side code. <span class="muted small">Works without JS; modern browsers get subtle animations.</span></div>
+  </div>
+<script src="{escape(base_prefix)}assets/script.js"></script>
+'''
+
+
+def gen_index(years, albums):
+    # years: ["2002", ...]
+    # albums: ["01 Freshman", ...]
+    y_links = ' '.join([f'<a class="pill" href="years/{escape(y)}/">{escape(y)}</a>' for y in years])
+
+    items = []
+    for name in albums:
+        slug = slugify(name)
+        items.append(f'<li><div class="small muted">Album</div><div><a href="albums/{escape(slug)}/">{escape(name)}</a></div></li>')
+    album_html = '<ul class="album-grid">' + '\n'.join(items) + '</ul>'
+
+    body = f'''
+<div class="grid clearfix">
+  <div class="col card">
+    <div class="section-title">Years</div>
+    <div>{y_links}</div>
+  </div>
+  <div class="col card">
+    <div class="section-title">Albums</div>
+    {album_html}
+  </div>
+</div>
+'''
+    return layout('AudioAssets Timeline', body, subtitle='Browse by year or album', breadcrumbs=None, base_prefix='')
+
+
+def gen_album_page(album_name: str, upp_path: Path):
+    data = parse_upp(upp_path)
+    sections = []
+    current = []
+    current_label = None
+    album_dir = upp_path.parent
+    album_slug = slugify(album_name)
+    page_dir = WWW / 'albums' / album_slug
+    for entry in data['files']:
+        if entry['type'] == 'separator':
+            # Flush previous
+            if current:
+                sections.append((current_label or 'Files', current))
+                current = []
+            current_label = entry['label']
+        else:
+            name = entry['name']
+            ext = os.path.splitext(name)[1].lower()
+            tag = {
+                '.tg': 'score',
+                '.md': 'doc',
+                '.txt': 'text',
+                '.ecs': 'meta',
+            }.get(ext, ext[1:] if ext else 'file')
+            src = album_dir / name
+            display = escape(name)
+            if ext == '.md':
+                # Build a per-song doc page that embeds MP3 players
+                song_slug = slugify_basename(name)
+                doc_dir = page_dir / song_slug
+                doc_html = gen_md_doc_page(album_name, album_slug, src)
+                write_text(doc_dir / 'index.html', doc_html)
+                href = f'{song_slug}/'
+            else:
+                href = rel_from(page_dir, src)
+            current.append((display, href, tag))
+    if current:
+        sections.append((current_label or 'Files', current))
+
+    blocks = []
+    blocks.append('<div class="small muted">Source folder: ' + escape(rel_from(page_dir, album_dir)) + '</div>')
+    blocks.append('<div class="small nav"><button id="expand-all" class="badge">Expand all</button> <button id="collapse-all" class="badge">Collapse all</button></div>')
+
+    for label, items in sections:
+        # details open by default for old browsers (which ignore <details>)
+        rows = []
+        for disp, href, tag in items:
+            rows.append(f'<li><a href="{escape(href)}">{disp}</a> <span class="tag">[{escape(tag)}]</span></li>')
+        ul = '<ul class="list">' + '\n'.join(rows) + '</ul>'
+        blocks.append(f'<details open><summary class="sep">{escape(label)}</summary>{ul}</details>')
+
+    body = '\n'.join(blocks)
+    return layout(f'{album_name} · Album', body, breadcrumbs=[('Home', '/'), (album_name, None)], base_prefix='../../')
+
+
+def gen_year_page(year: str, upp_path: Path):
+    data = parse_upp(upp_path)
+    sections = []
+    current = []
+    current_label = None
+    year_dir = upp_path.parent
+    page_dir = WWW / 'years' / year
+    for entry in data['files']:
+        if entry['type'] == 'separator':
+            if current:
+                sections.append((current_label or 'Files', current))
+                current = []
+            current_label = entry['label']
+        else:
+            name = entry['name']
+            ext = os.path.splitext(name)[1].lower()
+            tag = {
+                '.tg': 'score',
+                '.md': 'doc',
+                '.txt': 'text',
+                '.ecs': 'meta',
+            }.get(ext, ext[1:] if ext else 'file')
+            src = year_dir / name
+            href = rel_from(page_dir, src)
+            display = escape(name)
+            current.append((display, href, tag))
+    if current:
+        sections.append((current_label or 'Files', current))
+
+    blocks = []
+    blocks.append('<div class="small muted">Source folder: ' + escape(rel_from(page_dir, year_dir)) + '</div>')
+    for label, items in sections:
+        rows = []
+        for disp, href, tag in items:
+            rows.append(f'<li><a href="{escape(href)}">{disp}</a> <span class="tag">[{escape(tag)}]</span></li>')
+        ul = '<ul class="list">' + '\n'.join(rows) + '</ul>'
+        blocks.append(f'<details open><summary class="sep">{escape(label)}</summary>{ul}</details>')
+
+    body = '\n'.join(blocks)
+    return layout(f'{year} · Year', body, breadcrumbs=[('Home', '/'), (year, None)], base_prefix='../../')
+
+
+def main():
+    timeline_upp = ESC / 'Timeline' / 'Timeline.upp'
+    if not timeline_upp.exists():
+        raise SystemExit('Timeline.upp not found')
+    tl = parse_upp(timeline_upp)
+
+    # Split uses into years and albums
+    years = []
+    albums = []
+    for u in tl['uses']:
+        if re.fullmatch(r'\d{4}', u):
+            years.append(u)
+        else:
+            albums.append(u)
+
+    # Assets
+    write_assets()
+
+    # Index
+    write_text(WWW / 'index.html', gen_index(years, albums))
+
+    # Album pages
+    for name in albums:
+        folder = ESC / name
+        upp = folder / (name + '.upp')
+        if not upp.exists():
+            # Try best-effort: some folders use exact casing; otherwise skip
+            print(f'WARN: missing .upp for album {name!r} at {upp}')
+            continue
+        html_path = WWW / 'albums' / slugify(name) / 'index.html'
+        write_text(html_path, gen_album_page(name, upp))
+
+    # Year pages
+    for y in years:
+        folder = ESC / y
+        upp = folder / (y + '.upp')
+        if not upp.exists():
+            print(f'WARN: missing .upp for year {y} at {upp}')
+            continue
+        html_path = WWW / 'years' / y / 'index.html'
+        write_text(html_path, gen_year_page(y, upp))
+
+    # 404 (optional)
+    write_text(WWW / '404.html', layout('Not found', '<p class="card">Page not found.</p>', breadcrumbs=[('Home', ''), ('404', None)], base_prefix=''))
+
+    print('Generated site at', WWW)
+
+
+if __name__ == '__main__':
+    main()

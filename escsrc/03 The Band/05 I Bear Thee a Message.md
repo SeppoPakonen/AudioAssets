@@ -1,5 +1,8 @@
 # I Bear Thee a Message (Viestin sulle tuon)
 
+## Meta
+- ![I Bear Thee a Message MP3](https://archive.org/download/steve_chill_to_the_band/04%20-%20I%20Bear%20Thee%20a%20Message.mp3)
+- ![Viestin sulle tuon MP3](https://archive.org/download/oulupoko_bandiin/05%20-%20Viestin%20sulle%20tuon.mp3)
 ## Background
 This one of our drunken band jam regulars (with Ville and maybe Juha). Not long jam, but short. However, I found this on an old tab, probably from 2006.
 

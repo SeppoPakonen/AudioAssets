@@ -3,7 +3,6 @@
 ## Meta
 - Type: Notes linking to 10 Girl I Never Touched
 - Language: FI
-
 ## Notes (verbatim)
 ```
 Säe 1

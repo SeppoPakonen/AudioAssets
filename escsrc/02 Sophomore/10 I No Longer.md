@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![I no longer MP3](https://archive.org/download/steve_chill_sophomore/10%20-%20I%20no%20longer.mp3)
+- ![Mä en enää MP3](https://archive.org/download/oulupoko_lukioon/10%20-%20M%C3%A4%20en%20en%C3%A4%C3%A4.mp3)
 ## Background
 This song is one of my first songs, where I try to make a melodic story. It can be heard from the vocal melody of the verse. Nobody probably can sing it and it will sound bad or weird. It's just an exercise of som sorts and shouldn't be treated as fully viable vocal line.
 

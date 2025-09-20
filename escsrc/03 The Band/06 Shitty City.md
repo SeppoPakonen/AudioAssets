@@ -1,5 +1,8 @@
 # Shitty City (Paska kaupunni)
 
+## Meta
+- ![Shitty City MP3](https://archive.org/download/steve_chill_to_the_band/05%20-%20Shitty%20City.mp3)
+- ![Paska kaupunni MP3](https://archive.org/download/oulupoko_bandiin/06%20-%20Paska%20kaupunni.mp3)
 ## Background
 Some effort to do band-friendly music. Doesn't sound too good. The high vocal pitch doesn't do it.
 

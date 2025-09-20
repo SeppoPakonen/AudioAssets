@@ -3,7 +3,6 @@
 ## Meta
 - Type: Notes linking to 12 What’s Up?
 - Language: FI
-
 ## Notes (verbatim)
 ```
 Säe 1

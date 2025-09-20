@@ -1,4 +1,8 @@
 # Is This Any Real Help? (Onko tää apua)
+
+## Meta
+- ![Is This Any Real Help MP3](https://archive.org/download/steve_chill_to_the_band/10%20-%20Is%20This%20Any%20Real%20Help.mp3)
+- ![Onko tää apua MP3](https://archive.org/download/oulupoko_bandiin/11%20-%20Onko%20t%C3%A4%C3%A4%20apua.mp3)
 ## Background
 This is just a bad wannabe punk song. I'm sure I made this because of a request for some band member or someone with common projects. I have no feelings towards this song, which is rare.
 

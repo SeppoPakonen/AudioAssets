@@ -4,7 +4,8 @@
 - Year: 2002 (proj. “sunshine beat”); packaged 2025-08-21
 - Style: Finnish pop-rock; upbeat summer vibe
 - Languages: FI + EN (published)
-
+- ![Gotta Go in Summer MP3](https://archive.org/download/steve_chill_freshman/05%20-%20Gotta%20Go%20in%20Summer.mp3)
+- ![Kesäl pakko on MP3](https://archive.org/download/oulupoko_ylaaste/05%20-%20Kes%C3%A4l%20pakko%20on.mp3)
 ## Background
 Sävellys/projectname: 2002/sunshine beat
 Background: The summer of happiness. My family got 256kpbs broadband to our house and I downloaded all the fun stuff from KaZaA. Including a lot of bl_nde b_g t_t p_rn, games and music.

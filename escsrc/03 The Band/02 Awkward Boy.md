@@ -1,5 +1,7 @@
 # Awkward boy (Nolo poika)
 
+## Meta
+- ![Nolo polo MP3](https://archive.org/download/oulupoko_bandiin/02%20-%20Nolo%20polo.mp3)
 ## Background
 This is the best version of the "teen story" song so far. It's very balanced.
 

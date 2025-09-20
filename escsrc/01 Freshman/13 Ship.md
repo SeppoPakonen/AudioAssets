@@ -1,5 +1,8 @@
 # Ship (Laiva)
 
+## Meta
+- ![Ship MP3](https://archive.org/download/steve_chill_freshman/13%20-%20Ship.mp3)
+- ![Laiva MP3](https://archive.org/download/oulupoko_ylaaste/13%20-%20Laiva.mp3)
 ## Background
 Old song from probably 2004.
 

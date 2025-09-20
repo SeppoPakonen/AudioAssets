@@ -3,7 +3,8 @@
 ## Meta
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
-
+- ![I want you MP3](https://archive.org/download/steve_chill_sophomore/05%20-%20I%20want%20you.mp3)
+- ![Tahdon sut MP3](https://archive.org/download/oulupoko_lukioon/05%20-%20Tahdon%20sut.mp3)
 ## Background
 This song was my longest running project, which took years and years to make, and still didn't sound as what I felt in my mind.
 

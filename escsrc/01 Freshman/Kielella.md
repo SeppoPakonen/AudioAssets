@@ -4,7 +4,6 @@
 - Type: Notes/lyrics draft
 - Album: 01 Freshman
 - Languages: FI
-
 ## Background/Notes (verbatim)
 ```
 Taustaa:

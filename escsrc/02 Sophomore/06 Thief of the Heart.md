@@ -3,7 +3,8 @@
 ## Meta
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
-
+- ![Thief of the Heart MP3](https://archive.org/download/steve_chill_sophomore/06%20-%20Thief%20of%20the%20Heart.mp3)
+- ![Sydämen varas MP3](https://archive.org/download/oulupoko_lukioon/06%20-%20Syd%C3%A4men%20varas.mp3)
 ## Background
 I was proud of this song when I made it.
 I thought that it had a touching melody. As usual, I couldn't figure out what to say in lyrics, so I left that part undone. I just had an idea about some sort of escape. It had to be combination of physical and mental escape.

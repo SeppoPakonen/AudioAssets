@@ -1,5 +1,8 @@
 # Girlfriend from Canada
 
+## Meta
+- ![Girlfriend from Canada MP3](https://archive.org/download/steve_chill_to_the_band/03%20-%20Girlfriend%20from%20Canada.mp3)
+- ![Girlfriend from Canada MP3](https://archive.org/download/oulupoko_bandiin/04%20-%20Girlfriend%20from%20Canada.mp3)
 ## Background
 This is one of those songs, which I hade to make to impress my band mates. I never liked this and now I hate it.
 

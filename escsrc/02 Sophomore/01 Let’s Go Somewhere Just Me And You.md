@@ -3,7 +3,8 @@
 ## Meta
 - Album year: 2005 (published FI+EN)
 - Languages: FI + EN (published)
-
+- ![Let's Go Somewhere Just Me And You MP3](https://archive.org/download/steve_chill_sophomore/01%20-%20Let%27s%20Go%20Somewhere%20Just%20Me%20And%20You.mp3)
+- ![Mennään jonnekkin kahestaan MP3](https://archive.org/download/oulupoko_lukioon/01%20-%20Menn%C3%A4%C3%A4n%20jonnekkin%20kahestaan.mp3)
 ## Background
 I made this song in 2005 when I learned to use Guitar Pro. Clean guitar lead is from some Alanis Morrisette song and chorus chords are similar to a Leevi and the Leavings song.
 

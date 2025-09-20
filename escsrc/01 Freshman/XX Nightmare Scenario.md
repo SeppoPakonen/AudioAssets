@@ -3,7 +3,6 @@
 ## Meta
 - Type: Notes linking to 11 Invincible
 - Language: FI
-
 ## Notes (verbatim)
 ```
 Säe 1

@@ -4,7 +4,8 @@
 - Year: 2002 (proj. “relaxed”); packaged 2025
 - Style: Pop‑punk; male vocal; upbeat major‑key
 - Languages: FI + EN (published)
-
+- ![Kitarasielu MP3](https://archive.org/download/oulupoko_ylaaste/04%20-%20Pitsaa%20ja%20karkkia.mp3)
+- ![Pizza and Candy MP3](https://archive.org/download/steve_chill_freshman/04%20-%20Pizza%20and%20Candy.mp3)
 ## Background
 The meaning of this song is that life is too short to rush through it. Instead, it is important to take a step back, reflect, and savor the moments that are experienced. It is important to let go of the everyday stress and live in the present moment. This song encourages listeners to take a break, appreciate the little things, and find peace in taking life slowly.
 

@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![Peepin' people MP3](https://archive.org/download/steve_chill_sophomore/08%20-%20Peepin%27%20people.mp3)
+- ![Ujostus MP3](https://archive.org/download/oulupoko_lukioon/08%20-%20Ujostus.mp3)
 ## Background
 This is actually one of my all-time favourite songs to play with fingers and acoutic guitar. I have playing this often all the time after composing this.
 

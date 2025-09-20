@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![My jittering MP3](https://archive.org/download/steve_chill_sophomore/07%20-%20My%20jittering.mp3)
+- ![Tärisen MP3](https://archive.org/download/oulupoko_lukioon/07%20-%20T%C3%A4risen.mp3)
 ## Background
 
 This might be my all-time favourite song of mine.

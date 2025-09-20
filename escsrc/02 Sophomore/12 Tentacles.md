@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![Tentacles MP3](https://archive.org/download/steve_chill_sophomore/12%20-%20Tentacles.mp3)
+- ![Lonkerot MP3](https://archive.org/download/oulupoko_lukioon/12%20-%20Lonkerot.mp3)
 ## Background/Notes (verbatim)
 
 Composed 21.12.2005

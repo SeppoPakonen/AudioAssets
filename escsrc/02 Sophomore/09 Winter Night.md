@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![Winter night MP3](https://archive.org/download/steve_chill_sophomore/09%20-%20Winter%20night.mp3)
+- ![Talviyö MP3](https://archive.org/download/oulupoko_lukioon/09%20-%20Talviy%C3%B6.mp3)
 ## Background
 Composition finished: 17.12.2021
 This is very original song from 2005. It even had first verse for it. Only major new things are chorus extension and C part. They follow the original idea closely. I also added ensemble strings and a guitar solo. The song structure is the very generic one, because the original was unfinished structurally.

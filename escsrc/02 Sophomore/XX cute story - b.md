@@ -2,7 +2,6 @@
 
 ## Meta
 - Album: 02 Sophomore
-
 ## Background/Notes (verbatim)
 
 A list of topics for a song, in which a cute and perfectly fine teenage love happens with a good ending:

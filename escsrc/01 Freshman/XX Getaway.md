@@ -3,7 +3,6 @@
 ## Meta
 - Type: Notes linking to 07 You’re Just Awful
 - Language: FI
-
 ## Notes (verbatim)
 ```
 Säe 1

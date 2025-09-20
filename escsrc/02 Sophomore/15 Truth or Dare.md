@@ -2,7 +2,8 @@
 
 ## Meta
 - Album: 02 Sophomore
-
+- ![Truth or Dare MP3](https://archive.org/download/steve_chill_sophomore/15%20-%20Truth%20or%20Dare.mp3)
+- ![Totuus vai tehtävä MP3](https://archive.org/download/oulupoko_lukioon/15%20-%20Totuus%20vai%20teht%C3%A4v%C3%A4.mp3)
 ## Background
 Original idea, chords, bass and melody was used.
 Complete rework was done in 26.2.2021 based on the original idea. Vocal melody was also added later.

@@ -1,5 +1,8 @@
 # The Treehouse (Puumaja)
 
+## Meta
+- ![The Treehouse MP3](https://archive.org/download/steve_chill_to_the_band/06%20-%20The%20Treehouse.mp3)
+- ![Puumaja MP3](https://archive.org/download/oulupoko_bandiin/07%20-%20Puumaja.mp3)
 ## Background
 This song dates back to a composition I really liked in 2003-2004. The original version is probably lost. The riff from the original song echoes in many later songs because I enjoyed playing it on guitar. I wrote it for several later songs, including this one.
 

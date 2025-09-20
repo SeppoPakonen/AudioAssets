@@ -1,5 +1,8 @@
 # She (Hän)
 
+## Meta
+- ![She MP3](https://archive.org/download/steve_chill_to_the_band/07%20-%20She.mp3)
+- ![Hän MP3](https://archive.org/download/oulupoko_bandiin/08%20-%20H%C3%A4n.mp3)
 ## Background
 This is made soon after I started to date for the first time.
 

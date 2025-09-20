@@ -1,5 +1,8 @@
 # Eat Shit (Syö paskaa)
 
+## Meta
+- ![Eat Shit MP3](https://archive.org/download/steve_chill_to_the_band/09%20-%20Eat%20Shit.mp3)
+- ![Syö paskaa MP3](https://archive.org/download/oulupoko_bandiin/10%20-%20Sy%C3%B6%20paskaa.mp3)
 ## Background
 This is yet another effort to make music for a rock band. I had half a year of experience in playing in a band. I tried to compose all kinds of band music, which would be fun to play for my bandmates. I didn't really think what I liked, but I just wanted to keep the band playing. One lesson was learned, that your bandmates will never be satisfied, and if you haven't satisfied yourself, then noone will be satisfied in the end. This is one of those "no-one got satisfied" songs.
 

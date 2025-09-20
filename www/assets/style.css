@@ -1,0 +1,56 @@
+
+/* Basic CSS for old browsers first */
+html, body { margin: 0; padding: 0; }
+body { font: 16px/1.4 Arial, Helvetica, sans-serif; color: #111; background: #f4f4f7; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 12px; }
+.header { padding: 16px 0; }
+.title { font-size: 24px; font-weight: bold; }
+.subtitle { color: #555; }
+.grid { /* float fallback */ }
+.col { float: left; width: 100%; box-sizing: border-box; padding: 8px; }
+.card { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 12px; }
+.muted { color: #666; }
+.list { margin: 0; padding-left: 18px; }
+.list li { margin: 4px 0; }
+.clearfix:after { content: ""; display: table; clear: both; }
+.chip { display: inline-block; padding: 2px 6px; border: 1px solid #ccc; border-radius: 10px; font-size: 12px; color: #333; background: #fafafa; }
+.sep { font-weight: bold; margin-top: 12px; border-top: 1px dashed #ddd; padding-top: 8px; }
+.footer { margin: 24px 0; color: #777; font-size: 12px; }
+
+/* Progressive enhancement */
+@supports (display: grid) {
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
+  .col { float: none; width: auto; padding: 0; }
+}
+
+/* Fancy but safe background animation */
+@media (prefers-reduced-motion: no-preference) {
+  .banner {
+    background: linear-gradient(120deg, #f0f3ff, #faf6ff);
+    position: relative;
+    overflow: hidden;
+  }
+  .banner:before {
+    content: ""; position: absolute; inset: -40%;
+    background: radial-gradient(120px 120px at 20% 30%, rgba(83, 109, 254, 0.08), transparent 60%),
+                radial-gradient(140px 140px at 70% 40%, rgba(255, 64, 129, 0.06), transparent 60%),
+                radial-gradient(180px 180px at 40% 80%, rgba(0, 200, 83, 0.05), transparent 60%);
+    animation: floaty 16s linear infinite;
+  }
+  @keyframes floaty {
+    from { transform: translate3d(0,0,0) rotate(0deg); }
+    to   { transform: translate3d(0,0,0) rotate(360deg); }
+  }
+}
+
+.pill { padding: 3px 8px; border-radius: 999px; background: #eef; color: #334; font-size: 12px; border: 1px solid #ccd; }
+.tag { font-size: 12px; color: #555; }
+.nav { margin-top: 8px; }
+.nav a { display: inline-block; margin-right: 8px; }
+.section-title { margin: 8px 0; font-size: 18px; }
+.album-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.album-grid li { border: 1px solid #ddd; border-radius: 6px; background: #fff; padding: 10px; }
+.small { font-size: 13px; }
+.badge { padding: 2px 6px; border-radius: 8px; background: #f0f0f8; border: 1px solid #ddd; }

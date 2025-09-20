@@ -1,5 +1,8 @@
 # Come to Bed Now (Tuu jo sänkyyn)
 
+## Meta
+- ![Come to Bed Now MP3](https://archive.org/download/steve_chill_to_the_band/02%20-%20Come%20to%20Bed%20Now.mp3)
+- ![Tuu jo sänkyyn MP3](https://archive.org/download/oulupoko_bandiin/03%20-%20Tuu%20jo%20s%C3%A4nkyyn.mp3)
 ## Background
 Splitted part from original "answermachine". This just didn't fit to the original because of the different tempo. Split made 16.6.2021 while cleaning old files.
 
