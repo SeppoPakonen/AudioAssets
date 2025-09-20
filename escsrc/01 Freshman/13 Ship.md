@@ -7,7 +7,7 @@
 Old song from probably 2004.
 
 ### 8.6.2021
-I was hiking in Oulu between Sankivaara and Muhos (Tervareitti) when I had this idea near Motnta. It was cloudless and really summery. I was quite thirsty, and I was wondering how I would get a beer when I got to the bar at the Montta campsite.
+I was hiking in Oulu between Sankivaara and Muhos (Tervareitti) when I had this idea near Montta . It was cloudless and really summery. I was quite thirsty, and I was wondering how I would get a beer when I got to the bar at the Montta campsite.
 
 ## Meta
 - Year: 2004–2005 (est.); packaged 2025
