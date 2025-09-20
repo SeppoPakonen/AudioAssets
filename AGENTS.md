@@ -52,7 +52,12 @@ Albums, Years, Naming
 Languages & Releases
 - Finnish (FI) is primary; English (EN, US-EN) is secondary.
 - Aim to release FI first or in parallel with EN. Maintain FI/EN parity for album/archive texts and plainly note where translations are assisted by AI.
- - Published bilingual albums: `01 Freshman`, `02 Sophomore`, `03 The Band` are already released in both FI and EN. Treat lyrics for these albums as final (not drafts). Prefer non‑invasive edits; propose substantial rewrites as clearly marked `-draft` variants rather than altering the published text.
+- Published bilingual albums: `01 Freshman`, `02 Sophomore`, `03 The Band` are already released in both FI and EN. Treat lyrics for these albums as final (not drafts). Prefer non‑invasive edits; propose substantial rewrites as clearly marked `-draft` variants rather than altering the published text.
+
+AI Usage & Disclosure (Lyrics, Compositions, Video)
+- Lyrics and compositions/arrangements: Must not be AI-generated. FI lyrics and `.tg` scores are human-authored only; this is a strict rule and part of the public commitment.
+- Proof-of-authorship: Scores were composed with TuxGuitar prior to the ChatGPT era; do not imply they are AI work.
+- Music videos and visual assets: You may use AI freely for storyboards, shot lists, prompts, and video-production planning. This freedom applies to video concepts/scripts and visuals. The AI limitation applies to lyrics and compositions/arrangements only.
 
 AI Usage & Disclosure (Lyrics & Compositions)
 - Compositions and original Finnish lyrics must not be AI-generated. All `.tg` scores and FI lyrics are human-authored only; this is a strict rule and critical PR commitment.
@@ -149,7 +154,8 @@ Contact & Context
 - Year folders roughly match the composer’s age and history (born 1989-12-04). Albums are numbered in release order: `01`, `02`, ...
 Markdown Conversion Rules (Lyrics & Docs)
 - Conversion: When converting a song `.txt` to `.md`, migrate all information (lyrics, style/notes, background, inspiration). After verifying completeness, remove the converted `.txt` from the repo.
-- Package listing: Update the album `.upp` file list to replace removed `.txt` entries with the new `.md` entries. Keep all readonly year separators intact. `AGENTS.md` and `CURRENT_TASK.md` should appear first in any `.upp` file list.
+ - Package listing: Update the album `.upp` file list to replace removed `.txt` entries with the new `.md` entries. Keep all readonly year separators intact. `AGENTS.md` and `CURRENT_TASK.md` should appear first in any `.upp` file list.
+   - Important: when you convert a `.txt` to `.md`, also remove (or rename to `.md`) that exact `.txt` filename from the `.upp` file list so there are no dangling references.
  - Package listing (placement): When replacing a `.txt` with a `.md`, keep the new `.md` at the same position and under the same year separator where the `.txt` originally lived. Do not regroup converted files under a newer/current year separator.
 - Sections: Use second‑level headings (`##`) for sections at minimum: `## Meta`, `## Inspiration`, `## Structure`, `## Lyrics (FI)`, `## Lyrics (EN)`, `## Background/Notes` (add `## Production/Style` when relevant).
 - Lyrics fencing: Always wrap every lyrics block in fenced code blocks using triple backticks. Preserve line breaks and do not reflow unless explicitly requested.
@@ -158,6 +164,8 @@ Markdown Conversion Rules (Lyrics & Docs)
   - `## Author` for `>>>>` blocks
   - `## AI` for `<<<<` blocks
   Keep the literal marker lines (`>>>>` / `<<<<`) inside the fenced blocks. Do not rewrite or summarize these blocks unless explicitly requested.
+  - Optional consolidation: If the exchange reads naturally as a back‑and‑forth (e.g., question/answer), you may place both `>>>>` and `<<<<` blocks under a single `## Discussion` section, in chronological order, keeping each block’s literal marker lines inside the same or consecutive fenced blocks. Use this when it improves readability (e.g., 02 Sophomore/06 Thief of the Heart.md).
+  - No omissions: Always copy the full contents of every `>>>>` and `<<<<` block into the `.md` (no ellipses, no truncation). You may add an informative section title above (e.g., `## Discussion`, `## Video Concept`, `## Social Post`), but the fenced content itself must be complete and verbatim.
 - Separator lines (`---------`): Long lines of hyphens in `.txt` denote a separator between conceptual blocks. Treat each as its own section in `.md`. Add a concise `##` section title; if no explicit name exists, invent a clear, descriptive one (e.g., "Social Post", "Release Notes", "Day Log"). Keep the following content verbatim with original line breaks. Only translate on request.
  - Notes cue (`Muistiinpanot:`): When a `.txt` contains a `Muistiinpanot:` (notes) block, create a new `## Notes: <AI SUMMARY>` section in the `.md` with a short, descriptive summary you write. Keep the original `Muistiinpanot:` text verbatim elsewhere (inside a fenced block under Background/Notes) — do not modify it.
  - Song name cue (`Kappale "..."`): Normalize `Kappale "<name>"` to `Title: <name>` in your structured sections. You may add a brief one‑line AI heading or description under that title. Do not alter the original line inside verbatim blocks.
