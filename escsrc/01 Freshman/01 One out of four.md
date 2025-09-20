@@ -6,7 +6,7 @@
 - Languages: FI + EN (published)
 - ![One out of four MP3](https://dn720703.ca.archive.org/0/items/steve_chill_freshman/01%20-%20One%20out%20of%20four.mp3)
 - ![Yksi neljästä MP3](https://archive.org/download/oulupoko_ylaaste/01%20-%20Yksi%20nelj%C3%A4st%C3%A4.mp3)
-- ![One out of four MP3](https://archive.org/download/steve_chill_freshman/01%20-%20One%20out%20of%20four.mp3)
+
 ## Background
 Around 2001, me and my friend Antti found the Fruity Loops app. We had been interested about making music, because we "played" eJay on PC and Music2000 on PS1. I think Antti had tested the Fruity once before and I had never even seen it. Antti have had some music theory lessons, so he showed how to make chords. I think we made bass and melody together. I took the song home with me (with good old 1.44Mb floppy) and kept learning how to make music. I used Fruit for maybe a year after that.
 

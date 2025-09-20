@@ -5,6 +5,7 @@
 - Languages: FI + EN (published)
 - ![Cougar MP3](https://archive.org/download/steve_chill_sophomore/04%20-%20Cougar.mp3)
 - ![Puuma MP3](https://archive.org/download/oulupoko_lukioon/04%20-%20Puuma.mp3)
+
 ## Background/Notes (verbatim)
 This song has a very memorable guitar riff for me. The riff means a lot to me, even though it's simple. I just got my first electric guitar when I composed this and I had played guitar for just a few months basically. I hadn't made more than the riff, so I had to make the whole song in 2021 based on it. I think this is a honest take of how it probably would have sounded. The chords comes from the riff by the way, and that's just music math.
 
