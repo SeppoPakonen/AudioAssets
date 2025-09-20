@@ -14,6 +14,7 @@ a:hover { text-decoration: underline; }
 .muted { color: #666; }
 .list { margin: 0; padding-left: 18px; }
 .list li { margin: 4px 0; }
+.card pre, pre.card, pre.card code { line-height: 1.2; }
 .clearfix:after { content: ""; display: table; clear: both; }
 .chip { display: inline-block; padding: 2px 6px; border: 1px solid #ccc; border-radius: 10px; font-size: 12px; color: #333; background: #fafafa; }
 .sep { font-weight: bold; margin-top: 12px; border-top: 1px dashed #ddd; padding-top: 8px; }
@@ -54,3 +55,9 @@ a:hover { text-decoration: underline; }
 .album-grid li { border: 1px solid #ddd; border-radius: 6px; background: #fff; padding: 10px; }
 .small { font-size: 13px; }
 .badge { padding: 2px 6px; border-radius: 8px; background: #f0f0f8; border: 1px solid #ddd; }
+
+/* Doc view toggle */
+.doc-toggle { margin: 8px 0; }
+.doc-toggle button { margin-right: 6px; padding: 4px 8px; }
+.mode-rendered .doc-raw { display: none; }
+.mode-raw .doc-rendered { display: none; }

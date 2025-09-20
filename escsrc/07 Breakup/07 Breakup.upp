@@ -1,6 +1,5 @@
 description "\377B113,42,150";
 
-
 file
 	2007 readonly separator,
 	"01 gas.tg",
@@ -11,4 +10,4 @@ file
 	"06 marching.tg",
 	"07 starstruck.tg",
 	"08 dirty art.tg";
-	
+

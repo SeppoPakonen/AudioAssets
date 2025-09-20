@@ -1,6 +1,5 @@
 description "\377B198,42,0";
 
-
 file
 	2007 readonly separator,
 	"01 ace.tg",
@@ -12,4 +11,4 @@ file
 	"07 something positive.tg",
 	"08 sweet dreams.tg",
 	"09 weird.tg";
-	
+

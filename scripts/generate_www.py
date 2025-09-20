@@ -127,6 +127,7 @@ a:hover { text-decoration: underline; }
 .muted { color: #666; }
 .list { margin: 0; padding-left: 18px; }
 .list li { margin: 4px 0; }
+.card pre, pre.card, pre.card code { line-height: 1.2; }
 .clearfix:after { content: ""; display: table; clear: both; }
 .chip { display: inline-block; padding: 2px 6px; border: 1px solid #ccc; border-radius: 10px; font-size: 12px; color: #333; background: #fafafa; }
 .sep { font-weight: bold; margin-top: 12px; border-top: 1px dashed #ddd; padding-top: 8px; }
@@ -167,6 +168,12 @@ a:hover { text-decoration: underline; }
 .album-grid li { border: 1px solid #ddd; border-radius: 6px; background: #fff; padding: 10px; }
 .small { font-size: 13px; }
 .badge { padding: 2px 6px; border-radius: 8px; background: #f0f0f8; border: 1px solid #ddd; }
+
+/* Doc view toggle */
+.doc-toggle { margin: 8px 0; }
+.doc-toggle button { margin-right: 6px; padding: 4px 8px; }
+.mode-rendered .doc-raw { display: none; }
+.mode-raw .doc-rendered { display: none; }
 '''
 
     script = r'''
@@ -186,6 +193,67 @@ a:hover { text-decoration: underline; }
   var collapser = document.getElementById('collapse-all');
   if (expander) expander.onclick = function(){ toggleAll('details', true); };
   if (collapser) collapser.onclick = function(){ toggleAll('details', false); };
+
+  // Query param helper
+  function getParam(name){
+    try {
+      var u = new URL(window.location.href);
+      return u.searchParams.get(name);
+    } catch(e) { return null; }
+  }
+
+  // Doc render toggle
+  var viewRendered = document.getElementById('view-rendered');
+  var viewRaw = document.getElementById('view-raw');
+  var body = document.body;
+  function setDocMode(mode){
+    if (!body) return;
+    if (mode === 'rendered') { body.classList.add('mode-rendered'); body.classList.remove('mode-raw'); }
+    else { body.classList.add('mode-raw'); body.classList.remove('mode-rendered'); }
+    try { localStorage.setItem('aa_doc_mode', mode); } catch(e){}
+  }
+  if (viewRendered) viewRendered.onclick = function(){ setDocMode('rendered'); };
+  if (viewRaw) viewRaw.onclick = function(){ setDocMode('raw'); };
+  (function initDocMode(){
+    if (!viewRendered && !viewRaw) return;
+    var q = getParam('polish');
+    var pref = null;
+    try { pref = localStorage.getItem('aa_doc_mode'); } catch(e){}
+    if (q === '1') setDocMode('rendered');
+    else if (q === '0') setDocMode('raw');
+    else if (pref) setDocMode(pref);
+    else setDocMode('rendered');
+  })();
+
+  // Album filter: show only songs (md) and skip archive/agents/xx
+  var filterBox = document.getElementById('filter-songs-only');
+  function applyFilter(){
+    var only = filterBox && filterBox.checked;
+    var items = document.querySelectorAll('ul.list li.file-item');
+    for (var i=0;i<items.length;i++){
+      var it = items[i];
+      var tag = it.getAttribute('data-tag') || '';
+      var name = (it.getAttribute('data-name') || '').toLowerCase();
+      var hide = false;
+      if (only){
+        if (tag !== 'doc') hide = true;
+        if (!hide) {
+          if (name.startsWith('xx ')) hide = true;
+          if (name.indexOf('eng archive') === 0 || name.indexOf('fin archive') === 0) hide = true;
+          if (name === 'agents.md' || name === 'current_task.md') hide = true;
+        }
+      }
+      it.style.display = hide ? 'none' : '';
+    }
+    try { localStorage.setItem('aa_album_filter', only ? '1':'0'); } catch(e){}
+  }
+  if (filterBox){
+    filterBox.onchange = applyFilter;
+    var pref = null; try { pref = localStorage.getItem('aa_album_filter'); } catch(e){}
+    if (getParam('polish') === '1') filterBox.checked = true;
+    else if (pref) filterBox.checked = (pref === '1');
+    applyFilter();
+  }
 })();
 '''
 
@@ -194,25 +262,90 @@ a:hover { text-decoration: underline; }
 
 
 def render_markdown_basic(md_text: str) -> str:
-    """Very small Markdown renderer sufficient for our docs.
+    """Small, dependency-free Markdown renderer.
+    Block support:
     - Headings (# .. ######)
     - Unordered lists (- item)
     - Code fences (``` ... ```)
+    - Horizontal rule (--- or ***)
     - Paragraphs
-    Everything else is escaped. Keep simple and dependency-free.
+    Inline support:
+    - Links [text](url)
+    - Autolinks <http://...>
+    - Images ![alt](url) — special case: if URL contains .mp3, render as a link instead of image
+    - Code spans `code`
+    - Emphasis: *em* _em_, **strong** __strong__ (basic)
     """
+    def render_inlines(text: str) -> str:
+        # Protect code spans first
+        code_spans = []
+        def code_sub(m):
+            idx = len(code_spans)
+            code_spans.append('<code>' + escape(m.group(1)) + '</code>')
+            return f"\u0000C{idx}\u0000"
+        text2 = re.sub(r'`([^`]+)`', code_sub, text)
+
+        # Images -> if mp3, render as link; else <img>
+        def img_sub(m):
+            alt, url = m.group(1), m.group(2)
+            if '.mp3' in url.lower():
+                return '<a href="' + escape(url) + '">' + escape(alt or 'Audio') + '</a>'
+            return '<img class="md-img" src="' + escape(url) + '" alt="' + escape(alt) + '">' 
+        text2 = re.sub(r'!\[([^\]]*)\]\(([^)\s]+)\)', img_sub, text2)
+
+        # Links [text](url)
+        def link_sub(m):
+            label, url = m.group(1), m.group(2)
+            return '<a href="' + escape(url) + '">' + escape(label) + '</a>'
+        text2 = re.sub(r'\[([^\]]+)\]\(([^)\s]+)\)', link_sub, text2)
+
+        # Autolinks <http://...>
+        text2 = re.sub(r'<(https?://[^>\s]+)>', lambda m: '<a href="' + escape(m.group(1)) + '">' + escape(m.group(1)) + '</a>', text2)
+
+        # Protect produced HTML tags from inline emphasis replacement
+        html_tokens = []
+        def protect_html(m):
+            idx = len(html_tokens)
+            html_tokens.append(m.group(0))
+            return f"\u0000H{idx}\u0000"
+        text2 = re.sub(r'<a [^>]*?>.*?</a>', protect_html, text2)
+        text2 = re.sub(r'<img [^>]*?>', protect_html, text2)
+
+        # Bold then italics (very basic, non-nested)
+        text2 = re.sub(r'\*\*([^*]+)\*\*', lambda m: '<strong>' + escape(m.group(1)) + '</strong>', text2)
+        text2 = re.sub(r'__([^_]+)__', lambda m: '<strong>' + escape(m.group(1)) + '</strong>', text2)
+        text2 = re.sub(r'\*([^*]+)\*', lambda m: '<em>' + escape(m.group(1)) + '</em>', text2)
+        text2 = re.sub(r'_([^_]+)_', lambda m: '<em>' + escape(m.group(1)) + '</em>', text2)
+
+        # Restore protected HTML
+        def restore_html(s: str) -> str:
+            def rep(m):
+                idx = int(m.group(1))
+                return html_tokens[idx]
+            return re.sub(r'\x00H(\d+)\x00', rep, s)
+        text2 = restore_html(text2)
+
+        # Restore code spans
+        def restore_codes(s: str) -> str:
+            def rep(m):
+                idx = int(m.group(1))
+                return code_spans[idx]
+            return re.sub(r'\x00C(\d+)\x00', rep, s)
+        return restore_codes(text2)
+
     lines = md_text.splitlines()
     out = []
     in_code = False
     in_list = False
     para_buf = []
+    code_buf = []
 
     def flush_para():
         nonlocal para_buf
         if para_buf:
             text = ' '.join(para_buf).strip()
             if text:
-                out.append('<p>' + escape(text) + '</p>')
+                out.append('<p>' + render_inlines(text) + '</p>')
             para_buf = []
 
     def close_list():
@@ -224,16 +357,21 @@ def render_markdown_basic(md_text: str) -> str:
     for line in lines:
         if line.startswith('```'):
             if in_code:
-                out.append('</code></pre>')
+                # Flush code block
+                content = '\n'.join(code_buf)
+                # Collapse multiple blank lines to a single blank line
+                content = re.sub(r'\n{2,}', '\n', content).strip('\n')
+                out.append('<pre class="card"><code>' + escape(content) + '</code></pre>')
                 in_code = False
+                code_buf = []
             else:
                 flush_para()
                 close_list()
                 in_code = True
-                out.append('<pre class="card"><code>')
+                code_buf = []
             continue
         if in_code:
-            out.append(escape(line) + '\n')
+            code_buf.append(line)
             continue
         if not line.strip():
             flush_para()
@@ -244,7 +382,12 @@ def render_markdown_basic(md_text: str) -> str:
             flush_para()
             close_list()
             level = len(m.group(1))
-            out.append(f'<h{level}>' + escape(m.group(2).strip()) + f'</h{level}>')
+            out.append(f'<h{level}>' + render_inlines(m.group(2).strip()) + f'</h{level}>')
+            continue
+        # Horizontal rule
+        if re.match(r'^\s*([-*_])\1\1+\s*$', line):
+            flush_para(); close_list()
+            out.append('<hr>')
             continue
         if re.match(r'^\s*-\s+', line):
             flush_para()
@@ -252,7 +395,7 @@ def render_markdown_basic(md_text: str) -> str:
                 out.append('<ul class="list">')
                 in_list = True
             item = re.sub(r'^\s*-\s+', '', line)
-            out.append('<li>' + escape(item) + '</li>')
+            out.append('<li>' + render_inlines(item) + '</li>')
             continue
         para_buf.append(line.strip())
 
@@ -316,15 +459,19 @@ def gen_md_doc_page(album_name: str, album_slug: str, md_path: Path):
     players_html = '\n'.join(players) if players else '<div class="card small muted">No MP3 links found in this document.</div>'
 
     # Markdown (rendered in polished mode) or raw fallback
-    content_html = render_markdown_basic(md_text) if POLISHED else f'<pre class="card small">{escape(md_text)}</pre>'
+    rendered = render_markdown_basic(md_text)
+    raw_block = f'<pre class="doc doc-raw card small">{escape(md_text)}</pre>'
+    rendered_block = f'<div class="doc doc-rendered">{rendered}</div>'
 
     src_rel = rel_from(WWW / 'albums' / album_slug / slugify_basename(md_path.name), md_path)
+    toggle_ui = '<div class="doc-toggle small nav"><button id="view-rendered" class="badge">Rendered</button> <button id="view-raw" class="badge">Raw</button></div>'
     body = (
         f'<div class="small muted">Source: <a href="{escape(src_rel)}">{escape(md_path.name)}</a></div>'
         f'<div class="section-title">Audio</div>'
         f'{players_html}'
         f'<div class="section-title">Document</div>'
-        f'{content_html}'
+        f'{toggle_ui}'
+        f'{rendered_block}{raw_block}'
     )
     return layout(title, body, breadcrumbs=[('Home', '/'), (album_name, f'/albums/{album_slug}/'), (os.path.splitext(md_path.name)[0], None)], base_prefix='../../../')
 
@@ -446,13 +593,13 @@ def gen_album_page(album_name: str, upp_path: Path):
 
     blocks = []
     blocks.append('<div class="small muted">Source folder: ' + escape(rel_from(page_dir, album_dir)) + '</div>')
-    blocks.append('<div class="small nav"><button id="expand-all" class="badge">Expand all</button> <button id="collapse-all" class="badge">Collapse all</button></div>')
+    blocks.append('<div class="small nav"><button id="expand-all" class="badge">Expand all</button> <button id="collapse-all" class="badge">Collapse all</button> <label style="margin-left:8px;"><input type="checkbox" id="filter-songs-only"> Show only songs</label></div>')
 
     for label, items in sections:
         # details open by default for old browsers (which ignore <details>)
         rows = []
         for disp, href, tag in items:
-            rows.append(f'<li><a href="{escape(href)}">{disp}</a> <span class="tag">[{escape(tag)}]</span></li>')
+            rows.append(f'<li class="file-item" data-tag="{escape(tag)}" data-name="{disp}"><a href="{escape(href)}">{disp}</a> <span class="tag">[{escape(tag)}]</span></li>')
         ul = '<ul class="list">' + '\n'.join(rows) + '</ul>'
         blocks.append(f'<details open><summary class="sep">{escape(label)}</summary>{ul}</details>')
 

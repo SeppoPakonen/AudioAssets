@@ -1,6 +1,5 @@
 description "\377B28,42,0";
 
-
 file
 	2009 readonly separator,
 	"01 bad vibes.tg",
@@ -10,6 +9,5 @@ file
 	"05 summer 2009 (at the summer cottage).tg",
 	Trash readonly separator,
 	"xx I'll find something - part 1 - b.tg",
-	"xx pirate song - b.tg"
-	;
+	"xx pirate song - b.tg";
 

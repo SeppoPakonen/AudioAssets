@@ -7,20 +7,21 @@
 - ![Invincible (original) MP3](https://archive.org/download/oulupoko_ylaaste/11%20-%20Invincible.mp3)
 - ![Invincible MP3](https://archive.org/download/steve_chill_freshman/11%20-%20Invincible.mp3)
 ## Background/Notes
-```
-ORIGINAL LYRICS FROM 2006.
-ALSO IN FINNISH ALBUM
-
-Background:
 Originally played by my band The Vice
 The original name of this song was "The Battle", but my friend Milja Björn liked this song and she made lyrics for this song with the title "Feels like home". I think those lyrics have been forgotten now.
 I made this at the time when I was learning to play the guitar. This was something that I wanted to learn to play next. I could do only some chords and simple melodies.
 Also, this was made shortly after I hiked for the first time in Finnish Lapland. That was 1 week long trip with my class (I'm was in Walforf school). It was fun and exhausting at the same time, which I think gave the feeling for this song.
-Refurbished: 31.7.2022
-```
+
+- Refurbished: 31.7.2022
 
 ## Structure
-- Instrumental → Verse 1 → Chorus → Verse 2 → Chorus → Bridge + Guitar Solo → Chorus (out)
+- Instrumental
+- Verse 1
+- Chorus
+- Verse 2
+- Chorus
+- Bridge + Guitar Solo
+- Chorus (out)
 
 ## Lyrics (EN)
 ```
