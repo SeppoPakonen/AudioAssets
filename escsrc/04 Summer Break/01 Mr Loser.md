@@ -19,15 +19,45 @@ The song structure includes verses and a chorus, with instrumental breaks,
 The production is clean, with a slight reverb on the vocals and guitar,
 The overall mood is somber and reflective
 
-
+## Structure
+- Intro (Instrumental)
+- Chorus (Instrumental)
+- Verse 1
+	1. 3+3=6 syllables
+	2. 1+3+3=7
+	3. 3+3=6
+	4. 1+3+3=7
+	5. 1+1+2+2+3=9
+	6. 2+4+4=10
+	8. 1+2+2+1=6
+	9. 3+3+3+1=10
+- Chorus
+	1. 1+1+2+2+3=9
+	2. 1+1+1
+	3. 1+1+2+2+3=9
+	4. 1+1+1
+- Instrumental
+- Verse 2: as verse 1
+- Chorus
+- Instrumental
+- Outro
+	1. 4+4+5=13
+	2. 4+4+5+1=14
+	3. 1+2+4=7
+	4. 1+2+2=5
+	5. 1+2+2=5
+	6. 1+3=4
+	7. 1+3=4
+	8. 1+3=4
+	9. 1+3=4
+	
 
 ## Lyrics (FI)
 Title: Tervetuloa
 ```
 [Intro]
-(mm-mm)
-Hei vaan
-Tervetuloo
+Heippa
+Heippa taas
 
 [Instrumental]
 (oo-oo)
@@ -36,57 +66,38 @@ Tervetuloo
 (oo-oo)
 
 [Verse 1]
-Katso kukkaniittyä, kun aaltoilee ne tuules
-Katso sinitaivasta, kun saa se mielen nouseen
-
-Katso taivas, pellot kiiltää — näky mielen rauhoittaa.
-Täällä kukaan ei vihaa sinua,
-Kukaan ei petä sinua.
-Tämä tuntuu siltä kodilta, jota itkien kaipasit pois,
-siltä, missä hiljaa nukuit pois.
+Tuuli lehtii keinuttaa, ne auringossa kasvaa
+Sinitaivas, linnutkin, hengen multa noutaa
+On rauha ja rakkaus
+.
+Tää tuntuu kuin taivaalta
+.
 
 [Chorus]
-Tervetuloa — tämä on kohtalosi,
-Tervetuloa kotiin.
-Tervetuloa — viivy täällä ikuisesti,
-Tervetuloa kotiin.
-
-[Instrumental]
-(oo-oo)
-(oo-oo)
-(oo-oo)
-(oo-oo)
+Hei taas, kohtalos on kadota
+kotona
+Hei taas, täytyy jäädä olemaan
+kotona
 
 [Verse 2]
-Aurinko, kärpäset, tulikärpäset — kasvoillesi valon tuo, ne tervehtii sinua,
-Taivaan yli huokaava tuuli kuiskaa: se tarvitsee sinua.
-Täällä kukaan ei pilkkaa sinua,
-Kukaan ei järkytä sinua.
-Tämä tuntuu siltä kodilta, jonka kadotit, kun lämpö sammui,
-kun hänen hellä katseensa sammui.
 
-[Chorus]
-Tervetuloa — tämä on kohtalosi,
-Tervetuloa kotiin.
-Tervetuloa — viivy täällä ikuisesti,
-Tervetuloa kotiin.
 
 [Bridge]
-En tiedä, mitä tapahtui,
-mutta tiedän: nyt on paremmin.
-Kuuletko minut, lähelläni, vierelläni,
-kun hetki sen sallii?
-Kohtaammeko vielä uudelleen?
+Mä en tiedä, miks täytyy jäädä
+Mut näin on parempi
+Kuuletko mua, kutsun sua
+Milloin tavataan uudestaan?
 
 [Outro]
-Kohtaammeko vielä uudelleen?
-Näemmekö rajan tuolle puolen?
-Kohtaammeko vielä uudelleen,
-kuin joki kohtaa sateen?
-Missä olet nyt?
-Kaipaan sinua...
-Toivon näkeväni pian,
-hopeisen kuun alla.
+Tavataanko milloinkaan?
+Ennen loppua?
+Tavataanko milloinkaan?
+Kuin pisarat joessa
+Missä sä oot?
+Mä kaipaan sua jo
+Mä toivon että sut nään
+Valoina yöllä
+
 ```
 
 

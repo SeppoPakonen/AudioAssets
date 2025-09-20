@@ -7,6 +7,11 @@ Please contact me for commercial usage.
 
 Songs are sorted to folders based on their original composition year. They show well my learning process. I was 11 years old in 2001, when I started, which should give the perspective.
 
+## Start Here
+- Open `escsrc/Timeline/Timeline.upp` in TheIDE to browse all active years and albums.
+- Only packages and years referenced by Timeline are considered active. Unreferenced material lives in `escsrc/_attic/`.
+- Obsolete non-music tooling and notes have been moved under `legacy/` to keep the focus on `escsrc/`.
+
 
 ## Instructions
 ### File extensions:

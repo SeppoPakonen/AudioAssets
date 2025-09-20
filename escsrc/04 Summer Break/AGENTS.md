@@ -43,3 +43,24 @@ AI Disclosure (Template)
   [how the author approved the change]
 - Steering mitigation notes: [confirm neutral options, wild cards offered, no ideological steering]
 - Policy reminder: No AI for compositions or original Finnish lyrics. Keep Archive.org disclosures in sync.
+
+---
+
+AI Disclosure
+- Date: 2025-09-20
+- Song(s): 01 Mr Loser
+- Task type: Translation brief, meter template, rhyme assistance (no FI lines generated)
+- Source material:
+  """
+  Used the English lyrics in escsrc/04 Summer Break/01 Mr Loser.md as reference. No Finnish source text was supplied or generated.
+  """
+- Prompts given to AI (verbatim):
+  """
+  User requested EN→FI lyrics translation with adherence to structure and syllable counts. Due to policy, the AI provided a placeholder template and guidance only; no Finnish lyric content was produced.
+  """
+- AI outputs considered/used (quote exact lines):
+  """
+  Added a structured placeholder template with per‑line syllable targets under “Lyrics (FI)”. Added neutral guidance (meter, rhyme families, word banks) outside the lyric fence.
+  """
+- Material change to lyrics? No — Finnish lyrics remain to be written by the author.
+- Steering mitigation notes: Provided multiple neutral options (rhyme families, synonym sets) without prescribing style or ideology. Emphasized author control and meter fidelity.

@@ -1,0 +1,6 @@
+# Exclude archived content from `git archive` exports
+legacy/ export-ignore
+escsrc/_attic/ export-ignore
+
+# Common transient dirs (safe even if absent)
+tmp/ export-ignore
