@@ -89,10 +89,21 @@
     var css = '.banner{background:linear-gradient(120deg,'+bg1+','+bg2+');}' +
               '.banner:before{background:radial-gradient(120px 120px at 20% 30%,'+c1+', transparent 60%),' +
               'radial-gradient(140px 140px at 70% 40%,'+c2+', transparent 60%),' +
-              'radial-gradient(180px 180px at 40% 80%,'+c3+', transparent 60%);}';
+              'radial-gradient(180px 180px at 40% 80%,'+c3+', transparent 60%);}'+
+              '.main{background:linear-gradient(180deg,'+bg1+','+bg2+');}';
     var el = document.getElementById('aa-theme');
     if (!el){ el = document.createElement('style'); el.id = 'aa-theme'; document.head.appendChild(el); }
     el.textContent = css;
+  }
+
+  function startGradientLoop(baseR, baseG, baseB){
+    try { if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return; } catch(e){}
+    function clamp(x){ return Math.max(0, Math.min(255, x)); }
+    function jitter(x, amt){ return clamp(x + Math.round((Math.random()*2-1)*amt)); }
+    setInterval(function(){
+      var rr = jitter(baseR, 20), gg = jitter(baseG, 20), bb = jitter(baseB, 20);
+      applyTheme(rr, gg, bb);
+    }, 8000);
   }
 
   // Apply album theme if provided via data attrs; else random on home page
@@ -103,13 +114,14 @@
     var g = bodyEl.getAttribute('data-base-g');
     var b = bodyEl.getAttribute('data-base-b');
     var page = bodyEl.getAttribute('data-page');
-    if (r && g && b){ applyTheme(parseInt(r,10), parseInt(g,10), parseInt(b,10)); return; }
+    if (r && g && b){ var br=parseInt(r,10), bg=parseInt(g,10), bb=parseInt(b,10); applyTheme(br, bg, bb); startGradientLoop(br,bg,bb); return; }
     if (page === 'home'){
       // Random pleasant base per load
       var rr = Math.floor(Math.random()*156)+50; // 50-205
       var gg = Math.floor(Math.random()*156)+50;
       var bb = Math.floor(Math.random()*156)+50;
       applyTheme(rr,gg,bb);
+      startGradientLoop(rr,gg,bb);
     }
   })();
 })();

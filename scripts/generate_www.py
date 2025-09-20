@@ -157,6 +157,7 @@ a:hover { text-decoration: underline; }
     background: linear-gradient(120deg, #f0f3ff, #faf6ff);
     position: relative;
     overflow: hidden;
+    transition: background 2.5s ease;
   }
   .banner:before {
     content: ""; position: absolute; inset: -40%;
@@ -164,6 +165,7 @@ a:hover { text-decoration: underline; }
                 radial-gradient(140px 140px at 70% 40%, rgba(255, 64, 129, 0.06), transparent 60%),
                 radial-gradient(180px 180px at 40% 80%, rgba(0, 200, 83, 0.05), transparent 60%);
     animation: floaty 16s linear infinite, huecycle 40s linear infinite;
+    transition: background 3s ease;
     filter: hue-rotate(0deg);
   }
   @keyframes floaty {
@@ -287,10 +289,21 @@ a:hover { text-decoration: underline; }
     var css = '.banner{background:linear-gradient(120deg,'+bg1+','+bg2+');}' +
               '.banner:before{background:radial-gradient(120px 120px at 20% 30%,'+c1+', transparent 60%),' +
               'radial-gradient(140px 140px at 70% 40%,'+c2+', transparent 60%),' +
-              'radial-gradient(180px 180px at 40% 80%,'+c3+', transparent 60%);}';
+              'radial-gradient(180px 180px at 40% 80%,'+c3+', transparent 60%);}'+
+              '.main{background:linear-gradient(180deg,'+bg1+','+bg2+');}';
     var el = document.getElementById('aa-theme');
     if (!el){ el = document.createElement('style'); el.id = 'aa-theme'; document.head.appendChild(el); }
     el.textContent = css;
+  }
+
+  function startGradientLoop(baseR, baseG, baseB){
+    try { if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return; } catch(e){}
+    function clamp(x){ return Math.max(0, Math.min(255, x)); }
+    function jitter(x, amt){ return clamp(x + Math.round((Math.random()*2-1)*amt)); }
+    setInterval(function(){
+      var rr = jitter(baseR, 20), gg = jitter(baseG, 20), bb = jitter(baseB, 20);
+      applyTheme(rr, gg, bb);
+    }, 8000);
   }
 
   // Apply album theme if provided via data attrs; else random on home page
@@ -301,13 +314,14 @@ a:hover { text-decoration: underline; }
     var g = bodyEl.getAttribute('data-base-g');
     var b = bodyEl.getAttribute('data-base-b');
     var page = bodyEl.getAttribute('data-page');
-    if (r && g && b){ applyTheme(parseInt(r,10), parseInt(g,10), parseInt(b,10)); return; }
+    if (r && g && b){ var br=parseInt(r,10), bg=parseInt(g,10), bb=parseInt(b,10); applyTheme(br, bg, bb); startGradientLoop(br,bg,bb); return; }
     if (page === 'home'){
       // Random pleasant base per load
       var rr = Math.floor(Math.random()*156)+50; // 50-205
       var gg = Math.floor(Math.random()*156)+50;
       var bb = Math.floor(Math.random()*156)+50;
       applyTheme(rr,gg,bb);
+      startGradientLoop(rr,gg,bb);
     }
   })();
 })();
@@ -569,6 +583,9 @@ def layout(title: str, body_html: str, subtitle: str = None, breadcrumbs=None, b
         c1 = f"rgba({tint(r,0.10)}, {tint(g,0.10)}, {tint(b,0.10)}, 0.14)"
         c2 = f"rgba({tint(r,0.25)}, {tint(g,0.25)}, {tint(b,0.25)}, 0.10)"
         c3 = f"rgba({tint(r,0.40)}, {tint(g,0.40)}, {tint(b,0.40)}, 0.08)"
+        # Also compute a vertical main gradient
+        mg1 = f"#{to_hex(tint(r,0.93))}{to_hex(tint(g,0.93))}{to_hex(tint(b,0.93))}"
+        mg2 = f"#{to_hex(tint(r,0.80))}{to_hex(tint(g,0.80))}{to_hex(tint(b,0.80))}"
         theme_style = f"""
 <style>
 .banner{{background: linear-gradient(120deg, {bg1}, {bg2});}}
@@ -577,6 +594,7 @@ def layout(title: str, body_html: str, subtitle: str = None, breadcrumbs=None, b
               radial-gradient(140px 140px at 70% 40%, {c2}, transparent 60%),
               radial-gradient(180px 180px at 40% 80%, {c3}, transparent 60%);
 }}
+.main{{background: linear-gradient(180deg, {mg1}, {mg2});}}
 </style>
 """
     # Body attributes for JS theme (front page random)
@@ -603,9 +621,11 @@ def layout(title: str, body_html: str, subtitle: str = None, breadcrumbs=None, b
       {bc_html}
     </div>
   </div>
-  <div class="wrap">
-    {body_html}
-    <div class="footer">Static site generated from escsrc/Timeline. No server-side code. <span class="muted small">Works without JS; modern browsers get subtle animations.</span></div>
+  <div class="main">
+    <div class="wrap">
+      {body_html}
+      <div class="footer">Static site generated from escsrc/Timeline. No server-side code. <span class="muted small">Works without JS; modern browsers get subtle animations.</span></div>
+    </div>
   </div>
 <script src="{escape(base_prefix)}assets/script.js"></script>
 '''

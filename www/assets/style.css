@@ -32,6 +32,7 @@ a:hover { text-decoration: underline; }
     background: linear-gradient(120deg, #f0f3ff, #faf6ff);
     position: relative;
     overflow: hidden;
+    transition: background 2.5s ease;
   }
   .banner:before {
     content: ""; position: absolute; inset: -40%;
@@ -39,6 +40,7 @@ a:hover { text-decoration: underline; }
                 radial-gradient(140px 140px at 70% 40%, rgba(255, 64, 129, 0.06), transparent 60%),
                 radial-gradient(180px 180px at 40% 80%, rgba(0, 200, 83, 0.05), transparent 60%);
     animation: floaty 16s linear infinite, huecycle 40s linear infinite;
+    transition: background 3s ease;
     filter: hue-rotate(0deg);
   }
   @keyframes floaty {
