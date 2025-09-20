@@ -52,6 +52,28 @@ Albums, Years, Naming
 Languages & Releases
 - Finnish (FI) is primary; English (EN, US-EN) is secondary.
 - Aim to release FI first or in parallel with EN. Maintain FI/EN parity for album/archive texts and plainly note where translations are assisted by AI.
+ - Published bilingual albums: `01 Freshman`, `02 Sophomore`, `03 The Band` are already released in both FI and EN. Treat lyrics for these albums as final (not drafts). Prefer non‑invasive edits; propose substantial rewrites as clearly marked `-draft` variants rather than altering the published text.
+
+AI Usage & Disclosure (Lyrics & Compositions)
+- Compositions and original Finnish lyrics must not be AI-generated. All `.tg` scores and FI lyrics are human-authored only; this is a strict rule and critical PR commitment.
+- Proof-of-authorship: scores were composed with TuxGuitar prior to the ChatGPT era. Do not label or imply these as AI work.
+- Finnish inspiration texts are first-class creative artifacts—treat them as at least as important as the FI lyrics.
+- Workflow policy:
+  - Write Finnish lyrics by hand.
+  - Optionally translate FI → EN with AI assistance and request opinions/phrasing; keep the English as a translation and helper context.
+  - It is acceptable to turn Finnish inspiration texts into rough English lyric drafts to explore the song’s vibe; use that exploration to inform the handwritten Finnish lyrics.
+- Allowed AI assistance:
+  - Rhyme-book style help (rhymes, synonyms, meter) and broad brainstorming.
+  - Present many diverse options, including wild-card ideas; do not narrow or steer the author.
+- Prohibited AI assistance:
+  - Any material contribution to Finnish lyrics or musical composition.
+  - Steering the author toward particular stylistic/ideological frames (e.g., US political binaries) or low-trust societal norms; preserve the author’s intent and Finland’s high-trust perspective.
+- Material change protocol:
+  - If an AI suggestion would materially change lyrics, explicitly ask the author first and provide a wide, neutral option set without preference.
+- AI Disclosure requirement:
+  - If AI is used for any lyric-related task (including EN translation, brainstorming, or rhyme assistance), add an "AI Disclosure" section to the nearest `AGENTS.md` (album or song folder). You may include other notes, but you must include the specific lyric text(s) involved and a clear description of what AI did.
+  - Keep disclosure consistent with Archive.org deliverables where AI assistance is already listed; ensure both stay in sync.
+- PR note: Assume the audience is sensitive to AI usage. Emphasize that compositions and original Finnish lyrics are handmade by the author.
 
 File Types & Conventions
 - `.tg`: Authoritative composition source. TuxGuitar comments (F5) may include important notes.
@@ -125,3 +147,18 @@ Notes for AI Agents
 Contact & Context
 - Finnish is the author’s native language. Releases are prepared in both Finnish and English, with a tendency to publish Finnish first.
 - Year folders roughly match the composer’s age and history (born 1989-12-04). Albums are numbered in release order: `01`, `02`, ...
+Markdown Conversion Rules (Lyrics & Docs)
+- Conversion: When converting a song `.txt` to `.md`, migrate all information (lyrics, style/notes, background, inspiration). After verifying completeness, remove the converted `.txt` from the repo.
+- Package listing: Update the album `.upp` file list to replace removed `.txt` entries with the new `.md` entries. Keep all readonly year separators intact. `AGENTS.md` and `CURRENT_TASK.md` should appear first in any `.upp` file list.
+ - Package listing (placement): When replacing a `.txt` with a `.md`, keep the new `.md` at the same position and under the same year separator where the `.txt` originally lived. Do not regroup converted files under a newer/current year separator.
+- Sections: Use second‑level headings (`##`) for sections at minimum: `## Meta`, `## Inspiration`, `## Structure`, `## Lyrics (FI)`, `## Lyrics (EN)`, `## Background/Notes` (add `## Production/Style` when relevant).
+- Lyrics fencing: Always wrap every lyrics block in fenced code blocks using triple backticks. Preserve line breaks and do not reflow unless explicitly requested.
+- Background text preservation: Never modify any "background" text (context/provenance notes). Keep wording and line breaks verbatim. Only translate background texts on explicit request; when adding a translation, include it as a clearly labeled translated subsection alongside the original, not a replacement.
+- Provenance markers (>>>> / <<<<): Some `.txt` files contain blocks starting with `>>>>` and `<<<<`. Carry these into `.md` unmodified and wrap them in code fences. Use simple section headers without marker suffixes:
+  - `## Author` for `>>>>` blocks
+  - `## AI` for `<<<<` blocks
+  Keep the literal marker lines (`>>>>` / `<<<<`) inside the fenced blocks. Do not rewrite or summarize these blocks unless explicitly requested.
+- Separator lines (`---------`): Long lines of hyphens in `.txt` denote a separator between conceptual blocks. Treat each as its own section in `.md`. Add a concise `##` section title; if no explicit name exists, invent a clear, descriptive one (e.g., "Social Post", "Release Notes", "Day Log"). Keep the following content verbatim with original line breaks. Only translate on request.
+- Languages: Treat Finnish (FI) as canonical; clearly note if English (EN) translations are AI‑assisted.
+- Archive files: Do not delete `ENG Archive.txt` or `FIN Archive.txt` when converting; they are canonical for Archive.org.
+- TuxGuitar context: If background notes exist in `.tg` or were moved out, capture them under `## Background/Notes` in the corresponding `.md`.

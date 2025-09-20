@@ -1,3 +1,4 @@
+>>>>
 Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Olen artisti ja kappaleiden tekijä, ja kannessa kuvassa.
 
 Artisti: Steve Chill
@@ -119,8 +120,7 @@ Is This Any Real Help
 ISRC QZZ7U2569045
 
 
-----------------------------------------------------------------------------------------------------------------------------------
-
+<<<<
 Here’s a polished, archive-ready README.txt in English for your release. If you want a different tone (more minimal, more personal, etc.), say the word and I’ll reshape it.
 
 ---
@@ -209,7 +209,7 @@ Blog: [https://oulupoko.blogspot.com/](https://oulupoko.blogspot.com/)
 If you’d like, I can also generate a plain-text .txt file for download or add your Steve Chill contact details here (email, socials) to match the previous album’s format.
 
 
-----------------------------------------------------------------------------------------------------------------
+<<<<
 **Short description (for the item page)**
 *To The Band* is an English-language album by Steve Chill (Seppo Pakonen), collecting songs written at age 16 in 2006 in Oulu, Finland. The original MP3 demos were transcribed during 2020; final productions use Suno’s cover workflow (no material change to compositions) and were mastered with iZotope Ozone 11. This archive includes lossless masters plus MIDI/TuxGuitar files and lyrics. Works are registered with Teosto (IPI 1201855096); please credit the listed ISRCs. Release date: Sept 29, 2025. DistroKid UPC: 199737961682. Related Finnish release: **OuluPoko — Bändiin**.
 

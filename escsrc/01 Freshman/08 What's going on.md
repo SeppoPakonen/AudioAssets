@@ -1,6 +1,23 @@
-Date: 19.7.2025
-Title: Mitä tapahtuu
+# What’s Going On? (Mitä tapahtuu)
 
+## Meta
+- Year: 2003; packaged 2025-07-20
+- Style: Melancholic pop-rock ballad; minor key
+- Languages: FI + EN (published)
+
+## Background/Notes
+```
+Date: 19.7.2025
+
+Background: Only the remix of this song survived, which I modified based on memory to be closer to the original. Most of the 2003 songs has not survived to this day. Refurbished from original 29.7.2022
+```
+
+## Structure
+- Intro → Verse 1 → Pre-chorus → Chorus → Verse 2 → Pre-chorus → Chorus → Bridge → Pre-chorus 3 → Chorus
+
+## Lyrics (FI)
+```
+Title: Mitä tapahtuu
 
 [Intro]
 Tutut naamat
@@ -62,10 +79,10 @@ Et mitä tapahtuu?
 Miksei kerrota?
 Haistan pelkoa
 kun tää painajaista on
+```
 
-
------------------------
-
+## Separator — English Adaptation
+```
 Title: What’s Going On?
 
 [Intro]
@@ -128,8 +145,10 @@ So what’s going on?
 Why won’t y’all say it?
 I smell the fear,
 this nightmare’s playin’ on
+```
 
-
+## Author (>>>>)
+```
 >>>>
 Autat kirjoittamaan musiikkivideon screenplayn slideshow kuville. Autat myös luomaan tekstit kuva-generaattori-tekoälylle.
 
@@ -138,7 +157,10 @@ Kappaleen tyyli: A melancholic pop rock ballad in a minor key, featuring a femal
 
 Title: Painajainen
 ....
+```
 
+## AI (<<<<)
+```
 <<<<
 Seuraavassa ehdotus “Painajainen”-kappaleen musiikkivideon slideshow-formaatista sekä kuhunkin kuvaan sopivat tekstit generatiiviselle kuva-AI:lle.
 
@@ -167,75 +189,11 @@ Yleiset ohjeet
     Siirtymä: nopea cross-dissolve
     AI-prompt: “Lonely woman in a dark forest, illuminated by a flashlight from below, deep shadows, tense expression, cinematic style, subtle reverb effect visualized as soft glow”
 
-    VERSE 1 – kohtaus 2 (0:35–0:50)
-    Kesto: 15 s
-    Kuvaus: Hämärä juhlapaikka, pöytiä ja tuoleja, mutta kukaan ei istu. Vain tyhjiä laseja, lievästi heiluvat varjot.
-    Siirtymä: fade-to-black rytmin mukaan
-    AI-prompt: “Abandoned party scene at dusk, empty glasses on wooden tables, chairs askew, soft moving shadows, melancholic ambience, muted colors”
+    …
+```
 
-    PRECHORUS 1 (0:50–1:05)
-    Kesto: 15 s
-    Kuvaus: Ovi, jonka ikkuna on sumuinen. Sormet koskettavat lasia sisältäpäin, kuin yrittäen avata ulospääsyä.
-    Siirtymä: hidas cross-dissolve sumuun
-    AI-prompt: “Close-up of a foggy glass door, hand pressing from inside, blurred background, sense of urgency, low saturation, cinematic tension”
-
-    CHORUS – kohtaus 1 (1:05–1:20)
-    Kesto: 15 s
-    Kuvaus: Unenomaisia, venyviä kasvoja katsoo suoraan kameraan. Taustalla liikkuvaa punaista sumua.
-    Siirtymä: nopea leikkaus rytmiin
-    AI-prompt: “Dreamlike stretched faces floating toward the viewer, swirling red mist behind, high emotional intensity, surreal horror-pop aesthetic”
-
-    CHORUS – kohtaus 2 (1:20–1:35)
-    Kesto: 15 s
-    Kuvaus: Käsi puristaa seinää, halkeamat leviävät valkoisina viivoina. Tunnelma uhkaava.
-    Siirtymä: fade-to-black
-    AI-prompt: “Hand pressed against cracked concrete wall, fractures glowing white, ominous atmosphere, muted grays and blacks, cinematic close-up”
-
-    VERSE 2 (1:35–1:50)
-    Kesto: 15 s
-    Kuvaus: Sumuinen metsäpolku, askeleet näkyvät maassa. Juuri kun kamera lähestyy asetta, polku katoaa.
-    Siirtymä: hidas rajaus sumuläpään kautta
-    AI-prompt: “Foggy forest path with fresh footprints, camera approaching footprints until the path vanishes, eerie woodland, cool desaturated tones”
-
-    PRECHORUS 2 (1:50–2:05)
-    Kesto: 15 s
-    Kuvaus: Vieraita hahmoja hämärässä käytävässä, näkökulma utuisen lampun valosta taaksepäin. Hahmot sumuisina siluetteina.
-    Siirtymä: cross-dissolve
-    AI-prompt: “Indistinct silhouettes walking down a dimly lit corridor, hazy lamp glow behind, mysterious guests, cinematic low-key lighting”
-
-    CHORUS (2:05–2:25)
-    Kesto: 20 s
-    Kuvaus: Kaikin puolin nopeasti vaihtuvia kauhuelementtejä – slow-motion käsiä, verhojen lepatus, lens flare punaista.
-    Siirtymä: intensiivinen leikkaus biitissä
-    AI-prompt: “Rapid cut montage of horror elements in slow motion: flailing hands, fluttering curtains, red lens flare, dark melancholic mood”
-
-    BRIDGE (2:25–2:40)
-    Kesto: 15 s
-    Kuvaus: Nainen makaa maassa sykkivin valoheijastuksin, ruumis näyttää väsyneeltä, hengitys höyrynä. Yläviistosta kuva.
-    Siirtymä: hitainen zoom-out ja fade
-    AI-prompt: “Top-down view of a fatigued woman lying on concrete floor, pulsing reflections, visible breath in cold air, somber film grain”
-
-    PRECHORUS 3 (2:40–2:55)
-    Kesto: 15 s
-    Kuvaus: Avaamaton lahjapaketti keskellä huonetta, kulmista nousee mustaa savua. Kamera kiertää sitä hitaasti.
-    Siirtymä: cross-dissolve savuun
-    AI-prompt: “Unopened gift box on dusty floor, black smoke rising from edges, slow 360° pan, ominous surreal vibe, muted color palette”
-
-    FINAL CHORUS (2:55–3:20)
-    Kesto: 25 s
-    Kuvaus: Kaikki aiemmat elementit vilisevät läpi nopeana montaasina, lopussa jää tyhjä tuoli keskiöön, valo sammuu.
-    Siirtymä: nopea leikkaussarja + lopuksi fade-to-black
-    AI-prompt: “High-speed montage of previous nightmare scenes, ending on an empty chair in spotlight, sudden blackout, cinematic crescendo”
-
-    OUTRO (3:20–3:30)
-    Kesto: 10 s
-    Kuvaus: Musta ruutu, heikko kuiskausääni, yksittäinen hengityksen ääni, viimeinen sykäys valoa.
-    Siirtymä: mustasta valoon (pain muu) ja sitten fade-out
-    AI-prompt: “Pitch-black screen with soft whispering and a single breathing sound visualized as faint pulsing light, haunting minimalism”
-
-Näillä kuvauksilla ja tekstipromeilla saat yhtenäisen, visuaalisesti synkän ja emotionaalisen slideshow-tyyppisen musiikkivideon “Painajaisesta”.
-
-
+## Author (>>>>)
+```
 >>>>
 Julkaisen vanhoja kappaleitani yksi päivässä.
 Nyt on päivä 10.
@@ -249,8 +207,10 @@ Style: A melancholic pop rock ballad in a minor key, featuring a male vocalist w
 
 Lyrics:
 ...
+```
 
-
+## AI (<<<<)
+```
 <<<<
 Julkaisen 1 vanhan biisin päivässä!
 📅 Päivä 10: sävellys vuodelta 2003 (olin 13) – alunperin “Nightmares”, nyt “Mitä tapahtuu”
@@ -271,3 +231,5 @@ Tämä on vuodelta 2003, kun olin 13 v, alunperin nimellä “Nightmares”. Nyt
 ❤️ Peukuta ja kerro kommenteissa, mitä tunteita tää herättää.
 
 #MitäTapahtuu #Day10 #2003 #Flashback #PopRockBallad #Melankolia #SunoAI #IndieArtist #OldSongsNewVibes #UusiMusiikki
+```
+

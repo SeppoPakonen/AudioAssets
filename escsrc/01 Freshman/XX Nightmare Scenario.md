@@ -1,7 +1,11 @@
-Vastaava kappale: 11 Invincible
+# XX Nightmare Scenario
 
-Muistiinpanoja:
+## Meta
+- Type: Notes linking to 11 Invincible
+- Language: FI
 
+## Notes (verbatim)
+```
 Säe 1
 On varmaan ollut niitä kohtaloita,
 kun seikkaillessa ei tarvinut tulla takas.
@@ -34,3 +38,5 @@ Bridge
 Kun nyt en turhaa voi juosta maaliin,
 on aikaa ymmärtää positiivisuus kaikissa pienimmissäkin asioissa.
 Voin kertoa vastaantulioille hyvistä asioista, mitä he eivät huomaa itse.
+```
+

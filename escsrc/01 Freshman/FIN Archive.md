@@ -1,3 +1,14 @@
+# FIN Archive (Yläaste)
+
+## Meta
+- Artist: OuluPoko (Seppo Pakonen)
+- Album: Yläaste
+- Release date: Aug 11, 2025
+- UPC: 199506691642
+- Languages: FI + EN (published)
+
+## Author
+```
 Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Julkaisun sisältö on kuitenkin Suomen kielellä, mutta selkeyden vuoksi teksti tehdään englanniksi. Olen artisti ja kappaleiden tekijä.
 
 Artisti: OuluPoko
@@ -45,7 +56,6 @@ Linkkejä suomenkieliseen OuluPoko artistiin:
 - Blog: https://oulupoko.blogspot.com/
 
 Kappalelista:
-
 
 1
 Yksi neljästä
@@ -99,9 +109,9 @@ QZWFV2543669
 
 11
 Invincible
-Sanoitettu jo vuonna 2006 Oululaiselle harrastelu-bändilleni "The Vice". Esitetty keikalla vuonna 2006.
 ISRC
 QZWFV2543670
+   Note: Lyrics for “Invincible” were written in 2006 for my hobby band “The Vice” (Oulu) and performed live in 2006.
 
 12
 Mikä on
@@ -112,92 +122,14 @@ QZWFV2543671
 Laiva
 ISRC
 QZWFV2543672
+```
 
-
---------------------------------------------------------------------------------------------------
-
-TITLE: OuluPoko — Yläaste (Album)
-
-ARTIST: OuluPoko
-CIVIL NAME: Seppo Pakonen
-RELEASE DATE: August 11, 2025
-LANGUAGE: Finnish & English
-DISTROKID UPC: 199506691642
-COLLECTING SOCIETY: Teosto (Finland)
-IPI (Composer/Author): 1201855096
-
-ABOUT THIS RELEASE
-“Yläaste” collects songs I composed between ages 11–15 (years 2001–2005) while living in Oulu, Finland (European Capital of Culture 2026). I wrote, arranged, and produced these pieces independently. Some original projects survived only as early MP3 demos; during the 2020 pandemic I began transcribing the surviving music into notation to preserve how the pieces were originally conceived and to leave a durable archive.
-
-COMPOSITION & PRODUCTION HISTORY
-• 2001–2002: Fruity Loops (early audio sketches)
-• 2002–2003: Propellerhead Reason 1.0 & 2.0 (early audio sketches)
-• 2003–2005: Cubase SX 2 & SX 3 (early audio production)
-• 2005: Guitar Pro 3 (guitar writing, lead sheets)
-• 2020→: Transcription to scores using TuxGuitar; .tg files and MIDI exports included
-
-This archive includes lossless audio of the 2025 album masters, plus supporting MIDI files and notation (TuxGuitar) where available. Lyrics were originally written in Finnish without any AI assistance. Two English-language songs on the album were also written without AI; the language is intentionally unpolished and personal.
-
-AI USAGE DISCLOSURE
-The final productions were created using Suno’s “cover” workflow as a studio tool. I first sang demo vocals against the MIDI arrangements; some melodic and arranging detail was refined during demoing and may not appear in the included MIDI files. AI did not materially alter the lyrics, composition, or core arrangements. Masters were finalized with iZotope Ozone 11.
-
-ARTIST BACKGROUND (2022–2025 context)
-I formally studied music production at Lappia (Tornio), which is now my profession. I live with chronic pain stemming from an assault in May 2008; in hindsight this affected my ability to pursue university studies. I have remained based in Oulu and continue to compose and archive my catalog independently.
-
-RIGHTS, LICENSING & PERMISSIONS
-• Works are registered. Please credit “OuluPoko (Seppo Pakonen)” and reference the ISRC and IPI as listed below.
-• Performance: You may perform these works. Please observe local performance-rights rules and include ISRC/IPI in documentation where possible.
-• Remixes: You may create and share remixes.
-• Lossless availability: As of this release, Archive.org is the only official source for the lossless masters of “Yläaste.”
-• Administration: Teosto (Finland) manages my rights for commercial licensing, synchronization, or significant public distribution. For commercial collaborations, please coordinate with Teosto and contact me directly (details below).
-• Additional note from the artist: Performances in unlicensed contexts are permitted by the artist; always follow applicable local regulations.
-
-TRACKLIST & ISRC CODES
-01 — Yksi neljästä (One of Four) — ISRC QZWFV2543660
-02 — Onneen tai tuhoon (To Happiness or Ruin) — ISRC QZWFV2543661
-03 — Kitarasielu (Guitar Soul) — ISRC QZWFV2543662
-04 — Pitsaa ja karkkia (Pizza and Candy) — ISRC QZWFV2543663
-05 — Kesäl pakko on (Gotta in the Summer) — ISRC QZWFV2543664
-06 — Kesä on ohi (Summer Is Over) — ISRC QZWFV2543665
-07 — Sä oot kamala (You’re Awful) — ISRC QZWFV2543666
-08 — Mitä tapahtuu (What’s Happening) — ISRC QZWFV2543667
-09 — Pahuutta pahempaa (Worse Than Evil) — ISRC QZWFV2543668
-10 — Girl I never had [Explicit lyrics] — ISRC QZWFV2543669
-11 — Invincible — ISRC QZWFV2543670
-   Note: Lyrics for “Invincible” were written in 2006 for my hobby band “The Vice” (Oulu) and performed live in 2006.
-12 — Mikä on (What Is) — ISRC QZWFV2543671
-13 — Laiva (Ship) — ISRC QZWFV2543672
-
-FILES INCLUDED (where available)
-• Lossless album audio (FLAC)
-• MIDI files (documenting hand-written composition parts)
-• TuxGuitar score files (.tg)
-• Lyrics: Finnish originals (two tracks in English)
-
-CREDITS (TOOLS & SOFTWARE)
-Composition/arrangement: 2001–2005 (Fruity Loops; Reason 1/2; Cubase SX 2/3; Guitar Pro 3)
-Notation & MIDI exports: TuxGuitar (2020→)
-Production assistance: Suno (cover workflow; see disclosure above)
-Mastering: iZotope Ozone 11
-
-RELATED RELEASE
-An English-language counterpart exists as “Steve Chill — Freshman (Album).”
-
-CONTACT & LINKS — OULUPOKO
-Email: poko.musiikki@outlook.com
-Linktree: https://linktr.ee/oulupoko
-Spotify: https://open.spotify.com/artist/6OyhbzGtmrQ70gWwJHBUv7
-TikTok: https://www.tiktok.com/@oulupoko
-YouTube: https://www.youtube.com/@oulupoko
-Instagram: https://www.instagram.com/oulupoko
-Facebook: https://www.facebook.com/oulupoko
-Suno: https://suno.com/@oulupoko
-Blog: https://oulupoko.blogspot.com/
-
-
-----------------------------------------------------------------------------------------------------
-Short description
+## Archive description (AI)
+```
 “Yläaste” is a 2025 album by OuluPoko (Seppo Pakonen) compiling songs composed at ages 11–15 (2001–2005) in Oulu, Finland. This archive includes lossless masters plus MIDI/TuxGuitar scores; productions used Suno’s cover workflow and iZotope Ozone 11, with works registered via Teosto (IPI 1201855096; ISRCs per track).
+```
 
-Suggested tags (comma-separated)
+## Archive Tags (AI)
 OuluPoko, Seppo Pakonen, Yläaste, album, 2025, Finnish, Finland, Oulu, music, lossless, FLAC, MIDI, TuxGuitar, Suno, AI-assisted, Fruity Loops, Reason, Cubase, Guitar Pro, Teosto, IPI 1201855096, ISRC, independent, archival, computer music, home recording
+```
+

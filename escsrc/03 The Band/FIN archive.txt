@@ -1,3 +1,4 @@
+>>>>
 Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Julkaisun sisältö on kuitenkin Suomen kielellä, mutta selkeyden vuoksi teksti tehdään englanniksi. Olen artisti ja kappaleiden tekijä.
 
 Artisti: OuluPoko
@@ -112,8 +113,7 @@ Onko tää apua
 ISRC QZZ782544134
 
 
---------------------------------------------------------------------------------------------------
-
+<<<<
 TITLE: OuluPoko — Bändiin (Album)
 
 ARTIST: OuluPoko
@@ -212,7 +212,7 @@ For commercial use, synchronization, or broad distribution, please coordinate wi
 
 
 
---------------------------------------------------------------------------------------------------------
+<<<<
 **Short description (for the item page)**
 OuluPoko — *Bändiin* (2025) collects songs written in 2006 when the artist was 16 in Oulu, Finland. Includes lossless audio, Finnish lyrics (plus one English track), and MIDI/TuxGuitar files documenting the original compositions. Produced in 2025 using Suno’s “cover” workflow (no AI-written music/lyrics) and mastered with iZotope Ozone 11. Rights administered by Teosto; performances and remixes permitted as outlined in the included README (please reference ISRCs and IPI 1201855096).
 

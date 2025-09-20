@@ -1,3 +1,4 @@
+>>>>
 Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Julkaisun sisältö on kuitenkin Suomen kielellä, mutta selkeyden vuoksi teksti tehdään englanniksi. Olen artisti ja kappaleiden tekijä.
 
 Artisti: OuluPoko
@@ -132,7 +133,7 @@ ISRC QZWFW2521603
 
 
 
---------------------------------------------------------------------------------------------------
+<<<<
 **Short description (for “Description” field):**
 
 “**Lukioon**” is a 15-track album by Finnish artist **OuluPoko** (Seppo Pakonen), released **Aug 13, 2025** (UPC **199506269292**). The songs were composed in **2005** at age 15 in **Oulu, Finland**; originals were notated later in **TuxGuitar** with **MIDI** included. 2025 productions used **Suno** (cover workflow) as a studio tool; AI did not materially change lyrics or compositions; mastered with **iZotope Ozone 11**. Includes **lossless masters**, **MIDI**, and **scores**. Works are registered with **Teosto** (IPI **1201855096**); performance and remixing allowed with ISRC/IPI credit.

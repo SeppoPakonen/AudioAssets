@@ -1,9 +1,36 @@
-Date: 17.7.2025
-Tekijä: Seppo Pakonen
-Info: Tein inspiraatio-tekstin peruuttamalla lopusta ja sitten vain kirjotin sanat. Oli pakko lisätä parisuhde teemaa, että oli mitään mielenkiintoista sisältöä sanoissa.
-      Alkuperäisen sävellyksen nimi on "kesä on ohi", ja testasin siinä ensimmäsitä kertaa uuden Propellerheads Reason 2.0:n dramaattisia tremolo viuluja ja muita samplattuja instrumentteja.
-Nimi: Kesä on ohi
+# Summer is over (Kesä on ohi)
 
+## Background
+This song is about the end of summer and the sadness of saying goodbye to the warmth and joy of summer days. It is a metaphor for the end of human life and the inevitability of death. The song speaks to the bittersweetness of saying goodbye to something that has brought us so much pleasure, while also being aware of the fact that it must come to an end. It is a reminder to cherish the moment and make the most of the time we have together.
+
+### Project name: Summer is over
+
+This was made originally with Propellerheads Reason in autumn 2002. I got the cracked app from my friend, who had the luxury of fast broadband internet back in the day. Thanks Pekka!
+
+I just wanted to test string instrument libraries of the Reason. I didn't think much about the melody.
+
+### Dates of editing
+- Autumn 2002
+- 7.12.2022
+- 17.7.2025
+
+
+## Meta
+- Year: 2002 (orig. Reason 2.0 strings test); packaged 2025
+- Style: Finnish hip‑hop feel; dramatic strings (tremolo ensemble)
+- Languages: FI + EN (published)
+
+## Inspiration
+- End of summer as romance and mortality metaphor; brief connection, sudden absence, and seasonal cooling of emotion.
+
+## Structure
+- Verse 1 → Pre-chorus → Chorus → Verse 2 → Pre-chorus → Chorus → Instrumental → Bridge → Chorus → Outro
+
+## Syllable Notes
+- Pending; keep present cadence.
+
+## Lyrics (FI)
+```
 [Verse 1]
 Viime Heinäkuus oli pirunmoinen helle
 Mulle loma oli vapaa työn jälkeen
@@ -66,14 +93,10 @@ Jään nyt alle lumen uuden
 On nyt kesä jäänyt taaksemme
 Kuihtuikin jo tää rakkautemme
 rakkautemme
+```
 
-
-
-----------------
-
-Title: Summer Is Over
-Date: 21.8.2025
-
+## Lyrics (EN)
+```
 [Verse 1]
 Last July sky was blazing, amazing haze
 Time off, climb off the job in a lazy daze
@@ -134,47 +157,7 @@ I’m buried now in snow outside
 Now summer’s gone, withdrawn behind
 Our love decayed, it strayed, it died
 Our love
+```
 
-
->>>>>
-Julkaisen vanhoja kappaleitani yksi päivässä.
-Nyt on päivä 8.
-On menossa vuoden 2002 sävellykset, jolloin olin 12 vuotias.
-Tämän sävellyksen alkuperäinen nimi oli "Kesä on ohi" (ilman sanoituksia), ja valmiin kappaleenkin nimi on nyt "Kesä on ohi".
-Sanoitukset tehdään alkuperäisen sävellyksen idean perusteella.
-Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä.
-Tänään olin ulkona tekemässä sanoituksia ilman internettiä, enkä voinut käyttää riimihakua, joten nämä on erityisen "luomu" sanoitukset.
-
-
-Infoa:
-This song is about the end of summer and the sadness of saying goodbye to the warmth and joy of summer days. It is a metaphor for the end of human life and the inevitability of death. The song speaks to the bittersweetness of saying goodbye to something that has brought us so much pleasure, while also being aware of the fact that it must come to an end. It is a reminder to cherish the moment and make the most of the time we have together.
-Project name: Summer is over
-This was made originally with Propellerheads Reason in autumn 2002. I got the cracked app from my friend, who had the luxury of fast broadband internet back in the day. Thanks Pekka!
-I just wanted to test string instrument libraries of the Reason. I didn't think much about the melody.
-
-
-Style: A Finnish HipHop song with female vocals, The song is in a minor key. Dramatic, string ensemble, tremolo strings
-
-Lyrics:
-...
-
-
-<<<<
-Julkaisen vanhoja sävellyksiäni yhden päivässä – nyt päivä 8!
-12-vuotiaana tehty “Kesä on ohi” sai lopultakin sanoitukset (ja Suno AI -remixin).
-Haikeaa suomi-hiphopia lämmöstä, rakkaudesta ja jäähyväisistä 💔❄️
-👉 Seuraa, jos haluat lisää vintage-bängereitä!
-
-#kesäonoohi #day8 #finnishhiphop #DIY #SunoAI #vintagebeats #uusiölöytö #2002
-
-
->>>>
-Sama postaus myös Instagramiin. Anna räätälöity teksti sinne
-
-<<<<
-Päivä 8 🎶
-”Kesä on ohi” – nuoren 12-vuotiaan vuoden 2002 sävellys on nyt herännyt henkiin sanoituksilla ja Suno AI -remixillä 🚀
-Haikeaa suomi-hiphopia lämmöstä, rakkaudesta ja jäähyväisistä 💔❄️
-Kuuntele biisi bioprofiilissa ja kerro tunteesi👇
-
-#kesäonoohi #day8 #vintagebeats #finnishhiphop #SunoAI #Reason2002 #DIYartist #melankolia #uusiubiisi #muistoja
+## Background/Notes
+- Date: 17.7.2025; source `.txt` includes DAW/Style notes and day-posts. Kept here as provenance.

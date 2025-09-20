@@ -1,8 +1,11 @@
-Vastaava kappale: 07 You're just awful
+# XX Getaway
 
+## Meta
+- Type: Notes linking to 07 You’re Just Awful
+- Language: FI
 
-(Vain muistiinpanoja sisällöstä)
-
+## Notes (verbatim)
+```
 Säe 1
 Vieläkö kellomme käy, kun minun tuntuu pysähtyneen.
 Tiedän, että kiirehti entinen rakkaani muualle, kun minä hidastelin.
@@ -34,4 +37,5 @@ Pelottavaa, on odottaan myrskyn laantumista.
 Onko edes iloinen päivä ja kutsu sun tulla mukaan odottamassa?
 On pakko toimia, en voi vain odottaa, kun asiat on huonosti.
 Juuri nyt on aika jatkaa tekemistä, että asiat kääntyy hyväksi.
+```
 

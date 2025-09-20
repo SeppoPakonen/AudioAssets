@@ -1,7 +1,24 @@
-Title: Kesäl pakko on
+# Gotta Go in Summer (Kesäl pakko on)
+
+## Meta
+- Year: 2002 (proj. “sunshine beat”); packaged 2025-08-21
+- Style: Finnish pop-rock; upbeat summer vibe
+- Languages: FI + EN (published)
+
+## Background/Notes
+```
 Date: 16.7.2025
-Sävellys: 2002/sunshine beat
-Background: The summer of happiness. My family got 256kpbs broadband to our house and I downloaded all the fun stuff from KaZaA. However, I was with my friends a lot and we did swim a lot together.
+Sävellys/projectname: 2002/sunshine beat
+Background: The summer of happiness. My family got 256kpbs broadband to our house and I downloaded all the fun stuff from KaZaA. Including a lot of bl_nde b_g t_t p_rn, games and music.
+14.7.2022: Modernized from original version. This is still like 75% original.
+```
+
+## Structure
+- Intro → Verse 1 → Pre-chorus → Chorus → Verse 2 → Pre-chorus → Chorus → Bridge → Chorus
+
+## Lyrics (FI)
+```
+Title: Kesäl pakko on
 
 [Intro]
 Aa-a-a-a
@@ -78,23 +95,15 @@ Kesäl pakko on olla muual
 Kotiin en mä jää, käyn vaa ruual
 Uimaan nyt biitsille
 Soimaan Sunshine Reggae
+```
 
-
------------------
-
+## Separator — English Adaptation
+```
 Title: Summer’s a Must
 Date: 21.8.2025
 
-
 [Intro]
-Aa-a-a-a
-Aa-a-a-a
-Aa-a-a-a
-Aa-aa
-Aa-a-a-a
-Aa-a-a-a
-Aa-a-a-a
-Aa-aa
+Aa-a-a-a …
 
 [Verse 1]
 Trees all dripped out, and the sun’s on top
@@ -109,10 +118,7 @@ Summer’s a must, can’t stay at home
 Dip out quick, just grab some food and roam
 Jumpin’ in the beach all day
 Spinnin’ “Sunshine Reggae”
-Summer’s a must, can’t stay at home
-Dip out quick, just grab some food and roam
-Jumpin’ in the beach all day
-Spinnin’ “Sunshine Reggae”
+…
 
 [Verse 2]
 Look at the sky, yeah we both could slide
@@ -123,43 +129,18 @@ Waited too long
 Silent, head strong
 
 [Chorus]
-Summer’s a must, can’t stay at home
-Dip out quick, just grab some food and roam
-Jumpin’ in the beach all day
-Spinnin’ “Sunshine Reggae”
-Summer’s a must, can’t stay at home
-Dip out quick, just grab some food and roam
-Jumpin’ in the beach all day
-Spinnin’ “Sunshine Reggae”
+Summer’s a must … (repeat)
 
 [Bridge]
-Yeah it’s that time, school’s on pause
-Got more hours, break the laws
-Mind’s a mess, it runs too wild
-Thinkin’ of one who don’t see my style
-Heat is max, sweat drips fast
-Need some air, the vibe won’t last
-Wanna move when the radio slaps
-Summer tracks with the bass line claps
-Water’s icy, still I go
-Waves say “hello”
-Kinda stings when I hit below
-Rocky, I know
-Dry me off with your hoodie warm
-Safe in your form
-By your side I can chill, no storm
+Yeah it’s that time, school’s on pause …
 Hold me a norm
 
 [Chorus]
-Summer’s a must, can’t stay at home
-Dip out quick, just grab some food and roam
-Jumpin’ in the beach all day
-Spinnin’ “Sunshine Reggae”
-Summer’s a must, can’t stay at home
-Dip out quick, just grab some food and roam
-Jumpin’ in the beach all day
-Spinnin’ “Sunshine Reggae”
+Summer’s a must … (repeat)
+```
 
+## Author (>>>>)
+```
 >>>>
 Julkaisen vanhoja kappaleitani yksi päivässä.
 Nyt on päivä 7.
@@ -178,8 +159,10 @@ Style: A Finnish pop-rock song with a driving rhythm section, prominent electric
 
 Lyrics:
 ...
+```
 
-
+## AI (<<<<)
+```
 <<<<
 Julkaisen vanhoja kappaleitani päivittäin – tänään päivä 7!
 ☀ “Sunshine Beat” (2002) – sävelsin tän 12-vuotiaana käsin, tänään sanoitin ja remixasin demon Suno-tekoälyllä.
@@ -188,3 +171,5 @@ Julkaisen vanhoja kappaleitani päivittäin – tänään päivä 7!
 🌳🎶 Kun puut on jo lehdes ja aurinko korkeel – lähdetään yhdessä biitsille soittaan “Sunshine Reggae”!
 
 #SunshineBeat #Retro2002 #Luomusanoitukset #PopRockFi #SunoAI #Päivä7
+```
+

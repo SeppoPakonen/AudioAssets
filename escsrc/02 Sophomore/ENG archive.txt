@@ -1,3 +1,4 @@
+>>>>
 Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Olen artisti ja kappaleiden tekijä.
 
 Artisti: Steve Chill
@@ -131,8 +132,7 @@ ISRC QZZ7U2538859
 
 
 
-----------------------------------------------------------------------------------------------------------------
-
+<<<<
 TITLE: Steve Chill — Sophomore (Album)
 
 ARTIST: Steve Chill
@@ -213,8 +213,7 @@ Suno playlist: https://suno.com/playlist/1fbe8672-c6ea-4bd0-be59-37108bb16795
 Blog: https://steve-chill-music.blogspot.com/
 
 
-----------------------------------------------------------------------------------------------------------------
-
+<<<<
 **Short description (for the item page)**
 OuluPoko — *Bändiin* (2025) collects songs written in 2006 when the artist was 16 in Oulu, Finland. Includes lossless audio, Finnish lyrics (plus one English track), and MIDI/TuxGuitar files documenting the original compositions. Produced in 2025 using Suno’s “cover” workflow (no AI-written music/lyrics) and mastered with iZotope Ozone 11. Rights administered by Teosto; performances and remixes permitted as outlined in the included README (please reference ISRCs and IPI 1201855096).
 

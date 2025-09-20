@@ -1,8 +1,11 @@
-Vastaava kappale: 09 Worse than the Worst
+# XX Guitar Summer
 
+## Meta
+- Type: Notes linking to 09 Worse than the Worst
+- Language: FI
 
-Muistiinpanot:
-
+## Notes (verbatim)
+```
 Säe 1
 On vapaa rako lähtemään.
 Tätä on odotettu täällä.
@@ -32,4 +35,5 @@ Sä jäät mun mieleen niinkuin Suomenlinna.
 Sun tarinat on Esplanadi.
 Sun puhelinnumero on Viron laiva,
 josta tietenkin mä myöhästyin.
+```
 

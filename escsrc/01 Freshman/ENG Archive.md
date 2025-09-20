@@ -1,3 +1,14 @@
+# ENG Archive (Freshman)
+
+## Meta
+- Artist: Steve Chill (Seppo Pakonen)
+- Album: Freshman
+- Release date: Aug 29, 2025
+- UPC: 199733232755
+- Languages: FI + EN (published)
+
+## Author
+```
 Auta kirjoittamaan README.txt englanniksi julkaisuun, joka tulee archive.org:iin. Olen artisti ja kappaleiden tekijä.
 
 Artisti: Steve Chill
@@ -50,81 +61,11 @@ Linkkejä suomenkieliseen OuluPoko artistiin:
 - YouTube: https://www.youtube.com/@oulupoko
 - Instagram: https://www.instagram.com/oulupoko
 - Facebook: https://www.facebook.com/oulupoko
-- Suno: https://suno.com/@oulupoko
-- Blog: https://oulupoko.blogspot.com/
+- Suno: https://
+```
 
-Kappalelista:
-
-1
-One out of four
-ISRC QZZ7M2589161
-
-2
-ISRC QZZ7M2589162
-
-3
-Guitar soul
-ISRC QZZ7M2589163
-
-4
-Pizza and candy
-ISRC QZZ7M2589164
-
-5
-Gotta go in summer
-ISRC QZZ7M2589165
-
-6
-Summer is over
-ISRC QZZ7M2589166
-
-7
-You're just awful
-ISRC QZZ7M2589167
-
-8
-What's going on
-ISRC QZZ7M2589168
-
-9
-Worse than the worst
-ISRC QZZ7M2589169
-
-10
-Girl I never touched
-ISRC QZZ7M2589170
-
-11
-Invincible
-ISRC QZZ7M2589171
-
-12
-What's up
-ISRC QZZ7M2589172
-
-13
-Ship
-ISRC QZZ7M2589173
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------
-TITLE: Steve Chill — Freshman (Album)
-
-ARTIST: Steve Chill
-CIVIL NAME: Seppo Pakonen
-RELEASE DATE: August 29, 2025
-DISTROKID UPC: 199733232755
-COLLECTING SOCIETY: Teosto (Finland)
-IPI (Composer/Author): 1201855096
-
-ABOUT THIS RELEASE
-Freshman collects songs I composed between ages 11–15 (years 2001–2005) while living in Oulu, Finland (European Capital of Culture 2026). I wrote, arranged, and produced these pieces independently. Some original project files survived only as early MP3 demos; during the 2020 pandemic I began transcribing the surviving music into notation to preserve it for the long term and to document how the pieces were originally conceived.
-
+## Archive README (AI)
+```
 COMPOSITION & PRODUCTION HISTORY
 • 2001–2002: Fruity Loops (early MIDI/audio sketches)
 • 2002–2003: Propellerhead Reason 1.0 & 2.0 (arrangements, sound design)
@@ -180,8 +121,10 @@ Contacts & links for OuluPoko are provided below.
 
 CONTACT & LINKS — STEVE CHILL
 Email: stevechillmusic@gmail.com
+```
 
-------------------------------------------------------------------------------------------------------
-
+## Archive description (AI)
+```
 Freshman is a 13-track album by Finnish artist Steve Chill (Seppo Pakonen), released Aug 29, 2025 (UPC 199733232755). The songs were composed in 2001–2005 in Oulu when the composer was 11–15, then transcribed during 2020–2025; originals used Fruity Loops, Reason 1–2, Cubase SX 2–3, and Guitar Pro 3; scores created in TuxGuitar. 2025 productions used Suno (cover workflow) as a studio tool; AI did not materially change lyrics/compositions; mastered with iZotope Ozone 11. Includes lossless masters, MIDI, and scores; Finnish originals first appeared as OuluPoko. Performance & remixing allowed with ISRC/IPI credit; commercial licensing via Teosto (IPI 1201855096). Contact: stevechillmusic@gmail.com
+```
 

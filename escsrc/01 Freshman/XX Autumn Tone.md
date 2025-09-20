@@ -1,8 +1,11 @@
-Vastaava kappale: 10 Girl I Never touched
+# XX Autumn Tone
 
+## Meta
+- Type: Notes linking to 10 Girl I Never Touched
+- Language: FI
 
-Muistiinpanoja:
-
+## Notes (verbatim)
+```
 Säe 1
 Syksyllä oranssi takkisi sopii somasti lehtiin.
 Vielä ehtii tuntea aamukuuran poutataivaan alla lomaksi.
@@ -24,4 +27,5 @@ Huomaanko oranssia takkiasi lehtien seasta?
 Nauraen sanot, että on liian myöhäistä.
 Tartun sinuun ja irroitan otteeni.
 En voi sanoa enää mitään viisasta siihen.
+```
 

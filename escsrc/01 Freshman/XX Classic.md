@@ -1,8 +1,11 @@
-Vastaava kappale: 12 What's up
+# XX Classic
 
+## Meta
+- Type: Notes linking to 12 What’s Up?
+- Language: FI
 
-Muistiinpanoja:
-
+## Notes (verbatim)
+```
 Säe 1
 Sydän lyö kamalan nopeaa, kun tulet taas vastaan.
 Sun näkeminen on sille polttoainetta ainoastaan.
@@ -30,3 +33,5 @@ Kuka on hiljaa ja varjoon jää?
 Mikä on kun ei saa suuta auki?
 Miksi tiedä ei muiden aikeista ja ajatuksista mitään?
 Tarvitsen lisää aikaasi vain, että selviän.
+```
+

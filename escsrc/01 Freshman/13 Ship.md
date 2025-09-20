@@ -1,6 +1,14 @@
+# Ship (Laiva)
 
-Luonnos:
+## Meta
+- Year: 2004–2005 (est.); packaged 2025
+- Style: Pop; slow tempo; reflective mood
+- Languages: FI + EN (published)
 
+## Background/Notes
+I was hiking in Oulu between Sankivaara and Muhos (Tervareitti) when I had this idea near Motnta. It was cloudless and really summery. I was quite thirsty, and I was wondering how I would get a beer when I got to the bar at the Montta campsite.
+
+```
 Säe 1
 Sun hento ote vesilasiin kurottautuu.
 Katsot mua silmiin ja lokit nauraa vain.
@@ -15,9 +23,10 @@ Matkaan kun vain pääsen, tahdon vain jäädä tänne.
 
 
 Style: A pop song with a slow tempo and a major key, The instrumentation features a clean electric guitar playing arpeggiated chords, a soft synth pad providing atmospheric backing, and a simple drum beat with a prominent kick and snare, The male lead vocal is smooth and slightly reverberated, delivering a gentle melody, The song structure is verse-chorus, with a clear melodic theme, The production emphasizes a spacious mix, allowing each instrument to breathe, The overall mood is reflective and calm
+```
 
-
-
+## Lyrics (FI)
+```
 Suomenkielinen lyriikka:
 Viimeistelty vuonna 2025
 
@@ -42,8 +51,10 @@ Kauas laiva lähtee
 Huokaan tän hetken tähden
 Kauas laiva lähtee
 Huokaan tän hetken tähden
+```
 
-
+## Lyrics (EN)
+```
 English
 [Verse 1]
 Wind on the shoreline
@@ -66,3 +77,5 @@ Far the ship be driftin’
 Sighin’ ‘cause this vibe be liftin’
 Far the ship be driftin’
 Sighin’ ‘cause this vibe be liftin’
+```
+
