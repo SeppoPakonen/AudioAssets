@@ -1,6 +1,8 @@
 description "\377B255,85,0";
 
 file
+	"AGENTS.md",
+	"CURRENT_TASK.md",
 	2007 readonly separator,
 	"01 cheap spirit.tg",
 	"02 sgerberoz.tg",
@@ -12,5 +14,5 @@ file
 	"08 longing.tg",
 	"09 paradise lost.tg",
 	2025 readonly separator,
-	"TV Zombie.txt";
-
+	"TV Zombie.txt",
+	"Love is my song.md";

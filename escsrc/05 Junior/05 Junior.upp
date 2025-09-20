@@ -1,6 +1,8 @@
 description "\377B226,0,255";
 
 file
+	"AGENTS.md",
+	"CURRENT_TASK.md",
 	2006 readonly separator,
 	"01 heartbeat.tg",
 	"02 it could be so.tg",
@@ -16,4 +18,3 @@ file
 	"02 Talking over softly.txt",
 	"03 Feng Shui.txt",
 	"04 Doctor games.txt";
-

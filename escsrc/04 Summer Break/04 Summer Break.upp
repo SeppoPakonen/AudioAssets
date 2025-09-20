@@ -1,6 +1,8 @@
 description "\377B226,42,150";
 
 file
+	"AGENTS.md",
+	"CURRENT_TASK.md",
 	2006 readonly separator,
 	"01 mr loser.tg",
 	"02 wrong way.tg",
@@ -40,4 +42,3 @@ file
 	"16 Tyranny of stupidity.txt",
 	"17 Sofa and tv.txt",
 	"18 Owner hell.txt";
-

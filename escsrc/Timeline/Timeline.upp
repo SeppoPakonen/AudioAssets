@@ -1,3 +1,7 @@
+file
+	"AGENTS.md",
+	"CURRENT_TASK.md";
+
 uses
 	2002,
 	2003,
@@ -37,4 +41,3 @@ uses
 
 mainconfig
 	"" = "";
-
