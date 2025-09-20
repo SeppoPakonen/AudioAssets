@@ -7,7 +7,8 @@ Purpose
 How it’s built
 - Generator: `scripts/generate_www.py` (no external deps).
 - Outputs under `/www`:
-  - `index.html` (Years + Albums)
+  - `index.html` (Albums list + Markdown intro)
+    - Left column content comes from `escsrc/Timeline/Front.md` if present (rendered Markdown)
   - `albums/<album-slug>/index.html`
   - `albums/<album-slug>/<song-slug>/index.html` for each `.md` song/doc with:
     - embedded HTML5 audio players for any MP3 links found in the `.md`

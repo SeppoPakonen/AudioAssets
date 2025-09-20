@@ -511,30 +511,26 @@ def layout(title: str, body_html: str, subtitle: str = None, breadcrumbs=None, b
 '''
 
 
-def gen_index(years, albums):
-    # years: ["2002", ...]
-    # albums: ["01 Freshman", ...]
-    y_links = ' '.join([f'<a class="pill" href="years/{escape(y)}/">{escape(y)}</a>' for y in years])
-
+def gen_index(years, albums, front_html: str = None):
+    # Left: front_html (rendered Markdown), Right: albums
     items = []
     for name in albums:
         slug = slugify(name)
         items.append(f'<li><div class="small muted">Album</div><div><a href="albums/{escape(slug)}/">{escape(name)}</a></div></li>')
     album_html = '<ul class="album-grid">' + '\n'.join(items) + '</ul>'
 
+    left = '<div class="prose">' + (front_html or '<p class="small muted">Browse albums to explore the timeline.</p>') + '</div>'
+
     body = f'''
 <div class="grid clearfix">
-  <div class="col card">
-    <div class="section-title">Years</div>
-    <div>{y_links}</div>
-  </div>
+  <div class="col card">{left}</div>
   <div class="col card">
     <div class="section-title">Albums</div>
     {album_html}
   </div>
 </div>
 '''
-    return layout('AudioAssets Timeline', body, subtitle='Browse by year or album', breadcrumbs=None, base_prefix='')
+    return layout('AudioAssets Timeline', body, subtitle='Albums overview', breadcrumbs=None, base_prefix='')
 
 
 def gen_album_page(album_name: str, upp_path: Path):
@@ -545,6 +541,15 @@ def gen_album_page(album_name: str, upp_path: Path):
     album_dir = upp_path.parent
     album_slug = slugify(album_name)
     page_dir = WWW / 'albums' / album_slug
+    # Optional album About.md rendered at top
+    about_html = None
+    for cand in (album_dir / 'About.md', album_dir / 'ABOUT.md', album_dir / 'about.md'):
+        if cand.exists():
+            try:
+                about_html = render_markdown_basic(read_text(cand))
+            except Exception:
+                about_html = '<p class="small muted">About.md could not be rendered.</p>'
+            break
     def is_irrelevant_md(name: str) -> bool:
         low = name.lower()
         if low.startswith('xx '):
@@ -592,6 +597,9 @@ def gen_album_page(album_name: str, upp_path: Path):
         sections.append((current_label or 'Files', current))
 
     blocks = []
+    if about_html:
+        blocks.append('<div class="section-title">About</div>')
+        blocks.append('<div class="card prose">' + about_html + '</div>')
     blocks.append('<div class="small muted">Source folder: ' + escape(rel_from(page_dir, album_dir)) + '</div>')
     blocks.append('<div class="small nav"><button id="expand-all" class="badge">Expand all</button> <button id="collapse-all" class="badge">Collapse all</button> <label style="margin-left:8px;"><input type="checkbox" id="filter-songs-only"> Show only songs</label></div>')
 
@@ -667,8 +675,17 @@ def main():
     # Assets
     write_assets()
 
+    # Optional front-page Markdown content from Timeline
+    front_md = ESC / 'Timeline' / 'Front.md'
+    front_html = None
+    if front_md.exists():
+        try:
+            front_html = render_markdown_basic(read_text(front_md))
+        except Exception:
+            front_html = '<p class="small muted">Front.md could not be rendered.</p>'
+
     # Index
-    write_text(WWW / 'index.html', gen_index(years, albums))
+    write_text(WWW / 'index.html', gen_index(years, albums, front_html))
 
     # Album pages
     for name in albums:

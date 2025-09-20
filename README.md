@@ -43,3 +43,6 @@ Notes
   - If you want those source-file links to work, serve the repository root instead: `npx http-server . -p 8080` (then open `http://127.0.0.1:8080/www/`).
   - Alternatively, extend `scripts/generate_www.py` to copy needed sources into `www/` during generation.
   - Helpers support both: `scripts/serve_www.sh --repo-root` or `scripts/serve_www.bat repo-root`.
+
+Front page content
+- The left column of `www/index.html` renders Markdown from `escsrc/Timeline/Front.md` if present. Edit that file to customize the intro/instructions.
