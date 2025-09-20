@@ -10,5 +10,8 @@ file
 	"06 capture the flag - b.tg",
 	"07 something positive.tg",
 	"08 sweet dreams.tg",
-	"09 weird.tg";
+	"09 weird.tg",
+	2024 readonly separator,
+	"VA - Epic.gp",
+	sensitive.txt;
 
