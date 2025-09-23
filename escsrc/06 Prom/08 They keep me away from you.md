@@ -42,50 +42,64 @@ Muistossani on meidän parhaimmat päivät, ja ne luo toivoa paremmasta, vaikka 
 - Outro, speaking
 	1. Spoken line
 
+## Style Original
+* This track is a hip-hop piece with a dark, atmospheric tone.
+* The instrumentation features a prominent, distorted bassline, a simple but effective drum machine beat with a strong kick and snare, and a sustained, eerie synth pad.
+* A clean electric guitar plays a repetitive, melancholic arpeggio throughout the song.
+* The female vocalist delivers a R&B in a low, gravelly voice, with occasional melodic phrases. Other vocalist raps.
+* The vocal delivery is somewhat monotone, contributing to the somber mood. The song structure is verse-chorus, with the chorus featuring a slightly more melodic vocal line and a layered, almost whispered backing vocal.
+* Production elements include a reverb on the vocals and a subtle delay on the guitar.
+* The tempo is slow, and the key appears to be minor, reinforcing the dark aesthetic.
+* The mix emphasizes the bass and vocals, with the drums and synth providing a rhythmic and atmospheric foundation.
+
+## Style 2025
+* This track is a dark pop-rap / alt-R\&B cut with a club-ready, cinematic gloom.
+* Instrumentation features a clean-distorted 808 bassline, tight trap/2-step drums with subtle Jersey kick stutters, and a moving granular pad for atmosphere.
+* A clean electric guitar plays a melancholic arpeggio throughout; shimmer in the chorus, filtered in verses.
+* The female vocalist delivers smoky low R\&B phrases; the other vocalist raps in precise pockets with call-and-response ad-libs.
+* The vocal delivery stays restrained/monotone in verses; the chorus blooms into a 5-note hook with layered, whispered, formant-shifted backs.
+* Production elements include short plate on lead, slap delay on rap, throw delays into hooks, light tape saturation, and reverse-guitar swells.
+* halftime feel.
+* The mix emphasizes bass and vocals; punchy drums, widening pad in chorus
+* Structure: 4-bar cold open → V1 → Pre → Chorus → Post (Jersey kick + bass drop) → V2 → Bridge breakdown → double Chorus
+
 
 ## Lyrics (EN)
 Title: They Keep Me Away From You
 ```
-Verse 1 (R&B)
+[Verse 1 (R&B)]
+They keep me away, from you.
+Something always happens and blinds me.
 
-They keep me away, from you now.
-Something always happens, blinds me.
-
-Instrumental — speaking
-
+[Instrumental — speaking]
 (Yeah… gatekeepers, paper keepers—same old staircase to nowhere.)
 
-Verse 2 (R&B)
-
+[Verse 2 (R&B)]
 Need room to learn you, renew us.
 But something here's twisted, illicit.
 Some pull to shadows, back-alleys.
 A hush that hustles me away, nights.
 
-Chorus (R&B)
-
+[Chorus (R&B)]
 Bring me near / to you.
 Break these bars / they do.
 No quarter here / con men would beg now.
-Only the pressed / stressed to move on / make crooked wonders; not pretty much.
+Only stressed to move on pretty much.
 
-Verse 3 (R&B)
-
+[Verse 3 (R&B)]
 I want a daily, lovely life.
 To walk in crowds, to talk like others.
 To be as healthy, whole—for once.
 It takes a thing I never had, once.
 
-Chorus (R&B)
-
+[Chorus (R&B)]
 Bring me near / to you.
 Break these bars / they do.
 No quarter here / con men would beg now.
-Only the pressed / stressed to move on / make crooked wonders; not pretty much.
+Only stressed to move on pretty much.
 
-Bridge (Rap)
-
-Clause after clause, the lawyers pause—no claws, no ..., no threats.
+[Bridge (Rap)]
+Clause after clause,  the lawyers pause—no claws, no balls, no threats.
 Learn it alone, on broken phones, I start from scratch and pay the debts.
 Step after step, in booby steps, I find the mines and wear the blame.
 No mercy dealt, they say I’d melt—“mercy,” the hustlers game the game.
@@ -94,14 +108,16 @@ Time drags its chain, the paint is pain—everything worse by day and night.
 Still, best-day reels in memory heal—flickers of us that light the cold.
 Hope hums low-key: tomorrow’s free, though yesterday can’t be re-told.
 
-Chorus (R&B)
-
+[Chorus (R&B)]
 Bring me near / to you.
 Break these bars / they do.
 No quarter here / con men would beg now.
-Only the pressed / stressed to move on / make crooked wonders; not pretty much.
+Only stressed to move on pretty much.
 
-Outro — speaking
+[Chorus (R&B)]
+Bring me near / to you.
+Break these bars / they do. 
 
+[Outro — speaking]
 (If grace is gated, I’ll climb the fence—even if it’s barbed with doubt.)
 ```
