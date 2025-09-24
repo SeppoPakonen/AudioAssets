@@ -34,6 +34,39 @@ The production is clean
 ## Lyrics (FI)
 Title:
 ```
+[Verse 1]
+Tarvitsen jonkun
+Joka mua riidas puolustaa
+.
+.
+
+[Chorus]
+Yhteiskunta läpimätä on
+On korruption puolue aina vastuuton
+
+[Verse 2]
+Taas vaaleis huijattiin huomaamatta
+Yleisö hämättiin luottamaan
+Munlaiset aina piilossa
+Ne saastat perii vallan uudestaan
+
+[Prechorus 1]
+Mä oon viimeinen
+Ne tulee rahalla kiristäen
+Eturistiriidan kiistäen
+Lapsesta asti koulus aivopesten
+
+[Chorus]
+
+[Bridge]
+Varoitti politikkoon luottamasta
+Papin historiasta
+Lampaiden laumasta
+Arkistosta putoomasta
+Haavat meidän unohtuu
+Kun kirjuri on muu
+Sanon äänen kunnes valetuomari poistuu
+
 
 ```
 

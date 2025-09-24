@@ -31,6 +31,27 @@ The song features a consistent drum beat throughout, with occasional fills
 
 ## Lyrics (FI)
 ```
+[Verse 1]
+Vuosiin niit en nähny oo
+.
+.
+.
+
+[Chorus]
+Pysähdy
+Hengitä
+.
+.
+
+[Verse 2]
+
+[Verse 3]
+
+[Chorus]
+
+[Chorus 2]
+Pysy
+siinä
 
 ```
 

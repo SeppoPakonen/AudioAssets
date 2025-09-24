@@ -19,56 +19,34 @@ Title: Miia
 [Instrumental]
 
 [Verse 1]
-Piä kiinni
-Hän ruoria tiukasti käänsi
 
 
+Silmiin me tuijotetaan
 
-Hiljaa salvat
-Hän rajaa varjonsa vakain ottein
-Ei torikauppaa, valitsi katseen
-Bauhaus-viiva peittää vapinan pois
-Hän nimeää valon
 
 [Chorus 1]
-Ei myy
-Se aukeaa sanoin, ei kolikoin
-Posliini lämmittää yöt
-Kataan sen kahdelle, tarkasti
-Ei lippuja, ei laumaa
-Vaka katseesi karkottaa haamut
-Vanhat julisteet pölyyn
-Syömme rauhassa taas
+Hymyile, 
+.
+.
+.
+Sut halutaan
+Ja se on suurin vaaroista
 
 [Instrumental]
 
 [Verse 2]
-Kirja täsmää
-Ripusti kuvat omiin kehyksiin
-Ei isän kaiku pauhaa rinnassaan
-Oppi valon, kulman, suoran rytmin
-Työ yli hälyn vain
+.
+.
+.
+.
+Hän oppi kai
 
 [Chorus 1]
-Ei myy
-Se aukeaa sanoin, ei kolikoin
-Posliini lämmittää yöt
-Kataan sen kahdelle, tarkasti
-Ei lippuja, ei laumaa
-Vaka katseesi karkottaa haamut
-Vanhat julisteet pölyyn
-Syömme rauhassa taas
 
 [Instrumental]
 
 [Chorus 2]
-Sininen ovi
-Avain kääntyy
-Posliini soi illoin
-Tuolit, sama tahti
-Joukko ei osta tätä lain
-Katseesi palaa oikeaan
-Sovittu valo
+
 ```
 
 

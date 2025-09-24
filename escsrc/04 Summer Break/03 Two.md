@@ -24,23 +24,24 @@ Title: Kaks, ei yks
 ```
 
 [Verse 1]
-.
-.
-.
-.
+Oikeestikko vaikutus pitäis tehdä?
+Meikata ja pitää mekkoo pientä
+Oikeestikko koroil kävellä?
+Ja sun nukkeas tyhmää näytellä?
+
 [Prechorus]
-.
+Sä kääntymään saat, en sua tajua
 
 [Chorus]
-.
-.
-.
-ja silti kanssas jään
+Ei kukaan voi sua tajuta
+Ei tarkoitustas voi arvata
+Ei kukaan voi sua tajuta
+ja silti oon kanssas
 
 [Verse 2]
 .
 .
-.
+Sä kiristät...
 .
 
 [Prechorus]
@@ -49,21 +50,15 @@ ja silti kanssas jään
 [Chorus]
 
 [Bridge]
-Sä liikaa...
-.
+Sä määräilet mua liikaa, enkä kestäkkään
+Joka päivä elämä on ...
 Ku sä haastat riitaa...
 .
 .
 
 [Chorus]
-.
-.
-.
-.
-.
-.
-.
-.
+
+
 ```
 
 

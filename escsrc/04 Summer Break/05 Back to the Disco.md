@@ -32,9 +32,49 @@ The tempo is fast, contributing to the urgent and propulsive mood,
 The song structure follows a verse-chorus pattern with instrumental breaks
 
 
-## Lyrics (FI)
+## Lyrics (FI, AI draft)
 ```
+[Verse 1 (rap)]
+Eksibittaaja takas, liukuun someen—liikedoosit, aatedoosit;
+Algoritmin enne: avaa silmät, ei opt-out—lukittuu liikedoosiin.
+Häpeäkytkin oikosulussa, “vibat” viisoo; ylpeys surffaa dopamiinidoosiin,
+Tykkimäärät alennuskuponkeina syylle—kallistaa metrit taikajuomadoosiin.
 
+[Chorus (singing)]
+Lainatut “moraalit”, lainakertosäe, sydämet myydään tusinaeriin;
+Me katsotaan, kun koodi valitsee—tiet suljettiin, valinta lukittiin.
+
+[Post-chorus]
+Algo sanoo: katso.
+
+[Verse 2 (rap)]
+Terapiaa? Ehkä—mut palkkalista palvelee haluja, rimoja rikotaan;
+“Yhteiskunnan malli”, valittu valkoisen rikkaan ringin—heilutetaan.
+Pelko-triggerit, hehku-triggerit—vuosien päästä kipu kääntyy herkuksi;
+Sukupuolitetut charmit pyytämättä—maskattu suostumus siirretään eduksi.
+“Näiden liitto ois gay”—pienellä präntillä piilotetaan nimilapulle;
+Yksityiselämä? Häpeä on rahaa ja retro-keittiön pöydälle.
+
+[Verse 3 (rap)]
+Tanssin mainosta varten, en manifestoimaan onnee—koukkuja katseeseen;
+Soolo-hohde, ei tempoa jaeta—ilmaa loimuille, yksi spoti sateeseen.
+Tasapaino rakkaudessa? Vaatii kumppanin häpeän, että kehys tasataan;
+Hän on “liian pitkällä”—fatalit biisit julistaa: taso ei tähtää koskaan.
+Kouluremedi? “Parita rohkea ja ujo”—rajat hämärtyy simputukseksi;
+Pakota ujo paljastuun? Se on tuijottava bulli—moraalimatikka punaiseksi.
+“Vedä AI:lla—feikkaa paljastus”—ideaali ilman tekoa, ilman kosketusta;
+“Ne on tyhmiä,” ja opettajat “ei kasvata sua pitkälle”—baarit, baarit kuritusta.
+
+[Chorus (singing)]
+Lainatut “moraalit”, lainakertosäe, sydämet myydään tusinaeriin;
+Me katsotaan, kun koodi valitsee—tiet suljettiin, valinta lukittiin.
+
+[Post-chorus]
+Algo sanoo: katso.
+
+[Chorus (singing)]
+Lainatut “moraalit”, lainakertosäe, sydämet myydään tusinaeriin;
+Me katsotaan, kun koodi valitsee—tiet suljettiin, valinta lukittiin.
 
 ```
 

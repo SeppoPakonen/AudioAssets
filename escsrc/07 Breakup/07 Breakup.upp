@@ -9,5 +9,7 @@ file
 	"05 serious.tg",
 	"06 marching.tg",
 	"07 starstruck.tg",
-	"08 dirty art.tg";
+	"08 dirty art.tg",
+	2025 readonly separator,
+	"Ollaan taikinaa.md";
 

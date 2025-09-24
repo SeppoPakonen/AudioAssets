@@ -25,50 +25,42 @@ Title:
 [Instrumental]
 
 [Verse 1]
-Ne sanoo: tytöt on ...
-Aina myöhään tajuu
-Loppuun asti aika
-Köyhän vika; apu ei sinulle
+
 
 [Chorus 1]
-Me nyt / nimeämme ... ääneen
-Me nyt / apu kiertää, mut ei meille päin
-Ja me / kun naapurin tyttöön
-Ja me / kuullaan vain: loppuun asti tää
+Meillä 
+Joten
+Me vaan
+Niinpä kuulet sä
 
 [Instrumental]
 
 [Verse 2]
-Usko “valekirja”
-Pahuus geeneissä nyt
-Pahuus saa tuen nyt
-Hän ylpeä ...; aita sotahulluin
+Usko kuin valhetta
+
+Puolue pahuuden
 
 [Chorus 2]
-Me nyt / “apua Afrikkaan” – puhdistus
-Meidän kuolleet jää
-Totuussolut
-Yhteistila miinoissa; ei penniäkään hän anna
+
+
 
 [Prechorus 1]
-Laki on halu
-Ja me nyt / miehet lepää
-Ei oikeutta, ei hyvää lainkaan
-Aikajanaa luetaan; taidetta tää vain
+.
+.
+Ei oikeutta sun parhaaks
+Me luetaan hänen historia laulun sanoista
 
 [Instrumental]
 
 [Verse 3]
-Vastuu ei kenenkään
-Kun tajuaa, itkee
-Ne sanoi: pitäisi ...
 Tieto peitetty; polku sumuun jää
 
 [Chorus 1]
-Me nyt / nimeämme ... ääneen
-Me nyt / apu kiertää, mut ei meille päin
-Ja me / kun naapurin tyttöön
-Ja me / kuullaan vain: loppuun asti tää
+Ei kukaan kiinni jää
+.
+Ne tyytyväisii on
+.
+
 ```
 
 

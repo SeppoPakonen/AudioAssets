@@ -17,65 +17,49 @@ Production elements include a clean, punchy mix with a slight reverb on the voca
 
 
 ## Lyrics (FI)
-Title: Konejätkä
+Title:
 ```
 [Intro]
-Mun tietokonekundi
+.
 
 [Instrumental]
 
 [Chorus]
-Mun tietokonekundi
-Nero sun katseisiin
-Microbit-virta käy sieluun
-ja sun koneaivos
-Lasit sopii sun tyyliin
-Kuumempaa kundia ei
-Microbit-virta käy sieluun
-ja sun koneaivos
+Sä oot mun ...
+.
+Bittivirta...
+.
+Tyylis on niin ajaton
+.
+.
+.
 (oh-oh)
 
 [Verse 1]
-Viime viikko toi koneeseen pahan vian
-yhteys petti — ei verkkoo, ei suuntaa
-Löysin koodarin, suunnan; hän auttoi mua
-Katse, hurmos; tunne jota en kestä
-Hän naurahti: ‘Windows? Ei, tuskin käytän’
-Oon Linux-pro — koodi käy, taika vain
-Silti riitti yks klikkaus — puhdas taide
-ja heti vei mun sydämen
+Mulla on ongelma
+.
+.
+.
+Nauroit kun
+.
+.
+.
 
 [Chorus]
-Mun tietokonekundi
-Nero sun katseisiin
-Microbit-virta käy sieluun
-ja sun koneaivos
-Lasit sopii sun tyyliin
-Kuumempaa kundia ei
-Microbit-virta käy sieluun
-ja sun koneaivos
 
 [Verse 2]
-Sun peli, teot saa sisällä palon
-Sun nerokkaat kädet komentaa koodin
-Kaikki näkee saman, kaikki tahtoo loistaa,
-mut voin todistaa: hän on mun
-Alkaa uusi jakso meidän historiassa
-Lihas-sankarit häipyy jo hämäriin
-Komeat voi unohtaa tytöt,
-Kohta aika kun nörtit johtaa maan
+Se miten tajuat...
+.
+.
+.
+Uus aika..
+.
+.
+.
 
 [Instrumental]
 
 [Chorus]
-Mun tietokonekundi
-Nero sun katseisiin
-Microbit-virta käy sieluun
-ja sun koneaivos
-Lasit sopii sun tyyliin
-Kuumempaa kundia ei
-Microbit-virta käy sieluun
-ja sun koneaivos
 
 [Instrumental]
 ```

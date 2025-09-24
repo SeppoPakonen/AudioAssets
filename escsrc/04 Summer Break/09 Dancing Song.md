@@ -28,68 +28,61 @@ There is a clear build-up and drop in the instrumental sections, characteristic 
 ## Lyrics (FI)
 Title: Tanssibiisi
 ```
+[Intro]
+Uuh aah, mä tanssin
+Uuh aah, mä tanssin
+
 [Chorus]
 Uuh aah, mä tanssin
-Uuh aah, mä tanssin sun ees
+Uuh aah, mä tanssin eessäs
 Uuh aah, mä tanssin
-Uuh aah, mä tanssin sun ees
+Uuh aah, mä tanssin eessäs
 Mä haluun tanssii nyt sun kans
 Ooh, mä haluun tanssii nyt, mies, sun kans
 
 [Chorus]
-Uuh aah, mä tanssin
-Uuh aah, mä tanssin sun ees
-Uuh aah, mä tanssin
-Uuh aah, mä tanssin sun ees
-Mä haluun tanssii nyt sun kans
-Ooh, mä haluun tanssii nyt, mies, sun kans
 
 [Verse 1]
-Nyt tanssit mun kanssa, niin
-näytä sun taidot, mee rytmiin
-Tanssi nyt, tanssi nyt
-ja mä tanssin sun kanssa, just nyt
-niin näytän sulle mun salaset liikkeet
-mä liikun, jos liikut — samat kiirteet
-mä saan sut tanssiin jo jollain keinoin
-sä, sä saat liikkua niin kuin haluut mun kanssa
+Tuu jo, tuu jo tanssimaan
+.
+.
+.
+.
+.
+.
+.
 
 [Chorus]
-Uuh aah, mä tanssin
-Uuh aah, mä tanssin sun ees
-Uuh aah, mä tanssin
-Uuh aah, mä tanssin sun ees
-Mä haluun tanssii nyt sun kans
-Ooh, mä haluun tanssii nyt, mies, sun kans.
+.
+.
+.
+.
+.
+.
 
 [Verse 2]
-Mä uneksin yöstä sun kanssa
-mä tahdon sun näyttävän kuviotas
-Sun liikkeet
-Kun sä tanssit, niin tanssin mäkin,
-ja tuun ihan lähelle — et kieltäydy
-jos mä kosken, kosken sua
-mä saan sut tanssiin jo jollain keinoin
-sä, sä saat liikkua niin kuin haluut mun kanssa
+.
+.
+.
+.
+.
+.
+.
+.
 
 [Bridge]
-Mä oon se, joka saa sut hyvään oloon nyt
-Mä oon se, joka saa sut voimaan hyvin
-Mä voin tanssia, voin tanssia
-Mä voin tanssia jalat irti
-Yö toisensa jälkeen etsin kiltin miehen
-Mä voin tanssia, voin tanssia
-Mä voin tanssia jalat irti
-Silti jos torjut mut
-Tunne nyt isku — se lyö kuin pesäpallomaila
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 [Chorus]
-Uuh aah, mä tanssin
-Uuh aah, mä tanssin sun ees
-Uuh aah, mä tanssin
-Uuh aah, mä tanssin sun ees
-Mä haluun tanssii nyt sun kans
-Ooh, mä haluun tanssii nyt, mies, sun kans.
+
 ```
 
 

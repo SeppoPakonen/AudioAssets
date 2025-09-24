@@ -23,43 +23,48 @@ Title:
 
 ```
 [Intro]
-Mä sun luo juoksen
-Pimeyden läpi
+Mä juoksen sun luo
+. tuon
 Junal viimeisel
-Vain sua miettien
+.
 Tähtään maaliin
-Sun ovella
 
 [Chorus]
-Elämä on vaarassa tuhoutua
-Kylmässä kaupungis kitua
+Vaaras kaikki on tuhoutua
+Kadul kylmäl kaupungin
+Rakastaa en saa
+Sodan aikana
+.
 Rakkaus on rauhaa sodan jälkeen
 Happee hengitykseen
-Sun kädet sodat lopettaa
+Ennen loppua
+Rikkaus on mulle mysteeri
+Kätes sun sodan lopettaa
+
+Tyyneys ennen viimeistä henkäystä
+
 
 [Verse 1]
 Maisemat ohi liikkuvat
-Kalliit halut ja tappelut keskustan 
+Rikkaus katoaa
 Tunteet murentaa
 Miehel on kiire niinku minulla
 Hän lukee tarpeet ja tietää
-Et vain häntä tarvin tääl
-Häntä vain
+Kuinka joku on mielessä
 
+
+[Bridge]
+Yltäkylläisyys
+.
+.
+.
+.
+.
+Me suudellaan
+Tyydy en yksin olemaan
 
 
 [Verse 2]
-Rikkautta näen, mysteeri se pysyy
-Lamppu loistaa yksin vain
-Uudet autot ahtaa
-Valmis ruoka ei nappaa
-Et kai
-Tahdo mun syvyyttä
-Ei sitä juuri
-Nyt taas
-Jos joku vastustaa
-Jatketaan silti
-Me ollaan tabu
 ```
 
 ## Lyrics (EN)
@@ -67,38 +72,33 @@ Title: Life Hangs By a Thread
 
 ```
 [Verse 1]
-I run
-to you through neon streets
-last train tonight
+I run to you
+Through neon streets
+Last train tonight
 I chase your finish line
-goal post at your front door
+Goal post at your front door
 
 [Chorus 1]
-life hangs by a single straw tonight
-city cold and packed still
-love's peace after a long war
-serenity before the last breath
-wealth glows, still a mystery to me
-your arms end the wars here
+Life hangs by a single straw tonight
+..City's cold and packed still
+.Love's peace after a long war
+Serenity before the last breath
+..Wealth glows, still a mystery to me
+Your arms end the wars here
 
 [Verse 2]
-bus windows blur past
+Bus windows blur past
 riches, desires, fights pass
-love in scraps seen
-he runs like I do too
-she reads my need, knows well
-only you are aim
+Love in scraps seen
+He runs like I do too
+She reads my need, knows well
+Only you are aim
 I run
 
 [Chorus 1]
-life hangs by a single straw tonight
-city cold and packed still
-love's peace after a long war
-serenity before the last breath
-wealth glows, still a mystery to me
 
 [Chorus 2]
-your arms end the wars here, yeah
+yeah
 serenity before the last breath
 wealth glows, still a mystery to me
 
@@ -112,9 +112,11 @@ but choose the hunger path now
 no harm
 they'd fight us if able
 you don't want deep thoughts
+-
 we kiss
 wrong to do it alone
 our kind holds dawn now
+-
 that's where life is found
 
 [Chorus 1]
@@ -122,6 +124,7 @@ life hangs by a single straw tonight
 city cold and packed still
 love's peace after a long war
 serenity before the last breath
+-
 wealth glows, still a mystery to me
 
 [Outro]

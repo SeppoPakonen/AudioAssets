@@ -67,7 +67,7 @@ Heippa taas
 
 [Verse 1]
 Tuuli lehtii keinuttaa, ne auringossa kasvaa
-Sinitaivas, linnutkin, hengen multa noutaa
+Sinitaivas, linnutkin, ne hengen multa noutaa
 On rauha ja rakkaus
 .
 Tää tuntuu kuin taivaalta
