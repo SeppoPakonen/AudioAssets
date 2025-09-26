@@ -46,7 +46,19 @@ Mutta ydinajatus on edelleen se, että heidän linnoitus perustuu valheeseen, jo
 - Chorus
 - Outro (chorus-like): spoken text, 2 lines
 
-## Lyrics (EN, draft)
+## Lyrics
+
+### FI
+```
+[Intro (spoken)]
+
+[Instrumental]
+
+[Verse 1 (low-skill, female)]
+
+```
+
+### EN, draft
 Title: Fortressed Feed (Simple Cut)
 ```
 [Intro (spoken)]

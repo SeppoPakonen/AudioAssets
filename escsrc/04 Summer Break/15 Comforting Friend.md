@@ -40,8 +40,34 @@ Sä kerrytät velkaa joka kerta kun joudun häviämään sulle, kun kiristät mu
 ```
 
 
+## Lyrics (FI)
+```
+[Verse 1]
+Taas sulle joudun häviään
+Mun vahvuus sais sut ikemään
+Mä oon kuin vieras omas talos kun sua vastaan pelaan
+.
+Miks et näe ittees peilistä?
+En voi katsoo kun sä häviät.
 
-## Lyrics (EN)
+[Chorus]
+.
+Maailma ei
+Sä vain vaadit mua ...
+Joka kerta ...
+
+[Verse 2]
+Ei moninpolit saa surettaa
+Sun valitus saa karkaamaan
+
+[Instrumental]
+
+[Chorus]
+
+```
+
+
+## Lyrics (EN, AI Draft)
 Title: Deliberate Losses
 
 ```

@@ -101,8 +101,72 @@ Production elements include a slight reverb on the vocals and a balanced mix tha
 - Chorus: same
 
 
+## Lyrics (FI)
+```
+[Intro, puhuttu teksti]
+Tyhmyyden tyranni laskee rahaa kuin tutkisi pyhää kirjoitusta,
+Hän vaientaa henkilökunnan, jopa katkaisee oman tulonlähteensä.
+On olemassa töitä, joissa rutiini harjoitellaan miljoona kertaa.
+Yhteiskunta pyörii niiden ympärillä, vaikka kaikki syöksyisi tuhoon.
+Lainan perijä koputtaa ovella, kun rakas kumppani haluaa "eliitin elämää",
+Huonon parisuhteen kestäminen tuntuu seksinhalun verotukselta.
+Puolue, jota valheet pomottaa, kylvää katastrofin siemeniä joka paikkaan.
+Kuka pysäyttäisi tämän spiraalin alaspäin?
 
-## Lyrics (EN)
+[Instrumental]
+
+[Verse 1]
+Typerys päättää vaikkei nää
+Salaisuudet suojaa vain häntä
+.
+.
+.
+.
+.
+.
+
+[Prechorus 1]
+
+[Chorus]
+Häpeä
+
+[Instrumental]
+
+[Verse 2]
+.
+.
+.
+.
+.
+.
+.
+Nimeät, syytät, muttet itseäs
+
+[Prechorus 1]
+
+[Chorus]
+
+[Bridge]
+Kultaa hei kultaa
+.
+.
+.
+Unioni valittaa, myös ilman aihetta
+
+
+[Instrumental]
+
+[Prechorus 1]
+.
+
+[Instrumental]
+
+[Chorus]
+
+
+```
+
+## Lyrics (EN, AI draft)
 Title: Name, Blame, Frame
 
 ```
@@ -119,7 +183,7 @@ Who kills this spiral?
 [Instrumental]
 
 [Verse 1]
-Stupid  rule: he struts, not what he seems.
+Stupid rule: he struts, not what he seems.
 Claims the mask is needed by the crowd.
 Thinks women follow strength—calls it nature.
 Don't say the grass is greener next door. 

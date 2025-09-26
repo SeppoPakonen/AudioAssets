@@ -83,7 +83,39 @@ Kaikki on monimutkaista, kun ei ole voimaa sanoa ei.
 
 
 
-## Lyrics (EN)
+## Lyrics (FI)
+```
+
+[Chorus]
+Totuus muuttui taas
+.
+.
+.
+Susitytön verkko kiristyy
+
+[Verse 2]
+Villi ja yksin
+Susi yön
+.
+.
+.
+.
+Hänen valhe toimii
+Vain mun takii
+.
+.
+
+[Chorus]
+
+[Instrumental]
+
+[guitar solo]
+
+[Chorus]
+
+```
+
+## Lyrics (EN, AI draft)
 ```
 [Verse 1]
 Worried for her / right now

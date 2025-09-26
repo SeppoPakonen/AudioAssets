@@ -67,7 +67,49 @@ There are no significant dynamic shifts, maintaining a consistent, subdued inten
 
 
 
-## Lyrics (EN)
+## Lyrics
+
+### FI
+```
+[Verse 1]
+Firman omistaja saasta
+Sille oon orja, voiton tuottaja
+Irtisanoo, ja kutsuu takas
+Uusi naama ei osaa arvata
+
+[Chorus]
+Ei toivoo aamulla
+Hyväl tahdol oot oikeudessa
+
+[Verse 2]
+Kahvit juot pomon kanssa
+Sä et puhu, saat vain kuunnella
+.
+.
+
+[Chorus]
+Ei toivoo aamulla
+Hyväl tahdol oot oikeudessa
+Ei toivoo aamulla
+Hyväl tahdol oot oikeudessa
+
+[Instrumental]
+
+[Verse 3]
+.
+.
+.
+.
+
+[Chorus]
+Ei toivoo aamulla
+Hyväl tahdol oot oikeudessa
+Ei toivoo aamulla
+Hyväl tahdol oot oikeudessa
+
+```
+
+### EN, AI draft
 Title: Sued by Suits
 
 ```

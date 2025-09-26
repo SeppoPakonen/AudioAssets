@@ -90,7 +90,49 @@ The chord progression is relatively simple, primarily using power chords in a mi
 - Chorus outro
 	1. 1+1+1+4=7
 
-## Lyrics (EN)
+## Lyrics 
+### FI
+```
+[Intro]
+Huora teevessä
+Mä oon sohvalla, katon ilman aivoja
+Mulle ei makseta
+Aika otetaan ja paljon tuhotaan
+
+[Chorus]
+Sä möit mun ajan ja tahdon
+Mä menetin ...
+Me ...
+Lämmin ääni iltakympin ..
+Jonkun muun
+Vaan ei sun
+
+[Verse 1]
+Tuntipalkka kiireel myytiin vaikeasti koneistoon
+Vittuun hyvät aatteet, minkä tekee, kun ..
+
+[Prechorus 1]
+
+[Chorus]
+
+[Instrumental]
+
+[Verse 2]
+Orjantappurakruunu päähän kun taas telkku sulkeutuu
+Vielä valitan, ei varoitusta, kun joku opettaa
+
+[Prechorus 2]
+Hoitoo oo ei niiden valta koskaan
+Lakia ne osti puolellensa
+
+[Chorus]
+
+[Bridge]
+
+
+```
+
+### EN, AI-draft
 Title: Warm Face, Dark Throne
 ```
 [Intro]

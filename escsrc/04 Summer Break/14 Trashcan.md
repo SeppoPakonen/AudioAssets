@@ -95,7 +95,34 @@ The song structure follows a typical verse-chorus format, with instrumental brea
 The production is clean and punchy, with all instruments clearly audible in the mix.
 The overall tempo is fast, contributing to the energetic and aggressive feel of the track.
 
-## Lyrics (EN)
+## Lyrics (FI)
+```
+[Verse 1]
+Pois saa muuttaa
+Kyseenalaista
+Sokeet luulot kutsuvat
+Tarkistamatta
+.
+.
+.
+.
+
+[Prechorus 1]
+Mä yksin epäilemään jään
+Mä rikon pimees pitäjän
+
+[Chorus]
+Hiljaa mun polun taivallan
+Sun säännöt ylikirjoitan
+.
+.
+.
+
+
+```
+
+
+## Lyrics (EN, AI draft)
 Title: Not Loud, But Real
 
 ```

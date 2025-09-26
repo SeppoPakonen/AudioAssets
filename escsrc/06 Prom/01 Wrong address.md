@@ -102,7 +102,33 @@ Make American English lyrics from inspirational texts, taking into account the r
 ### Title
 Wrong address
 
-### Lyrics
+## Lyrics
+
+### FI
+```
+
+
+[Verse 1 (female rapping)]
+
+
+
+[Chorus (male singing)]
+Tunne lähetys
+Eti kuka saa
+Väärä osote
+Toimita
+
+[Verse 2 (male rapping)]
+
+[Chorus (male singing)]
+
+[Bridge (Chant — Chorus-form)]
+
+[Chorus (male singing)]
+
+```
+
+### (EN, AI draft)
 ```
 [Intro (female rapping)]
 Love is my message, kiddo.

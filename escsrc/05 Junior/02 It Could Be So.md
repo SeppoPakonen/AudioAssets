@@ -30,7 +30,34 @@ The song structure is primarily verse-based with a recurring vocal refrain.
 - Chorus (x2)
 - Outro
 
-## Lyrics (EN)
+## Lyrics
+### FI
+
+```
+[Intro]
+
+[Verse 1: male rapping]
+
+
+
+[Chorus: female singing]
+Kuiskii ne varjoissa
+Vanhoista haavoista
+Huhuilee mustelmist
+Sanoisit nimetkin
+
+[Verse 2: male rapping]
+
+[Chorus: female singing]
+
+[Bridge: female singing]
+
+[Chorus: female singing]
+
+
+```
+
+### EN
 Title: They Talk Over, Softly
 ```
 [Intro]

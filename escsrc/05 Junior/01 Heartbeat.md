@@ -23,7 +23,13 @@ A Finnish pop-rap song with a melancholic yet hopeful tone, The song features a 
 - Chorus (x2)
 - Outro
 
-## Lyrics (FI)
+## Lyrics
+
+### FI
+Title: Sydämen asialla
+```
+```
+
 Title: Sydämen asialla
 ```
 [Chorus: female singing]
@@ -33,16 +39,20 @@ En tahtonut sua rikkoo, tehdä meille näin,
 mut vaik kuinka rakastaakin toinen toistaan jälleen satuttaa
 
 [Verse 1: male rapping]
-Anteeks kulta, että en oo vähään aikaan soittanut
-Ollaan oltuu kiireisii ja työstä oon vain toipunut
-Mul on ikävä ja haluisin sut tänne,
-Makaamaan rannal kun yllä loistaa tähdet
-Mietin että olisit lämmin mun sylissä
-Vannoin pysyy mukanas ylä ja ala mäissä
-Silti aika kuluu pois mut vieden
-Suudelmat sun on enää muistois mielen
-Niinku se kosketuksen mielikuva,
-mis suutelen sua ja me yhes keinutaan
+Anteeks kulta, et oon ollu offline
+Ollu kiireist, rankkaa, oon nukkunu vain
+Mul on ikävä sua ja haluun sut tänne,
+Voitas makaa rannal ku yllä loistaa tähdet
+Sä oisit lämmin taas mun sylissä
+Vannoisin varmaa jo pysyy ylä ja ala mäissä
+Ei oo aikaa tarpeeks, pois mut vie ne
+Suudelmat meijän on vaa muistois mielen
+Takerrun menneseen kosketukseen
+kun halitaan ja sua suutelen
+On ilta, 
+.a.sdas.dadsasd
+
+
 Kun ilta tummuu, ja kuulen vain sut,
 kun kuu loistaa suhun ja hikeen kastut
 Kai molemmat yritti liian vähän
@@ -104,7 +114,7 @@ Vaik kuinka rakastaakin toinen toistaan jälleen satuttaa
 
 
 
-## Lyrics (EN)
+### EN
 Title: Matters of the Heart
 ```
 [Chorus: female singing]
