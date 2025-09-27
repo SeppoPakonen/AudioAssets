@@ -9,5 +9,4 @@ Tuoksuisit hyvälle, vaikka en paistais sua.
 Söisin sua vaikka olis kiellettyä.
 Vaikka olisit piparkakkutaikina.
 Näyttäisit hyvältä kiiltävällä pinnalla, munakastikkeessa.
-
 ```
