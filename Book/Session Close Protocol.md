@@ -1,0 +1,3 @@
+- 2025-10-02: Add session close checklist
+- Update `AGENTS.md` with closure steps and permission to run Book scripts anytime
+- Chapter: `006 - Session Close Protocol.md`

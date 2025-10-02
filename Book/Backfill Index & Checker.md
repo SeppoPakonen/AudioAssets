@@ -1,0 +1,4 @@
+- 2025-10-02: Add Book index and pairing checker
+- Added `Book/README.md` with chapter↔compact mapping
+- Added `scripts/book_check.sh` for verification
+- Chapter: `003 - Backfill Index & Checker.md`

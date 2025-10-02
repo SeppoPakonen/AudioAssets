@@ -1,0 +1,3 @@
+- 2025-10-02: Clarify role titles usage
+- Use all titles: Spearhead, Captain, Curator, Director, Chief, Ringleader (sketchy tone only)
+- Updated `AGENTS.md`; added chapter `002 - Voice & Roles.md`

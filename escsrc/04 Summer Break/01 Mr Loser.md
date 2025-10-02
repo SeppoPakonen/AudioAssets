@@ -56,8 +56,8 @@ The overall mood is somber and reflective
 Title: Tervetuloa
 ```
 [Intro]
-Heippa
-Heippa taas
+Moikka
+Moikka taas
 
 [Instrumental]
 (oo-oo)
@@ -69,22 +69,35 @@ Heippa taas
 Tuuli lehtii keinuttaa, ne auringossa kasvaa
 Sinitaivas, linnutkin, ne hengen multa noutaa
 On rauha ja rakkaus
-.
+Ei turhaa oo mun luottamus
 Tää tuntuu kuin taivaalta
-.
+Jota jäin kaipaamaan
+Ilman omaa
 
 [Chorus]
-Hei taas, kohtalos on kadota
+Hei taas, kohtalo on kadota
 kotona
 Hei taas, täytyy jäädä olemaan
 kotona
 
 [Verse 2]
+Iltapäiväaurinko, sen valo mut nyt löytää
+Pilvet liikkui ohi jo, hetki tää väsyttää
+On elämällä tarkoitus
+Ei oo kellään suuri vaatimus
+Tää tuntuu kuin taivaalta
+Johon tahdon päästä
+Ensi yönä
 
+[Chorus]
+Hei taas, kohtalo on kadota
+kotona
+Hei taas, täytyy jäädä olemaan
+kotona
 
 [Bridge]
 Mä en tiedä, miks täytyy jäädä
-Mut näin on parempi
+Mut parempi on näin
 Kuuletko mua, kutsun sua
 Milloin tavataan uudestaan?
 

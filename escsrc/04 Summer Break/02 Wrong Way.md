@@ -23,11 +23,12 @@ Title:
 
 ```
 [Intro]
-Mä juoksen sun luo
-. tuon
-Junal viimeisel
-.
-Tähtään maaliin
+Mä juoksen tietä
+Öisen kaupungin
+Junaan viimeiseen
+Miehel kiireisel
+On vain yks maali
+Yks ovi
 
 [Chorus]
 Vaaras kaikki on tuhoutua

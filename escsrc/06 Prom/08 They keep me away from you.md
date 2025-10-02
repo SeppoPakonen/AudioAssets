@@ -64,7 +64,39 @@ Muistossani on meidän parhaimmat päivät, ja ne luo toivoa paremmasta, vaikka 
 * Structure: 4-bar cold open → V1 → Pre → Chorus → Post (Jersey kick + bass drop) → V2 → Bridge breakdown → double Chorus
 
 
-## Lyrics (EN)
+## Lyrics
+### FI
+```
+ 
+[Verse 1 (R&B)]
+
+[Instrumental — speaking]
+(Joo… portinvartijoita, paperin panttajia – samat vanhat portaat - eikä ne vie mihinkään.)
+
+[Verse 2 (R&B)]
+
+[Chorus (R&B)]
+Tuo mut lähemmäs
+Riko siteet nää
+En majota, ku huijarit kerjää
+Liikaa stressaa tehdä yhtään mitään
+
+[Verse 3 (R&B)]
+
+[Chorus (R&B)]
+
+[Bridge (Rap)]
+
+[Chorus (R&B)]
+
+[Chorus (R&B)]
+
+[Outro — speaking]
+(Jos armo on portti, kiipeän aidan yli – vaikka se olisikin piikitetty epäilyksillä.)
+
+```
+
+### EN
 Title: They Keep Me Away From You
 ```
 [Verse 1 (R&B)]

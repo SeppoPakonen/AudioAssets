@@ -51,18 +51,19 @@ Acoustic folk rock song in a minor key, featuring a male vocalist with a bariton
 Acoustic folk-rock, 2025 mainstream polish, in A minor (or relative) with a warm, confessional male baritone. Arpeggiated acoustic guitar leads; supportive melodic bass (light walking feel), tight kick/snare with brushed kit and soft rimshots; tasteful handclaps and subtle shaker for lift. Add minimal hybrid pop touches: low-key sub layer on choruses, sparse 808 ghost hats, wide ooh/ahh stacks, and a sing-back post-chorus hook. Mood: melancholic → hopeful, “from porchlight to city lights.” Structure: verse → pre-chorus (tension rise) → chorus (anthemic) → verse → pre → chorus → short instrumental break/bridge (fingerpicked motif) → final chorus with ad-libs. Tempo: mid (88–102 BPM). Production: intimate, clean, playlist-ready—gentle tape warmth, light compression, transparent tuning, plate reverb + short slap, occasional delay throws; no heavy FX. Vocals front-and-center, double on chorus, tight L/R BGVs. Keep lyrics simple, quotable, and hook-first.
 
 
-## Lyrics (FI)
+## Lyrics
+### FI
 ```
 [Verse 1]
 Hei jatka vaan viel jotain tapahtuu
-.
-Jos yritys ei rangaista,
-harrastan elinkautisen
+Joku ilahtuu
+Jos koitan muttei palkita,
+Niin kai vain harrastan
 
 [Chorus]
-Viel jaksaa
+Viel jaksat jatkaa joo
 .
-Pusket sä läpi tän
+  Pusket sä läpi tän
 .
 
 [Verse 2]
@@ -72,7 +73,7 @@ Pusket sä läpi tän
 
 ```
 
-## Lyrics (EN)
+### EN
 Title: Continuation Clause (Keep Going)
 ```
 [Verse 1]

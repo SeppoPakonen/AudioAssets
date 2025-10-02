@@ -55,6 +55,11 @@ Mutta ydinajatus on edelleen se, että heidän linnoitus perustuu valheeseen, jo
 [Instrumental]
 
 [Verse 1 (low-skill, female)]
+Ei huolta huomisesta, mul oli tapana sanoa
+
+[Verse 2 (low-skill, female)]
+
+[Chorus (low-skill, female)]
 
 ```
 

@@ -106,11 +106,19 @@ Wrong address
 
 ### FI
 ```
+[Intro (female rapping)]
+Mun viesti on rakkaus
+Mut sä yrität sen omistaa
+Miks orjuutat hemottelijaa?
+Kun rakastaja, ei asiakas, sen saa
+.
 
+[Instrumental — short spoken (non-rhyming
+Syynää sopimus
+Romanssista laskutetaan
+mutta henkeäni en voi antaa
 
-[Verse 1 (female rapping)]
-
-
+[Verse 1 (female rapping
 
 [Chorus (male singing)]
 Tunne lähetys
@@ -121,14 +129,32 @@ Toimita
 [Verse 2 (male rapping)]
 
 [Chorus (male singing)]
+Tunne lähetys
+Eti kuka saa
+Väärä osote
+Toimita
 
 [Bridge (Chant — Chorus-form)]
+Hinnoita rakkaus oikeen
+Hinnoita rakkaus oikeen
+Unoha muiden hinnat
+Levitä se laajalle
+Sä vain sovit ja lähetät ja jaat ja saat
+Sovit ja lähetät ja jaat ja saat
+Rakkautta jaa
 
 [Chorus (male singing)]
+Tunne lähetys
+Eti kuka saa
+Väärä osote
+Toimita
 
+[Outro — short spoken (non-rhyming
+Väärin hinnoitellusta rakkaudesta menestyvään rakkauden yritykseen
+Suorityskykymittarit saavutettu: ystävällisyys tapausta kohden
 ```
 
-### (EN, AI draft)
+### EN, AI draft
 ```
 [Intro (female rapping)]
 Love is my message, kiddo.
@@ -205,7 +231,5 @@ Deliver.
 [Outro — short spoken (non-rhyming)]
 “From mispriced love to enterprise love—KPIs met: kindness per incident.”
 
-[Outro — manly noises]
-“Mmm.” “Uh-huh.” Slow exhale, chest tap, low hum.
 ```
 

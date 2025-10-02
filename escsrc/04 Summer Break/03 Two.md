@@ -20,9 +20,8 @@ The production is raw and unpolished, with a focus on instrumental clarity
 
 
 ## Lyrics (FI)
-Title: Kaks, ei yks
+Title: Miks viel
 ```
-
 [Verse 1]
 Oikeestikko vaikutus pitäis tehdä?
 Meikata ja pitää mekkoo pientä
@@ -30,7 +29,7 @@ Oikeestikko koroil kävellä?
 Ja sun nukkeas tyhmää näytellä?
 
 [Prechorus]
-Sä kääntymään saat, en sua tajua
+Sä vihaseks saat, en sua halua
 
 [Chorus]
 Ei kukaan voi sua tajuta
@@ -39,15 +38,19 @@ Ei kukaan voi sua tajuta
 ja silti oon kanssas
 
 [Verse 2]
-.
-.
-Sä kiristät...
-.
+Mä vain tahdon yhen tyttöjen illan
+Olla vain, muttet tykkää ollenkaan
+Sä kiristät mua kotiin vain jäämään
+Ja muita katselet, vaikka oon vieressä
 
 [Prechorus]
-.
+Sä vihaseks saat, en sua halua
 
 [Chorus]
+Ei kukaan voi sua tajuta
+Ei tarkoitustas voi arvata
+Ei kukaan voi sua tajuta
+ja silti oon kanssas
 
 [Bridge]
 Sä määräilet mua liikaa, enkä kestäkkään
@@ -57,6 +60,14 @@ Ku sä haastat riitaa...
 .
 
 [Chorus]
+Ei kukaan voi sua tajuta
+Ei tarkoitustas voi arvata
+Ei kukaan voi sua tajuta
+ja silti oon kanssas
+Ei kukaan voi sua tajuta
+Ei täyttää voi sun halujas
+Ei kukaan voi sua tajuta
+nii miksi vielä oon kanssas, poika
 
 
 ```

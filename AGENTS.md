@@ -21,6 +21,7 @@ Repository Map (high level)
 - `scripts/` — Bash helpers for converting/exporting (e.g., TuxGuitar MIDI → WAV/MP3 join).
 - `txtsrc/` — Older/legacy content; do not place new work here unless migrating out.
 - `doc/` — Notes for human process and prompts.
+- `Book/` — Human-readable running log (chapters) and compact agent notes. Keep this updated whenever meaningful work is completed.
 
 Key Focus
 - Day-to-day work centers on `escsrc/` packages and `escsrc/Timeline`.
@@ -148,6 +149,21 @@ Notes for AI Agents
 - We are at the beginning of using Codex/AI for songs. Be conservative with edits. Prefer creating `-draft` files or writing in `doc/notes/` when proposing changes.
 - If a referenced file is missing (e.g., `Love is my text.md`), search the package `.upp` for context and link to the nearest source (e.g., `Love is my song.txt`). Ask before creating artifacts with canonical names inside album folders.
  - Track active work in `CURRENT_TASK.md` files. The root tracker (`/CURRENT_TASK.md`) should always reflect the primary repo focus and is referenced by this guide.
+
+Book Logging (Process & Format)
+- Purpose: Maintain a parallel narrative log for humans and a compact checklist for agents, reflecting everything done by the AI (“I”) together with the project lead (“he/him”). Refer to him using context-appropriate titles: Spearhead, Captain, Curator, Director, Chief, or Ringleader (use Ringleader only if the tone is intentionally sketchy). Use all of these over time; pick the best per situation.
+- Location: `Book/`
+  - Chapters: `Book/%03d - <Title>.md` — first-person narrative of actions and reasoning.
+  - Compact: `Book/<Title>.md` — brief bullets (date-first), mirrors key actions from the chapter; the filename matches the chapter title without the numeric prefix.
+- Updating: Whenever you finish a meaningful set of actions, add/append a chapter and its compact entry in the same change. Keep entries small and frequent.
+- Tone: First-person for the AI. Refer to the user with the chosen role noun and he/him pronouns.
+- Scope: Log repo-impacting actions (file additions, conversions, renames, structural changes), noteworthy decisions, and open follow-ups.
+- Automation: It is acceptable for the AI to run `scripts/book_update_readme.sh` and `scripts/book_check.sh` opportunistically to keep the index in sync and verify pairing at any time.
+
+Session Close Checklist
+- Ensure the latest changes are reflected with a new Book chapter and matching compact entry.
+- Regenerate the index: `scripts/book_update_readme.sh`.
+- Verify pairing and README sync: `scripts/book_check.sh`.
 
 Contact & Context
 - Finnish is the author’s native language. Releases are prepared in both Finnish and English, with a tendency to publish Finnish first.

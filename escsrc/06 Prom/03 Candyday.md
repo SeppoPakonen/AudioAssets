@@ -6,36 +6,41 @@ Acoustic hip-hop track with a melancholic yet aggressive tone, The instrumentati
 ## New style
 Midtempo alt-pop/trap crossover in a minor key; moody nylon-guitar loop sampled, sidechained 808s, crisp rim-snares, airy pads, reverse vox chops. Verses: talk-sing rap with internal rhymes/alliteration; hook: melodic topline with stacked harmonies, micro-tuned ad-libs, short plate reverb. Hard clip on the master (tastefully), but keep vocals dry/forward
 
-## Lyrics (FI)
+## Lyrics
+### FI
 Title: Rakkauden aika
 ```
 [Instrumental]
 
 [Verse 1]
-Kuuntele mua nyt,  ja oo hiljaa
-olin vääräs  ja oli turha kiista
-oon masentunu kun oon saman katon alla
-pliis paranna se ja myös häivy pois samalla
-Sanoisin tän rakastavasti, mutta
-sä et siihen vastaa, ku muutuit noita-akaksi
-Menetin luottamuksen suhun kulta
-rakas,  sä veit värit pois minulta
-Juorusit pahaa ja pilkkasit mun edessä
-otit meidän rahat ja tuhlasit sen hetkessä
-Nukahda rauhassa ja  pysy lepäämäs
-tekis mieli olla ilman heräämistäs näkemäs
-mutta silti mä haluun sua hyväillä
-peiton alla olla niinku ekana yönä yhessä
-Perkele mitä roskaa elämä sinun kanssasi onkaan mut muistot makeuttaa sen nii en huomaa
+Kuuntele ny ja anna mun tää omistaa
+Olin vääräs, nyt riitelet ja puhut roskaa
+Haalee tunne on saman katon alla,
+Korjaa ongelmat, ja mee pois samalla
+Sanoisin makeesti ja hemmotellen
+Mut sä et vastaa, ja ghostaat kasvotusten
+Voit luottaa etten haluu sua enää
+Kulta en harmaal (meitä) voi värittää
+On kuiskaus myrkkyy, huudolla mut nolaat
+Meidän säästöt veit, pistit ne palamaan
+Nukut viel kauniisti mun vieressä
+Ruusunen, suudelmal sua en herätä
+Viel sua haluun, ja tuntee sun ihon,
+Ekan yön himon, alkuajan ilon
+Elämä kuin roskaa, vitut oo sun kaa koskaa,
+Nostalgia ei korvaa, ku saa ei ottaa
 
 [Chorus]
 Vaimo hei, rakkaudesta meidän koti tehtiin
 Vaimo hei, ei lämpö pysy yllä ilman liekkii
 Vaimo hei, me tehtiin tän eteen kaikki
-Mene, hei hei, silti susta pysyn erossa ikuisesti
+Mee jo, hei hei, silti susta pysyn erossa ikuisesti
 
 [Verse 2]
 Mies hei, tule tänne, sua vähän rankasen
+
+...
+
 otan kiinni kiveksistäsi kynsillä puristaen
 Mä tiiän että sä särit meidät tarkoituksella
 särit mun sydämen ja mut sen mukana
@@ -85,7 +90,7 @@ Mene, hei hei, silti susta pysyn erossa ikuisesti
 ```
 
 
-## Lyrics (EN, draft)
+### EN
 Title: Redlines & Red Flags (Babe)
 ```
 [Instrumental]

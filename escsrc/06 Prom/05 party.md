@@ -3,71 +3,77 @@
 
 
 ### 2025
-Sunny club-pop at 100–104 BPM in C major (Ionian with a Mixolydian grin).
-Harmony: loop I–V–vi–IV. Hooks ride root/3rd/5th; bass walks with soft sidechain.
-Engine: round plucky bass (sub + gentle harmonics), light sat; bright piano stabs, muted funk guitar; one cheerful foley logo (camera click/ice clink).
-Drums: tight kick, clap/snare stack, crisp hats with 1/16 sprinkles, shaker/tambo lifts; sprinkle conga taps.
-Synths: warm Juno pads, airy bells, polite supersaw for chorus bloom; playful reverse swells, micro wow/flutter for charm.
-Vocal: upbeat talk-sing male in verses; melodic hooks with octave nudges + “oh-oh/hey-yeah” micro-hooks; thirds/fifths stacks, light vocoder gloss, higher-formant ad-libs.
-Form: Verse → 8-bar pre (rising toms + HPF) → call/response chorus → 2-bar post-chorus motif; one drumless pad+breaths+crowd whoop, then full return; final chorus adds harmonies + counter-synth.
-Mix: clean/wide, short plate on lead, spring on guitar, slap on ad-libs; target -9 to -8 LUFS, no brick.
-Rooftop-happy, P&L of joy.
+2025-ready alt-pop/electro blend with a relaxed, late-night glide and playlist warmth, Female lead: clear baritone with lived-in rasp, intimate mic, light Auto-Tune for glassy edges, Tempo eased (112–124 BPM) with a soft, head-nod pocket, Rhythm: palm-muted, mid-forward guitars tucked under mellow synth stabs; round sub/sine bass mirrors the kick with occasional gentle 808 swells, Drums understated but crisp: warm snare, soft transient control, lightly swung hats; four-on-the-floor arrives in the chorus as a buoyant lift, not a blast, Structure: intro sting → verse → halftime-feel pre to breathe → chant-friendly, easygoing chorus → post-chorus motif (clean guitar + muted arp in unison); compact bridge with airy breakdown and restrained snare build, Melody hooky, narrow range; conversational topline, quiet gang-tag echoes, Harmony simple, power-chord centric with lush pads, Production glossy yet cozy: parallel compression in moderation, tasteful saturation, gentle sidechain, wide guitar
 
 
-## Lyrics (EN, draft)
-Title: Continental Commute (Coach & Carriage Confessional)
+## Lyrics
+### FI
 ```
 [Chorus]
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
+Tänään mennään, varo ettet jää kyydistä
+Tänään mennään, varo ettet jää kyydistä
+Tänään mennään, varo ettet jää kyydistä
+Tänään mennään, varo ettet jää kyydistä
 
 [Verse 1]
-A drip won’t drown you, no one sinks in a train;
-conductors don’t clock out, and grinders don’t complain.
-If you hush and can’t hack it—can’t handle the strain,
-you’re kind to a fault or your liver runs plain.
-’Cause tonight we ride the rail, inhale the ale as we go,
-no straw in the bottle—from the neck with a flow.
-Eyes glaze in the aisle when the night lights flash,
-hey miss—park your man, grab a bunk, stash your cash.
+Kiskot vie, ja makuuvaunu kulkee
+Kulkee kuin merel yli mantereen
+
+
+Leima-passi, nopea luokka – manner kuin valtameri.
+Jos jähmet, me kiusoittelemme – paine kääntyy leikkiin,
+Pehmeä sydän, fiksu lähtö – sohva, näytä tietä.
+Kartta taittuu, sovellus käskee – Baselista Brüggeen,
+Istuimen vaihto, rytmi putoaa – matkatavarat tekevät uria.
+Signaalit vilkkuvat, ajatukset synkronoituvat – aamunkoiton ROI,
+Me ohjaamme, me hurraamme – seuraava raja, jatkamme matkaa
+```
+
+
+### EN, draft
+Title: Tonight we’re rolling
+```
+[Chorus]
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+
+[Verse 1] (shortened)
+Track hum, wheel drum—sleeper car in motion,
+Stamp-pass, fast class—continent like an ocean.
+If you freeze, we tease—pressure turns to play,
+Soft heart, smart start—couchette, lead the way.
+Map fold, app told—Basel up to Bruges,
+Seat swap, beat drop—luggage doing grooves.
+Signals blink, thoughts sync—ROI of dawn,
+We steer, we cheer—next border, roll on.
 
 [Chorus]
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
 
-[Verse 2]
-Hey girl, you’re my platform one, my run;
-tiny request—ditch weekday dread, hit sun.
-Let go, let rails hum—music in the bus;
-I banked my whiskey—the coach holds us.
-Drop your worries on the parquet floor,
-best angle—tango—your carry-on core.
-No sleep tonight; the sleeper’s a rave,
-hands high—stamp time—let the minutes misbehave.
+[Verse 2] (shortened)
+Gate buzz, rail fuzz—customs at the siding,
+Snack stash, cash dash—platforms we’re striding.
+No sleep? Deep keep—secrets cut like steel,
+Cold feet, bold beat—fear says “move,” we wheel.
+Side-eye, bye-lie—ghosts at old stations,
+New cues, good news—self-made nations.
+Hands up, plans up—metrics into trust,
+We choose, we cruise—sisters, steel, and dust.
 
-[Chorus]
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-
-[Bridge]
-Can’t find a punchline premium enough;
-maybe you’d rather comp two drinks and bluff.
-Host—double-doubles, neat—no ice;
-come morning you won’t text “wanker,” or “dick”—be nice.
-Call me day-to-day hero of coach and clutch;
-I help the girls—when consent says “such.”
-Yep, yep—label me principal seat;
-no regrets at dawn for the words on repeat. 
+[Bridge] (shortened)
+Punchline pending—let the rail write it;
+If fate gate-keeps, we lean in and cite it.
+Call us principals—tracks are our thesis;
+No regrets at dawn—tickets, time, releases.
 
 [Chorus]
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
-We're rolling—say it straight if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
+Tonight we’re rolling—don't be late if you’re boarding.
 ```

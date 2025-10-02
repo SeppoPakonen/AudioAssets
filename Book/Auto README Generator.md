@@ -1,0 +1,4 @@
+- 2025-10-02: Add auto-generator for Book index
+- Added `scripts/book_update_readme.sh` to rebuild `Book/README.md`
+- Compatible with `scripts/book_check.sh`
+- Chapter: `005 - Auto README Generator.md`

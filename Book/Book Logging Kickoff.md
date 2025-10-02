@@ -1,0 +1,5 @@
+- 2025-10-02: Init Book logging; add `Book/` dir
+- Add chapter: `001 - Book Logging Kickoff.md`
+- Add compact (this file): title-based
+- Update `AGENTS.md` with Book workflow
+- Voice: first-person for me; refer to him contextually (Spearhead/Captain/Curator/Director/Chief/Ringleader when sketchy)

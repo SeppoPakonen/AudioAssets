@@ -1,0 +1,3 @@
+- 2025-10-02: Enforce README↔Book sync in checker
+- Updated `scripts/book_check.sh` to fail on missing README entries
+- Chapter: `004 - README Sync Check.md`

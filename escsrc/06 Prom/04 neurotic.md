@@ -9,10 +9,90 @@ A American English hip-hop track with a melancholic and gritty atmosphere. The i
 A 2025 mainstream American hip-hop cut with a melancholic, gritty vibe. Sparse hybrid beat: nylon acoustic guitar looping arpeggios (slightly detuned/warped), warm sub/808 sustaining a steady pulse, and a pared-back drum machine (tight kick, dry rim, soft hats, occasional trap rolls). Mid-tempo, minor key; hypnotic and consistent with no big tempo/dynamic swings. Male rapper in English—low-key monotone yet expressive; intimate close-mic, subtle autotune, short slap + plate reverb for a distant, airy tail. Hook is simple and sticky: chantable chorus with doubled leads, whispered ad-libs, and a light vocoder pad. Mix leaves space: side-chained bass under guitars, gentle tape saturation, faint vinyl/room noise for texture. Arrangement: 4-bar intro, Verse–Chorus–Verse–Chorus with brief instrumental breaks and a final ride-out. Mood: reflective street realism—cold nights, long shadows—modern but understated.
 
 
-## Lyrics (EN, draft)
-Title:Under the Palms (Quarterly Miss)
+## Lyrics
+### FI
 ```
 
+[Chorus, female R&B singing
+Keskusta, Itäkeskus, Vantaa, Asema
+Keskusta, Itäkeskus, Vantaa, Asema
+
+
+[Verse 1, male rapping
+
+[Kertosäe]
+(nainen)Keskusta
+(mies)
+(nainen)Itäkeskus
+(mies)
+(nainen)Vantaa 
+(mies)
+(nainen)Satama
+(mies)
+
+(nainen)Keskusta
+(mies)köyhät ovet, korkeat kerrokset, anelevat sireenit.
+(nainen)Itäpuoli
+(mies)korttelin selkärangat, kellosakot, betonitunnustus.
+(nainen)Etelä-Keskusta
+(mies)kehtoja keinuu, pullot puhuvat, tarvitsevat.
+(nainen)Satama
+(mies)rikollisuus tuntuu valitulta, kun tikkaat vuotavat verta.
+
+[Verse 2, mies räppää]
+Ei kulmaa kulmalle, ei takahuonemaksua;
+Puhun sanattomien puolesta, hiljaa kuristettuina.
+
+Myöhäisvuoron pyhimykset vaihtavat penkit LEDeihin –
+MacArthurin hämärä, neonsaarnat.
+
+Surevat juovat Veniceä tummempana kolmena;
+
+maksat kuihtuvat pehmeästi Countyn tuulessa.
+
+Rakkaus ei syty, kun sulkemismaksut lisääntyvät;
+
+kyyneleet pyyhkivät taskuista nukan ja anomuksen kanssa.
+
+Isä lyö äitiä, äiti napsahtaa – silmukkaa emme voi vapauttaa;
+
+lapsi keinuu koulussa tyhjän lounaan vauhdilla.
+
+Kuka laukaisee aloitussyötteen tässä ryntäyksessä?
+Pakkomuksia hampailla, ei luettavia esitteitä.
+
+Dokumentteja ja pakkasia? Optiikkaa syötteenä.
+
+Tarkastele juuria, älä meemiä – taattu.
+
+Emme ole kunnossa, Los Angeles – allekirjoita tämä tarve.
+
+[Kertosäe]
+(nainen)Keskusta
+(mies)köyhät ovet, korkeat kerrokset, anelevat sireenit.
+(nainen)Eastside
+(mies)lohkon selkärangat, kellosakot, betoniuskontunnustus.
+(nainen)Etelä-Keskusta
+(mies)kehtoja keinuu, pullot puhuvat, tarvitsevat.
+(nainen)Satama
+(mies)rikollisuus tuntuu valitulta, kun tikkaat vuotavat verta.
+(nainen)Keskusta
+(mies)köyhät ovet, korkeat kerrokset, sireenit jotka anelevat.
+(nainen)Eastside
+(mies)lohkon selkärangat, kellosakot, betoniuskontunnustus.
+(nainen)Etelä-Keskusta
+(mies)kehtoja keinuu, pullot puhuvat, tarvitsevat.
+(nainen)Satama
+(mies)rikollisuus tuntuu valitulta, kun tikkaat vuotavat verta.
+
+[Outro, naispuolinen R&B-laulu]
+Keskusta, Itäpuoli, Etelä-Keskusta, Satama
+Keskusta, Itäpuoli, Etelä-Keskusta, Satama
+```
+
+### EN, draft
+Title:Under the Palms (Quarterly Miss)
+```
 [Chorus, female R&B singing]
 Downtown, Eastside, South Central, Harbor
 Downtown, Eastside, South Central, Harbor

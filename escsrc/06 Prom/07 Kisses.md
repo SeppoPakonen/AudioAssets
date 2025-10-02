@@ -41,7 +41,59 @@ This track is a hip-hop piece with a dark, atmospheric vibe. It features a vocal
 ## New style
 Club-forward hybrid: sleek Jersey-club bounce with Afro-fusion percussion sprinkles, rubbery UKG bass swells, and glossy hyper-pop vocal chops. Verses float in hushed alto R&B, then snap into tight stop-and-go drum breaks with snare triplets and body-roll subs. Hook leans chantable and short—earwormy top-line stacked in thirds with airy ad-libs. Bridge pivots to a dry, close-mic male rap over a minimal bass-and-click bed, then everything slams back with widened stereo pads and stuttered vocal slices. Mix is bright, side-chained, and spacious; master is punchy but not brickwalled.
 
-## Lyrics (EN, AI draft)
+## Lyrics
+### FI
+```
+[Intro — spoken]
+(*hh*—*hh*—*click*)
+valot pois—*mm*
+enemmä tempoo—*hiljaa*
+
+[Verse 1 — female R&B]
+
+[Chorus — female R&B]
+Sydän lyö
+Tapaa mut nyt
+Pidä mua lähellä
+Nopeemmin, hengitä
+Ajetaan tänä yönä
+
+[Verse 2 — female R&B]
+
+[Chorus — female R&B]
+Sydän lyö
+Tapaa mut nyt
+Pidä mua lähellä
+Nopeemmin, hengitä
+Ajetaan tänä yönä
+Päivänselvästi
+Sydän lyö
+Tapaa mut nyt
+Pidä mua lähellä
+Nopeemmin, hengitä
+Ajetaan tänä yönä
+
+[Bridge — male rap]
+
+[Chorus — female R&B]
+Sydän lyö
+Tapaa mut nyt
+Pidä mua lähellä
+Nopeemmin, hengitä
+Ajetaan tänä yönä
+Päivänselvästi
+Sydän lyö
+Tapaa mut nyt
+Pidä mua lähellä
+Nopeemmin, hengitä
+Ajetaan tänä yönä
+
+[Outro — spoken]
+Hoida mustelmat
+Synkkä hehku
+
+```
+### EN, AI draft
 ```
 [Intro — spoken]
 (*hh*—*hh*—*click*)
