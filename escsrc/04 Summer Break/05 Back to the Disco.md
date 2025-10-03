@@ -32,53 +32,101 @@ The tempo is fast, contributing to the urgent and propulsive mood,
 The song structure follows a verse-chorus pattern with instrumental breaks
 
 
-## Lyrics (FI, AI draft)
+## Lyrics
+
+### Finnish
+Title: Shownainen
 ```
 [Verse 1 (rap)]
-Eksibittaaja takas, liukuun someen—liikedoosit, aatedoosit;
-Algoritmin enne: avaa silmät, ei opt-out—lukittuu liikedoosiin.
-Häpeäkytkin oikosulussa, “vibat” viisoo; ylpeys surffaa dopamiinidoosiin,
-Tykkimäärät alennuskuponkeina syylle—kallistaa metrit taikajuomadoosiin.
+Show-nainen taas someen liukuu
+Liike-liemet kuohuu, seuraajat juopuu
+Algoritminen enne, silmät avaa,
+koodi käskee, ei vapautta saa
+
+Älä häpee vaan vibaasi ohjaa
+Ylpeys paisuu, dopamiini hoitaa.
+Sydän määrät syyllisyyden korjaa,
+Luvut suuret ei mua nolaa
 
 [Chorus (singing)]
-Lainatut “moraalit”, lainakertosäe, sydämet myydään tusinaeriin;
-Me katsotaan, kun koodi valitsee—tiet suljettiin, valinta lukittiin.
-
-[Post-chorus]
-Algo sanoo: katso.
+Samat sanat lainaamassa, samaa kaavaa toistamassa
+Katsot koska koodi ohjaa, himoasi kiihottaa vaa
+Samat sanat lainaamassa, samaa kaavaa toistamassa
+Katsot koska koodi ohjaa, himoasi kiihottaa vaa
 
 [Verse 2 (rap)]
-Terapiaa? Ehkä—mut palkkalista palvelee haluja, rimoja rikotaan;
-“Yhteiskunnan malli”, valittu valkoisen rikkaan ringin—heilutetaan.
-Pelko-triggerit, hehku-triggerit—vuosien päästä kipu kääntyy herkuksi;
-Sukupuolitetut charmit pyytämättä—maskattu suostumus siirretään eduksi.
-“Näiden liitto ois gay”—pienellä präntillä piilotetaan nimilapulle;
-Yksityiselämä? Häpeä on rahaa ja retro-keittiön pöydälle.
+Terapiaan? Ehkä mut
+Palkkapäivä ruokkii halut
+Mallikansalainen on valittu valkoinen,
+Niin päätti sisäpiiri varjoinen
 
-[Verse 3 (rap)]
-Tanssin mainosta varten, en manifestoimaan onnee—koukkuja katseeseen;
-Soolo-hohde, ei tempoa jaeta—ilmaa loimuille, yksi spoti sateeseen.
-Tasapaino rakkaudessa? Vaatii kumppanin häpeän, että kehys tasataan;
-Hän on “liian pitkällä”—fatalit biisit julistaa: taso ei tähtää koskaan.
-Kouluremedi? “Parita rohkea ja ujo”—rajat hämärtyy simputukseksi;
-Pakota ujo paljastuun? Se on tuijottava bulli—moraalimatikka punaiseksi.
-“Vedä AI:lla—feikkaa paljastus”—ideaali ilman tekoa, ilman kosketusta;
-“Ne on tyhmiä,” ja opettajat “ei kasvata sua pitkälle”—baarit, baarit kuritusta.
+Pelkoo luo, huudot nuo,
+Vuodet vierii, traumoi tuo.
+Lipevät sanat pyytämättä
+Ne laskut maksaa, estot syrjäyttävät
 
-[Chorus (singing)]
-Lainatut “moraalit”, lainakertosäe, sydämet myydään tusinaeriin;
-Me katsotaan, kun koodi valitsee—tiet suljettiin, valinta lukittiin.
+Sateenkaariunioni, kulttuuri-fit
+Uppoaa totuus disclaimeriin
+Oma elämä? Häpeä on rahaa
+Ja mun kalusteet liian vanhoja
+
+Isot tissit, hymyilevä blondi
+Mahas muljuu, on sun reaktiosi
+Et saa omaa, et katsookkaan
+Jos vaimo huomaa nii joudut vonkaan
 
 [Post-chorus]
-Algo sanoo: katso.
+Algoo vahtaat
+Algoo vahtaat
+
+[Verse 3 (rap)]
+Tanssilla mainostaa, sut tavoittaa
+Katsekoukut ansoittaa
+Soolo-suoritus, kuka muka jakaa,
+Happee roihuun, spotti palaa
+
+Rakkauden mitta on kumppani ylpeä
+Muuten painaa, ja kierretään kehää
+"Liian pimeä mies", biisit ties
+Tasapaino on onni toisien
+
+Ope parittaa rohkeen ja ujon
+Käytävil nöyryyttävä lopputulos
+Ontto on kaveri, kasvoton vaikeni
+Narsismi-talentti huomion varasti
+
+"AI esiin kun ei oo taitoo"
+yleisö uskoo, algoritmi taikoo
+"Ne on tyhmii", koulu ei kasvata
+Likainen sotku, vihollinen iholla
 
 [Chorus (singing)]
-Lainatut “moraalit”, lainakertosäe, sydämet myydään tusinaeriin;
-Me katsotaan, kun koodi valitsee—tiet suljettiin, valinta lukittiin.
+Samat sanat lainaamassa, samaa kaavaa toistamassa
+Katsot koska koodi ohjaa himoasi kiihottaa vaa
+Samat sanat lainaamassa, samaa kaavaa toistamassa
+Katsot koska koodi ohjaa, himoasi kiihottaa vaa
+
+[Post-chorus]
+Algoo vahtaat
+Algoo vahtaat
+Algoo vahtaat
+Algoo vahtaat
+
+[Chorus (singing)]
+Samat sanat lainaamassa, samaa kaavaa toistamassa
+Katsot koska koodi ohjaa himoasi kiihottaa vaa
+Samat sanat lainaamassa, samaa kaavaa toistamassa
+Katsot koska koodi ohjaa, himoasi kiihottaa vaa
+
+[Post-chorus]
+Algoo vahtaat
+Algoo vahtaat
+Algoo vahtaat
+Algoo vahtaat
 
 ```
 
-## Lyrics (EN)
+### English
 ```
 [Verse 1 (rap)]
 Exhibitor’s back, slid to socials—motion potions, notion devotion;
@@ -100,6 +148,13 @@ Fear triggers, cheer-triggers—years later pain’s reframed as savor;
 Shows gendered charms unasked—masked consent displaced by favor.
 “Union of these types’d be gay” —fine print hides the label;
 Private life? Shame’s about money and outdated kitchen tables.
+
+[Chorus (singing)]
+Borrowed “morals,” quoted chorus, hearts for sale by the dozen;
+We watch ’cause code chose—closed roads, choice frozen.
+
+[Post-chorus]
+Algo says watch.
 
 [Verse 3 (rap)]
 Dances to advertise, not to actualize joy—ploys for the gaze;

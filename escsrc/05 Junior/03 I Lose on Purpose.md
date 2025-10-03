@@ -35,7 +35,27 @@ The song structure is verse-chorus based, with a clear distinction between the m
 - Chorus (x2)
 - Outro
 
-## Lyrics (EN)
+## Lyrics
+
+### Finnish
+Title: 
+```
+[Chorus: female singing]
+Sun Feng Shui on kohdallaan
+Sun Feng Shui on kohdallaan
+
+[Verse 2: male rapping
+Sun kaa tunnelma on smuuth, harmonian huuma,
+mut rauha kaipaa jotain muuta, mitä saa en sulta
+Sä hymyillen väität et sul kaikki on,
+
+
+
+[Bridge: female singing
+
+```
+
+### English
 Title: Feng Shui On Point
 ```
 [Chorus: female singing]

@@ -70,7 +70,14 @@ Form: Verse → 8-bar pre (rising noise/filtered toms) → hook/chorus (call-and
 
 Delivery: competitive loudness without brickwall, Atmos-ready, solid mono. Edits: Main/Instrumental/Clean, +4% sped, Slowed+Verb, 15s/30s hook-first, phone/earbud master, full stems. One-line: Bleak neon at ~100 BPM; doors open wider in the chorus.
 
-## Lyrics (EN)
+## Lyrics
+
+### Finnish
+Title:
+```
+```
+
+### English
 Title: Remote Control Cathedral
 ```
 [Intro 1 — R&B male (soft, smoky)]
