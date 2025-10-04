@@ -29,34 +29,101 @@ There are no obvious chord progressions, but the bass line provides a strong har
 The song features a consistent drum beat throughout, with occasional fills
 
 
-## Lyrics (FI)
+## Lyrics
+### Finnish
+Title: Pysy siinä
 ```
 [Verse 1]
-Vuosiin niit en nähny oo
-.
-.
-.
+En oo nähnyt heitä vuosiin
+Ei oo kaipuu juttuihin entisiin
+Maskis murtuu ajassa; mun karastui lamassa
+Kirjanpito paljastaa pahuuden salassa
 
 [Chorus]
 Pysähdy
 Hengitä
-.
-.
+Selkeydy
+Päätöksentekijä
+Askel valoon
+Kuivuu kyynel
+Ei pyhää
+Anna peilin sun nimes päättää
 
 [Verse 2]
+Ne saapui valmiiks rikkaina.
+Minä pidin kirjaa oikeudesta.
+Tekopyhä sädekehä; Mainoksen mykistän
+Vertaiselta toiselle vein tulta eteenpäin
 
 [Verse 3]
+Aaveet tarttuu kylmin käsin
+Nyt on kuri ihon sisälläkin
+Taputtaja katoaa; Kaikua en unohda
+Mentorille paikka pysyy yhä vapaana
 
 [Chorus]
+Pysähdy
+Hengitä
+Selkeydy
+Päätöksentekijä
+Askel valoon
+Kuivuu kyynel
+Ei pyhää
+Anna peilin sun nimes päättää
 
 [Chorus 2]
 Pysy
 siinä
+Hiljaa nyt
+Hengitä
+Pysy
+siinä
+Hiljaa nyt
+Hengitä
+
+[Instrumental
+
+[Bridge (shout rap)]
+Tarkasta mun hengitys
+Maski pois, tee selvitys
+Häpeä roihuaa
+Astu rajan yli kun savuaa
+Murskaa valhevalta
+Tuli kiertoon, uusi kanta
+Polta paperinen jumala
+Peilikuva pysy lujana
+Sä kannat kipinää
+Oo hiljaa, ei rähinää
+Pysy siinä nyt
+Nosta katse, tyynenä pysy
+
+[Chorus]
+Pysähdy
+Hengitä
+Selkeydy
+Päätöksentekijä
+Askel valoon
+Kuivuu kyynel
+Ei pyhää
+Anna peilin sun nimes päättää
+
+[Chorus 2]
+Pysy
+siinä
+Hiljaa nyt
+Hengitä
+Pysy
+siinä
+Hiljaa nyt
+Hengitä
+
+[Outro]
+Selkeydy
 
 ```
 
 
-## Lyrics (EN)
+## English
 Title: Stay still
 ```
 [Verse 1]
