@@ -19,53 +19,96 @@ The song is in a minor key and features a driving rhythm section of drums and ba
 
 
 ## Lyrics (FI)
-Title:
+Title: Kadul kylmäl kaupungin
 
 ```
 [Intro]
 Mä juoksen tietä
 Öisen kaupungin
 Junaan viimeiseen
-Miehel kiireisel
+Täl miehel kiireisel
 On vain yks maali
-Yks ovi
+Sun etuovi
 
-[Chorus]
-Vaaras kaikki on tuhoutua
-Kadul kylmäl kaupungin
-Rakastaa en saa
-Sodan aikana
-.
-Rakkaus on rauhaa sodan jälkeen
-Happee hengitykseen
-Ennen loppua
-Rikkaus on mulle mysteeri
-Kätes sun sodan lopettaa
+[Chorus 1]
+Vaaras kaikki on tu-
+houtua, kadul
+kylmäl kaupungin,
+rakkaus on rauhaa, sodan jälkeen
+jatkoa hengitykseen
+viimeiseen 
 
-Tyyneys ennen viimeistä henkäystä
-
+[Chorus 2]
+Kun ystävä mysteeri on
+Sun kätesi saa aikaan aselevon 
 
 [Verse 1]
-Maisemat ohi liikkuvat
-Rikkaus katoaa
+Maisemat ohi vilahtavat
+Ja rikkaus maailman
 Tunteet murentaa
-Miehel on kiire niinku minulla
-Hän lukee tarpeet ja tietää
-Kuinka joku on mielessä
+Saan kirpparilta
+samanlaisen
+tavaran
+Hän osaa mun ajatukset lukea
+Vain sua en saa
+Mun täytyy juosta
 
+[Chorus 1]
+Vaaras kaikki on tu-
+houtua, kadul
+kylmäl kaupungin,
+rakkaus on rauhaa, sodan jälkeen
+jatkoa hengitykseen
+viimeiseen
 
-[Bridge]
-Yltäkylläisyys
-.
-.
-.
-.
-.
-Me suudellaan
-Tyydy en yksin olemaan
+[Chorus 2]
+Kun ystävä mysteeri on
+Sun kätesi saa aikaan aselevon
+Joo
 
+[Instrumental]
+Rauha viimeisellä hengenvedolla
+Kun rikkautta ei me saadakkaan
 
-[Verse 2]
+[Bridge 1]
+Yltäkylläinen tykkää valittaa
+Uusi auto vain himona
+Mul olis varaa lämpimään ateriaan
+Mut haluun sun vuoksi laihduttaa
+Ei haittaa, meil tarina on
+Vaik piilosuhde estää eroo
+
+[Bridge 2]
+Me suudellaan, väärin ois lopettaa
+Meidänlaiset saa salaa rakastaa
+
+[Chorus 1]
+Vaaras kaikki on tu-
+houtua, kadul
+kylmäl kaupungin,
+rakkaus on rauhaa, sodan jälkeen
+jatkoa hengitykseen
+viimeiseen 
+
+[Chorus 2]
+Kun ystävä mysteeri on
+Sun kätesi saa aikaan aselevon
+
+[Chorus 3]
+Ne vastustaa meidän haluja
+Et haluu diippei ajatuksia
+Meidänlaiset saa salaa rakastaa
+
+[Bridge 2]
+Me suudellaan, väärin ois lopettaa
+Meidänlaiset saa salaa rakastaa
+
+[Chorus 3, outro]
+Vaaras kaikki on tuhoutua
+kadul kylmäl kaupungin (kaupungin)
+Vaaras kaikki on tuhoutua
+kadul kylmäl kaupungin (kaupungin)
+
 ```
 
 ## Lyrics (EN)

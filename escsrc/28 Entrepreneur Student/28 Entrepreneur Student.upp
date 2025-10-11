@@ -26,5 +26,9 @@ file
 	IDEAT.txt,
 	"Jätetään vuodet pois.txt",
 	"Onnellinen sänky.txt",
-	"Jotain parempaa.txt";
+	"Jotain parempaa.txt",
+	Lyrics readonly separator,
+	"Vain rahaa.md",
+	Viesti.md,
+	Paskaa.md;
 

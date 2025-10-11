@@ -1,7 +1,8 @@
 # Two
 
 ## Background
-We actually played this with the band The Vice. The result was very bad.
+We actually played this with the band The Vice. We had a great time. The original language was English, and it was pretty poor English.
+This was probably the fourth song I dared to do in its entirety, and it was still in English. I didn't dare to write in Finnish, but in English. The song is partly reflection and partly a wonder at the actions of people my own age. I'm still pretty happy with the arrangement, which is completely original, and which we played with the band.
 
 Composed: 5.3.2006
 
@@ -19,63 +20,64 @@ The production is raw and unpolished, with a focus on instrumental clarity
 
 
 
-## Lyrics (FI)
-Title: Miks viel
+
+
+
+## Lyrics
+
+### Finnish
+Title: Kaks, ei yks
 ```
 [Verse 1]
-Oikeestikko vaikutus pitäis tehdä?
-Meikata ja pitää mekkoo pientä
-Oikeestikko koroil kävellä?
-Ja sun nukkeas tyhmää näytellä?
+Sanoit et mun täytyy miellyttää
+Punaista mekkoo päällä pitää
+Näytit miten täytyis kävellä
+Olla kiiltävä nukke, laval näytillä
 
 [Prechorus]
-Sä vihaseks saat, en sua halua
+Mua yökötät, en sua ymmärrä
 
 [Chorus]
 Ei kukaan voi sua tajuta
-Ei tarkoitustas voi arvata
+Mitä piilee sun sanojesi takana
 Ei kukaan voi sua tajuta
-ja silti oon kanssas
+Ja silti mä pysyn sun mukana
 
 [Verse 2]
-Mä vain tahdon yhen tyttöjen illan
-Olla vain, muttet tykkää ollenkaan
-Sä kiristät mua kotiin vain jäämään
-Ja muita katselet, vaikka oon vieressä
+Oon yhden päivän kanssa ystävän
+Mutta sitä et voi hyväksyä
+Aijot kostaa olevas muualla
+Ja kaupungilla et ees katso mua
 
 [Prechorus]
-Sä vihaseks saat, en sua halua
+Mua yökötät, en sua ymmärrä
 
 [Chorus]
 Ei kukaan voi sua tajuta
-Ei tarkoitustas voi arvata
+Mitä piilee sun sanojesi takana
 Ei kukaan voi sua tajuta
-ja silti oon kanssas
+Ja silti mä pysyn sun mukana
 
 [Bridge]
-Sä määräilet mua liikaa, enkä kestäkkään
-Joka päivä elämä on ...
-Ku sä haastat riitaa...
-.
-.
+Sä määräilet liikaa, en kestä enempää
+Sun kanssa olo joka päivä vaatii vain enemmän
+Kun sä alat riiteleen, mä unohdan itseni
+Sä rakkaudeksi väität sitä mut se viiltää sydäntäni
+En haluu lähteä, mut en haluu nähdä muita sun lähellä
 
 [Chorus]
 Ei kukaan voi sua tajuta
-Ei tarkoitustas voi arvata
+Mitä piilee sun sanojesi takana
 Ei kukaan voi sua tajuta
-ja silti oon kanssas
+Ja silti mä pysyn sun mukana
 Ei kukaan voi sua tajuta
-Ei täyttää voi sun halujas
+Mitä piilee sun sanojesi takana
 Ei kukaan voi sua tajuta
-nii miksi vielä oon kanssas, poika
-
+Ja silti mä pysyn sun mukana
 
 ```
 
-
-
-
-## Lyrics (EN)
+### English
 Title: Two, Not One
 
 ```

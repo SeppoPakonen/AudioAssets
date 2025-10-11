@@ -35,51 +35,49 @@ Title: Pysy siinä
 ```
 [Verse 1]
 En oo nähnyt heitä vuosiin
-Ei oo kaipuu juttuihin entisiin
+En mä kaipaa juttuihin entisiin
 Maskis murtuu ajassa; mun karastui lamassa
-Kirjanpito paljastaa pahuuden salassa
+Kirjanpito paljasti pahuuden salassa
 
 [Chorus]
 Pysähdy
 Hengitä
-Selkeydy
+Muista syy
 Päätöksentekijä
-Askel valoon
-Kuivuu kyynel
-Ei pyhää
-Anna peilin sun nimes päättää
+
+Valoon tuu
+Kyynel kuivuu
+Suru ei jää
+Anna peilin nimes päättää
 
 [Verse 2]
-Ne saapui valmiiks rikkaina.
-Minä pidin kirjaa oikeudesta.
-Tekopyhä sädekehä; Mainoksen mykistän
+Ne saapui rikkaina.
+Minä pidin kirjaa kaikesta.
+Tekopyhän sädekehän; Mainoksen mykistän
 Vertaiselta toiselle vein tulta eteenpäin
 
 [Verse 3]
 Aaveet tarttuu kylmin käsin
-Nyt on kuri ihon sisälläkin
+Nyt kuri on ihon sisälläkin
 Taputtaja katoaa; Kaikua en unohda
-Mentorille paikka pysyy yhä vapaana
+Mentorille paikka pysyy yhä avoinna
 
 [Chorus]
 Pysähdy
 Hengitä
-Selkeydy
+Muista syy
 Päätöksentekijä
-Askel valoon
-Kuivuu kyynel
-Ei pyhää
-Anna peilin sun nimes päättää
+
+Valoon tuu
+Kyynel kuivuu
+Suru ei jää
+Anna peilin nimes päättää
 
 [Chorus 2]
-Pysy
-siinä
-Hiljaa nyt
-Hengitä
-Pysy
-siinä
-Hiljaa nyt
-Hengitä
+Pysy siinä hiljaa nyt (ja hengitä)
+Pysy siinä hiljaa nyt (ja hengitä)
+Pysy siinä hiljaa nyt (ja hengitä)
+Pysy siinä hiljaa nyt (ja hengitä)
 
 [Instrumental
 
@@ -90,35 +88,35 @@ Häpeä roihuaa
 Astu rajan yli kun savuaa
 Murskaa valhevalta
 Tuli kiertoon, uusi kanta
-Polta paperinen jumala
-Peilikuva pysy lujana
+Polta väärä paperi-jumala
+Peilikuva, pysy lujana
 Sä kannat kipinää
 Oo hiljaa, ei rähinää
 Pysy siinä nyt
-Nosta katse, tyynenä pysy
+Nosta katse, ja tyynenä pysy
 
 [Chorus]
 Pysähdy
 Hengitä
-Selkeydy
+Muista syy
 Päätöksentekijä
-Askel valoon
-Kuivuu kyynel
-Ei pyhää
-Anna peilin sun nimes päättää
+
+Valoon tuu
+Kyynel kuivuu
+Suru ei jää
+Anna peilin nimes päättää
 
 [Chorus 2]
-Pysy
-siinä
-Hiljaa nyt
-Hengitä
-Pysy
-siinä
-Hiljaa nyt
-Hengitä
+Pysy siinä hiljaa nyt (ja hengitä)
+Pysy siinä hiljaa nyt (ja hengitä)
+Pysy siinä hiljaa nyt (ja hengitä)
+Pysy siinä hiljaa nyt (ja hengitä)
 
 [Outro]
-Selkeydy
+Hengitä
+Hengitä
+Hengitä
+Hengitä
 
 ```
 

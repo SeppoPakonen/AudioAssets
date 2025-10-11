@@ -53,11 +53,11 @@ The overall mood is somber and reflective
 	
 
 ## Lyrics (FI)
-Title: Tervetuloa
+Title: Hei taas
 ```
 [Intro]
-Moikka
-Moikka taas
+Hei hei
+Hei hei taas
 
 [Instrumental]
 (oo-oo)
@@ -68,37 +68,45 @@ Moikka taas
 [Verse 1]
 Tuuli lehtii keinuttaa, ne auringossa kasvaa
 Sinitaivas, linnutkin, ne hengen multa noutaa
+
+[Prechorus 1]
 On rauha ja rakkaus
 Ei turhaa oo mun luottamus
 Tää tuntuu kuin taivaalta
 Jota jäin kaipaamaan
-Ilman omaa
+Ilman omaa (rakasta)
 
 [Chorus]
 Hei taas, kohtalo on kadota
-kotona
+Kotona
 Hei taas, täytyy jäädä olemaan
-kotona
+Vain kotona
+
+[Instrumental]
 
 [Verse 2]
 Iltapäiväaurinko, sen valo mut nyt löytää
 Pilvet liikkui ohi jo, hetki tää väsyttää
+
+[Prechorus 2]
 On elämällä tarkoitus
 Ei oo kellään suuri vaatimus
 Tää tuntuu kuin taivaalta
 Johon tahdon päästä
-Ensi yönä
+Ensi yönä (viimeistään)
 
 [Chorus]
 Hei taas, kohtalo on kadota
-kotona
+Kotona
 Hei taas, täytyy jäädä olemaan
-kotona
+Vain kotona
+
+[Instrumental]
 
 [Bridge]
 Mä en tiedä, miks täytyy jäädä
 Mut parempi on näin
-Kuuletko mua, kutsun sua
+Kuuletko mua, kun kutsun sua
 Milloin tavataan uudestaan?
 
 [Outro]
@@ -109,7 +117,7 @@ Kuin pisarat joessa
 Missä sä oot?
 Mä kaipaan sua jo
 Mä toivon että sut nään
-Valoina yöllä
+Vaikka valona yöllä
 
 ```
 
@@ -132,6 +140,8 @@ Welcome home
 [Verse 1]
 See beneath a flower’s leaves, the breeze is softly weaving
 See the sky and shining fields, the sight is soul-relieving
+
+[Prechorus 1]
 Here nobody hates you,
 Nobody betrays you
 This feels like the home that you longed for and cried,
@@ -152,6 +162,8 @@ Welcome home
 [Verse 2]
 The sun, the flies, the fireflies — all light your face and greet you
 The wind that sighs across the skies, it whispers that it needs you
+
+[Prechorus 2]
 Here nobody mocks you,
 Nobody ever shocks you
 This feels like the home that you lost when love died,
@@ -228,7 +240,7 @@ Alla oleva tulkinta nojaa ennen kaikkea Freudiin (UNI- ja EGO/SUPEREGO-malli, ku
 
 #### Manifesti vs. latentti sisältö (Freud)
 
-* **Manifesti taso:** “Tervetuloa kotiin / Welcome home”, ikuinen lepo, lempeä luonto, ketään ei vihata eikä pilkata. Menetys: “kun rakkaus sammui”, “paikka jossa kuolit”.
+* **Manifesti tas o:** “Tervetuloa kotiin / Welcome home”, ikuinen lepo, lempeä luonto, ketään ei vihata eikä pilkata. Menetys: “kun rakkaus sammui”, “paikka jossa kuolit”.
 * **Latentti toive:** **Regressio turvalliseen sulkeumaan**, jopa kuoleman syleilyyn. “Jää tänne ikuisesti” ja “kohtalo” vihjaavat **luopumiseen egon ponnistuksesta**. Tämä sopii Freudin (1920) ajatukseen **kuolemanvietistä**: palaaminen jännitteettömään tilaan (“ikuinen lepo”) tarjoaa ratkaisun sisäiseen ristiriitaan.
 * **Unheimliche/Heimliche:** “Koti” (heim) ja “koti jossa kuolit” nivoutuvat; tuttu muuttuu oudon viekoittelevaksi. Se on yhtä aikaa **äidin kohtu** (Rank) ja **hautapaikka** (Freud), turvallinen mutta pysäyttävä.
 
