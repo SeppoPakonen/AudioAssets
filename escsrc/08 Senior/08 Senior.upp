@@ -13,5 +13,9 @@ file
 	"09 weird.tg",
 	2024 readonly separator,
 	"VA - Epic.gp",
-	sensitive.txt;
+	sensitive.txt,
+	2025 readonly separator,
+	"When I was 5.md",
+	"Forcibly different.md",
+	"She writes over.md";
 

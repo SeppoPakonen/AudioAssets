@@ -301,7 +301,215 @@ Tämä loppulause on arvoituksellinen ja latautunut: se vihjaa, että “meidän
 
 
 
+## Music Video
+
+### Sora preset
+```
+SORA PRESET — Kadul kylmäl kaupungin
+Theme
+
+Melankolinen brittipop-noir, jossa nälkäinen romantiikka kohtaa jälkiteollisen yksinäisyyden.
+Kuvaa kuin 90-luvun dokumentti rakkaudesta betonin ja bensankäryn keskellä — vähän kuin jos Blurin “The Universal” ja Morrisseyn “Suedehead” olisivat eksyneet Helsingin yöhön.
+Tarina on yhtä aikaa intiimi ja julma: rakkautta, jota ei ole lupa näyttää, mutta jota ei voi piilottaakaan.
+
+Setting / Environment
+
+• Öinen suomalainen kaupunki, marraskuun sateessa.
+• Betonisiltojen alustoja, rautatieasema, ränsistynyt kerrostaloalue, neonvalojen värittämä pubi.
+• Junien kolina, märät kadut, valojen heijastukset — visuaalinen rytmi kulkee kappaleen kanssa.
+• Asemalaiturilla joku polttaa viimeistä savuketta ennen junaa – siinä koko tarina.
+
+People
+
+• Päähenkilö: Miesvokalisti, kalpea ja kulunut mutta karismaattinen – laulu on tunnustus.
+• Nainen: tumma tukka, raskas eyeliner, nahkatakki – punk-enkeli, jonka katseessa on aselepo ja tuho.
+• Taustalla bändi: vintage-soittimet, takahuoneen energia, laulu ilman poseerausta.
+• Ethnicity: suomalaiset, mutta kuvattu kuin eurooppalaisen arthouse-leffan sivuhenkilöinä – anonymiteetti kaunistaa.
+
+Color Palette
+
+• Sadeveden heijastuksia: tummanruskea, amber, kylmä sininen.
+• Rytmikohtauksissa välähdyksiä: neon pinkki, elektrinen sininen — kuin signaalivirhe unessa.
+• Kevyt film grain + chromatic bleed valojen ympärillä.
+• Värit kuin vanhasta Kodak Vision3 -filmistä — lämmin mutta melankolinen.
+
+Camera & Motion
+
+• Handheld 4K digital, kevyesti vapiseva – inhimillinen epätäydellisyys.
+• Verseissä: hitaat, pehmeät panoraamat — hengitys näkyy.
+• Choruksissa: jump cutit, whip panit, nopea rytmi, kuin sydämenlyönti ennen tunnustusta.
+• Occasional static wide shot bändistä — sitten äkkinäinen zoomi laulajan kasvoihin, kun lause “rakkaus on rauhaa” osuu ilmaan.
+
+Film Stock / Texture
+
+• Analoginen filmiefekti – rakeinen, kuin VHS:ltä tallennettu treenikämpän dokumentti.
+• Kevyet tape glitches vaihdoissa (verse → chorus).
+• Pöly, naarmut, ja valovuodot – muistutus, että tarina on kulkenut jo pitkän matkan.
+
+Lighting
+
+• Garage scenes: lämmin tungsten-halo kitarankauloissa, savukkeen savu tanssii ilmassa.
+• Street scenes: kylmä loiste, sateen heijastukset, yksinäinen neonvalo vilkkuu – kaupunki hengittää.
+• Performance scenes: amber + cobalt blue -gelit, rytmissä strobot, kuin aselepo sodan jälkeen.
+
+Vibe & Pacing
+
+• Verse: runollinen realismi – pieni kamera, suuret tunteet.
+• Chorus: rytminen kollaasi – nopeat välähdykset, bändi ja katu sulautuvat.
+• Bridge: romanttinen kaaos, maailma sumenee, kuva ylikylläistyy hetkeksi – rakkaus huutaa hetken ennen kuin katoaa.
+• Lopussa: kamera kääntyy poispäin, kävely pois valosta. Fade-out neonin ja sateen väliin.
+
+🩶 Lyhyesti:
+Visuaalisesti Kadul kylmäl kaupungin näyttää siltä kuin The National olisi kuvannut Aki Kaurismäen elokuvan VHS-kasetille.
+Tunne: “viimeinen ilta ennen lähtöä – ja kaikki on jo menetetty, mutta se tuntuu kauniilta.”
+
+Haluatko, että teen tästä myös visuaalisen treatmentin (kohtausluonnos: mitä tapahtuu, missä ja millä kameraliikkeillä)?
+Se olisi seuraava askel ennen storyboardia tai Sora-video promptin rakentamista.
+```
 
 
+## Täydellistä, Seppo.
+Tämä lähtee kulkemaan kuin filmikelat pölyisessä projektorissa —
+kappaleen maailma on nyt selkeä:
+90-luvun suomalainen kaupunki, sateen ja huurteen sinfonia, jossa lämpö ja kylmyys elävät rinnakkain.
+Tässä on ensimmäinen versio **kuvakäsityskirjasta (storyboard draft)** musavideolle *“Kadul kylmäl kaupungin”* — rakennettuna **slideshow-muotoon**, sopivaksi sekä generatiiviseen AI-työhön että editointivaiheen ohjenuoraksi.
 
+---
 
+## 🎞️ Kuvakäsityskirja
+
+---
+
+### **SLIDE 1: Aloitus-intertitle**
+
+* **Kesto:** 4 s
+* **Teksti:**
+  *Kadul kylmäl kaupungin*
+  (alaotsikko pienellä: “Ääniraita: Kadul kylmäl kaupungin – Dark Britpop in minor key”)
+* **AI-prompt:**
+  “Vintage Finnish intertitle, black background, ornate serif typography in ivory, decorative frame edges, mild film grain and vignetting, 1990s VHS intro aesthetic with flicker”
+
+---
+
+### **SLIDE 2: Kaupungin yö – junarata**
+
+* **Kesto:** 6 s
+* **Kuvaus:**
+  Kamera liukuu hitaasti rautatien ylitse, lumi sulaa kiskoilla, etäällä valot välkkyvät.
+  Junan ääni lähestyy, ja kaupunki humisee kuin unessa.
+* **AI-prompt:**
+  “Finnish city railway at night, cold winter atmosphere, wet asphalt, sodium-vapor streetlights casting amber glow, drifting snow, cinematic film grain, handheld 4K look, low contrast, analog texture”
+
+---
+
+### **SLIDE 3: Päähenkilö – juoksee**
+
+* **Kesto:** 8 s
+* **Kuvaus:**
+  Miesvokalisti juoksee pitkin tyhjää katua, takki hulmuaa, hengitys höyryää.
+  Kamera seuraa takaviistosta, hieman tärisevä handheld.
+  *“Mä juoksen tietä, öisen kaupungin…”*
+* **AI-prompt:**
+  “Male singer running through empty Finnish street at night, visible breath, vintage 1990s winter fashion, tungsten streetlights, filmic motion blur, handheld digital 4K with grain”
+
+---
+
+### **SLIDE 4: Ensimmäinen bändileikkaus – treenikämppä**
+
+* **Kesto:** 5 s
+* **Kuvaus:**
+  Bändi soittaa pimeässä autotallissa. Seinillä karvalankamattoja, tyhjiä kaljatölkkejä, vahvistimet vinkuvat.
+  Kamera kiertää bändin ympäri hitaasti.
+* **AI-prompt:**
+  “Finnish indie rock band rehearsing in a dim garage, warm tungsten lights, smoke, vintage instruments, gritty handheld aesthetic, beer cans, film grain and light lens flares”
+
+---
+
+### **SLIDE 5: Kertosäe – katuvalot ja autot**
+
+* **Kesto:** 6 s
+* **Kuvaus:**
+  Kamera seuraa katuvalojen ohi vilahtavia pintoja auton ikkunasta.
+  Sateen ropina, sinertävä valo, heijastukset muodostavat rytmin.
+  *“Vaaras kaikki on tuhoutua…”*
+* **AI-prompt:**
+  “Driving through Finnish winter city at night, reflections on wet road, sodium streetlights and neon signs, rain streaks on windshield, handheld cinematic feel”
+
+---
+
+### **SLIDE 6: Rakastavaiset – salattu kohtaaminen**
+
+* **Kesto:** 8 s
+* **Kuvaus:**
+  Pimeä sivukatu. Nainen sytyttää savukkeen, mies pysähtyy.
+  He suutelevat varjossa, neonvalo heijastuu märästä seinästä.
+  *“Meidänlaiset saa salaa rakastaa.”*
+* **AI-prompt:**
+  “Moody Finnish street alley at night, couple kissing under neon light, steam rising from manhole, snow and rain mix, cinematic composition, amber and cobalt color tones, analog film look”
+
+---
+
+### **SLIDE 7: Bridge – kaupungin yltäkylläisyys**
+
+* **Kesto:** 6 s
+* **Kuvaus:**
+  Nopeita leikkauksia: luksusauto pysähtyy liikennevaloihin, mainosnäyttö vilkkuu, roskakori ylitsevuotava.
+  Kontrasti: rikkaus ja kurjuus samalla kadulla.
+  *“Yltäkylläinen tykkää valittaa…”*
+* **AI-prompt:**
+  “Contrast montage, luxury car beside worn-out street, flashing billboards, homeless person walking by, gritty urban realism, Finnish winter night, subtle VHS glitch effects”
+
+---
+
+### **SLIDE 8: Toisen kertosäkeen bändileikkaus**
+
+* **Kesto:** 5 s
+* **Kuvaus:**
+  Kamera heilahtaa kitaristista laulajaan, nopeita zoomauksia rumpuihin.
+  Strobovalot sykkivät rytmissä, savua, hiki, sähköinen energia.
+* **AI-prompt:**
+  “Energetic band performance in dark bar, tungsten and blue lighting, handheld camera with rapid pans, sweat, smoke, analog film texture, focus shifts in rhythm with music”
+
+---
+
+### **SLIDE 9: Symbolinen junamatka**
+
+* **Kesto:** 7 s
+* **Kuvaus:**
+  Junan sisällä, ikkuna huurussa. Nainen piirtää sormella sydämen huuruun, mies katsoo ulos.
+  Maisemat vilahtavat — tuttuja mutta tavoittamattomia.
+* **AI-prompt:**
+  “Inside Finnish night train, foggy window, blurred landscape, melancholic couple sitting apart, warm interior lighting vs cold exterior, cinematic handheld shot”
+
+---
+
+### **SLIDE 10: Loppukohtaus – asema, poislähtö**
+
+* **Kesto:** 6 s
+* **Kuvaus:**
+  Mies jää yksin laiturille, kädet taskuissa. Junan ääni kaikkoaa.
+  Kamera nousee hitaasti ylöspäin, kaupunki jää taakse.
+  Fade-out.
+* **AI-prompt:**
+  “Lonely man standing on empty railway platform at night, Finnish winter, snow falling slowly, amber station lights, melancholic film ending, grain and soft lens flare”
+
+---
+
+### **SLIDE 11: Outro-intertitle**
+
+* **Kesto:** 4 s
+* **Teksti:**
+  “Meidänlaiset saa salaa rakastaa”
+  (pienellä: “© 2025 sblo / Kadul kylmäl kaupungin”)
+* **AI-prompt:**
+  “Final title card, serif text on black, warm amber glow vignette, analog film texture, VHS flicker effect, end of tape feel”
+
+---
+
+💡 **Visuaalinen ydin:**
+Kaikki näyttää siltä kuin *vanha VHS olisi toistanut muiston* — vähän rakeinen, vähän vääristynyt, mutta täysin rehellinen.
+Tarinassa ei ole sankareita, vain ihmisiä jotka yrittävät olla lämpimiä kylmässä maailmassa.
+
+---
+
+Haluatko, että teen tästä seuraavaksi **kuvauskohtausluettelon (scene breakdown)** — missä eritellään kuvakoot, kuvakulmat ja kuvauksen rytmi (hyödyllinen jos halutaan toteuttaa oikeasti tai tehdä Sora video frame-by-frame)?
