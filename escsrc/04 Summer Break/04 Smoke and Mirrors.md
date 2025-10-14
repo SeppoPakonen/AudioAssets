@@ -19,47 +19,61 @@ The overall feel is dark and slightly melancholic
 
 
 ## Lyrics (FI)
-Title:
+Title: Usko on hölmöä
 ```
-
 [Instrumental]
 
 [Verse 1]
-
+Ne syyttää naisia
+Et "Huomio on huorausta"
+Ei rauhaa, vapautta
+Vain miehen palvelija, synnytyskoneena
 
 [Chorus 1]
-Meillä 
-Joten
-Me vaan
-Niinpä kuulet sä
+Meillä / usko on hölmöä
+Joten / apuun tuodaan lisää turhii sääntöjä
+Me vain / sallittiin kaikkea
+Niinpä nähdään me kaikkeen aihetta
 
 [Instrumental]
 
 [Verse 2]
-Usko kuin valhetta
+Tääl uusii kirjat on
+Geeneis on kohtalo
+Pahuuden puolueen
+Piiloon sanelee, hän ei anele
 
-Puolue pahuuden
+[Chorus 1]
+Meillä / usko on hölmöä
+Joten / apuun tuodaan lisää turhii sääntöjä
+Me vain / sallittiin kaikkea
+Niinpä nähdään me kaikkeen aihetta
 
 [Chorus 2]
-
-
+Menee / apua Afrikkaan
+Pee-Ärrä takaisin sen maksaa
+Totuus tahraa
+Yhteiset kentät miinoitetaan, ja omaisuus piiloitetaan
 
 [Prechorus 1]
-.
-.
-Ei oikeutta sun parhaaks
-Me luetaan hänen historia laulun sanoista
+Lain sopivan hän valitsee
+Ja miehet sokaisee
+Ei oikeutta, omaks parhaaks saa
+Sun historia kuuluu laulujen sanoissa
 
 [Instrumental]
 
 [Verse 3]
-Tieto peitetty; polku sumuun jää
+Ei tuomita täällä saa
+Tai muuten itkee hän taas
+Kaikki hyvin, unohda
+Mennyt on sumua kun elät jo ratkaisua
 
 [Chorus 1]
-Ei kukaan kiinni jää
-.
-Ne tyytyväisii on
-.
+Meillä / usko on hölmöä
+Joten / apuun tuodaan lisää turhii sääntöjä
+Me vain / sallittiin kaikkea
+Niinpä nähdään me kaikkeen aihetta
 
 ```
 
