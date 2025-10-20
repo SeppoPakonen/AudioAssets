@@ -6,12 +6,14 @@ Made at Juha's parent's garage (in Oulu, Haapalehto) 11.9.2006, when we restarte
 The song started from a joke, that "maybe we should start a trash metal band". Then, I actually found this riff and started to make a song with the garage computer and guitar pro software.
 
 Refurbished 9.10.2022 by Seppo Pakonen
-I had to modify the composition quite significantly, because there were so many false notes. My old bandmates would not approve.
+I had to modify the composition quite significantly, because there were so many false notes. My old bandmates would not approve, because they would like to sound not-in-tune.
 
 - Composed: 11.9.2006
 
 
 ## Style
+
+### 1
 Style & Energy: Dark, confident trap/pop-rap with melodic hooks. Minor key, moody but radio-friendly.
 Tempo: 140 BPM (double-time bounce), halftime feel in sections.
 Vocals; Lead: melodic rap with light Auto-Tune; catchy topline in the hook, tighter flow in verses.
@@ -27,62 +29,7 @@ Melodics: Minimalist motif: plucked bell or detuned synth lead (two-bar earworm)
 Supporting layers: filtered pad and/or reversed piano for atmosphere.
 Optional one-shot textures: vocal chop answering the hook.
 
-
-## Inspiration text
-
-Kehitä ihmistä, älä sääntöjä.
-Vaikka säännöt jää alitajutaan, ja niitä noudatetaan
-Jotkut säännöt vain haittaa
-Olisi parempi olla myös herkkä kontrasteille, joita tulee vastaan
-Olisi parempi mennä sen verran hitaammin, että ehtii harkita, ja punnita vaihtoehtoja mielessään
-
-Develop the person, not the rules. They creep into the subconscious, followed without question, but some rules only hold us back. They’re chains we don’t see, habits we don’t challenge, systems we accept because they’re there. Pause. Look at the contrasts around you—choices that seem equal but pull you in different directions. Don’t just take the first path. Slow down, not to stop, but to see clearly. Weigh the options in your mind, let them breathe. The world moves fast, autumn leaves fall, winter’s dark snow buries the ground, but you don’t have to run blind. Question what binds you. Break what doesn’t serve. Choose your own way, not because it’s loud, but because it’s true.
-
-Develop the person, not the rules. They sink deep, unnoticed, into the subconscious, shaping how we move, think, live. Rules—some are invisible, woven into habits we never question, carved into society’s expectations, heavy like frost on a winter morning. They tell us to keep going, to follow the path already worn, but some rules are walls, not guides. They block the view of what could be. Stop for a moment. Not to freeze, but to breathe. Notice the contrasts—the choices that tug at you, each one whispering a different future. Don’t rush to the first option just because it’s there, loud, familiar. Slow down enough to feel the weight of each possibility. Autumn’s decay scatters leaves across the ground; winter’s darkness cloaks the world in silence, snow burying yesterday’s tracks. Yet in that quiet, there’s clarity. You see the chains—habits you’ve outgrown, norms that don’t fit. You don’t have to break them with noise or force. Just see them. Question them. Let them crumble under the truth of who you are becoming. Every step is yours to choose, not because the world demands it, but because your own voice, steady and raw, calls you to something real.
-
-
-
-Structure:
-- Intro
-	1. 1+3+1+3=8 syllables
-	2. 1+3+1+3=8
-- Instrumental
-- Verse 1
-	1. 1+3=4 syllables
-	2. 1+3=4
-	3. 1+2+2+3=8
-	4. 3+4=7
-	5. 1+3=4
-	6. 1+3=4
-	7. 1+2+2+3=8
-	8. 3+4=7
-- Prechorus 1
-	1. 1+3+4=8
-	2. 1+3+4=8
-- Chorus
-	1. 1+3+4=8
-	2. 1+3+4=8
-	3. 2+3+4+2+2=13
-	4. 3+4+2+2=11
-	5. 1+1+1+3=6
-- Verse 2: as verse 1
-- Prechorus 2: as prechorus 1
-- Chorus
-- Bridge 1
-	1. 3+4+2=9
-	2. 3+4+2=9
-	3. 3+4+2+3+2=14
-	4. 3+4+2+3+2=14
-- Instrumental
-- Prechorus 3
-	1. 1+3+4=8
-	2. 1+3+4=8
-- Chorus
-
-
-
-
-Style:
+### 2
 This is a high-energy rock track with a driving rhythm section and fast prominent male vocals / rap.
 The song is in a minor key, creating a dramatic and intense atmosphere.
 The instrumentation includes electric guitar, bass guitar, and drums.
@@ -97,27 +44,76 @@ The overall tempo is fast, contributing to the energetic and aggressive feel of 
 
 ## Lyrics (FI)
 ```
-[Verse 1]
-Pois saa muuttaa
-Kyseenalaista
-Sokeet luulot kutsuvat
-Tarkistamatta
-.
-.
-.
-.
+[Verse 1, (slowly and fastly alternating)]
+Vah-
+va
+o-
+te
+miks hallitsee?
+Sokeesti tapoja suojelee. (mm-m)
+Aamun avaus opettajan
+On vanha pyhyys hakkeroituna
 
 [Prechorus 1]
 Mä yksin epäilemään jään
-Mä rikon pimees pitäjän
+Mä rikon kaavan pettävän
 
 [Chorus]
-Hiljaa mun polun taivallan
-Sun säännöt ylikirjoitan
-.
-.
-.
+Ei kaikki oo kuin sanotaan (aa)
+Epäilen aivan kaikkea (aa)
+Salaisuutta ei tiedä jokainen
+Ei ilmaisuus oo tavoite
+Ja totuuden valitsen (jee)
 
+[Verse 2]
+Ket-
+ju
+viit-
+tausten
+Helppouskoisten
+Jäljet kulki läpi huijauksen (mm-m)
+Opeta elämään, hyvyyttä enemmän
+Etsitään kaikua meressä
+Nautitaan yksinään
+Ei vain voittajaa ylistetä
+
+[Prechorus 1]
+Mä yksin kasvamaan jään
+Mä kuuntelen mitä mietitään
+
+[Chorus]
+Ei kaikki oo kuin sanotaan (aa)
+Epäilen aivan kaikkea (aa)
+Salaisuutta ei tiedä jokainen
+Ei ilmaisuus oo tavoite
+Ja totuuden valitsen (jee)
+
+[Chorus]
+Ei kaikki oo kuin sanotaan (aa)
+Epäilen aivan kaikkea (aa)
+Salaisuutta ei tiedä jokainen
+Ei ilmaisuus oo tavoite
+Ja totuuden valitsen (jee)
+
+[Bridge 1]
+Jos säännöt kalhitsee, mä rikon ne
+Jos arki sumuu on, mä kirkastan sen
+Jos valta hiljentää, mun ääni kovenee
+Jos kiire voittaa, tuun läpi aikajanojen
+
+[Chorus]
+Ei kaikki oo kuin sanotaan (aa)
+Epäilen aivan kaikkea (aa)
+Salaisuutta ei tiedä jokainen
+Ei ilmaisuus oo tavoite
+Ja totuuden valitsen (jee)
+
+[Chorus (Outro)]
+Ei kaikki oo kuin sanotaan (aa)
+Epäilen aivan kaikkea (aa)
+Salaisuutta ei tiedä jokainen
+Ei ilmaisuus oo tavoite
+Ja mä totuuden valitsen
 
 ```
 
@@ -206,3 +202,59 @@ Your rules don't fit my bones, no more.
 I won't sprint blind through winter's steel hush, I will see first.
 I weigh the paths, then carve my own, with calm eyes.
 My pace, my proof. No rush.
+
+```
+
+
+
+
+## Inspiration text
+
+Kehitä ihmistä, älä sääntöjä.
+Vaikka säännöt jää alitajutaan, ja niitä noudatetaan
+Jotkut säännöt vain haittaa
+Olisi parempi olla myös herkkä kontrasteille, joita tulee vastaan
+Olisi parempi mennä sen verran hitaammin, että ehtii harkita, ja punnita vaihtoehtoja mielessään
+
+Develop the person, not the rules. They creep into the subconscious, followed without question, but some rules only hold us back. They’re chains we don’t see, habits we don’t challenge, systems we accept because they’re there. Pause. Look at the contrasts around you—choices that seem equal but pull you in different directions. Don’t just take the first path. Slow down, not to stop, but to see clearly. Weigh the options in your mind, let them breathe. The world moves fast, autumn leaves fall, winter’s dark snow buries the ground, but you don’t have to run blind. Question what binds you. Break what doesn’t serve. Choose your own way, not because it’s loud, but because it’s true.
+
+Develop the person, not the rules. They sink deep, unnoticed, into the subconscious, shaping how we move, think, live. Rules—some are invisible, woven into habits we never question, carved into society’s expectations, heavy like frost on a winter morning. They tell us to keep going, to follow the path already worn, but some rules are walls, not guides. They block the view of what could be. Stop for a moment. Not to freeze, but to breathe. Notice the contrasts—the choices that tug at you, each one whispering a different future. Don’t rush to the first option just because it’s there, loud, familiar. Slow down enough to feel the weight of each possibility. Autumn’s decay scatters leaves across the ground; winter’s darkness cloaks the world in silence, snow burying yesterday’s tracks. Yet in that quiet, there’s clarity. You see the chains—habits you’ve outgrown, norms that don’t fit. You don’t have to break them with noise or force. Just see them. Question them. Let them crumble under the truth of who you are becoming. Every step is yours to choose, not because the world demands it, but because your own voice, steady and raw, calls you to something real.
+
+
+
+Structure:
+- Intro
+	1. 1+3+1+3=8 syllables
+	2. 1+3+1+3=8
+- Instrumental
+- Verse 1
+	1. 1+3=4 syllables
+	2. 1+3=4
+	3. 1+2+2+3=8
+	4. 3+4=7
+	5. 1+3=4
+	6. 1+3=4
+	7. 1+2+2+3=8
+	8. 3+4=7
+- Prechorus 1
+	1. 1+3+4=8
+	2. 1+3+4=8
+- Chorus
+	1. 1+3+4=8
+	2. 1+3+4=8
+	3. 2+3+4+2+2=13
+	4. 3+4+2+2=11
+	5. 1+1+1+3=6
+- Verse 2: as verse 1
+- Prechorus 2: as prechorus 1
+- Chorus
+- Bridge 1
+	1. 3+4+2=9
+	2. 3+4+2=9
+	3. 3+4+2+3+2=14
+	4. 3+4+2+3+2=14
+- Instrumental
+- Prechorus 3
+	1. 1+3+4=8
+	2. 1+3+4=8
+- Chorus

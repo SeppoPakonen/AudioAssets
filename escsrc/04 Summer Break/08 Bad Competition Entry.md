@@ -17,51 +17,70 @@ Production elements include a clean, punchy mix with a slight reverb on the voca
 
 
 ## Lyrics (FI)
-Title:
+Title: Mun oma nörtti
 ```
 [Intro]
-.
+Mun oma nörtti
 
 [Instrumental]
 
 [Chorus]
-Sä oot mun ...
-.
-Bittivirta...
-.
+Sä oot mun oma nörtti
+Viisaus silmissäsi
+On bittivirta sydämmessäsi
+Ja laskin päässäs
 Tyylis on niin ajaton
-.
-.
-.
+Parempi ois mahdoton
+On bittivirta sydämmessäsi
+Ja laskin päässäsi
 (oh-oh)
 
 [Verse 1]
-Mulla on ongelma
-.
-.
-.
-Nauroit kun
-.
-.
-.
+Mulla oli taas tietokoneongelma 
+Yhteyttä saanut en ilman johtoa
+Löysin sut auttamaan
+Ja vilkaisulla sä tajusit ongelman 
+Nauroit kun katsoit konetta mun
+Vanhal Win-dous-sil raahaudun
+Yksi klikkaus ja on kaikki ratkaistu
+Samantien on mun sydänkin varattu
 
 [Chorus]
+Sä oot mun oma nörtti
+Viisaus silmissäsi
+On bittivirta sydämmessäsi
+Ja laskin päässäs
+Tyylis on niin ajaton
+Parempi ois mahdoton
+On bittivirta sydämmessäsi
+Ja laskin päässäsi
+(oh-oh)
 
 [Verse 2]
-Se miten tajuat...
-.
-.
-.
-Uus aika..
-.
-.
-.
+Pelit sun kuumat saa kuumaks mut
+Sun kädet vahvat näppistä on hakannut
+Jokainen unelmoi, mut elät unelmaa
+Virtuaalista fantasiaa
+Uus aika historias avautuu
+Ei lihaksikkuus dominoi tappeluu
+Kohteliaat kakkoset voi naiset unohtaa
+Kun nyt halutaan digi-gorillaa
 
 [Instrumental]
 
 [Chorus]
+Sä oot mun oma nörtti
+Viisaus silmissäsi
+On bittivirta sydämmessäsi
+Ja laskin päässäs
+Tyylis on niin ajaton
+Parempi ois mahdoton
+On bittivirta sydämmessäsi
+Ja laskin päässäsi
+(oh-oh)
 
 [Instrumental]
+
 ```
 
 

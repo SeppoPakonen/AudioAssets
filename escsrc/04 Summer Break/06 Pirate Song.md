@@ -13,46 +13,72 @@ In conclusion, this is what we had in our minds, but what we never actualised.
 ## Style
 A melancholic ska reggae piece with a slow tempo and a minor key, The instrumentation includes a clean electric guitar playing arpeggiated chords, a bass guitar providing a walking bass line, and drums with a simple, steady beat, The vocals are delivered in a low, almost spoken-word style, with a slightly melancholic tone, The song structure is verse-chorus with an instrumental break, The production is clean with a clear separation of instruments, The guitar features a subtle reverb and delay, and the bass is prominent in the mix, The drums are mixed to provide a solid rhythmic foundation without overpowering the other instruments, The overall mood is reflective and slightly somber
 
-## Lyrics (FI)
+## Lyrics
+
+### Finnish
 Title: Miia
 ```
 [Instrumental]
 
 [Verse 1]
-
-
-Silmiin me tuijotetaan
-
+Ovi lukittu
+Mieli kirkas, on sielu jo ravittu
+Ilman kunniaa, tänään Miia nukkuu
+Vangittuna odottaa
+Hän kutsuu apuun valoa
+Kun ei muuta saa
 
 [Chorus 1]
-Hymyile, 
-.
-.
-.
-Sut halutaan
-Ja se on suurin vaaroista
+Hymyile kun poliisi pamputtaa
+Lämmin yö Miiaa sellissä odottaa
+Ei ystävii, ei puolustajaa
+Kyyneleitä vain torjutaan
+Haluttu tuomituksi tulemaan
+Mut me rauhaa toivotaan
 
 [Instrumental]
 
 [Verse 2]
-.
-.
-.
-.
-Hän oppi kai
+Ei tuu reiluu kamppailuu
+Kuinka voisi hän puolustautuu
+Syvemmälle Babyloniin ajautuu
+Ei testi tää enää uusiudu
+Koittaa vain ajautua
+Suunnitelmaan varmaan
+Kun ei saa asian-ajajaa
 
 [Chorus 1]
+Hymyile kun poliisi pamputtaa
+Lämmin yö Miiaa sellissä odottaa
+Ei ystävii, ei puolustajaa
+Kyyneleitä vain torjutaan
+Haluttu tuomituksi tulemaan
+Mut me rauhaa toivotaan
 
 [Instrumental]
 
-[Chorus 2]
+[Bridge]
+Vääryyksii ja valittui totuuksii
+Epäreiluu on kun pilataan mahdollisuuksii
+Korruptio silmien edessä kiirehtii työnteossa
+Heil on uskoa asiassa, puoleksi pahassa
+
+[Chorus 1]
+Hymyile kun poliisi pamputtaa
+Lämmin yö Miiaa sellissä odottaa
+Ei ystävii, ei puolustajaa
+Kyyneleitä vain torjutaan
+Haluttu tuomituksi tulemaan
+Mut me rauhaa toivotaan
+
+[Instrumental]
 
 ```
 
 
 
 
-## Lyrics (EN)
+### English (unfinished)
 Title: Mia
 
 ```

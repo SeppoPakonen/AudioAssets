@@ -40,34 +40,56 @@ Sä kerrytät velkaa joka kerta kun joudun häviämään sulle, kun kiristät mu
 ```
 
 
-## Lyrics (FI)
+## Lyrics
+
+
+
+### Finnish
+Title: Ei itkul voiteta
 ```
 [Verse 1]
-Taas sulle joudun häviään
-Mun vahvuus sais sut ikemään
-Mä oon kuin vieras omas talos kun sua vastaan pelaan
-.
-Miks et näe ittees peilistä?
-En voi katsoo kun sä häviät.
+Taas sulle joudun hävii-mään
+Kun mun vahvuus sai sut itkemään
+Mä oon vain vieras teidän talos
+kun sua vastaan pelaan
+Mut on mun maine aina vaarassa pilaantua
+Miks et nää ittees peilistä?
+En voi katsoo kun häviät
 
 [Chorus]
-.
-Maailma ei
-Sä vain vaadit mua ...
-Joka kerta ...
+En tuu, mä enää vastaan
+Maailmassa ei itkul voiteta
+Sä vain vaadit muilta liikaa
+Ja sun ylpeys kunniaa varastaa
 
 [Verse 2]
-Ei moninpolit saa surettaa
-Sun valitus saa karkaamaan
+Ei leikit saisi surettaa
+Sun valitus sen aikaan saa
+Kuin riippuvainen olet, uskalla en vastaan panna
+Parempi poistua, hiljaisena vastustaa vaan
+Pilaan mun päivän samalla
+Ei pelii uutta oteta
 
 [Instrumental]
 
 [Chorus]
+En tuu, mä enää vastaan
+Maailmassa ei itkul voiteta
+Sä vain vaadit mmuilta liikaa
+Ja sun ylpeys kunniaa varastaa
+En tuu, mä enää vastaan
+Maailmassa ei itkul voiteta
+Sä vain vaadit muilta liikaa
+Ja sun ylpeys kunniaa varastaa
+En tuu, mä enää vastaan
+En tuu (En tuu) Sä vaadit liikaa
+En tuu, mä enää vastaan
+En tuu (En tuu) Sä vaadit liikaa
 
 ```
 
 
-## Lyrics (EN, AI Draft)
+### English (AI Draft)
 Title: Deliberate Losses
 
 ```

@@ -18,7 +18,9 @@ The guitar solo is melodic and uses a wah effect,
 The overall feel is dark and slightly melancholic
 
 
-## Lyrics (FI)
+## Lyrics
+
+### Finnish
 Title: Usko on hölmöä
 ```
 [Instrumental]

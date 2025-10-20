@@ -83,35 +83,66 @@ Kaikki on monimutkaista, kun ei ole voimaa sanoa ei.
 
 
 
-## Lyrics (FI)
+## Lyrics
+
+### Finnish
 ```
+[Verse 1]
+Mä oon huolissani
+tänään
+Hänen kaverit tuo ongelmia
+Ja kaiken vääristää
+Vaik mä oon hänen
+turva
+Toivon hyvää
+mutta hän karkaa
+
+[Prechorus]
+Viel vääryys voittaa
 
 [Chorus]
 Totuus muuttui taas
-.
-.
-.
-Susitytön verkko kiristyy
+Hänen pyhä aije kantaa
+Käärmeöljyy saa
+Heikkoon tyttöön luotetaan
+Kaikki uskoo viel
+Ne tiedä ei sekoiluu siel
+Seikkai-li-jan vaarallisel tiel
 
 [Verse 2]
-Villi ja yksin
-Susi yön
-.
-.
-.
-.
-Hänen valhe toimii
-Vain mun takii
-.
-.
+Villi mut yksin
+hän on
+Kosketus on tuskaa,
+väistää vastuuta
+Vain mä voin nähdä
+läpi sen
+Mut mua syyttää
+kun mä estänyt en
+
+[Prechorus]
+Hän sotkee
 
 [Chorus]
+Totuus muuttui taas
+Hänen pyhä aije kantaa
+Käärmeöljyy saa
+Heikkoon tyttöön luotetaan
+Kaikki uskoo viel
+Ne tiedä ei sekoiluu siel
+Seikkai-li-jan vaarallisel tiel
 
 [Instrumental]
 
 [guitar solo]
 
 [Chorus]
+Totuus muuttui taas
+Hänen pyhä aije kantaa
+Käärmeöljyy saa
+Heikkoon tyttöön luotetaan
+Kaikki uskoo viel
+Ne tiedä ei sekoiluu siel
+Seikkai-li-jan vaarallisel tiel
 
 ```
 

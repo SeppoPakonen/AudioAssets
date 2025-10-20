@@ -29,59 +29,62 @@ There is a clear build-up and drop in the instrumental sections, characteristic 
 Title: Tanssibiisi
 ```
 [Intro]
-Uuh aah, mä tanssin
-Uuh aah, mä tanssin
+Uuh aah, mä tanssin (aa-a)
+Uuh aah, mä tanssin (aa-a)
 
 [Chorus]
 Uuh aah, mä tanssin
-Uuh aah, mä tanssin eessäs
+Uuh aah, mä tanssin sulle
 Uuh aah, mä tanssin
-Uuh aah, mä tanssin eessäs
-Mä haluun tanssii nyt sun kans
+Uuh aah, mä tanssin sulle
+Mut mä haluun tanssii nyt sun kans
 Ooh, mä haluun tanssii nyt, mies, sun kans
-
-[Chorus]
 
 [Verse 1]
 Tuu jo, tuu jo tanssimaan
-.
-.
-.
-.
-.
-.
-.
+Sun tarvii näyttää tanssitaitojas
+Tans -si
+Jos tanssit edes vähäsen
+Niin näytän sulle muuvin salaisen
+Mä liikun ja niin säkin tee
+Jotenkin tanssiin sut saan
+Aa, miten vain tanssitaan
 
 [Chorus]
-.
-.
-.
-.
-.
-.
+Uuh aah, mä tanssin
+Uuh aah, mä tanssin sulle
+Uuh aah, mä tanssin
+Uuh aah, mä tanssin sulle
+Mut mä haluun tanssii nyt sun kans
+Ooh, mä haluun tanssii nyt, mies, sun kans
 
 [Verse 2]
-.
-.
-.
-.
-.
-.
-.
-.
+Tanssi voi myös jatkua
+Yöhön asti käänteil uusilla
+Tans -si
+Kun sä tanssit tuun mukaan
+Ja lähekkäin ei tarvi sanoja
+Jos kosken, sä koske vaan
+Jotenkin tanssiin sut saan
+Aa, tanssitaan miten vaan
 
 [Bridge]
-.
-.
-.
-.
-.
-.
-.
-.
-.
+Mä oon ainut joka hyvän olon tuo sulle nyt (aa-a)
+Mä oon ainut joka hyvän olon tuo sulle (aa-a)
+Tanssitaan, tanssitaan
+Tanssin vaikka aamuun asti
+Illasta iltaan, paikasta paikkaan
+Tanssitaan, tanssitaan
+Tanssin vaikka maanantaihin
+Biisistä biisiin, diitseille terveisii
 
 [Chorus]
+Uuh aah, mä tanssin
+Uuh aah, mä tanssin sulle
+Uuh aah, mä tanssin
+Uuh aah, mä tanssin sulle
+Mut mä haluun tanssii nyt sun kans
+Ooh, mä haluun tanssii nyt, mies, sun kans
 
 ```
 

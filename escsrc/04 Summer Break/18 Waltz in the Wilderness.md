@@ -7,6 +7,103 @@ City life is pretty fresh here. Even my grandparents still had a farm in the mid
 
 - Composed: 22.12.2006
 
+
+## Lyrics
+
+### FI
+Title: Vanhal maatilalla
+```
+[Verse 1]
+Suo vieressä pellon
+Ne isoisän maita olleet on
+Ja navetta punainen pihal
+On eläimittä ollut vuosia
+
+[Chorus]
+Saunaan vettä mä tuon
+Hiljaisuus ja puut rauhan luo
+
+[Verse 2]
+Maa-kellarin ovi
+Se kylmäkaapin tilalla oli
+Kun aurinko nousi
+Mummu kahvit verannassa keitti
+
+[Chorus]
+Saunaan vettä mä tuon
+Hiljaisuus ja puut rauhan luo
+On löylyt kuin lapsena (aa)
+Rakkaus vanhalla maatilalla
+
+[Instrumental]
+
+[Verse 3]
+Heitän vielä mä tikkaa
+Kilpailijat vain on taivaassa 
+Muistoissa mun ne elää
+Menneet ajat mua lämmittää
+
+[Chorus]
+Saunaan vettä mä tuon
+Hiljaisuus ja puut rauhan luo
+On löylyt kuin lapsena (aa)
+Rakkaus vanhalla maatilalla
+
+[Outro]
+Rakkaus vanhalla maatilalla
+
+```
+
+### EN, AI draft
+Title: Sued by Suits
+
+```
+[Verse 1]
+Company owners: trash.
+They call us “slaves”; their profit plan on track.
+Lay off, then beg us back.
+New hires guess what elders knew, by lore.
+
+[Chorus]
+Clock in, carve out hope, sell.
+Optimize, get sued by suits fast.
+
+[Verse 2]
+Coffee with the boss now.
+He talks his life; mine gets cut off quick.
+Books say “wage slaves”; freer than dogs.
+He must be cornerstone; “slaves” can’t grasp it.
+
+[Chorus]
+Clock in, carve out hope, sell.
+Optimize, get sued by suits fast.
+Clock in, carve out hope, sell.
+Optimize, get sued by suits fast. 
+
+[Instrumental]
+
+[Verse 3]
+Skim time; self care on clock.
+Sell your work your way; keep the craft true.
+A good game clears eyes well.
+Quick-profit boss? Pass; green arrow rules.
+
+[Chorus]
+Clock in, carve out hope, sell.
+Optimize, get sued by suits fast.
+Clock in, carve out hope, sell.
+Optimize, get sued by suits fast.
+```
+
+
+
+
+## Lyrics (FI)
+```
+```
+
+
+
 ## Inspiration text
 ```
 Firman omistajat on paskaa.
@@ -65,94 +162,3 @@ There are no significant dynamic shifts, maintaining a consistent, subdued inten
 - Verse 3: as verse 1
 - Chorus
 
-
-
-## Lyrics
-
-### FI
-```
-[Verse 1]
-Firman omistaja saasta
-Sille oon orja, voiton tuottaja
-Irtisanoo, ja kutsuu takas
-Uusi naama ei osaa arvata
-
-[Chorus]
-Ei toivoo aamulla
-Hyväl tahdol oot oikeudessa
-
-[Verse 2]
-Kahvit juot pomon kanssa
-Sä et puhu, saat vain kuunnella
-.
-.
-
-[Chorus]
-Ei toivoo aamulla
-Hyväl tahdol oot oikeudessa
-Ei toivoo aamulla
-Hyväl tahdol oot oikeudessa
-
-[Instrumental]
-
-[Verse 3]
-.
-.
-.
-.
-
-[Chorus]
-Ei toivoo aamulla
-Hyväl tahdol oot oikeudessa
-Ei toivoo aamulla
-Hyväl tahdol oot oikeudessa
-
-```
-
-### EN, AI draft
-Title: Sued by Suits
-
-```
-[Verse 1]
-Company owners: trash.
-They call us “slaves”; their profit plan on track.
-Lay off, then beg us back.
-New hires guess what elders knew, by lore.
-
-[Chorus]
-Clock in, carve out hope, sell.
-Optimize, get sued by suits fast.
-
-[Verse 2]
-Coffee with the boss now.
-He talks his life; mine gets cut off quick.
-Books say “wage slaves”; freer than dogs.
-He must be cornerstone; “slaves” can’t grasp it.
-
-[Chorus]
-Clock in, carve out hope, sell.
-Optimize, get sued by suits fast.
-Clock in, carve out hope, sell.
-Optimize, get sued by suits fast. 
-
-[Instrumental]
-
-[Verse 3]
-Skim time; self care on clock.
-Sell your work your way; keep the craft true.
-A good game clears eyes well.
-Quick-profit boss? Pass; green arrow rules.
-
-[Chorus]
-Clock in, carve out hope, sell.
-Optimize, get sued by suits fast.
-Clock in, carve out hope, sell.
-Optimize, get sued by suits fast.
-```
-
-
-
-
-## Lyrics (FI)
-```
-```

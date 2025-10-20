@@ -31,46 +31,69 @@ The production is clean
 
 
 
-## Lyrics (FI)
+## Lyrics
+
+### Finnish
 Title:
 ```
 [Verse 1]
 Tarvitsen jonkun
 Joka mua riidas puolustaa
-.
-.
+Tarvin suoraan sanovaa
+Ystävää huomaan kun en tajua
 
-[Chorus]
-Yhteiskunta läpimätä on
-On korruption puolue aina vastuuton
+[Chorus (very long vowels)]
+Tie- dä en 
+mä et- tä
+tie- dä en
+Kuka kertoo sen
+mä kuuntelen kyllä vaieten
 
 [Verse 2]
-Taas vaaleis huijattiin huomaamatta
-Yleisö hämättiin luottamaan
-Munlaiset aina piilossa
-Ne saastat perii vallan uudestaan
+Kaverit tulee käymään
+Ja vierain vuoroissa
+Somessa toiseks jäädään
+Mut kasvotusten kuunnellaan
 
 [Prechorus 1]
 Mä oon viimeinen
-Ne tulee rahalla kiristäen
-Eturistiriidan kiistäen
-Lapsesta asti koulus aivopesten
+Tajuumaan jutut uudet
+Vanhoja mielellään muistelen
+Palataan asioihin nuoruuden
 
-[Chorus]
+[Chorus (very long vowels)]
+Tie- dä en 
+mä et- tä
+tie- dä en
+Kuka kertoo sen
+mä kuuntelen kyllä vaieten
 
 [Bridge]
-Varoitti politikkoon luottamasta
-Papin historiasta
-Lampaiden laumasta
-Arkistosta putoomasta
-Haavat meidän unohtuu
-Kun kirjuri on muu
-Sanon äänen kunnes valetuomari poistuu
+Muut mua selkään puukottaa
+Levittää valetta
+Usko ei parempaa
+Asian takana
+Soitellaan muuten vaan
+Kuunnellaan puhetta
+Maailmassa tapahtuu
+Enkä pysy aina mukana
 
-
+[Chorus (very long vowels)]
+Tie- dä en 
+mä et- tä
+tie- dä en
+Kuka kertoo sen
+mä kuuntelen kyllä vaieten
+Tiedä mä en
+Tiedä mä en
+Kuka kertoo sen
+Mä kyllä kuuntelen
+Mä kyllä kuuntelen
+Mä kyllä kuuntelen
+(jeeaa)
 ```
 
-## Lyrics (EN)
+### English (unfinished)
 Title: I’m normal
 ```
 [Verse 1]

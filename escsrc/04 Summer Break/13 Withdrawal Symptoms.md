@@ -19,46 +19,61 @@ Title: Vieroitusoireet
 
 ```
 [Verse 1]
-Arkiaamul krapula.
+Arkiaamul kra-pu-la.
 Tutun tyypin ovella.
 Sinisissä unissa kai ken luovutan.
-Kahden viikon vapinaa 
-ei uskoiskaan, se hymysuu nuorempi.
+Kahden viikon va-pi-naa 
+ei uskoiskaan, se hy-my-suu nuorempi.
 
-[Prechorus]
-Ongelmaa ei mul oo.
-Ongelmaa ei mul oo.
+[Prechorus, (long vowels)]
+Ongelmaa, ei mul oo.
+Ongelmaa, ei mul oo.
 
-[Chorus]
-Tappaa ei saa vieroitusoireet, oireet.
-Viiltää mieltä, kiskon sen toisen, toiseen hihaan.
+[Chorus, (long vowels)]
+Tap-paa,
+ei saa,
+vieroitus-oi-reet, oi-reet.
+Viil-tää miel-tä, kiskon sen
+toi-sen,
+toi-seen hihaan.
 
 [Verse 2]
-Rahat taas on lopussa.
+Ra-hat taas on lopussa.
 Täytyy säästää ruuassa.
-Sairasvakuutuksena peh myt kuolema.
-Kuinka voisin itsekkyyt tä vähentää
+Sairasvakuutuksena pehmyt kuolema.
+Kuinka voisin itsekkyyttä vähentää
 Kun lähti muut jo menemään
 
-[Prechorus]
+[Prechorus, (long vowels)]
 Ongelmaa ei mul oo.
 Ongelmaa ei mul oo.
 
-[Chorus]
-Tappaa ei saa vieroitusoireet, oireet.
-Viiltää mieltä, kiskon sen toisen, toiseen hihaan. 
-Ongelmaa, ei ole on gelmaa, ei ole on gelmaa.
-Vain nää mun oireet haittaa. 
+[Chorus, (long vowels)]
+Tap-paa, ei saa,
+vieroitus-oi-reet, oi-reet.
+Viil-tää miel-tä, kiskon sen
+toi-sen, toi-seen hihaan.
 
-[Chorus]
-Tappaa ei saa vieroitusoireet, oireet.
-Viiltää mieltä, kiskon sen toisen, toiseen hihaan. 
+[Bridge, (long vowels)]
 Ongelmaa, ei ole ongelmaa, ei ole ongelmaa.
 Vain nää mun oireet haittaa. 
 
-[Chorus]
-Tappaa ei saa vieroitusoireet, oireet.
-Viiltää mieltä, kiskon sen toisen, toiseen hihaan. 
+[Chorus, (long vowels)]
+Tap-paa,
+ei saa,
+vieroitus-oi-reet, oi-reet.
+Viil-tää miel-tä, kiskon sen
+toi-sen,
+toi-seen hihaan.
+
+[Chorus, (long vowels)]
+Tap-paa,
+ei saa,
+vieroitus-oi-reet, oi-reet.
+Viil-tää miel-tä, kiskon sen
+toi-sen,
+toi-seen hihaan.
+
 ```
 
 
