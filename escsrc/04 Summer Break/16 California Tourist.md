@@ -9,49 +9,6 @@ Later, I learned about the SNL skit "Californians", which is pretty much what I 
 - Refurbished: 30.10.2022
 
 
-## Inspiration text
-```
-Tyhmyyden tyrannia.
-Typerä pomottaa, esittää jotain muuta kuin on.
-Hän luulee, että on oikeutettu näyttelemään, koska ihmiset tarvitsee sitä.
-Mies pomo luulee, että naiset luonnostaan seuraavat voimakkaampaa miestä.
-Ei saa sanoa, että ruoho on vihreämpää aidan toisella puolella.
-Ei saa kertoa tehokkaasta ja mukavasta työkulttuurista.
-Kaiken tarvii mennä typerän tyrannin johdolla, joka ei tiedä mistään mitään.
-Hänen kuuluisi mennä opiskelemaan yliopistoon, ennen kuin pomottaa.
-Mutta raha ratkaisee, tai maine, tai mikä tahansa kerääntynyt arvo; sosiaalinenkin.
-
-Pomo luulee, että hänellä on useita yrityksiä, koska hän on vahvempi.
-Laiskuuttaan hän ei enää edes yritä ensimmäisellä oikeasti.
-Hän vain sohii ja odottaa reaktiota, ja tulee vastaan puoliväliin.
-Niin huono hän on.
-Optimaalinen on siis puoliväli työntekijän kipuun nähden.
-Jos joku hakkaisi hänet hengiltä pimeällä kujalla, tuntisi työntekijä puoleksi nautintoa.
-Mutta huono oppitunti se on, kun kuollut ei voi parantaa tapojaan.
-Mutta jos vapaaehtoisesti ei yritä oppia, niin minkä sille mahtaa.
-
-Vaan on se huono se typerien työntekijöiden unionikin runollisesti.
-Vastustetaan pomoa pysähdyksiin asti, ja kun asiat rikkoontuu, niin tullaan vastaan puoleen väliin.
-Kun työntekijät ovat pitkäaikaistyöttömiä, niin omistajat ovat puoleksi iloisia asiasta.
-
-Mistä tulee kultainen keskitie, tuo valmiiksi suunniteltu realistinen optimaalisuus?
-Mikä tahansa suunniteltu asia voi olla ongelmallinen, jos asiat muuttuu.
-Koska sitten joutuu harkitsemaan pelitaktiikkaa, että onko oikea aika päivittää suunnitelma.
-Kaaos elää, ja optimaalisuutta ei oikeastaan ole.
-Elämä on taistelua kaaosta vastaan loppuun asti.
-
-Taistelu huonoa ilmapiiriä vastaan työpaikalla on silti turha taistelu.
-On paljon toimivia töitä, missä ihmiset nauttii ja homma on harjoteltu miljoonaan kertaan läpi.
-Yhteiskunta pyörii niilläkin töillä jo.
-Jos pomo hiljentää alaisiaan heikentäen bisnes puolella tulojakin, maksavat työntekijät omasta kärsimyksestään.
-Toki tällainen pomo myös torjuisi syytökset hänen negatiivisesta vaikutuksestaan.
-Spiraali alaspäin on selvä, mutta liian hidas käsiteltäväksi.
-Työntekijän laiskuutta ja huonoja valintoja koetellaan näin, koska lainojen maksu painaa, ja vaimo haluaa eliittielämää.
-Tavallaan huonon pomon kestäminen on sakko huonon vaimon ottamisesta, ja seksivietin seuraamisesta.
-Ja missä niitä huonoja vaimoja kasvaa?
-Yhteiskunnassa, jossa on valheella päässyt valtaan pomojen puolueen edustaja.
-Mikä tämän spiraalin alaspäin pysäyttäisi?
-```
 ## Style
 A dark, melancholic indie rock rap song with a driving rhythm section and prominent bass.
 The song features a vocalist with a deep, resonant voice,
@@ -62,6 +19,152 @@ The drums maintain a steady, driving beat with a prominent kick and snare.
 The song has a moderate tempo, fast vocals and a minor key, contributing to its somber mood.
 Production elements include a slight reverb on the vocals and a balanced mix that emphasizes the bass and drums.
 
+
+
+## Lyrics (FI)
+```
+[Intro, puhuttu teksti]
+Tyhmyyden tyranni laskee rahaa kuin tutkisi pyhää kirjoitusta.
+Hän vaientaa henkilökunnan, vaikka se olisi haitaksi.
+Rutiinityöt harjoitellaan miljoona kertaa.
+Ja ne pyörittävät yhteiskuntaa, vaikka kaikki syöksyisi tuhoon.
+Lainan perijä koputtaa ovella, kun rakas kumppani haluaa elää "eliitin elämää",
+Huonon parisuhteen kestäminen tuntuu seksinhalun verotukselta.
+Puolue, jossa valheet on valtaa, kylvää katastrofin siemeniä joka paikkaan.
+Kuka pysäyttäisi tämän spiraalin kohti tuhoa?
+
+[Instrumental]
+
+[Verse 1]
+Typerys päättää vaikkei nää
+Salaisuudet suojaa vain häntä
+Luulee et viidakon laki naiset vie
+Älä kerro että paskat nakit on siel
+Ei suoraa sanaa
+Kierrellen kaarrellen hallitaan
+Ei tiedä mitään hän, mut ohjaa valinnat
+Pitäis tutkii enemmän, eikä valittaa
+
+[Prechorus 1]
+Silti raha ja palvonta somes voittaa
+
+[Chorus, slowly]
+Hä
+-pe
+-ä
+tää on peliä
+Elä feikkiä, elämää enemmän
+Kier
+-rel
+-len alas lyö
+Sa
+-bo
+-taasii on työ
+Hil
+-jen
+-nä auttajat
+Ni
+-me
+-ä valtaan pahat
+Kaikki me kilpaillaan
+Lu-pa on hakata
+Tak-kii sä käännä ja
+Ni-meä, syytä heikkoja
+
+[Instrumental]
+
+[Verse 2]
+Itsekehu narsisti-pomon haisee
+Laiskasti tarttuu tyhjään puheeseen
+Hän tökkii, katsoo reagoinnin, tulee vastaa vähän
+Puoleks kipuu on sun askel eteenpäin
+Vittu mitä paskaa
+Ei oo oppituntii turhempaa
+Hän ei opi, hänel on rahaa
+Se on hitti, järjestykseen kaaosta
+
+[Prechorus 1]
+Silti raha ja palvonta somes voittaa
+
+[Chorus, slowly]
+Hä
+-pe
+-ä
+tää on peliä
+Elä feikkiä, elämää enemmän
+Kier
+-rel
+-len alas lyö
+Sa
+-bo
+-taasii on työ
+Hil
+-jen
+-nä auttajat
+Ni
+-me
+-ä valtaan pahat
+Kaikki me kilpaillaan
+Lu-pa on hakata
+Tak-kii sä käännä ja
+Ni-meä, syytä heikkoja
+
+[Bridge]
+Kultainen on
+toisten tie
+Keskitie ei vie minnekkään
+Unioni vaatii, tuu puoleen väliin
+Omistajat puoleks kieroilee siis
+
+[Instrumental]
+
+[Prechorus 1]
+Silti raha ja palvonta somes voittaa
+
+[Chorus, slowly]
+Hä
+-pe
+-ä
+tää on peliä
+Elä feikkiä, elämää enemmän
+Kier
+-rel
+-len alas lyö
+Sa
+-bo
+-taasii on työ
+Hil
+-jen
+-nä auttajat
+Ni
+-me
+-ä valtaan pahat
+Kaikki me kilpaillaan
+Lu-pa on hakata
+Tak-kii sä käännä ja
+Ni-meä, syytä heikkoja
+
+
+```
+
+### English
+Title:
+
+```
+
+```
+
+
+
+
+
+
+
+
+## Inspiration text
+```
+
+```
 
 ## Structure
 - Intro
@@ -99,166 +202,3 @@ Production elements include a slight reverb on the vocals and a balanced mix tha
 	5. 4+1=5 (B)
 - Instrumental
 - Chorus: same
-
-
-## Lyrics (FI)
-```
-[Intro, puhuttu teksti]
-Tyhmyyden tyranni laskee rahaa kuin tutkisi pyhää kirjoitusta,
-Hän vaientaa henkilökunnan, jopa katkaisee oman tulonlähteensä.
-On olemassa töitä, joissa rutiini harjoitellaan miljoona kertaa.
-Yhteiskunta pyörii niiden ympärillä, vaikka kaikki syöksyisi tuhoon.
-Lainan perijä koputtaa ovella, kun rakas kumppani haluaa "eliitin elämää",
-Huonon parisuhteen kestäminen tuntuu seksinhalun verotukselta.
-Puolue, jota valheet pomottaa, kylvää katastrofin siemeniä joka paikkaan.
-Kuka pysäyttäisi tämän spiraalin alaspäin?
-
-[Instrumental]
-
-[Verse 1]
-Typerys päättää vaikkei nää
-Salaisuudet suojaa vain häntä
-.
-.
-.
-.
-.
-.
-
-[Prechorus 1]
-
-[Chorus]
-Häpeä
-
-[Instrumental]
-
-[Verse 2]
-.
-.
-.
-.
-.
-.
-.
-Nimeät, syytät, muttet itseäs
-
-[Prechorus 1]
-
-[Chorus]
-
-[Bridge]
-Kultaa hei kultaa
-.
-.
-.
-Unioni valittaa, myös ilman aihetta
-
-
-[Instrumental]
-
-[Prechorus 1]
-.
-
-[Instrumental]
-
-[Chorus]
-
-
-```
-
-## Lyrics (EN, AI draft)
-Title: Name, Blame, Frame
-
-```
-[Intro]
-The tyrant of dumb runs the numbers like scripture,
-Silences staff, even clips his own revenue stream.
-There are jobs out there where the groove is rehearsed a million times—
-Society spins on those, while this shop spirals down.
-Loans knock at the door, a partner wants “elite life,”
-Enduring a bad match feels like a tax on desire.
-A party bossed by lies seeds the slide—
-Who kills this spiral?
-
-[Instrumental]
-
-[Verse 1]
-Stupid rule: he struts, not what he seems.
-Claims the mask is needed by the crowd.
-Thinks women follow strength—calls it nature.
-Don't say the grass is greener next door. 
-No good work-talk.
-All must go by the dumb despot's lead.
-Who knows nothing, yet keeps calling the shots.
-He should study first, then boss the rest.
-
-[Prechorus 1]
-Yet cash and clout and stacked social credit rule.
-
-[Chorus]
-Shame, shame, shame—play the big game
-Stake your claim, fake the frame—call it game
-Spin, spin, spin—push us down
-Clap, clap, clap—keep them down
-Hush, hush, hush—talk us down
-Name, name, names—still the same game
-We all fall back down
-Churn, burn, earn—drag us down
-Turn, learn, spurn—press us down
-Name, blame, frame—the same ruthless game
-
-[Instrumental]
-
-[Verse 2]
-He boasts of firms he owns—because he's strong.
-Too lazy to try the first thing right.
-He pokes, reads flinch, then meets you halfway slow.
-That bad—optimal pain meets halfway.
-Fucking bullshit.
-Bad lesson: dead men never change ways.
-If he won't learn, what power do we have?
-That's the jam: chaos rewrites rules.
-
-[Prechorus 1]
-Yet cash and clout and stacked social credit rule.
-
-[Chorus]
-Shame, shame, shame—play the big game
-Stake your claim, fake the frame—call it game
-Spin, spin, spin—push us down
-Clap, clap, clap—keep them down
-Hush, hush, hush—talk us down
-Name, name, names—still the same game
-We all fall back down
-Churn, burn, earn—drag us down
-Turn, learn, spurn—press us down
-Name, blame, frame—the same ruthless game
-
-[Bridge]
-Gold, gold, gold
-Old roads: gold
-Middle path, made gold
-Unions freeze the line, then meet halfway down.
-Owners half glad—down
-
-[Instrumental]
-
-[Prechorus 1]
-Yet cash and clout and stacked social credit rule.
-
-[Instrumental]
-
-[Chorus]
-Shame, shame, shame—play the big game
-Stake your claim, fake the frame—call it game
-Spin, spin, spin—push us down
-Clap, clap, clap—keep them down
-Hush, hush, hush—talk us down
-Name, name, names—still the same game
-
-```
-
-
-## Lyrics (FI)
-```
-```
