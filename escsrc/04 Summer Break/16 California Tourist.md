@@ -11,7 +11,7 @@ Later, I learned about the SNL skit "Californians", which is pretty much what I 
 
 ## Style
 A dark, melancholic indie rock rap song with a driving rhythm section and prominent bass.
-The song features a vocalist with a deep, resonant voice,
+The song features male and female vocalists with a deep, resonant voices,
 The instrumentation includes electric guitar, bass, and drums.
 The guitar plays a clean, arpeggiated melody in the verses, transitioning to a more distorted, rhythmic strumming in the chorus.
 The bass provides a strong, walking line throughout the song.
@@ -24,126 +24,87 @@ Production elements include a slight reverb on the vocals and a balanced mix tha
 ## Lyrics (FI)
 ```
 [Intro, puhuttu teksti]
-Tyhmyyden tyranni laskee rahaa kuin tutkisi pyhää kirjoitusta.
-Hän vaientaa henkilökunnan, vaikka se olisi haitaksi.
-Rutiinityöt harjoitellaan miljoona kertaa.
-Ja ne pyörittävät yhteiskuntaa, vaikka kaikki syöksyisi tuhoon.
-Lainan perijä koputtaa ovella, kun rakas kumppani haluaa elää "eliitin elämää",
-Huonon parisuhteen kestäminen tuntuu seksinhalun verotukselta.
-Puolue, jossa valheet on valtaa, kylvää katastrofin siemeniä joka paikkaan.
-Kuka pysäyttäisi tämän spiraalin kohti tuhoa?
+Suomalainen talvi työntää etelään.
+On rankkaa istua toimistossa ja katsoa neljältä tulevaa hämärää.
+Aurinko ja sininen taivas on saatava takaisin edes viikoksi.
+Harmaa pilvi lehdettömien risujen läpi ei kiinnosta.
+Pienellä budjetilla on hankala paeta
+Työstä voi olla hankala saada tarpeeksi lomaa.
+Kuka pelastaa tästä synkästä kierteestä?
 
 [Instrumental]
 
 [Verse 1]
-Typerys päättää vaikkei nää
-Salaisuudet suojaa vain häntä
-Luulee et viidakon laki naiset vie
-Älä kerro että paskat nakit on siel
-Ei suoraa sanaa
-Kierrellen kaarrellen hallitaan
-Ei tiedä mitään hän, mut ohjaa valinnat
-Pitäis tutkii enemmän, eikä valittaa
+Vituttaa jäädä Pohjolaan
+Harmaata pilveä katsomaan
+Mä haluun Intiaan, tai minne vaan
+Paratiisirannalle makaamaan
+Ei oo lomaa
+Huonoon aikaan ne annetaan
+Ei oo niitä tarpeeksikaan
+Enkä voi lopereita ottaa
 
-[Prechorus 1]
-Silti raha ja palvonta somes voittaa
+[Prechorus (like advertisement)]
+Mut siel olis uimaranta ja buffet-aamupala
 
-[Chorus, slowly]
-Hä
--pe
--ä
-tää on peliä
-Elä feikkiä, elämää enemmän
-Kier
--rel
--len alas lyö
-Sa
--bo
--taasii on työ
-Hil
--jen
--nä auttajat
-Ni
--me
--ä valtaan pahat
-Kaikki me kilpaillaan
-Lu-pa on hakata
-Tak-kii sä käännä ja
-Ni-meä, syytä heikkoja
+[Chorus]
+Pääsispä paratiisiin
+Vaikka Espanjaan tai Kreikkaan
+Milloin me lähdetään
+Milloin me lennetään
+Mä en jaksa odottaa
+Lähtö-ä paikkaan parempaan
 
 [Instrumental]
 
 [Verse 2]
-Itsekehu narsisti-pomon haisee
-Laiskasti tarttuu tyhjään puheeseen
-Hän tökkii, katsoo reagoinnin, tulee vastaa vähän
-Puoleks kipuu on sun askel eteenpäin
-Vittu mitä paskaa
-Ei oo oppituntii turhempaa
-Hän ei opi, hänel on rahaa
-Se on hitti, järjestykseen kaaosta
+Äkkilähtö ois halvalla
+Siel on uima-allas ja palmuja
+Allasbaari ja suomalaisia
+Unelmaa kuinka voisin torjua
+Mut ei pääse
+Perkele että oon jumis taasen
+Pakko saada, pakko päästä
+Yritän muttei tyhjästä säästä
 
-[Prechorus 1]
-Silti raha ja palvonta somes voittaa
+[Prechorus (like advertisement)]
+Mut siel olis uimaranta ja buffet-aamupala
 
-[Chorus, slowly]
-Hä
--pe
--ä
-tää on peliä
-Elä feikkiä, elämää enemmän
-Kier
--rel
--len alas lyö
-Sa
--bo
--taasii on työ
-Hil
--jen
--nä auttajat
-Ni
--me
--ä valtaan pahat
-Kaikki me kilpaillaan
-Lu-pa on hakata
-Tak-kii sä käännä ja
-Ni-meä, syytä heikkoja
+[Chorus]
+Pääsispä paratiisiin
+Vaikka Espanjaan tai Kreikkaan
+Milloin me lähdetään
+Milloin me lennetään
+Mä en jaksa odottaa
+Lähtö-ä paikkaan parempaan
 
 [Bridge]
-Kultainen on
-toisten tie
-Keskitie ei vie minnekkään
-Unioni vaatii, tuu puoleen väliin
-Omistajat puoleks kieroilee siis
+Halaus hiekkarannalla
+Auringonlaskussa
+Mut otan keskikaljan ja vettä sataa
+Silti jaksan uskoa unelmaan
+Että siellä kohdataan
 
 [Instrumental]
 
-[Prechorus 1]
-Silti raha ja palvonta somes voittaa
+[Prechorus (like advertisement)]
+Mut siel olis uimaranta ja buffet-aamupala
 
-[Chorus, slowly]
-Hä
--pe
--ä
-tää on peliä
-Elä feikkiä, elämää enemmän
-Kier
--rel
--len alas lyö
-Sa
--bo
--taasii on työ
-Hil
--jen
--nä auttajat
-Ni
--me
--ä valtaan pahat
-Kaikki me kilpaillaan
-Lu-pa on hakata
-Tak-kii sä käännä ja
-Ni-meä, syytä heikkoja
+[Chorus]
+Pääsispä paratiisiin
+Vaikka Espanjaan tai Kreikkaan
+Milloin me lähdetään
+Milloin me lennetään
+Mä en jaksa odottaa
+Lähtö-ä paikkaan parempaan
 
+[Outro Chorus (long vowels)]
+Pääsispä paratiisiin
+Pääsispä paratiisiin
+Milloin me lähdetään
+Milloin me lennetään
+Joko mennään
+Mennään
 
 ```
 

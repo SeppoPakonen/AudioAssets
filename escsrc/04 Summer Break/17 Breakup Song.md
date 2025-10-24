@@ -13,28 +13,7 @@ The song was inspired by my first girlfriend and the resulting breakup, however.
 
 ## Inspiraatioteksti
 ```
-Huora teeveessä, huora sohvalla katsomassa sitä.
-Se on tuntipalkalla varastamassa aikaa ja pilaamassa elämiä.
-Jälkimmäistä ei voinut sanoa ennen kuin myrkyttäminen alkoi.
-Nyt tuo on vain läpeensä paha järjestelmä ja hyväksikäyttö.
-Aukeni samalla vanhat huijaukset; pahis vähätellään ja hyvis liioitellaan.
-Sen levittäminen hyväuskoisille on täyttä terrorismia; vaikkakin rikkaan omistajan puolesta.
-Mutta mikä saisi tyhmät tekemään jotain edes lähes oikein?
-Mikä muu toimisi kuin lämmin ja hauska ja seksikäs puhuva pää.
-Onko sen pakkomyyminen ja monopolisointi niin vakavaa ja väärin?
-Hehän ovat "vastuussa", vaikkakin itse vaikuttavat siihen mikä on vastuuta.
-Hehän suojaavat kansalaista typerämmiltä kansalaisilta, jotka houkuttelesivat hänet hulluihin asioihin.
-Ikävä kyllä, edellinen argumentti on täyttä valheellista pahuutta.
-Ihminen kyllä kestää toisen ihmisen ja väenpaljouden.
-Se mitä ihminen ei kestä, on diktaattori omassa kodissa, jota ei pääse pakoon.
-Miksei välity älykäs tieto ihmiseltä toiselle?
-Miksi tanssivideot ja parin sekunnin pinnallinen tiedon murunen välittyy?
-Miksi ei pysty ottamaan otetta pilatusta kansakunnasta?
-Miksi nämä näkökulmat salataan ja hiljennetään?
-Narsistinen haava levitetään kaikille; ja siitä saadan yhteenkuuluvuus.
-Levittäjät vain pitäisi teljetä hullujenhuoneelle.
-Mutta minkäs teet, kun Maija 60v on jo tottunut ja on tuottava työntekijä ja omistaja.
-Ei saada laitettua varoituslappua Maijan takia, ja sitten nuoremmat pilaantuu kans.
+
 ```
 
 
@@ -53,6 +32,99 @@ The mixing places the vocals clearly in the foreground, with the instruments pro
 There are no obvious effects on the vocals beyond a slight reverb.
 The guitar has a heavy distortion effect.
 The chord progression is relatively simple, primarily using power chords in a minor key, contributing to the punk aesthetic.
+
+
+## Lyrics
+
+### Finnish
+Title: Et tahdo olla mun kaa
+```
+[Intro]
+Muija luurissa
+Tärkeeks luulispa
+Mut toisen haluan
+Liian kamalaa
+Katsoa ja
+kuunnella on taas
+
+[Chorus]
+Et tahdo olla mun kaa.
+En mäkään sun kaa.
+Tää on tässä kulta.
+Hei pärjäile,
+Hei mä nyt lähden,
+Sua kaipaa en,
+Kun et yritä ees
+
+[Verse 1]
+Liian helppo muistaa on et olis
+hauskaa sinkkuna
+Ilman painolastii kauemmaksi
+karkuun kulkea
+
+[Prechorus 1]
+Me kasvetaan erilleen
+Ei auta seksi ees
+
+[Chorus]
+Et tahdo olla mun kaa.
+En mäkään sun kaa.
+Tää on tässä kulta.
+Hei pärjäile,
+Hei mä nyt lähden,
+Sua kaipaa en,
+Kun et yritä ees
+
+[Instrumental]
+
+[Verse 2]
+Vielä yksi yö
+Viel yhden kerran kaikki uudestaan.
+Tiedän että viimeiseksi tää jää
+ja pysyy mielessä
+
+[Prechorus 2]
+Paras on takapuoles
+Vain siin on hyvät puoles
+
+[Chorus]
+Et tahdo olla mun kaa.
+En mäkään sun kaa.
+Tää on tässä kulta.
+Hei pärjäile,
+Hei mä nyt lähden,
+Sua kaipaa en,
+Kun et yritä ees
+
+[Bridge]
+Pehmeet hetket
+Sänkyretket
+Seikkailut ne ja
+Tyhjät kivekset
+On parasta
+Muu ei kelpaa
+En oo velkaa
+Älä kehtaa
+
+[Instrumental]
+
+[Chorus]
+Et tahdo olla mun kaa.
+En mäkään sun kaa.
+Tää on tässä kulta.
+Hei pärjäile,
+Hei mä nyt lähden,
+Sua kaipaa en,
+Kun et yritä ees
+
+[Chorus]
+Et tahdo olla mun kaa.
+En mäkään sun kaa, en mäkään sun kaa.
+Et tahdo olla mun kaa.
+En mäkään sun kaa, en mäkään sun kaa.
+
+```
+
 
 ## Structure
 - Intro
@@ -93,121 +165,11 @@ The chord progression is relatively simple, primarily using power chords in a mi
 ## Lyrics 
 ### FI
 ```
-[Intro]
-Huora teevessä
-Mä oon sohvalla, katon ilman aivoja
-Mulle ei makseta
-Aika otetaan ja paljon tuhotaan
+```
 
-[Chorus]
-Sä möit mun ajan ja tahdon
-Mä menetin ...
-Me ...
-Lämmin ääni iltakympin ..
-Jonkun muun
-Vaan ei sun
-
-[Verse 1]
-Tuntipalkka kiireel myytiin vaikeasti koneistoon
-Vittuun hyvät aatteet, minkä tekee, kun ..
-
-[Prechorus 1]
-
-[Chorus]
-
-[Instrumental]
-
-[Verse 2]
-Orjantappurakruunu päähän kun taas telkku sulkeutuu
-Vielä valitan, ei varoitusta, kun joku opettaa
-
-[Prechorus 2]
-Hoitoo oo ei niiden valta koskaan
-Lakia ne osti puolellensa
-
-[Chorus]
-
-[Bridge]
-
+### EN
+Title:
+```
 
 ```
 
-### EN, AI-draft
-Title: Warm Face, Dark Throne
-```
-[Intro]
-Whore on tee-vee
-Slaving on the couch, just watching it there again
-hour-wage time theft
-wrecking lives for a pay each day
-
-[Chorus]
-You sold my time and control
-I lost my control
-We crave control
-Warm face we trust hard by the dark throne
-Not our throne
-Stolen old throne
-
-[Verse 1]
-Hour-wage skims time; hard sells and monopolies; vile machine
-Fucked up old scams unmask; bad guys downplayed; saints hyped for rich terror lords
-
-[Prechorus 1]
-call it “care,” they rule over
-write “the law” to fit themselves
-
-[Chorus]
-You sold my time and control
-I lost my control
-We crave control
-Warm face we trust hard by the dark throne
-Not our throne
-Stolen old throne
-
-[Instrumental]
-
-[Verse 2]
-We bear a crowd, but Mary sixty nods to the home despot
-Shit-show No warning tag, ’cause Mary likes it; kids rot down the stream now
-
-[Prechorus 2]
-call it “care,” they rule over
-write “the law” to fit themselves
-
-[Chorus]
-You sold my time and control
-I lost my control
-We crave control
-Warm face we trust hard by the dark throne
-Not our throne
-Stolen old throne
-
-[Bridge]
-Soft law control
-We feign control
-They script control
-This iron throne
-That neon throne
-Your borrowed throne
-
-[Instrumental]
-
-[Chorus]
-You sold my time and control
-I lost my control
-We crave control
-Warm face we trust hard by the dark throne
-Not our throne
-Stolen old throne
-
-[Outro]
-Not our old fragile control
-```
-
-
-
-
-## Lyrics (FI)
-```
-```
