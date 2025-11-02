@@ -513,3 +513,10 @@ Tarinassa ei ole sankareita, vain ihmisiä jotka yrittävät olla lämpimiä kyl
 ---
 
 Haluatko, että teen tästä seuraavaksi **kuvauskohtausluettelon (scene breakdown)** — missä eritellään kuvakoot, kuvakulmat ja kuvauksen rytmi (hyödyllinen jos halutaan toteuttaa oikeasti tai tehdä Sora video frame-by-frame)?
+
+# Julkaisu
+Kadul kylmäl kaupungin 🎤
+On menossa vuoden 2006 sävellykset ✨
+Tämä oli yks bändiltä pois jääneitä biisejä 🖋
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on coveroitu Suno musiikki-tekoälyllä. 🎛
+Video on generoitu Sora AI:lla.

@@ -1,0 +1,87 @@
+SORA — Prompts & shot-by-shot inputs
+Project: "Hei taas — kotona"
+LookID to persist: OULU-35-A  (apply SAME_PERSON across shots)
+Language: Finnish (with brief technical tags in English where needed)
+
+GLOBAL TAGS (prepend to every shot prompt)
+"cinematic nordic summer, gentle sunlight through window, fine 35mm film grain, aspect 2.39:1, 24fps, shallow depth of field, soft highlight rolloff, handheld micro-jitter, ACES look, tender dignity, non-graphic hospice at home, continuity LookID OULU-35-A, interior modest Finnish bedroom in Oulu, birch trees outside, framed photo of loved one on bedside table"
+
+CHARACTER SEED (use once & reference thereafter)
+"35-vuotias oululainen mies, valkoihoinen, hieman laihtunut sairauden takia, lyhyt tummanvaalea tukka, kevyt sänki, harmaa t-paita, valkoinen lakana; rauhallinen, kipulääkkeiden pehmentämä olemus"
+
+NEGATIVE TAGS (append to every prompt)
+"no hospital ward, no doctors, no needles in focus, no blood, no winter, no rain, no neon, no sci-fi lighting, no face swap, no age changes"
+
+DURATIONS follow storyboard. Ensure each render matches start–end windows.
+
+--- SHOTS ---
+
+[Shot 1 | 00:00–00:10]
+Prompt:
+"Exterior establishing of a Finnish yard in high summer, birch trees swaying lightly, warm late-afternoon sun, distant Oulu suburb hints. slider push-in from mid-air height to towards window; lens 35mm, f/2.8; gentle wind in leaves; filmic softness."
+
+[Shot 2 | 00:10–00:18]
+Prompt:
+"From outside, looking through a slightly open window into a modest bright bedroom; curtain breathes in wind; faint reflection layers. focus transitions from glass to interior bed. 50mm prime, shallow DOF. Subtle dust motes in sunlight."
+
+[Shot 3 | 00:18–00:28]
+Prompt:
+"Introduce MAIN CHARACTER (LookID OULU-35-A), lying on his back, eyes tracing ceiling; a morphine pump out-of-focus at frame edge (non-graphic). tiny smile attempt. natural window key light; bedside table with framed photo. 50mm close-up."    
+
+[Shot 4 | 00:28–00:43]
+Prompt:
+"Abstract inserts: dust particles in sunbeam dancing, cutaways to birch leaves glittering bokeh; poetic texture, slow motion feel; soft dissolves."    
+
+[Shot 5 | 00:43–00:55]
+Prompt:
+"Close-up of his hand resting on white sheet; leaf shadows ripple across skin as wind moves branches. emotional but calm. macro-ish 85mm look."    
+
+[Shot 6 | 00:55–01:08]
+Prompt:
+"POV from bed toward window; blue sky slice with two birds gliding past slowly. Depth from window frame; breath-softened handheld."    
+
+[Shot 7 | 01:08–01:24]
+Prompt:
+"Profile CU of MAIN CHARACTER gazing at window; tear sheen but no crying; he gently touches the framed photo of loved one. Lens 50mm; tender backlight halo."    
+
+[Shot 8 | 01:24–01:36]
+Prompt:
+"Wide interior showing whole small room: home details (book stack, wool socks on chair, pine floor). feeling of safety 'at home'. Slow lateral dolly."    
+
+[Shot 9 | 01:36–01:53]
+Prompt:
+"Exterior birch canopy against sun; bright bokeh flicker; slow tilt up. Use dissolve to transition back inside later."    
+
+[Shot 10 | 01:53–02:06]
+Prompt:
+"Warm light shifts across his face as afternoon sun finds him; he squints softly, exhales; fatigue yet peace. 50mm CU, gentle skin texture."    
+
+[Shot 11 | 02:06–02:20]
+Prompt:
+"Window view with clouds moving lazily across blue; interior edges framing; time-floating mood (not time-lapse-fast). Subtle rack focus window→clouds."    
+
+[Shot 12 | 02:20–02:33]
+Prompt:
+"Extreme close-up of the framed photo; in its glass, a soft reflection of his face. a finger smudge on frame. He steadies the frame with fingertips."    
+
+[Shot 13 | 02:33–02:44]
+Prompt:
+"He turns head toward doorway as if hearing a familiar step; we never show the person. Light changes in hall like someone arrived. Anticipation without reveal."    
+
+[Shot 14 | 02:44–02:53]
+Prompt:
+"Slow pullback from interior through window back to yard; grasses sway; life goes on beyond walls; serene wide view."    
+
+[Shot 15 | 02:53–02:58]
+Prompt:
+"Room dims half a stop as sun lowers; chest rises once in clear breath; bedside water glass catches last spark of light. Quiet acceptance."    
+
+[Shot 16 | 02:58–03:00]
+Prompt:
+"Tight shot of his eye; in the iris a small bright point like a distant night light. Hold. HARD CUT TO BLACK exactly at 03:00."
+
+--- RENDER NOTES ---
+- Persist LookID OULU-35-A across all shots; keep hair/facial hair/wardrobe consistent.
+- Keep medical elements abstract and non-graphic.
+- Use dissolves at section changes; smash cut only at final frame (03:00).
+- Maintain gentle film grain and warm/cool palette balance per preset.

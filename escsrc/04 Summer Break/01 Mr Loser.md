@@ -294,3 +294,10 @@ Alla oleva tulkinta nojaa ennen kaikkea Freudiin (UNI- ja EGO/SUPEREGO-malli, ku
 Teksti rakentaa **psykodynaamisen turvapaikan**, jossa **menetyksen kipu** (rakastetun kuolema/poissaolo) ja **yhteiskunnallinen häpeä** (pilkka, torjunta) neutraloidaan lupaamalla **ikuisen kuulumisen**. Freudin näkökulmasta se on **regressiivinen toiveuni** kuolemanvietin sävyttämänä; Jungille **myyttinen paluu** Äitiin ja Itseen; Adlerille **kompensaatio** alemmuuden tunteisiin; Kleinin viitekehyksessä **idealisoiva splitting**. 1920-luvun Saksassa tällainen fantasia olisi voinut tuntua **erityisen vetoavalta**: se lupaa eheyden ja järjestyksen maailmassa, jossa yksilö kokee sekä **sisäistä** (melankolia) että **ulkoista** (sosiaalinen epävakaus) painetta—mutta samalla se sisältää riskin **alistua huomaamatta ankaraan auktoriteettiin**, joka tarjoaa rauhan hinnalla vapauden.
 
 
+
+# Julkaisu
+Hei taas 🎤
+On menossa vuoden 2006 sävellys ✨
+Soitimme tätä biisiä bändini The Vice kanssa, mutta tein uudet sanat 🖋
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on remixattu Suno musiikki-tekoälyllä. 🎛
+Video on generoitu Sora AI:lla.

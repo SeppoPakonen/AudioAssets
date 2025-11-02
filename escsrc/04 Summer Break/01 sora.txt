@@ -1,0 +1,53 @@
+Title: "Hei taas — kotona" (Sora-preset)
+Version: 1.0
+
+RENDER_SPECS
+- grain: fine 35mm scan, intensity 0.25
+- shutter: 180° (natural motion blur)
+- camera_profile: soft vintage spherical, ~35mm & 50mm primes
+- lens_distortion: subtle barrel, amount 0.03
+- vignetting: light, amount 0.1
+- chromatic_aberration: off (0.0)
+- stabilization: organic handheld micro-jitter
+- max_duration: 180s hard cut (end at 03:00)
+
+GLOBAL_LOOK_AND_FEEL
+- palette: Finnish high summer — birch greens, warm sun amber, cool sky blues, white linens
+- contrast: gentle S-curve, highlight roll-off soft
+- LUT: "Nordic Summer Soft" (low saturation in shadows, warm highlights)
+- atmosphere: airy, window-light dust motes, faint haze (0.2)
+- weather: sunny, a few slow cumulus clouds, light wind through birch leaves
+
+CHARACTER_BIBLE
+- MAIN_CHARACTER: "Mies" / LookID: OULU-35-A
+  age: 35
+  ethnicity: white
+  build: normal, slightly gaunt from illness
+  hair: dark blond, short, a bit unkempt
+  facial_hair: light stubble
+  wardrobe: soft grey t‑shirt, white hospital sheet/linen, optional flannel shirt later
+  condition: hospice-level weakness; calm, medicated; no graphic content
+  continuity_keys: SAME_FACE, SAME_HAIR, SAME_EYES, SAME_BODY_PROPORTIONS across all shots
+
+LOCATION_BIBLE
+- interior: modest Finnish home bedroom in Oulu, white walls, pine floor, large window to summer yard
+  props: bedside table, water glass, morphine pump (non-graphic), framed photo of loved one
+- exterior: yard with birch trees, low wooden fence, gravel road, distant Oulu suburban silhouettes
+
+MOTION_LANGUAGE
+- camera: slow dolly/slider, gentle handheld, window-side push-ins; avoid quick whips
+- transitions: dissolve on musical phrases; smash cut at 03:00 exactly
+- depth_of_field: shallow (T2.0–T2.8) for intimacy; deeper for landscape cutaways
+
+CONTENT_SAFETY
+- non-graphic portrayal of illness; no medical gore, no invasive devices in focus
+- tone: tender, dignified, hopeful-melancholic
+
+NEGATIVE_PROMPTS
+- no hospitals, no staff in scrubs, no monitors beeping, no city skylines at night
+- no hyper-sci‑fi lighting, no neon, no rain, no winter
+- avoid continuity breaks (age/face changes), no different actors
+
+DELIVERY
+- generate as individual shots per storyboard and edit externally
+- ensure LookID OULU-35-A and bedroom continuity across shots
