@@ -1,0 +1,77 @@
+Title: "ZINE MODE X3 — Chaotic Xerox B-Roll" (Sora-preset)
+Version: 1.0
+
+# NOTE TO USER/EDITOR (not for model parsing)
+# This preset intentionally breaks visual polish. Do not "clean it up".
+
+RENDER_SPECS
+- grain: maximum xerox noise + analog 35mm hybrid, intensity 0.75
+- shutter: 180° natural motion blur, but jitter artifacts allowed
+- camera_profile: photocopied analog zine aesthetic, 24–35mm equivalent
+- lens_distortion: slight barrel + xerox ghosting edges, amount 0.05
+- vignetting: heavy, uneven edges like copy machine burn, amount 0.25
+- chromatic_aberration: chaotic, color-channel drift allowed
+- stabilization: intentionally unstable; jump-cut + jitter encouraged
+- max_duration: 15s per output recommended
+
+GLOBAL_LOOK_AND_FEEL
+- palette: full color preserved but warped; color bleeding + toner smears
+- contrast: high contrast with crushed blacks + blown highlights in spots
+- LUT: "Xerox-Punk-Color-Decay" (color warps, misregistration, harsh texture)
+- atmosphere: photocopy haze, toner dust, paper fibers, digital compression artifacts
+- lighting_priority: no beautification; harsh overhead or practical light only
+
+WORLD_BIBLE
+- setting: Nordic everyday urban (tram stops, kiosks, bus shelters, sidewalks, post boxes)
+- mood_of_world: indifferent, transactional, mildly absurd
+- camera_behavior: observer of objects, systems, environments, signage, motion — not people
+- social_commentary: soft socio-political; critique implied through environment composition
+
+MOTION_LANGUAGE
+- camera: chaotic xerox motion; jump cuts, whip-pans, zooms, stutters
+- shot_style: zine collage energy; fragments, inserts, textures, ephemera
+- depth_of_field: inconsistent; accept focus breathing + misfocus as texture
+- transitions: tape splices, abrupt cuts, photocopy glitch frames
+
+SOUND_DESIGN
+- texture: lo-fi noise collage — xerox machine hum, cassette hiss, faint tram rails screech
+- avoid: clean field recordings or polished ambience
+
+CONTENT_SAFETY
+- no people in focus; if accidental, obscure or crop out faces
+- no brand logos in full clarity; degrade via xerox texture or cropping
+
+NEGATIVE_PROMPTS
+- no influencers, no models, no "cinematic", no bokeh glam
+- no smooth gimbal shots, no clean color grading
+- no ad-like compositions, no inspirational typography
+- no magical realism, no dream sequences, no character drama
+
+
+
+--------------------------------------------------------------------------------
+- grain: maximum xerox noise + analog 35mm hybrid, intensity 0.75
+- shutter: 180° natural motion blur, but jitter artifacts allowed
+- camera_profile: photocopied analog zine aesthetic, 24–35mm equivalent
+- lens_distortion: slight barrel + xerox ghosting edges, amount 0.05
+- vignetting: heavy, uneven edges like copy machine burn, amount 0.25
+- chromatic_aberration: chaotic, color-channel drift allowed
+- stabilization: intentionally unstable; jump-cut + jitter encouraged
+- palette: full color preserved but warped; color bleeding + toner smears
+- contrast: high contrast with crushed blacks + blown highlights in spots
+- LUT: "Xerox-Punk-Color-Decay" (color warps, misregistration, harsh texture)
+- atmosphere: photocopy haze, toner dust, paper fibers, digital compression artifacts
+- setting: Nordic everyday urban (tram stops, kiosks, bus shelters, sidewalks, post boxes)
+- mood_of_world: indifferent, transactional, mildly absurd
+- camera_behavior: observer of objects, systems, environments, signage, motion — not people
+- social_commentary: soft socio-political; critique implied through environment composition
+- camera: chaotic xerox motion; jump cuts, whip-pans, zooms, stutters
+- shot_style: zine collage energy; fragments, inserts, textures, ephemera
+- depth_of_field: inconsistent; accept focus breathing + misfocus as texture
+- texture: lo-fi noise collage — xerox machine hum, cassette hiss, faint tram rails screech
+- no people in focus; if accidental, obscure or crop out faces
+- no brand logos in full clarity; degrade via xerox texture or cropping
+- no influencers, no models, no "cinematic", no bokeh glam
+- no smooth gimbal shots, no clean color grading
+- no ad-like compositions, no inspirational typography
+- no magical realism, no dream sequences, no character drama

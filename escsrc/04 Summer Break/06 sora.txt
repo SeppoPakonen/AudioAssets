@@ -1,0 +1,112 @@
+🎚️ SORA PRESET — “CHANNEL-SURFING DUB CAMP NOIR”
+
+Global Style Settings:
+
+Tone: Comic-camp → glitch → noir → surreal enlightenment
+
+Color Palette:
+
+0:00–0:40 Technicolor pop (60’s Batman pastiche)
+
+0:40–1:30 Muted tones, creeping teal/orange
+
+1:30–2:20 Low-key noir, desaturated, grainy
+
+2:20–3:00 Soft cosmic pastels, bloom, dreamlike
+
+Motion: 24fps, handheld + whip-pans in camp scenes, smooth dolly in noir, floating camera in enlightenment
+
+Transitions: Channel-change glitch at timestamps 0:12, 0:28, 0:42, 1:05, 1:40, 2:05, 2:32
+
+Texture: CRT scanlines + VHS wobble during camp/glitch; film grain during noir; prismatic light leaks in finale
+
+Aspect: 16:9
+
+Audio Cues (visualized only): “POW! ZONK! WHAM!” text pops in camp; low dub echo visual ripples in noir
+
+🎬 30 SORA-PROMPTIA (5–8 sek per kuva)
+
+Tämä on täsmärakennettu 3 min videolle — nopeat leikkaukset, kanavasurffaus, camp→noir→nirvana.
+
+HUOM: Älä sisällytä minuuttilukuja Soraan, ne ovat sinulle ohjenuorana.
+Tunnelma: yritysmaailman jargon kohtaa katujen kaaoksen, lyyrinen musta huumori, “valtio ei ole meidän puolella” -viba.
+
+🟨 CAMP-ALUKKO (0:00–0:40) — 60’s Batman TV-estetiikka, yliannostus neonvitamiinia
+
+Technicolor 1960s comic-book style bank exterior, Dutch angle, bold “BANKKI!” sign, exaggerated colors, playful heroic music vibe.
+
+Inside bank: Miia in absurdly cheap disguise (eye mask, striped shirt), tip-toeing cartoonishly, giant “SNEAK!” text pops.
+
+Miia slips on marble floor, flailing like slapstick mime, “WOOPS!” text bubble appears.
+
+Camp security guard reading newspaper, oblivious, Miia steals bag of money painted with € symbol, “HEIST-TASTIC!” caption.
+
+Exit doors jam, Miia comically shoulder-rams them, doors explode open with “WHAM!” comic burst.
+
+Chase begins: Miia running in fast-motion like 60’s villain (in superhero story), background obviously a cheap painted backdrop of city.
+
+📺 GLITCH CHANNEL SWITCH #1 — static, VHS tearing, 0.3s
+
+Same chase but now gritty handheld street cam, dusk rain, realism creeping in. Sirens echo like dub delay.
+
+Miia jumps over puddle but slips, lands in reggae-skank pose; a ska horn sound-effect visualized as comic notes.
+
+*📺 GLITCH SWITCH #2 — TV flicker to police-propaganda channel
+
+Overly patriotic police recruitment ad aesthetic: cops posing heroically, awkward smiles, text: “SERVE & OVER-CHARGE TAXPAYERS”.
+
+🟦 PIDÄTYS & SELLIIN SIIRTYMINEN (0:40–1:20)
+
+Police car interior, Miia in backseat, neon lights paint her face, she raises eyebrow deadpan at camera as if aware of viewers.
+
+Stereotypical cop dramatically reads her rights from cue cards, but cards are upside-down.
+
+Booking photo sequence like 60’s montage: Miia poses like a fashion shoot, quick cuts, silly props.
+
+📺 GLITCH SWITCH #3 — CRT → Film Noir
+
+Cold concrete cell, single bulb flicker, color now desaturated, bass-echo ripple visual motif begins.
+
+Miia on yoga mat in lotus position, incense burning, prison bars behind; absurd serenity in depressing cell.
+
+Vartija koputtaa kaltereihin, meditaatio keskeytyy “BONK!” caption, Miia stays emotionless like enlightened intern at bad startup.
+
+⚖️ Oikeussalikanaali (1:20–1:50) — amerikkalainen farssi
+
+Over-the-top US courtroom, giant flag, golden eagle, judge with cowboy hat and oversized gavel.
+
+Jury of caricatures: influencer taking selfies, clown, corporate CEO wolf, confused grandma knitting.
+
+Judge slams gavel, “ORDER!” pops like Batman fight caption; jury nods in synchronized robotic absurdity.
+
+Miia tries to speak, but courtroom music swells overly dramatic, drowning her out — system as operatic farce.
+
+📺 GLITCH SWITCH #4 — static→noir documentary tone
+
+Close-up on Miia’s tired eyes; reflection of bars; audio visualized as heartbeat light pulse.
+
+🧱 VANKILAN SYVYMMÄT KERROKSET (1:50–2:20) — dokumentaarinen + runollinen kurkistus
+
+Wide shot: communal prison block, bleak lighting, cold hues, echoing footsteps.
+
+Prisoners meditating in a circle awkwardly, as if corporate forced “mindfulness day”, Miia slightly levitating 1 cm.
+
+Tears rolling down Miia’s cheek in slow motion, blending into rain dripping from ceiling — symbolic leakage of state empathy.
+
+Graffiti of a door drawn on a wall, Miia traces it with finger, it briefly glitches like portal might become real.
+
+🌈 VALAISTUMINEN (2:20–3:00) — Miia kieltäytyy olemasta signaali
+
+📺 GLITCH SWITCH #5 — channels scroll rapidly: cooking show → news → teleshopping → static → blank
+
+Miia sits center frame, cell dissolves into infinite TV screens showing her own life scenes looping.
+
+She stands, touches screen; her hand passes through, pixels drift off like fireflies.
+
+Prismatic colors replace concrete; Miia’s body turns semi-translucent, faint cosmic symbols appear around her.
+
+Bars melt into rays of light; she steps through; her form becomes silhouette made of broadcast signal.
+
+Miia floats in cosmic void mixed with 1960s comic dots, smiling genuinely for first time.
+
+Screen fades to pure white; soft text appears: “MIIA HAS EXITED THE BROADCAST.” followed by faint dub echo.

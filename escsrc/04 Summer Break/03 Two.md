@@ -220,3 +220,10 @@ Tässä tulkinta 1920-luvun (ja aiemmin) psykoanalyysin viitekehyksestä käsin.
 
 
 
+# Julkaisu
+Biisi 35 👊 Kaks, ei yks 🎤
+On menossa vuoden 2006 sävellykset ✨
+Tämä oli yks mun The Vice bändin keikallakin (englanniksi) vedetty biisi  🖋
+Tää on suomennos 🥈
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on tuotettu Suno musiikki-tekoälyllä. 🎛
+Video on generoitu Sora AI:lla.

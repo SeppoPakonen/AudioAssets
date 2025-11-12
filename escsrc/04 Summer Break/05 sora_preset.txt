@@ -1,0 +1,27 @@
+SORA PRESET — Nordic Disco Couture (Platform‑friendly, short)
+
+Artist: Oulu, Finland. Cast: Finnish/Nordic young‑adult look.
+
+INTENT
+High‑fashion Nordic club/night‑snow mood; confident, stylish, shareable.
+
+OUTPUT
+Portrait 9:16, 720p. One prompt → 2 × 5 s. Reserve small clean area for Finnish lyric text.
+
+LOOK & LIGHT
+Cool Nordic exteriors (blue/silver) + magenta/teal club lights. Hard key with crisp shadow, light bloom, subtle film grain. Shallow depth (35–50 mm feel).
+
+CAMERA
+Slow push/orbit with clear beat accents; occasional handheld micro‑shake. Loopable starts/ends.
+
+CAST & STYLING
+Approx. 70% women / 30% men. Scandinavian features. Confident power poses, direct gaze. Wardrobe: tailored blazers, minimal couture, heels; men: leather/mesh accents, jewelry. Colors: black, chrome, snow white with neon reflections. Use opaque fabrics and tasteful coverage.
+
+LOCATIONS
+Finnish club interiors, concrete stairwells, snowy rooftops, tram stop, cloakroom, backstage vanity, gallery‑white room, sauna doorway steam (doorway only).
+
+NOTES
+Platform‑friendly tone; fashion‑forward; avoid suggestive wording in prompts; keep focus on style, attitude, silhouette, and lighting.
+
+MAGIC LINE (append to each scene)
+portrait 9:16, Nordic disco aesthetic, Finnish club atmosphere, realistic young Finnish adult cast, neon‑noir lighting, cold Nordic color temperature blended with magenta‑teal club lights, film grain, shallow depth of field, glossy surfaces, subtle cyberpunk influence

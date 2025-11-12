@@ -1,0 +1,54 @@
+Title: "Observational Beauty Trap — RAW PUNK v2 (Analog Photozine, Color, Dreadlocks Edition)" (Sora-preset)
+Version: 2.0
+
+RENDER_SPECS
+- grain: analog zine-style 35mm scan, gritty texture, intensity 0.32
+- shutter: 180° (natural motion blur)
+- camera_profile: raw documentary spherical 28mm, 35mm & 50mm primes
+- lens_distortion: slight barrel, amount 0.03 (DIY handheld zine aesthetic)
+- vignetting: medium, amount 0.12 (photocopy zine edge feel)
+- chromatic_aberration: off (0.0)
+- stabilization: handheld, imperfect shoulder-cam feel, tiny jitter and breathing
+
+GLOBAL_LOOK_AND_FEEL
+- palette: analog color film with slight warm skin bias; background cooler, mildly desaturated
+- contrast: punchy but not crushed; shadows retain detail; highlights soft roll-off
+- LUT: "Analog Photozine Punk Color" (warm skin, muted urban shadows, red accents pop)
+- atmosphere: natural real-world air; visible imperfections; slight noise and texture
+- lighting_priority: warm flattering light on face when visible; environment harsher and indifferent
+
+CHARACTER_BIBLE
+- MAIN_CHARACTER: "Young Woman" / LookID: RAWPUNK-28-F
+  age: 22–30
+  ethnicity: light-skinned (consistent once chosen)
+  build: slim or average
+  hair: dark brown/off-black dreadlocks, natural texture, a bit frizzy, grown-in and imperfect
+  wardrobe: everyday clothing with subtle punk edge (denim, band tee or knit, worn jacket or hoodie, heavy boots)
+  signature_item: black scarf with red rose and leaf pattern (MUST be present every scene)
+  personality: warm-hearted core but no longer performing niceness for others
+  facial_energy: 40% warmth, 60% “I don’t owe you a smile” anti-people-pleasing micro-attitude
+  continuity_keys: SAME_FACE, SAME_EYES, SAME_HAIR_COLOR, SAME_DREAD_TEXTURE, SAME_SCARF across all scenes
+
+WORLD_BIBLE
+- settings: European urban realism (tram stops, kiosks, sidewalks, post office lines, corner cafés, train stations)
+- mood_of_world: indifferent, rushed, self-focused; socially transactional
+- camera_behavior: observer perspective; often elevated or detached; society watches but doesn’t care
+- social_friction: protagonist gives time/energy; world takes it without reciprocity or thanks
+
+MOTION_LANGUAGE
+- camera: begin on detail or partially obscured view, THEN reveal character; minimal face exposure
+- shot_style: handheld, slightly imperfect, documentary; avoid cinematic smoothness
+- depth_of_field: shallow for intimate detail shots (T2–T2.8), deeper for public wide shots (T4–T8)
+- transitions: jump cuts & straight cuts only; avoid dissolves or aesthetic transitions
+
+CONTENT_SAFETY
+- tone: raw but dignified; punk is self-possession, not suffering
+- no trauma imagery, no harassment scenes, no glamorizing struggle
+- keep realism; avoid influencer aesthetics or staged activism
+
+NEGATIVE_PROMPTS
+- no beauty-filter look, no glossy skin, no commercial fashion lighting
+- no neon trope punk, no cosplay punk, no spiky hair cliché
+- no magical realism, no symbolic metaphors, no dream sequences
+- no villains, no dramatic confrontations, no breakdown scenes
+- avoid corporate stock-footage vibe; no sterile offices with fake actors

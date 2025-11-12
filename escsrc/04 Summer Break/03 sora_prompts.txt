@@ -1,0 +1,138 @@
+SORA PROMPTS — BATCH 1 v2 (RAW PUNK, Analog Photozine, Minimal Faces)
+00:00–00:53
+
+NOTES FOR USE:
+• Each prompt is designed to generate TWO × 5s clips from the same location & setup
+• Keep face exposure minimal — only brief glimpses, side or partial
+• Maintain signature item: black scarf with red roses and leaves
+• Aesthetic: Analog photozine, color film, gritty yet intimate
+• Character energy: anti-consumer punk, self-possessed, not performing niceness
+
+
+------------------------------------------------------------
+SCENE 1 — Hook Without Selling Your Soul (00:00)
+PROMPT 1 (Generates 5s + 5s from same location):
+"9:16, 720p. Analog photozine punk color film aesthetic, gritty texture, slight vignette. Close crop on details: the woman's dark brown/off-black dreadlocks, the black scarf with red rose pattern around her neck, her hand adjusting it with calm self-assured motion. Warm skin tones, cooler urban background. Quick micro-glimpse of her face from the side, neutral expression, not performing a smile. THEN a second 5s shot from same location, high-angle or slightly behind her shoulder, showing her standing or waiting in a public urban space, people passing without acknowledging her, she stands grounded and unbothered, handheld documentary realism."
+
+------------------------------------------------------------
+SCENE 2 — Small Energy Leaks / Anti-Consumer Actions (00:06–00:19)
+PROMPT 2 (Generates 5s + 5s from same location):
+"9:16, 720p. Analog photozine punk color film look. The woman enters a small corner café or kiosk area, does NOT buy anything, yet calmly takes a seat or leans against a counter like she belongs there. Focus on her actions, not face: her scarf detail, boots, bag, hands. Anti-consumer micro-rebellion, subtle but intentional. THEN a second 5s shot from same space: she removes a promotional flyer or advertising leaflet from the table or wall, glances at it with unimpressed punk detachment, crumples or folds it, and leaves it aside (not neatly). Handheld, slight jitter, raw documentary vibe."
+
+------------------------------------------------------------
+SCENE 3 — Pre-Chorus: Society Doesn’t Notice (00:19–00:29)
+PROMPT 3 (Generates 5s + 5s from same location):
+"9:16, 720p. Analog zine-style color film. Overhead or high-angle shot of the woman waiting in a slow-moving queue at a kiosk or ticket machine. People in front scroll phones, behind her someone sighs impatiently. Her posture shows quiet noncompliance with the rushed culture — she is present, not performing politeness. Minimal or no face exposure; focus on scarf, hair, jacket, and stance. THEN second 5s shot from same location: same queue but from a lower side angle, showing her stepping out of the line briefly to look at a noticeboard or just to breathe, breaking the ‘queue obedience’ norm. Documentary realism."
+
+------------------------------------------------------------
+SCENE 4 — Chorus: Routine Isn’t Neutral (00:29–00:44)
+PROMPT 4 (Generates 5s + 5s from same location):
+"9:16, 720p. Analog photozine punk color film look. The woman sits or stands near others in a casual public seating area (café patio, bus-stop bench, communal table). Others chat, consume, buy things; she simply exists without purchasing. Show her boots on the bench edge or her occupying space confidently (small rule-break). Scarf remains visible. THEN second 5s clip from same location: focus on hands or profile partial — someone talks at her or expects smalltalk; she gives a short noncommittal nod and looks away with calm self-possession, not engaging in performance. Handheld, raw, non-dramatic."
+
+------------------------------------------------------------
+SCENE 5 — Instrumental Pause: Gaining Inner Space (00:44–00:53)
+PROMPT 5 (Generates 5s + 5s from same location):
+"9:16, 720p. Analog photozine punk color aesthetic. The woman sits alone on a public bench or tram seat, earphones in, taking personal time without apology. Show side profile or from behind, scarf visible, city passing slowly. THEN second 5s clip from same setting: detail shot of her adjusting scarf or hair, breathing out, quietly claiming space. People move around her; she is still, grounded, self-owned. No melancholy — this is inner autonomy."
+
+------------------------------------------------------------
+
+
+
+SORA PROMPTS — BATCH 2 v2 (RAW PUNK, Analog Photozine, Minimal Faces)
+00:53–01:39
+
+NOTES FOR USE:
+• Each prompt generates TWO × 5s clips from the same location & setup
+• Face exposure minimal; show only partial profile or quick moment if needed
+• Maintain signature item: black scarf with red roses & leaves
+• Aesthetic: Analog photozine, color film, gritty, textured, imperfect
+• Character energy: punk autonomy, anti-consumer, self-respect
+
+
+------------------------------------------------------------
+SCENE 6 — Verse 2 Begins: Trying to Have Time for Herself (00:53–01:10)
+PROMPT 6 (Generates 5s + 5s from same location):
+"9:16, 720p. Analog photozine punk color style. The woman walks with a friend (friend’s face not shown or blurred by framing), holding two takeaway coffee cups. She gives one to the friend, but keeps none for herself — she didn’t buy anything for herself, anti-consumer stance. Focus on scarf, hair, hands, cups. She is present but not over-giving. THEN second 5s clip from same location: the friend talks animatedly; she listens but keeps emotional boundary, looking out toward street, taking a moment of inner space, grounded and self-possessed. Handheld documentary realism."
+
+------------------------------------------------------------
+SCENE 7 — Social Frriction: Expectations to Comply (01:10–01:24)
+PROMPT 7 (Generates 5s + 5s from same location):
+"9:16, 720p. Analog color zine aesthetic. The woman is at a small shop or kiosk entrance. Friend or stranger subtly pressures her to come inside and ‘just buy something’ to join. Show only hands/gestures; avoid faces. She shakes her head politely but firmly, steps back outside into fresh air, scarf visible. Anti-consumer micro-act of refusal. THEN second 5s clip from same spot: She stands outside taking a breath, leaning on wall, adjusting scarf, showing relief at not complying. Warm skin, cool environment, gritty texture."
+
+------------------------------------------------------------
+SCENE 8 — Feeling the Distance, Choosing Herself (01:24–01:39)
+PROMPT 8 (Generates 5s + 5s from same location):
+"9:16, 720p. Analog photozine punk color. The woman and friend part ways. Keep friend’s face out of frame; show only bodies, hands, scarf, hair. She doesn’t chase or apologize. She turns and walks in her own direction with steady pace, boots hitting pavement with purpose. THEN second 5s shot from same location: handheld following shot from behind or side, her scarf flowing slightly, she walks toward a quieter side street or tram stop alone, but with inner strength. This is not loneliness — this is liberation of time. Documentary realism with punk dignity."
+
+------------------------------------------------------------
+
+Hyvä nosto — pelkkä yhden hahmon seuraaminen ilman maailmaa ympärillä alkaa maistua laihalta kahvilta ilman kofeiinia. **Batch 3 v2** tarvitsee *punk-dokumentaarista B-rollia*, joka tuo:
+
+* tekstuuria
+* rytmiä
+* maailmaa, jota vastaan hahmo peilataan
+
+Ja samalla:
+B-roll **ei saa sisältää kasvoja**, jotta Sora ei sekoa henkilöllisyyksissä.
+
+Tässä erässä (Bridge + ensimmäinen soolo) on luontevaa tuoda mukaan:
+
+* **yhteiskunnan koneistoa**
+* **kulutusrytmin absurdiutta**
+* **kaupunkielämän mekaanisuutta**
+* **punk-filosofista visuaalista vastapainoa**
+
+Batch 3 v2 sisältää sekä hahmoa että B-rollia (samoilla sävyillä ja analog photozine punk -estetiikalla).
+
+Ajan jaksotus:
+**01:39–02:27**
+
+---
+
+### 🔥 SORA PROMPTS — BATCH 3 v2
+
+**(RAW PUNK, Analog Photozine, Minimal Faces + B-roll)**
+**01:39–02:27**
+
+**Huom:** Jokainen promptti tuottaa **2 × 5s** samasta lokaatiosta.
+
+---
+
+#### **SCENE 9 — Bridge: Internal Realisation (01:39–01:53)**
+
+*(Hahmo + B-roll kontrastina)*
+
+**PROMPT 9 (2 × 5s, same location):**
+"9:16, 720p. Analog photozine punk color film aesthetic. The woman stands at a crosswalk, not moving when the light turns green. People rush around her. Angle avoids full face; show profile, scarf, hair. She stays still, breathing, non-conforming to pace. THEN second 5s shot from same spot: B-roll of pedestrian feet rushing across the crosswalk, their pace frantic, her boots visible in corner unmoving. Gritty handheld realism, slight vignette."
+
+---
+
+#### **SCENE 10 — Bridge B-Roll Insert: World on Autopilot (01:53–02:08)**
+
+*(Pure B-roll)*
+
+**PROMPT 10 (2 × 5s, same location):**
+"9:16, 720p. Analog zine-style color film. B-roll only. Conveyor-belt style mundane consumerism: close-up of vending machine dispensing items, credit card tap, receipt printing, shopping bags swinging. No faces. THEN second 5s shot from same place: trash bin overflowing with branded packaging, wind blowing a receipt across pavement. Raw punk social commentary tone."
+
+---
+
+#### **SCENE 11 — Guitar Solo Pt.1: Observing the Machine (02:08–02:18)**
+
+*(Hahmo + B-roll juxtaposition)*
+
+**PROMPT 11 (2 × 5s, same location):**
+"9:16, 720p. Analog photozine punk color aesthetic. The woman sits on steps outside a metro or train station, scarf visible, head slightly lowered but calm, observing people entering shops around her. Focus on posture, scarf, boots; no direct face shot. THEN second 5s clip from same place: B-roll of automatic doors opening and closing repeatedly, people flowing in and out, consumer churn. Slight handheld jitter."
+
+---
+
+#### **SCENE 12 — Guitar Solo Pt.2: The World Keeps Spinning (02:18–02:27)**
+
+*(Pure B-roll with a punk poetic twist)*
+
+**PROMPT 12 (2 × 5s, same location):**
+"9:16, 720p. Analog photozine color. B-roll only. Urban rhythms: tram wheels screeching, newspapers flapping in wind on sidewalk, plastic ad posters half-torn on wall, sticker-covered lamppost with DIY gig flyers (not showing faces). THEN second 5s shot: close-up of the woman's scarf corner pinned under her boot as she stands in place while the world moves around her — symbolic but realistic shot, gritty documentary style."
+
+---
+
+**END OF BATCH 3 v2**
+→ Leikattavissa riveinä, vastapareina tai taiteellisina leikkauksina.

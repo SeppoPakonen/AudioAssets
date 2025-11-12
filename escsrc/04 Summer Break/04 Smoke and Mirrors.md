@@ -334,6 +334,7 @@ IV. Rhetoriset väkivaltaiset vaatimukset ja sukupuolittunut loppukuva
 
 Toistuvat teemat (eriytettynä)
 - Sukupuolittava yleistys & misogynia: “tytöt/naiset” pahantahtoisina, ymmärtämättöminä, esineellistäminen “synnytyskoneeksi”.
+
 - Dehumanisointi & halventavat leimat: mm. “paholainen”, loukkaava huorittelu, ihmisarvon vähättely.
 - Väkivaltaan kannustaminen: toistuvat toiveet satuttamisesta/kuolemasta, vankilointi/“tyrmään” laittaminen, hiljentäminen.
 - Uhrin syyttäminen & vastuun siirto: köyhyys/epäonni “omaa syytä”, syyllisyys kasautuu yksilölle.
@@ -349,4 +350,12 @@ Toistuvat teemat (eriytettynä)
 - Yhteisen tilan militarisointi: “miinoitettu” yhteistila, jatkuvan konfliktin mielikuva.
 
 
+
+
+# Julkaisu
+Biisi 36 🏴‍☠️ Usko on hölmöä 🎤
+On menossa vuoden 2006 sävellykset ✨
+Tämä oli yks mun The Vice bändille sävelletty biisi, kitaristi-Ipen vihjeen perusteella  🖋
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on tuotettu Suno musiikki-tekoälyllä. 🎛
+Video on generoitu Sora AI:lla.
 

@@ -46,7 +46,7 @@ koodi käskee, ei vapautta saa
 Älä häpee vaan vibaasi ohjaa
 Ylpeys paisuu, dopamiini hoitaa.
 Sydän määrät syyllisyyden korjaa,
-Luvut suuret ei mua nolaa
+Luvut suuret ei sua nolaa
 
 [Chorus (singing)]
 Samat sanat lainaamassa, samaa kaavaa toistamassa
@@ -62,43 +62,18 @@ Niin päätti sisäpiiri varjoinen
 
 Pelkoo luo, huudot nuo,
 Vuodet vierii, traumoi tuo.
-Lipevät sanat pyytämättä
-Ne laskut maksaa, estot syrjäyttävät
+Oman elämän? häpeä on rahaa
+ja mun paljon tarvis ostaa
 
-Sateenkaariunioni, kulttuuri-fit
-Uppoaa totuus disclaimeriin
-Oma elämä? Häpeä on rahaa
-Ja mun kalusteet liian vanhoja
-
-Isot tissit, hymyilevä blondi
-Mahas muljuu, on sun reaktiosi
-Et saa omaa, et katsookkaan
-Jos vaimo huomaa nii joudut vonkaan
-
-[Post-chorus]
-Algoo vahtaat
-Algoo vahtaat
-
-[Verse 3 (rap)]
 Tanssilla mainostaa, sut tavoittaa
 Katsekoukut ansoittaa
-Soolo-suoritus, kuka muka jakaa,
-Happee roihuun, spotti palaa
+Aluks oli se vaa sattumaa
+Nyt tapa on narsistei kannattaa
 
-Rakkauden mitta on kumppani ylpeä
-Muuten painaa, ja kierretään kehää
-"Liian pimeä mies", biisit ties
-Tasapaino on onni toisien
-
-Ope parittaa rohkeen ja ujon
-Käytävil nöyryyttävä lopputulos
-Ontto on kaveri, kasvoton vaikeni
-Narsismi-talentti huomion varasti
-
-"AI esiin kun ei oo taitoo"
-yleisö uskoo, algoritmi taikoo
-"Ne on tyhmii", koulu ei kasvata
-Likainen sotku, vihollinen iholla
+Mies katsoo some-tyttöjä
+ja sängys jää nuoleen näppejä
+Isot tissit, hymyilevä blondi
+Mahas muljuu, se on reaktiosi
 
 [Chorus (singing)]
 Samat sanat lainaamassa, samaa kaavaa toistamassa
@@ -111,6 +86,12 @@ Algoo vahtaat
 Algoo vahtaat
 Algoo vahtaat
 Algoo vahtaat
+
+[Bridge (singing)]
+Aluks oli se vaa sattumaa
+Äänekäs hallitsi estradia
+Mut some teki siitä tavan
+Ja hiljaiselle jäi vain varjoja
 
 [Chorus (singing)]
 Samat sanat lainaamassa, samaa kaavaa toistamassa
@@ -222,3 +203,16 @@ Ja opettajat eivät kasvata kovin pitkälle, eivätkä vapaa-ajalla...
 - Chorus
 - Post-chorus
 - Chorus
+
+
+
+
+
+# Julkaisu
+Biisi 37 🏴‍☠️ Shownainen 🎤
+On menossa kesän 2006 sävellykset ✨
+Tämä oli joku "back to the disco" sävellys. Vissiin bändille tarkoitettu. Tein sanat viimeaikoina. 🖋
+Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on tuotettu Suno musiikki-tekoälyllä. 🎛
+Video on generoitu Sora AI:lla.
+
+
