@@ -172,3 +172,8 @@ Lights stay agreed, dear
 7. 5 syllables
 
 
+# Julkaisu
+Biisi 38 🏴‍☠️ Miia 🎤
+On menossa kesän 2006 sävellykset ✨
+Oltiin perustamassa kesällä 2006 reggae bändiä Iinan, Riikan ja Artun kanssa, ja tämä biisi oltais otettu ekaks (ilman sanoja), mutta se jäi... ja sitten myös myöhemmän Vaikeat Ajat bändin kanssa jammailtiin paljon tätä "piraattibiisiä", mut ei toiminut 🖋 Kirjoitin sanat viime aikoina. Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on tuotettu Suno musiikki-tekoälyllä. 🎛 Video on generoitu Sora AI:lla.
+

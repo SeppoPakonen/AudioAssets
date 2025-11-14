@@ -1,0 +1,34 @@
+SORA PRESET: Minor-Key Grunge Studio Narrative
+
+Camera & Motion:
+- Slow, deliberate dolly and orbit moves
+- Occasional handheld realism
+- Frequent use of reflections in windows and glass
+- Mostly medium and close shots for emotional realism
+
+Color & Texture:
+- Warm orange sunrise tones in the apartment
+- Muted blues/greys in city and studio
+- Soft film-like grain, low to medium contrast
+- Realistic, slightly melancholic look
+
+Characters:
+- 8 men in the studio world:
+  * 6 band members including the baritone vocalist
+  * 2 studio staff in the control room
+- Ordinary, realistic men, not stylized heroes
+- Vocalist is the emotional focus: tired, gentle, quietly wounded
+
+Ghost Woman Rule (CRITICAL):
+- Female figure is only a memory or vision
+- She must ALWAYS be between 0% and 50% opacity
+- She is NEVER fully solid or physically present
+- Appears only briefly and rarely
+- Can show up as a faint, semi-transparent figure on the empty half of the bed, at the clean side of the kitchen table, or as a subtle reflection in studio glass
+- Always partially transparent, easily missed, never the main subject of a shot
+
+Mood & Themes:
+- Realistic, melancholic, with understated dark humor
+- Apartment: quiet single life, tragicomic absence of a woman
+- Studio: “altar of comfort” for men, soft camaraderie and muted healing
+- Core theme: he does not know how to be in a relationship and feels he “doesn’t really know anything,” but finds partial belonging in the band and studio.
