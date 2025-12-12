@@ -419,3 +419,9 @@ Alla on 1920-luvun ja sitä aiemman psykoanalyysin (Freud, Jung, Adler; lisäksi
 
 Jos haluat, voin tehdä rinnakkaisen modernin (trauma-informoidun) luennan viereen tai rakentaa taulukon, jossa jokainen tekstin kiistanalainen kohta linkitetään vastaavaan 1920-luvun käsitteeseen (projektion laji, anima/Varjo, kompensaatio, kuolemanvietti, yms.).
 
+
+# Julkaisu
+Biisi 39 ️▶️ Tiedä mä en 🎤
+On menossa kesän 2006 sävellykset ✨
+Tätä on soiteltu paljon yksin ja bändin kanssa ja on ihme jos monet ei tunnista. Vaikeat Ajat bändin kanssa jammailtiin tätä ja kitarat ja rummut on ihan samat 🖋 Kirjoitin sanat viime aikoina. Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on tuotettu Suno musiikki-tekoälyllä. 🎛 Video on generoitu Sora AI:lla.
+

@@ -211,3 +211,9 @@ Tässä on tiivis, 1900-luvun alun (–1920-luvun) psykologialla tehty tulkinta 
 Teksti artikuloi modernin rakkausfantasian, jossa **kompetenssi on eroottinen** ja **tekniikka on psyykkinen turvarakenne**. 1920-luvun ja sitä aiemman psykologian kielellä kyse on libidon sublimaatiosta, transferenssista asiantuntija-objektiin ja alemmuuden tunteen kompensaatiosta kohti yhteistoiminnallista toimijuutta. Saksalaisessa kehyksessä se resonoi Weimarin teknisen modernin, järjestyksen kaipuun ja meritokraattisen vallan ihanteen kanssa—samalla peilaten hiljaista kapinaa vanhaa, ruumiillista auktoriteettia vastaan.
 
 
+
+# Julkaisu
+Biisi 40 ️▶️ Mun oma nörtti 🎤
+On menossa kesän 2006 sävellykset ✨
+Tämä on mun eka kilpailubiisi ikinä. Osallistuin MikroBitti lehden kilpailuun, joka selittää sanoitukset. Ei voittoa. Vähän nolo on tämä ollut aina, mutta nyt tuli ihan ok. Alkuperäinen oli englanniksi, ja tämä on suomeksi. The Vice:n Laura-laulaja lauloi alkuperäisen. 🖋 Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on tuotettu Suno musiikki-tekoälyllä. 🎛 Video on generoitu Sora AI:lla.
+

@@ -21,9 +21,9 @@ Title: Vieroitusoireet
 [Verse 1]
 Arkiaamul kra-pu-la.
 Tutun tyypin ovella.
-Sinisissä unissa kai ken luovutan.
+Hetkessä taas omaisuus mun katoaa.
 Kahden viikon va-pi-naa 
-ei uskoiskaan, se hy-my-suu nuorempi.
+ei uskoiskaan, se hy-my-suut nuoremmat.
 
 [Prechorus, (long vowels)]
 Ongelmaa, ei mul oo.
@@ -124,3 +124,8 @@ Cuts at my mind, I pull the other, other sleeve.
 Withdrawal symptoms can’t kill me, symptoms now.
 Cuts at my mind, I pull the other, other sleeve now.
 ```
+
+Vieroitusoireet 🎤
+Aloitin tän kun 2006 bändin sisällä ja ulkopuolella alkoi oleen kaikenlaista. Huoli-biisi, ei omakohtainen. Pitkälti alkuperäinen, mutta uudet sanat. 🖋 Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on osittain tuotettu Suno AI:lla. 🎛 Video on generoitu Sora AI:lla.
+S04E12 
+

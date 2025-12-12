@@ -1,0 +1,530 @@
+UPDATED PROMPTS WITH ANIME FORCE-PRESET (A)
+---------------------------------------------
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Adult Onsen Glamour Shot: Adult woman in traditional Japanese onsen, towel, steam, bright sky-blue daylight, green trees, warm beige ryokan wood, playful expression.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Nörttipoika Ryokan Verandalla: Nerdy adult man with glasses holding old laptop on wooden veranda, blue sky, jade trees, sliding shoji doors.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Office-Lady Onsenissa: Adult office-lady stepping into steaming onsen, polished wood deck, soft daylight.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Tsundere Aikuinen Nainen Ryokan Pihalla: Adult tsundere woman posing in courtyard, windy sky-blue day, green maple leaves.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: City Street Slice-of-Life Minors: Modern Japanese street, minors in school uniforms chatting innocently, no connection to onsen.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Ryokan Hallway Adults Only: Adult woman leaning from shoji door teasingly, warm wooden hallway.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Nörttipoika Portaissa: Nerdy adult man falling comically down wooden stairs, exaggerated motion lines.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Amazon Onsen: Tall athletic adult woman relaxing in onsen, towel, steam.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Kirjastotyttö Verandalla: Adult bookish woman reading on wooden deck, blue sky, leaves.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: City Street Aamuruuhka Minors: Minors walking to school on city sidewalk, vending machines, daylight.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Idoli Onsen Kynnyksellä: Adult idol-type woman posing at onsen entrance.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Nörttipoika Magic Hack: Nerdy adult man typing on glowing laptop at low table.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Cool-Beauty Verandalla: Tall cool-beauty woman leaning on railing, breeze.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Ryokan Dining Chaos: Adults eating at low tables, comedic food chaos.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: City Street Iltapäivä Minors: Minors talking harmlessly near bookstore.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Hyperaktiivinen Aikuinen: Adult energetic woman hopping on veranda.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Onsen Steam Adults Group: Group of adult women in onsen, towels, steam.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Nörttipoika Talo: Nerdy adult man studying circuit boards on porch.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Office-Lady Yö: Adult office-lady woman in lantern-lit veranda night.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: City Street Sunset Minors: Minors walking home at sunset.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Tsundere Pool: Adult tsundere woman near small ryokan pool.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Kirjastotyttö Tatami: Adult librarian-type woman reading in tatami room.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Idolityyppi + Nörtti Parvekkeella: Adult idol teasing nerdy adult man.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Amazon Metsäpolulla: Tall muscular woman on forest path behind ryokan.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: School Field Trip Minors: Minors with teacher in city, wholesome.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Cool-Beauty Dawn Onsen: Cool-beauty woman in onsen at dawn.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Nörttipoika Valo: Nerdy adult man opening computer case with stylized sparks.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Aikuinen Energinen Katolla: Adult energetic woman climbing ryokan roof.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Ryokan Garden Adults: Adult women tending garden near ryokan.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Onsen Comedy Adults: Adult women slipping on wet stones, comedic PG.
+
+
+ANIME STYLE LOCK (FORCE-PRESET)
+--------------------------------
+2D hand-drawn anime style, cel-shaded color blocks, thick clean anime lineart,
+12fps animation look, high-contrast cel-shadows, flat colors with minimal texture,
+soft halftone shading, stylized anime proportions, large expressive anime eyes,
+simplified facial details, no photorealism, no skin pores, no photographic lighting,
+no photographic textures, zero realistic humans, zero live-action aesthetics,
+pure anime TV-series aesthetic, 2000s anime OP look, bold outlines, stylized hair highlights.
+
+NEGATIVE STYLE LOCK (FORCE)
+--------------------------------
+NO: realistic, photorealistic, live-action, 3D, CGI, photographic, HDR, cinematic,
+skin pores, glossy skin, natural photographic lighting, realistic anatomy, real people.
+
+PROMPT: Nörttipoika Final Shot: Nerdy adult man in OP finale pose on veranda.
+

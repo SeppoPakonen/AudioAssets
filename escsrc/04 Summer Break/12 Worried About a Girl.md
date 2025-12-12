@@ -88,61 +88,61 @@ Kaikki on monimutkaista, kun ei ole voimaa sanoa ei.
 ### Finnish
 ```
 [Verse 1]
-Mä oon huolissani
+Hän kävelee yksin
 tänään
-Hänen kaverit tuo ongelmia
-Ja kaiken vääristää
-Vaik mä oon hänen
-turva
-Toivon hyvää
-mutta hän karkaa
+Koska kaverit kuin varjot liikkuu
+ja opasteet kääntää
+Kohti väärää
+suuntaa
+Hän toivoo hyvää,
+mut eksyy uudestaan
 
 [Prechorus]
-Viel vääryys voittaa
+Syytkin vaihtuu ja
 
 [Chorus]
-Totuus muuttui taas
+Totuus taipuu taas
 Hänen pyhä aije kantaa
 Käärmeöljyy saa
-Heikkoon tyttöön luotetaan
+Varjoon askel johdattaa
 Kaikki uskoo viel
-Ne tiedä ei sekoiluu siel
-Seikkai-li-jan vaarallisel tiel
+Ne kuule ei kuiskeita siel
+Seikkailijan vaarallisel tiel
 
 [Verse 2]
-Villi mut yksin
-hän on
-Kosketus on tuskaa,
-väistää vastuuta
-Vain mä voin nähdä
-läpi sen
-Mut mua syyttää
-kun mä estänyt en
+Villi mut yksin hän
+Jatkaa
+Kosketus kuin kipu,
+Muistoja kantaa
+Vain harvat näkee
+Valheiden taa
+Hän toivoo et saa
+Solmut aukeemaan
 
 [Prechorus]
-Hän sotkee
+Mut ne vain kiristyy ja
 
 [Chorus]
-Totuus muuttui taas
+Totuus taipuu taas
 Hänen pyhä aije kantaa
 Käärmeöljyy saa
-Heikkoon tyttöön luotetaan
+Varjoon askel johdattaa
 Kaikki uskoo viel
-Ne tiedä ei sekoiluu siel
-Seikkai-li-jan vaarallisel tiel
+Ne kuule ei kuiskeita siel
+Seikkailijan vaarallisel tiel
 
 [Instrumental]
 
-[guitar solo]
+[Guitar solo]
 
 [Chorus]
-Totuus muuttui taas
+Totuus taipuu taas
 Hänen pyhä aije kantaa
 Käärmeöljyy saa
-Heikkoon tyttöön luotetaan
+Varjoon askel johdattaa
 Kaikki uskoo viel
-Ne tiedä ei sekoiluu siel
-Seikkai-li-jan vaarallisel tiel
+Ne kuule ei kuiskeita siel
+Seikkailijan vaarallisel tiel
 
 ```
 
@@ -194,3 +194,7 @@ Crowds all believe her
 While I fear for her heartbeat now
 Wolf-girl's network wrecks our town slow now
 ```
+
+Biisi 43 ️▶️Huolissaan hänestä 🎤
+Aloitin tän biisin 2006 kun silloinen tyttöystävä sekoili vähän liikaa ✨
+Tietenkin olin syntipukki hänen omiin sotkuihinsa 🖋 Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on osittain tuotettu Suno AI:lla. 🎛 Video on generoitu Sora AI:lla.

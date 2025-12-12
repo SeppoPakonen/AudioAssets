@@ -193,3 +193,11 @@ Kun kappale päättyy, rohkeus jää.
 Ja huomenna – tanssi alkaa jo sydämestä.
 ```
 
+
+
+# Julkaisu
+Biisi 41 ️▶️ Tanssibiisi 🎤
+On menossa kesän 2006 sävellykset ✨
+Tämä syntyi mun The Vice bändin aikana opitusta disco-basso-riffistä, ja jalostui Valkosipuliyön etkoilla laulaja-Lauran luona. Biisihän on siis kieli poskessa tehty. Tämä on suomennos. Laura lauloi ekan englanninkielisen version. 🖋 Kappaleet ovat täysin 100% käsin itse sävellettyjä, sanoitettuja ja sovitettuja, mutta ne on tuotettu Suno musiikki-tekoälyllä. 🎛 Video on generoitu Sora AI:lla.
+
+

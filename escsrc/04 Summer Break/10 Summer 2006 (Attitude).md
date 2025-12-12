@@ -33,6 +33,102 @@ The song features a consistent drum beat throughout, with occasional fills
 ### Finnish
 Title: Pysy siinä
 ```
+
+[Verse 1]
+Ei oo enää paljon aikaa
+Jotenkin on luvassa huonompaa
+Paniikkia pahentaa sääennuste kamala
+Liian kuuma on jo kun mä herään aamullaa
+
+[Chorus]
+Lämpöö on (on joo)
+Liikaa jo (joo joo)
+Enemmän (enemmän)
+Kuin luvattiin, miks on näin?
+
+Valoon tuu
+Luonto toipuu
+Ahneus ei jää
+Anna järjen meillä päättää
+
+[Verse 2]
+Maailma on sotkussa
+Bis-nes-mies väittää et ei ois totta
+Luontoo me vain pilataan, vihreepesul huijataan
+Aina voitto mielessä on jollain tavalla
+
+[Verse 3]
+Salaisia lahjuksii
+Tekopyhä teko ilmaston hyväksi
+Kaikki pitää silmät kii, uskoo ne et parani
+Vaikka lika-tuotteita on täynnä kauppasi
+
+[Chorus]
+Lämpöö on (on joo)
+Liikaa jo (joo joo)
+Enemmän (enemmän)
+Kuin luvattiin, miks on näin?
+
+Valoon tuu
+Luonto toipuu
+Ahneus ei jää
+Anna järjen meillä päättää
+
+[Chorus 2]
+liian kuuma nyt jo on -	miks on näin?
+liian kuuma nyt jo on -	miks on näin?
+liian kuuma nyt jo on -	miks on näin?
+liian kuuma nyt jo on -	miks on näin?
+
+[Instrumental]
+
+[Bridge (shout rap)]
+Tarkasta tää lämmitys
+Kenen syy? Tee selvitys!
+Ahneet tuomitaan
+Puhu päälle kun taas valehdellaan.
+
+Protestoi, tuo oikeus!
+Boikotoi, tee valitus!
+Polta niiden lippu
+Tuki töhrytehtaan piippu.
+
+Sä kannat kipinää
+Luodaan vähän rähinää
+Pidä pääsi nyt
+Nosta katse, vihasena pysy
+
+[Chorus]
+Lämpöö on (on joo)
+Liikaa jo (joo joo)
+Enemmän (enemmän)
+Kuin luvattiin, miks on näin?
+
+Valoon tuu
+Luonto toipuu
+Ahneus ei jää
+Anna järjen meillä päättää
+
+[Chorus 2]
+liian kuuma nyt jo on -	miks on näin?
+liian kuuma nyt jo on -	miks on näin?
+liian kuuma nyt jo on -	miks on näin?
+liian kuuma nyt jo on -	miks on näin?
+
+[Outro]
+kuumaa on
+kuumaa on
+kuumaa on
+kuumaa on
+
+
+
+
+
+
+
+
+
 [Verse 1]
 En oo nähnyt heitä vuosiin
 En mä kaipaa juttuihin entisiin
