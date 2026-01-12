@@ -23,18 +23,15 @@ Production elements include a slight reverb on the vocals and a balanced mix tha
 
 ## Lyrics (FI)
 ```
-[Intro, puhuttu teksti]
-Suomalainen talvi työntää etelään.
-On rankkaa istua toimistossa ja katsoa neljältä tulevaa hämärää.
-Aurinko ja sininen taivas on saatava takaisin edes viikoksi.
-Harmaa pilvi lehdettömien risujen läpi ei kiinnosta.
-Pienellä budjetilla on hankala paeta
-Työstä voi olla hankala saada tarpeeksi lomaa.
-Kuka pelastaa tästä synkästä kierteestä?
+[Intro instrumental]
+Pääsispä paratiisiin
+(oo-o)
+Pääsispä paratiisiin
+(oo-o)
+(uu-u)
+(uu-u)
 
-[Instrumental]
-
-[Verse 1]
+[Verse 1, male singer]
 Vituttaa jäädä Pohjolaan
 Harmaata pilveä katsomaan
 Mä haluun Intiaan, tai minne vaan
@@ -42,14 +39,16 @@ Paratiisirannalle makaamaan
 Ei oo lomaa
 Huonoon aikaan ne annetaan
 Ei oo niitä tarpeeksikaan
-Enkä voi lopereita ottaa
+Enkä voi ottaa lopereita
 
-[Prechorus (like advertisement)]
+[Prechorus, female singer]
 Mut siel olis uimaranta ja buffet-aamupala
 
-[Chorus]
+[Chorus, duet]
 Pääsispä paratiisiin
-Vaikka Espanjaan tai Kreikkaan
+Vaikka Espanjaan tai Ranskaan
+
+[Chorus, female singer]
 Milloin me lähdetään
 Milloin me lennetään
 Mä en jaksa odottaa
@@ -57,54 +56,57 @@ Lähtö-ä paikkaan parempaan
 
 [Instrumental]
 
-[Verse 2]
+[Verse 2, male singer]
 Äkkilähtö ois halvalla
 Siel on uima-allas ja palmuja
 Allasbaari ja suomalaisia
-Unelmaa kuinka voisin torjua
+En voi unelmaa torjua
 Mut ei pääse
 Perkele että oon jumis taasen
 Pakko saada, pakko päästä
 Yritän muttei tyhjästä säästä
 
-[Prechorus (like advertisement)]
-Mut siel olis uimaranta ja buffet-aamupala
+[Prechorus, female singer]
+Siellä olis uimaranta ja buffet-aamupala
 
-[Chorus]
+[Chorus, duet]
 Pääsispä paratiisiin
-Vaikka Espanjaan tai Kreikkaan
+Vaikka Espanjaan tai Ranskaan
+
+[Chorus, female singer]
 Milloin me lähdetään
 Milloin me lennetään
 Mä en jaksa odottaa
 Lähtö-ä paikkaan parempaan
 
-[Bridge]
-Halaus hiekkarannalla
-Auringonlaskussa
-Mut otan keskikaljan ja vettä sataa
+[Bridge, female singer]
+Mietin hiekkarantoja
+Haluun olla kaukana
+Mut otan keskikaljan ja lunta sataa
 Silti jaksan uskoa unelmaan
 Että siellä kohdataan
 
 [Instrumental]
 
-[Prechorus (like advertisement)]
-Mut siel olis uimaranta ja buffet-aamupala
+[Prechorus, female singer]
+Siellä olis uimaranta ja buffet-aamupala
 
-[Chorus]
+[Chorus, duet]
 Pääsispä paratiisiin
-Vaikka Espanjaan tai Kreikkaan
+Vaikka Espanjaan tai Ranskaan
+
+[Chorus, female singer]
 Milloin me lähdetään
 Milloin me lennetään
 Mä en jaksa odottaa
 Lähtö-ä paikkaan parempaan
 
-[Outro Chorus (long vowels)]
+[Outro Chorus, duet]
 Pääsispä paratiisiin
 Pääsispä paratiisiin
 Milloin me lähdetään
 Milloin me lennetään
 Joko mennään
-Mennään
 
 ```
 
@@ -163,3 +165,10 @@ Title:
 	5. 4+1=5 (B)
 - Instrumental
 - Chorus: same
+
+
+
+
+
+
+Pääsispä paratiisiin 🎤 Aurinkoloma talvella olis kiva 🖋 "Liisa ihmemaassa" henkinen video 🎥​ Alkuperäinen sävellys, mut uudet sanat taas... 💎​Tää 2006 bändi-biisi säilyi GuitarPro tabina. Kappale on 100% käsityötä. 🎛 Video on generoitu Sora AI:lla ja musaa generoitu Suno AI:lla. 👉​S04E14

@@ -40,8 +40,8 @@ The chord progression is relatively simple, primarily using power chords in a mi
 Title: Et tahdo olla mun kaa
 ```
 [Intro]
-Muija luurissa
-Tärkeeks luulispa
+Vaimo luurissa
+Tärkeeks luulis vaan
 Mut toisen haluan
 Liian kamalaa
 Katsoa ja
@@ -53,8 +53,8 @@ En mäkään sun kaa.
 Tää on tässä kulta.
 Hei pärjäile,
 Hei mä nyt lähden,
-Sua kaipaa en,
-Kun et yritä ees
+Sua kaipaa en
+Sua kaipaa en
 
 [Verse 1]
 Liian helppo muistaa on et olis
@@ -63,7 +63,7 @@ Ilman painolastii kauemmaksi
 karkuun kulkea
 
 [Prechorus 1]
-Me kasvetaan erilleen
+Me kasvettiin erilleen
 Ei auta seksi ees
 
 [Chorus]
@@ -73,7 +73,7 @@ Tää on tässä kulta.
 Hei pärjäile,
 Hei mä nyt lähden,
 Sua kaipaa en,
-Kun et yritä ees
+Sua kaipaa en
 
 [Instrumental]
 
@@ -85,7 +85,7 @@ ja pysyy mielessä
 
 [Prechorus 2]
 Paras on takapuoles
-Vain siin on hyvät puoles
+Vain siin on hyvät puolet
 
 [Chorus]
 Et tahdo olla mun kaa.
@@ -94,7 +94,7 @@ Tää on tässä kulta.
 Hei pärjäile,
 Hei mä nyt lähden,
 Sua kaipaa en,
-Kun et yritä ees
+Sua kaipaa en
 
 [Bridge]
 Pehmeet hetket
@@ -102,7 +102,7 @@ Sänkyretket
 Seikkailut ne ja
 Tyhjät kivekset
 On parasta
-Muu ei kelpaa
+Muuta et saa
 En oo velkaa
 Älä kehtaa
 
@@ -114,8 +114,8 @@ En mäkään sun kaa.
 Tää on tässä kulta.
 Hei pärjäile,
 Hei mä nyt lähden,
-Sua kaipaa en,
-Kun et yritä ees
+Sua kaipaa en
+Sua kaipaa en
 
 [Chorus]
 Et tahdo olla mun kaa.
@@ -172,4 +172,9 @@ Title:
 ```
 
 ```
+
+
+
+
+Et tahdo olla mun kaa 🎤 Eka erobiisi monesta... ja tästäkin erosta on monta biisiä vielä tulossa 🖋 Alkuperäinen sävellys ja idea, mut uudet sanat taas... 💎​Tää 2006 bändi-biisi säilyi GuitarPro tabina. Kappale on 100% käsityötä. 🎛 Video on generoitu Sora AI:lla ja musaa generoitu Suno AI:lla. 👉​S04E15
 

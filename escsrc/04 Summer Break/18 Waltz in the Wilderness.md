@@ -14,43 +14,48 @@ City life is pretty fresh here. Even my grandparents still had a farm in the mid
 Title: Vanhal maatilalla
 ```
 [Verse 1]
-Suo vieressä pellon
-Ne isoisän maita olleet on
-Ja navetta punainen pihal
-On eläimittä ollut vuosia
+Suo laidalla pellon
+Nää isoisän maita olleet on
+Nyt tää puna-multainen miljöö
+Sulautuu villiin metsikköön
 
 [Chorus]
 Saunaan vettä mä tuon
 Hiljaisuus ja puut rauhan luo
 
 [Verse 2]
-Maa-kellarin ovi
-Se kylmäkaapin tilalla oli
-Kun aurinko nousi
-Mummu kahvit verannassa keitti
+Tuoksun savuisen tein
+Ei kysy lupaa tarttuessaan se ei
+Vaikka aurinko laskee
+Jää liekki vielä valaiseen
 
 [Chorus]
 Saunaan vettä mä tuon
 Hiljaisuus ja puut rauhan luo
-On löylyt kuin lapsena (aa)
-Rakkaus vanhalla maatilalla
+On löylyt kuin lapsena (lapsena)
+On rakkaus vanhalla maatilalla
 
 [Instrumental]
 
 [Verse 3]
-Heitän vielä mä tikkaa
-Kilpailijat vain on taivaassa 
-Muistoissa mun ne elää
-Menneet ajat mua lämmittää
+Tää maa ei anna, se ottaa
+Se osaamal ansaitaan
+Mä avaimen pöydälle laitan
+Ostajaa odottamaan
 
 [Chorus]
 Saunaan vettä mä tuon
 Hiljaisuus ja puut rauhan luo
-On löylyt kuin lapsena (aa)
-Rakkaus vanhalla maatilalla
+On löylyt kuin lapsena (lapsena)
+On rakkaus vanhalla maatilalla
+Saunaan vettä mä tuon
+Hiljaisuus ja puut rauhan luo
+On löylyt kuin lapsena (lapsena)
+On rakkaus vanhalla maatilalla
 
 [Outro]
-Rakkaus vanhalla maatilalla
+On rakkaus vanhalla maatilalla
+
 
 ```
 

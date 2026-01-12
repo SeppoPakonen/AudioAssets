@@ -52,14 +52,15 @@ Taas sulle joudun hävii-mään
 Kun mun vahvuus sai sut itkemään
 Mä oon vain vieras teidän talos
 kun sua vastaan pelaan
-Mut on mun maine aina vaarassa pilaantua
+Mun voitto olis liikaa
+itkun päälle en mä kehtaa
 Miks et nää ittees peilistä?
 En voi katsoo kun häviät
 
 [Chorus]
 En tuu, mä enää vastaan
 Maailmassa ei itkul voiteta
-Sä vain vaadit muilta liikaa
+Hei sä vaadit muilta liikaa
 Ja sun ylpeys kunniaa varastaa
 
 [Verse 2]
@@ -75,11 +76,11 @@ Ei pelii uutta oteta
 [Chorus]
 En tuu, mä enää vastaan
 Maailmassa ei itkul voiteta
-Sä vain vaadit mmuilta liikaa
+Hei sä vaadit muilta liikaa
 Ja sun ylpeys kunniaa varastaa
 En tuu, mä enää vastaan
 Maailmassa ei itkul voiteta
-Sä vain vaadit muilta liikaa
+Hei sä vaadit muilta liikaa
 Ja sun ylpeys kunniaa varastaa
 En tuu, mä enää vastaan
 En tuu (En tuu) Sä vaadit liikaa
@@ -123,3 +124,10 @@ Each time I must, lose to, save your pride now.
 
 [Instrumental]
 ```
+
+
+
+
+
+Ei itkul voiteta 🎤 Kaikki on joutuneet tahalleen häviämään jollekkin. 🖋 Hyvin alkuperäinen sävellys mutta piti kirjottaa sanoitukset uusiks kuten aina... 💎​Tämä 2006 biisi säilyi GuitarPro tabulatuurina ja tää on varmaan eka trioli tai shuffle -biitti minkä tein koskaan. Kappale on täysin 100% käsin itse sävelletty, sanoitettu ja sovitettu, mutta osittain tuotettu Suno AI:lla. 🎛 Video on generoitu Sora AI:lla. 👉​S04E13 
+
