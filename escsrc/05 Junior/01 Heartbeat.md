@@ -32,79 +32,103 @@ Title: Sydämen asialla
 
 Title: Sydämen asialla
 ```
-[Chorus: female singing]
-En tahtonut tapella, tahdo erota
-En kuvitellut koskaan tän loppuvan
-En tahtonut sua rikkoo, tehdä meille näin,
-mut vaik kuinka rakastaakin toinen toistaan jälleen satuttaa
+[Instrumental intro, piano]
+(mm-mm)
+(aa-aa)
 
-[Verse 1: male rapping]
-Anteeks kulta, et oon ollu offline
-Ollu kiireist, rankkaa, oon nukkunu vain
-Mul on ikävä sua ja haluun sut tänne,
-Voitas makaa rannal ku yllä loistaa tähdet
-Sä oisit lämmin taas mun sylissä
-Vannoisin varmaa jo pysyy ylä ja ala mäissä
-Ei oo aikaa tarpeeks, pois mut vie ne
-Suudelmat meijän on vaa muistois mielen
-Takerrun menneseen kosketukseen
-kun halitaan ja sua suutelen
-On ilta, 
-.a.sdas.dadsasd
+[Chorus, female singing]
+En tahtonut tapella
+Tahdo erota
+En kuvitellut koskaan tään
+Loppuvan
+En tahtonut sua rikkoo
+Tehdä meille näin
+Mut vaik kuinka rakastaakin toinen toistaan
+Jälleen satuttaa
 
+[Verse 1, male rapping]
+Meidän piti selvii kaikest ja pysyy yhes aina
+mut jotain puuttui myös päivinä parhaina
+Mun järki sanoo yhtä ja tunteet toista
+Enkä muista hetkee kun tunteet alko oleen poissa
+Mä mietin sua taas, mietin vaik en halua
+Se helpottaa vaik syyllisyys painaa mun oloa
+Oon yrittänyt ollaa ookoo, ja esittää vahvaa
+Mut tajuun nyt vasta, et pysytään erossa
 
-Kun ilta tummuu, ja kuulen vain sut,
-kun kuu loistaa suhun ja hikeen kastut
-Kai molemmat yritti liian vähän
-koska tultiin tähän eikä tarpeeks nähä
-Kohta vielä palaan taas, kulta tule vastaan
-Ollaan vielä viisaampii, et voidaan taas rakastaa
+[Verse 2, male rapping]
+Shokki meni ohi, ja mietin omii tekoi
+Mä en voi sun piikkii laittaa sitä mitä sanoin
+Mun hiljaisuus vääril hetkil kipuu toi
+Uudelleen toistui, kun virhettä en myöntää voi
+Vaikka välitin mä näytin sen vain huonosti
+Eikä aikomus auta jos se satuttaa silti
+Kai mä halusin enemmän rauhaa kuin rakkautta (rakkautta)
+ja tää on seurausta
 
-[Chorus: female singing]
-En tahtonut tapella, tahdo erota,
-En kuvitellut koskaan tän loppuvan,
-En tahtonut sua rikkoo, tehdä meille näin,
-mut vaik kuinka rakastaakin toinen toistaan jälleen satuttaa
+[Chorus, female singing]
+En tahtonut tapella
+Tahdo erota
+En kuvitellut koskaan tään
+Loppuvan
+En tahtonut sua rikkoo
+Tehdä meille näin
+Mut vaik kuinka rakastaakin toinen toistaan
+Jälleen satuttaa
 
-[Verse 2: male rapping]
-Tuntu niinku tarvitsin jonkun toisen
-Nimes unohtuu ja muihin nimiin sen sotken
-Kun mä viimeks lähin ovet paukkuen
-Tuli vastaan nainen uutta toivoo huokuen
-Mä torjuin iloiset tunteet, mut meidän
-Katseet kun kohtas katos murheet
-Miten tunteen sammutan? En tiiä, mutta
-Otteeseen mut se saa, en kiellä
-Mä pelkään sitä taas et ihastun
-Tai et rakastun ja petyn enkä palaudu
-En haluu rakastuu toiseen joka heti jättää
-Aika on arvokasta kahestaan viettää
-Enkä haluu yksinään tunnevuoristorataan,
-Mut sen kyllä kestää kun voin kaiken sulle jakaa
-En sulle tunnusta, että oot mun ainoa,
-Jos sä tahot niin, huomaat olevas mun vaimona
+[Verse 3, male rapping]
+Ikävä ei oo nyt mutta takas se aaltoilee
+kun muistan hyvät hetket muiston kullastuneen
+Mä haluisin jutella, mut sua ei se kiinnosta
+Jäi kesken asiat, sen hyväksyn mut vituttaa
+Tarvii tajuta, et kaipaan ilman tarkotusta
+Pelkään et kannan eron tuskaa ikuista
+En etsi syyllistä, mut haluun selittää
+Ja ymmärrän et jälki jää aina elämään
 
-[Chorus: female singing]
-En tahtonut tapella, tahdo erota
-En kuvitellut koskaan tän loppuvan
-En tahtonut sua rikkoo, tehdä meille näin,
-mut vaik kuinka rakastaakin toinen toistaan jälleen satuttaa
+[Verse 4, male rapping]
+Joo mä aina jotain tarvin ja jotain vältän
+Nyt katon peilikuvaani vähä rehellisempänä
+En lupaa olla parempi, mut vähän tietosempi
+Ja jotkut rajat opin, pysyn hiljaa enkä mieti
+Silti suru valtaa uudestaan, vaik heikompana
+Haluun sänkyyn takas, ilman et erotaan
+Ku en aijo erakoitua, en uusi tappiota
+eikä turhaa tää ollu, näin opitaan
 
-[Bridge: female singing]
-Välil sanoin et mua kaduttaa, tahdoin riidat unohtaa,
-Mut ne säilyy ain sun sisällä, vaik mä en huomaiskaan
-Mä näyttänyt en tarpeeksi, kuinka paljon välitin
-Voin mä olla taas nyt mukava, mitä sillä korjaisin
+[Chorus, female singing]
+En tahtonut tapella
+Tahdo erota
+En kuvitellut koskaan tään
+Loppuvan
+En tahtonut sua rikkoo
+Tehdä meille näin
+Mut vaik kuinka rakastaakin toinen toistaan
+Jälleen satuttaa
 
-[Chorus: female singing]
-En tahtonut tapella, tahdo erota
-En kuvitellut koskaan tän loppuvan
-En tahtonut sua rikkoo, tehdä meille näin,
-mut vaik kuinka rakastaakin toinen toistaan jälleen satuttaa
+[Outro, female singing]
+Sä sanoit et sua kaduttaa
+Tahdoit riidat unohtaa
+Mut ne säilyy ain mun sisällä
+Vaik sä et huomaiskaan
+Sä näyttänyt et tarpeeksi
+Kuinka paljon välitit
+Voit sä olla taas nyt mukava
+Mitä sillä korjaisit
 
-[Outro]
-Satuttaa, aa, aa, aa.
-Vaik kuinka rakastaakin toinen toistaan jälleen satuttaa
+[Chorus, female singing]
+En tahtonut tapella
+Tahdo erota
+En kuvitellut koskaan tään
+Loppuvan
+En tahtonut sua rikkoo
+Tehdä meille näin
+Mut vaik kuinka rakastaakin toinen toistaan
+Jälleen satuttaa
+
+[Outro, female singing]
+satuttaa (aa-aa-aa-aa)
+jälleen satuttaa (mm-mm-mm-mm)
 ```
 
 

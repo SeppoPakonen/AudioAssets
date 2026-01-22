@@ -167,3 +167,8 @@ There are no significant dynamic shifts, maintaining a consistent, subdued inten
 - Verse 3: as verse 1
 - Chorus
 
+
+
+
+## Message
+Rakkaus vanhalla maatilalla 🎤 Tää kertoo "meidän mökistä", jota natsit ei polttaneet sodassa kun se oli liian korvessa, ja jossa oon käynyt koko ikäni 🖋 Alkuperäinen sävellys ja vähän sanojakin, mut loppuun piti kirjoittaa lähes täysin... 💎​Tää 2006 bändi-biisi muistuttaa mun "nothing else matters" aikakaudesta. Biisi säilyi GuitarPro tabina. Kappale on 100% käsityötä. 🎛 Video on generoitu Sora AI:lla ja musaa generoitu Suno AI:lla. 👉​S04E16
