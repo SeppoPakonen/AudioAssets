@@ -249,10 +249,42 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
 
         elif name == "dump_project":
             project = manager.load_project(arguments["filepath"])
-            # Using the existing logic for dump would be better, but let's keep it simple for the wrapper
-            # For now, just return a success message or a small part of it
-            result = f"Project: {project.metadata.get('title', 'Untitled')}\n"
-            result += f"Parts: {len(project.song.parts)}, Groups: {len(project.rhyming_groups)}"
+            part_name = arguments.get("part")
+            
+            if part_name:
+                target_part = next((p for p in project.song.parts if p.name == part_name), None)
+                if not target_part:
+                    return [types.TextContent(type="text", text=f"Part '{part_name}' not found in project")]
+
+                result = f"[{target_part.name}]\n"
+                for line_idx, line in enumerate(target_part.lines):
+                    result += f"  {line_idx+1}. {line.original_text}\n"
+                    if line.metadata:
+                        result += f"      Metadata: {line.metadata}\n"
+                    if len(line.alternatives) > 1:
+                        result += "      Alternatives:\n"
+                        for alt_idx, alt in enumerate(line.alternatives[1:], 1):  # Skip original
+                            result += f"        {alt_idx}. {alt.text} [Score: {alt.rhyming_score:.2f}]\n"
+                            if alt.custom_scores:
+                                result += f"            Custom scores: {alt.custom_scores}\n"
+            else:
+                result = f"Project: {project.metadata.get('title', 'Untitled')}\n"
+                result += "=" * 50 + "\n"
+                result += f"\nParts ({len(project.song.parts)}):\n"
+                for p in project.song.parts:
+                    attrs = ', '.join([f"{k}:{v}" for k, v in p.attributes.items()])
+                    attr_str = f" ({attrs})" if attrs else ""
+                    result += f"\n  {p.name}{attr_str}:\n"
+                    for line_idx, line in enumerate(p.lines):
+                        result += f"    {line_idx+1}. {line.original_text}\n"
+                        if len(line.alternatives) > 1:
+                            for alt in line.alternatives[1:]:
+                                result += f"       ~ {alt.text} [Score: {alt.rhyming_score:.2f}]\n"
+
+                if project.rhyming_groups:
+                    result += f"\nRhyming Groups ({len(project.rhyming_groups)}):\n"
+                    for rg in project.rhyming_groups:
+                        result += f"  {rg.group_id} ({rg.group_type.value}): {len(rg.member_lines)} lines\n"
 
         elif name == "remove_line":
             project = manager.load_project(arguments["filepath"])
