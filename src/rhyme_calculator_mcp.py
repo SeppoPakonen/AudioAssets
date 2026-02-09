@@ -258,7 +258,8 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
 
                 result = f"[{target_part.name}]\n"
                 for line_idx, line in enumerate(target_part.lines):
-                    result += f"  {line_idx+1}. {line.original_text}\n"
+                    syl_str = f" [{line.syllable_count} syl]" if line.syllable_count is not None else ""
+                    result += f"  {line_idx+1}. {line.original_text}{syl_str}\n"
                     if line.metadata:
                         result += f"      Metadata: {line.metadata}\n"
                     if len(line.alternatives) > 1:
@@ -276,7 +277,8 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
                     attr_str = f" ({attrs})" if attrs else ""
                     result += f"\n  {p.name}{attr_str}:\n"
                     for line_idx, line in enumerate(p.lines):
-                        result += f"    {line_idx+1}. {line.original_text}\n"
+                        syl_str = f" [{line.syllable_count} syl]" if line.syllable_count is not None else ""
+                        result += f"    {line_idx+1}. {line.original_text}{syl_str}\n"
                         if len(line.alternatives) > 1:
                             for alt in line.alternatives[1:]:
                                 result += f"       ~ {alt.text} [Score: {alt.rhyming_score:.2f}]\n"
