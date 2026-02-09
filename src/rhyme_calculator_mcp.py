@@ -253,11 +253,16 @@ async def list_tools() -> list[types.Tool]:
         ),
         types.Tool(
             name="get_rhymes",
-            description="Find words that rhyme with a given word",
+            description="Find words that rhyme with a given word. Supports end rhymes (perfect), begin rhymes (alliteration), and inline rhymes (assonance).",
             inputSchema={
                 "type": "object",
                 "properties": {
                     "word": {"type": "string", "description": "The word to find rhymes for"},
+                    "rhyme_type": {
+                        "type": "string", 
+                        "description": "Type of rhyme: 'end' (default), 'begin' (alliteration), 'inline' (assonance)",
+                        "enum": ["end", "begin", "inline"]
+                    },
                     "limit": {"type": "integer", "description": "Maximum number of rhymes to return (default 20)"}
                 },
                 "required": ["word"]
@@ -284,6 +289,9 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
 
 3. **Drafting**:
    - Use `get_rhymes` to find English words that fit your rhyme scheme.
+     - `get_rhymes(word="cat", rhyme_type="end")` -> "bat", "hat"
+     - `get_rhymes(word="cat", rhyme_type="begin")` -> "cab", "camera"
+     - `get_rhymes(word="cat", rhyme_type="inline")` -> "black", "back" (Assonance)
    - Use `add_alternative` to translate/write lines in English.
    - Each line should have multiple alternatives to explore options.
 
@@ -436,15 +444,56 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
 
         elif name == "get_rhymes":
             import pronouncing
+            import re
+            
             word = arguments["word"]
             limit = arguments.get("limit", 20)
-            rhymes = pronouncing.rhymes(word)
-            if not rhymes:
-                return [types.TextContent(type="text", text=f"No rhymes found for '{word}'")]
+            rhyme_type = arguments.get("rhyme_type", "end")
             
-            # Sort by length or just return first N
-            result = f"Rhymes for '{word}':\n"
-            result += ", ".join(rhymes[:limit])
+            phones_list = pronouncing.phones_for_word(word)
+            if not phones_list:
+                return [types.TextContent(type="text", text=f"Word '{word}' not found in dictionary.")]
+            
+            phones = phones_list[0] # Use first pronunciation
+            rhymes = []
+            
+            if rhyme_type == "end":
+                # Perfect rhymes
+                rhymes = pronouncing.rhymes(word)
+            
+            elif rhyme_type == "begin":
+                # Alliteration: Match start phones
+                # Get first phoneme
+                first_phone = phones.split()[0]
+                # Search for words starting with this phoneme
+                # Pattern: ^PHONE ...
+                rhymes = pronouncing.search(f"^{first_phone}")
+                
+            elif rhyme_type == "inline":
+                # Assonance: Match stressed vowel
+                # Extract stressed vowel (has number 1 or 2 usually)
+                vowels = [p for p in phones.split() if any(char.isdigit() for char in p)]
+                if vowels:
+                    stressed_vowel = vowels[0] # Primary
+                    # Search for words containing this vowel
+                    rhymes = pronouncing.search(f"{stressed_vowel}")
+                else:
+                    return [types.TextContent(type="text", text=f"Could not identify stressed vowel in '{word}' for inline rhyme.")]
+            
+            if not rhymes:
+                return [types.TextContent(type="text", text=f"No {rhyme_type} rhymes found for '{word}'")]
+            
+            # Simple filtering: remove words starting with apostrophe if possible (often slang/'cause)
+            # and short abbreviations if they look weird, though hard to know what's weird.
+            filtered = [r for r in rhymes if not r.startswith("'")]
+            
+            # If we filtered everything, revert to original
+            if not filtered and rhymes:
+                filtered = rhymes
+                
+            # Limit and format
+            result = f"{rhyme_type.capitalize()} rhymes for '{word}':\n"
+            result += ", ".join(filtered[:limit])
             return [types.TextContent(type="text", text=result)]
 
         elif name == "get_line_context":
