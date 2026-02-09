@@ -250,6 +250,18 @@ async def list_tools() -> list[types.Tool]:
                 },
                 "required": ["filepath"]
             }
+        ),
+        types.Tool(
+            name="get_rhymes",
+            description="Find words that rhyme with a given word",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "word": {"type": "string", "description": "The word to find rhymes for"},
+                    "limit": {"type": "integer", "description": "Maximum number of rhymes to return (default 20)"}
+                },
+                "required": ["word"]
+            }
         )
     ]
 
@@ -271,6 +283,7 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
      - A line can belong to multiple groups (End, Begin, Inline).
 
 3. **Drafting**:
+   - Use `get_rhymes` to find English words that fit your rhyme scheme.
    - Use `add_alternative` to translate/write lines in English.
    - Each line should have multiple alternatives to explore options.
 
@@ -420,6 +433,19 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             for w in worst:
                 res += f"  {w['score']:.2f} - {w['part']}:{w['index']+1} [{w['text']}]\n"
             return [types.TextContent(type="text", text=res)]
+
+        elif name == "get_rhymes":
+            import pronouncing
+            word = arguments["word"]
+            limit = arguments.get("limit", 20)
+            rhymes = pronouncing.rhymes(word)
+            if not rhymes:
+                return [types.TextContent(type="text", text=f"No rhymes found for '{word}'")]
+            
+            # Sort by length or just return first N
+            result = f"Rhymes for '{word}':\n"
+            result += ", ".join(rhymes[:limit])
+            return [types.TextContent(type="text", text=result)]
 
         elif name == "get_line_context":
             project = manager.load_project(arguments["filepath"])
