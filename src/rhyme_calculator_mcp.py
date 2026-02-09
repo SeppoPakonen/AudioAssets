@@ -238,6 +238,18 @@ async def list_tools() -> list[types.Tool]:
                 },
                 "required": ["filepath"]
             }
+        ),
+        types.Tool(
+            name="get_worst_lines",
+            description="Get lines with the lowest rhyming scores",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "filepath": {"type": "string", "description": "Path to the project file"},
+                    "limit": {"type": "integer", "description": "Number of lines to return (default 5)"}
+                },
+                "required": ["filepath"]
+            }
         )
     ]
 
@@ -249,27 +261,28 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             tutorial_text = """# Rhyme Calculator Workflow Tutorial
 
 1. **Setup**:
-   - It is expected that you have already provided the original lyrics.
+   - It is expected that you have already provided the original lyrics (e.g. in Finnish).
    - Use `create_project` to start.
    - Use `add_part` and `add_line` to input original lyrics.
 
 2. **Structure**:
-   - Analyze original lyrics to set `syllable_count` for each line (using `add_line` or update metadata).
+   - Analyze original lyrics to set `syllable_count` for each line.
    - Define `RhymingGroup`s (e.g., AABB) using `define_rhyming_group`.
      - A line can belong to multiple groups (End, Begin, Inline).
 
 3. **Drafting**:
-   - Use `add_alternative` to translate/write lines.
+   - Use `add_alternative` to translate/write lines in English.
    - Each line should have multiple alternatives to explore options.
 
 4. **Analysis**:
    - Use `get_line_context` to see a line's peers in rhyming groups.
-   - Use `evaluate_rhyme_quality` to see how well lines rhyme with *each other* in their groups.
-   - Use `set_alternative_custom_score` to tag qualities (e.g., "roughness", "flow").
+   - Use `calculate_scores` to evaluate how well each alternative rhymes with its peers in the same groups.
+   - Use `evaluate_rhyme_quality` for a group-level report.
+   - Use `set_alternative_custom_score` to tag qualities (e.g., "roughness: 4.5").
    - Use `set_song_targets` to define goals for the song.
 
 5. **Optimization**:
-   - Use `calculate_scores` to check basic fidelity/syllables.
+   - Use `get_worst_lines` to identify which lines need improvement.
    - Use `generate_combination` to find the best set of alternatives that maximize Rhyme + Custom Scores based on your weights.
 """
             return [types.TextContent(type="text", text=tutorial_text)]
@@ -343,25 +356,70 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
 
         elif name == "calculate_scores":
             project = manager.load_project(arguments["filepath"])
-            # Basic score: Syllable match + Original Text fidelity (optional usage)
+            # Calculate rhyming score for each alternative based on its groups
             for part in project.song.parts:
                 for line_idx, line in enumerate(part.lines):
                     if line.skip_translation: continue
-                    target_syl = line.syllable_count
+                    
+                    # Find groups this line belongs to
+                    line_groups = [rg for rg in project.rhyming_groups if any(m['part_name'] == part.name and m['line_position'] == line_idx for m in rg.member_lines)]
                     
                     for alt in line.alternatives:
-                        # Syllable Score (Distance)
-                        # We don't have a syllable counter in engine yet, assuming manual input or user estimation
-                        # For now, we preserve existing logic: check vs Original Text for "Rhyme" (Fidelity)
-                        # But we should really be checking Syllables if possible.
+                        if alt.text == line.original_text and alt.is_final and len(line.alternatives) > 1:
+                            continue # Don't score original if alternatives exist
                         
-                        rhyme_types = [RhymingType.END_RHYME] # Default check vs original
-                        # Calculate fidelity score
-                        fidelity = engine.calculate_total_score(line.original_text, alt.text, rhyme_types)
-                        alt.rhyming_score = fidelity
+                        group_scores = []
+                        for rg in line_groups:
+                            # Compare with peers in the group
+                            peer_texts = []
+                            for m in rg.member_lines:
+                                if m['part_name'] == part.name and m['line_position'] == line_idx: continue
+                                p_ref = next((p for p in project.song.parts if p.name == m['part_name']), None)
+                                if p_ref and m['line_position'] < len(p_ref.lines):
+                                    l_ref = p_ref.lines[m['line_position']]
+                                    # Use latest alternative of peer
+                                    peer_text = l_ref.alternatives[-1].text if l_ref.alternatives else l_ref.original_text
+                                    peer_texts.append(peer_text)
+                            
+                            if not peer_texts: continue
+                            
+                            # Average rhyme with peers
+                            s_sum = 0
+                            for pt in peer_texts:
+                                if rg.group_type == RhymingType.END_RHYME:
+                                    s_sum += engine.calculate_end_rhyme_score(alt.text, pt)
+                                elif rg.group_type == RhymingType.BEGIN_RHYME:
+                                    s_sum += engine.calculate_begin_rhyme_score(alt.text, pt)
+                                else:
+                                    s_sum += engine.calculate_inline_rhyme_score(alt.text, pt)
+                            group_scores.append(s_sum / len(peer_texts))
+                        
+                        alt.rhyming_score = sum(group_scores) / len(group_scores) if group_scores else 0.0
             
             manager.save_project(project, arguments["filepath"])
-            result = "Calculated basic fidelity scores. Use evaluate_rhyme_quality for group rhyming."
+            result = "Calculated rhyming scores based on group peers."
+
+        elif name == "get_worst_lines":
+            project = manager.load_project(arguments["filepath"])
+            limit = arguments.get("limit", 5)
+            all_lines = []
+            for part in project.song.parts:
+                for line_idx, line in enumerate(part.lines):
+                    if line.skip_translation: continue
+                    # Use the rhyming score of the latest alternative
+                    score = line.alternatives[-1].rhyming_score if line.alternatives else 0.0
+                    all_lines.append({
+                        "part": part.name,
+                        "index": line_idx,
+                        "text": line.alternatives[-1].text if line.alternatives else line.original_text,
+                        "score": score
+                    })
+            
+            worst = sorted(all_lines, key=lambda x: x["score"])[:limit]
+            res = "Worst Rhyming Lines:\n"
+            for w in worst:
+                res += f"  {w['score']:.2f} - {w['part']}:{w['index']+1} [{w['text']}]\n"
+            return [types.TextContent(type="text", text=res)]
 
         elif name == "get_line_context":
             project = manager.load_project(arguments["filepath"])
