@@ -483,17 +483,9 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             if not rhymes:
                 return [types.TextContent(type="text", text=f"No {rhyme_type} rhymes found for '{word}'")]
             
-            # Simple filtering: remove words starting with apostrophe if possible (often slang/'cause)
-            # and short abbreviations if they look weird, though hard to know what's weird.
-            filtered = [r for r in rhymes if not r.startswith("'")]
-            
-            # If we filtered everything, revert to original
-            if not filtered and rhymes:
-                filtered = rhymes
-                
             # Limit and format
             result = f"{rhyme_type.capitalize()} rhymes for '{word}':\n"
-            result += ", ".join(filtered[:limit])
+            result += ", ".join(rhymes[:limit])
             return [types.TextContent(type="text", text=result)]
 
         elif name == "get_line_context":
