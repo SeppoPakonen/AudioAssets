@@ -7,6 +7,7 @@ This script creates an MCP server using the low-level Server class.
 import sys
 import warnings
 import asyncio
+import random
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -36,6 +37,14 @@ app = Server("rhyme-calculator")
 async def list_tools() -> list[types.Tool]:
     """List all available tools."""
     return [
+        types.Tool(
+            name="tutorial",
+            description="Get a tutorial on how to use the Rhyme Calculator workflow",
+            inputSchema={
+                "type": "object",
+                "properties": {},
+            }
+        ),
         types.Tool(
             name="create_project",
             description="Create a new rhyme calculator project",
@@ -118,6 +127,34 @@ async def list_tools() -> list[types.Tool]:
             }
         ),
         types.Tool(
+            name="set_song_targets",
+            description="Set target values for song quality metrics (e.g. roughness: 4.5)",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "filepath": {"type": "string", "description": "Path to the project file"},
+                    "targets": {"type": "object", "description": "Target score values (e.g. {'roughness': 4.5})"}
+                },
+                "required": ["filepath", "targets"]
+            }
+        ),
+        types.Tool(
+            name="set_alternative_custom_score",
+            description="Set a custom score for a specific alternative",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "filepath": {"type": "string", "description": "Path to the project file"},
+                    "part": {"type": "string", "description": "Name of the part"},
+                    "line_index": {"type": "integer", "description": "Index of the line in the part"},
+                    "alt_index": {"type": "integer", "description": "Index of the alternative in the line"},
+                    "score_name": {"type": "string", "description": "Name of the custom score"},
+                    "score_value": {"type": "number", "description": "Value of the custom score"}
+                },
+                "required": ["filepath", "part", "line_index", "alt_index", "score_name", "score_value"]
+            }
+        ),
+        types.Tool(
             name="calculate_scores",
             description="Calculate rhyming scores for all alternatives",
             inputSchema={
@@ -164,6 +201,43 @@ async def list_tools() -> list[types.Tool]:
                 },
                 "required": ["filepath", "part", "line_index"]
             }
+        ),
+        types.Tool(
+            name="get_line_context",
+            description="Get context for a line, including rhyming groups and related lines",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "filepath": {"type": "string", "description": "Path to the project file"},
+                    "part": {"type": "string", "description": "Name of the part"},
+                    "line_index": {"type": "integer", "description": "Index of the line"}
+                },
+                "required": ["filepath", "part", "line_index"]
+            }
+        ),
+        types.Tool(
+            name="evaluate_rhyme_quality",
+            description="Evaluate the actual rhyming quality between lines in groups based on selected alternatives",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "filepath": {"type": "string", "description": "Path to the project file"}
+                },
+                "required": ["filepath"]
+            }
+        ),
+        types.Tool(
+            name="generate_combination",
+            description="Generate a combination of alternatives aiming for high scores",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "filepath": {"type": "string", "description": "Path to the project file"},
+                    "weights": {"type": "object", "description": "Weights for scores (e.g. {'rhyme': 1.0, 'roughness': 0.5})"},
+                    "count": {"type": "integer", "description": "Number of iterations (default 100)"}
+                },
+                "required": ["filepath"]
+            }
         )
     ]
 
@@ -171,7 +245,36 @@ async def list_tools() -> list[types.Tool]:
 async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
     """Execute a tool with the given arguments."""
     try:
-        if name == "create_project":
+        if name == "tutorial":
+            tutorial_text = """# Rhyme Calculator Workflow Tutorial
+
+1. **Setup**:
+   - It is expected that you have already provided the original lyrics.
+   - Use `create_project` to start.
+   - Use `add_part` and `add_line` to input original lyrics.
+
+2. **Structure**:
+   - Analyze original lyrics to set `syllable_count` for each line (using `add_line` or update metadata).
+   - Define `RhymingGroup`s (e.g., AABB) using `define_rhyming_group`.
+     - A line can belong to multiple groups (End, Begin, Inline).
+
+3. **Drafting**:
+   - Use `add_alternative` to translate/write lines.
+   - Each line should have multiple alternatives to explore options.
+
+4. **Analysis**:
+   - Use `get_line_context` to see a line's peers in rhyming groups.
+   - Use `evaluate_rhyme_quality` to see how well lines rhyme with *each other* in their groups.
+   - Use `set_alternative_custom_score` to tag qualities (e.g., "roughness", "flow").
+   - Use `set_song_targets` to define goals for the song.
+
+5. **Optimization**:
+   - Use `calculate_scores` to check basic fidelity/syllables.
+   - Use `generate_combination` to find the best set of alternatives that maximize Rhyme + Custom Scores based on your weights.
+"""
+            return [types.TextContent(type="text", text=tutorial_text)]
+
+        elif name == "create_project":
             project = manager.create_new_project(arguments["title"], **arguments.get("metadata", {}))
             manager.save_project(project, arguments["filepath"])
             result = f"Created project: {arguments['filepath']}"
@@ -218,26 +321,207 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             manager.save_project(project, arguments["filepath"])
             result = f"Defined rhyming group '{arguments['group_id']}' with {len(arguments['member_lines'])} member lines"
 
+        elif name == "set_song_targets":
+            project = manager.load_project(arguments["filepath"])
+            if "targets" not in project.metadata:
+                project.metadata["targets"] = {}
+            project.metadata["targets"].update(arguments["targets"])
+            manager.save_project(project, arguments["filepath"])
+            result = f"Updated song targets: {project.metadata['targets']}"
+
+        elif name == "set_alternative_custom_score":
+            project = manager.load_project(arguments["filepath"])
+            target_part = next((p for p in project.song.parts if p.name == arguments["part"]), None)
+            if not target_part: return [types.TextContent(type="text", text=f"Part '{arguments['part']}' not found")]
+            if arguments["line_index"] >= len(target_part.lines): return [types.TextContent(type="text", text="Line index out of range")]
+            line = target_part.lines[arguments["line_index"]]
+            if arguments["alt_index"] >= len(line.alternatives): return [types.TextContent(type="text", text="Alt index out of range")]
+            
+            line.alternatives[arguments["alt_index"]].custom_scores[arguments["score_name"]] = arguments["score_value"]
+            manager.save_project(project, arguments["filepath"])
+            result = f"Set {arguments['score_name']}={arguments['score_value']} for {arguments['part']}:{arguments['line_index']} Alt {arguments['alt_index']}"
+
         elif name == "calculate_scores":
             project = manager.load_project(arguments["filepath"])
-            # Simplified score calculation for brevity in this example
-            # In a real scenario, we'd use the engine here as in the previous version
+            # Basic score: Syllable match + Original Text fidelity (optional usage)
             for part in project.song.parts:
                 for line_idx, line in enumerate(part.lines):
-                    if line.skip_translation:
-                        for alt in line.alternatives: alt.rhyming_score = 0.0
-                        continue
-                    original_text = line.original_text
+                    if line.skip_translation: continue
+                    target_syl = line.syllable_count
+                    
                     for alt in line.alternatives:
-                        if alt.text == original_text and alt.is_final: continue
-                        rhyme_types = []
-                        for rg in project.rhyming_groups:
-                            if any(member['part_name'] == part.name and member['line_position'] == line_idx for member in rg.member_lines):
-                                rhyme_types.append(rg.group_type)
-                        if not rhyme_types: rhyme_types = [RhymingType.END_RHYME, RhymingType.BEGIN_RHYME, RhymingType.INLINE_RHYME]
-                        alt.rhyming_score = engine.calculate_total_score(original_text, alt.text, rhyme_types)
+                        # Syllable Score (Distance)
+                        # We don't have a syllable counter in engine yet, assuming manual input or user estimation
+                        # For now, we preserve existing logic: check vs Original Text for "Rhyme" (Fidelity)
+                        # But we should really be checking Syllables if possible.
+                        
+                        rhyme_types = [RhymingType.END_RHYME] # Default check vs original
+                        # Calculate fidelity score
+                        fidelity = engine.calculate_total_score(line.original_text, alt.text, rhyme_types)
+                        alt.rhyming_score = fidelity
+            
             manager.save_project(project, arguments["filepath"])
-            result = "Calculated rhyming scores for all alternatives"
+            result = "Calculated basic fidelity scores. Use evaluate_rhyme_quality for group rhyming."
+
+        elif name == "get_line_context":
+            project = manager.load_project(arguments["filepath"])
+            part_name = arguments["part"]
+            idx = arguments["line_index"]
+            target_part = next((p for p in project.song.parts if p.name == part_name), None)
+            if not target_part or idx >= len(target_part.lines):
+                return [types.TextContent(type="text", text="Line not found")]
+            
+            line = target_part.lines[idx]
+            context = f"Line Context: {part_name}:{idx+1}\n"
+            context += f"Original: {line.original_text} (Syl: {line.syllable_count})\n"
+            context += f"Groups: {', '.join(line.rhyming_groups)}\n"
+            
+            context += "Related Lines:\n"
+            for rg in project.rhyming_groups:
+                if any(m['part_name'] == part_name and m['line_position'] == idx for m in rg.member_lines):
+                    context += f"  Group {rg.group_id} ({rg.group_type.value}):\n"
+                    for m in rg.member_lines:
+                        if m['part_name'] == part_name and m['line_position'] == idx: continue
+                        p_ref = next((p for p in project.song.parts if p.name == m['part_name']), None)
+                        if p_ref and m['line_position'] < len(p_ref.lines):
+                            l_ref = p_ref.lines[m['line_position']]
+                            context += f"    - {m['part_name']}:{m['line_position']+1} [{l_ref.original_text}]\n"
+            
+            return [types.TextContent(type="text", text=context)]
+
+        elif name == "evaluate_rhyme_quality":
+            project = manager.load_project(arguments["filepath"])
+            report = "Rhyme Group Quality Report (Based on selected/first alternatives):\n"
+            
+            total_group_score = 0
+            group_count = 0
+            
+            for rg in project.rhyming_groups:
+                lines_text = []
+                for m in rg.member_lines:
+                    p = next((p for p in project.song.parts if p.name == m['part_name']), None)
+                    if p and m['line_position'] < len(p.lines):
+                        # Get first alternative (or 'selected' if we had that concept, defaulting to index 1 or 0)
+                        # Typically index 0 is original, index 1 is first translation.
+                        # We'll use the *last added* alternative or check 'is_final'? 
+                        # Let's use the last one for "current draft" logic or index 1.
+                        line = p.lines[m['line_position']]
+                        if len(line.alternatives) > 1:
+                            txt = line.alternatives[-1].text # Use latest draft
+                        else:
+                            txt = line.original_text
+                        lines_text.append(txt)
+                
+                # Pairwise score
+                if len(lines_text) < 2: continue
+                
+                g_score = 0
+                pairs = 0
+                for i in range(len(lines_text)):
+                    for j in range(i+1, len(lines_text)):
+                        # Use engine
+                        if rg.group_type == RhymingType.END_RHYME:
+                            s = engine.calculate_end_rhyme_score(lines_text[i], lines_text[j])
+                        elif rg.group_type == RhymingType.BEGIN_RHYME:
+                            s = engine.calculate_begin_rhyme_score(lines_text[i], lines_text[j])
+                        else:
+                            s = engine.calculate_inline_rhyme_score(lines_text[i], lines_text[j])
+                        g_score += s
+                        pairs += 1
+                
+                avg_g_score = g_score / pairs if pairs > 0 else 0
+                report += f"  Group {rg.group_id} ({rg.group_type.value}): Score {avg_g_score:.2f} ({', '.join([t[:10] for t in lines_text])})\n"
+                total_group_score += avg_g_score
+                group_count += 1
+                
+            report += f"\nOverall Rhyme Quality: {total_group_score/group_count:.2f}" if group_count else "\nNo groups scored."
+            return [types.TextContent(type="text", text=report)]
+
+        elif name == "generate_combination":
+            project = manager.load_project(arguments["filepath"])
+            weights = arguments.get("weights", {"rhyme": 1.0})
+            iterations = arguments.get("count", 100)
+            
+            # Helper to get active text for a "genome" (set of alt indices)
+            def get_text(genome, p_name, l_idx):
+                key = f"{p_name}:{l_idx}"
+                alt_idx = genome.get(key, 0) # Default to 0 (Original)
+                target_p = next((p for p in project.song.parts if p.name == p_name), None)
+                if not target_p or l_idx >= len(target_p.lines): return ""
+                if alt_idx >= len(target_p.lines[l_idx].alternatives): return ""
+                return target_p.lines[l_idx].alternatives[alt_idx].text
+
+            def get_custom_score(genome, key_score):
+                total = 0
+                count = 0
+                for part in project.song.parts:
+                    for l_idx, line in enumerate(part.lines):
+                        idx = genome.get(f"{part.name}:{l_idx}", 0)
+                        if idx < len(line.alternatives):
+                            val = line.alternatives[idx].custom_scores.get(key_score, 0)
+                            total += val
+                            count += 1
+                return total / count if count else 0
+
+            def calculate_fitness(genome):
+                score = 0
+                # Rhyme Score
+                if "rhyme" in weights:
+                    r_total = 0
+                    r_count = 0
+                    for rg in project.rhyming_groups:
+                        txts = [get_text(genome, m['part_name'], m['line_position']) for m in rg.member_lines]
+                        if len(txts) < 2: continue
+                        g_s = 0
+                        p_s = 0
+                        for i in range(len(txts)):
+                            for j in range(i+1, len(txts)):
+                                if rg.group_type == RhymingType.END_RHYME:
+                                    g_s += engine.calculate_end_rhyme_score(txts[i], txts[j])
+                                elif rg.group_type == RhymingType.BEGIN_RHYME:
+                                    g_s += engine.calculate_begin_rhyme_score(txts[i], txts[j])
+                                else:
+                                    g_s += engine.calculate_inline_rhyme_score(txts[i], txts[j])
+                                p_s += 1
+                        if p_s: r_total += g_s/p_s
+                        r_count += 1
+                    if r_count: score += (r_total/r_count) * weights["rhyme"]
+
+                # Custom Scores
+                for k, w in weights.items():
+                    if k != "rhyme":
+                        score += get_custom_score(genome, k) * w
+                return score
+
+            # Simple Random Search (Monte Carlo)
+            best_genome = {}
+            best_score = -1.0
+            
+            # Initialize random genome
+            structure = {}
+            for part in project.song.parts:
+                for l_idx, line in enumerate(part.lines):
+                    # Only pick from created alternatives (skip 0/original usually if we have alts)
+                    count_alts = len(line.alternatives)
+                    if count_alts > 1:
+                        structure[f"{part.name}:{l_idx}"] = range(1, count_alts) # Exclude original
+                    else:
+                        structure[f"{part.name}:{l_idx}"] = [0]
+
+            for _ in range(iterations):
+                current_genome = {k: random.choice(v) for k, v in structure.items()}
+                fitness = calculate_fitness(current_genome)
+                if fitness > best_score:
+                    best_score = fitness
+                    best_genome = current_genome
+            
+            result = f"Best Combination Found (Score: {best_score:.2f}):\n"
+            for k, alt_idx in best_genome.items():
+                p_name, l_idx = k.split(":")
+                txt = get_text(best_genome, p_name, int(l_idx))
+                result += f"  {k}: {txt} (Alt {alt_idx})\n"
+            
+            return [types.TextContent(type="text", text=result)]
 
         elif name == "get_part_score":
             project = manager.load_project(arguments["filepath"])
