@@ -253,7 +253,7 @@ async def list_tools() -> list[types.Tool]:
         ),
         types.Tool(
             name="get_rhymes",
-            description="Find words that rhyme with a given word. Supports end rhymes (perfect), begin rhymes (alliteration), and inline rhymes (assonance).",
+            description="Find words that rhyme with a given word. Use this to improve the rhyming score of your alternatives. Supports end rhymes (perfect), begin rhymes (alliteration), and inline rhymes (assonance).",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -266,6 +266,32 @@ async def list_tools() -> list[types.Tool]:
                     "limit": {"type": "integer", "description": "Maximum number of rhymes to return (default 20)"}
                 },
                 "required": ["word"]
+            }
+        ),
+        types.Tool(
+            name="set_active_alternative",
+            description="Set a specific alternative as the 'active' (final) choice for a line.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "filepath": {"type": "string", "description": "Path to the project file"},
+                    "part": {"type": "string", "description": "Name of the part"},
+                    "line_index": {"type": "integer", "description": "Index of the line (0-based)"},
+                    "alt_index": {"type": "integer", "description": "Index of the alternative"}
+                },
+                "required": ["filepath", "part", "line_index", "alt_index"]
+            }
+        ),
+        types.Tool(
+            name="apply_combination",
+            description="Apply a generated combination, making its selections the 'active' ones for the project.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "filepath": {"type": "string", "description": "Path to the project file"},
+                    "combination_id": {"type": "string", "description": "ID of the combination to apply"}
+                },
+                "required": ["filepath", "combination_id"]
             }
         )
     ]
@@ -288,23 +314,23 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
      - A line can belong to multiple groups (End, Begin, Inline).
 
 3. **Drafting**:
-   - Use `get_rhymes` to find English words that fit your rhyme scheme.
-     - `get_rhymes(word="cat", rhyme_type="end")` -> "bat", "hat"
-     - `get_rhymes(word="cat", rhyme_type="begin")` -> "cab", "camera"
-     - `get_rhymes(word="cat", rhyme_type="inline")` -> "black", "back" (Assonance)
+   - Use `get_rhymes` to find English words that fit your rhyme scheme and **improve your rhyming scores**.
    - Use `add_alternative` to translate/write lines in English.
-   - Each line should have multiple alternatives to explore options.
+   - Use `set_active_alternative` to pick which draft you currently want to use.
+   - **Songwriting Rules**:
+     - **Avoid Repetition**: Avoid using the same words twice in a song, unless it is a deliberate repetition for effect.
+     - **Forbidden Words**: Avoid using the word "now".
 
 4. **Analysis**:
    - Use `get_line_context` to see a line's peers in rhyming groups.
-   - Use `calculate_scores` to evaluate how well each alternative rhymes with its peers in the same groups.
-   - Use `evaluate_rhyme_quality` for a group-level report.
+   - Use `calculate_scores` to evaluate alternatives against the **currently active** peers.
+   - Use `evaluate_rhyme_quality` for a group-level report of the **active** song version.
    - Use `set_alternative_custom_score` to tag qualities (e.g., "roughness: 4.5").
    - Use `set_song_targets` to define goals for the song.
 
 5. **Optimization**:
-   - Use `get_worst_lines` to identify which lines need improvement.
-   - Use `generate_combination` to find the best set of alternatives that maximize Rhyme + Custom Scores based on your weights.
+   - Use `generate_combination` to find the best set of alternatives that maximize Rhyme + Custom Scores.
+   - Use `apply_combination` to make that set the new "active" version of the song.
 """
             return [types.TextContent(type="text", text=tutorial_text)]
 
@@ -342,6 +368,30 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             )
             manager.save_project(project, arguments["filepath"])
             result = f"Added alternative to line {arguments['line_index']} in part '{arguments['part']}'"
+
+        elif name == "set_active_alternative":
+            project = manager.load_project(arguments["filepath"])
+            manager.set_active_alternative(project, arguments["part"], arguments["line_index"], arguments["alt_index"])
+            manager.save_project(project, arguments["filepath"])
+            result = f"Set {arguments['part']}:{arguments['line_index']} Alt {arguments['alt_index']} as active."
+
+        elif name == "apply_combination":
+            project = manager.load_project(arguments["filepath"])
+            combo = next((c for c in project.combinations if c.combination_id == arguments["combination_id"]), None)
+            if not combo: return [types.TextContent(type="text", text="Combination not found")]
+            
+            for key, alt_id in combo.line_selections.items():
+                p_name, l_idx = key.split(":")
+                l_idx = int(l_idx)
+                target_p = next((p for p in project.song.parts if p.name == p_name), None)
+                if target_p and l_idx < len(target_p.lines):
+                    line = target_p.lines[l_idx]
+                    for alt in line.alternatives:
+                        alt.is_final = (alt.id == alt_id)
+            
+            project.active_combination_id = combo.combination_id
+            manager.save_project(project, arguments["filepath"])
+            result = f"Applied combination {arguments['combination_id']} to all lines."
 
         elif name == "define_rhyming_group":
             project = manager.load_project(arguments["filepath"])
@@ -391,20 +441,16 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
                         
                         group_scores = []
                         for rg in line_groups:
-                            # Compare with peers in the group
+                            # Compare with ACTIVE peers in the group
                             peer_texts = []
                             for m in rg.member_lines:
                                 if m['part_name'] == part.name and m['line_position'] == line_idx: continue
-                                p_ref = next((p for p in project.song.parts if p.name == m['part_name']), None)
-                                if p_ref and m['line_position'] < len(p_ref.lines):
-                                    l_ref = p_ref.lines[m['line_position']]
-                                    # Use latest alternative of peer
-                                    peer_text = l_ref.alternatives[-1].text if l_ref.alternatives else l_ref.original_text
-                                    peer_texts.append(peer_text)
+                                txt = manager.get_active_text(project, m['part_name'], m['line_position'])
+                                if txt: peer_texts.append(txt)
                             
                             if not peer_texts: continue
                             
-                            # Average rhyme with peers
+                            # Average rhyme with active peers
                             s_sum = 0
                             for pt in peer_texts:
                                 if rg.group_type == RhymingType.END_RHYME:
@@ -418,7 +464,7 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
                         alt.rhyming_score = sum(group_scores) / len(group_scores) if group_scores else 0.0
             
             manager.save_project(project, arguments["filepath"])
-            result = "Calculated rhyming scores based on group peers."
+            result = "Calculated rhyming scores based on active group peers."
 
         elif name == "get_worst_lines":
             project = manager.load_project(arguments["filepath"])
@@ -427,17 +473,19 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             for part in project.song.parts:
                 for line_idx, line in enumerate(part.lines):
                     if line.skip_translation: continue
-                    # Use the rhyming score of the latest alternative
-                    score = line.alternatives[-1].rhyming_score if line.alternatives else 0.0
+                    # Get the active alternative's score
+                    active_alt = next((a for a in line.alternatives if a.is_final), line.alternatives[-1] if line.alternatives else None)
+                    score = active_alt.rhyming_score if active_alt else 0.0
+                    txt = active_alt.text if active_alt else line.original_text
                     all_lines.append({
                         "part": part.name,
                         "index": line_idx,
-                        "text": line.alternatives[-1].text if line.alternatives else line.original_text,
+                        "text": txt,
                         "score": score
                     })
             
             worst = sorted(all_lines, key=lambda x: x["score"])[:limit]
-            res = "Worst Rhyming Lines:\n"
+            res = "Worst Rhyming Lines (Active Selection):\n"
             for w in worst:
                 res += f"  {w['score']:.2f} - {w['part']}:{w['index']+1} [{w['text']}]\n"
             return [types.TextContent(type="text", text=res)]
@@ -458,24 +506,14 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             rhymes = []
             
             if rhyme_type == "end":
-                # Perfect rhymes
                 rhymes = pronouncing.rhymes(word)
-            
             elif rhyme_type == "begin":
-                # Alliteration: Match start phones
-                # Get first phoneme
                 first_phone = phones.split()[0]
-                # Search for words starting with this phoneme
-                # Pattern: ^PHONE ...
                 rhymes = pronouncing.search(f"^{first_phone}")
-                
             elif rhyme_type == "inline":
-                # Assonance: Match stressed vowel
-                # Extract stressed vowel (has number 1 or 2 usually)
                 vowels = [p for p in phones.split() if any(char.isdigit() for char in p)]
                 if vowels:
-                    stressed_vowel = vowels[0] # Primary
-                    # Search for words containing this vowel
+                    stressed_vowel = vowels[0]
                     rhymes = pronouncing.search(f"{stressed_vowel}")
                 else:
                     return [types.TextContent(type="text", text=f"Could not identify stressed vowel in '{word}' for inline rhyme.")]
@@ -483,7 +521,6 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             if not rhymes:
                 return [types.TextContent(type="text", text=f"No {rhyme_type} rhymes found for '{word}'")]
             
-            # Limit and format
             result = f"{rhyme_type.capitalize()} rhymes for '{word}':\n"
             result += ", ".join(rhymes[:limit])
             return [types.TextContent(type="text", text=result)]
@@ -499,24 +536,23 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             line = target_part.lines[idx]
             context = f"Line Context: {part_name}:{idx+1}\n"
             context += f"Original: {line.original_text} (Syl: {line.syllable_count})\n"
+            context += f"Active Draft: {manager.get_active_text(project, part_name, idx)}\n"
             context += f"Groups: {', '.join(line.rhyming_groups)}\n"
             
-            context += "Related Lines:\n"
+            context += "Related Lines (Active Selections):\n"
             for rg in project.rhyming_groups:
                 if any(m['part_name'] == part_name and m['line_position'] == idx for m in rg.member_lines):
                     context += f"  Group {rg.group_id} ({rg.group_type.value}):\n"
                     for m in rg.member_lines:
                         if m['part_name'] == part_name and m['line_position'] == idx: continue
-                        p_ref = next((p for p in project.song.parts if p.name == m['part_name']), None)
-                        if p_ref and m['line_position'] < len(p_ref.lines):
-                            l_ref = p_ref.lines[m['line_position']]
-                            context += f"    - {m['part_name']}:{m['line_position']+1} [{l_ref.original_text}]\n"
+                        txt = manager.get_active_text(project, m['part_name'], m['line_position'])
+                        context += f"    - {m['part_name']}:{m['line_position']+1} [{txt}]\n"
             
             return [types.TextContent(type="text", text=context)]
 
         elif name == "evaluate_rhyme_quality":
             project = manager.load_project(arguments["filepath"])
-            report = "Rhyme Group Quality Report (Based on selected/first alternatives):\n"
+            report = "Rhyme Group Quality Report (Active Selections):\n"
             
             total_group_score = 0
             group_count = 0
@@ -524,27 +560,15 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             for rg in project.rhyming_groups:
                 lines_text = []
                 for m in rg.member_lines:
-                    p = next((p for p in project.song.parts if p.name == m['part_name']), None)
-                    if p and m['line_position'] < len(p.lines):
-                        # Get first alternative (or 'selected' if we had that concept, defaulting to index 1 or 0)
-                        # Typically index 0 is original, index 1 is first translation.
-                        # We'll use the *last added* alternative or check 'is_final'? 
-                        # Let's use the last one for "current draft" logic or index 1.
-                        line = p.lines[m['line_position']]
-                        if len(line.alternatives) > 1:
-                            txt = line.alternatives[-1].text # Use latest draft
-                        else:
-                            txt = line.original_text
-                        lines_text.append(txt)
+                    txt = manager.get_active_text(project, m['part_name'], m['line_position'])
+                    if txt: lines_text.append(txt)
                 
-                # Pairwise score
                 if len(lines_text) < 2: continue
                 
                 g_score = 0
                 pairs = 0
                 for i in range(len(lines_text)):
                     for j in range(i+1, len(lines_text)):
-                        # Use engine
                         if rg.group_type == RhymingType.END_RHYME:
                             s = engine.calculate_end_rhyme_score(lines_text[i], lines_text[j])
                         elif rg.group_type == RhymingType.BEGIN_RHYME:
@@ -567,94 +591,83 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             weights = arguments.get("weights", {"rhyme": 1.0})
             iterations = arguments.get("count", 100)
             
-            # Helper to get active text for a "genome" (set of alt indices)
-            def get_text(genome, p_name, l_idx):
+            from rhyme_calculator.models import Combination
+            
+            # Helper to get text for a genome
+            def get_text_from_genome(genome, p_name, l_idx):
                 key = f"{p_name}:{l_idx}"
-                alt_idx = genome.get(key, 0) # Default to 0 (Original)
+                alt_idx = genome.get(key, 0)
                 target_p = next((p for p in project.song.parts if p.name == p_name), None)
                 if not target_p or l_idx >= len(target_p.lines): return ""
-                if alt_idx >= len(target_p.lines[l_idx].alternatives): return ""
-                return target_p.lines[l_idx].alternatives[alt_idx].text
+                line = target_p.lines[l_idx]
+                if alt_idx >= len(line.alternatives): return ""
+                return line.alternatives[alt_idx].text
 
-            def get_custom_score(genome, key_score):
-                total = 0
-                count = 0
-                for part in project.song.parts:
-                    for l_idx, line in enumerate(part.lines):
-                        idx = genome.get(f"{part.name}:{l_idx}", 0)
-                        if idx < len(line.alternatives):
-                            val = line.alternatives[idx].custom_scores.get(key_score, 0)
-                            total += val
-                            count += 1
-                return total / count if count else 0
-
-            def calculate_fitness(genome):
-                score = 0
-                # Rhyme Score
+            def get_fitness(genome):
+                fit = 0
+                # Rhyme
                 if "rhyme" in weights:
-                    r_total = 0
-                    r_count = 0
+                    r_tot, r_cnt = 0, 0
                     for rg in project.rhyming_groups:
-                        txts = [get_text(genome, m['part_name'], m['line_position']) for m in rg.member_lines]
+                        txts = [get_text_from_genome(genome, m['part_name'], m['line_position']) for m in rg.member_lines]
                         if len(txts) < 2: continue
-                        g_s = 0
-                        p_s = 0
+                        g_s, p_s = 0, 0
                         for i in range(len(txts)):
                             for j in range(i+1, len(txts)):
-                                if rg.group_type == RhymingType.END_RHYME:
-                                    g_s += engine.calculate_end_rhyme_score(txts[i], txts[j])
-                                elif rg.group_type == RhymingType.BEGIN_RHYME:
-                                    g_s += engine.calculate_begin_rhyme_score(txts[i], txts[j])
-                                else:
-                                    g_s += engine.calculate_inline_rhyme_score(txts[i], txts[j])
+                                if rg.group_type == RhymingType.END_RHYME: g_s += engine.calculate_end_rhyme_score(txts[i], txts[j])
+                                elif rg.group_type == RhymingType.BEGIN_RHYME: g_s += engine.calculate_begin_rhyme_score(txts[i], txts[j])
+                                else: g_s += engine.calculate_inline_rhyme_score(txts[i], txts[j])
                                 p_s += 1
-                        if p_s: r_total += g_s/p_s
-                        r_count += 1
-                    if r_count: score += (r_total/r_count) * weights["rhyme"]
-
-                # Custom Scores
+                        if p_s: r_tot += g_s/p_s
+                        r_cnt += 1
+                    if r_cnt: fit += (r_tot/r_cnt) * weights["rhyme"]
+                # Custom
                 for k, w in weights.items():
-                    if k != "rhyme":
-                        score += get_custom_score(genome, k) * w
-                return score
+                    if k == "rhyme": continue
+                    c_tot, c_cnt = 0, 0
+                    for part in project.song.parts:
+                        for l_idx, line in enumerate(part.lines):
+                            idx = genome.get(f"{part.name}:{l_idx}", 0)
+                            if idx < len(line.alternatives):
+                                c_tot += line.alternatives[idx].custom_scores.get(k, 0)
+                                c_cnt += 1
+                    if c_cnt: fit += (c_tot/c_cnt) * w
+                return fit
 
-            # Simple Random Search (Monte Carlo)
-            best_genome = {}
-            best_score = -1.0
-            
-            # Initialize random genome
+            best_genome, best_score = {}, -1.0
             structure = {}
             for part in project.song.parts:
                 for l_idx, line in enumerate(part.lines):
-                    # Only pick from created alternatives (skip 0/original usually if we have alts)
-                    count_alts = len(line.alternatives)
-                    if count_alts > 1:
-                        structure[f"{part.name}:{l_idx}"] = range(1, count_alts) # Exclude original
-                    else:
-                        structure[f"{part.name}:{l_idx}"] = [0]
+                    # Prefer picking from translations (index > 0) if they exist
+                    if len(line.alternatives) > 1: structure[f"{part.name}:{l_idx}"] = range(1, len(line.alternatives))
+                    else: structure[f"{part.name}:{l_idx}"] = [0]
 
             for _ in range(iterations):
-                current_genome = {k: random.choice(v) for k, v in structure.items()}
-                fitness = calculate_fitness(current_genome)
-                if fitness > best_score:
-                    best_score = fitness
-                    best_genome = current_genome
+                current = {k: random.choice(v) for k, v in structure.items()}
+                f = get_fitness(current)
+                if f > best_score: best_score, best_genome = f, current
             
-            result = f"Best Combination Found (Score: {best_score:.2f}):\n"
-            for k, alt_idx in best_genome.items():
+            # Save as Combination object
+            line_selections = {}
+            for k, idx in best_genome.items():
                 p_name, l_idx = k.split(":")
-                txt = get_text(best_genome, p_name, int(l_idx))
-                result += f"  {k}: {txt} (Alt {alt_idx})\n"
+                l_idx = int(l_idx)
+                target_p = next((p for p in project.song.parts if p.name == p_name), None)
+                if target_p: line_selections[k] = target_p.lines[l_idx].alternatives[idx].id
             
-            return [types.TextContent(type="text", text=result)]
-
-        elif name == "get_part_score":
-            project = manager.load_project(arguments["filepath"])
-            target_part = next((p for p in project.song.parts if p.name == arguments["part"]), None)
-            if not target_part: return [types.TextContent(type="text", text=f"Part '{arguments['part']}' not found")]
-            scores = [alt.rhyming_score for line in target_part.lines for alt in line.alternatives if not (alt.text == line.original_text and alt.is_final)]
-            avg_score = sum(scores) / len(scores) if scores else 0.0
-            result = f"Average rhyming score for part '{arguments['part']}': {avg_score:.2f}"
+            new_combo = Combination(
+                combination_id=str(random.randint(1000, 9999)),
+                line_selections=line_selections,
+                total_rhyming_score=best_score
+            )
+            manager.add_combination(project, new_combo)
+            manager.save_project(project, arguments["filepath"])
+            
+            res = f"Best Combination Found (ID: {new_combo.combination_id}, Score: {best_score:.2f}):\n"
+            for k, idx in best_genome.items():
+                res += f"  {k}: {get_text_from_genome(best_genome, k.split(':')[0], int(k.split(':')[1]))} (Alt {idx})\n"
+            res += "\nUse apply_combination to make this the active version."
+            return [types.TextContent(type="text", text=res)]
 
         elif name == "dump_project":
             project = manager.load_project(arguments["filepath"])
@@ -662,40 +675,27 @@ async def call_tool(name: str, arguments: Any) -> list[types.TextContent]:
             
             if part_name:
                 target_part = next((p for p in project.song.parts if p.name == part_name), None)
-                if not target_part:
-                    return [types.TextContent(type="text", text=f"Part '{part_name}' not found in project")]
-
+                if not target_part: return [types.TextContent(type="text", text=f"Part '{part_name}' not found")]
                 result = f"[{target_part.name}]\n"
                 for line_idx, line in enumerate(target_part.lines):
                     syl_str = f" [{line.syllable_count} syl]" if line.syllable_count is not None else ""
-                    result += f"  {line_idx+1}. {line.original_text}{syl_str}\n"
-                    if line.metadata:
-                        result += f"      Metadata: {line.metadata}\n"
-                    if len(line.alternatives) > 1:
-                        result += "      Alternatives:\n"
-                        for alt_idx, alt in enumerate(line.alternatives[1:], 1):  # Skip original
-                            result += f"        {alt_idx}. {alt.text} [Score: {alt.rhyming_score:.2f}]\n"
-                            if alt.custom_scores:
-                                result += f"            Custom scores: {alt.custom_scores}\n"
+                    # Mark active with *
+                    for alt_idx, alt in enumerate(line.alternatives):
+                        prefix = "  *" if alt.is_final else "   "
+                        result += f"{prefix} {line_idx+1}.{alt_idx} {alt.text}{syl_str if alt_idx==0 else ''} [Score: {alt.rhyming_score:.2f}]\n"
             else:
                 result = f"Project: {project.metadata.get('title', 'Untitled')}\n"
                 result += "=" * 50 + "\n"
-                result += f"\nParts ({len(project.song.parts)}):\n"
                 for p in project.song.parts:
-                    attrs = ', '.join([f"{k}:{v}" for k, v in p.attributes.items()])
-                    attr_str = f" ({attrs})" if attrs else ""
-                    result += f"\n  {p.name}{attr_str}:\n"
+                    result += f"\n  {p.name}:\n"
                     for line_idx, line in enumerate(p.lines):
+                        # Show active one
+                        active_txt = manager.get_active_text(project, p.name, line_idx)
                         syl_str = f" [{line.syllable_count} syl]" if line.syllable_count is not None else ""
-                        result += f"    {line_idx+1}. {line.original_text}{syl_str}\n"
-                        if len(line.alternatives) > 1:
-                            for alt in line.alternatives[1:]:
-                                result += f"       ~ {alt.text} [Score: {alt.rhyming_score:.2f}]\n"
-
-                if project.rhyming_groups:
-                    result += f"\nRhyming Groups ({len(project.rhyming_groups)}):\n"
-                    for rg in project.rhyming_groups:
-                        result += f"  {rg.group_id} ({rg.group_type.value}): {len(rg.member_lines)} lines\n"
+                        result += f"    {line_idx+1}. {active_txt}{syl_str}\n"
+                
+                if project.combinations:
+                    result += "\nCombinations: " + ", ".join([c.combination_id for c in project.combinations]) + "\n"
 
         elif name == "remove_line":
             project = manager.load_project(arguments["filepath"])
