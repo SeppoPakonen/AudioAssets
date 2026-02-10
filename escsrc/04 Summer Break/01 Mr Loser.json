@@ -1,0 +1,1416 @@
+{
+  "id": "b339d7f0-651b-4aea-87b4-9dd0d900de13",
+  "metadata": {
+    "title": "Mr Loser",
+    "version": "1.0",
+    "created": "2026-02-09T23:16:46.098129"
+  },
+  "song": {
+    "id": "9fdee7bd-4569-41db-8121-4dae59e9468a",
+    "title": "Mr Loser",
+    "parts": [
+      {
+        "id": "69253268-c4d9-4380-9634-c1d80ac80879",
+        "name": "Intro",
+        "attributes": {
+          "style": "singing"
+        },
+        "lines": [
+          {
+            "id": "07f102b2-b0bd-4274-8180-adf4681716bc",
+            "original_text": "Hei hei",
+            "position": 0,
+            "rhyming_groups": [
+              "Intro_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "da9c1f88-4c26-4567-a2b2-03dc64e91581",
+                "text": "Hei hei",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Hey now",
+                "is_final": false
+              },
+              {
+                "text": "Welcome",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "19be650d-ebcb-487c-a013-42e350425a2d",
+            "original_text": "Hei hei taas",
+            "position": 1,
+            "rhyming_groups": [
+              "Intro_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "b986d94a-ede3-4383-b3b1-b50181535bf3",
+                "text": "Hei hei taas",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Hey now, once again",
+                "is_final": false
+              },
+              {
+                "text": "Welcome back to me",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "527fc943-59da-4bf3-a303-188823679407",
+        "name": "Instrumental",
+        "attributes": {
+          "style": "instrumental"
+        },
+        "lines": [
+          {
+            "id": "d6ce2193-aafc-4deb-9a4c-6b9d2d5ca9c2",
+            "original_text": "(oo-oo)",
+            "position": 0,
+            "rhyming_groups": [],
+            "alternatives": [
+              {
+                "id": "aacf2d3d-6b96-49ef-bfe8-9ed52b340310",
+                "text": "(oo-oo)",
+                "rhyming_score": 0.0,
+                "is_final": true
+              }
+            ],
+            "skip_translation": true
+          },
+          {
+            "id": "cc03825f-dd2a-498e-9519-bb963b7ef7cd",
+            "original_text": "(oo-oo)",
+            "position": 1,
+            "rhyming_groups": [],
+            "alternatives": [
+              {
+                "id": "9ca5c225-b042-4e18-b589-afa7995d7fc4",
+                "text": "(oo-oo)",
+                "rhyming_score": 0.0,
+                "is_final": true
+              }
+            ],
+            "skip_translation": true
+          },
+          {
+            "id": "c15392b6-72a3-4b73-9021-ac21b1a1ba69",
+            "original_text": "(oo-oo)",
+            "position": 2,
+            "rhyming_groups": [],
+            "alternatives": [
+              {
+                "id": "d4b39125-2167-4091-a63b-106517ab0e6a",
+                "text": "(oo-oo)",
+                "rhyming_score": 0.0,
+                "is_final": true
+              }
+            ],
+            "skip_translation": true
+          },
+          {
+            "id": "8aa0d080-0dda-41df-b7a4-81c5363c7f2a",
+            "original_text": "(oo-oo)",
+            "position": 3,
+            "rhyming_groups": [],
+            "alternatives": [
+              {
+                "id": "ea44469a-17a1-4bef-8e08-a230f78bef96",
+                "text": "(oo-oo)",
+                "rhyming_score": 0.0,
+                "is_final": true
+              }
+            ],
+            "skip_translation": true
+          }
+        ]
+      },
+      {
+        "id": "e8375b17-0af4-40bd-adef-6c36dff0151d",
+        "name": "Verse 1",
+        "attributes": {
+          "style": "singing"
+        },
+        "lines": [
+          {
+            "id": "40806de4-91fb-4122-a0f1-b8089a4bcc7f",
+            "original_text": "Tuuli lehtii keinuttaa, ne auringossa kasvaa",
+            "position": 0,
+            "rhyming_groups": [
+              "Verse_1_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "9f76672e-e8ca-4ee2-b496-7871155ad787",
+                "text": "Tuuli lehtii keinuttaa, ne auringossa kasvaa",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Breeze will sway the fallen leaves",
+                "is_final": false
+              },
+              {
+                "text": "Softly wind is blowing",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "3ca4f971-bc99-4c5b-8e37-8495623dd0db",
+            "original_text": "Sinitaivas, linnutkin, ne hengen multa noutaa",
+            "position": 1,
+            "rhyming_groups": [
+              "Verse_1_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "6f7eca42-2dc5-4c2b-9733-6e420a67ba15",
+                "text": "Sinitaivas, linnutkin, ne hengen multa noutaa",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "they grow within the sunlight",
+                "is_final": false
+              },
+              {
+                "text": "Sunlight starts its growing",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b25d655e-f5cc-441b-8754-53663ef41477",
+        "name": "Prechorus 1",
+        "attributes": {
+          "style": "singing"
+        },
+        "lines": [
+          {
+            "id": "752b3eaa-8620-491a-abf3-9c0fdd8c0343",
+            "original_text": "On rauha ja rakkaus",
+            "position": 0,
+            "rhyming_groups": [
+              "Prechorus_1_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "997e9f0f-24ae-4a4c-9d6a-4e34fa7e2926",
+                "text": "On rauha ja rakkaus",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "There is peace and there is love",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "9b7b2ea4-2074-4426-8be4-159721d47428",
+            "original_text": "Ei turhaa oo mun luottamus",
+            "position": 1,
+            "rhyming_groups": [
+              "Prechorus_1_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "c168fbac-05f5-4412-8031-abb220d8ffdc",
+                "text": "Ei turhaa oo mun luottamus",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Not in vain is my own trust now",
+                "is_final": false
+              },
+              {
+                "text": "Never empty is all my faith",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "f6306b18-9145-4dba-afa2-464d2cc8398c",
+            "original_text": "Tää tuntuu kuin taivaalta",
+            "position": 2,
+            "rhyming_groups": [
+              "Prechorus_1_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "5073dde9-08d9-4fb2-b877-61e213441057",
+                "text": "Tää tuntuu kuin taivaalta",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "This feels like it's heavenly",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "79e5681e-c91e-422b-98cf-eb006e597223",
+            "original_text": "Jota jäin kaipaamaan",
+            "position": 3,
+            "rhyming_groups": [
+              "Prechorus_1_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "a65e29dc-243f-4170-92fe-177aa7132f54",
+                "text": "Jota jäin kaipaamaan",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Which I came to long for",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "908dbbc4-0259-4046-ba46-a20496c22518",
+            "original_text": "Ilman omaa (rakasta)",
+            "position": 4,
+            "rhyming_groups": [],
+            "alternatives": [
+              {
+                "id": "b6049dde-84b3-435a-8136-a7488401c733",
+                "text": "Ilman omaa (rakasta)",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Without my own (precious one)",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8c3473f0-56b1-4257-ad69-f113815fed61",
+        "name": "Chorus",
+        "attributes": {
+          "style": "singing"
+        },
+        "lines": [
+          {
+            "id": "632dcf44-4781-452b-953b-fb0a2ca8d682",
+            "original_text": "Hei taas, kohtalo on kadota",
+            "position": 0,
+            "rhyming_groups": [
+              "Chorus_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "05fa3e70-1458-4e2c-8be2-70eff8b9a74c",
+                "text": "Hei taas, kohtalo on kadota",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Hey now, destiny is to dissolve",
+                "is_final": false
+              },
+              {
+                "text": "Hey now, promises I cannot keep",
+                "is_final": false
+              },
+              {
+                "text": "Welcome, destiny is to dissolve",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "5fb4e8db-b4a7-4bd5-be19-b5d17dfc05a0",
+            "original_text": "Kotona",
+            "position": 1,
+            "rhyming_groups": [
+              "Chorus_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "ea190c7e-80a7-4b8f-ae2f-0a0a7d823d16",
+                "text": "Kotona",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Staying home",
+                "is_final": false
+              },
+              {
+                "text": "Go to sleep",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "80fd8d2b-955b-4214-b58a-11d92f7ed6a4",
+            "original_text": "Hei taas, täytyy jäädä olemaan",
+            "position": 2,
+            "rhyming_groups": [
+              "Chorus_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "15eafefe-bd17-4f1f-958f-a401c1c85496",
+                "text": "Hei taas, täytyy jäädä olemaan",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Hey now, I must remain as I am",
+                "is_final": false
+              },
+              {
+                "text": "Hey now, into silence I will creep",
+                "is_final": false
+              },
+              {
+                "text": "Welcome, into silence I will creep",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "e9217f6d-8bd3-4838-bea8-ae8a2411edbc",
+            "original_text": "Vain kotona",
+            "position": 3,
+            "rhyming_groups": [
+              "Chorus_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "5d38255a-e12b-42bd-925a-ce39b964d0bd",
+                "text": "Vain kotona",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Just staying home",
+                "is_final": false
+              },
+              {
+                "text": "Just go to sleep",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "2ff59d14-8cf8-4035-97e0-42719942d0b3",
+            "original_text": "Hei taas, kohtalo on kadota",
+            "position": 4,
+            "rhyming_groups": [
+              "Chorus_AABB_4_5"
+            ],
+            "alternatives": [
+              {
+                "id": "cc868fba-0962-4190-9697-9879e3a81011",
+                "text": "Hei taas, kohtalo on kadota",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Hey now, destiny is to dissolve",
+                "is_final": false
+              },
+              {
+                "text": "Hey now, promises I cannot keep",
+                "is_final": false
+              },
+              {
+                "text": "Welcome, destiny is to dissolve",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "5ade7a5e-0171-435a-9db9-5e64aef8c313",
+            "original_text": "Kotona",
+            "position": 5,
+            "rhyming_groups": [
+              "Chorus_AABB_4_5"
+            ],
+            "alternatives": [
+              {
+                "id": "c7af106a-be9f-4541-8a44-f36f6aa1a078",
+                "text": "Kotona",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Staying home",
+                "is_final": false
+              },
+              {
+                "text": "Go to sleep",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "4392d630-5365-46a6-9bc7-0eb7a2f21bfe",
+            "original_text": "Hei taas, täytyy jäädä olemaan",
+            "position": 6,
+            "rhyming_groups": [
+              "Chorus_AABB_6_7"
+            ],
+            "alternatives": [
+              {
+                "id": "e0a7cfab-6c57-4b60-ad06-f43b9da29551",
+                "text": "Hei taas, täytyy jäädä olemaan",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Hey now, I must remain as I am",
+                "is_final": false
+              },
+              {
+                "text": "Hey now, into silence I will creep",
+                "is_final": false
+              },
+              {
+                "text": "Welcome, into silence I will creep",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "67ca3c28-297e-4baf-92f8-cb69b16d461c",
+            "original_text": "Vain kotona",
+            "position": 7,
+            "rhyming_groups": [
+              "Chorus_AABB_6_7"
+            ],
+            "alternatives": [
+              {
+                "id": "09c2aa95-de94-4986-ac09-1956fa539b70",
+                "text": "Vain kotona",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Just staying home",
+                "is_final": false
+              },
+              {
+                "text": "Just go to sleep",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3eefa7d6-0e4a-4077-be2e-9dbe6fafdb31",
+        "name": "Verse 2",
+        "attributes": {
+          "style": "singing"
+        },
+        "lines": [
+          {
+            "id": "2e7eb8ff-675f-448e-b5e4-c101f78180c8",
+            "original_text": "Iltapäiväaurinko, sen valo mut nyt löytää",
+            "position": 0,
+            "rhyming_groups": [
+              "Verse_2_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "fb9d7a76-0867-43bd-a983-dd532aa7425c",
+                "text": "Iltapäiväaurinko, sen valo mut nyt löytää",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Afternoontime sunlight shines",
+                "is_final": false
+              },
+              {
+                "text": "Sun of afternoon shines",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "520da158-6984-4ee3-a040-8d254c9eae53",
+            "original_text": "Pilvet liikkui ohi jo, hetki tää väsyttää",
+            "position": 1,
+            "rhyming_groups": [
+              "Verse_2_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "55c7dad1-e90a-42ab-b87f-3c42d7894ca5",
+                "text": "Pilvet liikkui ohi jo, hetki tää väsyttää",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "light finds me even now",
+                "is_final": false
+              },
+              {
+                "text": "Showing all the signs",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9aa8f174-62eb-45e5-ba99-e86fd218bd8a",
+        "name": "Prechorus 2",
+        "attributes": {
+          "style": "singing"
+        },
+        "lines": [
+          {
+            "id": "a3a2b644-771a-4a5e-92fd-5ab965a250d4",
+            "original_text": "On elämällä tarkoitus",
+            "position": 0,
+            "rhyming_groups": [
+              "Prechorus_2_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "cc368d8e-b037-4c11-b9c9-c0a91ef84819",
+                "text": "On elämällä tarkoitus",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Does life have a purpose after all",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "c457ccc6-dd18-45ba-b621-cfab6a2d2012",
+            "original_text": "Ei oo kellään suuri vaatimus",
+            "position": 1,
+            "rhyming_groups": [
+              "Prechorus_2_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "b3667855-2f4f-4afc-8a9f-fbb4e87ca8f5",
+                "text": "Ei oo kellään suuri vaatimus",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "No one makes a heavy demand now",
+                "is_final": false
+              },
+              {
+                "text": "No one makes a heavy demand here",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "f6d7fc60-f29b-4b38-a32b-fdf060201427",
+            "original_text": "Tää tuntuu kuin taivaalta",
+            "position": 2,
+            "rhyming_groups": [
+              "Prechorus_2_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "99603e35-cd75-4035-b1d9-ac483c11aabd",
+                "text": "Tää tuntuu kuin taivaalta",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "This feels like it's heavenly",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "afb0b048-42e5-4af1-97ee-1b958bfa423d",
+            "original_text": "Johon tahdon päästä",
+            "position": 3,
+            "rhyming_groups": [
+              "Prechorus_2_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "aa857af1-7b14-4119-a4c8-5dbde365eaf6",
+                "text": "Johon tahdon päästä",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Where I want to enter",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "a0c19c7b-32ea-44ba-b9ae-fdfaf2a6fd0a",
+            "original_text": "Ensi yönä (viimeistään)",
+            "position": 4,
+            "rhyming_groups": [],
+            "alternatives": [
+              {
+                "id": "ed926164-1f5a-4912-b279-78228559ed42",
+                "text": "Ensi yönä (viimeistään)",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Latest by the coming night",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23083015-f85f-41bd-b81b-798b3e9af2db",
+        "name": "Bridge",
+        "attributes": {
+          "style": "singing"
+        },
+        "lines": [
+          {
+            "id": "3dc0ab1c-6f80-4452-a0d7-173498b50cba",
+            "original_text": "Mä en tiedä, miks täytyy jäädä",
+            "position": 0,
+            "rhyming_groups": [
+              "Bridge_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "bc9d1c53-5840-48e5-ab83-1451c0af2c4b",
+                "text": "Mä en tiedä, miks täytyy jäädä",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "I do not know, why I must remain",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "85a3066e-fa05-48b5-b000-f9b09d5324f6",
+            "original_text": "Mut parempi on näin",
+            "position": 1,
+            "rhyming_groups": [
+              "Bridge_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "75ceee5f-1181-4423-8a34-08975ff58f81",
+                "text": "Mut parempi on näin",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "But it's better this way",
+                "is_final": false
+              },
+              {
+                "text": "But I cannot complain",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "608290fa-02e4-4103-ae06-88d3f1d78daf",
+            "original_text": "Kuuletko mua, kun kutsun sua",
+            "position": 2,
+            "rhyming_groups": [
+              "Bridge_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "564c6e1e-d7a6-4c0b-871c-fa2064413647",
+                "text": "Kuuletko mua, kun kutsun sua",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Do you hear me, when I call for you",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "9d6104d3-3112-4829-865b-899b3d9dfb52",
+            "original_text": "Milloin tavataan uudestaan?",
+            "position": 3,
+            "rhyming_groups": [
+              "Bridge_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "c55d887f-63db-479b-99eb-5d29a1d8bdd3",
+                "text": "Milloin tavataan uudestaan?",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "When shall we meet each other again?",
+                "is_final": false
+              },
+              {
+                "text": "When will we ever meet anew?",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9ac1e5d9-4869-4c81-84ec-ea418a040c3a",
+        "name": "Outro",
+        "attributes": {
+          "style": "singing"
+        },
+        "lines": [
+          {
+            "id": "7d13fa5e-bdf5-439e-bea9-c7eb1152bd87",
+            "original_text": "Tavataanko milloinkaan?",
+            "position": 0,
+            "rhyming_groups": [
+              "Outro_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "971b4128-d8f7-40fe-933e-adddb4e5753b",
+                "text": "Tavataanko milloinkaan?",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Shall we ever meet again?",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "877924bb-e055-4a69-bfa7-ad4e48bbf63f",
+            "original_text": "Ennen loppua?",
+            "position": 1,
+            "rhyming_groups": [
+              "Outro_AABB_0_1"
+            ],
+            "alternatives": [
+              {
+                "id": "cc792b9b-724a-40ba-9552-4fab0147c2a1",
+                "text": "Ennen loppua?",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Ere the final end?",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "9f082c15-5e83-4426-9a38-b541240c69a1",
+            "original_text": "Tavataanko milloinkaan?",
+            "position": 2,
+            "rhyming_groups": [
+              "Outro_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "16109f99-ab60-4fb9-9817-3964c7a87ca9",
+                "text": "Tavataanko milloinkaan?",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Shall we ever meet again?",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "86dd6d20-bb62-446e-ac1d-09a3b64a12cc",
+            "original_text": "Kuin pisarat joessa",
+            "position": 3,
+            "rhyming_groups": [
+              "Outro_AABB_2_3"
+            ],
+            "alternatives": [
+              {
+                "id": "d38b01a5-ea1d-4c46-9ea9-12bd422d0ceb",
+                "text": "Kuin pisarat joessa",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Like the droplets in the stream",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "9282b107-43a8-4c4e-b402-b74d74f613b0",
+            "original_text": "Missä sä oot?",
+            "position": 4,
+            "rhyming_groups": [
+              "Outro_AABB_4_5"
+            ],
+            "alternatives": [
+              {
+                "id": "079dafe1-0b2a-4e4d-97bc-5d89de3403fd",
+                "text": "Missä sä oot?",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Where are you now?",
+                "is_final": false
+              },
+              {
+                "text": "Where have you gone?",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "354cc767-f6fb-4d8a-9fd6-008bb7fddfff",
+            "original_text": "Mä kaipaan sua jo",
+            "position": 5,
+            "rhyming_groups": [
+              "Outro_AABB_4_5"
+            ],
+            "alternatives": [
+              {
+                "id": "36c7c7ba-2835-439f-a898-ac2a7e950724",
+                "text": "Mä kaipaan sua jo",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "I miss you so much",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "cb014ee4-baa1-4f2d-bb5d-de1b9e8017c2",
+            "original_text": "Mä toivon että sut nään",
+            "position": 6,
+            "rhyming_groups": [
+              "Outro_AABB_6_7"
+            ],
+            "alternatives": [
+              {
+                "id": "52c69fc4-bb06-44e4-90e0-d91ab37bcf8c",
+                "text": "Mä toivon että sut nään",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "I hope that I will see you",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "id": "39b6e31d-3839-4ace-94be-12985649ed02",
+            "original_text": "Vaikka valona yöllä",
+            "position": 7,
+            "rhyming_groups": [
+              "Outro_AABB_6_7"
+            ],
+            "alternatives": [
+              {
+                "id": "738aacbc-f13e-4e8c-97f9-68048aaecab3",
+                "text": "Vaikka valona yöllä",
+                "rhyming_score": 0.0,
+                "is_final": false
+              },
+              {
+                "text": "Even as light in the night",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Verse 1 (Split)",
+        "lines": [
+          {
+            "original_text": "Tuuli lehtii keinuttaa",
+            "syllable_count": 6,
+            "alternatives": [
+              {
+                "text": "Breeze will sway the leaves now",
+                "is_final": false
+              },
+              {
+                "text": "Breeze will sway the fallen leaves",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "original_text": "ne auringossa kasvaa",
+            "syllable_count": 7,
+            "alternatives": [
+              {
+                "text": "they grow within the sunlight",
+                "is_final": false
+              },
+              {
+                "text": "they grow in the sun's gold ray",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "original_text": "Sinitaivas, linnutkin",
+            "syllable_count": 6,
+            "alternatives": [
+              {
+                "text": "Blue of heaven, birds too",
+                "is_final": false
+              },
+              {
+                "text": "Blue of heaven, even birds",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "original_text": "ne hengen multa noutaa",
+            "syllable_count": 7,
+            "alternatives": [
+              {
+                "text": "they find the soul in the night",
+                "is_final": false
+              },
+              {
+                "text": "they fetch the soul from the clay",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Verse 2 (Split)",
+        "lines": [
+          {
+            "original_text": "Iltapäiväaurinko",
+            "syllable_count": 7,
+            "alternatives": [
+              {
+                "text": "Afternoontime sunlight shines",
+                "is_final": false
+              },
+              {
+                "text": "Afternoontime sunlight glows",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "original_text": "sen valo mut nyt löytää",
+            "syllable_count": 6,
+            "alternatives": [
+              {
+                "text": "its light finds me even now",
+                "is_final": false
+              },
+              {
+                "text": "its light finds me even here",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "original_text": "Pilvet liikkui ohi jo",
+            "syllable_count": 7,
+            "alternatives": [
+              {
+                "text": "Showing all the fated signs",
+                "is_final": false
+              },
+              {
+                "text": "Clouds are drifting as it goes",
+                "is_final": true
+              }
+            ]
+          },
+          {
+            "original_text": "hetki tää väsyttää",
+            "syllable_count": 6,
+            "alternatives": [
+              {
+                "text": "this moment makes me tired now",
+                "is_final": false
+              },
+              {
+                "text": "moment makes the end so near",
+                "is_final": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rhyming_groups": [
+    {
+      "group_id": "Intro_AABB_0_1",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Intro",
+          "line_position": 0
+        },
+        {
+          "part_name": "Intro",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Verse_1_AABB_0_1",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Verse 1",
+          "line_position": 0
+        },
+        {
+          "part_name": "Verse 1",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Prechorus_1_AABB_0_1",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Prechorus 1",
+          "line_position": 0
+        },
+        {
+          "part_name": "Prechorus 1",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Prechorus_1_AABB_2_3",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Prechorus 1",
+          "line_position": 2
+        },
+        {
+          "part_name": "Prechorus 1",
+          "line_position": 3
+        }
+      ]
+    },
+    {
+      "group_id": "Chorus_AABB_0_1",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Chorus",
+          "line_position": 0
+        },
+        {
+          "part_name": "Chorus",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Chorus_AABB_2_3",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Chorus",
+          "line_position": 2
+        },
+        {
+          "part_name": "Chorus",
+          "line_position": 3
+        }
+      ]
+    },
+    {
+      "group_id": "Chorus_AABB_4_5",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Chorus",
+          "line_position": 4
+        },
+        {
+          "part_name": "Chorus",
+          "line_position": 5
+        }
+      ]
+    },
+    {
+      "group_id": "Chorus_AABB_6_7",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Chorus",
+          "line_position": 6
+        },
+        {
+          "part_name": "Chorus",
+          "line_position": 7
+        }
+      ]
+    },
+    {
+      "group_id": "Verse_2_AABB_0_1",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Verse 2",
+          "line_position": 0
+        },
+        {
+          "part_name": "Verse 2",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Prechorus_2_AABB_0_1",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Prechorus 2",
+          "line_position": 0
+        },
+        {
+          "part_name": "Prechorus 2",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Prechorus_2_AABB_2_3",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Prechorus 2",
+          "line_position": 2
+        },
+        {
+          "part_name": "Prechorus 2",
+          "line_position": 3
+        }
+      ]
+    },
+    {
+      "group_id": "Bridge_AABB_0_1",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Bridge",
+          "line_position": 0
+        },
+        {
+          "part_name": "Bridge",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Bridge_AABB_2_3",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Bridge",
+          "line_position": 2
+        },
+        {
+          "part_name": "Bridge",
+          "line_position": 3
+        }
+      ]
+    },
+    {
+      "group_id": "Outro_AABB_0_1",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Outro",
+          "line_position": 0
+        },
+        {
+          "part_name": "Outro",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Outro_AABB_2_3",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Outro",
+          "line_position": 2
+        },
+        {
+          "part_name": "Outro",
+          "line_position": 3
+        }
+      ]
+    },
+    {
+      "group_id": "Outro_AABB_4_5",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Outro",
+          "line_position": 4
+        },
+        {
+          "part_name": "Outro",
+          "line_position": 5
+        }
+      ]
+    },
+    {
+      "group_id": "Outro_AABB_6_7",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Outro",
+          "line_position": 6
+        },
+        {
+          "part_name": "Outro",
+          "line_position": 7
+        }
+      ]
+    },
+    {
+      "group_id": "Verse_1_Begin_0_1",
+      "group_type": "BEGIN_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Verse 1",
+          "line_position": 0
+        },
+        {
+          "part_name": "Verse 1",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Verse_2_Begin_0_1",
+      "group_type": "BEGIN_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Verse 2",
+          "line_position": 0
+        },
+        {
+          "part_name": "Verse 2",
+          "line_position": 1
+        }
+      ]
+    },
+    {
+      "group_id": "Verse_1_Split_ABAB_0_2",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Verse 1 (Split)",
+          "line_position": 0
+        },
+        {
+          "part_name": "Verse 1 (Split)",
+          "line_position": 2
+        }
+      ]
+    },
+    {
+      "group_id": "Verse_1_Split_ABAB_1_3",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Verse 1 (Split)",
+          "line_position": 1
+        },
+        {
+          "part_name": "Verse 1 (Split)",
+          "line_position": 3
+        }
+      ]
+    },
+    {
+      "group_id": "Verse_2_Split_ABAB_0_2",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Verse 2 (Split)",
+          "line_position": 0
+        },
+        {
+          "part_name": "Verse 2 (Split)",
+          "line_position": 2
+        }
+      ]
+    },
+    {
+      "group_id": "Verse_2_Split_ABAB_1_3",
+      "group_type": "END_RHYME",
+      "member_lines": [
+        {
+          "part_name": "Verse 2 (Split)",
+          "line_position": 1
+        },
+        {
+          "part_name": "Verse 2 (Split)",
+          "line_position": 3
+        }
+      ]
+    }
+  ],
+  "combinations": [
+    {
+      "id": "9852",
+      "selections": {}
+    }
+  ],
+  "active_combination_id": "9852"
+}
