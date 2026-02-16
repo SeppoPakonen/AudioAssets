@@ -37,7 +37,90 @@ The song structure is verse-chorus based, with a clear distinction between the m
 
 ## Lyrics
 
-### Finnish
+### Finnish V2
+Title: Feng Shui
+```
+[Chorus: female singing]
+Sun Feng Shui on kohdallaan
+Sun Feng Shui on kohdallaan
+
+[Verse 1: male rapping]
+Mä nään vain sut, kun huoneeseen astut
+Sun muuvit on kuin tanssi tarkkaan harkittu
+Valo sun kasvoilla, oikeessa kulmassa
+saa tuntuun et sun paikka ei oo arjessa
+
+Vaatteet ja ryhti yksinomaa parasta
+Oot kuin suoraan seinän taulusta
+Ja aikaa menee vaikutelman luomiseen
+Jota melun keskel katselee ja pää hiljenee
+
+Saanko ottaa kuvan, et voin paremmin katsoa
+Ei oo säröjä sussa, etkä silmii kiusaa
+Oot kuin arkkitehtuurii, linjakasta pintaa
+Ja mun puhuminen pilaa kai sun tunnelmaa
+
+Katot ohi peiliin taas, muutat huoneen energiaa
+Tasapainotat varjoja ja valoa
+Jokainen katse saa tuntemaan
+Mä oon vain vierailija sun maailmassa
+
+[Chorus: female singing]
+Sun Feng Shui on kohdallaan
+Muttet vain tee kuin mun dekora
+Sä et jaa kauneutta
+
+[Verse 1: male rapping]
+Feng Shui on kunnossa, mut en saa happea
+En löydä mitään tutta, virhettä tai sotkua
+Miltä näytät kun sua ei katsota?
+Onko viileys aitoa vai muuri sun suojana?
+
+Joo sä elämää koristat, mut kaipaan kumppania
+En itsekästä kauneutta, yksinään loistamas
+Mä tarjoan kaiken mutta ilmees pysyy samana
+Voisin pörröttää sun hiuksee, rikkoo kuvan vakavan
+
+Vaik samassa tilassa oot nii et oo täällä
+Et mitään kerro, mut jotain nyt on päällä
+Onko tää tyhjyyttä pinnan alla
+Ihailen kuvaas mut väsyn ilman vastakaikua
+
+Rakkaus ei oo pelkkää katsomista
+Sun maski pysyy vaik huutaisin apua
+Mä tajuan et haluut omaa harmoniaa
+Ja jään sua taas vain katsomaan
+
+
+[Chorus: female singing]
+Sun Feng Shui on kohdallaan
+Muttet vain tee kuin mun dekora
+Sä et jaa kauneutta
+
+[Bridge: female singing]
+Sä katsot mua kuin peilikuvaa
+Heijastat muhun sun unelmaa
+Mut mä haluun et opit mut tuntemaan
+Rikkomalla mut se heräät taas
+
+[Chorus: female singing]
+Sun Feng Shui on kohdallaan
+Muttet vain tee kuin mun dekora
+Sä et jaa kauneutta
+
+[Chorus: female singing]
+Feng Shui on kohdallaan
+Muttet vain tee kuin mun dekora
+Sä et jaa kauneutta
+
+[Chorus: female singing]
+Feng Shui (mm)
+Sun feng Shui (mm)
+On kohdallaan
+
+```
+
+### Finnish V1
 Title: Feng Shui
 ```
 [Chorus: female singing]

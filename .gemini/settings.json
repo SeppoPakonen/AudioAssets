@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "rhyme-calculator": {
+      "command": "python3",
+      "args": [
+        "/common/active/sblo/Dev/AudioAssets/src/rhyme_calculator_mcp.py"
+      ],
+      "trust": true
+    }
+  }
+}

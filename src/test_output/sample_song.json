@@ -1,0 +1,16 @@
+{
+  "id": "1394d782-3f77-48ea-8713-d862c0cb94ac",
+  "metadata": {
+    "title": "Sample Song",
+    "version": "1.0",
+    "created": "2026-02-09T22:55:28.513820"
+  },
+  "song": {
+    "id": "e95ec097-0ede-411c-8060-9ea91be72a7b",
+    "title": "Sample Song",
+    "parts": []
+  },
+  "rhyming_groups": [],
+  "combinations": [],
+  "active_combination_id": null
+}

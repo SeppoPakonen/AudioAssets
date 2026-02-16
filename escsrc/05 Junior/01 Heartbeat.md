@@ -50,17 +50,17 @@ Jälleen satuttaa
 Meidän piti selvii kaikest ja pysyy yhes aina
 mut jotain puuttui myös päivinä parhaina
 Mun järki sanoo yhtä ja tunteet toista
-Enkä muista hetkee kun tunteet alko oleen poissa
-Mä mietin sua taas, mietin vaik en halua
+yhes ne kuiskaa mun varjoista <---------------------------------------korjattu
+Hei, mä mietin sua taas, mietin vaik en halua
 Se helpottaa vaik syyllisyys painaa mun oloa
 Oon yrittänyt ollaa ookoo, ja esittää vahvaa
 Mut tajuun nyt vasta, et pysytään erossa
 
 [Verse 2, male rapping]
-Shokki meni ohi, ja mietin omii tekoi
+Shokki meni ohi, ja katon omii tekoi <---------------------------------------korjattu
 Mä en voi sun piikkii laittaa sitä mitä sanoin
-Mun hiljaisuus vääril hetkil kipuu toi
-Uudelleen toistui, kun virhettä en myöntää voi
+Mun hiljaisuus vääril hetkil jotain rikkoi <---------------------------------------korjattu
+kun liikaa arvioin, ja sydän ei laskelmoi <---------------------------------------korjattu
 Vaikka välitin mä näytin sen vain huonosti
 Eikä aikomus auta jos se satuttaa silti
 Kai mä halusin enemmän rauhaa kuin rakkautta (rakkautta)
@@ -79,8 +79,8 @@ Jälleen satuttaa
 [Verse 3, male rapping]
 Ikävä ei oo nyt mutta takas se aaltoilee
 kun muistan hyvät hetket muiston kullastuneen
-Mä haluisin jutella, mut sua ei se kiinnosta
-Jäi kesken asiat, sen hyväksyn mut vituttaa
+Mä haluisin jutella, mut sua ei kiinnosta
+Ja huomaan roikkuvani vielä toivossa <---------------------------------------korjattu
 Tarvii tajuta, et kaipaan ilman tarkotusta
 Pelkään et kannan eron tuskaa ikuista
 En etsi syyllistä, mut haluun selittää
@@ -93,8 +93,8 @@ En lupaa olla parempi, mut vähän tietosempi
 Ja jotkut rajat opin, pysyn hiljaa enkä mieti
 Silti suru valtaa uudestaan, vaik heikompana
 Haluun sänkyyn takas, ilman et erotaan
-Ku en aijo erakoitua, en uusi tappiota
-eikä turhaa tää ollu, näin opitaan
+Ku en aio erakoitua, en palata samaan <---------------------------------------korjattu
+enkä väitä et voitin, mut jotain opin taas <---------------------------------------korjattu
 
 [Chorus, female singing]
 En tahtonut tapella
@@ -211,3 +211,9 @@ But no matter how much we love, we still hurt and miss again.
 It hurts—ah, ah, ah.
 However much we love, we still hurt again.
 ```
+
+
+
+## Message
+Sydämen Asialla 🎤 Marraskuussa 2006 tein erobiisin ja perustin 3. bändin nimeltään PMS (=Prio, Milja, Seppo), jonka kanssa julkaistiin eka biisi mikseri.netissä joulukuussa. Prio teki alkuperäiset verset, mutta ei antanut lupaa käyttää niitä nyt enää. Hän kuitenkin myönsi, että olin tehnyt alkuperäisen biisin erikseen, joten saan tehä tän loppuun 🖋 Tämä on alkuperäinen sävellys ja sanoitus, mut mun täyty täyttää puuttuvat räpit... 🫠​Tämä oli suht suosittu ja oli muutaman viikon mikserin suomi-hiphop listan kärjessä 💎 Kappale on 100% käsityötä. 🎛 Video on AI generoitu ja laulua on generoitu Suno AI:lla. 👉​S05E01
+
